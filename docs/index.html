@@ -9,8 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-            href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap"
-            rel="stylesheet">
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap"
+        rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @tailwind base;
@@ -21,475 +21,504 @@
             font-family: 'Space Grotesk', sans-serif;
         }
     </style>
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "pcf50fgp6g");
+    </script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
 
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyDNfTJ9M8Bd4ZmnpJ3ZHdJT_Hs9CTvd1Mw",
+          authDomain: "devbio1.firebaseapp.com",
+          projectId: "devbio1",
+          storageBucket: "devbio1.firebasestorage.app",
+          messagingSenderId: "205729381961",
+          appId: "1:205729381961:web:b3d6306656a5c93c068998",
+          measurementId: "G-FEX8NQ1BKV"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
 
 </head>
 
 <body class="bg-white">
-<!-- Navbar -->
-<nav class="fixed w-full bg-white/80 backdrop-blur-sm z-50 py-4">
-    <div class="container mx-auto px-4 flex items-center justify-between">
-        <div class="flex items-center gap-2 mr-7">
-            <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
-            <span class="text-xl font-bold">devb.io</span>
-        </div>
-        <div class="hidden md:flex items-center gap-6 md:gap-14">
-            <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
-            <a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a>
-            <a href="#connect" class="hover:text-lime-500 transition-colors">Connect</a>
-            <a href="#services" class="hover:text-lime-500 transition-colors">Services</a>
-            <a href="#people" class="hover:text-lime-500 transition-colors">People</a>
-            <!--            <a href="#" class="hover:text-lime-500 transition-colors">Contribute</a>-->
-            <a href="https://github.com/sunithvs/devb.io">
-                <button
-                        class="px-6 py-2 rounded-lg border-2 border-black hover:bg-[#191A23] hover:text-white transition-colors flex">
-                    <i data-lucide="github" class="w-6 h-6 mr-3"></i>
-                    Star Repo
-                </button>
-            </a>
-        </div>
-
-    </div>
-</nav>
-
-<!-- Hero Section -->
-<main class="min-h-screen px-10 pt-20 md:px-24 md:pt-32 pb-0">
-    <section  class="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">
-        <!-- Left Content -->
-        <div class="flex-1 space-y-6">
-            <h1 class="text-5xl md:text-6xl  leading-tight">
-                Effortless
-                <br>
-                Portfolios for
-                <br>
-                <span class="inline-block bg-[#B9FF66] px-4 py-2 my-5 rounded-lg">Developers</span>
-            </h1>
-            <p class="text-xl text-gray-600 ">
-                Your GitHub profile tells a story.
-                <br>
-                Let us help you narrate it
-            </p>
-            <div class="h-5">
-
+    <!-- Navbar -->
+    <nav class="fixed w-full bg-white/80 backdrop-blur-sm z-50 py-4">
+        <div class="container mx-auto px-4 flex items-center justify-between">
+            <div class="flex items-center gap-2 mr-7">
+                <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
+                <span class="text-xl font-bold">devb.io</span>
             </div>
-            <a href="connect">
-                <button class="px-8 py-3 bg-[#191A23] text-white rounded-lg hover:bg-gray-800 transition-colors">
-                    Create Your Portfolio Now
-                </button>
-            </a>
-        </div>
-
-        <!-- Right Illustration -->
-        <div class="flex-1 relative">
-            <div class="relative">
-                <img src="images/Illustration.svg" alt="Illustration" class="w-full rounded-2xl">
-
+            <div class="hidden md:flex items-center gap-6 md:gap-14">
+                <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
+                <a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a>
+                <a href="#connect" class="hover:text-lime-500 transition-colors">Connect</a>
+                <a href="#services" class="hover:text-lime-500 transition-colors">Services</a>
+                <a href="#people" class="hover:text-lime-500 transition-colors">People</a>
+                <!--            <a href="#" class="hover:text-lime-500 transition-colors">Contribute</a>-->
+                <a href="https://github.com/sunithvs/devb.io">
+                    <button
+                        class="px-6 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex">
+                        <i data-lucide="github" class="w-6 h-6 mr-3 "></i>
+                        Star Repo
+                    </button>
+                </a>
             </div>
+
         </div>
-    </section>
-    <!-- Services Section -->
-    <section id="why" class="py-10 md:pt-10 mt-10">
-        <div class="container md:mx-auto md:px-4">
+    </nav>
 
-            <!-- Services Grid -->
-            <div class="flex ">
-                <!-- Portfolio Generation -->
-                <div class=" flex flex-col md:flex-row items-center gap-12">
+    <!-- Hero Section -->
+    <main class="min-h-screen px-10 pt-20 md:px-24 md:pt-32 pb-0">
+        <section class="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">
+            <!-- Left Content -->
+            <div class="flex-1 space-y-6">
+                <h1 class="text-5xl md:text-6xl  leading-tight">
+                    Effortless
+                    <br>
+                    Portfolios for
+                    <br>
+                    <span class="inline-block bg-[#B9FF66] px-4 py-2 my-5 rounded-lg">Developers</span>
+                </h1>
+                <p class="text-xl text-gray-600 ">
+                    Your GitHub profile tells a story.
+                    <br>
+                    Let us help you narrate it
+                </p>
+                <div class="h-5">
 
+                </div>
+                <a href="connect">
+                    <button class="px-8 py-3 bg-[#191A23] text-white rounded-lg hover:bg-gray-800 transition-colors">
+                        Create Your Portfolio Now
+                    </button>
+                </a>
+            </div>
 
-                    <!-- Right Illustration -->
-                    <div class="flex-1 relative ">
-                        <div class="relative md:p-20">
-                            <img src="images/graph.png" alt="Illustration" class="w-full rounded-2xl">
-
-                        </div>
-                    </div>
-                    <div class="flex-1 space-y-6">
-                        <h1 class="text-2xl md:text-4xl  leading-tight">
-                            Stop Portfolio Panic: <br>
-                            Build Yours in a Snap
-                        </h1>
-                        <p class="text-xl text-gray-600">
-                            Staring down a blank screen, dreading the hours it'll take to build a portfolio? Not
-                            anymore!
-                            devb.io is your coding BFF, turning your messy GitHub profile into a sleek, professional bio
-                            easily, not marathons.
-                        </p>
-
-                    </div>
-
+            <!-- Right Illustration -->
+            <div class="flex-1 relative">
+                <div class="relative">
+                    <img src="images/Illustration.svg" alt="Illustration" class="w-full rounded-2xl">
 
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+        <!-- Services Section -->
+        <section id="why" class="py-10 md:pt-10 mt-10">
+            <div class="container md:mx-auto md:px-4">
 
-    <section id="how-to" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+                <!-- Services Grid -->
+                <div class="flex ">
+                    <!-- Portfolio Generation -->
+                    <div class=" flex flex-col md:flex-row items-center gap-12">
+
+
+                        <!-- Right Illustration -->
+                        <div class="flex-1 relative ">
+                            <div class="relative md:p-20">
+                                <img src="images/graph.png" alt="Illustration" class="w-full rounded-2xl">
+
+                            </div>
+                        </div>
+                        <div class="flex-1 space-y-6">
+                            <h1 class="text-2xl md:text-4xl  leading-tight">
+                                Stop Portfolio Panic: <br>
+                                Build Yours in a Snap
+                            </h1>
+                            <p class="text-xl text-gray-600">
+                                Staring down a blank screen, dreading the hours it'll take to build a portfolio? Not
+                                anymore!
+                                devb.io is your coding BFF, turning your messy GitHub profile into a sleek, professional
+                                bio
+                                easily, not marathons.
+                            </p>
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="how-to" class="py-10 md:pt-20 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
                         <span
-                                class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">How
+                            class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">How
                             It Works</span>
+                    </div>
+                    <div>
+                        <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>
+                            Your Dev Profile</h2>
+                    </div>
+
                 </div>
-                <div>
-                    <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>
-                        Your Dev Profile</h2>
-                </div>
 
-            </div>
+                <!-- Services Grid -->
+                <div class="grid grid-cols-1  gap-8 ">
+                    <!-- Portfolio Generation -->
 
-            <!-- Services Grid -->
-            <div class="grid grid-cols-1  gap-8 ">
-                <!-- Portfolio Generation -->
-
-                <div
+                    <div
                         class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class=" text-3xl md:text-5xl mr-3">01</div>
-                                <div>Connect Your GitHub Account</div>
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class=" text-3xl md:text-5xl mr-3">01</div>
+                                    <div>Connect Your GitHub Account</div>
+                                </div>
+
                             </div>
+                            <!--                          a  horizontal line-->
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>
+                                        Fill out the simple form with your GitHub username.
+                                    </li>
+                                    <li>
+                                        Our system will connect to your GitHub profile and start processing your data
 
-                        </div>
-                        <!--                          a  horizontal line-->
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>
-                                    Fill out the simple form with your GitHub username.
-                                </li>
-                                <li>
-                                    Our system will connect to your GitHub profile and start processing your data
-
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div
+                    <div
                         class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">02</div>
-                                <div>Relax and Wait</div>
-                            </div>
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class=" text-2xl md:text-5xl mr-3">02</div>
+                                    <div>Relax and Wait</div>
+                                </div>
 
-                        </div>
-                        <!--                          a  horizontal line-->
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>
-                                    In just 6 hours, your personalized developer portfolio will be ready.
-                                </li>
-                                <li>
-                                    No need to lift a finger! We handle all the technical details.
-                                </li>
-                            </ul>
+                            </div>
+                            <!--                          a  horizontal line-->
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>
+                                        In just 6 hours, your personalized developer portfolio will be ready.
+                                    </li>
+                                    <li>
+                                        No need to lift a finger! We handle all the technical details.
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div
+                    <div
                         class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">03</div>
-                                <div>Keep it Fresh</div>
-                            </div>
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class=" text-2xl md:text-5xl mr-3">03</div>
+                                    <div>Keep it Fresh</div>
+                                </div>
 
-                        </div>
-                        <!--                          a  horizontal line-->
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>
-                                    Your portfolio will be automatically updated each week based on your latest
-                                    GitHub activity.
-                                </li>
-                                <li>
-                                    Your projects, commits, and contributions will be showcased
-                                </li>
-                            </ul>
+                            </div>
+                            <!--                          a  horizontal line-->
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>
+                                        Your portfolio will be automatically updated each week based on your latest
+                                        GitHub activity.
+                                    </li>
+                                    <li>
+                                        Your projects, commits, and contributions will be showcased
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div
+                    <div
                         class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">04</div>
-                                <div>Share Your Success</div>
-                            </div>
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class=" text-2xl md:text-5xl mr-3">04</div>
+                                    <div>Share Your Success</div>
+                                </div>
 
-                        </div>
-                        <!--                          a  horizontal line-->
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>
-                                    Once you're ready, share your portfolio with potential employers, recruiters, or
-                                    friends.
-                                </li>
-                                <li>
-                                    Showcase your skills and land your dream job!
-                                </li>
-                            </ul>
+                            </div>
+                            <!--                          a  horizontal line-->
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>
+                                        Once you're ready, share your portfolio with potential employers, recruiters, or
+                                        friends.
+                                    </li>
+                                    <li>
+                                        Showcase your skills and land your dream job!
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section id="connect" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+        <section id="connect" class="py-10 md:pt-20 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
                         <span
-                                class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Connect
-                        Github</span>
+                            class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Connect
+                            Github</span>
+                    </div>
+
+
                 </div>
 
-
-            </div>
-
-            <div class="container  px-4">
-                <div class="mx-auto bg-[#F3F3F3] rounded-2xl p-20 relative">
-                    <!-- Form Container -->
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 ">
-                        <!-- Form -->
-                        <div class="space-y-6">
-                            <form class="space-y-4">
-                                <div>
-                                    <label for="github" class="block text-sm font-medium text-gray-700 mb-1">
-                                        Github Username
-                                    </label>
-                                    <input type="text" id="github" name="github"
-                                           class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
-                                           placeholder="Enter your username">
-                                </div>
-                                <div>
-                                    <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
-                                        Email
-                                    </label>
-                                    <input type="email" id="email" name="email"
-                                           class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
-                                           placeholder="Enter your email">
-                                </div>
-                                <button type="submit"
+                <div class="container  px-4">
+                    <div class="mx-auto bg-[#F3F3F3] rounded-2xl p-20 relative">
+                        <!-- Form Container -->
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 ">
+                            <!-- Form -->
+                            <div class="space-y-6">
+                                <form class="space-y-4">
+                                    <div>
+                                        <label for="github" class="block text-sm font-medium text-gray-700 mb-1">
+                                            Github Username
+                                        </label>
+                                        <input type="text" id="github" name="github"
+                                            class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
+                                            placeholder="Enter your username">
+                                    </div>
+                                    <div>
+                                        <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
+                                            Email
+                                        </label>
+                                        <input type="email" id="email" name="email"
+                                            class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
+                                            placeholder="Enter your email">
+                                    </div>
+                                    <button type="submit"
                                         class="w-full bg-[#191A23] text-white py-3 rounded-lg hover:bg-gray-800 transition-colors mt-6">
-                                    Register Now
-                                </button>
-                            </form>
-                        </div>
+                                        Register Now
+                                    </button>
+                                </form>
+                            </div>
 
-                        <!-- Decorative Elements -->
-                        <div class="relative hidden md:block">
-                            <img src="images/stars.png " alt="Stars" class=" absolute h-[600px] -top-48 -right-20">
+                            <!-- Decorative Elements -->
+                            <div class="relative hidden md:block">
+                                <img src="images/stars.png " alt="Stars" class=" absolute h-[600px] -top-48 -right-20">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <section id="services" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+        </section>
+        <section id="services" class="py-10 md:pt-20 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
                         <span
-                                class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Services</span>
+                            class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Services</span>
+                    </div>
+                    <div>
+                        <h2 class="mb-4 text-left">Bring Your Work to Life <br>
+                            devb.io turns your GitHub into a stunning portfolio effortlessly.</h2>
+                    </div>
+
                 </div>
-                <div>
-                    <h2 class="mb-4 text-left">Bring Your Work to Life <br>
-                        devb.io turns your GitHub into a stunning portfolio effortlessly.</h2>
-                </div>
 
-            </div>
-
-            <!-- Services Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 ">
-                <!-- Portfolio Generation -->
+                <!-- Services Grid -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 ">
+                    <!-- Portfolio Generation -->
 
 
-                <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
+                    <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
+                        <div class="flex flex-row h-full">
+                            <div class="flex  justify-center items-center flex-col">
+                                <div class="flex flex-col">
                                     <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Portfolio
+                                        class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Portfolio
                                     </span>
-                                <span
+                                    <span
                                         class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-[#B9FF66]">Generation
                                     </span>
 
+                                </div>
+                            </div>
+                            <div class="flex-grow flex items-center justify-center p-2">
+                                <img src="images/keyboard.png" alt="Portfolio Generation">
                             </div>
                         </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
                     </div>
-                </div>
 
-                <div
+                    <div
                         class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
+                        <div class="flex flex-row h-full">
+                            <div class="flex  justify-center items-center flex-col">
+                                <div class="flex flex-col">
                                     <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">Auto
+                                        class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">Auto
                                     </span>
-                                <span
+                                    <span
                                         class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-white">Update
 
                                     </span>
 
+                                </div>
+                            </div>
+                            <div class="flex-grow flex items-center justify-center p-2">
+                                <img src="images/keyboard.png" alt="Portfolio Generation">
                             </div>
                         </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
                     </div>
-                </div>
 
-                <div
+                    <div
                         class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
+                        <div class="flex flex-row h-full">
+                            <div class="flex  justify-center items-center flex-col">
+                                <div class="flex flex-col">
                                     <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">GitHub
+                                        class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">GitHub
                                     </span>
-                                <span
+                                    <span
                                         class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-white">Profile
                                         Summary
 
                                     </span>
 
+                                </div>
+                            </div>
+                            <div class="flex-grow flex items-center justify-center p-2">
+                                <img src="images/keyboard.png" alt="Portfolio Generation">
                             </div>
                         </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
                     </div>
-                </div>
-                <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
+                    <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
+                        <div class="flex flex-row h-full">
+                            <div class="flex  justify-center items-center flex-col">
+                                <div class="flex flex-col">
                                     <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Digital
+                                        class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Digital
                                     </span>
-                                <span
+                                    <span
                                         class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-[#B9FF66]">Presence
                                     </span>
 
-                            </div>
-                        </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section id="people" class="py-10 md:pt-10 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
-                        <span
-                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Connect
-                            People</span>
-                </div>
-                <div>
-
-                </div>
-
-            </div>
-
-            <!-- Services Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 ">
-                <!-- Portfolio Generation -->
-                <div
-                        class="bg-[#F3F3F3] p-4 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-row">
-                        <div class="flex  justify-center items-center flex-row">
-                            <div class="flex flex-col mr-2">
-                                <div>
-                                    <img class="rounded-full w-28"
-                                         src="https://avatars.githubusercontent.com/u/63339782?v=4" alt="">
                                 </div>
                             </div>
-                            <div class="flex flex-col">
+                            <div class="flex-grow flex items-center justify-center p-2">
+                                <img src="images/keyboard.png" alt="Portfolio Generation">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section id="people" class="py-10 md:pt-10 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
+                        <span
+                            class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Connect
+                            People</span>
+                    </div>
+                    <div>
+
+                    </div>
+
+                </div>
+
+                <!-- Services Grid -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 ">
+                    <!-- Portfolio Generation -->
+                    <div
+                        class="bg-[#F3F3F3] p-4 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
+                        <div class="flex flex-row">
+                            <div class="flex  justify-center items-center flex-row">
+                                <div class="flex flex-col mr-2">
+                                    <div>
+                                        <img class="rounded-full w-28"
+                                            src="https://avatars.githubusercontent.com/u/63339782?v=4" alt="">
+                                    </div>
+                                </div>
+                                <div class="flex flex-col">
                                     <span class="text-2xl font-bold">
                                         Sunith VS
                                     </span>
-                                <span>
+                                    <span>
                                         @sunithvs
                                     </span>
-                            </div>
-                            <div>
-                                <i data-lucide="github-" class="w-9/12 h-9 mx-3"></i>
-                            </div>
-                            <div>
-                                <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
+                                </div>
+                                <div>
+                                    <i data-lucide="github-" class="w-9/12 h-9 mx-3"></i>
+                                </div>
+                                <div>
+                                    <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
+                                </div>
+
                             </div>
 
                         </div>
+                    </div>
 
+
+                </div>
+            </div>
+        </section>
+
+        <footer class="bg-[#191A23] text-white rounded-t-3xl p-10 mt-24">
+            <div class="container mx-auto p-8">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div>
+                        <span class="rounded-full bg-[#B9FF66] p-1 font-bold text-black text-2xl">db</span>
+                        <span class="font-bold text-2xl ">devb.io</span>
+                        <p class="text-gray-400 mt-4">Effortless Portfolios for Developers</p>
+                    </div>
+                    <div>
+                        <h2 class="text-xl font-bold">Quick Links</h2>
+                        <ul class="mt-4">
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Features</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">How It Works</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Contribute</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2 class="text-xl font-bold">Follow us</h2>
+                        <ul class="mt-4">
+                            <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">Github</a></li>
+                            <li><a href="#" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a>
+                            </li>
+                            <li><a href="https://sunithvs.com" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">Developer</a></li>
+
+                        </ul>
                     </div>
                 </div>
-
-
             </div>
-        </div>
-    </section>
+        </footer>
 
-    <footer class="bg-[#191A23] text-white rounded-t-3xl p-10 mt-24">
-        <div class="container mx-auto p-8">
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div>
-                    <span class="rounded-full bg-[#B9FF66] p-1 font-bold text-black text-2xl">db</span>
-                    <span class="font-bold text-2xl ">devb.io</span>
-                    <p class="text-gray-400 mt-4">Effortless Portfolios for Developers</p>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold">Quick Links</h2>
-                    <ul class="mt-4">
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Features</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">How It Works</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Contribute</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold">Follow us</h2>
-                    <ul class="mt-4">
-                        <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
-                               class="hover:text-lime-500 transition-colors">Github</a></li>
-                        <li><a href="#" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a></li>
-                        <li><a href="https://sunithvs.com" target="_blank"
-                               class="hover:text-lime-500 transition-colors">Developer</a></li>
+    </main>
 
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-</main>
-
-<script>
-    // Initialize Lucide icons
-    lucide.createIcons();
-</script>
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+    </script>
 </body>
 
 </html>

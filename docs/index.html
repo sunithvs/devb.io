@@ -17,12 +17,6 @@
         @tailwind components;
         @tailwind utilities;
 
-        @layer base {
-            body {
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-            }
-        }
-
         * {
             font-family: 'Space Grotesk', sans-serif;
         }
@@ -43,14 +37,16 @@
             <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
             <a href="#services" class="hover:text-lime-500 transition-colors">Services</a>
             <a href="#connect" class="hover:text-lime-500 transition-colors">People</a>
-            <a href="#how-it-works" class="hover:text-lime-500 transition-colors">How It Works</a>
+            <a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a>
             <a href="#connect" class="hover:text-lime-500 transition-colors">Connect</a>
             <!--            <a href="#" class="hover:text-lime-500 transition-colors">Contribute</a>-->
-            <button
-                    class="px-6 py-2 rounded-lg border-2 border-black hover:bg-[#191A23] hover:text-white transition-colors flex">
-                <i data-lucide="github" class="w-6 h-6 mr-3"></i>
-                Star Repo
-            </button>
+            <a href="https://github.com/sunithvs/devb.io">
+                <button
+                        class="px-6 py-2 rounded-lg border-2 border-black hover:bg-[#191A23] hover:text-white transition-colors flex">
+                    <i data-lucide="github" class="w-6 h-6 mr-3"></i>
+                    Star Repo
+                </button>
+            </a>
         </div>
 
     </div>
@@ -76,7 +72,7 @@
             <div class="h-5">
 
             </div>
-            <a href="#connect">
+            <a href="connect">
                 <button class="px-8 py-3 bg-[#191A23] text-white rounded-lg hover:bg-gray-800 transition-colors">
                     Create Your Portfolio Now
                 </button>
@@ -86,7 +82,7 @@
         <!-- Right Illustration -->
         <div class="flex-1 relative">
             <div class="relative">
-                <img src="images/hero.png" alt="Illustration" class="w-full rounded-2xl">
+                <img src="images/Illustration.svg" alt="Illustration" class="w-full rounded-2xl">
 
             </div>
         </div>
@@ -108,10 +104,10 @@
 
                         </div>
                     </div>
-                     <div class="flex-1 space-y-6">
+                    <div class="flex-1 space-y-6">
                         <h1 class="text-2xl md:text-4xl  leading-tight">
                             Stop Portfolio Panic: <br>
-                            Build Yours in Minutes!
+                            Build Yours in a Snap
                         </h1>
                         <p class="text-xl text-gray-600">
                             Staring down a blank screen, dreading the hours it'll take to build a portfolio? Not
@@ -119,9 +115,7 @@
                             devb.io is your coding BFF, turning your messy GitHub profile into a sleek, professional bio
                             easily, not marathons.
                         </p>
-                        <button class="px-8 py-3 bg-[#191A23] text-white rounded-lg hover:bg-gray-800 transition-colors">
-                            Get Started for Free
-                        </button>
+
                     </div>
 
 
@@ -130,7 +124,7 @@
         </div>
     </section>
 
-    <section class="py-10 md:pt-20 mt-10">
+    <section id="how-to"  class="py-10 md:pt-20 mt-10">
         <div class="container md:mx-auto md:px-4">
             <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
                 <div class="flex items-center ">
@@ -253,7 +247,7 @@
         </div>
     </section>
 
-        <section class="py-10 md:pt-20 mt-10">
+    <section id="connect"  class="py-10 md:pt-20 mt-10">
         <div class="container md:mx-auto md:px-4">
             <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
                 <div class="flex items-center ">
@@ -265,48 +259,48 @@
 
             </div>
 
-          <div class="container  px-4">
-            <div class="mx-auto bg-[#F3F3F3] rounded-2xl p-20 relative">
-                <!-- Form Container -->
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-12 ">
-                    <!-- Form -->
-                    <div class="space-y-6">
-                        <form class="space-y-4">
-                            <div>
-                                <label for="github" class="block text-sm font-medium text-gray-700 mb-1">
-                                    Github Username
-                                </label>
-                                <input type="text" id="github" name="github"
-                                       class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
-                                       placeholder="Enter your username">
-                            </div>
-                            <div>
-                                <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
-                                    Email
-                                </label>
-                                <input type="email" id="email" name="email"
-                                       class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
-                                       placeholder="Enter your email">
-                            </div>
-                            <button type="submit"
-                                    class="w-full bg-[#191A23] text-white py-3 rounded-lg hover:bg-gray-800 transition-colors mt-6">
-                                Register Now
-                            </button>
-                        </form>
-                    </div>
+            <div class="container  px-4">
+                <div class="mx-auto bg-[#F3F3F3] rounded-2xl p-20 relative">
+                    <!-- Form Container -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 ">
+                        <!-- Form -->
+                        <div class="space-y-6">
+                            <form class="space-y-4">
+                                <div>
+                                    <label for="github" class="block text-sm font-medium text-gray-700 mb-1">
+                                        Github Username
+                                    </label>
+                                    <input type="text" id="github" name="github"
+                                           class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
+                                           placeholder="Enter your username">
+                                </div>
+                                <div>
+                                    <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
+                                        Email
+                                    </label>
+                                    <input type="email" id="email" name="email"
+                                           class="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-lime-300 focus:border-lime-300 outline-none transition-all"
+                                           placeholder="Enter your email">
+                                </div>
+                                <button type="submit"
+                                        class="w-full bg-[#191A23] text-white py-3 rounded-lg hover:bg-gray-800 transition-colors mt-6">
+                                    Register Now
+                                </button>
+                            </form>
+                        </div>
 
-                    <!-- Decorative Elements -->
-                    <div class="relative hidden md:block">
-                        <img src="images/stars.png " alt="Stars" class=" absolute h-[600px] -top-48 -right-20">
+                        <!-- Decorative Elements -->
+                        <div class="relative hidden md:block">
+                            <img src="images/stars.png " alt="Stars" class=" absolute h-[600px] -top-48 -right-20">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        </div>
     </section>
 
 
-    <section class="py-10 md:pt-10 mt-10">
+    <section id="people" class="py-10 md:pt-10 mt-10">
         <div class="container md:mx-auto md:px-4">
             <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
                 <div class="flex items-center ">
@@ -358,7 +352,6 @@
         </div>
     </section>
 
-
     <footer class="bg-[#191A23] text-white rounded-t-3xl p-10 mt-24">
         <div class="container mx-auto p-8">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -379,7 +372,8 @@
                 <div>
                     <h2 class="text-xl font-bold">Follow us</h2>
                     <ul class="mt-4">
-                        <li><a href="#" target="_blank" class="hover:text-lime-500 transition-colors">Github</a></li>
+                        <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
+                               class="hover:text-lime-500 transition-colors">Github</a></li>
                         <li><a href="#" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a></li>
                         <li><a href="https://sunithvs.com" target="_blank"
                                class="hover:text-lime-500 transition-colors">Developer</a></li>
@@ -389,7 +383,6 @@
             </div>
         </div>
     </footer>
-
 
 </main>
 

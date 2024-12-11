@@ -1,7 +1,7 @@
 {
     "sunithvs": {
-        "timestamp": "2024-12-10T20:49:26.522694",
-        "error": "[Errno 2] No such file or directory: '/Users/sunithvs/PycharmProjects/devb.io/data/docs/data/processed_users.json'"
+        "timestamp": "2024-12-12T00:35:59.307231",
+        "error": "Expecting value: line 1 column 1 (char 0)"
     },
     "sunith-vs": {
         "timestamp": "2024-12-10T20:49:28.989203",

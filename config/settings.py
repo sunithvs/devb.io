@@ -1,3 +1,4 @@
+import json
 import os
 
 from dotenv import load_dotenv
@@ -25,6 +26,10 @@ class Settings:
     # Generation settings
     MAX_USERS_PER_RUN = 10
     CONTRIBUTION_DAYS = 120
+    with open(os.path.join(DATA_DIR, 'blacklist.json'), 'r') as f:
+        BLACKLISTED_USERS = json.load(f)
+
+    BLACKLISTED_USERS = {user.lower() for user in BLACKLISTED_USERS}
 
 
 if __name__ == "__main__":

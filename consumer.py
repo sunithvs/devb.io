@@ -19,6 +19,9 @@ def process_user(username):
     """
     try:
         # Fetch GitHub profile
+        if username in Settings.BLACKLISTED_USERS:
+            print(f"Skipping blacklisted user: {username}")
+            return False
         profile_data = GitHubProfileFetcher.fetch_user_profile(username)
 
         # Fetch contributions
@@ -59,6 +62,7 @@ def process_user(username):
                 'username': username,
                 'avatar_url': profile_data.get('avatar_url', ''),
                 'updated': datetime.now().isoformat(),
+                'name': profile_data.get('name', ''),
             }
         else:
             processed_users[username]['updated'] = datetime.now().isoformat()

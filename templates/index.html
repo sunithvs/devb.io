@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ profile.name }} - GitHub Profile</title>
+</head>
+<body>
+<header>
+    <h1>{{ profile.name }}</h1>
+    <img src="{{ profile.avatar_url }}" alt="Profile Avatar" style="width:200px;border-radius:50%">
+
+    {% if profile.bio %}
+    <p><strong>Bio:</strong> {{ profile.bio }}</p>
+    {% endif %}
+
+    <p><strong>GitHub Profile:</strong> <a href="{{ profile.profile_url }}">{{ profile.profile_url }}</a></p>
+    <p><strong>Location:</strong> {{ profile.location }}</p>
+</header>
+
+<section id="profile-summary">
+    <h2>Profile Summary</h2>
+    <p>{{ profile.profile_summary }}</p>
+</section>
+
+<section id="github-stats">
+    <h2>GitHub Statistics</h2>
+    <ul>
+        <li><strong>Followers:</strong> {{ profile.followers }}</li>
+        <li><strong>Following:</strong> {{ profile.following }}</li>
+        <li><strong>Public Repositories:</strong> {{ profile.public_repos }}</li>
+    </ul>
+</section>
+{% if profile.top_languages %}
+<section id="top-languages">
+    <h2>Top Languages</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>Language</th>
+            <th>Repository Count</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for lang, count in profile.top_languages %}
+        <tr>
+            <td>{{ lang }}</td>
+            <td>{{ count }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</section>
+{% endif %}
+{% if profile.recent_projects %}
+
+<section id="recent-projects">
+    <h2>Recent Projects</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Description</th>
+            <th>Stars</th>
+            <th>Last Updated</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        {% for project in profile.recent_projects %}
+        <tr>
+            <td><a href="{{ project.url }}">{{ project.name }}</a></td>
+            <td>{{ project.description or 'No description' }}</td>
+            <td>{{ project.stars }}</td>
+            <td>{{ project.updated_at }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</section>
+{% endif %}
+{% if profile.activity_summary %}
+<section id="recent-activity">
+    <h2>Recent Repository Activities</h2>
+    {% for repo, details in profile.activity_summary.items() %}
+    <article>
+        <h3>{{ repo }}</h3>
+        <p><strong>Repository Link:</strong> <a href="{{ details.link }}">{{ details.link }}</a></p>
+        <p><strong>Activity Summary:</strong> {{ details.summary }}</p>
+    </article>
+    {% endfor %}
+</section>
+{% endif %}
+
+<footer>
+    <p>Profile generated automatically</p>
+</footer>
+</body>
+</html>

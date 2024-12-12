@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add .
+        git add docs/*
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,8 @@
-import requests
 from collections import Counter
+from datetime import datetime, timedelta
+
+import requests
+
 from config.settings import Settings
 
 
@@ -8,6 +11,174 @@ class GitHubProfileFetcher:
 
     @staticmethod
     def fetch_user_profile(username):
+        """
+        Fetch detailed GitHub user profile with extended metrics and reduced API calls
+
+        Args:
+            username (str): GitHub username
+
+        Returns:
+            dict: Comprehensive user profile data
+        """
+
+        one_year_ago = (datetime.now() - timedelta(days=365)).isoformat() + 'Z'
+
+        graphql_query = {
+            "query": f"""
+                query {{
+                  user(login: "{username}") {{
+                    # Basic user information
+                    name
+                    bio
+                    location
+                    avatarUrl
+                    url
+                    followers {{
+                      totalCount
+                    }}
+                    following {{
+                      totalCount
+                    }}
+                    repositories(first: 100, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
+                      totalCount
+                      nodes {{
+                        name
+                        description
+                        stargazerCount
+                        primaryLanguage {{
+                          name
+                        }}
+                        url
+                        updatedAt
+                      }}
+                    }}
+
+                    # Contributions and achievements
+                    contributionsCollection(from: "{one_year_ago}") {{
+                      contributionCalendar {{
+                        totalContributions
+                      }}
+                      # These fields will help filter issues and repositories
+                      pullRequestContributionsByRepository {{
+                        repository {{
+                          name
+                        }}
+                        contributions(first: 100) {{
+                          totalCount
+                        }}
+                      }}
+                      issueContributionsByRepository {{
+                        repository {{
+                          name
+                        }}
+                        contributions(first: 100) {{
+                          totalCount
+                        }}
+                      }}
+                    }}
+
+                    # Pull Requests and Issues
+                    pullRequests(first: 0, states: MERGED, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
+                      totalCount
+                    }}
+
+                    issues(first: 0, states: CLOSED) {{
+                      totalCount
+                    }}
+
+                    # Starred Repositories
+                    starredRepositories(first: 10, orderBy: {{field: STARRED_AT, direction: DESC}}) {{
+                      nodes {{
+                        name
+                        description
+                        url
+                      }}
+                    }}
+
+                    # Sponsorships
+                    sponsors {{
+                      totalCount
+                    }}
+
+                    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {{
+                      totalCount
+                      nodes {{
+                        name
+                      }}
+                    }}
+                  }}
+                }}
+                """
+        }
+
+        # Single GraphQL request to fetch most of the data
+        graphql_url = "https://api.github.com/graphql"
+        graphql_response = requests.post(
+            graphql_url,
+            headers={
+                "Authorization": f"Bearer {Settings.GITHUB_API_TOKEN}",
+                "Content-Type": "application/json"
+            },
+            json=graphql_query
+        )
+
+        graphql_response.raise_for_status()
+        graphql_data = graphql_response.json()['data']['user']
+
+        # Process languages and top projects
+        languages = Counter()
+        top_projects = []
+        for repo in graphql_data['repositories']['nodes']:
+            if repo['primaryLanguage']:
+                languages[repo['primaryLanguage']['name']] += 1
+            top_projects.append({
+                'name': repo['name'],
+                'description': repo.get('description', ''),
+                'stars': repo['stargazerCount'],
+                'url': repo['url'],
+                'language': repo['primaryLanguage']['name'] if repo['primaryLanguage'] else 'Unknown',
+                'updatedAt':repo['updatedAt']
+            })
+
+        # Sort top projects by star count
+        top_projects = sorted(top_projects, key=lambda x: datetime.strptime(x['updatedAt'],'%Y-%m-%dT%H:%M:%SZ'), reverse=True)[:10]
+
+        return {
+            'username': username,
+            'name': graphql_data.get('name', username),
+            'bio': graphql_data.get('bio', ''),
+            'location': graphql_data.get('location', ''),
+            'avatar_url': graphql_data.get('avatarUrl', ''),
+            'profile_url': graphql_data.get('url', ''),
+            'top_languages': languages.most_common(3),
+            'top_projects': top_projects,
+            'followers': graphql_data['followers']['totalCount'],
+            'following': graphql_data['following']['totalCount'],
+            'public_repos': graphql_data['repositories']['totalCount'],
+
+            # Metrics from GraphQL data
+            'pull_requests_merged': graphql_data['pullRequests']['totalCount'],
+            'issues_closed': graphql_data['issues']['totalCount'],
+            'starred_repos': {
+                'count': 10,  # Limited to first 10 in query
+                'repositories': [
+                    {
+                        'name': repo['name'],
+                        'description': repo.get('description', ''),
+                        'url': repo['url']
+                    } for repo in graphql_data['starredRepositories']['nodes']
+                ]
+            },
+            'achievements': {
+                'total_contributions': graphql_data['contributionsCollection']['contributionCalendar'][
+                    'totalContributions'],
+                'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
+                'sponsors': graphql_data['sponsors']['totalCount']
+            }
+        }
+
+    @staticmethod
+    def fetch_user_profile_rest(username):
         """
         Fetch detailed GitHub user profile
 
@@ -55,9 +226,8 @@ class GitHubProfileFetcher:
                 'updated_at': repo['updated_at']
             })
 
-
         # Sort projects date
-        # recent_projects.sort(key=lambda x: x['stars'], reverse=True)
+        recent_projects.sort(key=lambda x: datetime.strptime(x['updated_at'], '%Y-%m-%dT%H:%M:%SZ'), reverse=True)
 
         return {
             'username': username,

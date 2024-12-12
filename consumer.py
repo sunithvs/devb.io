@@ -32,7 +32,10 @@ def process_user(username):
 
         # Generate AI descriptions
         ai_generator = AIDescriptionGenerator()
-        profile_summary = ai_generator.generate_profile_summary(profile_data)
+        try:
+            profile_summary = ai_generator.generate_profile_summary(profile_data)
+        except Exception as e:
+            profile_summary = None
         if contributions_data:
             activity_summary = ai_generator.generate_activity_summary(contributions_data)
             profile_data['activity_summary'] = activity_summary if activity_summary else {}

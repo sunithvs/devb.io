@@ -1,0 +1,39 @@
+name: Consumer
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:  # This allows you to manually trigger the workflow from the Actions tab.
+
+permissions:
+  contents: write  # Ensure the workflow has write access to contents
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Profile generation
+      run: |
+#          activate venv install requirements
+        python3 -m venv venv
+        source venv/bin/activate
+        pip install -r requirements.txt
+        python consumer.py
+      env:
+        GOOGLE_SHEETS_API_KEY: ${{ secrets.GITHUB_API_TOKEN }}
+        GOOGLE_SHEETS_ID: ${{ secrets.GROQ_API_KEY }}
+
+    - name: Commit and push changes if there are any
+
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add .
+        git commit -m "Update data"
+        git push || echo "Nothing to push"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

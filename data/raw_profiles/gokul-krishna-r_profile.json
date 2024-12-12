@@ -1,0 +1,141 @@
+{
+    "username": "gokul-krishna-r",
+    "name": "Gokul",
+    "bio": "Android and Web Developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/55547509?u=2878b43cb3eea2b228a578df8440b9ba6f3db620&v=4",
+    "profile_url": "https://github.com/gokul-krishna-r",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "C++",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Strabismus-Detector",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/Strabismus-Detector",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-08-16T07:00:04Z"
+        },
+        {
+            "name": "s5-cg-lab",
+            "description": null,
+            "stars": 2,
+            "url": "https://github.com/gokul-krishna-r/s5-cg-lab",
+            "language": "Python",
+            "updatedAt": "2024-06-12T04:21:31Z"
+        },
+        {
+            "name": "webpage-insights-backend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/jojova/webpage-insights-backend",
+            "language": "Python",
+            "updatedAt": "2024-04-25T11:32:17Z"
+        },
+        {
+            "name": "webpage-insights-frontend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/jojova/webpage-insights-frontend",
+            "language": "TypeScript",
+            "updatedAt": "2024-04-25T11:31:42Z"
+        },
+        {
+            "name": "hft-2022-client",
+            "description": "Hack for tomorrow 2022",
+            "stars": 1,
+            "url": "https://github.com/vaishnav-0/hft-2022-client",
+            "language": "JavaScript",
+            "updatedAt": "2023-11-06T04:23:59Z"
+        },
+        {
+            "name": "django_session_test",
+            "description": "django session template",
+            "stars": 0,
+            "url": "https://github.com/gokul-krishna-r/django_session_test",
+            "language": "Python",
+            "updatedAt": "2023-07-23T21:59:48Z"
+        },
+        {
+            "name": "dm-logistic-regression",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/gokul-krishna-r/dm-logistic-regression",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2023-07-21T05:06:57Z"
+        },
+        {
+            "name": "infosign-accounts-frontend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/gokul-krishna-r/infosign-accounts-frontend",
+            "language": "HTML",
+            "updatedAt": "2023-06-15T09:52:12Z"
+        },
+        {
+            "name": "rzrpay-order",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/gokul-krishna-r/rzrpay-order",
+            "language": "Python",
+            "updatedAt": "2023-06-14T17:38:03Z"
+        },
+        {
+            "name": "ima-msn-frontend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/gokul-krishna-r/ima-msn-frontend",
+            "language": "JavaScript",
+            "updatedAt": "2023-06-02T12:10:33Z"
+        }
+    ],
+    "followers": 43,
+    "following": 41,
+    "public_repos": 41,
+    "pull_requests_merged": 28,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "devb.io",
+                "description": null,
+                "url": "https://github.com/sunithvs/devb.io"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "freeCodeCamp",
+                "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+                "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+            },
+            {
+                "name": "views-widgets-samples",
+                "description": "Multiple samples showing the best practices in views-widgets on Android.",
+                "url": "https://github.com/android/views-widgets-samples"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 1,
+        "sponsors": 0
+    },
+    "profile_summary": "Gokul is a highly skilled Android and Web Developer with a strong foundation in multiple programming languages, including JavaScript, Python, and C++. As an innovative problem solver, Gokul leverages technical expertise to design, develop, and deploy high-quality, scalable applications that meet and exceed client expectations. With a proven track record in mobile and web development, Gokul is a reliable partner for businesses seeking to bring their digital vision to life.\n\nAs an accomplished developer with a robust professional network, Gokul maintains an active presence on GitHub, boasting 43 followers and an impressive 41 public repositories. This dedication to open-source collaboration and continuous learning enables Gokul to stay at the forefront of industry trends and best practices. By combining technical prowess with creative vision, Gokul delivers cutting-edge solutions that drive innovation, efficiency, and success in the ever-evolving tech landscape.",
+    "contributions_data": {}
+}

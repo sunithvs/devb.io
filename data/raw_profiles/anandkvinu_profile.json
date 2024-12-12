@@ -1,0 +1,120 @@
+{
+    "username": "anandkvinu",
+    "name": "Anand.k.vinu",
+    "bio": "Student at SOE CUSAT.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/41266843?u=08f8a3b66cbb1873b7ee75073a7c5a9f7bf1e174&v=4",
+    "profile_url": "https://github.com/anandkvinu",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "HTML",
+            3
+        ],
+        [
+            "Verilog",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RISCV_pipelined_cpu",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/RISCV_pipelined_cpu",
+            "language": "Verilog",
+            "updatedAt": "2024-04-06T12:12:55Z"
+        },
+        {
+            "name": "compiler",
+            "description": "building a compiler for  my language called mylang",
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/compiler",
+            "language": "Makefile",
+            "updatedAt": "2024-02-24T14:28:36Z"
+        },
+        {
+            "name": "single-cycle-risc-v-core",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/single-cycle-risc-v-core",
+            "language": "Verilog",
+            "updatedAt": "2024-02-19T16:41:24Z"
+        },
+        {
+            "name": "iot-machine-monitor",
+            "description": "Mini Project",
+            "stars": 1,
+            "url": "https://github.com/hishamthajudheen/iot-machine-monitor",
+            "language": "CSS",
+            "updatedAt": "2023-07-23T11:07:22Z"
+        },
+        {
+            "name": "IoT_MMS",
+            "description": "IoT Based Machine Monitoring System",
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/IoT_MMS",
+            "language": "JavaScript",
+            "updatedAt": "2023-07-22T13:54:38Z"
+        },
+        {
+            "name": "espWebsocket",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/espWebsocket",
+            "language": "C++",
+            "updatedAt": "2023-07-08T16:08:24Z"
+        },
+        {
+            "name": "flask",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/flask",
+            "language": "HTML",
+            "updatedAt": "2023-07-06T16:20:47Z"
+        },
+        {
+            "name": "riscv-isa-sim",
+            "description": "Spike, a RISC-V ISA Simulator",
+            "stars": 0,
+            "url": "https://github.com/rohittp0/riscv-isa-sim",
+            "language": "C",
+            "updatedAt": "2023-06-13T16:29:40Z"
+        },
+        {
+            "name": "maker-station-app",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/tinkerhub/maker-station-app",
+            "language": "HTML",
+            "updatedAt": "2023-04-22T23:24:06Z"
+        },
+        {
+            "name": "drfTemplate",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anandkvinu/drfTemplate",
+            "language": "Python",
+            "updatedAt": "2022-10-20T13:53:44Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 18,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": []
+    },
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 0,
+        "sponsors": 0
+    },
+    "profile_summary": "Anand.k.vinu is a highly skilled developer specializing in JavaScript, HTML, and Verilog programming languages, with a strong academic foundation as a student at the renowned School of Engineering, Cochin University of Science and Technology. With a robust portfolio of 18 public repositories showcasing active development and a growing professional network of peers, Anand.k.vinu demonstrates exceptional technical capabilities and a keen interest in staying at the forefront of industry advancements.\n\nAs a burgeoning expert in web and hardware development, Anand.k.vinu brings a unique combination of creativity, analytical skills, and technical expertise to the table. By leveraging their proficiency in JavaScript and HTML, they craft innovative, user-centric solutions, while their Verilog skills enable them to tackle complex hardware design projects with precision. With a strong foundation in computer science and a passion for coding, Anand.k.vinu is poised to make meaningful contributions to the tech community.",
+    "contributions_data": {}
+}

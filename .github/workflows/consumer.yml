@@ -14,26 +14,28 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4  # Updated to v4 for latest features
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
     - name: Profile generation
       run: |
-#          activate venv install requirements
-        python3 -m venv venv
+        python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt
         python consumer.py
       env:
-        GOOGLE_SHEETS_API_KEY: ${{ secrets.GITHUB_API_TOKEN }}
-        GOOGLE_SHEETS_ID: ${{ secrets.GROQ_API_KEY }}
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
     - name: Commit and push changes if there are any
-
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add .
-        git commit -m "Update data"
-        git push || echo "Nothing to push"
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

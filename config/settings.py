@@ -8,7 +8,7 @@ load_dotenv()
 
 class Settings:
     """Central configuration management"""
-    GITHUB_API_TOKEN = os.getenv("GITHUB_API_TOKEN")
+    GITHUB_API_TOKEN = os.getenv("API_TOKEN_GITHUB")
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
     # Paths

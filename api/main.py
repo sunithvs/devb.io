@@ -1,15 +1,16 @@
 import json
 import re
 from contextlib import asynccontextmanager
-from typing import Annotated, Dict, Any
+from typing import Annotated, Dict, Any, List
 
 import httpx
 import redis.asyncio as redis
+import requests
 import uvicorn
-from fastapi import FastAPI, HTTPException, Path, Depends
+from fastapi import FastAPI, HTTPException, Path, Depends, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware  # Add this import
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.redis import RedisBackend
-from fastapi.middleware.cors import CORSMiddleware  # Add this import
 
 # Import your existing modules
 from config.settings import Settings
@@ -20,6 +21,37 @@ redis_client = redis.from_url(
     encoding="utf8",
     decode_responses=True
 )
+USERS_LIST_KEY = "github_users_list"
+
+
+async def background_manage_users_list(username: str) -> None:
+    """
+    Background task to manage the list of users in Redis.
+    - Retrieve existing users
+    - Add new user if not already in the list
+    - Update the list in Redis
+    """
+    try:
+        # Get existing users list (or initialize if not exists)
+        existing_users_json = await redis_client.get(USERS_LIST_KEY)
+
+        if existing_users_json:
+            existing_users = json.loads(existing_users_json)
+        else:
+            existing_users = []
+
+        # Add user if not already in the list
+        if username not in existing_users:
+            existing_users.append(username)
+
+            # Store updated list back in Redis
+            await redis_client.set(
+                USERS_LIST_KEY,
+                json.dumps(existing_users)
+            )
+    except Exception as e:
+        # Log the error or handle it as appropriate for your application
+        print(f"Background task error managing users list: {e}")
 
 
 async def validate_github_username(username: str) -> bool:
@@ -87,7 +119,8 @@ async def verify_username(
 
 
 @app.get("/user/{username}", response_model=Dict[str, Any])
-async def fetch_user_profile(username: Annotated[str, Depends(verify_username)]):
+async def fetch_user_profile(username: Annotated[str, Depends(verify_username)], background_tasks: BackgroundTasks
+                             ):
     """
     Fetch GitHub user profile information with Redis caching.
     """
@@ -101,6 +134,8 @@ async def fetch_user_profile(username: Annotated[str, Depends(verify_username)])
         # Fetch user data if not in cache
         user_data = get_user_data(username)
         # Await Redis SETEX operation
+        background_tasks.add_task(background_manage_users_list, username)
+
         await redis_client.setex(name=cache_key, value=json.dumps(user_data), time=3600)
         return user_data
 
@@ -108,6 +143,42 @@ async def fetch_user_profile(username: Annotated[str, Depends(verify_username)])
         raise HTTPException(
             status_code=404,
             detail=f"User {username} not found: {str(e)}"
+        )
+
+
+@app.get("/users", response_model=List[str])
+async def get_users_list():
+    """
+    Retrieve the list of users from external API and compare with Redis.
+    Returns only new users.
+    """
+    try:
+        # Fetch users from external API
+        response = requests.get("https://devb.io/data/processed_users.json")
+        try:
+            response.raise_for_status()
+            external_users_dict = response.json()
+        except requests.HTTPError:
+            external_users_dict = {}
+
+        # Get existing users from Redis
+        existing_users_json = await redis_client.get(USERS_LIST_KEY)
+        existing_users = json.loads(existing_users_json) if existing_users_json else []
+
+        new_users = set(existing_users) - set(external_users_dict.keys())
+
+        if new_users:
+            await redis_client.set(
+                USERS_LIST_KEY,
+                json.dumps(list(new_users))
+            )
+
+        return new_users
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error processing users list: {str(e)}"
         )
 
 

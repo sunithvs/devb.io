@@ -30,6 +30,7 @@ class Settings:
         BLACKLISTED_USERS = json.load(f)
 
     BLACKLISTED_USERS = {user.lower() for user in BLACKLISTED_USERS}
+    REDIS_HOST = "redis://redis:6379/0"
 
 
 if __name__ == "__main__":

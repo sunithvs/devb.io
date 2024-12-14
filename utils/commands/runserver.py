@@ -79,7 +79,7 @@ class RunserverCommand(BaseCommand):
                 template_name = arg
 
         # Find an available port
-        PORT = 8001
+        PORT = 8000
 
         # Create a custom handler with the Jinja2 environment
         handler = lambda *args: DynamicTemplateHandler(*args, env=env)

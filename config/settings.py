@@ -31,6 +31,7 @@ class Settings:
 
     BLACKLISTED_USERS = {user.lower() for user in BLACKLISTED_USERS}
     REDIS_HOST = "redis://redis:6379/0"
+    API_URL = "https://user.devb.io"
 
 
 if __name__ == "__main__":

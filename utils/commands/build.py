@@ -11,7 +11,7 @@ from utils.user import get_user_data
 
 class BuildCommand(BaseCommand):
 
-    def process_user(self, username):
+    def process_user(self, username, force=False):
         """
         Comprehensive user profile generation process
 
@@ -23,9 +23,10 @@ class BuildCommand(BaseCommand):
             if username in Settings.BLACKLISTED_USERS:
                 print(f"Skipping blacklisted user: {username}")
                 return False
-
-            profile_data = get_user_data(username)
-
+            if force:
+                profile_data = get_user_data(username)
+            else:
+                profile_data = get_user_data(username, force=False)
             # Save raw profile data
             os.makedirs(os.path.join(Settings.DATA_DIR, 'raw_profiles'), exist_ok=True)
             with open(os.path.join(Settings.DATA_DIR, 'raw_profiles', f'{username}_profile.json'), 'w') as f:
@@ -78,7 +79,7 @@ class BuildCommand(BaseCommand):
             print("No users to process")
             return
         print(f"Processing {min(Settings.MAX_USERS_PER_RUN, len(users))} users from {len(users)} users")
-        for username in users[:Settings.MAX_USERS_PER_RUN]:
+        for username in users:
             status = self.process_user(username)
             if username in users and status:
                 users.remove(username)

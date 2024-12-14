@@ -23,6 +23,7 @@ jobs:
 
     - name: Profile generation
       run: |
+        curl -L -s -o data/users.json "https://user.devb.io/users"
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt

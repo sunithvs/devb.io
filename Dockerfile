@@ -17,7 +17,7 @@ COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Make port 8000 available to the world outside this container
-EXPOSE 8000,6379
+EXPOSE 8000
 
 # Define environment variable for Redis (can be overridden)
 ENV REDIS_URL=redis://redis:6379/0

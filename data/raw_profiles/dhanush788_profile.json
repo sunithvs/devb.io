@@ -1,0 +1,278 @@
+{
+    "username": "dhanush788",
+    "name": "Dhanush",
+    "bio": "dev",
+    "location": "KOCHI",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49669852?v=4",
+    "profile_url": "https://github.com/dhanush788",
+    "top_languages": [
+        [
+            "JavaScript",
+            39
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "CSS",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gist-creator",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/dhanush788/gist-creator",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-12T09:12:16Z"
+        },
+        {
+            "name": "chatwithnosql",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AB7zz/chatwithnosql",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-11T05:56:33Z"
+        },
+        {
+            "name": "MovieApp",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/dhanush788/MovieApp",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-10T13:06:10Z"
+        },
+        {
+            "name": "beaconSaudi",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/lazim-mv/beaconSaudi",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-02T18:42:06Z"
+        },
+        {
+            "name": "Beacon",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/lazim-mv/Beacon",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-30T08:43:53Z"
+        },
+        {
+            "name": "TEDxCUSAT-2022",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/tedxsoecusat/TEDxCUSAT-2022",
+            "language": "TypeScript",
+            "updatedAt": "2024-11-18T04:49:50Z"
+        },
+        {
+            "name": "passkey-linker",
+            "description": "npm package for developers to integrate passkey authentication.",
+            "stars": 0,
+            "url": "https://github.com/dhanush788/passkey-linker",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-13T10:13:08Z"
+        },
+        {
+            "name": "dhanush788",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/dhanush788/dhanush788",
+            "language": "Unknown",
+            "updatedAt": "2024-11-11T03:46:14Z"
+        },
+        {
+            "name": "chatwithdb",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/dhanush788/chatwithdb",
+            "language": "Python",
+            "updatedAt": "2024-10-23T13:47:33Z"
+        },
+        {
+            "name": "beaconConnect",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/lazim-mv/beaconConnect",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-19T09:35:15Z"
+        }
+    ],
+    "followers": 16,
+    "following": 21,
+    "public_repos": 56,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "locomotive-scroll",
+                "description": "\ud83d\udee4 Detection of elements in viewport & smooth scrolling with parallax.",
+                "url": "https://github.com/locomotivemtl/locomotive-scroll"
+            },
+            {
+                "name": "react-rnd",
+                "description": "\ud83d\uddb1  A resizable and draggable component for React.",
+                "url": "https://github.com/bokuweb/react-rnd"
+            },
+            {
+                "name": "SimpleWebAuthn",
+                "description": "WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.",
+                "url": "https://github.com/MasterKale/SimpleWebAuthn"
+            },
+            {
+                "name": "avonjs",
+                "description": "A fluent Node.js API generator.",
+                "url": "https://github.com/avonjs/avonjs"
+            },
+            {
+                "name": "kaf-relay",
+                "description": "Replicate and sync Kafka topics between clusters in realtime. Supports topic re-mapping, healthchecks, and hot failovers for high availability.",
+                "url": "https://github.com/zerodha/kaf-relay"
+            },
+            {
+                "name": "webauthn",
+                "description": "Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.",
+                "url": "https://github.com/passwordless-id/webauthn"
+            },
+            {
+                "name": "react-postprocessing",
+                "description": "\ud83d\udcec  postprocessing for react-three-fiber",
+                "url": "https://github.com/pmndrs/react-postprocessing"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 1287,
+        "repositories_contributed_to": 7,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "dhanush788/MovieApp": {
+            "link": "https://github.com/dhanush788/MovieApp",
+            "summary": "Recently, significant updates were made to the MovieApp repository. This includes completing the inner page and adding the movie page. The repository also saw updates in the API and APK. These updates contributed to enhancing the overall user experience and the project's functionality."
+        },
+        "dhanush788/passkey-linker": {
+            "link": "https://github.com/dhanush788/passkey-linker",
+            "summary": "The passkey-linker repository recently received an update to the readme.md file, which is a minor but essential enhancement for clarity and documentation."
+        },
+        "dhanush788/dhanush788": {
+            "link": "https://github.com/dhanush788/dhanush788",
+            "summary": "The dhanush788 repository recently underwent minor updates, with the README.md file being revised for a more accurate and professional appearance. These changes aim to present a more polished and organized profile."
+        },
+        "AB7zz/chatwithnosql": {
+            "link": "https://github.com/AB7zz/chatwithnosql",
+            "summary": "In the past, the chatwithnosql repository experienced notable developments, including a data update and fetching pinecone. Additionally, a merge was performed from the main branch. While these updates might not be recent, they are crucial in understanding the project's development trajectory."
+        }
+    },
+    "profile_summary": "Dhanush is a highly skilled and accomplished software developer with a strong expertise in JavaScript, TypeScript, and CSS. As an innovative problem solver, Dhanush leverages his technical prowess to craft cutting-edge solutions that drive digital innovation. With a prolific presence on GitHub, Dhanush's substantial body of work, comprising over 56 public repositories, showcases his exceptional coding skills and commitment to continuous learning.\n\nRenowned within his professional network, Dhanush has attracted a devoted following of 16 peers who value his technical acumen and industry insights. As a self-motivated and versatile developer, Dhanush is dedicated to staying at the forefront of emerging trends and technologies. His proficiency in modern programming languages and libraries positions him as a trusted partner for collaborative projects and a sought-after expert in his field.",
+    "contributions_data": {
+        "dhanush788/MovieApp": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-10T13:06:16",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-08T16:56:42",
+                "messages": [
+                    "apk added"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-08T05:41:42",
+                "messages": [
+                    "api update"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-08T04:55:03",
+                "messages": [
+                    "innerpage fix"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T13:29:46",
+                "messages": [
+                    "innerpage completed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T07:07:59",
+                "messages": [
+                    "movie page finished"
+                ]
+            }
+        ],
+        "dhanush788/dhanush788": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-11T03:46:11",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-11T03:45:04",
+                "messages": [
+                    "Update README.md"
+                ]
+            }
+        ],
+        "AB7zz/chatwithnosql": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T02:33:21",
+                "messages": [
+                    "data updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T13:49:26",
+                "messages": [
+                    "pinecone fetch",
+                    "Merge branch 'main' of https://github.com/AB7zz/chatwithnosql",
+                    "pinecone fetch"
+                ]
+            }
+        ],
+        "dhanush788/https-github.com-Lascade-Co-AR-Measure-IOS": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-19T05:45:48",
+                "messages": [
+                    "initial commit"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-19T05:34:55",
+                "messages": [
+                    "initial commit"
+                ]
+            }
+        ],
+        "dhanush788/passkey-linker": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-13T10:13:06",
+                "messages": [
+                    "Update readme.md"
+                ]
+            }
+        ]
+    }
+}

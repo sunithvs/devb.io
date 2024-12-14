@@ -11,7 +11,7 @@ class CleanCommand(BaseCommand):
         import os
         from config.settings import Settings
 
-        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data']
+        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data', '404.html']
 
         processed_users = {}
         with open(Settings.PROCESSED_USERS_FILE, 'r') as f:

@@ -5,4 +5,4 @@
 *.pyo
 **/__pycache__
 venv/
-
+temp_preview

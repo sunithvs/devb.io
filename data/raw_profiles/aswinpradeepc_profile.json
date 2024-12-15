@@ -1,0 +1,197 @@
+{
+    "username": "aswinpradeepc",
+    "name": "Aswin Pradeep",
+    "bio": "CSE student at CUSAT",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100145929?u=5e2e2ab1abe4ec0a56862a313e1c4df5bc59398e&v=4",
+    "profile_url": "https://github.com/aswinpradeepc",
+    "top_languages": [
+        [
+            "Python",
+            11
+        ],
+        [
+            "HTML",
+            8
+        ],
+        [
+            "JavaScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "helloworld",
+            "description": "trying out flutter",
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/helloworld",
+            "language": "C++",
+            "updatedAt": "2024-11-21T18:21:01Z"
+        },
+        {
+            "name": "autocommitbashscript",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/autocommitbashscript",
+            "language": "Shell",
+            "updatedAt": "2024-11-11T06:35:07Z"
+        },
+        {
+            "name": "bored_af",
+            "description": "lazy and bored.",
+            "stars": 1,
+            "url": "https://github.com/aswinpradeepc/bored_af",
+            "language": "HTML",
+            "updatedAt": "2024-09-11T02:09:06Z"
+        },
+        {
+            "name": "dice_game",
+            "description": "Made as a fun project learning JS.",
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/dice_game",
+            "language": "HTML",
+            "updatedAt": "2024-09-01T08:53:12Z"
+        },
+        {
+            "name": "aswinpradeepc",
+            "description": "readme",
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/aswinpradeepc",
+            "language": "Unknown",
+            "updatedAt": "2024-08-30T16:28:24Z"
+        },
+        {
+            "name": "Strabismus-Detector",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/Strabismus-Detector",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-08-16T07:00:04Z"
+        },
+        {
+            "name": "experience-primer-copilot-aswinpradeepc",
+            "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test created by GitHub Classroom",
+            "stars": 0,
+            "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/experience-primer-copilot-aswinpradeepc",
+            "language": "Unknown",
+            "updatedAt": "2024-07-10T11:51:49Z"
+        },
+        {
+            "name": "SOE-Project-Hub",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/SOE-Project-Hub",
+            "language": "Python",
+            "updatedAt": "2024-07-07T13:32:01Z"
+        },
+        {
+            "name": "Route_Optimisation",
+            "description": "Route Optimisation with OpenRouteService to optimise routes upto 150 location with free api limit.",
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/Route_Optimisation",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-06-21T06:25:29Z"
+        },
+        {
+            "name": "test",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aswinpradeepc/test",
+            "language": "Python",
+            "updatedAt": "2024-06-21T06:05:45Z"
+        }
+    ],
+    "followers": 14,
+    "following": 13,
+    "public_repos": 43,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "devb.io",
+                "description": null,
+                "url": "https://github.com/sunithvs/devb.io"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "github-profile-views-counter",
+                "description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.",
+                "url": "https://github.com/antonkomarev/github-profile-views-counter"
+            },
+            {
+                "name": "Fidget-a-Ton",
+                "description": "Design files of swag made for Make-A-Ton 6.0",
+                "url": "https://github.com/aswinpradeepc/Fidget-a-Ton"
+            },
+            {
+                "name": "devika",
+                "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+                "url": "https://github.com/stitionai/devika"
+            },
+            {
+                "name": "Bibliobazaar",
+                "description": "An e-commerce book-selling website developed using Django",
+                "url": "https://github.com/aswinpradeepc/Bibliobazaar"
+            },
+            {
+                "name": "mtf.py",
+                "description": "Modulation Transfer Function (MTF) for slanted edge images",
+                "url": "https://github.com/u-onder/mtf.py"
+            },
+            {
+                "name": "cusat-cs-s5",
+                "description": "Semester 5 - B.Tech Computer Science Engineering , CUSAT ",
+                "url": "https://github.com/nlkguy/cusat-cs-s5"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 219,
+        "repositories_contributed_to": 5,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "aswinpradeepc/helloworld": {
+            "link": "https://github.com/aswinpradeepc/helloworld",
+            "summary": "Recent activities include updating the README.md file to improve documentation and clarity. This repository also received its initial commit, marking the start of the project. These updates demonstrate ongoing efforts to enhance the project's visibility and user experience."
+        },
+        "aswinpradeepc/autocommitbashscript": {
+            "link": "https://github.com/aswinpradeepc/autocommitbashscript",
+            "summary": "A recent update modified random.txt, indicating continued development and iteration on the project. This change underscores the ongoing commitment to refining and improving the repository's contents."
+        }
+    },
+    "profile_summary": "Aswin Pradeep is a highly skilled and ambitious developer with a strong foundation in computer science, currently pursuing his degree in Computer Science and Engineering from the esteemed Cochin University of Science and Technology. With a robust understanding of programming languages, including Python, HTML, and JavaScript, Aswin consistently delivers high-quality solutions that showcase his technical prowess. As an active developer with 43 public repositories, his expertise spans a wide range of applications, solidifying his reputation as a reliable and innovative professional in his field.\n\nAs a respected developer with a growing network of 14 followers, Aswin has established himself as a collaborative and results-driven individual with a unique value proposition that sets him apart from his peers. His dedication to staying up-to-date with industry trends and advancements positions him for continued growth and success in a rapidly evolving technological landscape. With a strong passion for coding and problem-solving, Aswin is committed to leveraging his technical expertise to drive innovation and deliver exceptional results that exceed expectations.",
+    "contributions_data": {
+        "aswinpradeepc/helloworld": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-21T18:20:58",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-19T10:18:03",
+                "messages": [
+                    "initial commit"
+                ]
+            }
+        ],
+        "aswinpradeepc/autocommitbashscript": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-11T06:35:05",
+                "messages": [
+                    "Update random.txt"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "username": "abnv-o",
+    "name": "Abhinav O",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105405861?u=4e197c6c5c9364574103ebace0c4fdacac0e6212&v=4",
+    "profile_url": "https://github.com/abnv-o",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "CSS",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Kanchivaram",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Kanchivaram",
+            "language": "CSS",
+            "updatedAt": "2024-11-23T15:40:31Z"
+        },
+        {
+            "name": "make-a-ton-2024",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-28T06:00:18Z"
+        },
+        {
+            "name": "network_packet_sniffer",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/abnv-o/network_packet_sniffer",
+            "language": "Python",
+            "updatedAt": "2024-08-25T15:58:50Z"
+        },
+        {
+            "name": "Kaleidoscope",
+            "description": "A simple kaleidoscope using javascript",
+            "stars": 0,
+            "url": "https://github.com/abnv-o/Kaleidoscope",
+            "language": "JavaScript",
+            "updatedAt": "2024-05-29T17:11:09Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/abnv-o/portfolio",
+            "language": "JavaScript",
+            "updatedAt": "2024-04-20T05:17:16Z"
+        },
+        {
+            "name": "abnv-o",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/abnv-o/abnv-o",
+            "language": "Unknown",
+            "updatedAt": "2024-04-07T15:56:22Z"
+        },
+        {
+            "name": "sargam23",
+            "description": "akshay server",
+            "stars": 0,
+            "url": "https://github.com/abnv-o/sargam23",
+            "language": "JavaScript",
+            "updatedAt": "2024-02-26T21:58:19Z"
+        },
+        {
+            "name": "Sargam24",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Christyvinoy/Sargam24",
+            "language": "JavaScript",
+            "updatedAt": "2024-02-22T07:15:03Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 8,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "make-a-ton-2024",
+                "description": null,
+                "url": "https://github.com/Make-a-Ton/make-a-ton-2024"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 121,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "Make-a-Ton/make-a-ton-2024": {
+            "link": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "summary": "Recently, several updates were made to the repository including adding a track prize section, adjusting the layout, fixing broken links, and removing outdated information. A new section for Logitech was also added along with details on a partnership with DigitalSecurity."
+        }
+    },
+    "profile_summary": "Abhinav O is a seasoned software developer with a strong foundation in JavaScript, CSS, and Python, consistently delivering high-quality solutions that drive innovation and growth. With a demonstrated track record of building and maintaining a diverse portfolio of projects across 8 public repositories, Abhinav showcases exceptional technical expertise and a passion for staying up-to-date with the latest industry trends.\n\nAs a respected member of the development community with a growing professional network of like-minded professionals and advocates, Abhinav leverages expertise to drive transformative results. By combining technical acumen with a collaborative mindset, Abhinav effectively bridges the gap between technology and business, fostering a culture of innovation and excellence that elevates stakeholders and drives success.",
+    "contributions_data": {
+        "Make-a-Ton/make-a-ton-2024": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T06:30:54",
+                "messages": [
+                    "fixed link errors"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T04:39:14",
+                "messages": [
+                    "fixed dalisec link"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T03:50:53",
+                "messages": [
+                    "removed track prizes coming soon section"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T03:35:22",
+                "messages": [
+                    "Added track prize section"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T02:57:23",
+                "messages": [
+                    "Removed star a ton, added digitalsecurity partner"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-12T15:39:48",
+                "messages": [
+                    "small adjustments on margin of logitech section"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-12T15:04:45",
+                "messages": [
+                    "changed logitech position"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-11T07:16:45",
+                "messages": [
+                    "removed a broken image"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-11T07:12:52",
+                "messages": [
+                    "added section for logitech",
+                    "Merge branch 'main' of https://github.com/Make-a-Ton/make-a-ton-2024"
+                ]
+            }
+        ]
+    }
+}

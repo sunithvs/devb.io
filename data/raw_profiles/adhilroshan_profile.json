@@ -1,0 +1,250 @@
+{
+    "username": "adhilroshan",
+    "name": "Adhil Roshan",
+    "bio": "The best way to predict the future is to invent it.",
+    "location": "Nilambur, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58517896?u=7ff8c8f7ff8a9fc1d91e316cad938e54e0d36d44&v=4",
+    "profile_url": "https://github.com/adhilroshan",
+    "top_languages": [
+        [
+            "JavaScript",
+            25
+        ],
+        [
+            "TypeScript",
+            14
+        ],
+        [
+            "Python",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "adhilroshan",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/adhilroshan",
+            "language": "Unknown",
+            "updatedAt": "2024-12-14T18:54:35Z"
+        },
+        {
+            "name": "lib_resume_builder_AIHawk",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/lib_resume_builder_AIHawk",
+            "language": "Python",
+            "updatedAt": "2024-11-20T08:07:43Z"
+        },
+        {
+            "name": "quassoliberum.com",
+            "description": "Official website for Quasso Liberum 11.",
+            "stars": 2,
+            "url": "https://github.com/Quasso-Liberum/quassoliberum.com",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-15T21:36:30Z"
+        },
+        {
+            "name": "linkedIn_auto_jobs_applier_with_AI",
+            "description": "LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/linkedIn_auto_jobs_applier_with_AI",
+            "language": "Python",
+            "updatedAt": "2024-11-15T19:32:46Z"
+        },
+        {
+            "name": "code2llm",
+            "description": "Chat with your codebase effortlessly\u2014no API key needed!",
+            "stars": 5,
+            "url": "https://github.com/adhilroshan/code2llm",
+            "language": "Python",
+            "updatedAt": "2024-11-12T17:45:43Z"
+        },
+        {
+            "name": "n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/n8n",
+            "language": "TypeScript",
+            "updatedAt": "2024-10-31T17:49:29Z"
+        },
+        {
+            "name": "sb1-5jdzga",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/sb1-5jdzga",
+            "language": "TypeScript",
+            "updatedAt": "2024-10-06T17:35:37Z"
+        },
+        {
+            "name": "canalside-luxury-apartments",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/canalside-luxury-apartments",
+            "language": "TypeScript",
+            "updatedAt": "2024-09-29T15:03:19Z"
+        },
+        {
+            "name": "webomindapps",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/webomindapps",
+            "language": "TypeScript",
+            "updatedAt": "2024-09-28T23:01:18Z"
+        },
+        {
+            "name": "chapterclipper",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/adhilroshan/chapterclipper",
+            "language": "TypeScript",
+            "updatedAt": "2024-09-09T15:31:50Z"
+        }
+    ],
+    "followers": 21,
+    "following": 57,
+    "public_repos": 84,
+    "pull_requests_merged": 18,
+    "issues_closed": 4,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "devb.io",
+                "description": null,
+                "url": "https://github.com/sunithvs/devb.io"
+            },
+            {
+                "name": "guidance",
+                "description": "A guidance language for controlling large language models.",
+                "url": "https://github.com/guidance-ai/guidance"
+            },
+            {
+                "name": "LightRAG",
+                "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+                "url": "https://github.com/HKUDS/LightRAG"
+            },
+            {
+                "name": "nautilus-code",
+                "description": "Extension for Nautilus (GNOME Files) which adds right-click menu items to open current folder in code editors e.g. VSCode, GNOME Builder",
+                "url": "https://github.com/realmazharhussain/nautilus-code"
+            },
+            {
+                "name": "llama.cpp",
+                "description": "LLM inference in C/C++",
+                "url": "https://github.com/ggerganov/llama.cpp"
+            },
+            {
+                "name": "nextjs-ollama-llm-ui",
+                "description": "Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.",
+                "url": "https://github.com/jakobhoeg/nextjs-ollama-llm-ui"
+            },
+            {
+                "name": "EmailThing",
+                "description": "A web app for receiving and sending your emails!",
+                "url": "https://github.com/RiskyMH/EmailThing"
+            },
+            {
+                "name": "llama-stack",
+                "description": "Composable building blocks to build Llama Apps",
+                "url": "https://github.com/meta-llama/llama-stack"
+            },
+            {
+                "name": "Auto_Jobs_Applier_AI_Agent",
+                "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                "url": "https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent"
+            },
+            {
+                "name": "blobity",
+                "description": "The cursor is the heart of any interaction with the web. Why not take it to the next level? \ud83d\ude80",
+                "url": "https://github.com/gmrchk/blobity"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 654,
+        "repositories_contributed_to": 1,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "canalside-luxury-apartments": {
+            "link": "https://github.com/adhilroshan/canalside-luxury-apartments",
+            "summary": "Significant recent activity has centered around enhancing image loading efficiency through optimizations and the introduction of webp file formats, resulting in improved page load times."
+        },
+        "webomindapps": {
+            "link": "https://github.com/adhilroshan/webomindapps",
+            "summary": "Recent updates have focused on refactoring the gallery component to implement AnimatePresence for smoother image transitions."
+        },
+        "linkedIn_auto_jobs_applier_with_AI": {
+            "link": "https://github.com/adhilroshan/linkedIn_auto_jobs_applier_with_AI",
+            "summary": "The repository experienced refinement activity, involving edition of a funding YAML file and rearrangement of secret data folders, contributing to the enhancement of project structure and organization."
+        }
+    },
+    "profile_summary": "Adhil Roshan is a highly skilled and influential software developer with a strong background in JavaScript, TypeScript, and Python. With a professional network of 21 followers and an impressive portfolio of 84 public repositories, Adhil has established himself as a reliable and results-driven developer with a passion for innovation. He is committed to crafting cutting-edge solutions that drive business growth and push the boundaries of technological advancements.\n\nAs a forward-thinking developer with a flair for creative problem-solving, Adhil is dedicated to delivering high-quality software that meets the needs of modern businesses and organizations. With a strong focus on technical excellence and collaboration, he works closely with clients and colleagues to bring innovative ideas to life and drive meaningful impact. By combining technical expertise with a proactive approach to innovation, Adhil continues to shape the future of technology and inspire others to do the same.",
+    "contributions_data": {
+        "adhilroshan/canalside-luxury-apartments": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T15:03:17",
+                "messages": [
+                    "Optimize image loading for better performance"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T14:58:47",
+                "messages": [
+                    "Compressed images to improve load time",
+                    "Merge branch 'master' of https://github.com/adhilroshan/canalside-luxury-apartments"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T14:29:42",
+                "messages": [
+                    "compressed images to improve load time"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T14:17:59",
+                "messages": [
+                    "Update image file formats to webp"
+                ]
+            }
+        ],
+        "adhilroshan/webomindapps": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-28T23:01:16",
+                "messages": [
+                    "Refactor gallery component to use AnimatePresence for image transitions"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-28T22:46:09",
+                "messages": [
+                    "project initialised"
+                ]
+            }
+        ],
+        "adhilroshan/linkedIn_auto_jobs_applier_with_AI": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-17T15:42:55",
+                "messages": [
+                    "Create FUNDING.yml",
+                    "Merge branch 'feder-cr:main' into main"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-17T15:42:41",
+                "messages": [
+                    "Delete data_folder/secrets.yaml"
+                ]
+            }
+        ]
+    }
+}

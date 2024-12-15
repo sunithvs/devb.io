@@ -1,0 +1,288 @@
+{
+    "username": "v4sud3v",
+    "name": "C.R Vasudev Varma",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/138276093?u=561219144eb599b8188893758893ff62a67104e6&v=4",
+    "profile_url": "https://github.com/v4sud3v",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "CSS",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Auradetector",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Jopauljose/Auradetector",
+            "language": "Python",
+            "updatedAt": "2024-11-16T15:32:20Z"
+        },
+        {
+            "name": "v4sud3v",
+            "description": "Config files for my GitHub profile.",
+            "stars": 0,
+            "url": "https://github.com/v4sud3v/v4sud3v",
+            "language": "Unknown",
+            "updatedAt": "2024-11-09T13:02:55Z"
+        },
+        {
+            "name": "expenzio",
+            "description": "micro project expenzio",
+            "stars": 0,
+            "url": "https://github.com/v4sud3v/expenzio",
+            "language": "Python",
+            "updatedAt": "2024-11-09T09:27:07Z"
+        },
+        {
+            "name": "AI-Job-Matching-System",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/v4sud3v/AI-Job-Matching-System",
+            "language": "Python",
+            "updatedAt": "2024-11-04T08:16:55Z"
+        },
+        {
+            "name": "AuraDetector1",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Jopauljose/AuraDetector1",
+            "language": "Python",
+            "updatedAt": "2024-10-26T02:21:15Z"
+        },
+        {
+            "name": "SkillBridge",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/achuthspai04/SkillBridge",
+            "language": "CSS",
+            "updatedAt": "2024-07-28T08:51:47Z"
+        },
+        {
+            "name": "Seeb-Residency",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/v4sud3v/Seeb-Residency",
+            "language": "CSS",
+            "updatedAt": "2024-07-06T17:45:25Z"
+        },
+        {
+            "name": "sampfirebase",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/v4sud3v/sampfirebase",
+            "language": "HTML",
+            "updatedAt": "2023-09-30T05:26:08Z"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": []
+    },
+    "achievements": {
+        "total_contributions": 66,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "Jopauljose/Auradetector": {
+            "link": "https://github.com/Jopauljose/Auradetector",
+            "summary": "Recent activities on the Auradetector repository include updates to the README file, video sections, and project links. Fixes have been made to commits, the Vercel.json file, and app exposure. Additionally, work has been done on the Flask backend layout, project and team details, and structure fixes. Frontend additions have also been made."
+        },
+        "v4sud3v/AI-Job-Matching-System": {
+            "link": "https://github.com/v4sud3v/AI-Job-Matching-System",
+            "summary": "The AI-Job-Matching-System repository has seen recent updates to its UI, including a new color scheme, basic layout, and alerting result changes. UI compatibility and resource downloads have also been improved. Work on the backend is also complete."
+        },
+        "v4sud3v/v4sud3v": {
+            "link": "https://github.com/v4sud3v/v4sud3v",
+            "summary": "The v4sud3v repository has seen updates to its README file."
+        }
+    },
+    "profile_summary": "C.R Vasudev Varma is a skilled and dedicated software developer with expertise in Python, CSS, and HTML, consistently delivering high-quality solutions that meet and exceed expectations. With a strong foundation in web development, he leverages his technical skills to craft innovative applications that drive results. As an active contributor to the developer community, Vasudev Varma has shared his knowledge and expertise through 8 open-source repositories, showcasing his commitment to collaboration and continuous learning.\n\nAs a detail-oriented and passionate developer, Vasudev Varma is driven to stay at the forefront of industry trends and advancements. He is well-versed in the latest technologies and best practices, allowing him to approach complex problems with creative and effective solutions. With a strong work ethic and dedication to excellence, Vasudev Varma is poised to make a lasting impact in the world of software development, providing value to his colleagues, clients, and the broader developer community.",
+    "contributions_data": {
+        "Jopauljose/Auradetector": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T15:32:18",
+                "messages": [
+                    "Updated note"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T15:17:17",
+                "messages": [
+                    "Update README.md Team member details"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T15:14:06",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T14:35:20",
+                "messages": [
+                    "edited video section 2"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T14:33:15",
+                "messages": [
+                    "edited readme video section"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T14:31:51",
+                "messages": [
+                    "added the project link"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T07:33:06",
+                "messages": [
+                    "fixing commits 2"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T07:11:16",
+                "messages": [
+                    "fixing commits"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T06:56:10",
+                "messages": [
+                    "Remove builds from vercel.json to use automatic settings",
+                    "fixed vercel.json"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-16T06:45:07",
+                "messages": [
+                    "fix app exposure"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T14:20:29",
+                "messages": [
+                    "Readme Done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T19:18:11",
+                "messages": [
+                    "flask backend layout set"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T18:49:07",
+                "messages": [
+                    "structure fixed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T17:41:53",
+                "messages": [
+                    "fronted added",
+                    "Merge branch 'main' of https://github.com/Jopauljose/Auradetector"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T12:08:06",
+                "messages": [
+                    "Project and Team details added"
+                ]
+            }
+        ],
+        "v4sud3v/AI-Job-Matching-System": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-04T01:42:46",
+                "messages": [
+                    "alerting result changed to a ui component"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-03T20:08:47",
+                "messages": [
+                    "updated resource downloads"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-03T19:46:38",
+                "messages": [
+                    "fixed ui compatability"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-03T19:33:08",
+                "messages": [
+                    "ui finished,backend done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-03T09:26:04",
+                "messages": [
+                    "changed ui color scheme"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-03T07:35:25",
+                "messages": [
+                    "basic layout added"
+                ]
+            }
+        ],
+        "v4sud3v/v4sud3v": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-09T13:02:53",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-09T12:59:24",
+                "messages": [
+                    "Update README.md"
+                ]
+            }
+        ]
+    }
+}

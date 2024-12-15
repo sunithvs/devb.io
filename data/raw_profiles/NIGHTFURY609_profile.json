@@ -1,0 +1,279 @@
+{
+    "username": "NIGHTFURY609",
+    "name": "Jeswin Christie",
+    "bio": "Beginner full stack developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121104372?v=4",
+    "profile_url": "https://github.com/NIGHTFURY609",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "porftolio",
+            "description": "personal portfolio",
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/porftolio",
+            "language": "Unknown",
+            "updatedAt": "2024-12-11T16:02:11Z"
+        },
+        {
+            "name": "wdwudewifhwi",
+            "description": "my worst website",
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/wdwudewifhwi",
+            "language": "HTML",
+            "updatedAt": "2024-11-29T15:33:04Z"
+        },
+        {
+            "name": "CODSOFT",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/anuprabha556/CODSOFT",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-23T17:04:33Z"
+        },
+        {
+            "name": "KTU-BAZAAR",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/KTU-BAZAAR",
+            "language": "PHP",
+            "updatedAt": "2024-11-23T12:53:19Z"
+        },
+        {
+            "name": "KTU-BAZAAR-4",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/KTU-BAZAAR-4",
+            "language": "PHP",
+            "updatedAt": "2024-11-23T12:24:58Z"
+        },
+        {
+            "name": "useless",
+            "description": "uselss project",
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/useless",
+            "language": "HTML",
+            "updatedAt": "2024-11-15T13:45:02Z"
+        },
+        {
+            "name": "proposal.",
+            "description": "A cute website I'm making to ask my girlfriend to prom (she already knows I'm going with her, she just said I still need to make a promposal \ud83d\ude44)",
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/proposal.",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-14T14:09:07Z"
+        },
+        {
+            "name": "genztranslate",
+            "description": "ztranslate is a machine learning model that translates Gen Z slang into common English.",
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/genztranslate",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-11-01T13:59:43Z"
+        },
+        {
+            "name": "lovecompatibility-website",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/lovecompatibility-website",
+            "language": "CSS",
+            "updatedAt": "2024-10-21T18:13:47Z"
+        },
+        {
+            "name": "proposal",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NIGHTFURY609/proposal",
+            "language": "Unknown",
+            "updatedAt": "2024-10-21T17:07:05Z"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 18,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "Hackathon-Winning-Tips-Tricks",
+                "description": "Must need repo to level up on Hackathon Events!! Master the art of problem solving and ideating projects. Be sure to use these tips nd tricks on your next hackathon!!!",
+                "url": "https://github.com/progprnv/Hackathon-Winning-Tips-Tricks"
+            },
+            {
+                "name": "CarbonCents",
+                "description": "verum thee",
+                "url": "https://github.com/MohdNihaal/CarbonCents"
+            },
+            {
+                "name": "Suraksha",
+                "description": "Suraksha",
+                "url": "https://github.com/DJRGDHRUVAM/Suraksha"
+            },
+            {
+                "name": "Burn-Book",
+                "description": "An annonymous confessions site written in entirely nextjs, themed after Mean Girls' \"Burn Book\". Uses mongodb, and a handful of react packages.",
+                "url": "https://github.com/Team-Tritan/Burn-Book"
+            },
+            {
+                "name": "confession",
+                "description": "Confession box is the web app to make confessions anonymously.",
+                "url": "https://github.com/ankitkdev/confession"
+            },
+            {
+                "name": "confessions-client",
+                "description": null,
+                "url": "https://github.com/malcodeman/confessions-client"
+            },
+            {
+                "name": "Confessia",
+                "description": "Confessia adalah platform inovatif yang mengajak pengguna menjelajahi dunia anonimitas dan ungkapan emosi tanpa batas. Dengan menjaga identitas tersembunyi, Confessia menciptakan ruang di mana para user dapat berbagi pikiran, pengalaman, dan khayalan mereka dengan bebas.",
+                "url": "https://github.com/dxxyo/Confessia"
+            },
+            {
+                "name": "confessionbot",
+                "description": "Confession Bot for discord written in typescript",
+                "url": "https://github.com/oadpoaw/confessionbot"
+            },
+            {
+                "name": "spot-seek-bot",
+                "description": "spotify music downloader telegram bot (tracks, albums, playlists)",
+                "url": "https://github.com/arashnm80/spot-seek-bot"
+            },
+            {
+                "name": "recipeduo",
+                "description": null,
+                "url": "https://github.com/shafeehshakkir/recipeduo"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 51,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "NIGHTFURY609/wdwudewifhwi": {
+            "link": "https://github.com/NIGHTFURY609/wdwudewifhwi",
+            "summary": "Recent activities have included the initial setup of the repository, multiple file uploads, and a successful merge of a pull request significantly revamping the website. Additions such as Google Analytics integration and Adsense verification for the website's index page have also been made."
+        },
+        "NIGHTFURY609/worst-websiute": {
+            "link": "https://github.com/NIGHTFURY609/worst-websiute",
+            "summary": "Recent activities involved the initial setup and configuration of the repository. Updates to the login page have been made, along with a major overhaul of the website through a pull request merge. Multiple file uploads have also been performed."
+        },
+        "NIGHTFURY609/KTU-BAZAAR": {
+            "link": "https://github.com/NIGHTFURY609/KTU-BAZAAR",
+            "summary": "The repository has seen a series of file uploads recently, with significant additions to the repository's content."
+        }
+    },
+    "profile_summary": "Jeswin Christie is a forward-thinking full stack developer with a proven track record of building innovative solutions using JavaScript, Python, and HTML. With a foundation in fundamental coding principles, Jeswin excels at creating high-quality, efficient applications that deliver exceptional user experiences. Their expertise spans the entire development lifecycle, from conceptualization to deployment, making them a valuable asset to any project team.\n\nAs an enthusiastic and dedicated developer, Jeswin consistently demonstrates a commitment to best practices, industry trends, and continuous learning. With a diverse portfolio of 18 public repositories, Jeswin showcases a breadth of technical knowledge and versatility in tackling complex development challenges. While building a professional network, Jeswin is poised to collaborate with fellow developers and leverage their expertise to drive creative solutions and success in the ever-evolving tech landscape.",
+    "contributions_data": {
+        "NIGHTFURY609/wdwudewifhwi": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-29T15:33:01",
+                "messages": [
+                    "Update index.html\n\naddsense verification"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-29T15:00:35",
+                "messages": [
+                    "Initial commit",
+                    "Add files via upload",
+                    "Create CNAME",
+                    "Update CNAME",
+                    "Delete CNAME",
+                    "Add files via upload",
+                    "Add files via upload",
+                    "Merge pull request #1 from NIGHTFURY609/NIGHTFURY609-patch-1\n\nrewamped the website",
+                    "google analytics addition"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-27T15:14:52",
+                "messages": [
+                    "ryree\n\negregrf"
+                ]
+            }
+        ],
+        "NIGHTFURY609/worst-websiute": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-27T15:08:12",
+                "messages": [
+                    "Update login.html"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-27T15:07:21",
+                "messages": [
+                    "df\n\nwweegeg"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-27T15:05:27",
+                "messages": [
+                    "Initial commit",
+                    "Add files via upload",
+                    "Create CNAME",
+                    "Update CNAME",
+                    "Delete CNAME",
+                    "Add files via upload",
+                    "Add files via upload",
+                    "Merge pull request #1 from NIGHTFURY609/NIGHTFURY609-patch-1\n\nrewamped the website"
+                ]
+            }
+        ],
+        "NIGHTFURY609/KTU-BAZAAR": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-23T12:53:16",
+                "messages": [
+                    "Add files via upload"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-23T10:12:08",
+                "messages": [
+                    "Add files via upload"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-23T10:03:45",
+                "messages": [
+                    "Add files via upload"
+                ]
+            }
+        ],
+        "NIGHTFURY609/useless": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-15T13:45:00",
+                "messages": [
+                    "Add files via upload"
+                ]
+            }
+        ]
+    }
+}

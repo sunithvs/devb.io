@@ -1,0 +1,223 @@
+{
+    "username": "MrStark-1234",
+    "name": "Johan Biju paul",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/108187150?v=4",
+    "profile_url": "https://github.com/MrStark-1234",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "HTML",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Auradetector",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Jopauljose/Auradetector",
+            "language": "Python",
+            "updatedAt": "2024-11-16T15:32:20Z"
+        },
+        {
+            "name": "AuraDetector1",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Jopauljose/AuraDetector1",
+            "language": "Python",
+            "updatedAt": "2024-10-26T02:21:15Z"
+        },
+        {
+            "name": "open-react-template",
+            "description": "A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by",
+            "stars": 0,
+            "url": "https://github.com/MrStark-1234/open-react-template",
+            "language": "TypeScript",
+            "updatedAt": "2024-09-18T16:10:55Z"
+        },
+        {
+            "name": "FIX-AR--Spark-AR-prototype--",
+            "description": "FIX-AR prototype showcasing basic functionality of displaying data sheet.",
+            "stars": 0,
+            "url": "https://github.com/MrStark-1234/FIX-AR--Spark-AR-prototype--",
+            "language": "Unknown",
+            "updatedAt": "2024-01-26T17:27:50Z"
+        },
+        {
+            "name": "FIX-AR-",
+            "description": "AR application that assists with building and repairing electronics.",
+            "stars": 0,
+            "url": "https://github.com/MrStark-1234/FIX-AR-",
+            "language": "Python",
+            "updatedAt": "2023-12-19T14:19:52Z"
+        },
+        {
+            "name": "AI-Search-problems-Maze-",
+            "description": "Solving maze using Breadth First Search  and Depth First Search and displaying solution using PIL.",
+            "stars": 0,
+            "url": "https://github.com/MrStark-1234/AI-Search-problems-Maze-",
+            "language": "Python",
+            "updatedAt": "2023-12-10T15:58:02Z"
+        },
+        {
+            "name": "make-a-ton-Readers-LinkedIn",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/achuthspai04/make-a-ton-Readers-LinkedIn",
+            "language": "HTML",
+            "updatedAt": "2023-11-04T08:44:40Z"
+        },
+        {
+            "name": "stackup-codeflux",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Mathew-Paul/stackup-codeflux",
+            "language": "Unknown",
+            "updatedAt": "2023-11-02T15:41:42Z"
+        },
+        {
+            "name": "Paperless-campus",
+            "description": "Web application which facilitates the need for paperless campus.",
+            "stars": 2,
+            "url": "https://github.com/MrStark-1234/Paperless-campus",
+            "language": "HTML",
+            "updatedAt": "2023-06-06T05:12:23Z"
+        },
+        {
+            "name": "Flask-Web-App-Tutorial",
+            "description": "Code for the note storing flask web app made during a YouTube video. ",
+            "stars": 1,
+            "url": "https://github.com/MrStark-1234/Flask-Web-App-Tutorial",
+            "language": "HTML",
+            "updatedAt": "2023-06-06T05:12:18Z"
+        }
+    ],
+    "followers": 19,
+    "following": 42,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "ai-getting-started",
+                "description": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",
+                "url": "https://github.com/a16z-infra/ai-getting-started"
+            },
+            {
+                "name": "learning-notes",
+                "description": "Notes on books I read, talks I watch, articles I study, and papers I love",
+                "url": "https://github.com/keyvanakbary/learning-notes"
+            },
+            {
+                "name": "fromthetransistor",
+                "description": "From the Transistor to the Web Browser, a rough outline for a 12 week course",
+                "url": "https://github.com/geohot/fromthetransistor"
+            },
+            {
+                "name": "Blended-RAG",
+                "description": "Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers",
+                "url": "https://github.com/ibm-ecosystem-engineering/Blended-RAG"
+            },
+            {
+                "name": "connected-crossroad",
+                "description": "MANET application using Google's Nearby Connections API",
+                "url": "https://github.com/jrodal98/connected-crossroad"
+            },
+            {
+                "name": "llm-app-stack",
+                "description": null,
+                "url": "https://github.com/a16z-infra/llm-app-stack"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "AdEMAMix-Optimizer-Keras",
+                "description": "A Keras 3 Implementation of AdEMAMix Optimizer",
+                "url": "https://github.com/IMvision12/AdEMAMix-Optimizer-Keras"
+            },
+            {
+                "name": "django",
+                "description": "The Web framework for perfectionists with deadlines.",
+                "url": "https://github.com/django/django"
+            },
+            {
+                "name": "machine-learning-cheat-sheet",
+                "description": "Classical equations and diagrams in machine learning",
+                "url": "https://github.com/soulmachine/machine-learning-cheat-sheet"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "AuraDetector1": {
+            "link": "https://github.com/Jopauljose/AuraDetector1",
+            "summary": "Recent updates in AuraDetector1 repository were made to enhance the user interface and incorporate CSS styling, indicating significant strides in the project's user experience development."
+        },
+        "Auradetector": {
+            "link": "https://github.com/Jopauljose/Auradetector",
+            "summary": "Activities in the Auradetector repository demonstrate enhancements to the project structure and database, suggesting ongoing efforts towards refining the project's architecture and functionality."
+        }
+    },
+    "profile_summary": "Johan Biju Paul is a highly skilled and accomplished software developer with a strong foundation in Python, HTML, and TypeScript, showcasing a unique blend of backend and frontend expertise. With a proven track record of delivering innovative solutions, Johan brings a rare combination of technical acumen and creative vision to the table. His extensive experience in Python development makes him an invaluable asset for any project requiring scalable, efficient, and data-driven solutions.\n\nAs an active contributor to the open-source community, Johan has built a remarkable professional network with 19 followers and maintains 13 public repositories, a testament to his commitment to collaborative development and continuous learning. As a trusted technical expert, Johan brings a high level of expertise and professionalism to every project he undertakes, ensuring timely delivery, top-notch quality, and exceptional results that consistently exceed expectations.",
+    "contributions_data": {
+        "Jopauljose/AuraDetector1": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T02:21:13",
+                "messages": [
+                    "UI changes"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T02:08:35",
+                "messages": [
+                    "css file"
+                ]
+            }
+        ],
+        "Jopauljose/Auradetector": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T18:02:08",
+                "messages": [
+                    "file structure updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T17:35:52",
+                "messages": [
+                    "db update"
+                ]
+            }
+        ],
+        "MrStark-1234/open-react-template": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-18T16:10:51",
+                "messages": [
+                    "initial commit\n\ncompany website"
+                ]
+            }
+        ]
+    }
+}

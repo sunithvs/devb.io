@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # Ensure the workflow has write access to contents
+
 jobs:
   sync-to-data-branch:
     runs-on: ubuntu-latest

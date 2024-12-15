@@ -1,0 +1,247 @@
+{
+    "username": "varshashaheen",
+    "name": "Varsha Shaheen",
+    "bio": "Third-year Computer Science student at Cochin University Of Science And Technology.",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97077639?u=06923288c32165746388cafcea4556706b331e8d&v=4",
+    "profile_url": "https://github.com/VarshaShaheen",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "HTML",
+            21
+        ],
+        [
+            "JavaScript",
+            10
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "IconMat",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/IconMat",
+            "language": "HTML",
+            "updatedAt": "2024-12-14T15:16:51Z"
+        },
+        {
+            "name": "IWCMLQC",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/IWCMLQC",
+            "language": "HTML",
+            "updatedAt": "2024-12-05T04:37:05Z"
+        },
+        {
+            "name": "Network-Lab-S7",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Network-Lab-S7",
+            "language": "Python",
+            "updatedAt": "2024-11-28T06:05:47Z"
+        },
+        {
+            "name": "Kanchivaram",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Kanchivaram",
+            "language": "CSS",
+            "updatedAt": "2024-11-23T15:40:31Z"
+        },
+        {
+            "name": "graphics-lab",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/VarshaShaheen/graphics-lab",
+            "language": "Python",
+            "updatedAt": "2024-11-16T09:37:38Z"
+        },
+        {
+            "name": "cluster-mpi",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/cluster-mpi",
+            "language": "Python",
+            "updatedAt": "2024-10-27T15:56:52Z"
+        },
+        {
+            "name": "Civil-Website",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Civil-Website",
+            "language": "HTML",
+            "updatedAt": "2024-09-01T12:24:42Z"
+        },
+        {
+            "name": "QUIC_implementation",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/QUIC_implementation",
+            "language": "Python",
+            "updatedAt": "2024-08-17T17:18:53Z"
+        },
+        {
+            "name": "physics-conference",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/physics-conference",
+            "language": "HTML",
+            "updatedAt": "2024-08-11T09:20:02Z"
+        },
+        {
+            "name": "youth-welfare-cusat",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/youth-welfare-cusat",
+            "language": "JavaScript",
+            "updatedAt": "2024-08-10T16:05:28Z"
+        }
+    ],
+    "followers": 42,
+    "following": 3,
+    "public_repos": 81,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "python-automation-tool",
+                "description": null,
+                "url": "https://github.com/keerthana-ar/python-automation-tool"
+            },
+            {
+                "name": "WatchPost",
+                "description": "WatchPost is an automated LinkedIn post creation tool that creates LinkedIn posts for you based on your activity on GitHub. It goes through your repos checks what happened in the last 24 hours and based on that writes you a LinkedIn post talking about what you have been up to since the last post.",
+                "url": "https://github.com/rohittp0/WatchPost"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 431,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "IWCMLQC": {
+            "link": "https://github.com/VarshaShaheen/IWCMLQC",
+            "summary": "The repository has seen recent updates with refinements to the brochure and registration forms, introducing new features and fixing issues to enhance the overall experience."
+        },
+        "Network-Lab-S7": {
+            "link": "https://github.com/VarshaShaheen/Network-Lab-S7",
+            "summary": "The repository has undergone significant updates with multiple commits focusing on program additions, expanding its functionality and coverage."
+        }
+    },
+    "profile_summary": "Varsha Shaheen is a highly skilled and innovative developer with a strong foundation in programming languages including Python, HTML, and JavaScript. As a third-year student at the prestigious Cochin University of Science and Technology, Varsha has been actively honing her technical skills and expanding her professional network. With a growing following of 42 professionals and a portfolio of 81 public repositories, Varsha has established herself as a talented and dedicated developer in her field.\n\nEquipped with a solid understanding of computer science fundamentals and a passion for innovative problem-solving, Varsha is well-positioned to deliver high-quality solutions that meet the evolving needs of the tech industry. Her expertise in web development, scripting, and programming languages enables her to tackle complex projects with confidence and precision. As a rising star in the developer community, Varsha is committed to ongoing learning and professional growth, ensuring that her skills and expertise remain at the forefront of industry trends and best practices.",
+    "contributions_data": {
+        "VarshaShaheen/IWCMLQC": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-05T04:37:03",
+                "messages": [
+                    "changed brochure"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-04T06:28:54",
+                "messages": [
+                    "changed brochure",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-22T15:19:20",
+                "messages": [
+                    "Date changed to 25"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-01T12:44:10",
+                "messages": [
+                    "changed dates and brochure"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-06T17:13:16",
+                "messages": [
+                    "brochure changed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T10:54:56",
+                "messages": [
+                    "registration form updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-20T09:24:36",
+                "messages": [
+                    "registration form updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-20T09:20:59",
+                "messages": [
+                    "registration form updated"
+                ]
+            }
+        ],
+        "VarshaShaheen/Network-Lab-S7": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T06:05:45",
+                "messages": [
+                    "added programs"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T06:05:00",
+                "messages": [
+                    "added programs"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-18T04:04:53",
+                "messages": [
+                    "added programs"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-18T03:31:49",
+                "messages": [
+                    "added programs"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-18T03:03:46",
+                "messages": [
+                    "added programs"
+                ]
+            }
+        ],
+        "VarshaShaheen/IconMat": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-20T09:12:07",
+                "messages": [
+                    "Remove .idea directory from tracking and update .gitignore"
+                ]
+            }
+        ]
+    }
+}

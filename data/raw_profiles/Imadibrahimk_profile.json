@@ -1,0 +1,342 @@
+{
+    "username": "Imadibrahimk",
+    "name": "Imad Ibrahim ",
+    "bio": "Full Stack Developer",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/119976083?u=ab183330d45dfa223b3b4cc083f9458e4b82301b&v=4",
+    "profile_url": "https://github.com/imadibrahimk",
+    "top_languages": [
+        [
+            "JavaScript",
+            10
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tinkerspace_digital",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/tinkerhub/tinkerspace_digital",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-08T15:10:33Z"
+        },
+        {
+            "name": "RenderKeepAlive",
+            "description": " Deno-based server to periodically ping a Render app instance, preventing it from spinning down due to inactivity.",
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/RenderKeepAlive",
+            "language": "TypeScript",
+            "updatedAt": "2024-11-08T10:20:28Z"
+        },
+        {
+            "name": "MongoDB-Autocomplete-Search",
+            "description": "A Node.js and MongoDB-based autocomplete search application. Uses an Express server to provide real-time suggestions from a MongoDB database as users type, showcasing efficient database querying and frontend integration.",
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/MongoDB-Autocomplete-Search",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-04T14:05:04Z"
+        },
+        {
+            "name": "StockSymbolScraper",
+            "description": "A web scraper for gathering stock names and symbols from Screener.in, saving the data into structured text and PDF formats.",
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/StockSymbolScraper",
+            "language": "Python",
+            "updatedAt": "2024-11-01T13:23:51Z"
+        },
+        {
+            "name": "sample_tinkerSpace",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/sample_tinkerSpace",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-30T12:19:56Z"
+        },
+        {
+            "name": "CrossSiteConnect",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/CrossSiteConnect",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-24T19:28:48Z"
+        },
+        {
+            "name": "tinkerspace",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/tinkerspace",
+            "language": "Unknown",
+            "updatedAt": "2024-09-21T12:11:27Z"
+        },
+        {
+            "name": "AudioEnhancer",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/AudioEnhancer",
+            "language": "Unknown",
+            "updatedAt": "2024-06-20T09:17:50Z"
+        },
+        {
+            "name": "youtube_downloader",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/imadibrahimk/youtube_downloader",
+            "language": "Python",
+            "updatedAt": "2024-06-10T06:04:15Z"
+        },
+        {
+            "name": "Noor-Al-Shams",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/akashkottil/Noor-Al-Shams",
+            "language": "JavaScript",
+            "updatedAt": "2024-06-08T13:50:38Z"
+        }
+    ],
+    "followers": 20,
+    "following": 31,
+    "public_repos": 30,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "thanos_snap",
+                "description": null,
+                "url": "https://github.com/imadibrahimk/thanos_snap"
+            },
+            {
+                "name": "swiper",
+                "description": "Most modern mobile touch slider with hardware accelerated transitions",
+                "url": "https://github.com/nolimits4web/swiper"
+            },
+            {
+                "name": "latexify_py",
+                "description": "A library to generate LaTeX expression from Python code.",
+                "url": "https://github.com/google/latexify_py"
+            },
+            {
+                "name": "Swing-calculator",
+                "description": null,
+                "url": "https://github.com/imadibrahimk/Swing-calculator"
+            },
+            {
+                "name": "CLASS-ROOM-MANAGEMENT-SYSTEM",
+                "description": null,
+                "url": "https://github.com/Jobin-S/CLASS-ROOM-MANAGEMENT-SYSTEM"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 377,
+        "repositories_contributed_to": 10,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "tinkerhub/tinkerspace_digital": {
+            "link": "https://github.com/tinkerhub/tinkerspace_digital",
+            "summary": "Recent updates focused on addressing build issues, updating dependencies like React and React Slick, and organizing code by separating functions into individual files. Multiple push events have been made with various minor updates."
+        },
+        "imadibrahimk/RenderKeepAlive": {
+            "link": "https://github.com/imadibrahimk/RenderKeepAlive",
+            "summary": "The repository experienced updates with the modification of the time interval for pinging a health endpoint, initially reduced for testing purposes and then set to 1 minute for production."
+        },
+        "imadibrahimk/CrossSiteConnect": {
+            "link": "https://github.com/imadibrahimk/CrossSiteConnect",
+            "summary": "The repository experienced an update that included the creation of a CNAME, alongside minor changes captured under general updates."
+        }
+    },
+    "profile_summary": "Imad Ibrahim is a highly skilled Full Stack Developer with a strong foundation in JavaScript, Python, and HTML, driving innovative solutions that meet and exceed project requirements. As a seasoned professional, he brings extensive expertise in designing, developing, and deploying scalable applications that cater to a wide range of industries and business needs. With a proven track record of delivering high-quality results, Imad has established a reputable presence in the developer community, garnering 20 followers who recognize his technical prowess.\n\nWith an impressive portfolio of 30 public repositories, Imad consistently demonstrates his commitment to active development, problem-solving, and continuous learning. His unique value proposition lies in his ability to bridge the gap between front-end and back-end development, leveraging his technical expertise to craft seamless user experiences. As a devoted and collaborative developer, Imad seeks to push the boundaries of what is possible, driven by a passion for coding, a commitment to delivering exceptional results, and a dedication to staying at the forefront of industry advancements.",
+    "contributions_data": {
+        "tinkerhub/tinkerspace_digital": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T09:29:09",
+                "messages": [
+                    "fix: install missing Babel plugin and address build issues"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T09:26:46",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T09:23:57",
+                "messages": [
+                    "Updated React and React DOM to version 18.3.1 and React Slick to version 0.30.2. Addressed vulnerabi"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T09:19:56",
+                "messages": [
+                    "Organized code by separating functions into individual files and removed unused dependencies"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T11:49:59",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T18:15:31",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T17:48:56",
+                "messages": [
+                    "added badges"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T17:48:28",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T17:19:26",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T16:16:51",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T16:11:17",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T16:08:05",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T14:47:03",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T14:21:28",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T14:12:15",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T14:04:52",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T14:01:37",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T13:41:33",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T13:40:39",
+                "messages": [
+                    "Updates"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-26T13:36:44",
+                "messages": [
+                    "Updates"
+                ]
+            }
+        ],
+        "imadibrahimk/RenderKeepAlive": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-08T10:20:26",
+                "messages": [
+                    "Set interval to ping the health endpoint every 1 minute (60,000 ms)"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-02T11:41:59",
+                "messages": [
+                    "time interval changed to 5 minutes"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-02T11:38:22",
+                "messages": [
+                    "redused time interval for testing"
+                ]
+            }
+        ],
+        "imadibrahimk/CrossSiteConnect": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-25T06:55:34",
+                "messages": [
+                    "Create CNAME"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-25T06:55:24",
+                "messages": [
+                    "Updates"
+                ]
+            }
+        ]
+    }
+}

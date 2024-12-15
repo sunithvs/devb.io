@@ -1,0 +1,320 @@
+{
+    "username": "geohot",
+    "name": "George Hotz",
+    "bio": "We will commoditize the petaflop.",
+    "location": "San Diego, CA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/72895?u=64c16e3f87c708f1f3920331f1f6285f6529960e&v=4",
+    "profile_url": "https://github.com/geohot",
+    "top_languages": [
+        [
+            "Python",
+            32
+        ],
+        [
+            "C",
+            16
+        ],
+        [
+            "C++",
+            14
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! \u2764\ufe0f ",
+            "stars": 27179,
+            "url": "https://github.com/tinygrad/tinygrad",
+            "language": "Python",
+            "updatedAt": "2024-12-15T07:41:32Z"
+        },
+        {
+            "name": "fromthetransistor",
+            "description": "From the Transistor to the Web Browser, a rough outline for a 12 week course",
+            "stars": 5322,
+            "url": "https://github.com/geohot/fromthetransistor",
+            "language": "Unknown",
+            "updatedAt": "2024-12-14T22:59:36Z"
+        },
+        {
+            "name": "qira",
+            "description": "QEMU Interactive Runtime Analyser",
+            "stars": 3970,
+            "url": "https://github.com/geohot/qira",
+            "language": "C",
+            "updatedAt": "2024-12-14T19:06:48Z"
+        },
+        {
+            "name": "mergesorts",
+            "description": "mergesort in many languages",
+            "stars": 262,
+            "url": "https://github.com/geohot/mergesorts",
+            "language": "Shell",
+            "updatedAt": "2024-12-14T12:11:20Z"
+        },
+        {
+            "name": "minikeyvalue",
+            "description": "A distributed key value store in under 1000 lines. Used in production at comma.ai",
+            "stars": 2968,
+            "url": "https://github.com/geohot/minikeyvalue",
+            "language": "Go",
+            "updatedAt": "2024-12-14T12:10:11Z"
+        },
+        {
+            "name": "configuration",
+            "description": "Like some files bro",
+            "stars": 410,
+            "url": "https://github.com/geohot/configuration",
+            "language": "Shell",
+            "updatedAt": "2024-12-14T03:24:07Z"
+        },
+        {
+            "name": "twitchslam",
+            "description": "A toy implementation of monocular SLAM written while livestreaming",
+            "stars": 978,
+            "url": "https://github.com/geohot/twitchslam",
+            "language": "Python",
+            "updatedAt": "2024-12-11T16:45:44Z"
+        },
+        {
+            "name": "corona",
+            "description": "Reverse engineering SARS-CoV-2",
+            "stars": 2485,
+            "url": "https://github.com/geohot/corona",
+            "language": "Python",
+            "updatedAt": "2024-12-11T05:34:28Z"
+        },
+        {
+            "name": "ai-notebooks",
+            "description": "Some ipython notebooks implementing AI algorithms",
+            "stars": 1280,
+            "url": "https://github.com/geohot/ai-notebooks",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-12-11T02:17:10Z"
+        },
+        {
+            "name": "7900xtx",
+            "description": null,
+            "stars": 386,
+            "url": "https://github.com/tinygrad/7900xtx",
+            "language": "Python",
+            "updatedAt": "2024-12-09T20:24:19Z"
+        }
+    ],
+    "followers": 43876,
+    "following": 0,
+    "public_repos": 96,
+    "pull_requests_merged": 1378,
+    "issues_closed": 285,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "XiangShan",
+                "description": "Open-source high-performance RISC-V processor",
+                "url": "https://github.com/OpenXiangShan/XiangShan"
+            },
+            {
+                "name": "jaxtyping",
+                "description": "Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/",
+                "url": "https://github.com/patrick-kidger/jaxtyping"
+            },
+            {
+                "name": "BLAKE3",
+                "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+                "url": "https://github.com/BLAKE3-team/BLAKE3"
+            },
+            {
+                "name": "hlb-gpt",
+                "description": "Minimalistic, extremely fast, and hackable researcher's toolbench for GPT models in 307 lines of code. Reaches <3.8 validation loss on wikitext-103 on a single A100 in <100 seconds. Scales to larger models with one parameter change (feature currently in alpha).",
+                "url": "https://github.com/tysam-code/hlb-gpt"
+            },
+            {
+                "name": "entropix",
+                "description": "Entropy Based Sampling and Parallel CoT Decoding ",
+                "url": "https://github.com/xjdr-alt/entropix"
+            },
+            {
+                "name": "Stockfish",
+                "description": "A free and strong UCI chess engine",
+                "url": "https://github.com/official-stockfish/Stockfish"
+            },
+            {
+                "name": "LibreCuda",
+                "description": null,
+                "url": "https://github.com/mikex86/LibreCuda"
+            },
+            {
+                "name": "tensor-tic-tac-toe",
+                "description": "parallelized hyperdimensional tictactoe",
+                "url": "https://github.com/spikedoanz/tensor-tic-tac-toe"
+            },
+            {
+                "name": "nv_isa_solver",
+                "description": "Nvidia Instruction Set Specification Generator",
+                "url": "https://github.com/kuterd/nv_isa_solver"
+            },
+            {
+                "name": "PufferLib",
+                "description": "Simplifying reinforcement learning for complex game environments",
+                "url": "https://github.com/PufferAI/PufferLib"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 2592,
+        "repositories_contributed_to": 14,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "tinygrad/tinygrad": {
+            "link": "https://github.com/tinygrad/tinygrad",
+            "summary": "Recent activities in the tinygrad repository have focused on enhancements and fixes to the deep learning framework, including improvements to the reshape function, the addition of a buf_uop_view function, and the resolution of a failed test case. Multiple pull requests have been submitted to address issues with gradients and the API, showcasing the ongoing effort to refine and expand the framework's capabilities."
+        }
+    },
+    "profile_summary": "George Hotz is a highly accomplished developer with a strong technical foundation in languages such as Python, C, and C++. With a large following of over 43,800 like-minded professionals, he has demonstrated exceptional abilities in creating innovative, high-impact projects that contribute to the growth of the developer community. His portfolio boasts an impressive collection of 96 public repositories, a testament to his dedication to constant learning and improvement in the field of software development.\n\nAs a visionary developer, George aims to push the boundaries of what is possible in the world of technology. His mantra, \"We will commoditize the petaflop,\" reflects his passion for harnessing the power of computing and making it more accessible to the masses. With his technical expertise and collaborative spirit, he continues to drive progress in the field, inspiring fellow developers and leaving a lasting impact on the world of technology.",
+    "contributions_data": {
+        "tinygrad/tinygrad": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T23:20:00",
+                "messages": [
+                    "buf_uop_view function"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T23:17:27",
+                "messages": [
+                    "they need 22.04 + remove srcs"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-14T23:04:36",
+                "messages": [
+                    "Title: ignore mop noops [pr]\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T23:02:27",
+                "messages": [
+                    "add noop cast"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T22:57:37",
+                "messages": [
+                    "why does that fail?"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T22:39:51",
+                "messages": [
+                    "failed test case for stable sigmoid (#8245)\n\nit should also work if implemented differently",
+                    "remove an if in reshape [pr] (#8246)\n\nnot needed, likely a hack to work around pre-resolve?",
+                    "Merge branch 'master' into use_new_gradient"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T19:40:36",
+                "messages": [
+                    "fix some sigmoid extreme (#8238)\n\n* fix some sigmoid extreme\r\n\r\nquite brittle... the problem is it h",
+                    "Merge branch 'master' into use_new_gradient"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-14T13:14:50",
+                "messages": [
+                    "Title: update for new optim api [pr]\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T05:03:59",
+                "messages": [
+                    "hotfix: a few more grad tests",
+                    "Merge branch 'master' into use_new_gradient"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T05:03:41",
+                "messages": [
+                    "hotfix: a few more grad tests"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T04:46:55",
+                "messages": [
+                    "more comments and tests to reshape [pr] (#8236)",
+                    "compute gradient [pr] (#8237)\n\n* compute gradient [pr]\r\n\r\n* schedule_step_with_grads\r\n\r\n* second der",
+                    "Merge branch 'master' into use_new_gradient"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T04:46:03",
+                "messages": [
+                    "compute gradient [pr] (#8237)\n\n* compute gradient [pr]\r\n\r\n* schedule_step_with_grads\r\n\r\n* second der"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-14T04:46:02",
+                "messages": [
+                    "Title: compute gradient [pr]\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T04:41:31",
+                "messages": [
+                    "second deriv works"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T04:36:17",
+                "messages": [
+                    "more comments and tests to reshape [pr] (#8236)",
+                    "Merge branch 'master' into compute_gradient"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T04:29:58",
+                "messages": [
+                    "schedule_step_with_grads"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-14T04:25:27",
+                "messages": [
+                    "Title: compute gradient [pr]\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T03:51:53",
+                "messages": [
+                    "set device correctly, dedup"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-14T03:45:52",
+                "messages": [
+                    "Title: switch backward to use gradient [pr]\nBody: No description"
+                ]
+            }
+        ]
+    }
+}

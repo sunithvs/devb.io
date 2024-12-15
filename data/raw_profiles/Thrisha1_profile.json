@@ -1,0 +1,375 @@
+{
+    "username": "Thrisha1",
+    "name": "Thrisha Kannan",
+    "bio": "BTech IT student @ CUSAT\r\nCo-Founder & Managing Head of an Ed-Tec startup : NOTIME\r\nFull Stack Developer \r\nCloud Professional",
+    "location": "Palakkad Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98538342?u=a4da55e13f6d4de521fde56eac38b49dcfe9efdf&v=4",
+    "profile_url": "https://github.com/Thrisha1",
+    "top_languages": [
+        [
+            "JavaScript",
+            45
+        ],
+        [
+            "HTML",
+            13
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "crave-native",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NoTimeInnovations/crave-native",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-11T16:56:06Z"
+        },
+        {
+            "name": "my-new-portfolio",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Thrisha1/my-new-portfolio",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-14T17:06:13Z"
+        },
+        {
+            "name": "notime-folio-payload",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/NoTimeInnovations/notime-folio-payload",
+            "language": "TypeScript",
+            "updatedAt": "2024-11-14T11:40:48Z"
+        },
+        {
+            "name": "notime-folio",
+            "description": null,
+            "stars": 2,
+            "url": "https://github.com/NoTimeInnovations/notime-folio",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-06T13:19:52Z"
+        },
+        {
+            "name": "use_less_app",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/DareDevilStudios/use_less_app",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-26T12:29:37Z"
+        },
+        {
+            "name": "Thrisha1",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Thrisha1/Thrisha1",
+            "language": "Unknown",
+            "updatedAt": "2024-10-01T09:20:02Z"
+        },
+        {
+            "name": "Safewalk",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Thrisha1/Safewalk",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-29T20:56:34Z"
+        },
+        {
+            "name": "NoTime-OpenSource-repo",
+            "description": "repo created to get contributions from github workshop participants",
+            "stars": 0,
+            "url": "https://github.com/Thrisha1/NoTime-OpenSource-repo",
+            "language": "HTML",
+            "updatedAt": "2024-09-28T10:42:42Z"
+        },
+        {
+            "name": "github-workshop-repo",
+            "description": "here we teach you step by step the art of web development",
+            "stars": 0,
+            "url": "https://github.com/Thrisha1/github-workshop-repo",
+            "language": "HTML",
+            "updatedAt": "2024-09-28T10:05:38Z"
+        },
+        {
+            "name": "SAIT",
+            "description": null,
+            "stars": 3,
+            "url": "https://github.com/SAIT-CUSAT/SAIT",
+            "language": "JavaScript",
+            "updatedAt": "2024-08-31T06:12:50Z"
+        }
+    ],
+    "followers": 21,
+    "following": 12,
+    "public_repos": 72,
+    "pull_requests_merged": 57,
+    "issues_closed": 2,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "Leaflet",
+                "description": "\ud83c\udf43 JavaScript library for mobile-friendly interactive maps \ud83c\uddfa\ud83c\udde6",
+                "url": "https://github.com/Leaflet/Leaflet"
+            },
+            {
+                "name": "ydb",
+                "description": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+                "url": "https://github.com/ydb-platform/ydb"
+            },
+            {
+                "name": "specmatic-coding-test",
+                "description": "Specmatic Coding Test",
+                "url": "https://github.com/znsio/specmatic-coding-test"
+            },
+            {
+                "name": "KubeArmor",
+                "description": "Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).",
+                "url": "https://github.com/kubearmor/KubeArmor"
+            },
+            {
+                "name": "bruno",
+                "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+                "url": "https://github.com/usebruno/bruno"
+            },
+            {
+                "name": "multiwoven",
+                "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Data Activation",
+                "url": "https://github.com/Multiwoven/multiwoven"
+            },
+            {
+                "name": "react-firebase-movie-app",
+                "description": "React-movie-app ",
+                "url": "https://github.com/bbluechip/react-firebase-movie-app"
+            },
+            {
+                "name": "potfolio",
+                "description": null,
+                "url": "https://github.com/Thrisha1/potfolio"
+            },
+            {
+                "name": "folllow-the-tree",
+                "description": null,
+                "url": "https://github.com/Thrisha1/folllow-the-tree"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 157,
+        "repositories_contributed_to": 9,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "Thrisha1/Safewalk": {
+            "link": "https://github.com/Thrisha1/Safewalk",
+            "summary": "This repository recently experienced multiple push events, resulting in enhancements to the project's UI, map functionalities, and user interaction features. Map corrections, toast messaging, height adjustments, and login functionality enhancements demonstrate activities targeting improved user experience and interaction."
+        },
+        "DareDevilStudios/use_less_app": {
+            "link": "https://github.com/DareDevilStudios/use_less_app",
+            "summary": "Recent updates in this repository reveal a strong focus on app development, with changes aimed at enhancing user features, including Google authentication, landing page creation, and prompt placement. Updates to critical sections and user interface visuals demonstrate the contributors' efforts to refine the app's overall experience."
+        },
+        "NoTimeInnovations/NoTime-OpenSource-repo": {
+            "link": "https://github.com/NoTimeInnovations/NoTime-OpenSource-repo",
+            "summary": "This repository showcases the merging of pull requests and push events that enhance repository content. Activities in this repository reflect a focus on introducing new lines, and minor updates on files such as 'index.html'."
+        }
+    },
+    "profile_summary": "Thrisha Kannan is a dynamic full-stack developer with a strong background in JavaScript, HTML, and CSS, driving innovative solutions in the tech landscape. As a co-founder and managing head of NOTIME, an Ed-Tec startup, Thrisha brings expertise in designing and delivering cutting-edge applications that bridge the gap between technology and education. With a robust online presence, boasting 21 followers and 72 public repositories, Thrisha is recognized as a trusted and influential member of the developer community.\n\nAs a BTech IT student at CUSAT and a cloud professional, Thrisha combines technical excellence with a passion for entrepreneurial pursuits. With a proven track record of delivering scalable and efficient solutions, Thrisha excels at leveraging her technical skills to drive business growth and strategic innovation. By combining strong technical foundations with a forward-thinking approach, Thrisha is poised to make a lasting impact in the tech industry, shaping the future of education and technology convergence.",
+    "contributions_data": {
+        "Thrisha1/Safewalk": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:56:32",
+                "messages": [
+                    "fix: contact number fixed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:51:35",
+                "messages": [
+                    "fix: toast added"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:28:09",
+                "messages": [
+                    "height fixed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:22:37",
+                "messages": [
+                    "height change 2"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:19:18",
+                "messages": [
+                    "height change"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:17:34",
+                "messages": [
+                    "fix: map corrected",
+                    "fix: map corrected"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:11:53",
+                "messages": [
+                    "fix: map corrected"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T20:08:47",
+                "messages": [
+                    "fix: map corrected"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T19:53:47",
+                "messages": [
+                    "fix: added path"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-29T19:49:44",
+                "messages": [
+                    "fetaure added friend whatsap, report crime, logout"
+                ]
+            }
+        ],
+        "DareDevilStudios/use_less_app": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T12:29:35",
+                "messages": [
+                    "Update README.md\n\nadded video url"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T12:20:07",
+                "messages": [
+                    "position of toaster canged"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T12:14:49",
+                "messages": [
+                    "final prompt for sitting simply"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T12:09:23",
+                "messages": [
+                    "prompt added"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T10:15:47",
+                "messages": [
+                    "friends accept done",
+                    "Merge branch 'main' of https://github.com/DareDevilStudios/use_less_app"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-26T02:14:42",
+                "messages": [
+                    "created critisisms"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T15:46:56",
+                "messages": [
+                    "google auth added and todo created",
+                    "Merge branch 'main' of https://github.com/DareDevilStudios/use_less_app"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T12:06:26",
+                "messages": [
+                    "lamding page created"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T11:45:29",
+                "messages": [
+                    "updated readme"
+                ]
+            }
+        ],
+        "Thrisha1/Thrisha1": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-01T09:19:59",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-01T09:19:46",
+                "messages": [
+                    "Update README.md"
+                ]
+            }
+        ],
+        "Thrisha1/NoTime-OpenSource-repo": [
+            {
+                "type": "PushEvent",
+                "date": "2024-09-28T10:42:40",
+                "messages": [
+                    "Merge pull request #3 from Thrisha1/main\n\nnew line added",
+                    "Update index.html"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-28T10:39:12",
+                "messages": [
+                    "new line added"
+                ]
+            }
+        ],
+        "NoTimeInnovations/NoTime-OpenSource-repo": [
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-09-28T10:40:18",
+                "messages": [
+                    "Title: new line added\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-28T10:28:47",
+                "messages": [
+                    "soem changes done"
+                ]
+            }
+        ]
+    }
+}

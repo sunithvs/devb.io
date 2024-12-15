@@ -1,0 +1,394 @@
+{
+    "username": "zayn0001",
+    "name": "Mishal Kolliyath Faisal",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86125055?v=4",
+    "profile_url": "https://github.com/zayn0001",
+    "top_languages": [
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Python",
+            10
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "htmlstuff",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/devikasu/htmlstuff",
+            "language": "HTML",
+            "updatedAt": "2024-12-13T07:07:48Z"
+        },
+        {
+            "name": "Aether-Unfold24",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/tanuushree/Aether-Unfold24",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-02T06:46:06Z"
+        },
+        {
+            "name": "quantum",
+            "description": "A garbage management solution that alerts nearby garbage truck drivers based on how full the garbage containers are and provides the exact route to take for max efficiency  ",
+            "stars": 1,
+            "url": "https://github.com/zayn0001/quantum",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-29T21:16:36Z"
+        },
+        {
+            "name": "calhacks",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/zayn0001/calhacks",
+            "language": "TypeScript",
+            "updatedAt": "2024-10-20T16:41:15Z"
+        },
+        {
+            "name": "nextjs-flask-starter",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/zayn0001/nextjs-flask-starter",
+            "language": "TypeScript",
+            "updatedAt": "2024-10-18T23:57:01Z"
+        },
+        {
+            "name": "acesWebsite",
+            "description": "aces website-",
+            "stars": 0,
+            "url": "https://github.com/aaagrud/acesWebsite",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-03T22:32:40Z"
+        },
+        {
+            "name": "googlefinance-vercel",
+            "description": "a simple API for accessing financial data from Google Finance",
+            "stars": 0,
+            "url": "https://github.com/zayn0001/googlefinance-vercel",
+            "language": "Python",
+            "updatedAt": "2024-09-20T17:07:40Z"
+        },
+        {
+            "name": "django_react_ecommerce_",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/harshedabdulla/django_react_ecommerce_",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-18T18:00:39Z"
+        },
+        {
+            "name": "Code-Red",
+            "description": "The Disaster Management WhatsApp Bot is an AI-powered virtual assistant designed to provide critical and real time information and guidance during emergency situations, such as floods, to help people make informed decisions for their safety and survival based on their current location.",
+            "stars": 1,
+            "url": "https://github.com/zayn0001/Code-Red",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-03T19:56:03Z"
+        },
+        {
+            "name": "Real-Estate-Data-Bot",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/shabeeb248/Real-Estate-Data-Bot",
+            "language": "Python",
+            "updatedAt": "2024-08-18T05:36:37Z"
+        }
+    ],
+    "followers": 15,
+    "following": 1,
+    "public_repos": 38,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "phoenix",
+                "description": "AI Observability & Evaluation",
+                "url": "https://github.com/Arize-ai/phoenix"
+            },
+            {
+                "name": "mindsdb",
+                "description": "Platform for building AI that can learn and answer questions over federated data.",
+                "url": "https://github.com/mindsdb/mindsdb"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 709,
+        "repositories_contributed_to": 13,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "zayn0001/calhacks": {
+            "link": "https://github.com/zayn0001/calhacks",
+            "summary": "The repository has recently experienced significant development activity, with a large number of push events and pull requests in a short period. The changes include various code modifications, such as fixing bugs, integrating a video player, completing a video page, and enhancing image to text and speech functionality. Multiple contributors have merged their branches into the main branch, improving the overall quality and feature set of the repository."
+        },
+        "tanuushree/Aether-Unfold24": {
+            "link": "https://github.com/tanuushree/Aether-Unfold24",
+            "summary": "Recent activity in the repository includes the addition of several new files, such as contractInvoke.py, coinAnalysis.py, and router.sol. These changes suggest ongoing development and expansion of the repository's functionality."
+        },
+        "zayn0001/rockpaperscissors": {
+            "link": "https://github.com/zayn0001/rockpaperscissors",
+            "summary": "The repository has a recent push event marked as 'DONE', indicating that a specific task or development phase has been completed. More information about the changes made is not available, but it seems that significant progress has been made in this repository."
+        },
+        "devikasu/htmlstuff": {
+            "link": "https://github.com/devikasu/htmlstuff",
+            "summary": "There has been a single recent push event in the repository, where the index page was reset. This suggests a focused effort on a specific part of the project, potentially as a precursor to further changes or as a cleanup measure."
+        }
+    },
+    "profile_summary": "Mishal Kolliyath Faisal is a highly skilled and accomplished software developer with a strong background in JavaScript, Python, and HTML, consistently delivering high-quality solutions to drive technological advancements. With a proven track record of successfully managing multiple projects and collaborating with peers, Mishal has established a reputation as a reliable and innovative problem-solver, leveraging expertise to overcome complex challenges and drive projects forward.\n\nAs a prominent figure in the developer community, Mishal has cultivated a strong professional network, earning the respect and admiration of 15 followers who value expertise and insight. A prolific contributor to the open-source community, with 38 public repositories to their name, Mishal has demonstrated a commitment to knowledge sharing, community engagement, and continuous learning. With a unique blend of technical acumen, passion for innovation, and collaborative spirit, Mishal Kolliyath Faisal is an exceptional developer poised to make a lasting impact in the world of software development.",
+    "contributions_data": {
+        "zayn0001/calhacks": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T16:41:13",
+                "messages": [
+                    "done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T11:36:15",
+                "messages": [
+                    "odne"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T11:34:00",
+                "messages": [
+                    "done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T10:18:35",
+                "messages": [
+                    "done",
+                    "Merge branch 'main' of https://github.com/zayn0001/calhacks"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T09:26:07",
+                "messages": [
+                    "vapi fix",
+                    "Merge branch 'main' of https://github.com/zayn0001/calhacks"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T07:47:36",
+                "messages": [
+                    "done",
+                    "Merge branch 'main' of https://github.com/zayn0001/calhacks"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T05:32:35",
+                "messages": [
+                    "added ask"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-20T00:09:20",
+                "messages": [
+                    "fixes",
+                    "Merge branch 'main' of https://github.com/zayn0001/calhacks"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:40:10",
+                "messages": [
+                    "Video Page is done",
+                    "integrated videoplayer",
+                    "fixed integration of video",
+                    "small bugs",
+                    "Page for doctors",
+                    "Merge branch 'VideoPage' of https://github.com/zayn0001/calhacks into VideoPage",
+                    "Update page.tsx",
+                    "Update page.tsx",
+                    "Merge branch 'main' into VideoPage",
+                    "Merge pull request #3 from zayn0001/VideoPage\n\nVideo page"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-10-19T23:40:10",
+                "messages": [
+                    "Title: Video page\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:40:00",
+                "messages": [
+                    "added images for the icons",
+                    "basics for backend done",
+                    "fixed env pushing in gitignore",
+                    "deleting env",
+                    "fixed gitignore",
+                    "finished image to text, finished context retrieval",
+                    "data too long error fix",
+                    "\"Modified Landing Page\"",
+                    "Merge remote-tracking branch 'origin/Jianqing' into Mirlan\n\n# Conflicts:\n#\tapp/globals.css\n#\tapp/hom",
+                    "Added Typewriter Effect on landing page",
+                    "question to speech done",
+                    "Merged Mirlan's branch and added audio effect",
+                    "new responseintext endpoint",
+                    "Modified home page with login and sign up buttons",
+                    "changed the audio recorder",
+                    "modified the audio page buttons - to be continued",
+                    "fixed audio",
+                    "update",
+                    "update",
+                    "Merge branch 'main' into Jianqing"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:39:04",
+                "messages": [
+                    "Update page.tsx"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:38:26",
+                "messages": [
+                    "Update page.tsx"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-10-19T23:35:00",
+                "messages": [
+                    "Title: Video page\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:31:06",
+                "messages": [
+                    "next-pwa added"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:28:07",
+                "messages": [
+                    "s",
+                    "reformatted the code",
+                    "Merge pull request #1 from zayn0001/Jianqing\n\nreformatted the code",
+                    "added images for the icons",
+                    "New",
+                    "\"Modified Landing Page\"",
+                    "Merge remote-tracking branch 'origin/Jianqing' into Mirlan\n\n# Conflicts:\n#\tapp/globals.css\n#\tapp/hom",
+                    "Added Typewriter Effect on landing page",
+                    "Merged Mirlan's branch and added audio effect",
+                    "Modified home page with login and sign up buttons",
+                    "changed the audio recorder",
+                    "modified the audio page buttons - to be continued",
+                    "update",
+                    "update",
+                    "Merge branch 'main' into Jianqing",
+                    "Merge pull request #2 from zayn0001/Jianqing\n\nJianqing"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-10-19T23:28:07",
+                "messages": [
+                    "Title: Jianqing\nBody: try to merge to main"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:26:39",
+                "messages": [
+                    "basics for backend done",
+                    "fixed env pushing in gitignore",
+                    "deleting env",
+                    "fixed gitignore",
+                    "finished image to text, finished context retrieval",
+                    "data too long error fix",
+                    "question to speech done",
+                    "new responseintext endpoint",
+                    "fixed audio",
+                    "Merge branch 'main' into Jianqing"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T23:02:05",
+                "messages": [
+                    "fixed audio"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-19T19:19:02",
+                "messages": [
+                    "small bugs"
+                ]
+            }
+        ],
+        "tanuushree/Aether-Unfold24": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-02T06:46:03",
+                "messages": [
+                    "Create coinAnalysis.py"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-02T06:45:37",
+                "messages": [
+                    "Create contractInvoke.py"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-02T06:45:13",
+                "messages": [
+                    "Create router.sol"
+                ]
+            }
+        ],
+        "devikasu/htmlstuff": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-13T07:07:46",
+                "messages": [
+                    "reset the index page"
+                ]
+            }
+        ],
+        "zayn0001/rockpaperscissors": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-25T14:32:21",
+                "messages": [
+                    "DONE"
+                ]
+            }
+        ]
+    }
+}

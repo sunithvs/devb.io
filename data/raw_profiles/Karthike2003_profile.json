@@ -1,0 +1,247 @@
+{
+    "username": "Karthike2003",
+    "name": "Karthik E",
+    "bio": "Full Stack Developer |  CSE student at CUSAT 25'",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/111433578?u=9e4de3f41e85c4db45467dcd683162603dccd35a&v=4",
+    "profile_url": "https://github.com/Karthike2003",
+    "top_languages": [
+        [
+            "JavaScript",
+            22
+        ],
+        [
+            "TypeScript",
+            7
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LisaAI",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AB7zz/LisaAI",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-08T00:51:02Z"
+        },
+        {
+            "name": "LEX_LIBERALIS",
+            "description": "A fork of Semantra for Indian court judgments ",
+            "stars": 0,
+            "url": "https://github.com/Karthike2003/LEX_LIBERALIS",
+            "language": "Python",
+            "updatedAt": "2024-11-26T12:16:12Z"
+        },
+        {
+            "name": "make-a-ton-2024",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "language": "JavaScript",
+            "updatedAt": "2024-10-28T06:00:18Z"
+        },
+        {
+            "name": "w3kconfig",
+            "description": null,
+            "stars": 3,
+            "url": "https://github.com/nikhil-pn/w3kconfig",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-14T10:51:44Z"
+        },
+        {
+            "name": "helpmedecide",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/i0dheerajdileep/helpmedecide",
+            "language": "JavaScript",
+            "updatedAt": "2024-08-21T20:30:34Z"
+        },
+        {
+            "name": "Cusat_Tinder",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/Karthike2003/Cusat_Tinder",
+            "language": "JavaScript",
+            "updatedAt": "2024-08-21T19:29:18Z"
+        },
+        {
+            "name": "w3kconfig",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Karthike2003/w3kconfig",
+            "language": "JavaScript",
+            "updatedAt": "2024-08-09T10:10:22Z"
+        },
+        {
+            "name": "CRYPTOPAL",
+            "description": "updated the host url",
+            "stars": 0,
+            "url": "https://github.com/Karthike2003/CRYPTOPAL",
+            "language": "JavaScript",
+            "updatedAt": "2024-07-31T16:46:37Z"
+        },
+        {
+            "name": "SWAPSY",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Karthike2003/SWAPSY",
+            "language": "JavaScript",
+            "updatedAt": "2024-07-31T16:46:19Z"
+        },
+        {
+            "name": "Account-Abstraction",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Karthike2003/Account-Abstraction",
+            "language": "TypeScript",
+            "updatedAt": "2024-07-19T17:24:44Z"
+        }
+    ],
+    "followers": 11,
+    "following": 30,
+    "public_repos": 45,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "my-3d-portfolio",
+                "description": "My 3D portfolio",
+                "url": "https://github.com/sayjeyhi/my-3d-portfolio"
+            },
+            {
+                "name": "supermemory",
+                "description": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+                "url": "https://github.com/supermemoryai/supermemory"
+            },
+            {
+                "name": "first-contributions",
+                "description": "\ud83d\ude80\u2728 Help beginners to contribute to open source projects",
+                "url": "https://github.com/firstcontributions/first-contributions"
+            },
+            {
+                "name": "github-roast",
+                "description": "Spicy GitHub Roast \ud83d\udd25",
+                "url": "https://github.com/codenoid/github-roast"
+            },
+            {
+                "name": "Blockchain-Development-Resources",
+                "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol. ",
+                "url": "https://github.com/frankiefab100/Blockchain-Development-Resources"
+            },
+            {
+                "name": "tg-archive",
+                "description": "A tool for exporting Telegram group chats into static websites like mailing list archives.",
+                "url": "https://github.com/knadh/tg-archive"
+            },
+            {
+                "name": "awesome-web3-projects",
+                "description": "A handpicked collection of inspiring Web3 projects for learning and exploration.",
+                "url": "https://github.com/Shubham0850/awesome-web3-projects"
+            },
+            {
+                "name": "Kerala-Dam-Water-Levels",
+                "description": "Repository of Live and Historical Data of Water Levels of Dams in Kerala, Automatically Updated with GitHub Actions",
+                "url": "https://github.com/amith-vp/Kerala-Dam-Water-Levels"
+            },
+            {
+                "name": "remotion",
+                "description": "\ud83c\udfa5      Make videos programmatically with React",
+                "url": "https://github.com/remotion-dev/remotion"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 241,
+        "repositories_contributed_to": 7,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "Make-a-Ton/make-a-ton-2024": {
+            "link": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "summary": "Recent improvements to the Make-a-Ton 2024 repository include bug fixes for track prizes and star-a-ton errors, as well as enhancements such as track prizes completion and GitHub sponsor addition. These updates showcase the ongoing development and refinement of the repository."
+        },
+        "AB7zz/LisaAI": {
+            "link": "https://github.com/AB7zz/LisaAI",
+            "summary": "The LisaAI repository has recently received a feature update, specifically the completion of the recruiter job specification form, indicating focused development and attention to enhancing its functionality."
+        },
+        "Schematise-Lex-Data-Analysis/lex-liberalis": {
+            "link": "https://github.com/Schematise-Lex-Data-Analysis/lex-liberalis",
+            "summary": "A significant enhancement to the lex-liberalis repository has been made through the implementation of a dynamic folder structure view, which allows users to efficiently organize and navigate the folder hierarchy, thereby improving the overall usability of the repository."
+        },
+        "Karthike2003/LEX_LIBERALIS": {
+            "link": "https://github.com/Karthike2003/LEX_LIBERALIS",
+            "summary": "The LEX_LIBERALIS repository has seen a recent update with the implementation of a folder view feature, highlighting the active development and refinement of the repository's functionality."
+        }
+    },
+    "profile_summary": "Karthik E is a highly skilled Full Stack Developer with a strong proficiency in cutting-edge technologies such as JavaScript, TypeScript, and Python. As an active and innovative developer, he has established a reputable presence with a network of 11 followers and an impressive collection of 45 public repositories, showcasing his passion for coding and commitment to delivering high-quality solutions.\n\nWith a solid foundation in computer science, currently pursuing a degree in Computer Science and Engineering at CUSAT, Karthik E brings a fresh perspective to software development. He is well-versed in leveraging modern programming languages and frameworks to design, develop, and deploy scalable, efficient, and reliable applications. Backed by a strong technical expertise and a drive for continuous learning, Karthik E is poised to make a meaningful impact in the tech industry, delivering innovative solutions that cater to the evolving needs of businesses and users alike.",
+    "contributions_data": {
+        "Make-a-Ton/make-a-ton-2024": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T08:02:45",
+                "messages": [
+                    "track prizes done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-16T07:42:07",
+                "messages": [
+                    "track prize error fixed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-11T04:04:22",
+                "messages": [
+                    "star-a-ton error fix"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-22T09:02:34",
+                "messages": [
+                    "github sponsor added"
+                ]
+            }
+        ],
+        "AB7zz/LisaAI": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T06:42:54",
+                "messages": [
+                    "feat:recruiter job specification form done"
+                ]
+            }
+        ],
+        "Schematise-Lex-Data-Analysis/lex-liberalis": [
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-26T12:54:52",
+                "messages": [
+                    "Title: feat:folder-view-implemented\nBody: This PR introduces a dynamic folder structure view, allowing users to:  \r\n- Add files to specific folders.  \r\n- View and organize folders and files in a tree-like structure.  \r\n- Efficiently manage and navigate the folder hierarchy.  \r\n\r\n\r\n## Screenshots  \r\n**Before:**  \r\n![Screenshot 2024-11-26 181919](https://github.com/user-attachments/assets/cfdab696-e086-49d9-830f-f13355cfa93c)\r\n\r\n\r\n**After:**  \r\n![Screenshot 2024-11-26 182230](https://github.com/user-attachments/assets/543afc13-737b-4bd5-a7af-46ef18b161b9)\r\n\r\n## Outcome  \r\nThe folder structure enhances clarity, organization, and usability, providing a seamless experience for file management.  \r\n\r\n"
+                ]
+            }
+        ],
+        "Karthike2003/LEX_LIBERALIS": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-26T12:16:09",
+                "messages": [
+                    "feat:folder-view-implemented"
+                ]
+            }
+        ]
+    }
+}

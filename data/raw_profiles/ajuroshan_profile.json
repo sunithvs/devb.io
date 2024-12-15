@@ -1,0 +1,390 @@
+{
+    "username": "ajuroshan",
+    "name": "Aju Roshan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/70354172?u=36c2e78b7d1451be3c7f34817ec97b74f66d8ef9&v=4",
+    "profile_url": "https://github.com/ajuroshan",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "Python",
+            11
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": "Here you go.",
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/portfolio",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-14T19:03:12Z"
+        },
+        {
+            "name": "IconMat",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/IconMat",
+            "language": "HTML",
+            "updatedAt": "2024-12-14T15:16:51Z"
+        },
+        {
+            "name": "messy",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/messy",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-02T17:14:30Z"
+        },
+        {
+            "name": "Kanchivaram",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Kanchivaram",
+            "language": "CSS",
+            "updatedAt": "2024-11-23T15:40:31Z"
+        },
+        {
+            "name": "ecsa",
+            "description": "The Official Website Repo of Electronics and Communication Students Association CUSAT.",
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/ecsa",
+            "language": "Python",
+            "updatedAt": "2024-10-23T12:46:10Z"
+        },
+        {
+            "name": "showtime",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/showtime",
+            "language": "Python",
+            "updatedAt": "2024-09-16T13:52:44Z"
+        },
+        {
+            "name": "showtime-frontend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/showtime-frontend",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-15T14:29:32Z"
+        },
+        {
+            "name": "platformer_game_host",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/platformer_game_host",
+            "language": "JavaScript",
+            "updatedAt": "2024-05-25T16:37:47Z"
+        },
+        {
+            "name": "platfomer_game",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/platfomer_game",
+            "language": "JavaScript",
+            "updatedAt": "2024-05-25T16:17:29Z"
+        },
+        {
+            "name": "upi",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/ajuroshan/upi",
+            "language": "Unknown",
+            "updatedAt": "2024-05-21T19:00:32Z"
+        }
+    ],
+    "followers": 23,
+    "following": 38,
+    "public_repos": 48,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "devb.io",
+                "description": null,
+                "url": "https://github.com/sunithvs/devb.io"
+            },
+            {
+                "name": "opentrader",
+                "description": "\ud83e\udd16 Open-source crypto trading bot | \ud83d\udcc8 DCA & GRID strategies | \u2728 UI | \u2b50 Star to support the project!",
+                "url": "https://github.com/bludnic/opentrader"
+            },
+            {
+                "name": "freqtrade",
+                "description": "Free, open source crypto trading bot",
+                "url": "https://github.com/freqtrade/freqtrade"
+            },
+            {
+                "name": "lithium",
+                "description": "Django starter project with \ud83d\udd0b",
+                "url": "https://github.com/wsvincent/lithium"
+            },
+            {
+                "name": "shellinabox",
+                "description": "Official-ish Fork of Shell In A Box",
+                "url": "https://github.com/shellinabox/shellinabox"
+            },
+            {
+                "name": "Virtual-Display-Driver",
+                "description": "Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.",
+                "url": "https://github.com/VirtualDisplay/Virtual-Display-Driver"
+            },
+            {
+                "name": "django-templated-email",
+                "description": "Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)",
+                "url": "https://github.com/vintasoftware/django-templated-email"
+            },
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "xadmin",
+                "description": "Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.",
+                "url": "https://github.com/sshwsfc/xadmin"
+            },
+            {
+                "name": "Stirling-PDF",
+                "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+                "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 473,
+        "repositories_contributed_to": 2,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "IconMat": {
+            "link": "https://github.com/VarshaShaheen/IconMat",
+            "summary": "This repository has seen significant updates in the past few weeks, focusing on various improvements and fixes. The updates include enhancements to the home page, payment integration, and registration process, with attention to details and user experience."
+        },
+        "messy": {
+            "link": "https://github.com/ajuroshan/messy",
+            "summary": "The 'messy' repository has experienced some recent updates, mainly centered on fixes to the application's functionality. These fixes include addressing issues with mess details, CSV export, and bill calculation."
+        },
+        "portfolio": {
+            "link": "https://github.com/ajuroshan/portfolio",
+            "summary": "The portfolio repository has seen some recent modifications. Specifically, changes have been made to add clarity to the portfolio, though some of these modifications were later undone, indicating ongoing refinement of the portfolio's content and presentation."
+        }
+    },
+    "profile_summary": "Aju Roshan is a highly skilled software developer with a strong proficiency in JavaScript, Python, and HTML. With a portfolio of 48 public repositories and a network of 23 dedicated followers, Aju has established a reputation as a reliable and innovative force in the development community. Aju is committed to staying at the forefront of industry trends, leveraging cutting-edge technologies to craft high-quality solutions that exceed expectations.\n\nAs a seasoned developer, Aju brings a wealth of technical expertise and problem-solving skills to the table, earning respect and admiration from peers and collaborators alike. With a talent for translating complex concepts into efficient, user-friendly code, Aju consistently delivers results-driven solutions that meet the demands of an ever-evolving digital landscape. by Continuously pushing the boundaries of what is possible with technology.",
+    "contributions_data": {
+        "VarshaShaheen/IconMat": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T15:16:49",
+                "messages": [
+                    "feat: home page updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T14:48:17",
+                "messages": [
+                    "feat: home page updated"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-13T09:03:36",
+                "messages": [
+                    "fix: fee calculation"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T18:37:46",
+                "messages": [
+                    "feat: view abstracts"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T18:09:57",
+                "messages": [
+                    "fix: registration fixes"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T14:19:49",
+                "messages": [
+                    "fix: abstract details in home page"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T13:41:19",
+                "messages": [
+                    "feat: payment testing"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T13:12:23",
+                "messages": [
+                    "feat: registration update for testing"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T11:40:31",
+                "messages": [
+                    "feat: registration update"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-10T19:10:46",
+                "messages": [
+                    "fix: update abstract details"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-09T18:08:53",
+                "messages": [
+                    "fix: payment test live"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T14:49:12",
+                "messages": [
+                    "fix: redirect payment url"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T14:46:04",
+                "messages": [
+                    "fix: payment and registration almost completed"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-07T10:10:44",
+                "messages": [
+                    "fix: live payment test"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-04T08:49:35",
+                "messages": [
+                    "fix: update req.txt"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-04T08:47:39",
+                "messages": [
+                    "fix: update req.txt"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-04T08:42:39",
+                "messages": [
+                    "fix: date"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-03T18:41:08",
+                "messages": [
+                    "feat: payment integration almost done"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-03T16:57:43",
+                "messages": [
+                    "feat: registration added need ui/ux design tho"
+                ]
+            }
+        ],
+        "ajuroshan/messy": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-02T17:14:28",
+                "messages": [
+                    "fix: mess_details fix",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-30T18:51:51",
+                "messages": [
+                    "Update apply.html"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-30T18:28:21",
+                "messages": [
+                    "fix: prev messcuts"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-30T18:23:25",
+                "messages": [
+                    "fix: csv export"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-30T18:15:15",
+                "messages": [
+                    "feat: added mess closed dates to bill calculation",
+                    "Merge branch 'main' of github.com:ajuroshan/messy"
+                ]
+            }
+        ],
+        "ajuroshan/portfolio": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T19:03:10",
+                "messages": [
+                    "added clarity"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:56:05",
+                "messages": [
+                    "undo clarity"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:51:39",
+                "messages": [
+                    "added clarity microsoft"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:48:45",
+                "messages": [
+                    "added microsoft clarity"
+                ]
+            }
+        ]
+    }
+}

@@ -23,6 +23,7 @@ jobs:
 
     - name: Profile generation
       run: |
+        
         curl -L -s -o data/users.json "https://user.devb.io/users"
         python -m venv venv
         source venv/bin/activate
@@ -34,10 +35,11 @@ jobs:
 
     - name: Commit and push changes if there are any
       run: |
+        git checkout -b data
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add docs/*
         git add data/*
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push origin data)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

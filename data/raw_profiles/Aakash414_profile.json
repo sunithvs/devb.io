@@ -1,0 +1,368 @@
+{
+    "username": "Aakash414",
+    "name": "Aakash P R",
+    "bio": "4th Year BTech Undergrad at CUSAT",
+    "location": "Kochi, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/67820270?u=fd79e0542850e66ffd42b68b97cbb66067cc23bf&v=4",
+    "profile_url": "https://github.com/aakash414",
+    "top_languages": [
+        [
+            "JavaScript",
+            39
+        ],
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "HTML",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MemAi",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aakash414/MemAi",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-09T12:20:04Z"
+        },
+        {
+            "name": "ethindia24",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AaroneGeorge/ethindia24",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-08T05:57:50Z"
+        },
+        {
+            "name": "iva-backend",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AaroneGeorge/iva-backend",
+            "language": "Python",
+            "updatedAt": "2024-12-07T15:36:01Z"
+        },
+        {
+            "name": "DCrew",
+            "description": null,
+            "stars": 1,
+            "url": "https://github.com/mruduljohn/DCrew",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-05T18:08:22Z"
+        },
+        {
+            "name": "DegenDrops",
+            "description": "The PokemonGo for Airdrops",
+            "stars": 0,
+            "url": "https://github.com/aakash414/DegenDrops",
+            "language": "TypeScript",
+            "updatedAt": "2024-12-03T06:16:04Z"
+        },
+        {
+            "name": "Top-100-Coders",
+            "description": "Kerala Top 100 Coders - Huddle Global 2024. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem",
+            "stars": 0,
+            "url": "https://github.com/aakash414/Top-100-Coders",
+            "language": "M4",
+            "updatedAt": "2024-11-02T07:00:30Z"
+        },
+        {
+            "name": "aakash414",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aakash414/aakash414",
+            "language": "Unknown",
+            "updatedAt": "2024-07-13T05:04:20Z"
+        },
+        {
+            "name": "Habit-Tracker",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aakash414/Habit-Tracker",
+            "language": "Dart",
+            "updatedAt": "2024-07-08T20:37:16Z"
+        },
+        {
+            "name": "iedc-site",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aakash414/iedc-site",
+            "language": "JavaScript",
+            "updatedAt": "2024-06-29T12:02:06Z"
+        },
+        {
+            "name": "blog-app",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/aakash414/blog-app",
+            "language": "HTML",
+            "updatedAt": "2024-06-28T15:03:55Z"
+        }
+    ],
+    "followers": 30,
+    "following": 35,
+    "public_repos": 72,
+    "pull_requests_merged": 18,
+    "issues_closed": 11,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "conductor",
+                "description": "Conductor is an event driven orchestration platform",
+                "url": "https://github.com/conductor-oss/conductor"
+            },
+            {
+                "name": "ui",
+                "description": "Simple UI examples from my social media",
+                "url": "https://github.com/atherosai/ui"
+            },
+            {
+                "name": "Music-Megathread",
+                "description": "A Comprehensive List For All Music \ud83c\udfb6 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.",
+                "url": "https://github.com/MoonWalker440/Music-Megathread"
+            },
+            {
+                "name": "DeThreads",
+                "description": null,
+                "url": "https://github.com/AB7zz/DeThreads"
+            },
+            {
+                "name": "feel.io",
+                "description": "Surprise",
+                "url": "https://github.com/harshedabdulla/feel.io"
+            },
+            {
+                "name": "landing-2023",
+                "description": null,
+                "url": "https://github.com/SpaceUP-CUSAT-22/landing-2023"
+            },
+            {
+                "name": "awesome-for-beginners",
+                "description": "A list of awesome beginners-friendly projects.",
+                "url": "https://github.com/MunGell/awesome-for-beginners"
+            },
+            {
+                "name": "responsive-portfolio-website-Ansel",
+                "description": "Create a Responsive Personal Portfolio Website Using HTML CSS &  JavaScript",
+                "url": "https://github.com/bedimcode/responsive-portfolio-website-Ansel"
+            },
+            {
+                "name": "ovflowd",
+                "description": "What are you doing here?",
+                "url": "https://github.com/ovflowd/ovflowd"
+            },
+            {
+                "name": "bardiesel",
+                "description": null,
+                "url": "https://github.com/Bardiesel/bardiesel"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 871,
+        "repositories_contributed_to": 8,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "Make-a-Ton/make-a-ton-2024": {
+            "link": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "summary": "Recent updates included enhancements to the user interface and user experience, such as font and logo size adjustments, sponsor alignment changes, and the addition of a 'flash registration' feature. Additionally, bug fixes were made, including a resolution to an 'about' issue and a change to the register button. The project has also seen updates to FAQs, the addition of a gifting partner in sponsor, and a modification to the countdown feature."
+        },
+        "AaroneGeorge/ethindia24": {
+            "link": "https://github.com/AaroneGeorge/ethindia24",
+            "summary": "The latest updates involve improvements to the user interface, including final visual changes, and a refactor of the coin data fetching mechanism to update every 60 seconds while changing the price change metric to 24 hours."
+        },
+        "aakash414/Top-100-Coders": {
+            "link": "https://github.com/aakash414/Top-100-Coders",
+            "summary": "The recent update created a new file 'aakashpr@mulearn.mc'."
+        }
+    },
+    "profile_summary": "Aakash P R is a driven and innovative JavaScript expert, consistently delivering high-impact solutions through proficiency in TypeScript and HTML. As a 4th Year BTech Undergrad at CUSAT, Aakash brings a fresh perspective to the field, combining theoretical foundations with hands-on experience. With an established professional network, Aakash has garnered a commendable 30 followers on GitHub, underscoring a growing reputation as a skilled developer.\n\nThrough Aakash's portfolio of 72 public repositories, it is evident that this young developer is already making a significant contribution to the tech community. Aakash's dedication to staying up-to-date with the latest technologies, coupled with a keen sense of problem-solving, allows for the creation of efficient and scalable code. As a developer with a passion for learning and innovation, Aakash excels in translating technical expertise into tangible business value, solidifying a bright future in the software development landscape.",
+    "contributions_data": {
+        "Make-a-Ton/make-a-ton-2024": [
+            {
+                "type": "PushEvent",
+                "date": "2024-10-28T06:00:16",
+                "messages": [
+                    "added project link in  Hero.jsx"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-12T18:41:40",
+                "messages": [
+                    "font cap"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-12T18:38:34",
+                "messages": [
+                    "font size"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-12T18:35:35",
+                "messages": [
+                    "ui/ux to hackforcusat",
+                    "Merge branch 'main' of https://github.com/Make-a-Ton/make-a-ton-2024"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T16:35:03",
+                "messages": [
+                    "faq update"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T16:33:52",
+                "messages": [
+                    "faq update"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-04T16:30:12",
+                "messages": [
+                    "added gifting partner in sponsor"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T19:57:06",
+                "messages": [
+                    "about bug fix"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T19:25:27",
+                "messages": [
+                    "flash registration stopped"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T16:14:14",
+                "messages": [
+                    "logitech logo addition size increase"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T15:50:28",
+                "messages": [
+                    "logo size increase"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T14:30:36",
+                "messages": [
+                    "flash registration"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T12:56:29",
+                "messages": [
+                    "sponsor alignment change"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-03T06:48:15",
+                "messages": [
+                    "added flash registration countdown"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-10-01T14:58:39",
+                "messages": [
+                    "logitech sponsor image"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-30T08:12:27",
+                "messages": [
+                    "added meet-a-ton page"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T18:38:05",
+                "messages": [
+                    "removed partner logo"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T18:36:41",
+                "messages": [
+                    "disable register button"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-27T18:33:50",
+                "messages": [
+                    "added logitech logo"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-25T19:21:27",
+                "messages": [
+                    "register to waiting List"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-25T18:52:48",
+                "messages": [
+                    "removed count down"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-09-24T08:27:39",
+                "messages": [
+                    "added conductor workshop link"
+                ]
+            }
+        ],
+        "AaroneGeorge/ethindia24": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-08T05:57:48",
+                "messages": [
+                    "Refactor coin data fetching to update every 60 seconds, change price change metric to 24h, and updat"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-08T04:57:02",
+                "messages": [
+                    "ui final changes"
+                ]
+            }
+        ],
+        "aakash414/Top-100-Coders": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-02T07:00:25",
+                "messages": [
+                    "Create aakashpr@mulearn.mc"
+                ]
+            }
+        ]
+    }
+}

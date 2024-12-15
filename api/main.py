@@ -124,8 +124,9 @@ async def fetch_user_profile(username: Annotated[str, Depends(verify_username)],
     """
     Fetch GitHub user profile information with Redis caching.
     """
+    username = username.strip().lower()
     try:
-        cache_key = f"github_profile:{username}"
+        cache_key = f"github_profile:{username.strip().lower()}"
         # Await Redis GET operation
         cached_response = await redis_client.get(cache_key)
         if cached_response:
@@ -133,7 +134,6 @@ async def fetch_user_profile(username: Annotated[str, Depends(verify_username)],
 
         # Fetch user data if not in cache
         user_data = get_user_data(username)
-        # Await Redis SETEX operation
         background_tasks.add_task(background_manage_users_list, username)
 
         await redis_client.setex(name=cache_key, value=json.dumps(user_data), time=3600)
@@ -164,8 +164,11 @@ async def get_users_list():
         # Get existing users from Redis
         existing_users_json = await redis_client.get(USERS_LIST_KEY)
         existing_users = json.loads(existing_users_json) if existing_users_json else []
+        # make case insensitive
+        existing_users = [user.lower() for user in existing_users]
+        external_users_dict = [user.lower() for user in external_users_dict.keys()]
 
-        new_users = set(existing_users) - set(external_users_dict.keys())
+        new_users = set(existing_users) - set(external_users_dict)
 
         if new_users:
             await redis_client.set(

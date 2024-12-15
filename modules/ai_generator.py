@@ -10,7 +10,7 @@ class AIDescriptionGenerator:
 
     def __init__(self):
         """Initialize Groq client"""
-        self.client = Groq(api_key=Settings.GROQ_API_KEY)
+        self.client = Groq(api_key=Settings.get_groq_key())
 
     def generate_profile_summary(self, profile_data):
         """

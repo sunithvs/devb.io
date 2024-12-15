@@ -27,7 +27,7 @@ class GitHubContributionsFetcher:
                 events_url,
                 headers={
                     "Accept": "application/vnd.github.v3+json",
-                    "Authorization": f"token {Settings.GITHUB_API_TOKEN}",
+                    "Authorization": f"token {Settings.get_github_token()}",
                 }
             )
             response.raise_for_status()

@@ -78,7 +78,6 @@ class BuildCommand(BaseCommand):
         if not users:
             print("No users to process")
             return
-        print(f"Processing {min(Settings.MAX_USERS_PER_RUN, len(users))} users from {len(users)} users")
         for username in users:
             status = self.process_user(username)
             if username in users and status:

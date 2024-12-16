@@ -11,7 +11,7 @@ class CleanCommand(BaseCommand):
         import os
         from config.settings import Settings
 
-        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data', '404.html']
+        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data', '404.html', 'poster']
 
         processed_users = {}
         with open(Settings.PROCESSED_USERS_FILE, 'r') as f:
@@ -29,7 +29,8 @@ class CleanCommand(BaseCommand):
                 print(f"Skipping {file}")
                 continue
             # print("removing", file)
-            os.remove(os.path.join(Settings.HTML_OUTPUT_DIR, file))
+            os.remove(os.path.join(Settings.HTML_OUTPUT_DIR, file)) if os.path.isfile(
+                os.path.join(Settings.HTML_OUTPUT_DIR, file)) else None
         row_profiles = os.path.join(Settings.DATA_DIR, 'raw_profiles')
         for file in os.listdir(row_profiles):
             os.remove(os.path.join(row_profiles, file))

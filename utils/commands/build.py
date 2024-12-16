@@ -73,14 +73,17 @@ class BuildCommand(BaseCommand):
         """
         """Main execution function"""
         # Load users from JSON
+        # if --force is passed, process all users in args
+        force = False
+        if args and args[0] == '--force':
+            force = True
         with open(Settings.DATA_TO_PROCESS, 'r') as f:
             users = json.load(f)
         if not users:
             print("No users to process")
             return
-        print(f"Processing {min(Settings.MAX_USERS_PER_RUN, len(users))} users from {len(users)} users")
         for username in users:
-            status = self.process_user(username)
+            status = self.process_user(username, force)
             if username in users and status:
                 users.remove(username)
         with open(Settings.DATA_TO_PROCESS, 'w') as f:

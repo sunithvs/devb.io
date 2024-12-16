@@ -116,7 +116,7 @@ class GitHubProfileFetcher:
         graphql_response = requests.post(
             graphql_url,
             headers={
-                "Authorization": f"Bearer {Settings.GITHUB_API_TOKEN}",
+                "Authorization": f"Bearer {Settings.get_github_token()}",
                 "Content-Type": "application/json"
             },
             json=graphql_query
@@ -195,7 +195,7 @@ class GitHubProfileFetcher:
             base_url,
             headers={
                 "Accept": "application/vnd.github.v3+json",
-                "Authorization": f"token {Settings.GITHUB_API_TOKEN}",
+                "Authorization": f"token {Settings.get_github_token()}",
             }
         )
         user_response.raise_for_status()
@@ -206,7 +206,7 @@ class GitHubProfileFetcher:
             user_data['repos_url'],
             headers={
                 "Accept": "application/vnd.github.v3+json",
-                "Authorization": f"token {Settings.GITHUB_API_TOKEN}",
+                "Authorization": f"token {Settings.get_github_token()}",
             }
         )
         repos_response.raise_for_status()

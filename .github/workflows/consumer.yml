@@ -35,7 +35,7 @@ jobs:
 
     - name: Commit and push changes if there are any
       run: |
-        git checkout -b data
+        git checkout -B data
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add docs/*

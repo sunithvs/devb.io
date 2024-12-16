@@ -1,0 +1,322 @@
+{
+    "username": "gksoriginals",
+    "name": "Gopi (GKS)",
+    "bio": "Machine learning engineer\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/16781355?u=703c6baa36ab397d4cc270ac1f0ecefc42be1c68&v=4",
+    "profile_url": "https://github.com/gksoriginals",
+    "top_languages": [
+        [
+            "Python",
+            40
+        ],
+        [
+            "Jupyter Notebook",
+            13
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GreenTrack",
+            "description": "Fast-tracking the process of Green Building certification with AI",
+            "stars": 8,
+            "url": "https://github.com/PeoplePlusAI/GreenTrack",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-12-10T07:22:18Z"
+        },
+        {
+            "name": "occ-hack-gui",
+            "description": null,
+            "stars": 4,
+            "url": "https://github.com/PeoplePlusAI/occ-hack-gui",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-01T04:48:25Z"
+        },
+        {
+            "name": "usecasegarden",
+            "description": "Got an AI/ML idea but not sure where it fits? The Use Case Garden is here to help. Think of it as a community-driven brainstorm board for AI use cases\u2014organized, relatable, and (hopefully) a little inspiring. Dive in, add your ideas, or browse through to see what others are cooking up!",
+            "stars": 2,
+            "url": "https://github.com/PeoplePlusAI/usecasegarden",
+            "language": "Unknown",
+            "updatedAt": "2024-12-01T04:35:26Z"
+        },
+        {
+            "name": "sunva",
+            "description": "SUNVA AI: Seamless conversation loop for the deaf",
+            "stars": 3,
+            "url": "https://github.com/PeoplePlusAI/sunva",
+            "language": "TypeScript",
+            "updatedAt": "2024-11-28T08:46:38Z"
+        },
+        {
+            "name": "Sthaan",
+            "description": "Sthaan uses AI to create digital addresses with local language support in voice/text, making it easier for people to find and reach locations.",
+            "stars": 11,
+            "url": "https://github.com/PeoplePlusAI/Sthaan",
+            "language": "Python",
+            "updatedAt": "2024-11-17T01:06:40Z"
+        },
+        {
+            "name": "How-to-learn-ML-for-humans",
+            "description": "A learning path with tutorials for learning AI/ML",
+            "stars": 68,
+            "url": "https://github.com/gksoriginals/How-to-learn-ML-for-humans",
+            "language": "Unknown",
+            "updatedAt": "2024-11-03T20:22:03Z"
+        },
+        {
+            "name": "Mr-Nags",
+            "description": "Citizen complaint filing system ",
+            "stars": 4,
+            "url": "https://github.com/PeoplePlusAI/Mr-Nags",
+            "language": "Jupyter Notebook",
+            "updatedAt": "2024-10-22T12:26:51Z"
+        },
+        {
+            "name": "sunva-frontend",
+            "description": "Frontend app for project sunva",
+            "stars": 3,
+            "url": "https://github.com/PeoplePlusAI/sunva-frontend",
+            "language": "TypeScript",
+            "updatedAt": "2024-10-15T05:04:16Z"
+        },
+        {
+            "name": "sunva-ai",
+            "description": "SUNVA AI: Seamless conversation loop for the deaf",
+            "stars": 13,
+            "url": "https://github.com/PeoplePlusAI/sunva-ai",
+            "language": "Python",
+            "updatedAt": "2024-10-15T05:03:48Z"
+        },
+        {
+            "name": "Adbhut-Painting",
+            "description": "Talking Painting in People+AI office",
+            "stars": 1,
+            "url": "https://github.com/PeoplePlusAI/Adbhut-Painting",
+            "language": "HTML",
+            "updatedAt": "2024-10-14T08:47:08Z"
+        }
+    ],
+    "followers": 367,
+    "following": 55,
+    "public_repos": 82,
+    "pull_requests_merged": 172,
+    "issues_closed": 58,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "ConsumeWiseAI",
+                "description": "Product Information System providing personalised health & sustainability impact of consumer goods ",
+                "url": "https://github.com/PeoplePlusAI/ConsumeWiseAI"
+            },
+            {
+                "name": "llama-stack",
+                "description": "Composable building blocks to build Llama Apps",
+                "url": "https://github.com/meta-llama/llama-stack"
+            },
+            {
+                "name": "GreenTrack",
+                "description": "An AI-powered solution designed to streamline and automate processes in green building certification.",
+                "url": "https://github.com/Namitha-KS/GreenTrack"
+            },
+            {
+                "name": "why-not-annoy-",
+                "description": null,
+                "url": "https://github.com/AksaRose/why-not-annoy-"
+            },
+            {
+                "name": "sunva",
+                "description": "SUNVA AI: Seamless conversation loop for the deaf",
+                "url": "https://github.com/PeoplePlusAI/sunva"
+            },
+            {
+                "name": "sunva-frontend",
+                "description": "Frontend app for project sunva",
+                "url": "https://github.com/PeoplePlusAI/sunva-frontend"
+            },
+            {
+                "name": "c_spectrogram",
+                "description": "A high performance spectrogram  ( could support mel spectrogram) in pure C",
+                "url": "https://github.com/8g6-new/c_spectrogram"
+            },
+            {
+                "name": "Malayalam_Speech2Speech_Vision_Text_Chatbot",
+                "description": "This repository contains a fully functional speech-to-speech chatbot pipeline that supports conversation in Malayalam. The chatbot allows users to interact in Malayalam, both in spoken form and through image-based queries. And the model will respond back in Malayalam.",
+                "url": "https://github.com/VishnuPJ/Malayalam_Speech2Speech_Vision_Text_Chatbot"
+            },
+            {
+                "name": "sunva-ai",
+                "description": "SUNVA AI: Seamless conversation loop for the deaf",
+                "url": "https://github.com/PeoplePlusAI/sunva-ai"
+            },
+            {
+                "name": "llama.lisp",
+                "description": "Lisp dialect designed for HPC and AI",
+                "url": "https://github.com/chsasank/llama.lisp"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 526,
+        "repositories_contributed_to": 19,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "PeoplePlusAI/sunva": {
+            "link": "https://github.com/PeoplePlusAI/sunva",
+            "summary": "The PeoplePlusAI sunva repository has experienced recent updates and enhancements. Notable contributions include the addition of a sunva logo, multiple voice modes for text-to-speech functionality, and the integration of quick type for tts. Additionally, updates have been made to the LICENSE file, README.md, and removal of unwanted files."
+        }
+    },
+    "profile_summary": "Gopi, also known as GKS, is a seasoned machine learning engineer with a strong foundation in Python, Jupyter Notebook, and HTML. With an impressive portfolio of 82 public repositories, Gopi consistently demonstrates expertise in design and development of innovative machine learning solutions. As a respected figure within the developer community, with 367 followers, Gopi has established a reputation for delivering high-quality projects and collaborating with fellow professionals.\n\nHighly skilled in leveraging data-driven insights to drive business value, Gopi brings a unique blend of technical expertise and innovative thinking to the development of machine learning models and applications. With a keen focus on problem-solving and continuous learning, Gopi stays up-to-date with the latest industry trends and methodologies, ensuring that clients and collaborators receive the most effective solutions for their specific needs.",
+    "contributions_data": {
+        "PeoplePlusAI/sunva": [
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:46:36",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:43:13",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:42:56",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:42:35",
+                "messages": [
+                    "Create .all-contributorsrc"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:41:30",
+                "messages": [
+                    "Update README.md"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:23:40",
+                "messages": [
+                    "Added sunva logo (#22)"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-28T08:23:39",
+                "messages": [
+                    "Title: Added sunva logo\nBody: ## Description\r\nAdded logo"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-28T08:23:31",
+                "messages": [
+                    "Title: Added sunva logo\nBody: ## Description\r\nAdded logo"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-28T08:03:33",
+                "messages": [
+                    "Create LICENSE"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-21T04:13:04",
+                "messages": [
+                    "added default malayalam model for testing"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-20T15:30:00",
+                "messages": [
+                    "Add multiple voice modes (#20)\n\n* Frontend changes for selecting multiple voices\r\n\r\n* fixed an issue"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-20T15:29:17",
+                "messages": [
+                    "fix an issue"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-20T15:24:10",
+                "messages": [
+                    "Title: Add multiple voice modes\nBody: ## Description\r\nFix an issue with TTS text box in app"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-20T15:24:03",
+                "messages": [
+                    "Title: Add multiple voice modes\nBody: ## Description\r\nFix an issue with TTS text box in app"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-20T11:11:51",
+                "messages": [
+                    "Revert \"Merge main to gopi/prod (#17)\"\n\nThis reverts commit 5e06fe87ad6f5134d20f58373bf7dca3f4583226",
+                    "updated git ignore",
+                    "remove unwanted files"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-20T11:05:50",
+                "messages": [
+                    "Title: Quick type for tts\nBody: ## Description\r\n<!--- Describe your changes in detail -->\r\n\r\n## Motivation and Context\r\nAdding quick type to experiment branch\r\n\r\n"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-20T11:04:44",
+                "messages": [
+                    "Title: Quick type for tts\nBody: ## Description\r\n<!--- Describe your changes in detail -->\r\n\r\n## Motivation and Context\r\nAdding quick type to experiment branch\r\n\r\n"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-20T11:01:13",
+                "messages": [
+                    "Quick type for tts (#18)\n\n* Update README.md\r\n\r\n* Update README.md\r\n\r\n* Update README.md\r\n\r\n* Update"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-11-20T11:01:12",
+                "messages": [
+                    "Title: Quick type for tts\nBody: ## Description\r\nAdding enhanced TTS to experiment branch\r\n"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-11-20T11:00:19",
+                "messages": [
+                    "Revert \"Merge branch 'experiments' into quick-type-for-tts\"\n\nThis reverts commit 36d66b7ef67e492de01"
+                ]
+            }
+        ]
+    }
+}

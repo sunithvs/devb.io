@@ -145,7 +145,7 @@ class GitHubProfileFetcher:
 
         return {
             'username': username,
-            'name': graphql_data.get('name', username),
+            'name': graphql_data.get('name', username) or username,
             'bio': graphql_data.get('bio', ''),
             'location': graphql_data.get('location', ''),
             'avatar_url': graphql_data.get('avatarUrl', ''),
@@ -174,7 +174,8 @@ class GitHubProfileFetcher:
                     'totalContributions'],
                 'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
                 'sponsors': graphql_data['sponsors']['totalCount']
-            }
+            },
+            'social_accounts': GitHubProfileFetcher.social_accounts(username)
         }
 
     @staticmethod
@@ -242,3 +243,29 @@ class GitHubProfileFetcher:
             'following': user_data.get('following', 0),
             'public_repos': user_data.get('public_repos', 0)
         }
+
+    @staticmethod
+    def social_accounts(username):
+        """
+        Fetch social accounts of the user
+
+        Args:
+            username (str): GitHub username
+
+        Returns:
+            dict: Social accounts of the user
+        """
+        base_url = f"https://api.github.com/users/{username}/social_accounts"
+
+        # Fetch user details
+        user_response = requests.get(
+            base_url,
+            headers={
+                "Accept": "application/vnd.github.v3+json",
+                "Authorization": f"token {Settings.get_github_token()}",
+            }
+        )
+        user_response.raise_for_status()
+        user_data = user_response.json()
+
+        return user_data

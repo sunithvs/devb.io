@@ -1,0 +1,416 @@
+{
+    "username": "sunithvs",
+    "name": "sunith vs",
+    "bio": "Backend Developer @Eduport | CUSATian  | Engineeeeeeeeeeer",
+    "location": "Perinthalmanna, Malappuram,Kerala ,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63339782?u=675f431caf6eb8fbbb9cbeac62f2f17d20a3948f&v=4",
+    "profile_url": "https://github.com/sunithvs",
+    "top_languages": [
+        [
+            "Python",
+            39
+        ],
+        [
+            "HTML",
+            18
+        ],
+        [
+            "JavaScript",
+            15
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "devb.io",
+            "description": null,
+            "stars": 15,
+            "url": "https://github.com/sunithvs/devb.io",
+            "language": "Python",
+            "updatedAt": "2024-12-16T04:35:35Z"
+        },
+        {
+            "name": "sunithvs",
+            "description": "its about my readme",
+            "stars": 0,
+            "url": "https://github.com/sunithvs/sunithvs",
+            "language": "Python",
+            "updatedAt": "2024-12-15T07:25:43Z"
+        },
+        {
+            "name": "tech-fusion-wbeiste",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/sunithvs/tech-fusion-wbeiste",
+            "language": "JavaScript",
+            "updatedAt": "2024-12-10T12:03:33Z"
+        },
+        {
+            "name": "lines",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/sunithvs/lines",
+            "language": "HTML",
+            "updatedAt": "2024-12-08T08:47:51Z"
+        },
+        {
+            "name": "GramUp",
+            "description": "Unlimited Cloud Storage for ALL!",
+            "stars": 123,
+            "url": "https://github.com/rohittp0/GramUp",
+            "language": "Python",
+            "updatedAt": "2024-11-30T06:26:51Z"
+        },
+        {
+            "name": "Kanchivaram",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/VarshaShaheen/Kanchivaram",
+            "language": "CSS",
+            "updatedAt": "2024-11-23T15:40:31Z"
+        },
+        {
+            "name": "servervm",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Trebuchet-ltd/servervm",
+            "language": "Python",
+            "updatedAt": "2024-11-21T13:46:47Z"
+        },
+        {
+            "name": "tutormagics",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/sunithvs/tutormagics",
+            "language": "HTML",
+            "updatedAt": "2024-11-08T17:05:05Z"
+        },
+        {
+            "name": "fan-club",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/sunithvs/fan-club",
+            "language": "JavaScript",
+            "updatedAt": "2024-11-06T18:07:17Z"
+        },
+        {
+            "name": "django-docker-template",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/sunithvs/django-docker-template",
+            "language": "Python",
+            "updatedAt": "2024-10-31T11:53:44Z"
+        }
+    ],
+    "followers": 86,
+    "following": 22,
+    "public_repos": 98,
+    "pull_requests_merged": 110,
+    "issues_closed": 3,
+    "starred_repos": {
+        "count": 10,
+        "repositories": [
+            {
+                "name": "devb.io",
+                "description": null,
+                "url": "https://github.com/sunithvs/devb.io"
+            },
+            {
+                "name": "python-coverage-comment-action",
+                "description": "Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers",
+                "url": "https://github.com/py-cov-action/python-coverage-comment-action"
+            },
+            {
+                "name": "ICMC-USP",
+                "description": "\"If You're Going Through Hell, Keep Going\" - Winston Churchill :turtle: :squirrel:",
+                "url": "https://github.com/ropalma/ICMC-USP"
+            },
+            {
+                "name": "llama3",
+                "description": "The official Meta Llama 3 GitHub site",
+                "url": "https://github.com/meta-llama/llama3"
+            },
+            {
+                "name": "act",
+                "description": "Run your GitHub Actions locally \ud83d\ude80",
+                "url": "https://github.com/nektos/act"
+            },
+            {
+                "name": "free-programming-books",
+                "description": ":books: Freely available programming books",
+                "url": "https://github.com/EbookFoundation/free-programming-books"
+            },
+            {
+                "name": "styleguide",
+                "description": "Style guides for Google-originated open-source projects",
+                "url": "https://github.com/google/styleguide"
+            },
+            {
+                "name": "3d-print-cost-calculator",
+                "description": null,
+                "url": "https://github.com/DigitallyTailored/3d-print-cost-calculator"
+            },
+            {
+                "name": "typer",
+                "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+                "url": "https://github.com/fastapi/typer"
+            },
+            {
+                "name": "fastapi-boilerplate",
+                "description": "fastAPI boilerplate for API based access along with user management",
+                "url": "https://github.com/marirs/fastapi-boilerplate"
+            }
+        ]
+    },
+    "achievements": {
+        "total_contributions": 903,
+        "repositories_contributed_to": 13,
+        "sponsors": 0
+    },
+    "activity_summary": {
+        "devb.io": {
+            "link": "https://github.com/sunithvs/devb.io",
+            "summary": "Significant updates have been made to the repository in the past few days. Recent commits have focused on bug fixes, data updates, and improvements to the user interface and experience. Multiple push events were recorded with various messages, including 'fix: remove files', 'fix: connect github actions', 'fix: clean data', and 'fix: profile UI v1'. These changes aim to refine the repository's overall functionality and design. A 'CNAME' file was also created and pull requests were merged to implement updates to the repository."
+        },
+        "sunithvs": {
+            "link": "https://github.com/sunithvs/sunithvs",
+            "summary": "A recent push event updated the main.py file, making minor changes to the codebase. These updates indicate ongoing development and maintenance of the repository."
+        }
+    },
+    "profile_summary": "Sunith vs is a highly skilled and accomplished backend developer with a strong proficiency in Python, HTML, and JavaScript. As a dedicated professional with a solid academic background from CUSAT, he consistently brings innovative solutions and technical expertise to his work at Eduport. With a strong online presence and a network of 86 respected peers, Sunith demonstrates his value as a collaborative and influential figure in the development community.\n\nThrough his extensive portfolio of 98 public repositories, Sunith showcases his exceptional coding skills and dedication to delivering high-quality projects. As a seasoned backend developer, he effectively leverages his technical abilities to drive project success and meet the evolving needs of his clients. With a unique blend of technical prowess and creative problem-solving skills, Sunith vs is a trusted and results-driven professional who consistently delivers exceptional results in the field of backend development.",
+    "contributions_data": {
+        "sunithvs/devb.io": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-16T07:34:10",
+                "messages": [
+                    "fix: remove files"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-16T04:22:01",
+                "messages": [
+                    "fix: remove files",
+                    "fix: remove files",
+                    "Merge remote-tracking branch 'origin/data' into data\n\n# Conflicts:\n#\tdocs/gksoriginals.html"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:36:41",
+                "messages": [
+                    "fix: action to merge main to data when updating"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:34:41",
+                "messages": [
+                    "fix: action to merge main to data when updating"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:25:20",
+                "messages": [
+                    "fix: change build script to add a argument force to make the build from local"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:19:37",
+                "messages": [
+                    "fix: clean data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:18:29",
+                "messages": [
+                    "fix: clean data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:14:45",
+                "messages": [
+                    "Update data",
+                    "Merge pull request #1 from sunithvs/data\n\nUpdate data"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-15T14:14:44",
+                "messages": [
+                    "Title: Update data\nBody: No description"
+                ]
+            },
+            {
+                "type": "PullRequestEvent",
+                "date": "2024-12-15T14:14:34",
+                "messages": [
+                    "Title: Update data\nBody: No description"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:14:00",
+                "messages": [
+                    "fix: clean data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T14:08:52",
+                "messages": [
+                    "fix: clean data",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T03:20:24",
+                "messages": [
+                    "fix: clean data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T03:20:15",
+                "messages": [
+                    "fix: clean data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T03:11:23",
+                "messages": [
+                    "fix: connect github actions",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T20:28:34",
+                "messages": [
+                    "fix: deleted old data"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T20:26:29",
+                "messages": [
+                    "fix: generating all users at aa time using cached value"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T20:00:29",
+                "messages": [
+                    "fix: api for getting new users"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T19:20:57",
+                "messages": [
+                    "fix: add 404",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:56:02",
+                "messages": [
+                    "fix: change port"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:40:46",
+                "messages": [
+                    "fix: change port"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:38:27",
+                "messages": [
+                    "fix: change port"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T18:34:23",
+                "messages": [
+                    "fix: removed generate files",
+                    "fix: refactor code",
+                    "Merge remote-tracking branch 'origin/main'\n\n# Conflicts:\n#\tdocs/aakash414.html\n#\tdocs/data/processed",
+                    "fix: add api for user data",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T16:31:59",
+                "messages": [
+                    "fix: add runserver command",
+                    "fix: edit template design",
+                    "fix: edit template design",
+                    "Merge remote-tracking branch 'origin/main'"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-14T03:40:21",
+                "messages": [
+                    "Update users.json"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-13T07:18:35",
+                "messages": [
+                    "Update data",
+                    "Merge remote-tracking branch 'origin/main'",
+                    "fix: remove venv",
+                    "fix: adding only files in docs",
+                    "Create CNAME",
+                    "Update data",
+                    "fix: profile UI v1",
+                    "fix: gitignore"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T14:04:57",
+                "messages": [
+                    "Create CNAME"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-12T14:03:28",
+                "messages": [
+                    "fix: adding only files in docs"
+                ]
+            }
+        ],
+        "sunithvs/sunithvs": [
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T07:25:04",
+                "messages": [
+                    "Update main.py"
+                ]
+            },
+            {
+                "type": "PushEvent",
+                "date": "2024-12-15T07:22:44",
+                "messages": [
+                    "Update main.py"
+                ]
+            }
+        ]
+    }
+}

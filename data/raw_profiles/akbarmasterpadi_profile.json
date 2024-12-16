@@ -1,0 +1,68 @@
+{
+    "username": "akbarmasterpadi",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72377782?v=4",
+    "profile_url": "https://github.com/AkbarMasterpadi",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "fullstackfirstproject",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AkbarMasterpadi/fullstackfirstproject",
+            "language": "JavaScript",
+            "updatedAt": "2024-09-01T13:27:05Z"
+        },
+        {
+            "name": "series-communicate-using-markdown-AkbarMasterpadi",
+            "description": "series-communicate-using-markdown-AkbarMasterpadi created by GitHub Classroom",
+            "stars": 0,
+            "url": "https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-AkbarMasterpadi",
+            "language": "Unknown",
+            "updatedAt": "2024-04-20T14:28:13Z"
+        },
+        {
+            "name": "enters",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/Am607/enters",
+            "language": "CSS",
+            "updatedAt": "2021-10-14T17:44:58Z"
+        },
+        {
+            "name": "css",
+            "description": null,
+            "stars": 0,
+            "url": "https://github.com/AkbarMasterpadi/css",
+            "language": "Unknown",
+            "updatedAt": "2020-11-01T14:13:18Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "starred_repos": {
+        "count": 10,
+        "repositories": []
+    },
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0,
+        "sponsors": 0
+    },
+    "profile_summary": "This skilled web developer leverages expertise in JavaScript and CSS to craft innovative digital solutions that deliver results. With a passion for staying at the forefront of industry trends and technologies, they continually expand their technical skillset to meet the evolving demands of the web development landscape.\n\nAs a detail-oriented and driven professional with a growing portfolio of publicly accessible repositories, this developer demonstrates a commitment to open-source collaboration and community engagement. Their proficiency in JS and CSS enables them to design and develop high-performance, user-centric applications that drive business success and exceed client expectations.",
+    "contributions_data": {}
+}

@@ -24,7 +24,6 @@ jobs:
     - name: Profile generation
       run: |
         
-        curl -L -s -o data/users.json "https://user.devb.io/users"
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt
@@ -36,6 +35,7 @@ jobs:
     - name: Commit and push changes if there are any
       run: |
         git checkout -B data
+        curl -L -s -o data/users.json "https://user.devb.io/users"
         git pull origin data
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'

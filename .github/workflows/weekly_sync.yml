@@ -1,0 +1,44 @@
+name: Weekly sync
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday
+  workflow_dispatch:  # This allows you to manually trigger the workflow from the Actions tab.
+
+permissions:
+  contents: write  # Ensure the workflow has write access to contents
+
+jobs:
+  clean-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4  # Updated to v4 for latest features
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Profile generation
+      run: |
+        git checkout -B data
+        git pull origin data
+        python -m venv venv
+        source venv/bin/activate
+        pip install -r requirements.txt
+        python manage.py clean
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+    - name: Commit and push changes if there are any
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add docs/*
+        git add data/*
+        git diff --quiet && git diff --staged --quiet || (git commit -m "clean data" && git push origin data)
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -31,6 +31,5 @@ def get_user_data(username, force=True):
 
     # Add summaries to profile data
     profile_data['profile_summary'] = profile_summary
-    profile_data['contributions_data'] = contributions_data
 
     return profile_data

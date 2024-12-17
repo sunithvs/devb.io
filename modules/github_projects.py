@@ -237,7 +237,7 @@ class GitHubProjectRanker:
 					complexity_score * 0.6 +  # Reduced complexity weight
 					usage_factor * 0.4  # Increased usage weight
 			)
-			if language == 'Unknown':
+			if language != 'Unknown':
 				scored_languages.append({
 					'language': language,
 					'count': count,

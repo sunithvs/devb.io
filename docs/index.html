@@ -272,6 +272,16 @@
     <section id="wave-animation" class="pt-12 md:pt-10 pt-10 lg:mt-20 flex justify-center	items-center	">
         <div class="container">
             <div class="wave-container rounded-[10px] md:rounded-[30px] flex items-center flex-col">
+                <div class="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl mt-3">
+                    <div class="w-full text-center">
+                        Scattered Commits, Unstructured Chaos
+
+                    </div>
+                    <div class="w-full text-center">
+                        Curated Contributions, Professional Portfolio
+
+                    </div>
+                </div>
                 <div class="w-full">
                     <svg viewBox="0 0 1000 200">
                         <!-- Noisy Wave Group -->
@@ -299,17 +309,7 @@
                         </g>
                     </svg>
                 </div>
-                <div class="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl pb-3">
-                    <div class="w-full text-center">
 
-                        Scattered Commits, Unstructured Chaos
-
-                    </div>
-                    <div class="w-full text-center">
-                        Curated Contributions, Professional Portfolio
-
-                    </div>
-                </div>
             </div>
 
         </div>
@@ -898,8 +898,9 @@
         frequency = numWaves * 2 * Math.PI / (endX - startX);
 
         for (let i = 0; i <= steps; i++) {
-            const x = startX + i * dx;
-            const y = baseY + amplitude * Math.sin(frequency * (x - startX) + phase);
+            // Invert x-coordinate to run right to left
+            const x = endX - i * dx;
+            const y = baseY + amplitude * Math.sin(frequency * (endX - x - startX) + phase);
             points.push(`${x},${y}`);
         }
 
@@ -912,15 +913,16 @@
         const dx = (endX - startX) / steps;
 
         for (let i = 0; i <= steps; i++) {
-            const x = startX + i * dx;
+            // Invert x-coordinate to run right to left
+            const x = endX - i * dx;
             const progress = i / steps;
 
             // Base sine wave
-            const baseWave = baseAmplitude * Math.sin(frequency * (x - startX) + phase);
+            const baseWave = baseAmplitude * Math.sin(frequency * (endX - x - startX) + phase);
 
             // Noise that gradually reduces to zero at the ends
             const noiseScale = Math.sin(Math.PI * progress);
-            const noise = noiseAmplitude * noiseScale * (Math.sin(8 * frequency * (x - startX) + phase));
+            const noise = noiseAmplitude * noiseScale * (Math.sin(8 * frequency * (endX - x - startX) + phase));
 
             const y = baseY + baseWave + noise;
             points.push(`${x},${y}`);
@@ -937,7 +939,7 @@
         function updateWaves() {
             const time = Date.now() / 1000;
 
-            // Update noisy waves
+            // Update noisy waves (now running from right to left)
             const noisyWave1 = generateNoisyWave(0, 450, 30, 15, Math.PI / 100, time % (2 * Math.PI));
             const noisyWave2 = generateNoisyWave(0, 450, 20, 10, Math.PI / 80, (time + Math.PI / 4) % (2 * Math.PI));
             const noisyWave3 = generateNoisyWave(0, 450, 5, 3, Math.PI / 40, (time + Math.PI / 2) % (2 * Math.PI));
@@ -946,7 +948,7 @@
             noisyWavePaths[1].setAttribute('d', noisyWave2);
             noisyWavePaths[2].setAttribute('d', noisyWave3);
 
-            // Update clean waves
+            // Update clean waves (now running from right to left)
             const numWaves = 3;
             const frequency = (2 * Math.PI * numWaves) / 450;
             const cleanWave1 = generateSineWave(550, 1000, 30, frequency, time % (2 * Math.PI));
@@ -961,6 +963,7 @@
         updateWaves();
     });
 </script>
+
 </body>
 
 </html>

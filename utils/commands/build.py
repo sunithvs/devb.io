@@ -78,13 +78,19 @@ class BuildCommand(BaseCommand):
         if args and args[0] == '--force':
             force = True
         with open(Settings.DATA_TO_PROCESS, 'r') as f:
-            users = json.load(f)
+            try:
+                users = json.load(f)
+            except json.JSONDecodeError:
+                users = []
         if not users:
             print("No users to process")
             return
+        generated_users = []
         for username in users:
             status = self.process_user(username, force)
             if username in users and status:
-                users.remove(username)
+                generated_users.append(username)
+        # Update users list
+        users = list(set(users) - set(generated_users))
         with open(Settings.DATA_TO_PROCESS, 'w') as f:
             json.dump(users, f, indent=4)

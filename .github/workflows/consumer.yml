@@ -23,10 +23,11 @@ jobs:
 
     - name: Profile generation
       run: |
-        
+
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt
+        python manage.py fetch
         python manage.py build
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
@@ -36,7 +37,6 @@ jobs:
       run: |
         git checkout -B data
         git pull origin data
-        curl -L -s -o data/users.json "https://user.devb.io/users"
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add docs/*

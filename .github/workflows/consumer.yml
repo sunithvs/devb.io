@@ -37,8 +37,8 @@ jobs:
       run: |
         git checkout -B data
         git pull origin data
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
+        git config --global user.name 'devb'
+        git config --global user.email 'git@devb.io'
         git add docs/*
         git add data/*
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push origin data)

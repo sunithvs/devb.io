@@ -408,10 +408,12 @@ function renderErrorPage(error) {
         <div class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo - Centered on Mobile -->
             <a href="/">
-                <div class="flex gap-3">
-        <img width="120" src="images/logo-full.png" alt="devb.io">
-        </div>
-        </div>
+                <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
+                    <div class="w-12 h-12 bg-[#B9FF66] rounded-full flex items-center justify-center
+        hover:animate-pulse transform transition-all duration-300 hover:scale-105 active:scale-95">
+                        <span class="text-black font-bold">db</span>
+                    </div>
+                    <span class="text-2xl font-bold animate-bounce-in">devb.io</span>
                 </div>
             </a>
             <div class="flex flex-col items-center lg:items-start">

@@ -23,6 +23,75 @@
 
     </style>
 
+    <style>
+        .wave-container {
+            width: 100%;
+            background: linear-gradient(to right, #191A23, #292A32);
+        }
+
+       #wave-animation svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Wave Styles */
+        .wave-primary,
+        .wave-secondary,
+        .wave-detail,
+        .wave-main {
+            fill: none;
+            stroke: rgba(185, 255, 102, 0.4);
+            stroke-linecap: round;
+        }
+
+        .wave-secondary {
+            stroke: rgba(185, 255, 102, 0.2);
+        }
+
+        .wave-detail {
+            stroke: rgba(185, 255, 102, 0.15);
+        }
+
+        .clean-wave .wave-main {
+            stroke: rgba(185, 255, 102, 0.8);
+        }
+
+        .clean-wave .wave-secondary {
+            stroke: rgba(185, 255, 102, 0.2);
+        }
+
+        /* GitHub Logo Styles */
+        .logo-glow-outer {
+            fill: #B9FF66;
+            opacity: 0.1;
+            animation: pulse 2s infinite;
+        }
+
+        .logo-glow-inner {
+            fill: #B9FF66;
+            opacity: 0.15;
+            animation: pulse 2s infinite;
+        }
+
+        .github-logo {
+            fill: none;
+            stroke: #B9FF66;
+            stroke-width: 2;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                opacity: 0.1;
+                transform: scale(1);
+            }
+            50% {
+                opacity: 0.2;
+                transform: scale(1.05);
+            }
+        }
+    </style>
     <link rel="stylesheet" href="style/index.css">
     <script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
@@ -79,7 +148,11 @@
         <a href="https://github.com/sunithvs/devb.io">
             <button
                     class="px-2 min-w-5 lg:px-6 py-1 md:py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex">
-                <i data-lucide="github" class="w-6 h-6 mr-3 "></i>
+                <svg class="w-6 h-6 mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path fill-rule="evenodd"
+                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                          clip-rule="evenodd"></path>
+                </svg>
                 Star Repo
             </button>
         </a>
@@ -108,8 +181,8 @@
 
             </div>
             <a href="connect">
-                <button class="px-8 py-3 bg-[#191A23] text-white rounded-lg hover:bg-gray-800 transition-colors">
-                    Create Your Portfolio Now
+                <button class="p-4 md:px-12 py-5 bg-[#191A23] text-xl text-white rounded-lg  transition-colors hover:bg-[#B9FF66] hover:text-black">
+                    Generate Your Portfolio
                 </button>
             </a>
         </div>
@@ -143,7 +216,6 @@
                             bio
                             easily, not marathons.
                         </p>
-
                     </div>
                     <!-- Right Illustration -->
                     <div class="flex-1 relative md:order-first">
@@ -159,121 +231,139 @@
         </div>
     </section>
 
-    <section id="how-to" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
-                        <span
-                                class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">How
-                            It Works</span>
+    <section id="wave-animation" class="pt-12 md:pt-10 pt-10 lg:mt-20 flex justify-center	items-center	">
+        <div class="container">
+            <div class="wave-container rounded-[10px] md:rounded-[30px] flex items-center flex-col">
+                <div class="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl mt-3">
+                    <div class="w-full text-center">
+                        Scattered Commits, Unstructured Chaos
+
+                    </div>
+                    <div class="w-full text-center">
+                        Curated Contributions, Professional Portfolio
+
+                    </div>
                 </div>
-                <div>
-                    <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>
-                        Your Dev Profile</h2>
+                <div class="w-full">
+                    <svg viewBox="0 0 1000 200">
+                        <!-- Noisy Wave Group -->
+                        <g class="noisy-wave">
+                            <path class="wave-primary" stroke-width="2"></path>
+                            <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"></path>
+                            <path class="wave-detail" stroke-width="1" transform="translate(0, -5)"></path>
+                        </g>
+
+                        <!-- GitHub Logo -->
+                        <g transform="translate(470, 65)">
+                            <circle class="logo-glow-outer" cx="30" cy="30" r="40"></circle>
+                            <circle class="logo-glow-inner" cx="30" cy="30" r="25"></circle>
+                            <svg width="63" height="62" viewBox="0 0 63 62" fill="none" xmlns="http://www.w3.org/2000/svg" transform="translate(10, 5) scale(0.6)">
+                                <rect width="62.2222" height="62" rx="31" fill="#B9FF66"/>
+                                <path d="M18.2555 43.4822C16.8548 43.4822 15.5574 43.1378 14.3633 42.4489C13.1692 41.76 12.2048 40.7726 11.47 39.4867C10.7581 38.1778 10.4022 36.6048 10.4022 34.7678V34.2511C10.4022 32.437 10.7581 30.8756 11.47 29.5667C12.1818 28.2578 13.1348 27.2589 14.3289 26.57C15.5229 25.8811 16.8318 25.5367 18.2555 25.5367C19.3578 25.5367 20.2763 25.6744 21.0111 25.95C21.7689 26.2256 22.3889 26.5815 22.8711 27.0178C23.3533 27.4311 23.7207 27.8674 23.9733 28.3267H24.5244V18.8889H28.0722V43H24.5933V40.5889H24.0422C23.6059 41.3237 22.94 41.9896 22.0444 42.5867C21.1718 43.1837 19.9089 43.4822 18.2555 43.4822ZM19.2544 40.3822C20.7929 40.3822 22.0559 39.8885 23.0433 38.9011C24.0537 37.9137 24.5589 36.5015 24.5589 34.6644V34.3544C24.5589 32.5404 24.0652 31.1396 23.0778 30.1522C22.0903 29.1648 20.8159 28.6711 19.2544 28.6711C17.7389 28.6711 16.4759 29.1648 15.4655 30.1522C14.4781 31.1396 13.9844 32.5404 13.9844 34.3544V34.6644C13.9844 36.5015 14.4781 37.9137 15.4655 38.9011C16.4759 39.8885 17.7389 40.3822 19.2544 40.3822ZM43.1115 43.4822C41.4582 43.4822 40.1837 43.1837 39.2882 42.5867C38.4156 41.9896 37.7611 41.3237 37.3248 40.5889H36.7737V43H33.2948V18.8889H36.8426V28.3267H37.3937C37.6693 27.8674 38.0367 27.4311 38.4959 27.0178C38.9552 26.5815 39.5637 26.2256 40.3215 25.95C41.0793 25.6744 42.0093 25.5367 43.1115 25.5367C44.5352 25.5367 45.8441 25.8811 47.0382 26.57C48.2322 27.2589 49.1852 28.2578 49.8971 29.5667C50.6089 30.8756 50.9648 32.437 50.9648 34.2511V34.7678C50.9648 36.6048 50.5974 38.1778 49.8626 39.4867C49.1508 40.7726 48.1978 41.76 47.0037 42.4489C45.8326 43.1378 44.5352 43.4822 43.1115 43.4822ZM42.0782 40.3822C43.6167 40.3822 44.8796 39.8885 45.8671 38.9011C46.8774 37.9137 47.3826 36.5015 47.3826 34.6644V34.3544C47.3826 32.5404 46.8889 31.1396 45.9015 30.1522C44.9141 29.1648 43.6396 28.6711 42.0782 28.6711C40.5626 28.6711 39.2996 29.1648 38.2893 30.1522C37.3019 31.1396 36.8082 32.5404 36.8082 34.3544V34.6644C36.8082 36.5015 37.3019 37.9137 38.2893 38.9011C39.2996 39.8885 40.5626 40.3822 42.0782 40.3822Z" fill="black"/>
+                            </svg>
+                        </g>
+
+                        <!-- Clean Wave Group -->
+                        <g class="clean-wave">
+                            <path class="wave-main" stroke-width="3"></path>
+                            <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"
+                                  stroke-dasharray="4 2"></path>
+                        </g>
+                    </svg>
                 </div>
 
             </div>
 
-            <!-- Services Grid -->
-            <div class="grid grid-cols-1  gap-8 ">
-                <!-- Portfolio Generation -->
+        </div>
 
-                <div
-                        class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class=" text-3xl md:text-5xl mr-3">01</div>
-                                <div>Connect Your GitHub Account</div>
-                            </div>
-
-                        </div>
-                        <!--                          a  horizontal line-->
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>
-                                    Fill out the simple form with your GitHub username.
-                                </li>
-                                <li>
-                                    Our system will connect to your GitHub profile and start processing your data
-
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+    </section>
+    <section id="how-to" class="py-10 md:pt-20 mt-10">
+        <div class="container md:mx-auto md:px-4">
+            <div class="mb-4 md:mb-16 flex flex-col md:flex-row">
+                <div class="flex items-center">
+                    <span class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5">How It Works</span>
                 </div>
-                <div
-                        class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
+                <div>
+                    <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>Your Dev Profile</h2>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 gap-8">
+                <!-- Step 1: Connect GitHub -->
+                <div class="bg-[#B9FF66] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
                     <div class="flex flex-col h-full">
                         <div class="flex items-center flex-row">
                             <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">02</div>
-                                <div>Relax and Wait</div>
+                                <div class="text-3xl md:text-5xl mr-3">01</div>
+                                <div>Generate Profile</div>
                             </div>
-
                         </div>
-                        <!--                          a  horizontal line-->
                         <div class="border-t-2 border-black my-4"></div>
                         <div>
                             <ul class="list-disc list-inside">
-                                <li>
-                                    In just 6 hours, your personalized developer portfolio will be ready.
-                                </li>
-                                <li>
-                                    No need to lift a finger! We handle all the technical details.
+                                <li>Click the "Generate Profile" button to start your portfolio creation.</li>
+                                <li>Ensure your GitHub profile is updated with your about section, projects, and
+                                    achievements.
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                <div
-                        class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
+                <!-- Step 2: Instant Generation -->
+                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
                     <div class="flex flex-col h-full">
                         <div class="flex items-center flex-row">
                             <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">03</div>
-                                <div>Keep it Fresh</div>
+                                <div class="text-2xl md:text-5xl mr-3">02</div>
+                                <div>Instant Portfolio Generation</div>
                             </div>
-
                         </div>
-                        <!--                          a  horizontal line-->
                         <div class="border-t-2 border-black my-4"></div>
                         <div>
                             <ul class="list-disc list-inside">
-                                <li>
-                                    Your portfolio will be automatically updated each week based on your latest
-                                    GitHub activity.
-                                </li>
-                                <li>
-                                    Your projects, commits, and contributions will be showcased
-                                </li>
+                                <li>Your personalized developer portfolio is generated instantly.</li>
+                                <li>No manual work required - we handle all the technical details.</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div
-                        class="bg-[#F3F3F3] p-8 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
+
+                <!-- Step 3: Automatic Updates -->
+                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
                     <div class="flex flex-col h-full">
                         <div class="flex items-center flex-row">
                             <div class="flex flex-row text-left items-center">
-                                <div class=" text-2xl md:text-5xl mr-3">04</div>
-                                <div>Share Your Success</div>
+                                <div class="text-2xl md:text-5xl mr-3">03</div>
+                                <div>Automatic Weekly Updates</div>
                             </div>
-
                         </div>
-                        <!--                          a  horizontal line-->
                         <div class="border-t-2 border-black my-4"></div>
                         <div>
                             <ul class="list-disc list-inside">
-                                <li>
-                                    Once you're ready, share your portfolio with potential employers, recruiters, or
-                                    friends.
-                                </li>
-                                <li>
-                                    Showcase your skills and land your dream job!
-                                </li>
+                                <li>Your portfolio updates automatically each week based on your GitHub activity.</li>
+                                <li>New projects, commits, and contributions are showcased seamlessly.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 4: Star and Share -->
+                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                    <div class="flex flex-col h-full">
+                        <div class="flex items-center flex-row">
+                            <div class="flex flex-row text-left items-center">
+                                <div class="text-2xl md:text-5xl mr-3">04</div>
+                                <div>Support and Share</div>
+                            </div>
+                        </div>
+                        <div class="border-t-2 border-black my-4"></div>
+                        <div>
+                            <ul class="list-disc list-inside">
+                                <li>Star our GitHub repository to show support and help us grow.</li>
+                                <li>Upvote us on Product Hunt to spread the word.</li>
+                                <li>Share your portfolio with potential employers, recruiters, and friends.</li>
+                                <li>Showcase your skills and increase your chances of landing your dream job!</li>
                             </ul>
                         </div>
                     </div>
@@ -389,8 +479,7 @@
             <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
                 <div class="flex items-center ">
                         <span
-                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Connect
-                            People</span>
+                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Recent profiles</span>
                 </div>
                 <div>
 
@@ -452,11 +541,10 @@
 
         <div class="text-center mb-6">
             <div class="flex justify-center items-center mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none"
-                     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                     class="lucide lucide-github text-black">
-                    <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.28 1.15-.28 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/>
-                    <path d="M9 18c-4.51 2-5-2-7-2"/>
+                <svg class="mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true" width="36" height="36">
+                    <path fill-rule="evenodd"
+                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                          clip-rule="evenodd"></path>
                 </svg>
                 <span class="ml-2 text-xl font-bold">GitHub Username</span>
             </div>
@@ -725,6 +813,83 @@
         });
 
 </script>
+<script>
+    // Generate points for a sine wave
+    function generateSineWave(startX, endX, amplitude, frequency, phase, baseY = 100, steps = 100) {
+        const points = [];
+        const dx = (endX - startX) / steps;
+
+        // Ensure we complete exactly n full waves
+        const numWaves = Math.round((endX - startX) * frequency / (2 * Math.PI));
+        frequency = numWaves * 2 * Math.PI / (endX - startX);
+
+        for (let i = 0; i <= steps; i++) {
+            // Invert x-coordinate to run right to left
+            const x = endX - i * dx;
+            const y = baseY + amplitude * Math.sin(frequency * (endX - x - startX) + phase);
+            points.push(`${x},${y}`);
+        }
+
+        return `M${points.join(' L')}`;
+    }
+
+    // Generate a noisy wave path
+    function generateNoisyWave(startX, endX, baseAmplitude, noiseAmplitude, frequency, phase, baseY = 100, steps = 100) {
+        const points = [];
+        const dx = (endX - startX) / steps;
+
+        for (let i = 0; i <= steps; i++) {
+            // Invert x-coordinate to run right to left
+            const x = endX - i * dx;
+            const progress = i / steps;
+
+            // Base sine wave
+            const baseWave = baseAmplitude * Math.sin(frequency * (endX - x - startX) + phase);
+
+            // Noise that gradually reduces to zero at the ends
+            const noiseScale = Math.sin(Math.PI * progress);
+            const noise = noiseAmplitude * noiseScale * (Math.sin(8 * frequency * (endX - x - startX) + phase));
+
+            const y = baseY + baseWave + noise;
+            points.push(`${x},${y}`);
+        }
+
+        return `M${points.join(' L')}`;
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        // Get wave elements
+        const noisyWavePaths = document.querySelectorAll('.noisy-wave path');
+        const cleanWavePaths = document.querySelectorAll('.clean-wave path');
+
+        function updateWaves() {
+            const time = Date.now() / 1000;
+
+            // Update noisy waves (now running from right to left)
+            const noisyWave1 = generateNoisyWave(0, 450, 30, 15, Math.PI / 100, time % (2 * Math.PI));
+            const noisyWave2 = generateNoisyWave(0, 450, 20, 10, Math.PI / 80, (time + Math.PI / 4) % (2 * Math.PI));
+            const noisyWave3 = generateNoisyWave(0, 450, 5, 3, Math.PI / 40, (time + Math.PI / 2) % (2 * Math.PI));
+
+            noisyWavePaths[0].setAttribute('d', noisyWave1);
+            noisyWavePaths[1].setAttribute('d', noisyWave2);
+            noisyWavePaths[2].setAttribute('d', noisyWave3);
+
+            // Update clean waves (now running from right to left)
+            const numWaves = 3;
+            const frequency = (2 * Math.PI * numWaves) / 450;
+            const cleanWave1 = generateSineWave(550, 1000, 30, frequency, time % (2 * Math.PI));
+
+            cleanWavePaths[0].setAttribute('d', cleanWave1);
+            cleanWavePaths[1].setAttribute('d', cleanWave1);
+
+            requestAnimationFrame(updateWaves);
+        }
+
+        // Start the animation
+        updateWaves();
+    });
+</script>
+
 </body>
 
 </html>

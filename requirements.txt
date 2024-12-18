@@ -19,12 +19,14 @@ idna==3.10
 Jinja2==3.1.4
 MarkupSafe==3.0.2
 multidict==6.1.0
+numpy==2.2.0
 pendulum==3.0.0
 propcache==0.2.1
 pydantic==2.10.3
 pydantic_core==2.27.1
 python-dateutil==2.9.0.post0
 python-dotenv==0.19.1
+psutil==6.1.0
 redis==5.2.1
 requests==2.26.0
 six==1.17.0
@@ -38,3 +40,4 @@ uvicorn==0.33.0
 watchdog==6.0.0
 websockets==14.1
 yarl==1.18.3
+

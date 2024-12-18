@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import requests
 
 from config.settings import Settings
+from modules.github_projects import GitHubProjectRanker
 
 
 class GitHubProfileFetcher:
@@ -86,20 +87,6 @@ class GitHubProfileFetcher:
                       totalCount
                     }}
 
-                    # Starred Repositories
-                    starredRepositories(first: 10, orderBy: {{field: STARRED_AT, direction: DESC}}) {{
-                      nodes {{
-                        name
-                        description
-                        url
-                      }}
-                    }}
-
-                    # Sponsorships
-                    sponsors {{
-                      totalCount
-                    }}
-
                     repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {{
                       totalCount
                       nodes {{
@@ -124,34 +111,16 @@ class GitHubProfileFetcher:
 
         graphql_response.raise_for_status()
         graphql_data = graphql_response.json()['data']['user']
-
-        # Process languages and top projects
-        languages = Counter()
-        top_projects = []
-        for repo in graphql_data['repositories']['nodes']:
-            if repo['primaryLanguage']:
-                languages[repo['primaryLanguage']['name']] += 1
-            top_projects.append({
-                'name': repo['name'],
-                'description': repo.get('description', ''),
-                'stars': repo['stargazerCount'],
-                'url': repo['url'],
-                'language': repo['primaryLanguage']['name'] if repo['primaryLanguage'] else 'Unknown',
-                'updatedAt':repo['updatedAt']
-            })
-
-        # Sort top projects by star count
-        top_projects = sorted(top_projects, key=lambda x: datetime.strptime(x['updatedAt'],'%Y-%m-%dT%H:%M:%SZ'), reverse=True)[:10]
-
+        featured = GitHubProjectRanker().get_featured(username)
         return {
             'username': username,
-            'name': graphql_data.get('name', username),
+            'name': graphql_data.get('name', username) or username,
             'bio': graphql_data.get('bio', ''),
             'location': graphql_data.get('location', ''),
             'avatar_url': graphql_data.get('avatarUrl', ''),
             'profile_url': graphql_data.get('url', ''),
-            'top_languages': languages.most_common(3),
-            'top_projects': top_projects,
+            'top_languages': featured['top_languages'],
+            'top_projects': featured['top_projects'],
             'followers': graphql_data['followers']['totalCount'],
             'following': graphql_data['following']['totalCount'],
             'public_repos': graphql_data['repositories']['totalCount'],
@@ -159,22 +128,12 @@ class GitHubProfileFetcher:
             # Metrics from GraphQL data
             'pull_requests_merged': graphql_data['pullRequests']['totalCount'],
             'issues_closed': graphql_data['issues']['totalCount'],
-            'starred_repos': {
-                'count': 10,  # Limited to first 10 in query
-                'repositories': [
-                    {
-                        'name': repo['name'],
-                        'description': repo.get('description', ''),
-                        'url': repo['url']
-                    } for repo in graphql_data['starredRepositories']['nodes']
-                ]
-            },
             'achievements': {
                 'total_contributions': graphql_data['contributionsCollection']['contributionCalendar'][
                     'totalContributions'],
                 'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
-                'sponsors': graphql_data['sponsors']['totalCount']
-            }
+            },
+            'social_accounts': GitHubProfileFetcher.social_accounts(username)
         }
 
     @staticmethod
@@ -242,3 +201,29 @@ class GitHubProfileFetcher:
             'following': user_data.get('following', 0),
             'public_repos': user_data.get('public_repos', 0)
         }
+
+    @staticmethod
+    def social_accounts(username):
+        """
+        Fetch social accounts of the user
+
+        Args:
+            username (str): GitHub username
+
+        Returns:
+            dict: Social accounts of the user
+        """
+        base_url = f"https://api.github.com/users/{username}/social_accounts"
+
+        # Fetch user details
+        user_response = requests.get(
+            base_url,
+            headers={
+                "Accept": "application/vnd.github.v3+json",
+                "Authorization": f"token {Settings.get_github_token()}",
+            }
+        )
+        user_response.raise_for_status()
+        user_data = user_response.json()
+
+        return user_data

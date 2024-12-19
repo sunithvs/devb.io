@@ -1,0 +1,134 @@
+{
+    "username": "varshashaheen",
+    "name": "Varsha Shaheen",
+    "bio": "Third-year Computer Science student at Cochin University Of Science And Technology.",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97077639?u=06923288c32165746388cafcea4556706b331e8d&v=4",
+    "profile_url": "https://github.com/VarshaShaheen",
+    "top_languages": [
+        [
+            "Python",
+            19
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WIT-Website",
+            "description": null,
+            "score": 4.125770537188448,
+            "stars": 0,
+            "forks": 13,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/WIT-Website",
+            "updatedAt": "2023-11-19T02:40:12Z"
+        },
+        {
+            "name": "Experimenting-with-Assembly-Language",
+            "description": "Here you can discover my experimentation with Assembly language, which was the first language I ever learned.",
+            "score": 3.383976429654676,
+            "stars": 2,
+            "forks": 1,
+            "language": "Assembly",
+            "url": "https://github.com/VarshaShaheen/Experimenting-with-Assembly-Language",
+            "updatedAt": "2023-10-02T06:28:19Z"
+        },
+        {
+            "name": "graphics-lab",
+            "description": null,
+            "score": 1.6405360724759672,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/graphics-lab",
+            "updatedAt": "2024-11-16T09:37:38Z"
+        },
+        {
+            "name": "DSA-S4-new",
+            "description": null,
+            "score": 1.5451904962242546,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/VarshaShaheen/DSA-S4-new",
+            "updatedAt": "2023-07-13T16:55:16Z"
+        },
+        {
+            "name": "S3_oops_lab",
+            "description": null,
+            "score": 1.5411329521207475,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3_oops_lab",
+            "updatedAt": "2023-03-31T12:10:49Z"
+        },
+        {
+            "name": "Actions-Controlled-Presentation",
+            "description": null,
+            "score": 1.5409832528207286,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/Actions-Controlled-Presentation",
+            "updatedAt": "2023-03-21T14:41:46Z"
+        },
+        {
+            "name": "S3-Oop",
+            "description": null,
+            "score": 1.5400037358482441,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3-Oop",
+            "updatedAt": "2023-02-27T05:34:21Z"
+        },
+        {
+            "name": "varshashaheen.github.io",
+            "description": null,
+            "score": 1.4600415232293749,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/varshashaheen.github.io",
+            "updatedAt": "2022-07-23T18:44:05Z"
+        }
+    ],
+    "followers": 42,
+    "following": 3,
+    "public_repos": 81,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 419,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/varsha-shaheen-a10295231"
+        }
+    ],
+    "activity_summary": {
+        "IWCMLQC": {
+            "link": "https://github.com/VarshaShaheen/IWCMLQC",
+            "summary": "The IWCMLQC repository has received significant updates in recent months, with major changes to the brochure content and registration form. These updates have enhanced the overall structure and user experience of the repository, demonstrating consistent maintenance efforts."
+        },
+        "Network-Lab-S7": {
+            "link": "https://github.com/VarshaShaheen/Network-Lab-S7",
+            "summary": "The Network-Lab-S7 repository has been actively updated with new programs and code contributions over the past few months. These additions indicate a strong focus on growth and expansion of the repository's capabilities and functionality."
+        },
+        "IconMat": {
+            "link": "https://github.com/VarshaShaheen/IconMat",
+            "summary": "The IconMat repository has undergone a notable update, primarily involving the removal of the .idea directory from tracking and updating the .gitignore file. This maintenance task improves repository organization and promotes a cleaner codebase."
+        }
+    },
+    "profile_summary": "Varsha Shaheen is an innovative and accomplished computer science professional with a proven track record of leveraging cutting-edge technologies to drive growth and excellence. As a skilled developer with expertise in Python, C, and C++, Varsha possesses a unique blend of technical prowess and analytical expertise, empowering her to craft bespoke software solutions that meet the evolving needs of the digital landscape. With an active network of 42 professional connections and an extensive portfolio of 81 public repositories, Varsha demonstrates exceptional collaborative skills, technical acumen, and a deep passion for software development.\n\nCurrently pursuing her third year of studies in Computer Science at Cochin University Of Science And Technology, Varsha continues to sharpen her programming expertise and push the boundaries of innovation in her domain. With a profound understanding of algorithms, data structures, and programming principles, she seamlessly navigates the intricacies of software development, crafting scalable, efficient, and secure solutions that showcase her creativity, work ethic, and unrelenting commitment to excellence. As a rising talent in the tech industry, Varsha Shaheen embodies the qualities of a visionary developer \u2013 innovative, driven, and singularly focused on harnessing technology to drive positive change and achieve transformative impact."
+}

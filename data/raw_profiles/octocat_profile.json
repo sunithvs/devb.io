@@ -1,0 +1,91 @@
+{
+    "username": "octocat",
+    "name": "The Octocat",
+    "bio": "",
+    "location": "San Francisco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/583231?u=a59fef2a493e2b67dd13754231daf220c82ba84d&v=4",
+    "profile_url": "https://github.com/octocat",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Spoon-Knife",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 36.930319696237056,
+            "stars": 12708,
+            "forks": 147696,
+            "language": "HTML",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "updatedAt": "2024-12-18T08:32:04Z"
+        },
+        {
+            "name": "Hello-World",
+            "description": "My first repository on GitHub!",
+            "score": 27.77528546814115,
+            "stars": 2779,
+            "forks": 2504,
+            "language": null,
+            "url": "https://github.com/octocat/Hello-World",
+            "updatedAt": "2024-12-18T08:32:04Z"
+        },
+        {
+            "name": "octocat.github.io",
+            "description": null,
+            "score": 22.229983526060842,
+            "stars": 746,
+            "forks": 356,
+            "language": "CSS",
+            "url": "https://github.com/octocat/octocat.github.io",
+            "updatedAt": "2024-12-18T08:32:12Z"
+        },
+        {
+            "name": "hello-worId",
+            "description": "My first repository on GitHub.",
+            "score": 20.495386406010947,
+            "stars": 489,
+            "forks": 196,
+            "language": null,
+            "url": "https://github.com/octocat/hello-worId",
+            "updatedAt": "2024-12-18T08:32:13Z"
+        },
+        {
+            "name": "git-consortium",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 18.988552938483117,
+            "stars": 377,
+            "forks": 101,
+            "language": null,
+            "url": "https://github.com/octocat/git-consortium",
+            "updatedAt": "2024-12-13T20:18:21Z"
+        },
+        {
+            "name": "test-repo1",
+            "description": null,
+            "score": 16.420718987449312,
+            "stars": 282,
+            "forks": 26,
+            "language": null,
+            "url": "https://github.com/octocat/test-repo1",
+            "updatedAt": "2024-12-13T20:19:18Z"
+        }
+    ],
+    "followers": 16195,
+    "following": 9,
+    "public_repos": 203,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "The Octocat is a highly accomplished front-end developer renowned for mastery in HTML and CSS, with a distinctive ability to craft visually stunning and functionally superior digital experiences. Boasting a network of over 16,000 followers, The Octocat holds significant influence within the development community, demonstrating exceptional leadership and innovation in the field of web development. A prolific contributor to the open-source ecosystem, The Octocat's impressive repository of 203 public projects serves as a testament to their unwavering commitment to active development and unrelenting passion for coding.\n\nAs a forward-thinking and versatile developer, The Octocat brings a wealth of expertise to the table, consistently delivering cutting-edge solutions that set new standards in user experience and frontend engineering. With a unique blend of technical know-how and creative flair, The Octocat excels at crafting tailored solutions that meet the evolving needs of a variety of clients and projects, solidifying their position as a trusted authority and respected advocate for innovative web development practices."
+}

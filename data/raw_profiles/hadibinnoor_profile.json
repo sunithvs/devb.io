@@ -1,0 +1,115 @@
+{
+    "username": "hadibinnoor",
+    "name": "Hadi Bin Noor",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/43814202?v=4",
+    "profile_url": "https://github.com/hadibinnoor",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SHN-GmailAPI",
+            "description": null,
+            "score": 3.107692342232504,
+            "stars": 1,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/hadibinnoor/SHN-GmailAPI",
+            "updatedAt": "2022-08-05T03:57:02Z"
+        },
+        {
+            "name": "framesify-frontend",
+            "description": null,
+            "score": 2.679440862667426,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/hadibinnoor/framesify-frontend",
+            "updatedAt": "2024-05-23T01:04:42Z"
+        },
+        {
+            "name": "SHN-Discord-API",
+            "description": null,
+            "score": 2.501141641052836,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/hadibinnoor/SHN-Discord-API",
+            "updatedAt": "2022-11-10T07:13:54Z"
+        },
+        {
+            "name": "framesify",
+            "description": null,
+            "score": 1.291465162567267,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/hadibinnoor/framesify",
+            "updatedAt": "2024-06-08T13:42:39Z"
+        },
+        {
+            "name": "Flet-SHN",
+            "description": null,
+            "score": 1.2050173095056298,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/hadibinnoor/Flet-SHN",
+            "updatedAt": "2023-10-21T18:12:13Z"
+        },
+        {
+            "name": "hadibinnoor.github.io",
+            "description": null,
+            "score": 0.2785776535233783,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hadibinnoor/hadibinnoor.github.io",
+            "updatedAt": "2024-05-14T18:23:34Z"
+        },
+        {
+            "name": "frontend",
+            "description": null,
+            "score": 0.2625254017047578,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hadibinnoor/frontend",
+            "updatedAt": "2024-02-19T20:22:29Z"
+        },
+        {
+            "name": "volunteer_management",
+            "description": null,
+            "score": 0.2566935224498611,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/hadibinnoor/volunteer_management",
+            "updatedAt": "2024-02-19T17:15:54Z"
+        }
+    ],
+    "followers": 11,
+    "following": 11,
+    "public_repos": 25,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 49,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "profile_summary": "Hadi Bin Noor is a highly skilled developer and versatile technologist with a strong background in full-stack development using Python, JavaScript, and HTML. His extensive expertise spans multiple domains, equipping him to tackle complex projects with ease and deliver innovative solutions that drive results. As a seasoned professional, Hadi Bin Noor has established a notable presence in the developer community, with a network of 11 followers and an impressive portfolio of 25 public repositories that showcase his technical abilities.\n\nA prolific developer dedicated to staying at the forefront of industry trends and advancements, Hadi Bin Noor consistently pushes the boundaries of what is possible with code. With a knack for creating efficient, scalable solutions, he brings significant value to projects through his rapid problem-solving skills, creative thinking, and technical mastery. By leveraging his skills and expertise, Hadi Bin Noor delivers world-class results that drive success and fuel business growth, solidifying his position as a highly sought-after developer in the industry."
+}

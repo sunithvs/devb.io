@@ -133,9 +133,8 @@
 <!-- Navbar -->
 <nav class="fixed w-full bg-white/80 backdrop-blur-sm z-50 py-4">
     <div class="container mx-auto px-4 flex items-center justify-between">
-        <div class="flex items-center gap-2 mr-7">
-            <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
-            <span class="text-xl font-bold">dev b.io</span>
+        <div class="flex gap-3">
+        <img width="100" src="images/logo-full.png" alt="devb.io">
         </div>
         <div class="hidden lg:flex items-center md:gap-14">
             <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
@@ -190,7 +189,7 @@
         <!-- Right Illustration -->
         <div class="flex-1 relative">
             <div class="relative">
-                <img src="images/Illustration.svg" alt="Illustration" class="w-full rounded-2xl">
+                <img src="images/hero.png" alt="Illustration" class="w-full rounded-2xl">
 
             </div>
         </div>
@@ -500,9 +499,12 @@
         <div class="container mx-auto p-8">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div>
-                    <span class="rounded-full bg-[#B9FF66] p-1 font-bold text-black text-2xl">db</span>
-                    <span class="font-bold text-2xl ">dev b.io</span>
+                     <div class="flex gap-3">
+        <img width="120" src="images/logo-white.png" alt="devb.io">
+        </div>
                     <p class="text-gray-400 mt-4">Effortless Portfolios for Developers</p>
+<!--                    <a href="mai" class="text-gray-400 mt-4">contact@devb.io</a>-->
+                    <a href="mailto:contact@devb.io" class="text-gray-400 mt-4"> contact@devb.io</a>
                 </div>
                 <div>
                     <h2 class="text-xl font-bold">Quick Links</h2>
@@ -516,12 +518,13 @@
                 <div>
                     <h2 class="text-xl font-bold">Follow us</h2>
                     <ul class="mt-4">
+                        <li><a href="https://x.com/devb_io" target="_blank" class="hover:text-lime-500 transition-colors">X</a>
                         <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
-                               class="hover:text-lime-500 transition-colors">Github</a></li>
-                        <li><a href="#" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a>
+                            class="hover:text-lime-500 transition-colors">Github</a></li>
+                        <li><a href="https://www.instagram.com/devb.io" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a>
+                        <li><a href="https://www.linkedin.com/company/devb-io" target="_blank" class="hover:text-lime-500 transition-colors">Linkedin</a>
                         </li>
-                        <li><a href="https://sunithvs.com" target="_blank"
-                               class="hover:text-lime-500 transition-colors">Developer</a></li>
+
 
                     </ul>
                 </div>
@@ -569,11 +572,16 @@
 
             <button
                     id="validateUsername"
-                    class="w-full bg-gray-300 text-gray-500 py-2 rounded-lg cursor-not-allowed"
+                    class="w-full bg-gray-300 text-gray-500 py-2 rounded-lg cursor-not-allowed flex items-center justify-center"
                     disabled
             >
+<svg  id="logo-toggle" width="15" class="mr-2"  viewBox="0 0 89 91" fill="#6B7280" xmlns="http://www.w3.org/2000/svg" >
+<path d="M0 16C0 8.45753 0 4.68629 2.34315 2.34315C4.68629 0 8.45753 0 16 0H41V91H16C8.45753 91 4.68629 91 2.34315 88.6569C0 86.3137 0 82.5425 0 75V16Z" />
+<path d="M83 22C83 10.1259 73.3741 0.5 61.5 0.5H47V43.5H61.5C73.3741 43.5 83 33.8741 83 22V22Z" />
+<path d="M89 69C89 60.0962 89 55.6443 86.7542 52.5103C85.99 51.4439 85.0561 50.51 83.9897 49.7458C80.8557 47.5 76.4038 47.5 67.5 47.5H47V90.5H67.5C76.4038 90.5 80.8557 90.5 83.9897 88.2542C85.0561 87.49 85.99 86.5561 86.7542 85.4897C89 82.3557 89 77.9038 89 69V69Z" />
+</svg>
 
-                View <span class="rounded-full p-1 font-bold">db</span> Profile
+                View Profile
             </button>
         </div>
     </div>
@@ -614,12 +622,8 @@
                                         @${profile.username}
                                     </span>
                                 </div>
-                                <div>
-                                    <i data-lucide="github-" class="w-9/12 h-9 mx-3"></i>
-                                </div>
-                                <div>
-                                    <span class="rounded-full bg-[#B9FF66] p-1 font-bold">db</span>
-                                </div>
+
+
 
                             </div>
 
@@ -670,7 +674,7 @@
     // Example usage when page loads
     document.addEventListener('DOMContentLoaded', () => {
         // Assuming profileData is available globally or passed in
-        fetch("data/processed_users.json")
+        fetch("https://devb.io/data/processed_users.json")
             .then(response => response.json())
             .then(profileData => {
                 loadAndRenderProfiles(profileData);
@@ -730,6 +734,8 @@
                 viewProfileButton.disabled = true;
                 viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
                 viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
+                document.getElementById('logo-toggle').style.fill = 'grey';
+
             }
 
 // Username validation function
@@ -743,6 +749,7 @@
                 viewProfileButton.disabled = true;
                 viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
                 viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
+                document.getElementById('logo-toggle').style.fill = '#6B7280';
 
 // Set default Octocat image initially
                 profileImage.src = DEFAULT_OCTOCAT_IMAGE;
@@ -786,6 +793,8 @@
                         viewProfileButton.classList.add('bg-[#B9FF66]', 'text-black');
 //                         curser pointer
                         viewProfileButton.style.cursor = 'pointer';
+//                         logo-toggle to black all paths in th svg fill
+                        document.getElementById('logo-toggle').style.fill = 'black';
 
 // Set profile link
                         viewProfileButton.onclick = () => {

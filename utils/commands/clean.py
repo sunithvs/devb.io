@@ -18,7 +18,10 @@ class CleanCommand(BaseCommand):
             processed_users = json.load(f)
         data_to_process = []
         with open(Settings.DATA_TO_PROCESS, 'r') as f:
-            data_to_process = json.load(f)
+            try:
+                data_to_process = json.load(f)
+            except Exception as e:
+                data_to_process = []
         data_to_process.extend(processed_users.keys())
 
         with open(Settings.DATA_TO_PROCESS, 'w') as f:

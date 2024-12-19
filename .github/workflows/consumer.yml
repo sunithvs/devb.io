@@ -27,6 +27,7 @@ jobs:
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt
+        git checkout -B data
         python manage.py fetch
         python manage.py build
       env:
@@ -35,8 +36,6 @@ jobs:
 
     - name: Commit and push changes if there are any
       run: |
-        git checkout -B data
-        git pull origin data
         git config --global user.name 'devb'
         git config --global user.email 'git@devb.io'
         git add docs/*

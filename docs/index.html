@@ -606,31 +606,30 @@
         selectedProfiles.forEach(profile => {
             // Create the main container div
             var div = `<a href="/${profile.username}" target="_blank">
-<div
-                        class="bg-[#F3F3F3] p-4 rounded-[30px] border-2  border-b-[4px] md:border-b-[5px] border-black ">
-                        <div class="flex flex-row">
-<div class="flex flex-row">
-                            <div class="flex  justify-center items-center flex-row">
-                                <div class="flex flex-col mr-2">
-                                    <div>
-                                        <img class="rounded-full w-28"
-                                            src="${profile.avatar_url}" alt="${profile.name}">
-                                    </div>
-                                </div>
-                                <div class="flex flex-col">
-                                    <span class="text-2xl font-bold">
-                                        ${profile.name}
-                                    </span>
-                                    <span>
-                                        @${profile.username}
-                                    </span>
-                                </div>
-
-
-
-                            </div>
-
-                        </div></div></div></a>
+  <div class="bg-[#F3F3F3] p-4 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black min-h-[120px]">
+    <div class="flex flex-row">
+      <div class="flex flex-row">
+        <div class="flex justify-center items-center flex-row">
+          <div class="flex flex-col mr-2">
+            <div class="min-h-[112px] min-w-[112px]">
+              <img class="rounded-full w-28 h-28 object-cover"
+                src="${profile.avatar_url}"
+                alt="${profile.name}">
+            </div>
+          </div>
+          <div class="flex flex-col">
+            <span class="text-2xl font-bold">
+              ${profile.name}
+            </span>
+            <span>
+              @${profile.username}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
 `
 
             // Add to users section

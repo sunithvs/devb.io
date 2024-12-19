@@ -1,0 +1,129 @@
+{
+    "username": "gnaathg",
+    "name": "Sabari Nath G",
+    "bio": "I am a beginner web-developer.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/180140815?u=47118318f2b207047b7d56c10a17b5444e051bd3&v=4",
+    "profile_url": "https://github.com/gnaathg",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "javascript",
+            "description": "A code platform for ja.",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/gnaathg/javascript",
+            "updatedAt": "2024-12-17T10:13:53Z"
+        },
+        {
+            "name": "todoapp",
+            "description": null,
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gnaathg/todoapp",
+            "updatedAt": "2024-11-15T04:02:54Z"
+        },
+        {
+            "name": "empcrm",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gnaathg/empcrm",
+            "updatedAt": "2024-11-09T03:09:24Z"
+        },
+        {
+            "name": "ufcfighters",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gnaathg/ufcfighters",
+            "updatedAt": "2024-12-07T06:35:35Z"
+        },
+        {
+            "name": "employeecrm",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gnaathg/employeecrm",
+            "updatedAt": "2024-10-27T04:36:05Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/gnaathg/portfolio",
+            "updatedAt": "2024-10-27T04:47:28Z"
+        },
+        {
+            "name": "usedvehicles",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gnaathg/usedvehicles",
+            "updatedAt": "2024-10-30T14:44:05Z"
+        },
+        {
+            "name": "GITlearning",
+            "description": null,
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/gnaathg/GITlearning",
+            "updatedAt": "2024-09-02T04:12:54Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 44,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "gnaathg/usedvehicles": {
+            "link": "https://github.com/gnaathg/usedvehicles",
+            "summary": "Recent updates were made to the repository, with the latest push events occurring on October 28 and October 29, followed by a push event on October 30, indicating continuous active development and improvements being made to the used vehicles project."
+        },
+        "gnaathg/ufcfighters": {
+            "link": "https://github.com/gnaathg/ufcfighters",
+            "summary": "Recent activities in the repository involved creating and updating the README.md file on December 7, suggesting a focus on improving documentation and providing a clear overview of the ufc fighters project's objectives and functionalities."
+        },
+        "gnaathg/empcrm": {
+            "link": "https://github.com/gnaathg/empcrm",
+            "summary": "The repository experienced recent updates with push events on November 7 and November 9, demonstrating ongoing development and maintenance efforts being invested in the emp crm project, with a focus on refining its features and performance."
+        },
+        "gnaathg/todoapp": {
+            "link": "https://github.com/gnaathg/todoapp",
+            "summary": "A recent update was made to the repository on November 15, suggesting that the todo app project continues to evolve and receive improvements, ensuring its features and user experience remain up-to-date and relevant."
+        }
+    },
+    "profile_summary": "Sabari Nath G is a proficient web developer with a strong foundation in Python and HTML, delivering high-quality solutions through a meticulous approach to coding. As a driven professional with a keen interest in web development, he efficiently leverages his technical skills to craft innovative applications and projects. With a diverse portfolio of public repositories showcasing his creativity and adaptability, Sabari Nath G has established himself as a capable and reliable developer in the industry.\n\nThrough active engagement in coding and continuous learning, Sabari Nath G consistently refines his expertise and stays up-to-date with the latest trends and technologies in web development. His commitment to delivering exceptional results and unique value proposition has the potential to significantly impact the industry. With a focused passion for coding and an unwavering dedication to his craft, Sabari Nath G is poised to make a lasting impression as a talented web developer in the field."
+}

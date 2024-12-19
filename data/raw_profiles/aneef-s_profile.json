@@ -1,0 +1,121 @@
+{
+    "username": "aneef-s",
+    "name": "Aneef S",
+    "bio": "Anything.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/94902858?u=8c75ff473f410a05d5f91b701eae9ff37c38ca33&v=4",
+    "profile_url": "https://github.com/Aneef-S",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AVPS",
+            "description": null,
+            "score": 2.3676809868221675,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Aneef-S/AVPS",
+            "updatedAt": "2024-07-03T14:54:35Z"
+        },
+        {
+            "name": "Bus-Ticket-Booking",
+            "description": null,
+            "score": 1.8160411830900471,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/Aneef-S/Bus-Ticket-Booking",
+            "updatedAt": "2023-12-03T08:32:55Z"
+        },
+        {
+            "name": "Library-Management-Using-Rust",
+            "description": null,
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Aneef-S/Library-Management-Using-Rust",
+            "updatedAt": "2024-09-30T10:38:19Z"
+        },
+        {
+            "name": "Wild-Cards",
+            "description": "The Game Of Wilds",
+            "score": 0.3210046961141753,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/Aneef-S/Wild-Cards",
+            "updatedAt": "2024-09-03T19:51:07Z"
+        },
+        {
+            "name": "Chat-App",
+            "description": "A terminal app used to chat in group. Uses c++ socket programming to establish the client and server.",
+            "score": 0.30267400023560065,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Aneef-S/Chat-App",
+            "updatedAt": "2024-07-31T14:11:44Z"
+        },
+        {
+            "name": "ai-recipe-generator",
+            "description": null,
+            "score": 0.3014025016476837,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aneef-S/ai-recipe-generator",
+            "updatedAt": "2024-07-28T10:31:08Z"
+        },
+        {
+            "name": "3D-Site",
+            "description": null,
+            "score": 0.2962907343396846,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aneef-S/3D-Site",
+            "updatedAt": "2024-07-15T17:10:35Z"
+        },
+        {
+            "name": "Telegram-Backup-Bot",
+            "description": "A bot which automates the backup of you files in Telegram storage. This uses python.",
+            "score": 0.28337684106036204,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Aneef-S/Telegram-Backup-Bot",
+            "updatedAt": "2024-06-04T16:40:48Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 32,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 114,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Library-Management-Using-Rust": {
+            "link": "https://github.com/Aneef-S/Library-Management-Using-Rust",
+            "summary": "The repository recently witnessed enhancements to the modularity of its components. Improvements involved the creation of separate mods for different components to improve maintainability and scalability."
+        }
+    },
+    "profile_summary": "Aneef S is a highly skilled developer with a deep expertise in systems programming, specializing in languages such as Rust and C++. With a strong foundation in computer science, Aneef leverages his technical skills to deliver high-performance, scalable solutions that meet the evolving needs of the industry. His proficiency in TypeScript further enables him to develop robust front-end and back-end applications that integrate seamlessly with modern technologies.\n\nAs an active contributor to the open-source community, Aneef has developed and maintained 32 public repositories, showcasing his commitment to collaboration, innovation, and knowledge sharing. With a strong focus on best practices, clean code, and modular design, Aneef's work is characterized by reliability, efficiency, and a passion for technical excellence. As a seasoned developer with a strong technical foundation, Aneef is well-equipped to tackle complex challenges and drive meaningful impact in his field."
+}

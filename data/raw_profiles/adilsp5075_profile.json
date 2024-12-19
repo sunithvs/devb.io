@@ -1,0 +1,115 @@
+{
+    "username": "adilsp5075",
+    "name": "Adil S",
+    "bio": "\ud83d\udc49 Full stack Developer\r\n\ud83d\udc49 IoT Enthusiastic\r\n\ud83d\udc49 Flutter Novice\r\n\ud83d\udc49 UI/UX Designer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72271226?u=d28fd7f81d97c0749962e5f1dbd938c31d966390&v=4",
+    "profile_url": "https://github.com/adilsp5075",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "crewWise-frontend",
+            "description": "Frontend Design for Employee Management System with CRUD Operations and Promotion Functionality ",
+            "score": 2.585431616446342,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/adilsp5075/crewWise-frontend",
+            "updatedAt": "2023-07-27T21:23:56Z"
+        },
+        {
+            "name": "CrewWise",
+            "description": "Employee Management System with CRUD Operations and Promotion Functionality",
+            "score": 2.585383725798858,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/adilsp5075/CrewWise",
+            "updatedAt": "2023-07-27T21:23:51Z"
+        },
+        {
+            "name": "medH-fastapi",
+            "description": "medh api",
+            "score": 2.5823809013123364,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/adilsp5075/medH-fastapi",
+            "updatedAt": "2023-05-22T16:35:20Z"
+        },
+        {
+            "name": "CN",
+            "description": null,
+            "score": 2.499824325217642,
+            "stars": 1,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/adilsp5075/CN",
+            "updatedAt": "2022-07-29T04:38:53Z"
+        },
+        {
+            "name": "medH",
+            "description": "medical help app",
+            "score": 1.8044070618505108,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/adilsp5075/medH",
+            "updatedAt": "2023-05-04T08:54:10Z"
+        },
+        {
+            "name": "selfie",
+            "description": "mini_project",
+            "score": 1.4600538928865263,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adilsp5075/selfie",
+            "updatedAt": "2022-07-25T05:00:55Z"
+        },
+        {
+            "name": "my-portfolio",
+            "description": null,
+            "score": 1.4590082585948911,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adilsp5075/my-portfolio",
+            "updatedAt": "2022-07-25T05:01:07Z"
+        },
+        {
+            "name": "platinum",
+            "description": "Marketing & Management Service",
+            "score": 0.15707290377140282,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adilsp5075/platinum",
+            "updatedAt": "2023-05-25T16:54:31Z"
+        }
+    ],
+    "followers": 9,
+    "following": 13,
+    "public_repos": 40,
+    "pull_requests_merged": 24,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Adil S is a highly skilled and versatile full stack developer with a strong proficiency in a range of programming languages, including C, Python, and JavaScript. With a proven track record of consistently delivering high-quality solutions, Adil has established a reputation as a reliable and innovative professional in the development community. His extensive experience in designing and developing complex applications has enabled him to stay at the forefront of industry trends and technologies, allowing him to provide valuable insights and expertise to his clients and collaborators.\n\nAs an IoT enthusiast and UI/UX designer, Adil brings a unique perspective to his work, combining technical expertise with a deep understanding of user experience and interface design principles. With a portfolio of over 40 public repositories and a growing network of 9 followers, Adil continues to demonstrate his commitment to ongoing learning and professional growth, staying up-to-date with the latest developments in the field and exploring new technologies, such as Flutter, to further expand his skillset."
+}

@@ -1,0 +1,130 @@
+{
+    "username": "selmanfariz18",
+    "name": "Selmanul farizy K A",
+    "bio": "Developer <Django, Flutter> ",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92449535?u=c6e9e30cfdcad61b4384b67830236a6ccb79ba89&v=4",
+    "profile_url": "https://github.com/selmanfariz18",
+    "top_languages": [
+        [
+            "Python",
+            21
+        ],
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Hacktoberfest_04",
+            "description": null,
+            "score": 2.154381219599164,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_04",
+            "updatedAt": "2022-10-24T15:12:32Z"
+        },
+        {
+            "name": "Hacktoberfest_01",
+            "description": null,
+            "score": 1.8727374667601493,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "updatedAt": "2024-11-14T11:37:10Z"
+        },
+        {
+            "name": "Hacktoberfest_02",
+            "description": null,
+            "score": 1.7228581109214927,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_02",
+            "updatedAt": "2022-10-24T15:10:03Z"
+        },
+        {
+            "name": "Hacktoberfest_03",
+            "description": null,
+            "score": 1.7228581109214927,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_03",
+            "updatedAt": "2022-10-24T15:11:10Z"
+        },
+        {
+            "name": "ICTACME",
+            "description": "website for International Conference on Technological Advancements in Civil and Mechanical Engineering",
+            "score": 1.6376050485551579,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/ICTACME",
+            "updatedAt": "2024-03-21T16:12:53Z"
+        },
+        {
+            "name": "hack3.0",
+            "description": null,
+            "score": 1.6196446154124045,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/selmanfariz18/hack3.0",
+            "updatedAt": "2024-03-23T07:26:21Z"
+        },
+        {
+            "name": "Fluid-simulator",
+            "description": "html project created using js-webgl and css",
+            "score": 1.6130152228445755,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/selmanfariz18/Fluid-simulator",
+            "updatedAt": "2024-03-21T16:13:31Z"
+        },
+        {
+            "name": "selmanfariz18.github.io",
+            "description": "my personal portfolio",
+            "score": 1.6057816501471862,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/selmanfariz18.github.io",
+            "updatedAt": "2024-01-12T04:20:28Z"
+        }
+    ],
+    "followers": 14,
+    "following": 14,
+    "public_repos": 92,
+    "pull_requests_merged": 81,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 351,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Selmanulfarizy"
+        }
+    ],
+    "activity_summary": {
+        "selmanfariz18/mark_it_down": {
+            "link": "https://github.com/selmanfariz18/mark_it_down",
+            "summary": "The repository has seen significant updates with multiple push events resolving several bugs and implementing new features, including project restore, deletion, and reordering. Additionally, changes were made to the README.md, task deletion, profile page layout, and gists upload functionality."
+        },
+        "selmanfariz18/Hacktoberfest_01": {
+            "link": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "summary": "The repository's README.md has been updated multiple times, suggesting major documentation revisions."
+        }
+    },
+    "profile_summary": "Selmanul farizy K A is a highly skilled software developer with expertise in Python, C, and C++, possessing a unique ability to design and develop innovative solutions. With a strong background in Django and Flutter, he creates seamless user experiences and efficient backend systems, leveraging his technical prowess to drive business results. As an active contributor to the development community, Selmanul has built a professional network of like-minded individuals, with many looking up to him for expertise and guidance.\n\nWith a portfolio of 92 public repositories, Selmanul has consistently demonstrated his ability to deliver high-quality code and collaborate with others to drive project success. His proficiency in multiple programming languages enables him to adapt to various projects and technologies, making him a versatile and reliable partner for any development team. As a seasoned developer with a strong track record of achievement, Selmanul is dedicated to staying at the forefront of industry trends and technologies, always seeking opportunities to grow and improve his skills."
+}

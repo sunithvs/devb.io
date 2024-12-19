@@ -1,0 +1,77 @@
+{
+    "username": "abnv-o",
+    "name": "Abhinav O",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105405861?u=4e197c6c5c9364574103ebace0c4fdacac0e6212&v=4",
+    "profile_url": "https://github.com/abnv-o",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "network_packet_sniffer",
+            "description": null,
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abnv-o/network_packet_sniffer",
+            "updatedAt": "2024-08-25T15:58:50Z"
+        },
+        {
+            "name": "Kaleidoscope",
+            "description": "A simple kaleidoscope using javascript",
+            "score": 0.2820545609606904,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abnv-o/Kaleidoscope",
+            "updatedAt": "2024-05-29T17:11:09Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.27226252867810646,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abnv-o/portfolio",
+            "updatedAt": "2024-04-20T05:17:16Z"
+        },
+        {
+            "name": "abnv-o",
+            "description": null,
+            "score": 0.2703152699749518,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abnv-o/abnv-o",
+            "updatedAt": "2024-04-07T15:56:22Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 111,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Make-a-Ton/make-a-ton-2024": {
+            "link": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "summary": "The Make-a-Ton repository experienced a surge of updates with nine push events between October 11th and 16th, 2024. The updates primarily involved minor adjustments and additions to the repository, including the removal of broken images, modifications to section layouts and messaging, as well as the introduction of new track prize sections."
+        }
+    },
+    "profile_summary": "Abhinav O is a highly accomplished developer renowned for exceptional proficiency in JavaScript and Python. With a robust foundation in programming languages, Abhinav demonstrates technical expertise and an unwavering passion for crafting innovative solutions. A consistent contributor to the developer community, Abhinav maintains an impressive portfolio of seven public repositories, showcasing active engagement and dedication to growth.\n\nAs a credible and influential figure in the tech sphere, Abhinav's professional credibility is underscored by a substantial network of peers and industry experts who follow and admire their work. By effectively leveraging industry-relevant tools and methodologies, Abhinav delivers creative, high-quality software applications that drive results and exceed expectations. With a commitment to driving digital innovation and fostering technical excellence, Abhinav is an astute, forward-thinking developer poised for continued success and professional growth."
+}

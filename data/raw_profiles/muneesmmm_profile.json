@@ -1,0 +1,120 @@
+{
+    "username": "muneesmmm",
+    "name": "M Munees",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/67566629?u=dbae201c649988409d9d41c770a51dd93c625bff&v=4",
+    "profile_url": "https://github.com/muneesmmm",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Vue",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "sanasilks.org",
+            "description": null,
+            "score": 1.4561869549189876,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/muneesmmm/sanasilks.org",
+            "updatedAt": "2021-06-20T16:58:24Z"
+        },
+        {
+            "name": "bookreview",
+            "description": "E-lib is a dynamic website in which users can add books. All the features are only available after a simple Sign Up procedure. The users will be able to review any products(books), see its details, view reviews by other users, also go to a purchase website. There is also a handy user page to track recent activity. We have also provide various means to sort the books, by author, by genre, by language. It is also possible to search for a book manually.",
+            "score": 1.1093801685491396,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/muneesmmm/bookreview",
+            "updatedAt": "2021-05-27T15:34:49Z"
+        },
+        {
+            "name": "hashinclude",
+            "description": null,
+            "score": 0.2769520298016413,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/muneesmmm/hashinclude",
+            "updatedAt": "2024-05-09T05:22:12Z"
+        },
+        {
+            "name": "strapi",
+            "description": null,
+            "score": 0.27069638319415373,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/muneesmmm/strapi",
+            "updatedAt": "2024-04-09T09:52:14Z"
+        },
+        {
+            "name": "carwash-admin",
+            "description": null,
+            "score": 0.2620735034564844,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muneesmmm/carwash-admin",
+            "updatedAt": "2024-02-18T08:54:19Z"
+        },
+        {
+            "name": "carwash-adminpanel",
+            "description": null,
+            "score": 0.26177554611825465,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/muneesmmm/carwash-adminpanel",
+            "updatedAt": "2024-05-18T01:01:27Z"
+        },
+        {
+            "name": "carwash",
+            "description": null,
+            "score": 0.2544787049979559,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muneesmmm/carwash",
+            "updatedAt": "2024-05-18T01:37:40Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.2096548766315602,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muneesmmm/portfolio",
+            "updatedAt": "2024-05-31T09:16:55Z"
+        }
+    ],
+    "followers": 6,
+    "following": 14,
+    "public_repos": 68,
+    "pull_requests_merged": 27,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/muneesmmm"
+        }
+    ],
+    "profile_summary": "M Munees is a highly skilled and accomplished software developer with a strong proficiency in leading-edge technologies including JavaScript, Python, and Vue. As a highly sought-after professional with a sizable following of six peers, Munees boasts an impressive portfolio of sixty-eight public repositories that showcase his boundless creativity, technical mastery, and ability to drive innovative solutions. His areas of expertise span a broad range of applications, with a proven track record of crafting high-quality, scalable, and efficient software solutions that consistently meet the needs of diverse clients.\n\nWith an unwavering commitment to delivering exceptional results, M Munees brings a unique value proposition that sets him apart from his peers. His deep understanding of software development principles, paired with a constant drive to learn and stay up-to-date with the latest advancements in technology, enables him to craft solutions that are not only effective but also forward-thinking and sustainable. Whether he is tackling complex challenges, collaborating with teams, or pushing the boundaries of what is possible, Munees consistently demonstrates a high level of technical prowess, professionalism, and dedication to his work."
+}

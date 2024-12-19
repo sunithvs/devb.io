@@ -1,0 +1,125 @@
+{
+    "username": "gowrishankarsmenon",
+    "name": "gowrishankarsmenon",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146847222?u=502c62dc05c6c0bd67403d4439a576bcc1875097&v=4",
+    "profile_url": "https://github.com/GowrishankarSMenon",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RocketSimulationUsingUnity",
+            "description": "This is a hackathon project aiming to simulate a rocket launch using reinforcement learning in unity",
+            "score": 1.7737710113308838,
+            "stars": 1,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/GowrishankarSMenon/RocketSimulationUsingUnity",
+            "updatedAt": "2024-11-03T09:04:53Z"
+        },
+        {
+            "name": "MedWebsite",
+            "description": "A website for a medicine reminder app",
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/GowrishankarSMenon/MedWebsite",
+            "updatedAt": "2024-10-02T10:13:43Z"
+        },
+        {
+            "name": "backendtesting",
+            "description": null,
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GowrishankarSMenon/backendtesting",
+            "updatedAt": "2024-09-02T12:04:37Z"
+        },
+        {
+            "name": "SpotifyClone",
+            "description": "A clone for spotify to master flutter and firebase skills",
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/GowrishankarSMenon/SpotifyClone",
+            "updatedAt": "2024-09-01T17:39:18Z"
+        },
+        {
+            "name": "citizenAwareness",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/GowrishankarSMenon/citizenAwareness",
+            "updatedAt": "2024-08-28T16:01:21Z"
+        },
+        {
+            "name": "TestApp",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/GowrishankarSMenon/TestApp",
+            "updatedAt": "2024-08-18T18:25:54Z"
+        },
+        {
+            "name": "ReactProject-1",
+            "description": "A simple web landing page using react JS",
+            "score": 0.2758326818696246,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GowrishankarSMenon/ReactProject-1",
+            "updatedAt": "2024-05-04T14:46:07Z"
+        },
+        {
+            "name": "KotlinPractice",
+            "description": null,
+            "score": 0.2751769250533908,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/GowrishankarSMenon/KotlinPractice",
+            "updatedAt": "2024-05-01T06:24:18Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 52,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "RocketSimulationUsingUnity": {
+            "link": "https://github.com/GowrishankarSMenon/RocketSimulationUsingUnity",
+            "summary": "Significant updates have been made to the RocketSimulationUsingUnity repository within the past few days. Multiple README.md updates have taken place to refine the project description, along with the addition of several files to enhance the project's functionality, including basic thrust scripts and scenes. Furthermore, an AI component has been incorporated which enables the AI to learn its way to reach a target through random movements."
+        },
+        "MedWebsite": {
+            "link": "https://github.com/GowrishankarSMenon/MedWebsite",
+            "summary": "Recent updates to the MedWebsite repository have focused on refining the management of added songs, with multiple intermediate pages added to streamline the process. Additionally, progress was made on adding medicines, which has now been completed."
+        }
+    },
+    "profile_summary": "Gowrishankarsmenon is a seasoned software developer with proficiency in a range of programming languages, including C++, Kotlin, and JavaScript. With a strong background in coding, this accomplished professional has developed and maintained a diverse portfolio of 11 public repositories, showcasing expertise across various projects and contributing to innovative solutions.\n\nAs a dedicated and results-driven developer with a growing network of peers, gowrishankarsmenon consistently demonstrates capability in navigating complex development environments and collaborates effectively to drive exceptional outcomes. Bringing a unique blend of technical skill and creative vision to each project, this talented developer is well-equipped to tackle challenging requirements and deliver high-quality results, positioning them as a valuable asset in the tech industry."
+}

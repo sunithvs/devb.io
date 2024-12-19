@@ -1,0 +1,125 @@
+{
+    "username": "abhijithb200",
+    "name": "ABHIJITH B",
+    "bio": "\u25ab Cyber Security Enthusiast",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/69154038?u=93681ed18cb8088773d993ef06c70c3762404353&v=4",
+    "profile_url": "https://github.com/abhijithb200",
+    "top_languages": [
+        [
+            "Python",
+            9
+        ],
+        [
+            "Go",
+            3
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "investigator",
+            "description": "An online handy-recon tool",
+            "score": 16.86529566815801,
+            "stars": 259,
+            "forks": 39,
+            "language": "CSS",
+            "url": "https://github.com/abhijithb200/investigator",
+            "updatedAt": "2024-12-15T23:54:22Z"
+        },
+        {
+            "name": "Keylogger",
+            "description": "Powerful Keylogger  Coded in C\ud83d\udd11, that collects exactly what the user types.",
+            "score": 5.0792962260054795,
+            "stars": 4,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/abhijithb200/Keylogger",
+            "updatedAt": "2024-02-24T07:42:56Z"
+        },
+        {
+            "name": "Write-ups",
+            "description": null,
+            "score": 3.104626880545997,
+            "stars": 1,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/abhijithb200/Write-ups",
+            "updatedAt": "2022-01-26T12:23:18Z"
+        },
+        {
+            "name": "Auth-Chain",
+            "description": null,
+            "score": 2.5701631391412287,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abhijithb200/Auth-Chain",
+            "updatedAt": "2023-01-30T03:49:52Z"
+        },
+        {
+            "name": "abhijithb200",
+            "description": null,
+            "score": 2.495556913932691,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/abhijithb200/abhijithb200",
+            "updatedAt": "2022-01-26T12:23:23Z"
+        },
+        {
+            "name": "miniproject_asp",
+            "description": null,
+            "score": 1.7164325294550273,
+            "stars": 0,
+            "forks": 2,
+            "language": "ASP.NET",
+            "url": "https://github.com/abhijithb200/miniproject_asp",
+            "updatedAt": "2021-07-12T10:02:19Z"
+        },
+        {
+            "name": "food_project",
+            "description": null,
+            "score": 1.4551134150568772,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhijithb200/food_project",
+            "updatedAt": "2021-04-04T21:23:46Z"
+        },
+        {
+            "name": "QRgrabber",
+            "description": null,
+            "score": 1.4543167949614648,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abhijithb200/QRgrabber",
+            "updatedAt": "2022-05-03T17:46:04Z"
+        }
+    ],
+    "followers": 71,
+    "following": 10,
+    "public_repos": 46,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 40,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Secure-Vault": {
+            "link": "https://github.com/abhijithb200/Secure-Vault",
+            "summary": "Recent activity in the Secure-Vault repository involves a push event on 2024-10-14 containing the commit message 'second commit', indicating ongoing development and refinement of the project's codebase."
+        },
+        "gradmaster.github.io": {
+            "link": "https://github.com/gradmaster/gradmaster.github.io",
+            "summary": "The gradmaster.github.io repository has shown recent activity with a push event on 2024-10-11 focused on Search Engine Optimization (SEO), aiming to improve the website's online visibility and search engine rankings."
+        }
+    },
+    "profile_summary": null
+}

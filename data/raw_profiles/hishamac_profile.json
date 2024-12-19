@@ -1,0 +1,133 @@
+{
+    "username": "hishamac",
+    "name": "MUHAMMED HISHAM AC",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/122851090?u=016aae95348152a5ce1e1a1a9c12168f08594f8a&v=4",
+    "profile_url": "https://github.com/hishamac",
+    "top_languages": [
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "bunyan-server",
+            "description": "Bunyan",
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/bunyan-server",
+            "updatedAt": "2024-12-17T13:29:48Z"
+        },
+        {
+            "name": "blog-client",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/blog-client",
+            "updatedAt": "2024-10-06T04:11:28Z"
+        },
+        {
+            "name": "blog-server",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/blog-server",
+            "updatedAt": "2024-10-19T20:16:53Z"
+        },
+        {
+            "name": "binary-to-text",
+            "description": null,
+            "score": 0.2570777472647106,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hishamac/binary-to-text",
+            "updatedAt": "2024-01-13T06:19:54Z"
+        },
+        {
+            "name": "hishamac",
+            "description": null,
+            "score": 0.2416007489132049,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hishamac/hishamac",
+            "updatedAt": "2024-09-25T06:13:26Z"
+        },
+        {
+            "name": "cloudinary-image-upload",
+            "description": null,
+            "score": 0.15802939159747384,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/cloudinary-image-upload",
+            "updatedAt": "2023-06-09T12:11:09Z"
+        },
+        {
+            "name": "drive-upload-nestjs",
+            "description": null,
+            "score": 0.15780771673818506,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/drive-upload-nestjs",
+            "updatedAt": "2023-06-06T12:38:21Z"
+        },
+        {
+            "name": "nextjs-gauth",
+            "description": null,
+            "score": 0.15682026346283148,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/nextjs-gauth",
+            "updatedAt": "2023-05-12T01:19:05Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 21,
+    "pull_requests_merged": 15,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 613,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "MuhammedHashimT/NIICS-CLIENT": {
+            "link": "https://github.com/MuhammedHashimT/NIICS-CLIENT",
+            "summary": "Recent activities in the NIICS-CLIENT repository primarily involve feature enhancements, improvements, and refactoring. Significant updates include adding lazy loading for images, refactoring the Approval component, improving error handling, and updating route components. Furthermore, new authentication for applicants and ExamCenterProtected routes have been added. Overall, these changes have enhanced the functionality and maintainability of the codebase."
+        },
+        "hishamac/JJF-C": {
+            "link": "https://github.com/hishamac/JJF-C",
+            "summary": "Recent activities in the JJF-C repository focus on code refactoring to improve readability and maintainability. The CategoryResult component has been refactored to this end. Additionally, pull requests have been merged from other contributors, and updates have been made to various components, including page.tsx and institutions/page.tsx, to ensure better code organization and functionality."
+        },
+        "hishamac/JJFD": {
+            "link": "https://github.com/hishamac/JJFD",
+            "summary": "Recent activities in the JJFD repository involve updates to the codebase, with changes including the removal of the junior category. These updates aim to keep the codebase current and aligned with project requirements."
+        },
+        "shafeeqn/JJFD": {
+            "link": "https://github.com/shafeeqn/JJFD",
+            "summary": "Recent activities in the JJFD repository involve submitting pull requests to update the codebase. These requests include updates to improve the codebase and align it with project requirements, as well as the removal of the junior category."
+        },
+        "shafeeqn/JJF-C": {
+            "link": "https://github.com/shafeeqn/JJF-C",
+            "summary": "Recent activities in the JJF-C repository involve submitting pull requests focused on code refactoring and improvements. Requests include refactoring the CategoryResult component and updating page.tsx and institutions/page.tsx to enhance code readability and maintainability."
+        }
+    },
+    "profile_summary": "MUHAMMED HISHAM AC is a highly skilled and accomplished developer, renowned for his exceptional expertise in languages such as TypeScript and HTML. With a strong online presence, he has garnered a following of 2 people who value his technical insights and contributions. His impressive portfolio of 21 public repositories showcases his prolific development activities, underscoring his ability to consistently design and deliver high-quality solutions.\n\nAs a proficient developer with a keen sense of innovation, MUHAMMED HISHAM AC offers a unique value proposition that combines technical excellence with exceptional problem-solving skills. His ability to leverage cutting-edge technologies enables him to craft forward-thinking solutions that cater to the evolving needs of the industry. By collaborating with experienced professionals and exploring new technologies, MUHAMMED HISHAM AC continues to refine his skills, further solidifying his position as a leading developer in his field."
+}

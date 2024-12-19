@@ -1,0 +1,95 @@
+{
+    "username": "muhammedsiyadp",
+    "name": "muhammedsiyadp",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/44540253?u=86e428658f4251ce1f0f43341dd3d2a6dce21ce1&v=4",
+    "profile_url": "https://github.com/muhammedsiyadp",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pure-pursuit-controller-movebase",
+            "description": "pure pursuit controller implementation for ros1 movebase",
+            "score": 1.3524950644081026,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/muhammedsiyadp/pure-pursuit-controller-movebase",
+            "updatedAt": "2024-08-21T11:36:44Z"
+        },
+        {
+            "name": "ros-map-drawer",
+            "description": null,
+            "score": 1.3441499916284843,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/ros-map-drawer",
+            "updatedAt": "2024-08-26T06:49:04Z"
+        },
+        {
+            "name": "water-level-controller",
+            "description": null,
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/muhammedsiyadp/water-level-controller",
+            "updatedAt": "2024-12-09T12:58:03Z"
+        },
+        {
+            "name": "test_bot",
+            "description": null,
+            "score": 0.2844680685709309,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/test_bot",
+            "updatedAt": "2024-06-08T04:42:46Z"
+        },
+        {
+            "name": "opengl",
+            "description": null,
+            "score": 0.25435999020339595,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/opengl",
+            "updatedAt": "2023-12-22T08:33:14Z"
+        }
+    ],
+    "followers": 5,
+    "following": 2,
+    "public_repos": 12,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 41,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "muhammedsiyadp/water-level-controller": {
+            "link": "https://github.com/muhammedsiyadp/water-level-controller",
+            "summary": "Recent updates include the implementation of manual start feature, starter functionality, and LED functionality. EEPROM save and retrieval have also been added, along with test improvements and improved comments."
+        },
+        "muhammedsiyadp/bellmaster": {
+            "link": "https://github.com/muhammedsiyadp/bellmaster",
+            "summary": "Recent updates include the addition of timings, RTC, and EEPROM save features. Multi and dual WiFi functionalities have also been added, along with a server and NTP integration. Hotspot functionality has also been implemented."
+        },
+        "muhammedsiyadp/bell-master": {
+            "link": "https://github.com/muhammedsiyadp/bell-master",
+            "summary": "A recent test was performed to ensure the repository's functionality and features are working correctly."
+        }
+    },
+    "profile_summary": "Muhammedsiyadp is a highly skilled and accomplished developer with a strong foundation in programming languages, including Python and C++. With a proven track record of delivering high-quality solutions, Muhammedsiyadp has established a reputation as a reliable and innovative technology expert. A dedicated contributor to the open-source community, Muhammedsiyadp has actively developed and maintained 12 public repositories, showcasing a deep understanding of software development and a commitment to collaborative knowledge-sharing.\n\nAs a proficient developer with a growing professional network, Muhammedsiyadp has earned the respect and admiration of peers, with 5 followers acknowledging expertise and technical authority. With a unique blend of technical skills and collaborative spirit, Muhammedsiyadp is poised to drive innovation and deliver exceptional results in a rapidly evolving tech landscape. By leveraging industry-relevant expertise and staying at the forefront of programming trends, Muhammedsiyadp continues to push boundaries and advance the field of software development."
+}

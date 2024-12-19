@@ -1,0 +1,115 @@
+{
+    "username": "bintojoseph",
+    "name": "Binto Joseph",
+    "bio": "hellooo!",
+    "location": null,
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/70394879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ3MjAsIm5iZiI6MTczNDYyMzUyMCwicGF0aCI6Ii91LzcwMzk0ODc5In0.zNiViiLkdp6iCkBQ1wxMXnmiw0b84RJYxR8629cJ3mw&u=102c01a2ed7acc7cb3cf9b51d7fc56dbb7d44f2f&v=4",
+    "profile_url": "https://github.com/bintojoseph",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nest.js-api",
+            "description": null,
+            "score": 2.271402837693476,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bintojoseph/nest.js-api",
+            "updatedAt": "2022-08-27T13:31:50Z"
+        },
+        {
+            "name": "syntaxerror",
+            "description": null,
+            "score": 1.552379084924862,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bintojoseph/syntaxerror",
+            "updatedAt": "2023-11-05T05:10:28Z"
+        },
+        {
+            "name": "cs-cup-points-table",
+            "description": null,
+            "score": 1.2985173640591494,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/bintojoseph/cs-cup-points-table",
+            "updatedAt": "2024-01-26T13:53:31Z"
+        },
+        {
+            "name": "level-up",
+            "description": null,
+            "score": 0.3210046961141753,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/bintojoseph/level-up",
+            "updatedAt": "2024-09-04T09:03:25Z"
+        },
+        {
+            "name": "dbms-backend",
+            "description": null,
+            "score": 0.1683453148833088,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bintojoseph/dbms-backend",
+            "updatedAt": "2023-12-05T18:49:09Z"
+        },
+        {
+            "name": "dbms-mini-project",
+            "description": null,
+            "score": 0.1683453148833088,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bintojoseph/dbms-mini-project",
+            "updatedAt": "2023-12-05T18:42:39Z"
+        },
+        {
+            "name": "bun-intro",
+            "description": null,
+            "score": 0.16529653866571187,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bintojoseph/bun-intro",
+            "updatedAt": "2023-10-22T18:39:12Z"
+        },
+        {
+            "name": "flutter-app",
+            "description": null,
+            "score": 0.16491349307150527,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/bintojoseph/flutter-app",
+            "updatedAt": "2023-10-16T16:02:36Z"
+        }
+    ],
+    "followers": 13,
+    "following": 12,
+    "public_repos": 32,
+    "pull_requests_merged": 22,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 51,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "profile_summary": "Binto Joseph is a seasoned software developer renowned for his exceptional expertise in TypeScript, C++, and JavaScript, empowering him to craft cutting-edge solutions that drive innovation. With a strong foundation in computer science and a proven track record of delivering high-quality projects, Binto has established himself as a reliable and skilled professional in the development community, attracting a network of 13 followers and showcasing his work through 32 public repositories.\n\nAs a versatile developer, Binto brings a unique combination of technical acumen and creative problem-solving skills to the table, allowing him to tackle complex projects and deliver outstanding results. His proficiency in multiple programming languages and dedication to staying up-to-date with industry trends make him an invaluable asset to any project he undertakes. With a passion for coding and a commitment to excellence, Binto continues to push the boundaries of what is possible, solidifying his position as a high-performing and innovative developer in the tech landscape."
+}

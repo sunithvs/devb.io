@@ -1,0 +1,146 @@
+{
+    "username": "atishayjain2003",
+    "name": "Atishay Jain",
+    "bio": "Hi there, I am engineering student who loves to explore and have fun!",
+    "location": "Ghaziabad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74485440?u=ff14875d4e4109462c3f058d36878c96fd5b8880&v=4",
+    "profile_url": "https://github.com/atishayjain2003",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Trainee-Test-2023",
+            "description": null,
+            "score": 4.73101302596166,
+            "stars": 0,
+            "forks": 20,
+            "language": null,
+            "url": "https://github.com/atishayjain2003/Trainee-Test-2023",
+            "updatedAt": "2023-10-06T10:15:25Z"
+        },
+        {
+            "name": "AI-LAB",
+            "description": null,
+            "score": 2.850971367898853,
+            "stars": 0,
+            "forks": 5,
+            "language": "Python",
+            "url": "https://github.com/atishayjain2003/AI-LAB",
+            "updatedAt": "2023-09-21T09:32:04Z"
+        },
+        {
+            "name": "Python",
+            "description": null,
+            "score": 2.58351680287262,
+            "stars": 1,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/atishayjain2003/Python",
+            "updatedAt": "2023-09-09T04:47:52Z"
+        },
+        {
+            "name": "DSA",
+            "description": null,
+            "score": 1.629669889985959,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/atishayjain2003/DSA",
+            "updatedAt": "2024-12-03T16:44:49Z"
+        },
+        {
+            "name": "QR-CODE-GENERATOR",
+            "description": null,
+            "score": 1.1985702936037397,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/atishayjain2003/QR-CODE-GENERATOR",
+            "updatedAt": "2023-06-27T10:10:42Z"
+        },
+        {
+            "name": "Tracker",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/atishayjain2003/Tracker",
+            "updatedAt": "2024-12-09T14:48:16Z"
+        },
+        {
+            "name": "YourEye",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/atishayjain2003/YourEye",
+            "updatedAt": "2024-12-05T15:34:34Z"
+        },
+        {
+            "name": "TimeTable",
+            "description": null,
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/atishayjain2003/TimeTable",
+            "updatedAt": "2024-11-16T20:36:55Z"
+        }
+    ],
+    "followers": 11,
+    "following": 5,
+    "public_repos": 31,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 431,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/atttyshay"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/atishayjain743/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/atttyshay/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://atttyshay.pythonanywhere.com/"
+        }
+    ],
+    "activity_summary": {
+        "DSA": {
+            "link": "https://github.com/atishayjain2003/DSA",
+            "summary": "Recent activities on the DSA repository have primarily focused on updating README files for various data structures and algorithms problems including Binary Tree Traversal, Linked List, and LeetCode problems."
+        },
+        "Tracker": {
+            "link": "https://github.com/atishayjain2003/Tracker",
+            "summary": "Recent updates on the Tracker repository include minor changes to the expense tracking functionality and merging of branches."
+        },
+        "YourEye": {
+            "link": "https://github.com/atishayjain2003/YourEye",
+            "summary": "The most recent activity on the YourEye repository involved adding files via the upload feature."
+        }
+    },
+    "profile_summary": "Atishay Jain is a highly skilled and innovative developer with a strong foundation in Python and C++ programming languages. As an enthusiastic engineering student, he has developed a unique blend of technical expertise and passion for exploration, driving him to continually push the boundaries of what is possible. With a solid understanding of Jupyter Notebook, he has honed his skills in data analysis and scientific computing, making him a valuable asset in a variety of tech-intensive projects.\n\nWith an impressive portfolio of 31 public repositories and a growing network of 11 followers, Atishay has established himself as a reliable and talented developer within the tech community. His dedication to coding excellence and passion for innovation make him an attractive collaborator for forward-thinking projects. By leveraging his expertise in python and C++, Atishay delivers high-quality solutions that showcase his technical prowess and attention to detail, positioning him as a rising star in the development world."
+}

@@ -1,0 +1,138 @@
+{
+    "username": "thetronjohnson",
+    "name": "Kiran Johns",
+    "bio": "Product Stuff",
+    "location": "Kochi, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22194802?u=bdd415021d42bfb64b0717e7bbb1cdf6c0310c2c&v=4",
+    "profile_url": "https://github.com/thetronjohnson",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            13
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "remotekochi",
+            "description": "Work friendly places in Kochi",
+            "score": 6.477737472503874,
+            "stars": 13,
+            "forks": 1,
+            "language": "Astro",
+            "url": "https://github.com/thetronjohnson/remotekochi",
+            "updatedAt": "2023-08-04T04:10:05Z"
+        },
+        {
+            "name": "Quantum",
+            "description": null,
+            "score": 5.764700267246104,
+            "stars": 4,
+            "forks": 4,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/thetronjohnson/Quantum",
+            "updatedAt": "2023-06-26T20:02:46Z"
+        },
+        {
+            "name": "ChemQ",
+            "description": "ChemQ is a project to identify the properties of an organic compound",
+            "score": 5.605442943199571,
+            "stars": 6,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/thetronjohnson/ChemQ",
+            "updatedAt": "2019-11-12T15:59:09Z"
+        },
+        {
+            "name": "openhack.tech-1",
+            "description": null,
+            "score": 4.401777002791376,
+            "stars": 0,
+            "forks": 17,
+            "language": "CSS",
+            "url": "https://github.com/thetronjohnson/openhack.tech-1",
+            "updatedAt": "2021-03-10T08:51:20Z"
+        },
+        {
+            "name": "takshak-coupon",
+            "description": "Online Coupon Generator for Takshak",
+            "score": 3.880836313255829,
+            "stars": 3,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/thetronjohnson/takshak-coupon",
+            "updatedAt": "2021-09-24T18:15:49Z"
+        },
+        {
+            "name": "varnam-editor",
+            "description": null,
+            "score": 3.8803081915036857,
+            "stars": 3,
+            "forks": 1,
+            "language": "Vue",
+            "url": "https://github.com/thetronjohnson/varnam-editor",
+            "updatedAt": "2020-11-10T18:34:38Z"
+        },
+        {
+            "name": "SS-Lab",
+            "description": null,
+            "score": 3.651411776811564,
+            "stars": 5,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/thetronjohnson/SS-Lab",
+            "updatedAt": "2020-11-05T14:47:06Z"
+        },
+        {
+            "name": "varnam",
+            "description": null,
+            "score": 3.304944046600124,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/thetronjohnson/varnam",
+            "updatedAt": "2020-11-05T19:24:50Z"
+        }
+    ],
+    "followers": 162,
+    "following": 30,
+    "public_repos": 157,
+    "pull_requests_merged": 64,
+    "issues_closed": 32,
+    "achievements": {
+        "total_contributions": 447,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/thetronjohnson"
+        },
+        {
+            "provider": "generic",
+            "url": "https://kirn.sh"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/kiranjohns"
+        }
+    ],
+    "activity_summary": {
+        "kph-club/wiki": {
+            "link": "https://github.com/kph-club/wiki",
+            "summary": "Significant activities over the last week include several updates to available options and updates to markdown file extensions. Pull requests and push events were performed for these changes and affected files such as SUMMARY.md and alternative-options-to-stripe-for-saas-payment-sales-tax-and-billing-management.md."
+        },
+        "thetronjohnson/kphfund": {
+            "link": "https://github.com/thetronjohnson/kphfund",
+            "summary": "There were several push events for repository updates between November 27 and November 28, with updates to the content, although not as significant as the kph-club/wiki repository in terms of recent activities."
+        }
+    },
+    "profile_summary": "Kiran Johns is a highly skilled software developer with expertise in systems programming languages, including Rust and C. With a strong foundation in computer science and a passion for building high-quality software, Kiran has established a reputation as a reliable and innovative technologist. Over the course of his career, he has developed a unique blend of technical skills and product knowledge, positioning him as a valuable asset to cutting-edge software development teams.\n\nAs an active open-source developer with a portfolio of 157 public repositories, Kiran has consistently demonstrated his technical prowess and commitment to collaboration and knowledge-sharing within the developer community. With a network of 162 followers and a growing reputation as a trusted technical authority, Kiran is well-equipped to drive software development initiatives that require precision, creativity, and a strong understanding of systems programming."
+}

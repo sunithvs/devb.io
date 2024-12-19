@@ -1,0 +1,134 @@
+{
+    "username": "uskhokhar",
+    "name": "USK",
+    "bio": "Giggity",
+    "location": null,
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/63156376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjM3MDAsIm5iZiI6MTczNDYyMjUwMCwicGF0aCI6Ii91LzYzMTU2Mzc2In0.lbyWGuo1drX4HagPaZqxvimwzCYDxTufV80YVFwoJ9U&u=a3bcf9ab62badcf25cb6ed7a47c21ba57afa6740&v=4",
+    "profile_url": "https://github.com/USKhokhar",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Astro",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "astro-vitae",
+            "description": "An ASTRO template for Curriculum Vitae (CV) with simple single-page layout. Just update your details in objects, and your CV is live.",
+            "score": 11.134398802295223,
+            "stars": 35,
+            "forks": 11,
+            "language": "Astro",
+            "url": "https://github.com/USKhokhar/astro-vitae",
+            "updatedAt": "2024-12-13T07:40:18Z"
+        },
+        {
+            "name": "devoss",
+            "description": "An open-source collection of project guides, blogs and documentations on various tech paradigms. ",
+            "score": 10.160112060128156,
+            "stars": 29,
+            "forks": 7,
+            "language": "TypeScript",
+            "url": "https://github.com/USKhokhar/devoss",
+            "updatedAt": "2024-12-16T15:27:52Z"
+        },
+        {
+            "name": "fehrist",
+            "description": "An open-source collection of synopses collected by book lovers, for book lovers.",
+            "score": 9.465794442324324,
+            "stars": 11,
+            "forks": 16,
+            "language": "Astro",
+            "url": "https://github.com/USKhokhar/fehrist",
+            "updatedAt": "2024-12-13T07:41:26Z"
+        },
+        {
+            "name": "create-react-tt",
+            "description": "A node command line tool to quick start reactjs project with typescript, tailwind, react-router and react-icons.",
+            "score": 5.5364523222708035,
+            "stars": 4,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/USKhokhar/create-react-tt",
+            "updatedAt": "2024-12-13T07:44:06Z"
+        },
+        {
+            "name": "next-pocketbase-blog",
+            "description": "The blog made using latest NextJs 13 with app dir, along with pocketbase at backend to administer posts, and pockethost.io to deploy the backend.",
+            "score": 4.043571105119414,
+            "stars": 3,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/USKhokhar/next-pocketbase-blog",
+            "updatedAt": "2024-08-29T13:22:57Z"
+        },
+        {
+            "name": "webify",
+            "description": null,
+            "score": 2.5787284093115312,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/USKhokhar/webify",
+            "updatedAt": "2023-08-04T13:32:08Z"
+        },
+        {
+            "name": "USKhokhar",
+            "description": "About Me",
+            "score": 1.6143802640882041,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/USKhokhar/USKhokhar",
+            "updatedAt": "2024-12-18T11:42:29Z"
+        },
+        {
+            "name": "USKhokhar.github.io",
+            "description": null,
+            "score": 1.5450973847285852,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/USKhokhar/USKhokhar.github.io",
+            "updatedAt": "2023-08-04T13:31:54Z"
+        }
+    ],
+    "followers": 36,
+    "following": 31,
+    "public_repos": 28,
+    "pull_requests_merged": 35,
+    "issues_closed": 11,
+    "achievements": {
+        "total_contributions": 323,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/US_Khokhar"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/utkarsh-singh-khokhar"
+        },
+        {
+            "provider": "reddit",
+            "url": "https://www.reddit.com/user/USKhokhar"
+        }
+    ],
+    "activity_summary": {
+        "USKhokhar/USKhokhar": {
+            "link": "https://github.com/USKhokhar/USKhokhar",
+            "summary": "Recent activities on the USKhokhar repository involved an update to README.md through a pull request. This pull request, which was merged, introduced changes to the repository's main page content."
+        }
+    },
+    "profile_summary": "USK is a skilled software developer with a strong proficiency in TypeScript, JavaScript, and Astro. With a proven track record of delivering high-quality solutions, USK has established a notable professional network, boasting 36 followers who value their expertise and insights. This experienced developer has also made significant contributions to the open-source community through 28 public repositories, showcasing a commitment to active development and collaboration.\n\nUSK's extensive experience in TypeScript, JavaScript, and Astro enables them to craft innovative, scalable solutions that address complex challenges. With a distinctive approach to problem-solving and a passion for innovation, USK has earned recognition for their technical proficiency and reliability. By leveraging their technical expertise, USK delivers tailor-made solutions that cater to the unique needs of their clients, driving success and growth through cutting-edge software development."
+}

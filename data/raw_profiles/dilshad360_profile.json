@@ -1,0 +1,138 @@
+{
+    "username": "dilshad360",
+    "name": "Dilshad",
+    "bio": "\ud83c\udfa8 Frontend Developer with experience in ReactJS & VueJS. \ud83c\udf93 Undergrad in BSc Computer Science and a tech enthusiast who codes like a wizard casting spells! \ud83e\uddd9\u200d",
+    "location": null,
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/84096396?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjM4ODAsIm5iZiI6MTczNDYyMjY4MCwicGF0aCI6Ii91Lzg0MDk2Mzk2In0.iz-NRBGlsyW9nWdhnsus-Vfj7QBjjSiFRJo9SGzeHx0&u=92429d40f388b18d1ab9e3f9347972a5c8d01963&v=4",
+    "profile_url": "https://github.com/dilshad360",
+    "top_languages": [
+        [
+            "JavaScript",
+            19
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "emeahss-portal",
+            "description": null,
+            "score": 1.8829612477603495,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/emeahss-portal",
+            "updatedAt": "2024-06-15T13:38:59Z"
+        },
+        {
+            "name": "emeahss-admin",
+            "description": null,
+            "score": 1.2760384048236846,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/emeahss-admin",
+            "updatedAt": "2024-05-30T18:26:21Z"
+        },
+        {
+            "name": "iedc-emea",
+            "description": null,
+            "score": 1.115279113238622,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/iedc-emea",
+            "updatedAt": "2022-12-03T06:22:04Z"
+        },
+        {
+            "name": "Connect",
+            "description": null,
+            "score": 1.1110167745846482,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/dilshad360/Connect",
+            "updatedAt": "2021-12-06T16:25:01Z"
+        },
+        {
+            "name": "ombrulla-interview-test",
+            "description": null,
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/ombrulla-interview-test",
+            "updatedAt": "2024-07-13T11:49:31Z"
+        },
+        {
+            "name": "kiyado-interview-test",
+            "description": null,
+            "score": 0.2920675369926556,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/kiyado-interview-test",
+            "updatedAt": "2024-07-03T10:30:46Z"
+        },
+        {
+            "name": "thetechtalk",
+            "description": "TheTechTalk is a tech news website that fetches and displays 10 new tech news articles daily.",
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/dilshad360/thetechtalk",
+            "updatedAt": "2024-06-14T17:39:01Z"
+        },
+        {
+            "name": "thetechtalk-api",
+            "description": null,
+            "score": 0.28559061529244567,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/dilshad360/thetechtalk-api",
+            "updatedAt": "2024-06-14T10:28:54Z"
+        }
+    ],
+    "followers": 11,
+    "following": 10,
+    "public_repos": 51,
+    "pull_requests_merged": 26,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 360,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dilshad360/"
+        }
+    ],
+    "activity_summary": {
+        "dilshad360/connect_emea": {
+            "link": "https://github.com/dilshad360/connect_emea",
+            "summary": "This repository has seen significant updates with multiple commits in recent months. Notably, updates were made to events and carousel displays, communities logos, and styles for various pages. Additionally, new assets, components, and images were added, and the hiring form was closed."
+        },
+        "connectemea/BuildEmea": {
+            "link": "https://github.com/connectemea/BuildEmea",
+            "summary": "This repository experienced a burst of activity in November, including changes to the base, updates, and deletion of CNAME. Although precise details are not available, it's clear that substantial work was done during this period."
+        },
+        "dilshad360/kalart-backend": {
+            "link": "https://github.com/dilshad360/kalart-backend",
+            "summary": "Recent activity in this repository centered around testing and updating Vercel configurations in mid-November. Changes to package.json and vercel.json were made, indicating possible improvements or fixes to the backend infrastructure."
+        },
+        "dilshad360/bibliotheca": {
+            "link": "https://github.com/dilshad360/bibliotheca",
+            "summary": "Activity in this repository was sparse but significant, with the deletion of a CNAME file in early December. This change might have implications for DNS configuration or GitHub Pages setup."
+        }
+    },
+    "profile_summary": "Dilshad is a highly skilled frontend developer with in-depth expertise in JavaScript, TypeScript, and HTML, leveraging these technical skills to craft innovative web applications. Proficient in leveraging popular frameworks like ReactJS and VueJS, Dilshad consistently delivers exceptional frontend solutions that meet and exceed client expectations. With a solid educational foundation in BSc Computer Science, Dilshad brings a unique blend of technical knowledge and creative flair to every project, positioning himself as a valuable asset to any development team.\n\nAs an active and influential developer, Dilshad boasts a professional network of like-minded professionals and a portfolio of 51 public repositories that showcase his coding prowess. With a proven track record of technical excellence and consistent contributions to the global developer community, Dilshad has established himself as a go-to frontend expert who delivers high-quality solutions that drive business growth and user engagement."
+}

@@ -1,0 +1,134 @@
+{
+    "username": "josephmathai10",
+    "name": "Joseph Mathai Pathil",
+    "bio": "| Student in BCA | UI/UX Designer | Front-end Developer | Tech-Enthusiast |",
+    "location": "Changanacherry",
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/81356075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ3ODAsIm5iZiI6MTczNDYyMzU4MCwicGF0aCI6Ii91LzgxMzU2MDc1In0.cvhut07hR7-CXOVT8Zp0LOy_A_dBsQmfI4ey4tlNr5U&u=5ca412bdc7de44d8c30aaf08cf77d120915add55&v=4",
+    "profile_url": "https://github.com/josephmathai10",
+    "top_languages": [
+        [
+            "HTML",
+            17
+        ],
+        [
+            "PHP",
+            1
+        ],
+        [
+            "CSS",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "50DaysOfDesign-Dailylog",
+            "description": null,
+            "score": 3.462107867987732,
+            "stars": 2,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/josephmathai10/50DaysOfDesign-Dailylog",
+            "updatedAt": "2024-02-28T12:26:33Z"
+        },
+        {
+            "name": "splash-screen",
+            "description": null,
+            "score": 1.8003335108950138,
+            "stars": 0,
+            "forks": 2,
+            "language": "CSS",
+            "url": "https://github.com/josephmathai10/splash-screen",
+            "updatedAt": "2023-01-13T06:52:33Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 1.4570510776110326,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/josephmathai10/portfolio",
+            "updatedAt": "2021-10-05T12:20:20Z"
+        },
+        {
+            "name": "josephmathai10",
+            "description": null,
+            "score": 0.21801108514910503,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/josephmathai10/josephmathai10",
+            "updatedAt": "2024-10-13T16:16:55Z"
+        },
+        {
+            "name": "portfolio-v2",
+            "description": null,
+            "score": 0.1581636506785181,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/josephmathai10/portfolio-v2",
+            "updatedAt": "2023-06-11T16:16:02Z"
+        },
+        {
+            "name": "mini-project",
+            "description": null,
+            "score": 0.1526133225995339,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/josephmathai10/mini-project",
+            "updatedAt": "2023-01-31T23:43:13Z"
+        },
+        {
+            "name": "portfolio-v1.1",
+            "description": "Portfolio",
+            "score": 0.14151343298228403,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/josephmathai10/portfolio-v1.1",
+            "updatedAt": "2023-06-22T08:26:48Z"
+        },
+        {
+            "name": "portfolio-v1",
+            "description": null,
+            "score": 0.13852507379951978,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/josephmathai10/portfolio-v1",
+            "updatedAt": "2023-06-11T16:11:57Z"
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 57,
+    "pull_requests_merged": 24,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 15,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/BoNyMathew2002"
+        }
+    ],
+    "activity_summary": {
+        "The-laws-of-UX-heuristics-": {
+            "link": "https://github.com/the-humandesigner/The-laws-of-UX-heuristics-",
+            "summary": "This repository has witnessed recent updates to its README file, with pull requests and pushes made in October 2024. The updates were made to ensure the content is accurate and upto date."
+        },
+        "The-laws-of-UX-additional-principles": {
+            "link": "https://github.com/the-humandesigner/The-laws-of-UX-additional-principles",
+            "summary": "In October 2024, this repository saw updates to its README file with pull requests and pushes made to enhance the content. This repository is being actively maintained to provide valuable information to its users."
+        },
+        "josephmathai10": {
+            "link": "https://github.com/josephmathai10/josephmathai10",
+            "summary": "In October 2024, this repository experienced an update to its README file through a push event, demonstrating ongoing maintenance and efforts to provide accurate information."
+        }
+    },
+    "profile_summary": "Joseph Mathai Pathil is a skilled and versatile front-end developer with a strong foundation in HTML, PHP, and CSS. As a tech-savvy individual with a keen eye for detail, Joseph excels in crafting innovative solutions for web applications, UI/UX design, and front-end development. With a substantial portfolio of 57 public repositories, Joseph has consistently demonstrated his ability to deliver high-quality projects that showcase his expertise in web technologies.\n\nAs a dedicated student in BCA and an active member of the development community, Joseph has garnered a reputation for his exceptional problem-solving skills and commitment to staying at the forefront of industry trends. With a growing professional network of over 6 followers, Joseph is a sought-after collaborator and contributor to various projects, bringing his unique value proposition of creativity, technical expertise, and passion for innovative solutions to the table."
+}

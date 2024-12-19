@@ -1,0 +1,116 @@
+{
+    "username": "jithumon",
+    "name": "Jithu Mathew Joseph",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12111006?u=38ba685edbd815423635f8137722e538c09d318c&v=4",
+    "profile_url": "https://github.com/jithumon",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tgbot",
+            "description": null,
+            "score": 17.69460104289981,
+            "stars": 87,
+            "forks": 298,
+            "language": "Python",
+            "url": "https://github.com/jithumon/tgbot",
+            "updatedAt": "2024-09-15T15:19:29Z"
+        },
+        {
+            "name": "updlbot",
+            "description": null,
+            "score": 6.740710811384106,
+            "stars": 4,
+            "forks": 9,
+            "language": "Python",
+            "url": "https://github.com/jithumon/updlbot",
+            "updatedAt": "2022-07-07T18:30:57Z"
+        },
+        {
+            "name": "statuschecker",
+            "description": null,
+            "score": 3.7208944295714184,
+            "stars": 5,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jithumon/statuschecker",
+            "updatedAt": "2023-06-30T20:36:48Z"
+        },
+        {
+            "name": "kochu_discord",
+            "description": null,
+            "score": 1.1684381936528596,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/jithumon/kochu_discord",
+            "updatedAt": "2023-06-20T06:31:36Z"
+        },
+        {
+            "name": "testrepo",
+            "description": null,
+            "score": 1.1084345926434824,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/jithumon/testrepo",
+            "updatedAt": "2021-01-06T20:00:33Z"
+        },
+        {
+            "name": "Kochu",
+            "description": null,
+            "score": 1.102802371184588,
+            "stars": 0,
+            "forks": 1,
+            "language": "Lua",
+            "url": "https://github.com/jithumon/Kochu",
+            "updatedAt": "2017-05-22T09:53:30Z"
+        },
+        {
+            "name": "jithumon",
+            "description": null,
+            "score": 0.06775405462766762,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jithumon/jithumon",
+            "updatedAt": "2021-08-16T09:05:35Z"
+        },
+        {
+            "name": "kernel_xiaomi_msm8953",
+            "description": null,
+            "score": 0.06404424040762649,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/jithumon/kernel_xiaomi_msm8953",
+            "updatedAt": "2018-03-28T19:02:52Z"
+        }
+    ],
+    "followers": 63,
+    "following": 22,
+    "public_repos": 35,
+    "pull_requests_merged": 10,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 1168,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "activity_summary": {},
+    "profile_summary": "Jithu Mathew Joseph is a highly skilled developer with extensive expertise in programming languages including C, Python, and C++. With a strong foundation in computer science and software development, he has consistently demonstrated his technical prowess through active contributions to various projects. As an influential presence in the developer community, Jithu has garnered a significant following of 63 professionals who appreciate his contributions and insights.\n\nThroughout his career, Jithu has developed and maintained an impressive portfolio of 35 public repositories, showcasing his innovative approach to problem-solving and collaborative development. With a unique blend of technical expertise and innovative thinking, Jithu brings significant value to his projects, consistently delivering high-quality solutions that meet and exceed expectations. By combining technical excellence with a passion for collaboration and continuous improvement, Jithu has established himself as a reliable and accomplished developer in his field."
+}

@@ -1,0 +1,51 @@
+{
+    "username": "joyalkusmos",
+    "name": "Joyal_Kusmos",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121082711?v=4",
+    "profile_url": "https://github.com/JOYALKUSMOS",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Verilog",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Wallace-multiplier",
+            "description": "Wallace Tree Multiplier (WTA) is a parallel multiplier that works on the Wallace Tree algorithm to efficiently multiply two integers.",
+            "score": 1.5416667410000309,
+            "stars": 1,
+            "forks": 0,
+            "language": "Verilog",
+            "url": "https://github.com/JOYALKUSMOS/Wallace-multiplier",
+            "updatedAt": "2023-11-27T02:03:28Z"
+        },
+        {
+            "name": "PLANT-E",
+            "description": "PLANT-E is an IOT cloud-based remote aquaponic system that makes it possible to produce sustainably and economically at all hours and in all seasons.",
+            "score": 0.15533373363990297,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/JOYALKUSMOS/PLANT-E",
+            "updatedAt": "2023-04-05T16:18:37Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Joyal_Kusmos is a highly skilled software developer with a strong foundation in C++ programming and Verilog, a hardware description language. With a passion for innovation and a keen eye for detail, this talented professional has developed a versatile portfolio that showcases expertise in designing, developing, and deploying efficient solutions. \n\nA driven and versatile developer with 3 public repositories, Joyal_Kusmos brings a unique combination of technical skills and dedication to delivering high-quality results. With expertise in C++ and Verilog, this rising talent is well-equipped to tackle complex projects and collaborate with diverse teams to drive innovation and excellence."
+}

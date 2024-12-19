@@ -1,0 +1,111 @@
+{
+    "username": "joelljoel",
+    "name": "Joel sen",
+    "bio": "likes making things\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72008676?u=1fcce835ca9b1270460856678696f00fe16fc270&v=4",
+    "profile_url": "https://github.com/joelljoel",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "SCSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "exam-duty-allocation-system",
+            "description": "A test implemetation of exam duty allocation system using flask and sqlite",
+            "score": 4.8323280129764505,
+            "stars": 2,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/joelljoel/exam-duty-allocation-system",
+            "updatedAt": "2024-11-15T12:35:14Z"
+        },
+        {
+            "name": "weatherstats",
+            "description": "A simple python script to get weather details from open weather api and display them on an ssd1306 oled module(i2c) using a raspberry pi",
+            "score": 3.4526287257235446,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/joelljoel/weatherstats",
+            "updatedAt": "2024-10-07T03:42:11Z"
+        },
+        {
+            "name": "joelljoel",
+            "description": null,
+            "score": 0.21921225024305238,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/joelljoel/joelljoel",
+            "updatedAt": "2024-08-19T08:51:45Z"
+        },
+        {
+            "name": "anotheruselesswebsite",
+            "description": "test website",
+            "score": 0.21541850833365345,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/joelljoel/anotheruselesswebsite",
+            "updatedAt": "2024-06-25T05:54:59Z"
+        },
+        {
+            "name": "eventregistration",
+            "description": null,
+            "score": 0.07255181976924552,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/joelljoel/eventregistration",
+            "updatedAt": "2022-05-18T02:15:05Z"
+        },
+        {
+            "name": "dht11_ssd1306",
+            "description": null,
+            "score": 0.07174784546299323,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/joelljoel/dht11_ssd1306",
+            "updatedAt": "2022-02-08T06:26:38Z"
+        },
+        {
+            "name": "dht11-python",
+            "description": null,
+            "score": 0.07057098979705445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/joelljoel/dht11-python",
+            "updatedAt": "2022-02-02T14:11:37Z"
+        }
+    ],
+    "followers": 8,
+    "following": 9,
+    "public_repos": 13,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 22,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "exam-duty-allocation-system": {
+            "link": "https://github.com/joelljoel/exam-duty-allocation-system",
+            "summary": "The exam-duty-allocation-system repository has seen recent updates in late November, focusing on improving its project dependencies with pull request #3, which updated the requirements.txt file. These contributions aim to enhance the overall project stability."
+        }
+    },
+    "profile_summary": "Joel Sen is a skilled software developer with a strong background in leveraging cutting-edge technologies to build innovative solutions. With a solid foundation in Python, SCSS, and HTML, Joel possesses a unique combination of technical skills that enable him to efficiently design and develop high-quality applications. \n\nAs a forward-thinking developer with a passion for \"making things,\" Joel's creativity and technical expertise have earned him a reputation as a reliable and results-driven professional. With a growing network of peers and a portfolio of 13 public repositories, Joel continues to demonstrate his commitment to staying at the forefront of industry trends and best practices."
+}

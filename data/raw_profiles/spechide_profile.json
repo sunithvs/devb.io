@@ -1,0 +1,121 @@
+{
+    "username": "spechide",
+    "name": "Shrimadhav U K",
+    "bio": "301 | moved to https://gitlab.com/SpEcHiDe",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6317196?u=ff2808871ec37fe9a0bdaec4ea4090b35c367d6d&v=4",
+    "profile_url": "https://github.com/SpEcHiDe",
+    "top_languages": [
+        [
+            "Python",
+            11
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AnyDLBot",
+            "description": "An Open Source GPLv3 All-In-One Telegram Bot",
+            "score": 23.281150268129494,
+            "stars": 390,
+            "forks": 1690,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/AnyDLBot",
+            "updatedAt": "2024-12-11T16:32:01Z"
+        },
+        {
+            "name": "PublicLeech",
+            "description": "can be found on Telegram as https://telegram.dog/PublicLeechGroup",
+            "score": 22.649555734444466,
+            "stars": 422,
+            "forks": 995,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/PublicLeech",
+            "updatedAt": "2024-12-07T17:55:04Z"
+        },
+        {
+            "name": "PyroGramBot",
+            "description": "pluggable Telegram Bot based on Pyrogram",
+            "score": 19.787180317573647,
+            "stars": 246,
+            "forks": 302,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/PyroGramBot",
+            "updatedAt": "2024-12-15T22:24:39Z"
+        },
+        {
+            "name": "MyTelegramOrgRoBot",
+            "description": null,
+            "score": 18.067863938304782,
+            "stars": 112,
+            "forks": 272,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+            "updatedAt": "2024-12-11T17:36:28Z"
+        },
+        {
+            "name": "DeleteMessagesRoBot",
+            "description": "Watch https://youtu.be/RHQ-RP4_pKY, or Read the Code to know how to use this Telegram Bot.",
+            "score": 16.473620549802995,
+            "stars": 77,
+            "forks": 153,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/DeleteMessagesRoBot",
+            "updatedAt": "2024-12-12T04:38:00Z"
+        },
+        {
+            "name": "TerminalBot",
+            "description": "A GNU/Linux Terminal inside @Telegram",
+            "score": 16.07607812918983,
+            "stars": 85,
+            "forks": 103,
+            "language": null,
+            "url": "https://github.com/SpEcHiDe/TerminalBot",
+            "updatedAt": "2024-12-07T17:55:13Z"
+        },
+        {
+            "name": "FilesBot",
+            "description": null,
+            "score": 16.072030145820158,
+            "stars": 77,
+            "forks": 117,
+            "language": "PHP",
+            "url": "https://github.com/SpEcHiDe/FilesBot",
+            "updatedAt": "2024-12-12T04:45:58Z"
+        },
+        {
+            "name": "UploadGram",
+            "description": "https://pypi.org/project/uploadgram/",
+            "score": 14.307426590393133,
+            "stars": 102,
+            "forks": 24,
+            "language": "Python",
+            "url": "https://github.com/SpEcHiDe/UploadGram",
+            "updatedAt": "2024-10-06T06:35:36Z"
+        }
+    ],
+    "followers": 1030,
+    "following": 89,
+    "public_repos": 69,
+    "pull_requests_merged": 231,
+    "issues_closed": 170,
+    "achievements": {
+        "total_contributions": 294,
+        "repositories_contributed_to": 25
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "TelegramPlayGround/jw": {
+            "link": "https://github.com/TelegramPlayGround/jw",
+            "summary": "Multiple updates were made to the repository, with a total of 44 push events on December 19, 2024, reflecting ongoing development and refinement activities."
+        }
+    },
+    "profile_summary": "Shrimadhav U K is a seasoned software developer with a strong background in designing and implementing scalable, efficient solutions using Python, TypeScript, and JavaScript. With a proven track record of delivering high-quality projects, he leverages his expertise to drive innovative software development and collaborate with other developers, fostering a community of over 1030 followers who value his technical insights and expertise. His extensive portfolio, comprising 69 publicly accessible repositories, demonstrates his commitment to open-source development and sharing knowledge with the broader developer community.\n\nAs a versatile and results-driven developer, Shrimadhav U K brings a unique blend of technical skills, innovative approach, and collaborative spirit to his projects, making him a valuable asset to any team. With a strong foundation in software engineering principles, he harnesses the power of cutting-edge technologies to deliver robust, maintainable, and optimized solutions. By combining technical expertise with effective communication and problem-solving skills, he drives successful project outcomes and contributes to the growth of the developer community."
+}

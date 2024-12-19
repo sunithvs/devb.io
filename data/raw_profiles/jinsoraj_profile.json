@@ -1,0 +1,142 @@
+{
+    "username": "jinsoraj",
+    "name": "Jinso Raj",
+    "bio": "\r\nB.Tech graduate. Full Stack Developer ",
+    "location": "Kerala , Kollam , Kottarakkara",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48287817?u=3207f04d627cf3d9733beaf41b37c189291482a3&v=4",
+    "profile_url": "https://github.com/JinsoRaj",
+    "top_languages": [
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "SCSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TorrentConverter",
+            "description": "A Telegram bot to convert Torrent files -> magnet links & vice versa.",
+            "score": 12.933661882346318,
+            "stars": 42,
+            "forks": 31,
+            "language": "JavaScript",
+            "url": "https://github.com/JinsoRaj/TorrentConverter",
+            "updatedAt": "2024-08-06T15:39:39Z"
+        },
+        {
+            "name": "TelegramBots",
+            "description": "This repository is for HacktoberFest 2024. Contribute Telegram bot source codes. ",
+            "score": 11.691140005930157,
+            "stars": 26,
+            "forks": 25,
+            "language": "Python",
+            "url": "https://github.com/JinsoRaj/TelegramBots",
+            "updatedAt": "2024-12-02T14:04:10Z"
+        },
+        {
+            "name": "Donate",
+            "description": "Donate Me",
+            "score": 1.5362592337586358,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JinsoRaj/Donate",
+            "updatedAt": "2023-05-14T23:54:22Z"
+        },
+        {
+            "name": "jsGames",
+            "description": null,
+            "score": 1.4564670116066785,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JinsoRaj/jsGames",
+            "updatedAt": "2021-09-15T18:40:50Z"
+        },
+        {
+            "name": "College",
+            "description": "College lab programs | Useful snippets",
+            "score": 1.1091539238790724,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/JinsoRaj/College",
+            "updatedAt": "2022-03-20T04:25:21Z"
+        },
+        {
+            "name": "IFIApp",
+            "description": null,
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JinsoRaj/IFIApp",
+            "updatedAt": "2024-12-15T19:36:28Z"
+        },
+        {
+            "name": "ghost-try",
+            "description": null,
+            "score": 0.28153807492503696,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/JinsoRaj/ghost-try",
+            "updatedAt": "2024-05-28T15:20:06Z"
+        },
+        {
+            "name": "Booking-App",
+            "description": "Game - Ground Booking App - Hashiq",
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JinsoRaj/Booking-App",
+            "updatedAt": "2024-01-26T07:10:42Z"
+        }
+    ],
+    "followers": 35,
+    "following": 98,
+    "public_repos": 87,
+    "pull_requests_merged": 9,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 159,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/JinsoRaj"
+        }
+    ],
+    "activity_summary": {
+        "JinsoRaj/TelegramBots": {
+            "link": "https://github.com/JinsoRaj/TelegramBots",
+            "summary": "Recent activities on the TelegramBots repository focused on enhancements and feature additions to multiple projects. This includes the completion of the Crypto Liquidations Tracker Bot, the VideoUploaderBot, and ongoing improvements to JokesBot and Image Compressor Bot. Additionally, incremental updates were made to the environment configuration, error handling, and logging to maintain the overall stability and usability of these projects."
+        },
+        "t4glabs/zenith": {
+            "link": "https://github.com/t4glabs/zenith",
+            "summary": "The Zenith repository experienced a series of updates with a focus on upkeep and refinement. This involved updates to the Plausible V2, newsletter PDF upload, and incremental adjustments to the index.html for the purpose of maintaining optimal performance and user experience."
+        },
+        "t4glabs/preamble": {
+            "link": "https://github.com/t4glabs/preamble",
+            "summary": "The Preamble repository has undergone file uploads and adjustments to the index.html, showcasing continued development activities. Although specific details about these updates are not provided, the ongoing maintenance likely aims to enhance functionality and usability within this project."
+        },
+        "JinsoRaj/IFIApp": {
+            "link": "https://github.com/JinsoRaj/IFIApp",
+            "summary": "The IFIApp repository has seen ongoing enhancements with a focus on evaluation, support questions, and improvements to user permissions. This suggests efforts towards refining the app's core functionalities and user experience, particularly in the context of user management and overall performance."
+        },
+        "JinsoRaj/GSMArenaBot": {
+            "link": "https://github.com/JinsoRaj/GSMArenaBot",
+            "summary": "Recent commits to the GSMArenaBot repository have addressed dependency issues and involved porting the project to Deno, a modern JavaScript/TypeScript runtime for server-side development. These changes aim to enhance the bot's performance and maintainability."
+        }
+    },
+    "profile_summary": "Jinso Raj is a highly accomplished Full Stack Developer with a strong technical foundation in JavaScript, Python, and SCSS. With a B.Tech degree and a proven track record of delivering high-quality solutions, Jinso consistently demonstrates expertise in design and development. His active participation in the development community is evident through his extensive repository of 87 public projects, showcasing his innovative approach to problem-solving.\n\nAs a trusted and influential figure in the developer community, Jinso has established a strong professional network with 35 followers, who appreciate his technical guidance and collaborative spirit. With a focus on delivering cutting-edge solutions, Jinso continues to advance his skills and stay up-to-date with the latest industry trends, solidifying his position as a reliable and skilled Full Stack Developer. His unique blend of technical expertise and collaborative approach makes him an invaluable asset to any development team."
+}

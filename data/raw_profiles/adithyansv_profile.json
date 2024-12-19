@@ -1,0 +1,134 @@
+{
+    "username": "adithyansv",
+    "name": "AdithyanSV",
+    "bio": "Tech Enthusiast | PC Builder | Junior Dev | Designer | Photographer | Ex 3D Modeler and Junior Game Dev",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/62543927?u=ccf107ae83cc04a6fabaab44806429d012b1945e&v=4",
+    "profile_url": "https://github.com/AdithyanSV",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "HTML",
+            12
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Project_Nexus",
+            "description": "smart institutional databases management system",
+            "score": 2.4605167285977387,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/Project_Nexus",
+            "updatedAt": "2024-07-11T06:20:53Z"
+        },
+        {
+            "name": "recallMe",
+            "description": null,
+            "score": 1.6424825036279274,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/recallMe",
+            "updatedAt": "2024-01-08T17:12:45Z"
+        },
+        {
+            "name": "chayakkada",
+            "description": null,
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AdithyanSV/chayakkada",
+            "updatedAt": "2024-10-26T02:15:28Z"
+        },
+        {
+            "name": "crypto_chaya",
+            "description": "Because why not??",
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AdithyanSV/crypto_chaya",
+            "updatedAt": "2024-10-26T06:37:17Z"
+        },
+        {
+            "name": "Unity-Trial",
+            "description": "First unity project",
+            "score": 0.16782959448489948,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/Unity-Trial",
+            "updatedAt": "2023-11-28T16:26:54Z"
+        },
+        {
+            "name": "AdithyanSV",
+            "description": "About me :)",
+            "score": 0.15866420036629458,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/AdithyanSV",
+            "updatedAt": "2023-06-23T10:37:03Z"
+        },
+        {
+            "name": "Toolkit",
+            "description": "A quick, simple and easy toolkit for daily use",
+            "score": 0.15861814907844599,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/Toolkit",
+            "updatedAt": "2023-06-22T16:29:59Z"
+        },
+        {
+            "name": "learning-ajax-type-ahead",
+            "description": "Mind Empowered internship js30 challenge",
+            "score": 0.157243239979656,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/learning-ajax-type-ahead",
+            "updatedAt": "2023-05-21T18:20:05Z"
+        }
+    ],
+    "followers": 19,
+    "following": 59,
+    "public_repos": 25,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 90,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/adithyan_sv"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/adithyansv/"
+        }
+    ],
+    "activity_summary": {
+        "crypto_chaya": {
+            "link": "https://github.com/AdithyanSV/crypto_chaya",
+            "summary": "Recent activities in the crypto_chaya repository include initializing the project in Next.js, adding backgrounds, audio, and items, and making various layout changes. These updates were made between October 25th and October 26th, showcasing active development in the repository."
+        },
+        "useless": {
+            "link": "https://github.com/AdithyanSV/useless",
+            "summary": "The useless repository experienced a minor update on October 25th, clearing data related to the first idea. While the activity is limited, it signifies ongoing maintenance."
+        }
+    },
+    "profile_summary": "AdithyanSV is a dedicated and multi-talented junior developer with a strong foundation in TypeScript, HTML, and JavaScript, driving innovation in technology. As a skilled and versatile tech enthusiast, this developer effectively combines design, development, and creative skills to produce high-quality solutions. With a professional network of 19 followers, AdithyanSV showcases expertise and thought leadership within the development community.\n\nThroughout 25 public repositories, AdithyanSV demonstrates an unwavering dedication to coding and collaborating with others. With a diverse background that spans multiple disciplines, including 3D modeling, junior game development, and design, this developer brings fresh perspectives to the table. With an eye for detail, technical prowess, and an unrelenting passion for learning, AdithyanSV is well-equipped to tackle complex projects and consistently deliver valuable results in the ever-evolving tech landscape."
+}

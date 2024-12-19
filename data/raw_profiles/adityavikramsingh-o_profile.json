@@ -1,0 +1,61 @@
+{
+    "username": "adityavikramsingh-o",
+    "name": "adityavikramsingh-o",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/180853465?v=4",
+    "profile_url": "https://github.com/AdityaVikramSingh-O",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Map-App-for-Tracking-Workouts",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AdityaVikramSingh-O/Map-App-for-Tracking-Workouts",
+            "updatedAt": "2024-12-13T08:49:48Z"
+        },
+        {
+            "name": "fcc-ML",
+            "description": null,
+            "score": 0.3593341736205279,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/AdityaVikramSingh-O/fcc-ML",
+            "updatedAt": "2024-11-13T07:08:42Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "AdityaVikramSingh-O/fcc-ML": {
+            "link": "https://github.com/AdityaVikramSingh-O/fcc-ML",
+            "summary": "Recent activities include updates to notebook 'fcc_book_recommendation_knn.ipynb' and addition of new files via upload, showcasing continuous maintenance and improvement of the repository's content."
+        },
+        "AdityaVikramSingh-O/Map-App-for-Tracking-Workouts": {
+            "link": "https://github.com/AdityaVikramSingh-O/Map-App-for-Tracking-Workouts",
+            "summary": "A recent update involved adding files to the repository, indicating ongoing development and refinement of the map application for workout tracking."
+        }
+    },
+    "profile_summary": "Adityavikramsingh-o is a highly skilled software developer, leveraging exceptional technical expertise in JavaScript and Jupyter Notebook to drive cutting-edge innovation. With a strong foundation in dynamic web development and data analysis, this developer consistently creates high-quality solutions that meet the evolving needs of the tech industry. Adept in harnessing the power of JavaScript to build scalable and efficient applications, adityavikramsingh-o demonstrates a profound understanding of its intricacies and best practices.\n\nThrough an active portfolio of three public repositories, adityavikramsingh-o showcases a commitment to ongoing development and growth, continually refining their skills and exploring new opportunities for innovation. As a rising talent in the developer community, this individual is poised to make a lasting impact, offering a unique blend of technical prowess, creativity, and collaborative spirit that sets them apart as a valued asset to any project or team."
+}

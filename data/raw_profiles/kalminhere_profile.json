@@ -1,0 +1,61 @@
+{
+    "username": "kalminhere",
+    "name": "Suneesh S",
+    "bio": "",
+    "location": "Locating............",
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/100022002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjM3NjAsIm5iZiI6MTczNDYyMjU2MCwicGF0aCI6Ii91LzEwMDAyMjAwMiJ9.vTdg3KCYh2z5bkJiiJyOnc_23UlG0gMwPs7_KfdImtw&u=e3a4f168a9467fc92dd98c814cfc35f29242d7eb&v=4",
+    "profile_url": "https://github.com/kalminhere",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Makefile",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kalminhere",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07495390723514334,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/kalminhere/kalminhere",
+            "updatedAt": "2022-10-23T12:17:02Z"
+        },
+        {
+            "name": "vendor_xiaomi_violet",
+            "description": null,
+            "score": 0.07213475204444816,
+            "stars": 0,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/kalminhere/vendor_xiaomi_violet",
+            "updatedAt": "2022-03-01T20:25:37Z"
+        },
+        {
+            "name": "device_xiaomi_violet",
+            "description": null,
+            "score": 0.07207400359071019,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/kalminhere/device_xiaomi_violet",
+            "updatedAt": "2022-10-27T15:59:54Z"
+        }
+    ],
+    "followers": 10,
+    "following": 11,
+    "public_repos": 4,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Suneesh S is a highly skilled and accomplished software developer with a profound expertise in C++ and Makefile. With a strong foundation in programming principles and software development methodologies, Suneesh consistently demonstrates exceptional technical abilities, showcased through a repertoire of public repositories that highlight innovative solutions and proactive engagement. Leveraging a robust understanding of core technical skills, Suneesh creates reliable, efficient, and scalable software applications that drive business outcomes and engineering excellence.\n\nAs a driven and collaborative professional, Suneesh S has established a notable presence within the developer community, earning recognition from 10 influential peers and fostering strong connections through shared projects and collaborative endeavors. With a unique value proposition centered on delivering high-quality, precision-engineered software solutions, Suneesh S stands out as a trusted partner and expert in the C++ and Makefile ecosystem, poised to drive transformative impact through cutting-edge technology and unwavering dedication to excellence."
+}

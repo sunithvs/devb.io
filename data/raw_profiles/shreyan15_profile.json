@@ -1,0 +1,129 @@
+{
+    "username": "shreyan15",
+    "name": "Shreya Nair",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/119808754?v=4",
+    "profile_url": "https://github.com/ShreyaN15",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Campus-Connect",
+            "description": null,
+            "score": 1.4031690766269396,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/ShreyaN15/Campus-Connect",
+            "updatedAt": "2024-11-02T09:38:37Z"
+        },
+        {
+            "name": "banking_website",
+            "description": null,
+            "score": 0.28854493731138137,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/ShreyaN15/banking_website",
+            "updatedAt": "2024-06-22T12:57:07Z"
+        },
+        {
+            "name": "space_landing_page",
+            "description": null,
+            "score": 0.28704032048575395,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ShreyaN15/space_landing_page",
+            "updatedAt": "2024-06-17T13:03:20Z"
+        },
+        {
+            "name": "space_merch_website",
+            "description": null,
+            "score": 0.28337684106036204,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ShreyaN15/space_merch_website",
+            "updatedAt": "2024-06-04T03:53:44Z"
+        },
+        {
+            "name": "Letsdo-list",
+            "description": null,
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ShreyaN15/Letsdo-list",
+            "updatedAt": "2024-11-02T11:50:12Z"
+        },
+        {
+            "name": "stopwatch",
+            "description": null,
+            "score": 0.28077614189870803,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ShreyaN15/stopwatch",
+            "updatedAt": "2024-05-25T05:11:52Z"
+        },
+        {
+            "name": "ME-tasks-2-js-projects",
+            "description": null,
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ShreyaN15/ME-tasks-2-js-projects",
+            "updatedAt": "2024-05-25T05:35:20Z"
+        },
+        {
+            "name": "simple-calculator",
+            "description": null,
+            "score": 0.27929642477188826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ShreyaN15/simple-calculator",
+            "updatedAt": "2024-05-19T08:39:28Z"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 28,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 157,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ShreyaN15/Campus-Connect": {
+            "link": "https://github.com/ShreyaN15/Campus-Connect",
+            "summary": "The Campus-Connect repository has been actively updated with numerous push events since October 2024. These updates include modifications to the package.json, README.md, and deployment preparations. Additionally, multiple pushes related to campus deals, sixth, seventh, and other minor updates have been committed. The consistent and diverse updates indicate a dynamic development environment for this project."
+        },
+        "ShreyaN15/Letsdo-list": {
+            "link": "https://github.com/ShreyaN15/Letsdo-list",
+            "summary": "The Letsdo-list repository witnessed updates in November 2024, primarily focusing on modifications to the README.md file. Three consecutive push events reflect ongoing development and attention to documentation for this project. The updates indicate an active commitment to maintaining the repository's documentation and codebase."
+        },
+        "ShreyaN15/mini-project-Todo-list-with-timer": {
+            "link": "https://github.com/ShreyaN15/mini-project-Todo-list-with-timer",
+            "summary": "The mini-project-Todo-list-with-timer repository saw updates in November 2024, mainly directed at revising the README.md file. Additionally, a push event with the message 'Updates' suggests further development within the project. These updates signify an ongoing effort to maintain the codebase and documentation for this repository."
+        }
+    },
+    "profile_summary": "Shreya Nair is a skilled and versatile software developer with a strong expertise in Python, JavaScript, and HTML. With a portfolio of 28 public repositories, she has demonstrated her ability to consistently deliver high-quality code and contribute to the open-source community. Her proficiency in these programming languages enables her to tackle complex projects with confidence, from backend development to frontend design.\n\nAs a dedicated and innovative professional, Shreya Nair brings a unique value proposition to the table. Her passion for coding is matched only by her commitment to staying up-to-date with the latest trends and technologies. With a keen eye for detail and a talent for problem-solving, she is well-equipped to drive projects forward and deliver results-driven solutions. Whether collaborating with colleagues or working independently, Shreya's technical expertise and enthusiasm make her a valuable asset to any development team."
+}

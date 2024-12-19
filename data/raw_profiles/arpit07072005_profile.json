@@ -1,0 +1,112 @@
+{
+    "username": "arpit07072005",
+    "name": "arpitgithub07072005",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/182366942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ3ODAsIm5iZiI6MTczNDYyMzU4MCwicGF0aCI6Ii91LzE4MjM2Njk0MiJ9.dnthO7tYQ2nvkLKxXTxw6CcwNARt03opAQqfQjTClLk&v=4",
+    "profile_url": "https://github.com/arpit07072005",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ecommerce",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arpit07072005/ecommerce",
+            "updatedAt": "2024-12-12T16:56:18Z"
+        },
+        {
+            "name": "TODO-LIST",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arpit07072005/TODO-LIST",
+            "updatedAt": "2024-12-12T11:04:50Z"
+        },
+        {
+            "name": "mlcoe-registration",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/arpit07072005/mlcoe-registration",
+            "updatedAt": "2024-12-07T14:23:22Z"
+        },
+        {
+            "name": "mlcoeform",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/arpit07072005/mlcoeform",
+            "updatedAt": "2024-12-07T14:18:31Z"
+        },
+        {
+            "name": "first-react",
+            "description": null,
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arpit07072005/first-react",
+            "updatedAt": "2024-11-21T12:24:38Z"
+        },
+        {
+            "name": "piyush",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arpit07072005/piyush",
+            "updatedAt": "2024-11-06T11:02:38Z"
+        },
+        {
+            "name": "arpit-pandey",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arpit07072005/arpit-pandey",
+            "updatedAt": "2024-10-05T16:11:21Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arpit07072005/portfolio",
+            "updatedAt": "2024-10-04T12:48:56Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 39,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {},
+    "profile_summary": "Arpit is a skilled JavaScript and HTML developer, harnessing a strong foundation in front-end development to craft engaging and interactive user experiences. Through the creation of 11 publicly accessible repositories, Arpit demonstrates a proactive approach to coding and a willingness to share innovative solutions with the broader developer community. This dedication to ongoing learning and collaboration underscores Arpit's commitment to staying at the forefront of the rapidly evolving web development landscape.\n\nBy leveraging a deep understanding of JavaScript and HTML, Arpit delivers high-quality, client-focused solutions that seamlessly integrate functionality and aesthetics. With a keen eye for detail and an unwavering passion for coding, Arpit consistently pushes the boundaries of what is possible, propelling projects forward with precision, creativity, and technical expertise. As a talented developer with a growing portfolio of work, Arpit is poised to make a meaningful impact in the world of web development."
+}

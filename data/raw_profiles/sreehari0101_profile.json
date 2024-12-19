@@ -1,0 +1,124 @@
+{
+    "username": "sreehari0101",
+    "name": "Sree Hari",
+    "bio": "B.Tech Undergraduate |  Full-Stack Developer \r\n",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109453037?u=d2a880aefb1739fc9c8fdf11e6cf96272e3342d0&v=4",
+    "profile_url": "https://github.com/Sreehari0101",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Lex",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Skill_Hub",
+            "description": "\ud83d\ude80  A web application merging learning and recruitment features with user authentication \ud83d\udd12. Includes real-time student engagement tracking \ud83d\udcca, secure face verification during online lectures and a chatbot \ud83e\udd16.",
+            "score": 3.7170465902349936,
+            "stars": 1,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Sreehari0101/Skill_Hub",
+            "updatedAt": "2024-05-18T07:34:01Z"
+        },
+        {
+            "name": "Core_Java",
+            "description": "\ud83c\udf49 A  comprehensive collection of Java fundamentals, algorithms \ud83e\udde0 and data structures (DSA)  \ud83d\udcbb. ",
+            "score": 1.6604036092637904,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Sreehari0101/Core_Java",
+            "updatedAt": "2024-05-15T20:00:01Z"
+        },
+        {
+            "name": "Vehi-Pass",
+            "description": " \ud83d\ude97  A Web application simplifying vehicle gate pass management for students. Features secure user authentication \ud83d\udd12 and unique QR code generation \ud83c\udf10 for approved passes.",
+            "score": 1.620058204453044,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sreehari0101/Vehi-Pass",
+            "updatedAt": "2024-05-01T08:01:30Z"
+        },
+        {
+            "name": "Sreehari0101",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6072776045365105,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Sreehari0101/Sreehari0101",
+            "updatedAt": "2024-08-04T07:23:29Z"
+        },
+        {
+            "name": "OPENAI_PLAYGROUND",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Sreehari0101/OPENAI_PLAYGROUND",
+            "updatedAt": "2024-08-04T07:18:00Z"
+        },
+        {
+            "name": "HASH",
+            "description": null,
+            "score": 0.27410924814389975,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sreehari0101/HASH",
+            "updatedAt": "2024-05-01T08:01:32Z"
+        },
+        {
+            "name": "Compiler_Lab",
+            "description": null,
+            "score": 0.16925964148870362,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lex",
+            "url": "https://github.com/Sreehari0101/Compiler_Lab",
+            "updatedAt": "2023-12-18T07:19:09Z"
+        },
+        {
+            "name": "Box_Models",
+            "description": null,
+            "score": 0.1645996779249795,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Sreehari0101/Box_Models",
+            "updatedAt": "2023-10-11T21:09:35Z"
+        }
+    ],
+    "followers": 10,
+    "following": 11,
+    "public_repos": 24,
+    "pull_requests_merged": 9,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 779,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sreehari0101/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sr.ee.hari__/"
+        }
+    ],
+    "profile_summary": "Sree Hari is a distinguished full-stack developer with expertise in Python, JavaScript, and Lex, fostering a strong foundation in software development. As a driven B.Tech undergraduate, he has cultivated a remarkable portfolio of 24 public repositories on GitHub, showcasing his proficiency and dedication to embracing new technologies. His growing network of 10 followers testifies to his professional appeal and potential for collaboration with like-minded developers.\n\nSree Hari's exceptional skills in Python, JavaScript, and Lex empower him to craft innovative solutions that cater to diverse programming needs. By merging technical proficiency with creative problem-solving, he delivers results-driven projects that cater to complex requirements. As a dynamic and forward-thinking developer, Sree Hari is an invaluable asset to any team, offering expertise that can leverage cutting-edge technologies to fuel progress and innovation in the ever-evolving world of software development."
+}

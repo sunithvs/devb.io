@@ -1,0 +1,138 @@
+{
+    "username": "kunj-tyagi",
+    "name": "Kunj Tyagi",
+    "bio": "Hi! I'm Kunj, currently studying Computer Science And Engineering at AKGEC, Ghaziabad. Passionate about Technology.\r\n ",
+    "location": "Ghaziabad",
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/110375352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQzNjAsIm5iZiI6MTczNDYyMzE2MCwicGF0aCI6Ii91LzExMDM3NTM1MiJ9.AXMyDV4talKC7fpN4wvtAO6G5fsvEdI7fDqIhDufdP4&v=4",
+    "profile_url": "https://github.com/Kunj-Tyagi",
+    "top_languages": [
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WanderLust",
+            "description": "WanderLust is a fullstack web application designed for users to list and rent spaces, featuring user authentication, listing management, and a clean, responsive interface. Built with Node.js, Express.js, MongoDB, and JavaScript, it allows users to create, manage, and view rental listings, complete with image uploads.",
+            "score": 2.568231497761296,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/WanderLust",
+            "updatedAt": "2024-11-29T21:36:24Z"
+        },
+        {
+            "name": "GrowTrades",
+            "description": null,
+            "score": 1.8522955620395996,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/GrowTrades",
+            "updatedAt": "2024-12-02T10:17:50Z"
+        },
+        {
+            "name": "ComiCartel",
+            "description": "Comic Management App Backend is a powerful RESTful API built with Node.js and Express.js that provides core functionalities for managing a comic collection, including pagination, searching, and sorting. This backend is ideal for applications where users can explore extensive comic collections and filter them based on various criteria.",
+            "score": 1.7541634538346362,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/ComiCartel",
+            "updatedAt": "2024-11-29T20:27:38Z"
+        },
+        {
+            "name": "QuickReach",
+            "description": "A comprehensive backend API for managing contacts, designed to streamline the process of adding, updating, and organizing contact information. Built with Node.js and Express.js, this backend offers secure contact storage, along with features for efficient data retrieval and management, making it ideal for CRM and personal contact applications.",
+            "score": 1.7141839277063955,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/QuickReach",
+            "updatedAt": "2024-11-29T20:27:59Z"
+        },
+        {
+            "name": "RegistrationForm",
+            "description": "A registration platform built with Node.js, Express.js, and MongoDB Atlas for the MLCoE Society at AKGEC to streamline recruitment for 2nd-year students. This platform collects and stores applicant information securely in the database, allowing administrators to manage applicants effectively.",
+            "score": 1.3509059121194649,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/RegistrationForm",
+            "updatedAt": "2024-10-26T02:24:06Z"
+        },
+        {
+            "name": "CommitVault",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kunj-Tyagi/CommitVault",
+            "updatedAt": "2024-12-08T19:34:19Z"
+        },
+        {
+            "name": "kunj-tyagi",
+            "description": "Kunj-Tyagi/kunj-tyagi is a \u2728 special \u2728 repository that you can use to add a README.md to your GitHub profile. Make sure it\u2019s public and initialize it with a README to get started.",
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Kunj-Tyagi/kunj-tyagi",
+            "updatedAt": "2024-12-13T07:49:07Z"
+        },
+        {
+            "name": "Weather-App",
+            "description": "This project is a comprehensive weather application built with React, showcasing the implementation of key React concepts. The app provides real-time weather updates for various locations while demonstrating \ud83c\udf1f state management, \ud83d\udd04 component lifecycle, \u2693 hooks, and \ud83e\udde9 conditional rendering.",
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/Weather-App",
+            "updatedAt": "2024-12-09T17:56:22Z"
+        }
+    ],
+    "followers": 3,
+    "following": 12,
+    "public_repos": 15,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 86,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/KunjTyagi6"
+        }
+    ],
+    "activity_summary": {
+        "Kunj-Tyagi/kunj-tyagi": {
+            "link": "https://github.com/Kunj-Tyagi/kunj-tyagi",
+            "summary": "The repository experienced intense development activity in the past few weeks, primarily on December 13th. Multiple push events were recorded with commit messages indicating incremental improvements on ConnectSection features."
+        },
+        "Kunj-Tyagi/CommitVault": {
+            "link": "https://github.com/Kunj-Tyagi/CommitVault",
+            "summary": "Recent updates in the CommitVault repository include two major milestones, 'Almost-Done' and 'SignupDone', which suggest that the project is nearing completion with significant enhancements."
+        },
+        "Kunj-Tyagi/Registration": {
+            "link": "https://github.com/Kunj-Tyagi/Registration",
+            "summary": "Notable activity in the Registration repository includes the integration of IP address handling as of December 16th, indicating enhanced functionality in user registration processes."
+        },
+        "Kunj-Tyagi/Weather-App": {
+            "link": "https://github.com/Kunj-Tyagi/Weather-App",
+            "summary": "Recent updates in the Weather-App repository include the incorporation of default image features, introduced on December 9th, which implies aesthetic or functional improvements to the application's user interface."
+        },
+        "Kunj-Tyagi/To-Do-List": {
+            "link": "https://github.com/Kunj-Tyagi/To-Do-List",
+            "summary": "Significant activity in the To-Do-List repository includes the addition of alert features on December 4th, which suggests that the application's notification and reminder functionalities are being enhanced."
+        }
+    },
+    "profile_summary": "Kunj Tyagi is a driven and innovative developer with a strong foundation in JavaScript and HTML, consistently delivering high-quality solutions through his active involvement in various projects. As a Computer Science and Engineering student at AKGEC, Ghaziabad, Kunj has cultivated a comprehensive understanding of the latest technologies, leveraging his passion for innovation to drive growth and improvement. His proficiency in JavaScript and HTML has enabled him to create a range of impactful applications, further solidifying his expertise.\n\nWith a growing network of professional connections and a portfolio of 15 public repositories, Kunj has established himself as a credible and talented developer. His dedication to the field of technology is evident through his contributions to the open-source community and commitment to continuous learning. Kunj's unique blend of technical expertise and creative vision positions him as a valuable asset in the development space, where he continues to drive innovation and excellence through his work."
+}

@@ -1,0 +1,138 @@
+{
+    "username": "bodhish",
+    "name": "Bodhish Thomas",
+    "bio": "\u26a1 Tinkering with Gen AI",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14979190?u=50455685687e08116e566fbdb7d62d1e03d2592e&v=4",
+    "profile_url": "https://github.com/bodhish",
+    "top_languages": [
+        [
+            "Ruby",
+            12
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "mytemplate.xyz",
+            "description": "A No-Code developer website builder experiment created with ReScript. The builder creates a JSON from the user input and renders a pre-defined template. Supports links, Dev.to blog page, and GitHub repositories as input.",
+            "score": 12.760812837087489,
+            "stars": 77,
+            "forks": 12,
+            "language": "ReScript",
+            "url": "https://github.com/bodhish/mytemplate.xyz",
+            "updatedAt": "2024-11-19T14:35:42Z"
+        },
+        {
+            "name": "create-reason-react-tailwind",
+            "description": "Create Reason React App - A simple boilerplate generator for tailwind styled reason react project",
+            "score": 9.01494219130059,
+            "stars": 35,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/bodhish/create-reason-react-tailwind",
+            "updatedAt": "2024-09-17T18:16:23Z"
+        },
+        {
+            "name": "ayushma-med",
+            "description": " a Medicine reminder app created using native-react for medication reminders. The App aims to solve the pain in creating the complex alarms with easy to use UI and features",
+            "score": 5.315760450794323,
+            "stars": 3,
+            "forks": 4,
+            "language": "Java",
+            "url": "https://github.com/bodhish/ayushma-med",
+            "updatedAt": "2023-05-02T09:58:30Z"
+        },
+        {
+            "name": "rails-6-tailwind",
+            "description": "A boilerplate starter repo for rails 6 project with Reason React, tailwind, active admin, pnotify, and devise",
+            "score": 3.878996061680363,
+            "stars": 3,
+            "forks": 1,
+            "language": "Ruby",
+            "url": "https://github.com/bodhish/rails-6-tailwind",
+            "updatedAt": "2021-08-08T16:54:51Z"
+        },
+        {
+            "name": "wd201-nodejs-solutions",
+            "description": null,
+            "score": 3.193767349358882,
+            "stars": 0,
+            "forks": 7,
+            "language": null,
+            "url": "https://github.com/bodhish/wd201-nodejs-solutions",
+            "updatedAt": "2022-09-28T04:50:32Z"
+        },
+        {
+            "name": "water_mission",
+            "description": null,
+            "score": 2.7257785403356674,
+            "stars": 1,
+            "forks": 1,
+            "language": "Ruby",
+            "url": "https://github.com/bodhish/water_mission",
+            "updatedAt": "2024-07-24T14:33:13Z"
+        },
+        {
+            "name": "pupilfirst-translator-vscode-ext",
+            "description": "Experimental plugin to set keys in I18n Yaml file",
+            "score": 2.3352247436189484,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bodhish/pupilfirst-translator-vscode-ext",
+            "updatedAt": "2023-02-07T16:15:08Z"
+        },
+        {
+            "name": "india2019.vote",
+            "description": "A prediction app created for indian elections 2019. The app was created using Ruby on rails with react frontend.",
+            "score": 2.2626111373904045,
+            "stars": 2,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/bodhish/india2019.vote",
+            "updatedAt": "2020-03-08T17:12:32Z"
+        }
+    ],
+    "followers": 317,
+    "following": 1,
+    "public_repos": 117,
+    "pull_requests_merged": 255,
+    "issues_closed": 429,
+    "achievements": {
+        "total_contributions": 690,
+        "repositories_contributed_to": 24
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/BodhishThomas"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/bodhish/"
+        }
+    ],
+    "activity_summary": {
+        "care_fe": {
+            "link": "https://github.com/ohcnetwork/care_fe",
+            "summary": "Recent updates include improvements to logo handling, addition of custom logo support in the landing page, and enhancements to patient form filtering. Other notable changes include updates to the questionnaire form, the addition of a tab for patient updates, and changes to public appointments. The repository also received various bug fixes and enhancements to the overall user experience."
+        },
+        "care_api_backup": {
+            "link": "https://github.com/ohcnetwork/care_api_backup",
+            "summary": "Updates include a setup for environment variables and authentication changes to better support deployment to DigitalOcean."
+        },
+        "care": {
+            "link": "https://github.com/ohcnetwork/care",
+            "summary": "Chore updates were made to include a total doctor count in hospital doctor list responses, addressing a pre-existing issue. This change improves data representation and provides more accurate information about doctor counts."
+        }
+    },
+    "profile_summary": "As an accomplished software developer with a broad range of technical expertise, Bodhish Thomas has solidified a reputation for delivering high-quality solutions across various industries. Proficient in dynamic programming languages such as Ruby, JavaScript, and TypeScript, Bodhish possesses a mastery of tools and technologies essential for the development of scalable, innovative applications. A strong network of over 317 peers and an extensive portfolio of 117 public repositories underscore his dedication to collaborative development and continuous knowledge sharing.\n\nWith a strong foundation in general artificial intelligence, Bodhish is constantly exploring cutting-edge technologies to expand his capabilities and push the boundaries of possibility. Driven by a passion for AI and its transformative potential, Bodhish channels his expertise to engineer creative solutions that help businesses stay ahead of the curve. By combining his expertise in multiple programming languages and leveraging his knowledge of AI, Bodhish provides immense value to his partners, stakeholders, and collaborators, positioning himself as a versatile and in-demand professional in the rapidly evolving tech landscape."
+}

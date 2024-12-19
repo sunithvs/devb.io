@@ -1,0 +1,130 @@
+{
+    "username": "darkphoenix2704",
+    "name": "Anbarasu ",
+    "bio": "Engineering @nocodb ",
+    "location": "Kochi, India",
+    "avatar_url": "https://private-avatars.githubusercontent.com/u/64391274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUxNDAsIm5iZiI6MTczNDYyMzk0MCwicGF0aCI6Ii91LzY0MzkxMjc0In0.dcN1RVWHU70qaBHfbmNCZq-rhzu00bNE5EkqgRahSJU&u=63f9c0cec2847ac30a2dad823acdc9854704f169&v=4",
+    "profile_url": "https://github.com/DarkPhoenix2704",
+    "top_languages": [
+        [
+            "TypeScript",
+            16
+        ],
+        [
+            "Rust",
+            2
+        ],
+        [
+            "C",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "fixBing",
+            "description": "An extension to make Bing usable",
+            "score": 6.037736111464477,
+            "stars": 18,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DarkPhoenix2704/fixBing",
+            "updatedAt": "2023-06-13T00:12:29Z"
+        },
+        {
+            "name": "discowin-reimagined",
+            "description": null,
+            "score": 4.398094238802207,
+            "stars": 4,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/DarkPhoenix2704/discowin-reimagined",
+            "updatedAt": "2023-03-04T08:05:00Z"
+        },
+        {
+            "name": "Saturday_Hack_Night-Telegram",
+            "description": null,
+            "score": 3.988649662003987,
+            "stars": 0,
+            "forks": 12,
+            "language": "JavaScript",
+            "url": "https://github.com/DarkPhoenix2704/Saturday_Hack_Night-Telegram",
+            "updatedAt": "2023-10-14T09:27:56Z"
+        },
+        {
+            "name": "vue-extensible-mail",
+            "description": "Build great email templates with Vue",
+            "score": 3.4976915533900215,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/DarkPhoenix2704/vue-extensible-mail",
+            "updatedAt": "2024-05-19T07:55:54Z"
+        },
+        {
+            "name": "os-lab",
+            "description": null,
+            "score": 3.458787225989028,
+            "stars": 2,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/DarkPhoenix2704/os-lab",
+            "updatedAt": "2024-09-25T16:43:28Z"
+        },
+        {
+            "name": "SpeedTyper",
+            "description": "With SpeedTyper, you can check your WPM and CPM typing scores in a flash!",
+            "score": 3.4420427639632134,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/DarkPhoenix2704/SpeedTyper",
+            "updatedAt": "2024-03-14T10:42:56Z"
+        },
+        {
+            "name": "dbms-project",
+            "description": null,
+            "score": 3.186141718563722,
+            "stars": 1,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/DarkPhoenix2704/dbms-project",
+            "updatedAt": "2023-03-04T08:05:00Z"
+        },
+        {
+            "name": "diaryApp",
+            "description": "Backend is Down. So it wont work",
+            "score": 3.1782803087796907,
+            "stars": 1,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/DarkPhoenix2704/diaryApp",
+            "updatedAt": "2023-03-04T08:05:00Z"
+        }
+    ],
+    "followers": 128,
+    "following": 58,
+    "public_repos": 125,
+    "pull_requests_merged": 281,
+    "issues_closed": 45,
+    "achievements": {
+        "total_contributions": 3216,
+        "repositories_contributed_to": 12
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/DarkPhoenix2704"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/anbarasu-n/"
+        }
+    ],
+    "activity_summary": {
+        "nocodb/nocodb": {
+            "link": "https://github.com/nocodb/nocodb",
+            "summary": "Recent activities include multiple chore updates such as bumping the AWS SDK version 3, bumping build tools, and upgrading Node.js version to 22. Additionally, several bug fixes were implemented including a fix for expanded row navigation, and a change to handle empty strings as null in grouping. Furthermore, a feature for record reordering was added, allowing users to reorder records according to their needs."
+        }
+    },
+    "profile_summary": "Anbarasu is a highly skilled software engineer and accomplished developer with a strong background in system programming languages including TypeScript, Rust, and C. With a proven track record of delivering high-quality solutions, he leverages his technical expertise to drive innovation and efficiency in software development. As a key contributor at nocodb, Anbarasu applies his expertise to craft cutting-edge solutions that meet the evolving needs of the industry.\n\nAs a respected member of the development community, Anbarasu has earned the trust and admiration of his peers, with a strong following of 128 professionals. His impressive portfolio of 125 public repositories showcases his commitment to continuous learning and growth, as well as his dedication to knowledge sharing and collaboration. By combining technical acumen with a passion for innovation and collaboration, Anbarasu consistently delivers exceptional results and drives progress in the field of software engineering."
+}

@@ -1,0 +1,44 @@
+{
+    "username": "mariyaben",
+    "name": "Mariya Benny",
+    "bio": "Enthusiastic and passionate AI & Data Science student at CUSAT, Kochi, eagerly awaiting opportunities to showcase my skills and solve real-world problems.",
+    "location": "Kochi, Ernakulam, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98140958?u=3b50f1bb3a3c4f1a12a00ffad75497cff5b52f9c&v=4",
+    "profile_url": "https://github.com/Mariyaben",
+    "top_languages": [],
+    "top_projects": [],
+    "followers": 10,
+    "following": 5,
+    "public_repos": 36,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 578,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mariya-benny-7834511a2"
+        }
+    ],
+    "activity_summary": {
+        "malayalam-text-classifier": {
+            "link": "https://github.com/Mariyaben/malayalam-text-classifier",
+            "summary": "Recent activities have focused on refining the repository's app. On December 10, multiple updates were made to app.py, with a new version being uploaded after deleting the original version. In addition, other unnecessary files such as train.csv, app2.py, and README.md were removed, and necessary libraries were installed as evident from requirements.txt being added. Streamlit files were also added to enable efficient app development."
+        },
+        "Lejit-Web": {
+            "link": "https://github.com/LejitAI/Lejit-Web",
+            "summary": "The repository has seen a surge in development over the past few days. Notable updates include new functionalities such as completing pages, adding features for law firm appointments and citizens' cases with lawyers. Furthermore, the README.md has been updated to better reflect the repository's purpose and progress. Multiple minor updates to specific modules were also committed on December 12 and 13."
+        },
+        "Mitigating-Marine-Pollution-NCMPE": {
+            "link": "https://github.com/Mariyaben/Mitigating-Marine-Pollution-NCMPE",
+            "summary": "The recent push on December 10, has made updates to repository by adding files via upload, and created one file using Colab, possibly to expand research in the pollution domain."
+        },
+        "Digital-Image-and-Video-Processing-Lab": {
+            "link": "https://github.com/Mariyaben/Digital-Image-and-Video-Processing-Lab",
+            "summary": "A push made on December 16, demonstrates creation of files using Colab, implying research and developmental works related to the domain of Digital image and video processing."
+        }
+    },
+    "profile_summary": "Mariya Benny is a driven and ambitious AI and Data Science student at the prestigious Cochin University of Science and Technology in Kochi. As an emerging expert in her field, she has rapidly established a strong online presence, earning 10 followers and contributing to 36 public repositories that demonstrate her devotion to coding excellence. With a passion for harnessing the power of machine learning and data analysis to address real-world challenges, Mariya is constantly expanding her technical skillset and exploring innovative solutions.\n\nAs a forward-thinking developer with a keen eye for trend-setting technologies and problem-solving methodologies, Mariya is poised to make a lasting impact in the world of AI and Data Science. By combining a strong educational foundation with an eagerness to learn and adapt, she is uniquely positioned to take on complex projects, drive results-driven innovation, and deliver exceptional outcomes in an ever-evolving technological landscape. With her exceptional skills, tireless enthusiasm, and dedication to continuous learning, Mariya Benny is an all-around high-achieving professional."
+}

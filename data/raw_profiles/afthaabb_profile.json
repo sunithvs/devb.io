@@ -1,0 +1,76 @@
+{
+    "username": "afthaabb",
+    "name": "Mohammed Aftab",
+    "bio": "Hi im Aftab",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/160122177?u=25708ac7b21e7d38976ae682af184d27accb7a5e&v=4",
+    "profile_url": "https://github.com/afthaabb",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "NFTonair",
+            "description": "A project which is made for artists who make NFT's they can make NFT live and people can bid on it while the artist develops and it will be sold for the prize the artist finalizes we use base for transaction and also include 0xgasless for lower gas fees and bridging",
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/afthaabb/NFTonair",
+            "updatedAt": "2024-12-05T15:41:44Z"
+        },
+        {
+            "name": "notechain",
+            "description": null,
+            "score": 0.2959219468663434,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/afthaabb/notechain",
+            "updatedAt": "2024-07-14T07:11:35Z"
+        },
+        {
+            "name": "afthaabb",
+            "description": null,
+            "score": 0.2691957170131844,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/afthaabb/afthaabb",
+            "updatedAt": "2024-12-02T11:18:23Z"
+        }
+    ],
+    "followers": 0,
+    "following": 4,
+    "public_repos": 11,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 96,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/afthaabb"
+        }
+    ],
+    "activity_summary": {
+        "afthaabb/NFTonair": {
+            "link": "https://github.com/afthaabb/NFTonair",
+            "summary": "NFTonair repository has seen recent updates with a commit on 2024-12-05, indicating continuous development and maintenance efforts."
+        },
+        "afthaabb/afthaabb": {
+            "link": "https://github.com/afthaabb/afthaabb",
+            "summary": "The afthaabb repository has undergone updates to the README file, ensuring that the repository information remains accurate and up-to-date, as seen on 2024-12-02."
+        }
+    },
+    "profile_summary": "Mohammed Aftab is a highly skilled and influential developer specializing in TypeScript and JavaScript technologies. With a strong portfolio of 11 public repositories, Aftab consistently demonstrates innovative problem-solving skills, technical expertise, and a passion for delivering high-quality solutions. His proficiency in modern programming languages enables him to efficiently build scalable and maintainable applications, driving business growth and customer satisfaction.\n\nAs a forward-thinking developer, Aftab leverages his technical expertise to empower businesses and communities through cutting-edge software development. With a strong focus on collaboration and knowledge sharing, Aftab is committed to continuously refining his skills, staying up-to-date with industry trends, and pushing the boundaries of what is possible with modern technologies. Through his dedication to technical excellence and passion for innovation, Aftab is an asset to any development team, poised to drive meaningful impact and shape the future of software development."
+}

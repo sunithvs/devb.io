@@ -1,0 +1,115 @@
+{
+    "username": "ajal333",
+    "name": "Ajal",
+    "bio": "| Developer |\r\n",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/28896442?u=6017778aeae2ad6b2ccb36eb1da93d23e75413a5&v=4",
+    "profile_url": "https://github.com/Ajal333",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ChromeExtension-qr-generator",
+            "description": "A QR code generator chrome extension",
+            "score": 3.4444396587316484,
+            "stars": 2,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/Ajal333/ChromeExtension-qr-generator",
+            "updatedAt": "2024-05-22T06:44:11Z"
+        },
+        {
+            "name": "D-Crowdfunding",
+            "description": "A decentralised crowdfunding app.",
+            "score": 3.3806948583564322,
+            "stars": 2,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/Ajal333/D-Crowdfunding",
+            "updatedAt": "2023-05-11T08:21:44Z"
+        },
+        {
+            "name": "Siddharth-webpage",
+            "description": null,
+            "score": 2.4933627705255574,
+            "stars": 1,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/Ajal333/Siddharth-webpage",
+            "updatedAt": "2020-10-05T06:45:46Z"
+        },
+        {
+            "name": "Reboot-hackathon",
+            "description": null,
+            "score": 2.4924404010559598,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Ajal333/Reboot-hackathon",
+            "updatedAt": "2019-12-27T16:03:15Z"
+        },
+        {
+            "name": "Hello-World",
+            "description": "First Repository",
+            "score": 1.711002908166913,
+            "stars": 0,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/Ajal333/Hello-World",
+            "updatedAt": "2021-10-01T15:59:52Z"
+        },
+        {
+            "name": "2FA-NodeJs",
+            "description": null,
+            "score": 1.4534497619005957,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ajal333/2FA-NodeJs",
+            "updatedAt": "2020-10-22T09:31:36Z"
+        },
+        {
+            "name": "Node-Project-LMS-",
+            "description": null,
+            "score": 1.1066226009316664,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Ajal333/Node-Project-LMS-",
+            "updatedAt": "2020-04-07T07:02:58Z"
+        },
+        {
+            "name": "ACES-Challenge",
+            "description": "Website to complete aces challenge.",
+            "score": 1.1063386530117427,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Ajal333/ACES-Challenge",
+            "updatedAt": "2020-10-05T06:42:44Z"
+        }
+    ],
+    "followers": 52,
+    "following": 36,
+    "public_repos": 67,
+    "pull_requests_merged": 21,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 995,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Ajal is a highly skilled developer with a strong technical foundation in languages such as TypeScript, C, and Python, honed through extensive experience in software development. With 52 followers and 67 public repositories, Ajal has established a reputation as a reliable and innovative problem solver within the developer community. By consistently delivering high-quality solutions, Ajal has forged a strong professional network and maintains a prominent online presence.\n\nAs a skilled developer with expertise in multiple programming languages, Ajal brings a unique combination of technical expertise and collaborative spirit to projects. With a strong track record of developing effective solutions and a focus on innovation and continuous learning, Ajal is well-equipped to drive technology forward in a rapidly changing digital landscape. Leveraging proficiency in TypeScript, C, and Python, Ajal remains committed to delivering cutting-edge solutions that exceed expectations."
+}

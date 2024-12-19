@@ -1,0 +1,117 @@
+{
+    "username": "meenakshipramod",
+    "name": "meenakshipramod",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118355505?v=4",
+    "profile_url": "https://github.com/MeenakshiPramod",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Game-Hub-Project",
+            "description": "Simple Games Hub using HTML, CSS, JavaScript for O-pen Mic Project",
+            "score": 1.386082433435571,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/MeenakshiPramod/Game-Hub-Project",
+            "updatedAt": "2024-10-05T14:45:21Z"
+        },
+        {
+            "name": "FEWD_IBM",
+            "description": "Eco-waste tracker front end project as a part of IBM Skill Build Internship",
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MeenakshiPramod/FEWD_IBM",
+            "updatedAt": "2024-08-03T11:40:49Z"
+        },
+        {
+            "name": "URL-Shortener",
+            "description": null,
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MeenakshiPramod/URL-Shortener",
+            "updatedAt": "2024-06-05T16:25:51Z"
+        },
+        {
+            "name": "OnlineVotingJava",
+            "description": "The Online Voting System is a simple data structure project in Java.",
+            "score": 0.28337684106036204,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/MeenakshiPramod/OnlineVotingJava",
+            "updatedAt": "2024-06-04T11:51:23Z"
+        },
+        {
+            "name": "Wordle",
+            "description": "A  data structure project to build simple terminal version of the popular word guessing game, Wordle, in Java.",
+            "score": 0.2774093488054568,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/MeenakshiPramod/Wordle",
+            "updatedAt": "2024-05-11T01:52:08Z"
+        },
+        {
+            "name": "TypingSpeedCalculator",
+            "description": "Code for Typing Speed Calculator using Tkinter for Pragti",
+            "score": 0.2594821921958952,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MeenakshiPramod/TypingSpeedCalculator",
+            "updatedAt": "2024-01-31T04:43:42Z"
+        }
+    ],
+    "followers": 2,
+    "following": 4,
+    "public_repos": 15,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 56,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "MeenakshiPramod/Game-Hub-Project": {
+            "link": "https://github.com/MeenakshiPramod/Game-Hub-Project",
+            "summary": "There have been multiple updates to the repository in October. New files were added via upload, existing files such as havefun.html and havefun.css were deleted, and the games directory was also deleted. Additionally, a README.md file was removed. There were updates to the cards.json file and the repository also received new game additions."
+        },
+        "MeenakshiPramod/Top-100-Coders": {
+            "link": "https://github.com/MeenakshiPramod/Top-100-Coders",
+            "summary": "A new file meenakshipramod@mulearn.md was created in November with profile information and then later updated."
+        },
+        "gtech-mulearn/Top-100-Coders": {
+            "link": "https://github.com/gtech-mulearn/Top-100-Coders",
+            "summary": "A pull request was made in November to update a profile meenakshipramod@mulearn, which included a completed template and additional information about the coder."
+        },
+        "GSSoC24/Postman-Challenge": {
+            "link": "https://github.com/GSSoC24/Postman-Challenge",
+            "summary": "A pull request was submitted in October with updates to add-your-certificate.md file, adding the contributor's name."
+        },
+        "MeenakshiPramod/Postman-Challenge": {
+            "link": "https://github.com/MeenakshiPramod/Postman-Challenge",
+            "summary": "The add-your-certificate.md file was updated in October adding the contributor's name."
+        }
+    },
+    "profile_summary": "meenakshipramod is a highly skilled and accomplished software developer with a proven track record of delivering innovative solutions using Python, Java, and HTML. With a strong foundation in programming languages and a keen eye for detail, meenakshipramod leverages their technical expertise to craft reliable, efficient, and scalable software applications that meet the ever-evolving needs of modern businesses. By staying up-to-date with the latest industry trends and advancements, meenakshipramod consistently demonstrates a commitment to excellence and a passion for using technology to drive positive change.\n\nAs an active and engaged member of the developer community, meenakshipramod has built a reputation for collaborating with others, sharing knowledge, and fostering growth. With a portfolio of 15 public repositories and a growing network of like-minded professionals, meenakshipramod is well-positioned to tackle complex projects and drive meaningful results. By combining technical acumen with a collaborative mindset, meenakshipramod delivers high-quality solutions that not only meet but exceed expectations, earning the respect and trust of colleagues, clients, and industry peers alike."
+}

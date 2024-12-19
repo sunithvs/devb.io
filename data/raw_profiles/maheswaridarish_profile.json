@@ -1,0 +1,111 @@
+{
+    "username": "maheswaridarish",
+    "name": "Maheswari Darish",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98375288?v=4",
+    "profile_url": "https://github.com/MaheswariDarish",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "localroots",
+            "description": null,
+            "score": 1.9088155405188179,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/MaheswariDarish/localroots",
+            "updatedAt": "2024-04-28T12:00:19Z"
+        },
+        {
+            "name": "cd",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/MaheswariDarish/cd",
+            "updatedAt": "2024-11-13T09:06:42Z"
+        },
+        {
+            "name": "streamlittrial",
+            "description": "made app to find largest of 3 nos",
+            "score": 0.27226252867810646,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/MaheswariDarish/streamlittrial",
+            "updatedAt": "2024-04-17T10:35:46Z"
+        },
+        {
+            "name": "fluttermp",
+            "description": null,
+            "score": 0.2620735034564844,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/MaheswariDarish/fluttermp",
+            "updatedAt": "2024-07-14T16:42:20Z"
+        },
+        {
+            "name": "MaheswariDarish",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2153308630160159,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MaheswariDarish/MaheswariDarish",
+            "updatedAt": "2024-10-28T10:04:24Z"
+        },
+        {
+            "name": "teamgdc",
+            "description": null,
+            "score": 0.15548880741175677,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MaheswariDarish/teamgdc",
+            "updatedAt": "2023-04-08T17:49:03Z"
+        },
+        {
+            "name": "MaheswariDarishknowme.github.io",
+            "description": null,
+            "score": 0.07177695433867197,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MaheswariDarish/MaheswariDarishknowme.github.io",
+            "updatedAt": "2022-01-25T10:13:48Z"
+        }
+    ],
+    "followers": 22,
+    "following": 21,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 81,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "MaheswariDarish/cd": {
+            "link": "https://github.com/MaheswariDarish/cd",
+            "summary": "Recent updates to the cd repository involved significant additions and modifications to parsing and lexical analysis scripts, including the development of recdescent.c, mindfa.c, and firstfollow.c. Additionally, the repository saw updates to various constructs such as while, do-while, if-else, and for loops, and other implementations including nfa to dfa and enfa to nfa."
+        }
+    },
+    "profile_summary": "Maheswari Darish is a highly skilled and accomplished developer with a strong foundation in multiple programming languages, including C, JavaScript, and Dart. As a versatile and innovative problem-solver, she has established herself as a reliable and efficient professional, capable of navigating complex projects and delivering high-quality results.\n\nWith a notable presence on GitHub, boasting 22 followers and 10 public repositories, Maheswari has demonstrated her technical expertise and commitment to collaborative development. By leveraging her extensive knowledge and passion for coding, she consistently delivers cutting-edge solutions that exceed expectations, solidifying her position as a valuable asset in the development community."
+}

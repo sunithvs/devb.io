@@ -1,0 +1,129 @@
+{
+    "username": "dhanay-j",
+    "name": "DHANAY J",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121504874?u=6a7d86d9a350ac06209e01ea5f112db5f1f3dba2&v=4",
+    "profile_url": "https://github.com/Dhanay-J",
+    "top_languages": [
+        [
+            "Python",
+            11
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Air-Hockey-Using-CV",
+            "description": "This repository contains the code for a computer vision-based air hockey game developed using OpenCV and Python. The game is designed to be played using a webcam or other camera device, with the computer vision algorithm tracking the movement of the puck and paddles.",
+            "score": 1.7141839277063955,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Dhanay-J/Air-Hockey-Using-CV",
+            "updatedAt": "2024-09-16T05:53:28Z"
+        },
+        {
+            "name": "test-repo",
+            "description": "For Understanding Git Workflow",
+            "score": 1.1940772594811995,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Dhanay-J/test-repo",
+            "updatedAt": "2023-03-10T10:28:39Z"
+        },
+        {
+            "name": "gRPC-Calculator",
+            "description": "Basic Calculator API in gRPC-python",
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Dhanay-J/gRPC-Calculator",
+            "updatedAt": "2024-12-12T15:58:22Z"
+        },
+        {
+            "name": "RM_BG_Script",
+            "description": "Helper Module to remove background from images using briaai/RMBG-2.0 for windows",
+            "score": 0.432808512266689,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Dhanay-J/RM_BG_Script",
+            "updatedAt": "2024-12-15T04:18:21Z"
+        },
+        {
+            "name": "PACMAN-AI-Micro-Project",
+            "description": "This project is a recreation of the classic Pac-Man game, built using Pygame, a popular library for developing 2D games in Python. The project was developed as part of an AI Micro Project, focusing on implementing game mechanics, pathfinding algorithms for ghost AI, and a smooth, user-friendly experience.",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Dhanay-J/PACMAN-AI-Micro-Project",
+            "updatedAt": "2024-09-20T08:50:52Z"
+        },
+        {
+            "name": "Py-Plat",
+            "description": "A Coding Platform For Python Learning",
+            "score": 0.3076798538720624,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Dhanay-J/Py-Plat",
+            "updatedAt": "2024-08-15T08:23:12Z"
+        },
+        {
+            "name": "Youtube2Mp3",
+            "description": "Simple GUI to Convert Youtube Video to MP3 Using pytube and ttkbootstrap",
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Dhanay-J/Youtube2Mp3",
+            "updatedAt": "2024-05-27T12:08:29Z"
+        },
+        {
+            "name": "DBMS-Micro-Project",
+            "description": null,
+            "score": 0.27147095749867983,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Dhanay-J/DBMS-Micro-Project",
+            "updatedAt": "2024-05-13T06:29:31Z"
+        }
+    ],
+    "followers": 13,
+    "following": 31,
+    "public_repos": 29,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 157,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Dhanay-J/RM_BG_Script": {
+            "link": "https://github.com/Dhanay-J/RM_BG_Script",
+            "summary": "A series of updates and improvements were made to the repository in December 2024. Changes included the addition of libmagic, modifications to the deployment and Python-publishing processes, and corrections to the download filename."
+        },
+        "Dhanay-J/SavR-Dhanay": {
+            "link": "https://github.com/Dhanay-J/SavR-Dhanay",
+            "summary": "October updates involved merging pull requests from the main branch and adding components such as ReceiverPage and SenderPage in October 2024. These changes enhanced the repository and refactored some of the existing components."
+        },
+        "Dhanay-J/gRPC-Calculator": {
+            "link": "https://github.com/Dhanay-J/gRPC-Calculator",
+            "summary": "The repository received minor updates in December 2024, focusing on basic file setup and initial setup for the gRPC calculator."
+        }
+    },
+    "profile_summary": "Dhanay J is a highly skilled software developer with a strong foundation in programming languages, including Python, C, and TypeScript. With a proven track record of delivering high-quality solutions, Dhanay has built a reputation as a reliable and innovative problem solver, leveraging their technical expertise to drive project success. As a seasoned developer, Dhanay has cultivated a comprehensive understanding of software development lifecycle, from design to deployment, enabling them to effectively navigate complex technical challenges and deliver results-driven solutions.\n\nWith a strong online presence and an active development portfolio of 29 public repositories, Dhanay has established a network of over 13 professional connections, showcasing their industry influence and commitment to ongoing learning. As a versatile and forward-thinking developer, Dhanay continues to advance their technical skills, staying at the forefront of industry trends and emerging technologies. This dedication to innovation, coupled with a passion for collaboration and knowledge sharing, drives Dhanay's success as a respected and accomplished developer in their field."
+}

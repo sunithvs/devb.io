@@ -1,0 +1,126 @@
+{
+    "username": "gobmj",
+    "name": "Govind M J",
+    "bio": "",
+    "location": "Bengaluru, Karnataka",
+    "avatar_url": "https://avatars.githubusercontent.com/u/79135241?u=6b2f97cf35093f4c7371a2d968098ebd1012ca2a&v=4",
+    "profile_url": "https://github.com/gobmj",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            9
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "my_api",
+            "description": null,
+            "score": 3.189316339900764,
+            "stars": 1,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/gobmj/my_api",
+            "updatedAt": "2023-10-01T16:18:28Z"
+        },
+        {
+            "name": "Data_Mining_Assignment",
+            "description": null,
+            "score": 2.2394421754805034,
+            "stars": 0,
+            "forks": 3,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/gobmj/Data_Mining_Assignment",
+            "updatedAt": "2023-10-01T16:10:10Z"
+        },
+        {
+            "name": "gcalendar_api_integration",
+            "description": "Django implementation for integrating Google Calendar API using OAuth2.",
+            "score": 2.236943212592647,
+            "stars": 0,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/gobmj/gcalendar_api_integration",
+            "updatedAt": "2023-10-01T16:29:22Z"
+        },
+        {
+            "name": "Student_Pass_Fail_Prediction",
+            "description": null,
+            "score": 1.808521357727963,
+            "stars": 0,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/gobmj/Student_Pass_Fail_Prediction",
+            "updatedAt": "2023-10-01T16:19:40Z"
+        },
+        {
+            "name": "Grocery_Store_Project",
+            "description": "Project done as part of Modern App Development - 1 of Diploma in Programming of IITM Online Course",
+            "score": 1.5486558666533927,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/gobmj/Grocery_Store_Project",
+            "updatedAt": "2023-11-09T06:21:59Z"
+        },
+        {
+            "name": "Latex_Practise",
+            "description": null,
+            "score": 1.5407978370617805,
+            "stars": 1,
+            "forks": 0,
+            "language": "TeX",
+            "url": "https://github.com/gobmj/Latex_Practise",
+            "updatedAt": "2023-03-17T20:11:29Z"
+        },
+        {
+            "name": "streamlit_deploy",
+            "description": null,
+            "score": 1.1094621000869724,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/gobmj/streamlit_deploy",
+            "updatedAt": "2021-05-31T15:42:47Z"
+        },
+        {
+            "name": "Caught-You",
+            "description": "Hobby",
+            "score": 0.32572086142743883,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gobmj/Caught-You",
+            "updatedAt": "2024-09-11T11:41:33Z"
+        }
+    ],
+    "followers": 10,
+    "following": 12,
+    "public_repos": 45,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 146,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/govindmj"
+        }
+    ],
+    "activity_summary": {
+        "ebytom/Warranty-Wallet-Backend": {
+            "link": "https://github.com/ebytom/Warranty-Wallet-Backend",
+            "summary": "Recent activities in Warranty-Wallet-Backend include schema changes, addition of new APIs, integrations with DocumentDB, and enhancements to routes and controllers, demonstrating ongoing efforts to refine and expand the project."
+        }
+    },
+    "profile_summary": "Govind M J is a highly skilled and accomplished software developer with a strong foundation in programming languages, including C, Python, and C++. With a significant presence on GitHub, boasting 10 followers and an impressive collection of 45 public repositories, Govind has established a reputation as a reliable and innovative professional in the tech community. This repository of work showcases a wide range of technical expertise and creative problem-solving skills, solidifying Govind's position as a competent and knowledgeable developer.\n\nAs a versatile and skilled programmer, Govind brings a unique blend of technical expertise and innovative thinking to the table, with a proven track record of successfully delivering high-quality projects. With expertise in multiple programming languages and a keen eye for detail, Govind is well-equipped to tackle even the most complex projects, making him an invaluable asset to any development team. With a strong online presence and an ever-growing portfolio of work, Govind continues to demonstrate his commitment to staying at the forefront of industry trends and best practices in software development."
+}

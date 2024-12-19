@@ -1,0 +1,142 @@
+{
+    "username": "irisxvii",
+    "name": "iris mariah kurien",
+    "bio": "autismn kainju winter ay guys",
+    "location": "trivandrum",
+    "avatar_url": "https://avatars.githubusercontent.com/u/140954119?u=638fa2d40c2b61b9c0886aeb19d18c057eaf1cec&v=4",
+    "profile_url": "https://github.com/irisxvii",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "makea-ton-SBL-Maps",
+            "description": "make-a-ton 7.0 plss\ud83d\ude2d\ud83d\ude2d twas bad.",
+            "score": 1.4046066928023149,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/makea-ton-SBL-Maps",
+            "updatedAt": "2024-11-16T05:10:21Z"
+        },
+        {
+            "name": "sinc.synk.sink.sync",
+            "description": "saturday-hack-night (next.js)",
+            "score": 1.3850401059218946,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/sinc.synk.sink.sync",
+            "updatedAt": "2024-11-15T13:25:45Z"
+        },
+        {
+            "name": "news-summarizer",
+            "description": "saturday-hack-night (selenium)",
+            "score": 1.3307968670580252,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/irisxvii/news-summarizer",
+            "updatedAt": "2024-11-15T13:35:38Z"
+        },
+        {
+            "name": "dragoon",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/irisxvii/dragoon",
+            "updatedAt": "2024-12-04T13:05:52Z"
+        },
+        {
+            "name": "slack-tiny",
+            "description": "messing around w slackbot",
+            "score": 0.4603915146452023,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/irisxvii/slack-tiny",
+            "updatedAt": "2024-12-01T07:55:17Z"
+        },
+        {
+            "name": "starter-showdown",
+            "description": "\u03de(\u0e51\u2688 \u2024\u032b \u2688\u0e51)\u2229",
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/starter-showdown",
+            "updatedAt": "2024-11-23T14:15:48Z"
+        },
+        {
+            "name": "dsalab-causewhynot",
+            "description": "LINKED LIST IS SO HARD WTF",
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/irisxvii/dsalab-causewhynot",
+            "updatedAt": "2024-11-20T16:32:44Z"
+        },
+        {
+            "name": "eye.balls",
+            "description": "this was fun",
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/irisxvii/eye.balls",
+            "updatedAt": "2024-11-30T17:14:39Z"
+        }
+    ],
+    "followers": 24,
+    "following": 46,
+    "public_repos": 28,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 332,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/iris-kurien"
+        }
+    ],
+    "activity_summary": {
+        "irisxvii/slack-tiny": {
+            "link": "https://github.com/irisxvii/slack-tiny",
+            "summary": "The Slack Tiny bot has seen significant updates, including the addition of new commands, a welcome message to test channels, and a fix for posting messages to Slack. The README file has also been updated to reflect these changes and improved documentation. "
+        },
+        "irisxvii/starter-showdown": {
+            "link": "https://github.com/irisxvii/starter-showdown",
+            "summary": "The repository features numerous updates to the README file, as well as addition of a new pokeball documentation. This suggests improved documentation and presentation."
+        },
+        "irisxvii/dragoon": {
+            "link": "https://github.com/irisxvii/dragoon",
+            "summary": "The Dragoon repository has been significantly cleaned up and features setup for basic functionality. This indicates organization and groundwork for further development."
+        },
+        "irisxvii/PipChimTurt": {
+            "link": "https://github.com/irisxvii/PipChimTurt",
+            "summary": "The repository has seen a final commit, suggesting that the project is nearing completion or has already been concluded."
+        },
+        "irisxvii/irisxvii": {
+            "link": "https://github.com/irisxvii/irisxvii",
+            "summary": "The irisxvii repository has seen updates to the README file. This indicates maintenance and possible personal project organization."
+        }
+    },
+    "profile_summary": "Iris Mariah Kurien is a highly skilled and accomplished software developer with a strong proficiency in programming languages such as Python, C, and C++. With a portfolio of 28 public repositories, Iris consistently demonstrates exceptional coding skills, resulting in a loyal following of 24 peers who value her expertise and insights. As a visionary developer, Iris effectively leverages her technical acumen to craft innovative solutions that drive results and exceed expectations.\n\nIris brings a unique perspective and approach to software development, underpinned by a passion for cutting-edge technology and a talent for delivering high-quality code. Her dedication to her craft is reflected in her consistent output of thoughtfully designed and meticulously executed projects, earning her recognition and respect within the development community. With a keen eye for detail and a passion for innovation, Iris Mariah Kurien is a valuable asset to any project or team seeking technical expertise and creative problem-solving."
+}

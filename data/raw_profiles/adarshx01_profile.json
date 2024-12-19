@@ -1,0 +1,138 @@
+{
+    "username": "adarshx01",
+    "name": "Adarsh Vishwakarma",
+    "bio": "Web Dev | Web-Scraping | Deep Learning | Computer Vision | Hacking devices |",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/119555180?u=b64bba8400ec8335a5a2f3491f595dc1cd96a3a9&v=4",
+    "profile_url": "https://github.com/adarshx01",
+    "top_languages": [
+        [
+            "TypeScript",
+            12
+        ],
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Portfolio",
+            "description": "A simple portfolio page built using Aeternity, Shadcn, and Tailwind CSS, fetching data from a Neon database connected via Prisma ORM. It includes an admin page for managing content.",
+            "score": 2.756172005305047,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/Portfolio",
+            "updatedAt": "2024-11-19T20:38:44Z"
+        },
+        {
+            "name": "uzbpass1",
+            "description": null,
+            "score": 1.9532523176101115,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/uzbpass1",
+            "updatedAt": "2024-08-27T17:01:27Z"
+        },
+        {
+            "name": "Res-QReady",
+            "description": null,
+            "score": 1.3115853482359698,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/adarshx01/Res-QReady",
+            "updatedAt": "2024-04-18T03:53:57Z"
+        },
+        {
+            "name": "comingsoon",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/comingsoon",
+            "updatedAt": "2024-12-08T19:56:18Z"
+        },
+        {
+            "name": "infybroker",
+            "description": " a broker app with infinite time duration",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adarshx01/infybroker",
+            "updatedAt": "2024-11-20T21:28:32Z"
+        },
+        {
+            "name": "ICUbedmonitoring",
+            "description": null,
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/ICUbedmonitoring",
+            "updatedAt": "2024-12-05T17:29:03Z"
+        },
+        {
+            "name": "Imagenpix",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/Imagenpix",
+            "updatedAt": "2024-11-20T08:40:14Z"
+        },
+        {
+            "name": "CriticalLinkCo",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/CriticalLinkCo",
+            "updatedAt": "2024-10-20T05:28:02Z"
+        }
+    ],
+    "followers": 71,
+    "following": 73,
+    "public_repos": 71,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 353,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.techorb.in"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.pexels.com/@adarshvishwakarma"
+        }
+    ],
+    "activity_summary": {
+        "adarshx01/comingsoon": {
+            "link": "https://github.com/adarshx01/comingsoon",
+            "summary": "The ComingSoon repository has seen significant activity with multiple push events, primarily focusing on iterative changes including text modifications, bug fixes, removal of current issues, and testing. The updates demonstrate an active development process with incremental improvements and adjustments."
+        },
+        "adarshx01/ICUbedmonitoring": {
+            "link": "https://github.com/adarshx01/ICUbedmonitoring",
+            "summary": "The ICUbedmonitoring repository has experienced updates with push events focused on adding links and refining the README file. These changes suggest an effort to enhance the repository's documentation and improve overall usability."
+        },
+        "adarshx01/caskin": {
+            "link": "https://github.com/adarshx01/caskin",
+            "summary": "The Caskin repository has undergone updates with a push event focusing on modifying the utils.ts file. This activity indicates ongoing development and maintenance efforts, ensuring the repository remains up-to-date and optimized."
+        }
+    },
+    "profile_summary": "Adarsh Vishwakarma is a highly skilled and accomplished web developer with a strong background in TypeScript, JavaScript, and Python. As an active and influential member of the developer community, he maintains a network of 71 professional connections and has publicly contributed to 71 projects, showcasing his expertise in web development, web scraping, deep learning, and computer vision. Throughout his career, he has consistently demonstrated an extraordinary ability to create innovative and reliable solutions, making him an invaluable asset to his peers and collaborators.\n\nWith an impressive range of technical skills and expertise, Adarsh has successfully applied his knowledge of web development, deep learning, and computer vision to build and maintain complex systems, leveraging his proficiency in web scraping to extract valuable insights and data. By staying at the forefront of industry trends and technologies, he embodies the cutting-edge innovative spirit of a modern developer, leveraging his extensive knowledge to drive meaningful results and contribute to the growth and evolution of the developer community."
+}

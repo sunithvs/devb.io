@@ -1,0 +1,125 @@
+{
+    "username": "pavan-1802",
+    "name": "pavan-1802",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/119658149?u=3bd9a758d59b2cb7da824ec8df318e0f5f7343c4&v=4",
+    "profile_url": "https://github.com/Pavan-1802",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "book-store-backend",
+            "description": null,
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pavan-1802/book-store-backend",
+            "updatedAt": "2024-07-18T11:06:58Z"
+        },
+        {
+            "name": "event-app-backend",
+            "description": null,
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pavan-1802/event-app-backend",
+            "updatedAt": "2024-07-21T12:15:15Z"
+        },
+        {
+            "name": "lp24-newsletter",
+            "description": null,
+            "score": 0.2825780622809137,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Pavan-1802/lp24-newsletter",
+            "updatedAt": "2024-05-31T16:41:21Z"
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Pavan-1802/skills-communicate-using-markdown",
+            "updatedAt": "2024-05-22T14:23:34Z"
+        },
+        {
+            "name": "skills-introduction-to-github",
+            "description": "My clone repository",
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Pavan-1802/skills-introduction-to-github",
+            "updatedAt": "2024-05-22T14:31:01Z"
+        },
+        {
+            "name": "event-app",
+            "description": null,
+            "score": 0.2765002433508858,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pavan-1802/event-app",
+            "updatedAt": "2024-05-10T08:54:56Z"
+        },
+        {
+            "name": "Python",
+            "description": null,
+            "score": 0.2701262231536975,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Pavan-1802/Python",
+            "updatedAt": "2024-04-05T16:55:41Z"
+        },
+        {
+            "name": "internship",
+            "description": null,
+            "score": 0.15698831154452283,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Pavan-1802/internship",
+            "updatedAt": "2023-05-15T15:10:34Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 20,
+    "pull_requests_merged": 14,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 28,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Pavan-1802/intellivolve": {
+            "link": "https://github.com/Pavan-1802/intellivolve",
+            "summary": "Recent updates involve enhancements to layout, styling and scoring logic. A hostinger error was resolved, and configurations for Vite were updated. Styling adjustments were made for better usability and compatibility, including adapting to white backgrounds and adjusting viewport issues. Images were optimized and micro-interactions for closing modals were introduced. The application has reached completion with these updates."
+        },
+        "pavan-normality/sample": {
+            "link": "https://github.com/pavan-normality/sample",
+            "summary": "The repository had its first commit reverted. A second commit was also made following the revert action, indicating active maintenance and experimentation in the project."
+        }
+    },
+    "profile_summary": "Pavan-1802 is a highly skilled and innovative software developer, possessing a strong foundation in TypeScript, JavaScript, and Python. With a proven track record of delivering high-quality solutions, he has established himself as a reliable and efficient coding expert. His extensive experience in developing multiple projects has allowed him to hone his skills in various programming languages and technologies. A developer with a keen eye for detail, Pavan-1802 consistently produces well-documented and maintainable code that adheres to industry standards.\n\nAs a dedicated and passionate developer, Pavan-1802 continuously expands his technical knowledge base by exploring new trends and technologies. With a growing professional network of peers and a portfolio of over 20 public repositories, he demonstrates his commitment to collaboration and open-source software development. Pavan-1802's expertise in software development, combined with his problem-solving skills and collaborative mindset, make him an invaluable asset to any project or organization seeking to drive innovation and technical excellence."
+}

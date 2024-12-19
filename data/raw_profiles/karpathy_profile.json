@@ -1,0 +1,125 @@
+{
+    "username": "karpathy",
+    "name": "Andrej",
+    "bio": "I like to train Deep Neural Nets on large datasets.",
+    "location": "Stanford",
+    "avatar_url": "https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4",
+    "profile_url": "https://github.com/karpathy",
+    "top_languages": [
+        [
+            "Python",
+            19
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "score": 34.38623008482739,
+            "stars": 37967,
+            "forks": 6080,
+            "language": "Python",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "updatedAt": "2024-12-19T14:30:39Z"
+        },
+        {
+            "name": "llm.c",
+            "description": "LLM training in simple, raw C/CUDA",
+            "score": 32.413484837539556,
+            "stars": 24760,
+            "forks": 2804,
+            "language": "Cuda",
+            "url": "https://github.com/karpathy/llm.c",
+            "updatedAt": "2024-12-19T13:55:38Z"
+        },
+        {
+            "name": "minGPT",
+            "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+            "score": 31.844222439131638,
+            "stars": 20539,
+            "forks": 2574,
+            "language": "Python",
+            "url": "https://github.com/karpathy/minGPT",
+            "updatedAt": "2024-12-19T14:55:45Z"
+        },
+        {
+            "name": "llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "score": 31.27129896035229,
+            "stars": 17608,
+            "forks": 2105,
+            "language": "C",
+            "url": "https://github.com/karpathy/llama2.c",
+            "updatedAt": "2024-12-19T07:16:14Z"
+        },
+        {
+            "name": "char-rnn",
+            "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+            "score": 30.707047696187885,
+            "stars": 11672,
+            "forks": 2596,
+            "language": "Lua",
+            "url": "https://github.com/karpathy/char-rnn",
+            "updatedAt": "2024-12-18T14:43:36Z"
+        },
+        {
+            "name": "convnetjs",
+            "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+            "score": 30.20327829130253,
+            "stars": 10902,
+            "forks": 2036,
+            "language": "JavaScript",
+            "url": "https://github.com/karpathy/convnetjs",
+            "updatedAt": "2024-12-19T10:16:37Z"
+        },
+        {
+            "name": "nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "score": 30.106327890034223,
+            "stars": 12269,
+            "forks": 1585,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "updatedAt": "2024-12-19T15:01:23Z"
+        },
+        {
+            "name": "micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "score": 29.773276951101007,
+            "stars": 10713,
+            "forks": 1543,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/karpathy/micrograd",
+            "updatedAt": "2024-12-19T11:12:05Z"
+        }
+    ],
+    "followers": 93643,
+    "following": 8,
+    "public_repos": 59,
+    "pull_requests_merged": 63,
+    "issues_closed": 25,
+    "achievements": {
+        "total_contributions": 1257,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "karpathy/llm.c": {
+            "link": "https://github.com/karpathy/llm.c",
+            "summary": "Recent activities in this repository involve various bug fixes and updates to CUDA kernels. A significant PR added a backward kernel for repkv on the llama3 branch, which demonstrated improved performance on an A30 GPU. Updates to the fused RMSNorm forward pass and RMSNorm backward kernels in CUDA also improved performance and are likely to be integrated. Meanwhile, new kernels for the swigul and RoPE forward passes have been implemented in CUDA. Notable improvements include better RMSNorm implementation and updates to Llama3's backward kernels."
+        },
+        "karpathy/nanoGPT": {
+            "link": "https://github.com/karpathy/nanoGPT",
+            "summary": "Recent activities in nanoGPT have addressed the issue of zero learning rate at iteration 0 during warmup, ensuring a non-zero learning rate. This update allows for a more linear scaling of the learning rate throughout the warmup phase. Additionally, the issue has been thoroughly tested and verified using various iteration values, confirming that the changes have resolved the zero learning rate issue without disrupting the learning rate behavior."
+        }
+    },
+    "profile_summary": "Andrej is a highly skilled and accomplished software developer with a strong background in programming languages such as Python, C, and C++. As a seasoned professional with a large following of 93,643 developers, Andrej has established himself as a thought leader and innovator in the tech community. His extensive experience in developing large-scale applications and training deep neural networks on extensive datasets showcases his expertise in machine learning and artificial intelligence.\n\nWith a diverse portfolio of 59 public repositories, Andrej consistently demonstrates his ability to deliver high-quality, efficient, and scalable solutions. His strong technical foundation, combined with a passion for innovation and improvement, makes him a valuable asset to any project or team. Whether working on complex algorithms or developing cutting-edge AI models, Andrej's dedication to staying at the forefront of technology ensures that his skills remain highly relevant and in-demand."
+}

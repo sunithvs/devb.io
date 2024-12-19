@@ -1,0 +1,125 @@
+{
+    "username": "niyashiyas",
+    "name": "Niya Shiyas",
+    "bio": "GHC'23 | Full Stack Web Developer | Web Lead @ FOSS MEC | Tech Lead @ TinkerHub MEC |  MEC'25",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98641481?u=7fcf3dbebdbc93e00826ee7a0b6bc6ee7d9826fc&v=4",
+    "profile_url": "https://github.com/niyashiyas",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Phish-Pod",
+            "description": "An application to combat cybercrime by verifying the authenticity of messages and detecting malicious SMS ",
+            "score": 5.021445915488174,
+            "stars": 4,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/niyashiyas/Phish-Pod",
+            "updatedAt": "2023-05-17T17:58:46Z"
+        },
+        {
+            "name": "Launch-2024",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/niyashiyas/Launch-2024",
+            "updatedAt": "2024-12-12T03:18:56Z"
+        },
+        {
+            "name": "Networking-Lab-S6",
+            "description": "Computer Networks Lab",
+            "score": 0.2753942218332271,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/niyashiyas/Networking-Lab-S6",
+            "updatedAt": "2024-12-12T05:20:50Z"
+        },
+        {
+            "name": "Layatharang-2024",
+            "description": "MEC Arts and Sports Fest Website - Layatharang 2024",
+            "score": 0.271081586260241,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/niyashiyas/Layatharang-2024",
+            "updatedAt": "2024-12-12T04:01:55Z"
+        },
+        {
+            "name": "Ledger-AI",
+            "description": "Automate and Simplify Accounting for B2B Businesses using AI",
+            "score": 0.26298338105721913,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/niyashiyas/Ledger-AI",
+            "updatedAt": "2024-12-12T03:58:09Z"
+        },
+        {
+            "name": "Easy-Access",
+            "description": "Easy Access To Code Snippets",
+            "score": 0.2619241974141833,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/niyashiyas/Easy-Access",
+            "updatedAt": "2024-12-12T04:03:07Z"
+        },
+        {
+            "name": "NextJS-Basics",
+            "description": null,
+            "score": 0.26177554611825465,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/niyashiyas/NextJS-Basics",
+            "updatedAt": "2024-12-12T05:30:00Z"
+        },
+        {
+            "name": "Hacktoberfest-Tutorial",
+            "description": "To Promote HacktoberFest Contributions by FOSS MEC",
+            "score": 0.2474652579507698,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/niyashiyas/Hacktoberfest-Tutorial",
+            "updatedAt": "2024-12-12T04:45:40Z"
+        }
+    ],
+    "followers": 52,
+    "following": 47,
+    "public_repos": 49,
+    "pull_requests_merged": 38,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 508,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "HFT-24": {
+            "link": "https://github.com/Excel2024Web/HFT-24",
+            "summary": "The HFT-24 repository has seen recent activities with a merge from Diyashibu/main that added a Carestack sponsor. This push event occurred on December 14, 2024, indicating ongoing development and contributor engagement within the repository."
+        },
+        "Excel-Accounts-Auth": {
+            "link": "https://github.com/excelmec/Excel-Accounts-Auth",
+            "summary": "The Excel-Accounts-Auth repository received an update in October 2024, transitioning from a 2023 site version to 2024. This update showcases maintenance and attention to the repository's codebase to ensure compatibility and relevance in current environments."
+        }
+    },
+    "profile_summary": "Niya Shiyas is a highly skilled full-stack web developer driven by a passion for innovation and technical excellence. With a strong foundation in C, JavaScript, and TypeScript, Niya has built a reputation for delivering high-quality solutions that meet the evolving needs of the tech industry. As a seasoned developer with extensive experience in leading web development teams, Niya has successfully spearheaded multiple projects, fostering a culture of collaboration and best practices within the tech community.\n\nAs an influential figure in the tech landscape, Niya has cultivated a strong network of peers and enthusiasts, with over 52 followers and 49 public repositories showcasing a proactive approach to knowledge sharing and continuous learning. Notably, Niya has held key leadership positions, including Web Lead at FOSS MEC and Tech Lead at TinkerHub MEC, demonstrating expertise and commitment to community-driven initiatives. With a solid track record of achievements and a forward-thinking approach, Niya continues to be a valuable contributor to the tech community, driving cutting-edge solutions and inspiring others to excel in the field."
+}

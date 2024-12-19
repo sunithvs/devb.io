@@ -1,0 +1,121 @@
+{
+    "username": "midhunvnadh",
+    "name": "Midhun V Nadh",
+    "bio": "Designer & Programmer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/32438353?u=521f8e867b3403d62c6592cf26cafd5e74f827b3&v=4",
+    "profile_url": "https://github.com/midhunvnadh",
+    "top_languages": [
+        [
+            "Python",
+            11
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "JavaScript",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "honeygain-lucky-jar-bot",
+            "description": "Dockerized honeygain luckyjar bot",
+            "score": 8.724951738497516,
+            "stars": 12,
+            "forks": 9,
+            "language": "Python",
+            "url": "https://github.com/midhunvnadh/honeygain-lucky-jar-bot",
+            "updatedAt": "2023-11-15T18:55:31Z"
+        },
+        {
+            "name": "Open-Proxy-Project",
+            "description": "Web App with all proxies updated regularly!",
+            "score": 6.329853385643993,
+            "stars": 21,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/midhunvnadh/Open-Proxy-Project",
+            "updatedAt": "2023-02-07T15:02:45Z"
+        },
+        {
+            "name": "samyoga",
+            "description": null,
+            "score": 2.9267994008149865,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/midhunvnadh/samyoga",
+            "updatedAt": "2023-12-04T09:15:19Z"
+        },
+        {
+            "name": "sc_chat",
+            "description": null,
+            "score": 2.5887138677543935,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunvnadh/sc_chat",
+            "updatedAt": "2023-09-17T03:45:54Z"
+        },
+        {
+            "name": "Barcode-Search",
+            "description": "Gathers information from multiple sources to find information on any barcode number",
+            "score": 1.5531984614675576,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/midhunvnadh/Barcode-Search",
+            "updatedAt": "2023-11-17T16:11:47Z"
+        },
+        {
+            "name": "rpi-shop",
+            "description": null,
+            "score": 1.5411705690913187,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/midhunvnadh/rpi-shop",
+            "updatedAt": "2023-06-01T17:36:11Z"
+        },
+        {
+            "name": "single_sensor_auto_water_pump",
+            "description": null,
+            "score": 1.5391417872970958,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/midhunvnadh/single_sensor_auto_water_pump",
+            "updatedAt": "2023-01-26T15:29:14Z"
+        },
+        {
+            "name": "insta_reuploader",
+            "description": "WIP please wait.. I'll give the full docs",
+            "score": 1.4586558448979305,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/midhunvnadh/insta_reuploader",
+            "updatedAt": "2022-03-28T11:59:14Z"
+        }
+    ],
+    "followers": 20,
+    "following": 18,
+    "public_repos": 64,
+    "pull_requests_merged": 3,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 285,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "OpenProxy": {
+            "link": "https://github.com/redsoc-io/OpenProxy",
+            "summary": "Recent activities include significant updates, optimizations, and rate limit adjustments. These updates address various aspects of the repository, including UI changes, streak counter implementation, and algorithm improvements. The enhancements cover a range of areas, such as the addition of a daemon, UI changes, and pre-generation of data. Continuous updates and maintenance have been performed to maintain the quality and stability of the repository."
+        }
+    },
+    "profile_summary": "Midhun V Nadh is a highly skilled designer and programmer with a strong background in multiple programming languages, including Python, C++, and JavaScript. With a professional network of over 20 influential connections and an impressive portfolio of 64 public repositories, he has established himself as a highly proficient developer and collaborator in the tech community. His expertise spans a range of technical areas, from software development to system architecture, and his passion for innovation drives his pursuit of delivering high-quality solutions.\n\nAs a seasoned designer and programmer, Midhun brings a unique combination of technical expertise, creative vision, and collaborative spirit to his work. With a proven track record of delivering successful projects and contributing to open-source initiatives, he has earned recognition as a reliable and innovative problem solver in the tech industry. By staying at the forefront of industry trends and best practices, Midhun continues to push the boundaries of what is possible and deliver cutting-edge solutions that meet the evolving needs of his clients and partners."
+}

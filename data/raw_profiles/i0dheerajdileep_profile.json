@@ -1,0 +1,130 @@
+{
+    "username": "i0dheerajdileep",
+    "name": "Dheeraj dileep",
+    "bio": "That Indian guy every MNC needs",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94816195?u=508f8799299c66926709c1e7203f2e330abfada4&v=4",
+    "profile_url": "https://github.com/i0dheerajdileep",
+    "top_languages": [
+        [
+            "JavaScript",
+            23
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "job-searching-page",
+            "description": null,
+            "score": 2.272438692665152,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/i0dheerajdileep/job-searching-page",
+            "updatedAt": "2022-12-11T08:52:11Z"
+        },
+        {
+            "name": "executo.Ai",
+            "description": null,
+            "score": 2.235563997975084,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/i0dheerajdileep/executo.Ai",
+            "updatedAt": "2023-04-25T06:23:43Z"
+        },
+        {
+            "name": "frappe-lib-mngmt",
+            "description": null,
+            "score": 1.6426081173824396,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/i0dheerajdileep/frappe-lib-mngmt",
+            "updatedAt": "2024-01-07T00:22:26Z"
+        },
+        {
+            "name": "Emotion-Recognition-from-Facial-Expressions",
+            "description": null,
+            "score": 1.20276252893058,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/i0dheerajdileep/Emotion-Recognition-from-Facial-Expressions",
+            "updatedAt": "2023-09-16T10:49:06Z"
+        },
+        {
+            "name": "Fictional-portfolio",
+            "description": "Mavelikkoru portfolio competition",
+            "score": 1.1141097505382556,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/i0dheerajdileep/Fictional-portfolio",
+            "updatedAt": "2022-09-12T12:48:48Z"
+        },
+        {
+            "name": "requex",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/i0dheerajdileep/requex",
+            "updatedAt": "2024-10-25T05:42:33Z"
+        },
+        {
+            "name": "helpmedecide",
+            "description": null,
+            "score": 0.3076798538720624,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/i0dheerajdileep/helpmedecide",
+            "updatedAt": "2024-08-21T20:30:34Z"
+        },
+        {
+            "name": "cooking-docker",
+            "description": "Dockerising a python application",
+            "score": 0.2724631550724521,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/i0dheerajdileep/cooking-docker",
+            "updatedAt": "2024-04-17T17:33:52Z"
+        }
+    ],
+    "followers": 41,
+    "following": 84,
+    "public_repos": 89,
+    "pull_requests_merged": 20,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 784,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dheerajdileep"
+        }
+    ],
+    "activity_summary": {
+        "AB7zz/chatwithnosql": {
+            "link": "https://github.com/AB7zz/chatwithnosql",
+            "summary": "Recent activities have seen improvements and bug fixes, including features for batching, data lakes, and the initialization of a Flask server for the chat application. Additionally, there were commits to support embedding, appending text, and extracting image and PDF text."
+        },
+        "tanuushree/Aether-Unfold24": {
+            "link": "https://github.com/tanuushree/Aether-Unfold24",
+            "summary": "The repository has recently seen updates with features for an Okta authentication system and a stepper form UI. These improvements enhance the overall user experience and add more functionality to the application."
+        }
+    },
+    "profile_summary": "Dheeraj dileep is a highly skilled and accomplished developer with extensive expertise in JavaScript, TypeScript, and C++. With a strong reputation as a technically astute and innovative problem solver, he brings a wealth of knowledge and experience to the table. As a seasoned professional, Dheeraj has established himself as a trusted and sought-after expert in his field, with a network of over 41 influential peers and a portfolio of 89 publicly accessible repositories that demonstrate his exceptional coding abilities and active development efforts.\n\nAs a high-performing developer, Dheeraj combines technical proficiency with a passion for innovation and a unique understanding of the needs of leading multinational corporations. With a keen eye for detail and a talent for crafting elegant, efficient solutions, he consistently delivers high-quality results that exceed expectations. Whether leading complex projects or collaborating as part of a team, Dheeraj brings a level of technical expertise, professionalism, and dedication that sets him apart in the fast-paced world of software development."
+}

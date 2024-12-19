@@ -1,0 +1,90 @@
+{
+    "username": "anon-artist",
+    "name": "Abhiram V",
+    "bio": "Security Enthusiast",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/61599526?u=21a4d2c505f8e3ea3a4088132317c021d9b24ac9&v=4",
+    "profile_url": "https://github.com/Anon-Artist",
+    "top_languages": [
+        [
+            "PHP",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "R3C0Nizer",
+            "description": "R3C0Nizer is the first ever CLI based menu-driven web application B-Tier recon framework.",
+            "score": 16.001155766932495,
+            "stars": 149,
+            "forks": 46,
+            "language": "Shell",
+            "url": "https://github.com/Anon-Artist/R3C0Nizer",
+            "updatedAt": "2024-11-28T17:40:47Z"
+        },
+        {
+            "name": "100-days-of-OffSec",
+            "description": "Hi everyone,",
+            "score": 11.848077254032308,
+            "stars": 58,
+            "forks": 9,
+            "language": null,
+            "url": "https://github.com/Anon-Artist/100-days-of-OffSec",
+            "updatedAt": "2024-10-03T05:17:26Z"
+        },
+        {
+            "name": "anon-artist.github.io",
+            "description": null,
+            "score": 2.264534428271691,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anon-Artist/anon-artist.github.io",
+            "updatedAt": "2022-03-13T18:27:33Z"
+        },
+        {
+            "name": "Code-Review-Labs",
+            "description": "Labs based on Source Code Review",
+            "score": 1.5251319341661842,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/Anon-Artist/Code-Review-Labs",
+            "updatedAt": "2023-07-17T20:12:16Z"
+        },
+        {
+            "name": "Anon-Artist",
+            "description": null,
+            "score": 0.06879920888689894,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Anon-Artist/Anon-Artist",
+            "updatedAt": "2021-09-03T15:57:51Z"
+        }
+    ],
+    "followers": 78,
+    "following": 28,
+    "public_repos": 63,
+    "pull_requests_merged": 98,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AnonArtist8"
+        }
+    ],
+    "profile_summary": "Abhiram V is a highly skilled developer with a strong proficiency in PHP, shell scripting, and HTML, driving innovative solutions in the web development domain. As a security enthusiast with a keen eye for detail, he bring a unique value proposition to his work, consistently delivering high-quality results that address the most pressing security concerns. With a robust network of 78 fellow professionals, Abhiram's influence and expertise have earned him widespread recognition and respect.\n\nLeveraging his extensive technical expertise and active engagement in the open-source community, Abhiram V has built a reputation for reliability and technical prowess. With a portfolio of 63 public repositories, showcasing his diverse range of projects and expertise, he has solidified his position as a go-to developer for innovative, secure, and scalable solutions. His focus on security and dedication to delivering exceptional results have made him an invaluable asset to his network and clients alike, solidifying his reputation as a top performer in the industry."
+}

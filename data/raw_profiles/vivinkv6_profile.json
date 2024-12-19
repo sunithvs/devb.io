@@ -1,0 +1,146 @@
+{
+    "username": "vivinkv6",
+    "name": "VIVIN KV",
+    "bio": " MERN Developer |  Next JS  |  React Native",
+    "location": "Kochi, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/102971812?u=b5fae14509810fbdbfb863f8de41d6fae55815b5&v=4",
+    "profile_url": "https://github.com/vivinkv6",
+    "top_languages": [
+        [
+            "TypeScript",
+            15
+        ],
+        [
+            "JavaScript",
+            29
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "openai-projects",
+            "description": "Projects build using Openai API",
+            "score": 5.358918560260416,
+            "stars": 12,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vivinkv6/openai-projects",
+            "updatedAt": "2024-11-14T01:10:19Z"
+        },
+        {
+            "name": "working-calculator",
+            "description": "JavaScript, HTML, CSS",
+            "score": 3.9954542365860704,
+            "stars": 2,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/vivinkv6/working-calculator",
+            "updatedAt": "2023-04-29T15:16:33Z"
+        },
+        {
+            "name": "tech-connect-hub",
+            "description": "College project",
+            "score": 3.4717311861357754,
+            "stars": 4,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/vivinkv6/tech-connect-hub",
+            "updatedAt": "2024-07-17T16:46:19Z"
+        },
+        {
+            "name": "book-review-frontend",
+            "description": "React JS",
+            "score": 3.4452322288617143,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vivinkv6/book-review-frontend",
+            "updatedAt": "2024-09-21T02:21:00Z"
+        },
+        {
+            "name": "dataStructure",
+            "description": "JavaScript",
+            "score": 3.367814550142651,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vivinkv6/dataStructure",
+            "updatedAt": "2023-01-14T04:18:34Z"
+        },
+        {
+            "name": "qrcode-generator",
+            "description": "React JS",
+            "score": 3.3674945193307497,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vivinkv6/qrcode-generator",
+            "updatedAt": "2023-01-14T04:18:42Z"
+        },
+        {
+            "name": "Private-Contact",
+            "description": "React JS",
+            "score": 3.3650173250302355,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vivinkv6/Private-Contact",
+            "updatedAt": "2023-01-14T04:18:57Z"
+        },
+        {
+            "name": "github-clone",
+            "description": "React Native",
+            "score": 3.0506946884210073,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vivinkv6/github-clone",
+            "updatedAt": "2024-06-14T12:21:56Z"
+        }
+    ],
+    "followers": 12,
+    "following": 7,
+    "public_repos": 68,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 336,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://in.linkedin.com/in/vivin-k-v-8816ba291"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/vivin_k.v_2002/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.hackerrank.com/vivinkv0"
+        }
+    ],
+    "activity_summary": {
+        "vivinkv6/portfolio": {
+            "link": "https://github.com/vivinkv6/portfolio",
+            "summary": "Recent updates to vivinkv6's portfolio include enhancements to content structure, improvements to SEO optimization with updated canonical URLs, revised sitemap, and refinements to page rendering. Additionally, updates to blog details and lazy loading mechanisms have been implemented."
+        },
+        "vivinkv6/movie-dashboard": {
+            "link": "https://github.com/vivinkv6/movie-dashboard",
+            "summary": "The movie-dashboard repository received updates focused on performance optimization, with a particular emphasis on optimizing page efficiency. Additional refinements were made to the repository."
+        },
+        "vivinkv6/vivinkv6": {
+            "link": "https://github.com/vivinkv6/vivinkv6",
+            "summary": "A minor update was made to the README.md file in the vivinkv6 repository, indicating a periodic maintenance and refinement of documentation."
+        },
+        "vivinkv6/blog-backend": {
+            "link": "https://github.com/vivinkv6/blog-backend",
+            "summary": "The blog-backend repository underwent a recent update, although specific details of the change were not provided in the push event message."
+        }
+    },
+    "profile_summary": "VIVIN KV is a highly accomplished MERN developer and technology expert with extensive experience in designing, developing, and deploying scalable web and mobile applications. Leveraging a strong foundation in TypeScript, JavaScript, and C++, VIVIN brings a unique combination of technical expertise and innovative problem-solving skills to deliver high-quality solutions. As a seasoned professional with a proven track record of successfully managing large-scale projects, VIVIN is well-equipped to tackle complex technical challenges and drive project success.\n\nWith a strong portfolio of 68 public repositories and a growing network of 12 professional followers, VIVIN has established a reputation as a trusted and reliable developer in the tech community. Specializing in Next JS and React Native, VIVIN stays up-to-date with the latest industry trends and advancements, ensuring that clients receive cutting-edge solutions that meet their evolving needs. By collaborating with VIVIN, clients can expect exceptional technical expertise, unparalleled professionalism, and a commitment to delivering exceptional results that exceed expectations."
+}

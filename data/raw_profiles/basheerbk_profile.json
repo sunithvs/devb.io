@@ -1,0 +1,130 @@
+{
+    "username": "basheerbk",
+    "name": "Muhammad Basheer ",
+    "bio": "Coder & Solder\r\n",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49371247?u=18b689e75b992b8a2cbd1ecb41eaca3eff51c182&v=4",
+    "profile_url": "https://github.com/basheerbk",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "VyuhBot",
+            "description": "Vyuhbot is a low cost quadbot with a  esp 32 microcontroller.",
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/basheerbk/VyuhBot",
+            "updatedAt": "2024-11-07T08:22:38Z"
+        },
+        {
+            "name": "Stayco",
+            "description": null,
+            "score": 0.24784829802277708,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/basheerbk/Stayco",
+            "updatedAt": "2023-12-30T10:43:08Z"
+        },
+        {
+            "name": "Kerala-IoT-Challenge",
+            "description": "Basic IoT projects",
+            "score": 0.21276225990222286,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/basheerbk/Kerala-IoT-Challenge",
+            "updatedAt": "2024-09-03T10:31:55Z"
+        },
+        {
+            "name": "Esp32-BT_android-app",
+            "description": null,
+            "score": 0.07392201475324447,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/basheerbk/Esp32-BT_android-app",
+            "updatedAt": "2022-08-06T18:37:57Z"
+        },
+        {
+            "name": "Esp32-Google_assistant",
+            "description": "Integrating Esp32 Development Board with Google assistant.",
+            "score": 0.07309357488603946,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/basheerbk/Esp32-Google_assistant",
+            "updatedAt": "2022-08-06T14:21:17Z"
+        },
+        {
+            "name": "1st-year-mini-project",
+            "description": "Arduino Based Fire alarm System",
+            "score": 0.07155645050303984,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/basheerbk/1st-year-mini-project",
+            "updatedAt": "2022-02-09T16:29:06Z"
+        },
+        {
+            "name": "markdown-portfolio",
+            "description": "Markdown basics",
+            "score": 0.07090332342771608,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/basheerbk/markdown-portfolio",
+            "updatedAt": "2022-04-18T05:40:28Z"
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.07078238927469839,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/basheerbk/github-slideshow",
+            "updatedAt": "2021-10-08T12:45:04Z"
+        }
+    ],
+    "followers": 10,
+    "following": 27,
+    "public_repos": 19,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 172,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/bash333r_"
+        }
+    ],
+    "activity_summary": {
+        "Home": {
+            "link": "https://github.com/sebinmpn/Home",
+            "summary": "Recent activity in the Home repository includes multiple updates to the Index.md file, adding a flow chart, and making various changes to the repository's structure and content between September 27-28, 2024."
+        },
+        "VyuhBot": {
+            "link": "https://github.com/basheerbk/VyuhBot",
+            "summary": "In the VyuhBot repository, recent activity includes updates to README.md, additions of new files, deletion and creation of files, and commits to the repository between October 8- November 7, 2024."
+        },
+        "Night_Class": {
+            "link": "https://github.com/sebinmpn/Night_Class",
+            "summary": "In the Night_Class repository, recent activity includes updates to the repository's structure, merging branches, adding folders, creating a README.md file, and making various commits between October 21-23, 2024."
+        }
+    },
+    "profile_summary": "Muhammad Basheer is a skilled software developer recognized for his expertise in C++ and HTML. With a proven track record of creating innovative solutions, he demonstrates a strong command of programming languages and a keen attention to detail. As an active developer with 19 public repositories, Muhammad showcases his commitment to continuously delivering high-quality code and advancing his technical skills.\n\nAs a respected member of the development community, Muhammad has established a professional network of peers who value his expertise and insights. With 10 followers and a growing influence in the field, he is a trusted resource for C++ and HTML solutions. Combining technical prowess with a passion for coding, Muhammad Basheer is a dedicated professional who brings value to collaborative projects and consistently delivers exceptional results."
+}

@@ -1,0 +1,137 @@
+{
+    "username": "ruvais-p",
+    "name": "ruvais-p",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146152602?v=4",
+    "profile_url": "https://github.com/ruvais-p",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "icebreaking_game",
+            "description": null,
+            "score": 1.452082137453658,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/icebreaking_game",
+            "updatedAt": "2024-11-17T04:09:26Z"
+        },
+        {
+            "name": "admin_dashboard",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ruvais-p/admin_dashboard",
+            "updatedAt": "2024-11-11T16:01:22Z"
+        },
+        {
+            "name": "payers_page",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ruvais-p/payers_page",
+            "updatedAt": "2024-11-12T03:35:09Z"
+        },
+        {
+            "name": "flutter_webhost.github.io",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ruvais-p/flutter_webhost.github.io",
+            "updatedAt": "2024-11-10T17:05:00Z"
+        },
+        {
+            "name": "users_page.github.io",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ruvais-p/users_page.github.io",
+            "updatedAt": "2024-11-11T12:14:40Z"
+        },
+        {
+            "name": "ScratchCard",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/ScratchCard",
+            "updatedAt": "2024-10-27T06:15:11Z"
+        },
+        {
+            "name": "iam_participating",
+            "description": null,
+            "score": 0.3593341736205279,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ruvais-p/iam_participating",
+            "updatedAt": "2024-10-15T17:14:47Z"
+        },
+        {
+            "name": "Blog_App",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ruvais-p/Blog_App",
+            "updatedAt": "2024-09-19T07:32:08Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 42,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ruvais-p/icebreaking_game": {
+            "link": "https://github.com/ruvais-p/icebreaking_game",
+            "summary": "Recent activities in the icebreaking_game repository include the resolution of memory reduction issues through the addition of const and updates to pubspec.lock. Furthermore, UI feature enhancements were added as part of the UI feature branch, with modifications to the README and the addition of a license."
+        },
+        "ruvais-p/ScratchCard": {
+            "link": "https://github.com/ruvais-p/ScratchCard",
+            "summary": "Recent activities in the ScratchCard repository involved updates to its documentation, including the addition of new files via upload and the creation and modification of the README.md file."
+        },
+        "ruvais-p/payers_page": {
+            "link": "https://github.com/ruvais-p/payers_page",
+            "summary": "Recent activities in the payers_page repository involved updates to its index.html file with minor changes."
+        },
+        "ruvais-p/admin_dashboard": {
+            "link": "https://github.com/ruvais-p/admin_dashboard",
+            "summary": "Recent activities in the admin_dashboard repository involved updates to its index.html file with minor changes."
+        },
+        "ruvais-p/admin-page": {
+            "link": "https://github.com/ruvais-p/admin-page",
+            "summary": "Recent activities in the admin-page repository involved updates to its index.html file with minor changes."
+        }
+    },
+    "profile_summary": "ruvais-p is a highly skilled and versatile software developer, proficient in a range of programming languages, including C++, Python, and JavaScript. With a keen eye for innovative solutions, they have established a portfolio of 15 public repositories, showcasing their active participation in the development community and dedication to sharing knowledge with others. Through their technical expertise and creative approach, ruvais-p has demonstrated the ability to design, develop, and deploy high-quality software applications that meet the evolving needs of the industry.\n\nAs a reliable and results-driven professional, ruvais-p is committed to staying at the forefront of technological advancements, continually expanding their skill set and exploring new opportunities for growth. With a strong foundation in computer science and a passion for problem-solving, they bring a unique value proposition to their projects, combining technical excellence with innovative thinking and a collaborative approach. Whether working on personal projects or contributing to larger-scale initiatives, ruvais-p consistently delivers high-quality results, positioning them as a valuable asset in the developer community."
+}

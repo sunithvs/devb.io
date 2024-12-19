@@ -1,0 +1,134 @@
+{
+    "username": "sindhupr11",
+    "name": "Sindhu P R",
+    "bio": "looking for something to hyperfixate on.\r\nIncoming SDE Intern at IBM ISL\r\n",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/96954675?u=8a2f1c8c303b6a4dc3057dfc0c187c5f1a6101e0&v=4",
+    "profile_url": "https://github.com/sindhupr11",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Leetcode-Solutions-Top150",
+            "description": "Top Interview 150 Leetcode solutions",
+            "score": 1.647627831325263,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sindhupr11/Leetcode-Solutions-Top150",
+            "updatedAt": "2024-07-18T13:01:00Z"
+        },
+        {
+            "name": "IdeArc",
+            "description": "Built for make-a-ton 4.0",
+            "score": 1.6026073230962141,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sindhupr11/IdeArc",
+            "updatedAt": "2024-01-03T04:30:55Z"
+        },
+        {
+            "name": "socket-programming",
+            "description": "socket programming examples",
+            "score": 1.304599892857734,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/sindhupr11/socket-programming",
+            "updatedAt": "2024-03-07T07:10:36Z"
+        },
+        {
+            "name": "rockett",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sindhupr11/rockett",
+            "updatedAt": "2024-10-20T02:28:08Z"
+        },
+        {
+            "name": "Approvalise-backend",
+            "description": null,
+            "score": 0.294478515998375,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sindhupr11/Approvalise-backend",
+            "updatedAt": "2024-07-09T15:46:06Z"
+        },
+        {
+            "name": "leg0-fosshack",
+            "description": null,
+            "score": 0.2914039066494681,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sindhupr11/leg0-fosshack",
+            "updatedAt": "2024-07-27T11:55:29Z"
+        },
+        {
+            "name": "myportfolio",
+            "description": null,
+            "score": 0.2762763880789927,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sindhupr11/myportfolio",
+            "updatedAt": "2024-05-16T02:04:04Z"
+        },
+        {
+            "name": "twitter-sentiment-analysis",
+            "description": null,
+            "score": 0.2758326818696246,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sindhupr11/twitter-sentiment-analysis",
+            "updatedAt": "2024-05-18T13:05:43Z"
+        }
+    ],
+    "followers": 17,
+    "following": 23,
+    "public_repos": 36,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 298,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sindhupr11/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/crimsonblu2003"
+        }
+    ],
+    "activity_summary": {
+        "anitoanto/me-main-website": {
+            "link": "https://github.com/anitoanto/me-main-website",
+            "summary": "Recent updates include various improvements to the website content such as the addition of new team members, updating existing information like trainer details and spell check corrections. A logo and vision statement have also been added or modified. The changes aim to maintain a well-organized and visually appealing website."
+        },
+        "sindhupr11/rockett": {
+            "link": "https://github.com/sindhupr11/rockett",
+            "summary": "The repository received updates focused on the backend and the implementation of a bot. Commits on the same day suggest these changes were incremental, building on the previous additions to create a cohesive solution."
+        }
+    },
+    "profile_summary": "Sindhu P R is a highly skilled and accomplished software developer with a strong foundation in programming languages, including C, Python, and TypeScript. With a demonstrated ability to develop and maintain complex software systems, Sindhu possesses a unique combination of technical expertise and innovative problem-solving skills. As an incoming SDE Intern at IBM ISL, Sindhu is poised to leverage their technical acumen to drive cutting-edge solutions and contribute to high-impact projects.\n\nAs an active developer with 36 public repositories, Sindhu has established a reputation for reliability and collaboration, attracting a network of 17 professional followers who value their expertise and insights. With a commitment to continuous learning and a passion for staying at the forefront of industry trends, Sindhu is an exceptional talent who delivers high-quality results and drives technical excellence."
+}

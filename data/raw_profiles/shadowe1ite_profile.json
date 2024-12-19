@@ -1,0 +1,125 @@
+{
+    "username": "shadowe1ite",
+    "name": "ALAN S",
+    "bio": "A Cyber Security Enthusiast || computer science student\r\n",
+    "location": "India, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54718375?u=697e27fc695b0f4e8960467461fc15df77a899c1&v=4",
+    "profile_url": "https://github.com/shadowe1ite",
+    "top_languages": [
+        [
+            "C",
+            5
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "w-otp",
+            "description": "otp bypass",
+            "score": 6.205590296293485,
+            "stars": 5,
+            "forks": 4,
+            "language": "Shell",
+            "url": "https://github.com/shadowe1ite/w-otp",
+            "updatedAt": "2024-08-12T20:11:45Z"
+        },
+        {
+            "name": "hypr",
+            "description": null,
+            "score": 2.432961395654746,
+            "stars": 2,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/shadowe1ite/hypr",
+            "updatedAt": "2024-11-23T06:57:04Z"
+        },
+        {
+            "name": "dotfiles",
+            "description": "\ud83c\udfab My DotFiles",
+            "score": 1.111410714472784,
+            "stars": 0,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/shadowe1ite/dotfiles",
+            "updatedAt": "2022-02-10T09:31:01Z"
+        },
+        {
+            "name": "test3",
+            "description": null,
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shadowe1ite/test3",
+            "updatedAt": "2024-07-15T17:18:08Z"
+        },
+        {
+            "name": "gamedev",
+            "description": "C ++ game development",
+            "score": 0.2927421047512304,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/shadowe1ite/gamedev",
+            "updatedAt": "2024-08-20T09:47:51Z"
+        },
+        {
+            "name": "ear",
+            "description": null,
+            "score": 0.2825780622809137,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/shadowe1ite/ear",
+            "updatedAt": "2024-06-09T09:14:22Z"
+        },
+        {
+            "name": "nix",
+            "description": null,
+            "score": 0.2732769207513471,
+            "stars": 0,
+            "forks": 0,
+            "language": "Nix",
+            "url": "https://github.com/shadowe1ite/nix",
+            "updatedAt": "2024-04-24T19:52:48Z"
+        },
+        {
+            "name": "ctf",
+            "description": null,
+            "score": 0.2592062552949126,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shadowe1ite/ctf",
+            "updatedAt": "2024-01-29T07:42:13Z"
+        }
+    ],
+    "followers": 22,
+    "following": 3,
+    "public_repos": 94,
+    "pull_requests_merged": 10,
+    "issues_closed": 49,
+    "achievements": {
+        "total_contributions": 276,
+        "repositories_contributed_to": 23
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "shadowe1ite/hypr": {
+            "link": "https://github.com/shadowe1ite/hypr",
+            "summary": "Recent activities include keybord disable feature implementation with a quick transparency switch option. Multiple pushes with setup changes have also been made, updating the shell with a new setup. These contributions aim to continually improve the current setup."
+        },
+        "shadowe1ite/arch": {
+            "link": "https://github.com/shadowe1ite/arch",
+            "summary": "The repository has seen PushEvent activities in recent times, with a push event made to remove an old zsh setup, followed by the introduction of a new setup. The purpose of these activities is to enhance the current setup and ensure better maintenance."
+        }
+    },
+    "profile_summary": "Alan S is a highly skilled and versatile technology professional with a strong background in computer science and a profound enthusiasm for cyber security. As a proficient developer with expertise in programming languages such as C, C++, and Python, Alan consistently delivers high-quality solutions to drive innovation and secure complex systems. With a growing professional network of over 22 followers and an extensive portfolio of 94 public repositories, Alan has established himself as a credible and dependable figure in the tech community.\n\nAs a forward-thinking cyber security enthusiast and active computer science student, Alan is always expanding his expertise and knowledge to meet the ever-evolving demands of the tech landscape. With a unique ability to balance creativity and technicality, Alan has a proven track record of building and maintaining complex software systems that prioritize reliability, security, and efficiency. By leveraging his technical prowess and innovative mindset, Alan delivers exceptional results and adds value to various projects and collaborations."
+}

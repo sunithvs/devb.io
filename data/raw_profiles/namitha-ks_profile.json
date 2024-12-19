@@ -1,0 +1,134 @@
+{
+    "username": "namitha-ks",
+    "name": "Namitha S",
+    "bio": "CS Undergrad Student",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114816602?u=588f62df8dbaee9a78a6fee73518b65def396e6d&v=4",
+    "profile_url": "https://github.com/Namitha-KS",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "Python",
+            14
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TH-trial",
+            "description": null,
+            "score": 4.419252900043951,
+            "stars": 1,
+            "forks": 5,
+            "language": "C",
+            "url": "https://github.com/Namitha-KS/TH-trial",
+            "updatedAt": "2024-10-04T09:51:44Z"
+        },
+        {
+            "name": "KTU-S6-CST-362-PROGRAMMING_IN_PYTHON",
+            "description": null,
+            "score": 2.480601418396581,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Namitha-KS/KTU-S6-CST-362-PROGRAMMING_IN_PYTHON",
+            "updatedAt": "2024-06-05T23:56:25Z"
+        },
+        {
+            "name": "Mind-Map",
+            "description": "Text to Mindmaps",
+            "score": 2.4478956957505584,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Namitha-KS/Mind-Map",
+            "updatedAt": "2024-11-11T15:06:43Z"
+        },
+        {
+            "name": "DocReader_Miniproject",
+            "description": null,
+            "score": 1.9174834431378192,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Namitha-KS/DocReader_Miniproject",
+            "updatedAt": "2024-08-20T14:18:54Z"
+        },
+        {
+            "name": "WebCapture",
+            "description": "Chrome Extension for YouTube bookmarking",
+            "score": 1.6173394300202557,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Namitha-KS/WebCapture",
+            "updatedAt": "2024-05-24T02:34:54Z"
+        },
+        {
+            "name": "Shareit",
+            "description": "GPT chats into PDF",
+            "score": 1.5324088789694945,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Namitha-KS/Shareit",
+            "updatedAt": "2024-12-14T05:09:25Z"
+        },
+        {
+            "name": "FOCUS.YOUTUBE",
+            "description": "Make YouTube a lil more productive",
+            "score": 1.280094760262328,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Namitha-KS/FOCUS.YOUTUBE",
+            "updatedAt": "2024-05-24T02:22:51Z"
+        },
+        {
+            "name": "Discord-Meeting-Scheduler",
+            "description": null,
+            "score": 1.1152943914148128,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Namitha-KS/Discord-Meeting-Scheduler",
+            "updatedAt": "2022-12-04T14:09:36Z"
+        }
+    ],
+    "followers": 28,
+    "following": 48,
+    "public_repos": 56,
+    "pull_requests_merged": 4,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 231,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nami-tha-s/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/13_cs2"
+        }
+    ],
+    "activity_summary": {
+        "Namitha-KS/GT-YOLOv8": {
+            "link": "https://github.com/Namitha-KS/GT-YOLOv8",
+            "summary": "Recently, multiple commits have been made to GT-YOLOv8 repository, deleting several directories related to tree detection and adding numerous files via upload, indicating significant modifications to the project."
+        },
+        "Namitha-KS/Shareit": {
+            "link": "https://github.com/Namitha-KS/Shareit",
+            "summary": "The Shareit repository has experienced updates, including the creation of a README file and modifications to the main.py and packages.txt files, suggesting ongoing development and maintenance."
+        }
+    },
+    "profile_summary": "Namitha S is a highly skilled and innovative developer with a strong foundation in computer science, currently pursuing her undergraduate degree. With expertise in C, Python, and TypeScript, she has established herself as a proficient programmer with a keen eye for detail and a passion for delivering high-quality solutions. Her impressive portfolio of 56 public repositories showcases her dedication to active development and commitment to staying up-to-date with the latest technologies.\n\nA respected member of the developer community with a network of 28 followers, Namitha consistently demonstrates her technical prowess and ability to collaborate with others. Her unique blend of strong technical skills, innovative thinking, and a customer-centric approach make her a valuable asset to any project or team. As a skilled developer with a proven track record, Namitha is well-positioned to tackle complex challenges and drive success in a rapidly evolving technology landscape."
+}

@@ -1,0 +1,138 @@
+{
+    "username": "ashithapallath",
+    "name": "Ashitha Pallath",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98266683?v=4",
+    "profile_url": "https://github.com/ashithapallath",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            7
+        ],
+        [
+            "R",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Big-Data-Project",
+            "description": "Videostreaming Using kafka",
+            "score": 2.680256843315885,
+            "stars": 1,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Big-Data-Project",
+            "updatedAt": "2024-12-16T09:10:15Z"
+        },
+        {
+            "name": "Python-Lab",
+            "description": null,
+            "score": 2.3407396506585583,
+            "stars": 2,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Python-Lab",
+            "updatedAt": "2023-10-26T16:50:59Z"
+        },
+        {
+            "name": "Agile-Blood-Management-Web-Application",
+            "description": null,
+            "score": 1.8019844619563072,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/ashithapallath/Agile-Blood-Management-Web-Application",
+            "updatedAt": "2023-03-03T04:50:08Z"
+        },
+        {
+            "name": "Testimages",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ashithapallath/Testimages",
+            "updatedAt": "2024-12-16T03:58:08Z"
+        },
+        {
+            "name": "Computational-Linguistics",
+            "description": "This repository applies computational techniques to process and analyze natural language. It includes functions for tokenization, spelling correction, and bigram probability calculation to improve text accuracy and meaning. The program identifies misspelled words, suggests corrections, and evaluates sentence structure based on language models.",
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Computational-Linguistics",
+            "updatedAt": "2024-12-15T11:00:23Z"
+        },
+        {
+            "name": "Image-Processing",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Image-Processing",
+            "updatedAt": "2024-11-06T14:18:44Z"
+        },
+        {
+            "name": "Feature-Engineering",
+            "description": null,
+            "score": 0.2594821921958952,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Feature-Engineering",
+            "updatedAt": "2024-01-31T10:10:06Z"
+        },
+        {
+            "name": "Machine-Learning",
+            "description": null,
+            "score": 0.2594821921958952,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashithapallath/Machine-Learning",
+            "updatedAt": "2024-02-15T08:03:12Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 18,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 67,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.linkedin.com/in/ashitha-pallath-6bb942258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+        }
+    ],
+    "activity_summary": {
+        "ashithapallath/Image-Processing": {
+            "link": "https://github.com/ashithapallath/Image-Processing",
+            "summary": "This repository has recently seen significant image processing lab activities, with multiple lab questions completion."
+        },
+        "ashithapallath/Computational-Linguistics": {
+            "link": "https://github.com/ashithapallath/Computational-Linguistics",
+            "summary": "Recent activities in this repository have included README updates and additions of files via upload, showcasing project development."
+        },
+        "ashithapallath/Testimages": {
+            "link": "https://github.com/ashithapallath/Testimages",
+            "summary": "Recent repository updates involved adding test images via multiple file uploads, indicating active project development and testing phases."
+        },
+        "ashithapallath/AI-Searches": {
+            "link": "https://github.com/ashithapallath/AI-Searches",
+            "summary": "This repository has had files deleted and others created using Colab, suggesting active development and experimentation with AI-based searches."
+        }
+    },
+    "profile_summary": "Ashitha Pallath is a highly skilled data analyst and developer recognized for delivering innovative solutions through cutting-edge technologies, including Jupyter Notebook, R, and JavaScript. With a strong technical foundation and a proven track record of successfully driving data-driven projects, Ashitha has established a reputation as a versatile and results-driven professional in the field.\n\nAs an active member of the developer community with a growing network and an impressive portfolio of 18 public repositories, Ashitha brings a wealth of expertise and a collaborative mindset to every project. With a unique ability to balance technical acumen with real-world applications, Ashitha is an invaluable asset to any team seeking to harness the power of data and technology to drive business success and growth."
+}

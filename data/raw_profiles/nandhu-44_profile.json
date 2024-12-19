@@ -1,0 +1,138 @@
+{
+    "username": "nandhu-44",
+    "name": "Nandhu Krishnan A",
+    "bio": "",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91179000?u=a467cec48678e09ac6ade85b786dea0ba3694310&v=4",
+    "profile_url": "https://github.com/nandhu-44",
+    "top_languages": [
+        [
+            "C++",
+            5
+        ],
+        [
+            "Python",
+            14
+        ],
+        [
+            "R",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "eris-handler",
+            "description": null,
+            "score": 6.535458814266125,
+            "stars": 13,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/eris-handler",
+            "updatedAt": "2023-12-27T12:12:30Z"
+        },
+        {
+            "name": "clyde-chatbot-cli",
+            "description": null,
+            "score": 4.304956344681895,
+            "stars": 7,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/clyde-chatbot-cli",
+            "updatedAt": "2023-10-18T09:48:32Z"
+        },
+        {
+            "name": "Discord-Rpc",
+            "description": null,
+            "score": 4.303071487971075,
+            "stars": 7,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/Discord-Rpc",
+            "updatedAt": "2023-10-18T09:48:35Z"
+        },
+        {
+            "name": "custom-urls",
+            "description": null,
+            "score": 4.037161021543363,
+            "stars": 6,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/nandhu-44/custom-urls",
+            "updatedAt": "2023-10-18T09:48:30Z"
+        },
+        {
+            "name": "snakegame",
+            "description": null,
+            "score": 3.956276954314505,
+            "stars": 3,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/nandhu-44/snakegame",
+            "updatedAt": "2023-10-18T09:48:15Z"
+        },
+        {
+            "name": "Occasionaly",
+            "description": null,
+            "score": 3.574581573348805,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/Occasionaly",
+            "updatedAt": "2024-11-18T10:05:41Z"
+        },
+        {
+            "name": "ToDo-App",
+            "description": null,
+            "score": 3.490151570747255,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/ToDo-App",
+            "updatedAt": "2024-07-04T23:53:21Z"
+        },
+        {
+            "name": "CliGPT",
+            "description": "CliGPT is a command line interface tool to interact with GPT-3.",
+            "score": 3.468535034831953,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nandhu-44/CliGPT",
+            "updatedAt": "2024-02-05T07:17:11Z"
+        }
+    ],
+    "followers": 61,
+    "following": 110,
+    "public_repos": 82,
+    "pull_requests_merged": 18,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 762,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/_.n_44._"
+        },
+        {
+            "provider": "generic",
+            "url": "https://discord.com/users/820502577783373884"
+        }
+    ],
+    "activity_summary": {
+        "Useless-Project-TinkerHub": {
+            "link": "https://github.com/nandhu-44/Useless-Project-TinkerHub",
+            "summary": "'Useless Project' has seen considerable updates and improvements in its functionality and user documentation. The repository showcases significant revisions from November 2nd to November 25th, including refinements to its README file, the introduction of demo video links, code optimizations, and adherence to URL sanitization. Updates illustrate ongoing development and refactoring with regard to user input and interface overlay."
+        },
+        "ai50": {
+            "link": "https://github.com/nandhu-44/ai50",
+            "summary": "'ai50' repository recently received minor yet noteworthy updates on November 9th, focusing on code maintenance and organization via adjustment to both the codebase and exclusion of unnecessary files through the addition of a .gitignore file."
+        },
+        "Cusat-R-Lab": {
+            "link": "https://github.com/nandhu-44/Cusat-R-Lab",
+            "summary": "'Cusat-R-Lab' repository received minor revisions in November, but its primary updates are recorded on November 24th. Due to lack of details, specific content addition cannot be identified."
+        }
+    },
+    "profile_summary": "Nandhu Krishnan A is a seasoned developer with expertise in C++, Python, and R programming languages, possessing a unique blend of technical skills and passion for innovation. With an established presence in the developer community, Nandhu has amassed a network of 61 dedicated followers and contributed to a robust portfolio of 82 public repositories, underscoring a commitment to open-source collaboration and continuous learning.\n\nAs a technologist with a proven track record of delivering high-quality solutions, Nandhu combines technical acumen with creativity to tackle complex problems and develop efficient, scalable solutions. By leveraging a strong foundation in computer science, Nandhu creates forward-thinking applications and tools that drive business growth and maximize performance. With a keen eye for detail and dedication to staying at the forefront of industry trends, Nandhu is an invaluable partner for companies seeking measurable results and exceptional technical expertise."
+}

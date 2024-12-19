@@ -1,0 +1,95 @@
+{
+    "username": "gkr",
+    "name": "Gunnar Kriik",
+    "bio": null,
+    "location": "Norway",
+    "avatar_url": "https://avatars.githubusercontent.com/u/143604?u=988b1bd8f7be1b8b25d9e3a10de5908befcfbc7d&v=4",
+    "profile_url": "https://github.com/GKR",
+    "top_languages": [
+        [
+            "Rust",
+            2
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "NvidiaCascadedShadowMapsGLM",
+            "description": "Modification of the Nvidia Cascading Shadow Maps demo using a pure shader based approach over immediate mode",
+            "score": 10.172311278775164,
+            "stars": 30,
+            "forks": 7,
+            "language": "C++",
+            "url": "https://github.com/GKR/NvidiaCascadedShadowMapsGLM",
+            "updatedAt": "2024-09-27T14:30:34Z"
+        },
+        {
+            "name": "Rust-WebAssembly-Yew-Async",
+            "description": null,
+            "score": 1.4608448699727778,
+            "stars": 1,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/GKR/Rust-WebAssembly-Yew-Async",
+            "updatedAt": "2022-10-10T15:16:36Z"
+        },
+        {
+            "name": "WASM-WASI-Rust-Node",
+            "description": null,
+            "score": 0.15596199989572834,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GKR/WASM-WASI-Rust-Node",
+            "updatedAt": "2023-04-21T11:15:46Z"
+        },
+        {
+            "name": "Advent-of-Code",
+            "description": "Repository for the Advent of Code ",
+            "score": 0.075573620574895,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/GKR/Advent-of-Code",
+            "updatedAt": "2022-12-12T07:50:54Z"
+        },
+        {
+            "name": "Game-of-Life-OpenGL",
+            "description": null,
+            "score": 0.06617340924818643,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/GKR/Game-of-Life-OpenGL",
+            "updatedAt": "2019-09-25T20:44:06Z"
+        },
+        {
+            "name": "AngularQuiz",
+            "description": "A simple quiz application written using AngularJS",
+            "score": 0.06172485242837251,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GKR/AngularQuiz",
+            "updatedAt": "2017-08-22T17:16:57Z"
+        }
+    ],
+    "followers": 3,
+    "following": 0,
+    "public_repos": 9,
+    "pull_requests_merged": 7,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Gunnar Kriik is a seasoned developer with a strong proficiency in systems programming languages, including Rust, C++, and JavaScript. With a keen eye for detail and a passion for delivering high-quality solutions, Gunnar consistently produces well-architected and maintainable codebases that drive business growth and efficiency. As a highly skilled and dedicated professional, he leverages his technical expertise to tackle complex problems and craft innovative solutions that meet and exceed the needs of clients and stakeholders.\n\nWith a track record of successfully leading multiple projects and collaborating with cross-functional teams, Gunnar has established himself as a reliable and results-driven developer who consistently delivers on time and on budget. His extensive experience in developing high-performance applications has earned him a reputation as a trusted technical expert, with a strong professional network that spans multiple industries. Gunnar's unique blend of technical expertise, industry knowledge, and collaborative approach enables him to drive business success and advance the technical capabilities of his clients and partners."
+}

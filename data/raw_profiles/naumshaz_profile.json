@@ -1,0 +1,126 @@
+{
+    "username": "naumshaz",
+    "name": "Muhammed Nauman Shazi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/74286635?u=8ffade15c6412f83abbb0251154527da53802bff&v=4",
+    "profile_url": "https://github.com/naumshaz",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Dart",
+            2
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ecom-app",
+            "description": "Test Project",
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/naumshaz/ecom-app",
+            "updatedAt": "2024-09-21T12:07:58Z"
+        },
+        {
+            "name": "authenticator-app",
+            "description": "An authenticator app with a minimal black and white UI built using Flutter framework.",
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/naumshaz/authenticator-app",
+            "updatedAt": "2024-09-12T08:07:49Z"
+        },
+        {
+            "name": "aide-a-trader",
+            "description": null,
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/naumshaz/aide-a-trader",
+            "updatedAt": "2024-08-30T13:18:40Z"
+        },
+        {
+            "name": "movie-app",
+            "description": null,
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/naumshaz/movie-app",
+            "updatedAt": "2024-06-08T09:34:59Z"
+        },
+        {
+            "name": "age-calculator-app",
+            "description": "An age calculator developed using HTML, CSS and JavaScript.",
+            "score": 0.1660847238049714,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/naumshaz/age-calculator-app",
+            "updatedAt": "2023-11-03T21:27:36Z"
+        },
+        {
+            "name": "zenecapitals",
+            "description": null,
+            "score": 0.15548880741175677,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/naumshaz/zenecapitals",
+            "updatedAt": "2023-04-08T11:56:12Z"
+        },
+        {
+            "name": "Personal-Website",
+            "description": null,
+            "score": 0.071904329393958,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/naumshaz/Personal-Website",
+            "updatedAt": "2022-02-06T10:50:37Z"
+        },
+        {
+            "name": "buildmyweb",
+            "description": null,
+            "score": 0.07183549148119328,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/naumshaz/buildmyweb",
+            "updatedAt": "2022-01-30T13:20:34Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 12,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 69,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/naumshaz/"
+        }
+    ],
+    "activity_summary": {
+        "naumshaz/ecom-app": {
+            "link": "https://github.com/naumshaz/ecom-app",
+            "summary": "Recent activities in the ecom-app repository demonstrate significant updates to the project, including improvements to UI components and features. Changes include setup and implementation of providers and services, AppBar and SearchBar components, gridview with loading shimmer, a functioning search feature, and a products page. Additionally, a favourites screen was implemented. A pull request was merged, combining these changes into the main branch."
+        }
+    },
+    "profile_summary": "Muhammed Nauman Shazi is a seasoned full-stack developer with a strong proficiency in JavaScript, Dart, and HTML. With a proven track record of building scalable and efficient solutions, he has established himself as a reliable and innovative professional in the development community. As an active developer, Muhammed has contributed to 12 public repositories, showcasing his commitment to collaborative development and open-source innovation.\n\nAs a technically skilled and business-savvy developer, Muhammed brings a unique value proposition to his projects. His expertise in JavaScript, Dart, and HTML enables him to deliver high-quality solutions that meet the demands of modern web and mobile applications. With a growing professional network, Muhammed is well-positioned to leverage his skills and expertise to drive success in a variety of development projects."
+}

@@ -1,0 +1,134 @@
+{
+    "username": "jenin82",
+    "name": "Jenin Joseph",
+    "bio": "Web Developer",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84625875?u=76fd5964ba31bcbb79836577e5f97b95ee1fa236&v=4",
+    "profile_url": "https://github.com/Jenin82",
+    "top_languages": [
+        [
+            "TypeScript",
+            14
+        ],
+        [
+            "C",
+            3
+        ],
+        [
+            "JavaScript",
+            13
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "programming",
+            "description": "Codes for B tech CSE S3",
+            "score": 5.330793045074587,
+            "stars": 3,
+            "forks": 4,
+            "language": "C",
+            "url": "https://github.com/Jenin82/programming",
+            "updatedAt": "2023-08-18T08:27:46Z"
+        },
+        {
+            "name": "sngist-iedc",
+            "description": "website for SNGIST IEDC",
+            "score": 4.530789984632426,
+            "stars": 2,
+            "forks": 3,
+            "language": "TypeScript",
+            "url": "https://github.com/Jenin82/sngist-iedc",
+            "updatedAt": "2024-05-06T04:49:46Z"
+        },
+        {
+            "name": "Jenin82",
+            "description": "Config files for my GitHub profile.",
+            "score": 4.028866674614731,
+            "stars": 3,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Jenin82/Jenin82",
+            "updatedAt": "2023-12-25T17:25:29Z"
+        },
+        {
+            "name": "Skeleton-Django-REST",
+            "description": null,
+            "score": 3.0131132739527278,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Jenin82/Skeleton-Django-REST",
+            "updatedAt": "2024-01-17T23:38:18Z"
+        },
+        {
+            "name": "compiler-design-lab",
+            "description": null,
+            "score": 2.677111182463272,
+            "stars": 1,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/Jenin82/compiler-design-lab",
+            "updatedAt": "2023-12-25T16:58:05Z"
+        },
+        {
+            "name": "legal-services",
+            "description": null,
+            "score": 1.811545258516931,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/Jenin82/legal-services",
+            "updatedAt": "2023-09-26T05:56:04Z"
+        },
+        {
+            "name": "sngist",
+            "description": null,
+            "score": 1.8059924722330554,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/Jenin82/sngist",
+            "updatedAt": "2023-06-10T09:05:53Z"
+        },
+        {
+            "name": "django-web",
+            "description": "A college website with grievance system and user management build using Django.",
+            "score": 1.8030983882459726,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/Jenin82/django-web",
+            "updatedAt": "2023-12-05T14:46:05Z"
+        }
+    ],
+    "followers": 39,
+    "following": 10,
+    "public_repos": 110,
+    "pull_requests_merged": 293,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 2229,
+        "repositories_contributed_to": 21
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jenin-joseph/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/__Jenin__"
+        },
+        {
+            "provider": "generic",
+            "url": "https://app.mulearn.org/profile/jeninjoseph@mulearn"
+        }
+    ],
+    "activity_summary": {
+        "gtech-mulearn/top-100-series": {
+            "link": "https://github.com/gtech-mulearn/top-100-series",
+            "summary": "Recent updates to the top-100-series repository include bug fixes and improvements to the build process, ensuring a smoother development experience and resolving existing issues."
+        }
+    },
+    "profile_summary": "Jenin Joseph is a highly skilled web developer with a strong foundation in programming languages such as TypeScript, C, and JavaScript. With a continuous pursuit of innovation and excellence, Joseph has established a reputation as a reliable and proficient developer within the industry. A strong online presence is reflected in an extensive network of 39 followers and an impressive portfolio of 110 public repositories, showcasing an unwavering passion for active development and collaboration.\n\nLeveraging a deep understanding of core technologies, Jenin Joseph crafts high-quality solutions that cater to diverse web development needs. By staying at the forefront of industry trends and advancements, Joseph delivers innovative, scalable, and efficient applications that exceed expectations. With a commitment to excellence and a keen eye for detail, Jenin Joseph is a valuable asset to any project, poised to drive success and drive exceptional results in an ever-evolving digital landscape."
+}

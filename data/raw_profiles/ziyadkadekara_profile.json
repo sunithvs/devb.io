@@ -1,0 +1,130 @@
+{
+    "username": "ziyadkadekara",
+    "name": "ZIYAD K",
+    "bio": "I'm Ziyad Kadekara. An explorer who is a bit of Philomath and Solutionist also a mini chef who cooks codes and many more.",
+    "location": "Earth",
+    "avatar_url": "https://avatars.githubusercontent.com/u/80669764?u=d832f1f71cb04c10b7f35635ebc5d308aa49b92c&v=4",
+    "profile_url": "https://github.com/ziyadkadekara",
+    "top_languages": [
+        [
+            "C++",
+            6
+        ],
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Installing-PyOpenGL-windows",
+            "description": null,
+            "score": 2.34828030871598,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ziyadkadekara/Installing-PyOpenGL-windows",
+            "updatedAt": "2023-01-09T15:50:54Z"
+        },
+        {
+            "name": "sneakz",
+            "description": null,
+            "score": 0.320366928485536,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ziyadkadekara/sneakz",
+            "updatedAt": "2024-09-06T04:11:50Z"
+        },
+        {
+            "name": "Todo-App-v1",
+            "description": null,
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ziyadkadekara/Todo-App-v1",
+            "updatedAt": "2024-08-31T17:35:37Z"
+        },
+        {
+            "name": "wizad-notification",
+            "description": null,
+            "score": 0.307200665474766,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ziyadkadekara/wizad-notification",
+            "updatedAt": "2024-09-21T22:05:01Z"
+        },
+        {
+            "name": "Burger_website",
+            "description": null,
+            "score": 0.2924034339384601,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ziyadkadekara/Burger_website",
+            "updatedAt": "2024-07-23T18:08:25Z"
+        },
+        {
+            "name": "paithalvillage",
+            "description": null,
+            "score": 0.2901082377277394,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ziyadkadekara/paithalvillage",
+            "updatedAt": "2024-06-28T10:34:49Z"
+        },
+        {
+            "name": "dev-portfolio",
+            "description": "This is Responsive Developer Portfolio website made by someone and modified by Me. I thought this look good as my portfolio, kudos to the creator of this web design",
+            "score": 0.28916299194693984,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ziyadkadekara/dev-portfolio",
+            "updatedAt": "2024-08-30T15:32:35Z"
+        },
+        {
+            "name": "javascript_amazon_sample",
+            "description": null,
+            "score": 0.2802764876403292,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ziyadkadekara/javascript_amazon_sample",
+            "updatedAt": "2024-06-22T17:31:57Z"
+        }
+    ],
+    "followers": 16,
+    "following": 18,
+    "public_repos": 33,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 388,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ZiyadKadekara"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ziyadkadekara/"
+        }
+    ],
+    "activity_summary": {
+        "wizad-notification": {
+            "link": "https://github.com/ziyadkadekara/wizad-notification",
+            "summary": "Recent activity on this repository includes a push event that added multiple files through file upload on September 21, 2024. This update may showcase enhancements to the notification system."
+        }
+    },
+    "profile_summary": "Ziyad K is a skilled developer with a strong background in systems programming languages, including C++, Rust, and C. With a proven track record of delivering high-quality solutions, he brings a unique blend of technical expertise and innovative thinking to the table. Professionally associated with a network of 16 influential peers and maintaining an active repertoire of 33 public repositories, Ziyad has solidified his position as a reliable and results-driven developer in the field.\n\nAs a polymath with a passion for problem-solving and a drive for continuous learning, Ziyad K has consistently delivered exceptional results in a wide range of projects. With his in-depth knowledge of computer science fundamentals and expertise in systems programming, he offers a unique value proposition that sets him apart from his peers. By combining technical prowess with innovative thinking and a passion for coding, Ziyad K has become a go-to developer for complex projects that require creative and scalable solutions."
+}

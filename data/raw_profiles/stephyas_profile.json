@@ -1,0 +1,111 @@
+{
+    "username": "stephyas",
+    "name": "Stephy A S",
+    "bio": "I'm a student.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/84276654?v=4",
+    "profile_url": "https://github.com/stephyas",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "voicebasedemail",
+            "description": "A webapp \"Voice based email\" for visually impaired people.",
+            "score": 1.6453635007557077,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/stephyas/voicebasedemail",
+            "updatedAt": "2024-10-09T14:38:50Z"
+        },
+        {
+            "name": "Tink_her_hackProject",
+            "description": "Project for Tinkerhub Hackathon",
+            "score": 0.0755278656898803,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/stephyas/Tink_her_hackProject",
+            "updatedAt": "2022-12-18T06:28:17Z"
+        },
+        {
+            "name": "React-todolist",
+            "description": null,
+            "score": 0.07188460109012645,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/React-todolist",
+            "updatedAt": "2022-02-05T09:13:10Z"
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.07185509926057619,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/github-slideshow",
+            "updatedAt": "2022-02-02T07:07:11Z"
+        },
+        {
+            "name": "Tinkerhubreact",
+            "description": null,
+            "score": 0.07177695433867197,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/Tinkerhubreact",
+            "updatedAt": "2022-01-25T14:02:36Z"
+        },
+        {
+            "name": "foundationtask.io",
+            "description": null,
+            "score": 0.0717188421235444,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/foundationtask.io",
+            "updatedAt": "2022-01-19T15:47:15Z"
+        },
+        {
+            "name": "portfolio_stephy.github.io",
+            "description": "My simple portfolio",
+            "score": 0.07085126538187735,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/portfolio_stephy.github.io",
+            "updatedAt": "2021-10-18T08:34:30Z"
+        },
+        {
+            "name": "Foundation-course",
+            "description": "simple website",
+            "score": 0.07071411533177994,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/stephyas/Foundation-course",
+            "updatedAt": "2021-09-30T14:44:51Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 25,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 5,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Stephy A S is a highly skilled and innovative developer with a strong background in programming languages, including Python and HTML. As a driven and motivated individual, Stephy has established a robust online presence, having garnered a notable following and actively contributed to numerous open-source projects with over 25 public repositories to date. \n\nAs an emerging talent in the field, Stephy brings a fresh perspective and creative approach to coding, constantly seeking to expand their technical expertise and push the boundaries of what is possible. Combining a strong foundation in computer science with a passion for learning, Stephy delivers reliable, high-quality solutions that meet the ever-evolving needs of the tech industry, showcasing exceptional potential for growth and collaboration in the developer community."
+}

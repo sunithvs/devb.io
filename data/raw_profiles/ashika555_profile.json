@@ -1,0 +1,115 @@
+{
+    "username": "ashika555",
+    "name": "ashika555",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/83506752?v=4",
+    "profile_url": "https://github.com/Ashika555",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "build.myweb",
+            "description": null,
+            "score": 0.07566585240412206,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ashika555/build.myweb",
+            "updatedAt": "2022-12-10T04:20:44Z"
+        },
+        {
+            "name": "Responsive-Web-Designing",
+            "description": null,
+            "score": 0.07509750232542743,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Ashika555/Responsive-Web-Designing",
+            "updatedAt": "2022-11-02T09:31:14Z"
+        },
+        {
+            "name": "studentreportcardsystem",
+            "description": null,
+            "score": 0.07199371112064415,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Ashika555/studentreportcardsystem",
+            "updatedAt": "2022-02-16T09:41:48Z"
+        },
+        {
+            "name": "calc",
+            "description": null,
+            "score": 0.07194393197002288,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Ashika555/calc",
+            "updatedAt": "2022-02-11T11:25:37Z"
+        },
+        {
+            "name": "calculator",
+            "description": null,
+            "score": 0.07192410628193145,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Ashika555/calculator",
+            "updatedAt": "2022-02-10T15:56:43Z"
+        },
+        {
+            "name": "thetodoapp",
+            "description": null,
+            "score": 0.071904329393958,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ashika555/thetodoapp",
+            "updatedAt": "2022-02-07T07:41:53Z"
+        },
+        {
+            "name": "todoapp",
+            "description": null,
+            "score": 0.07188460109012645,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ashika555/todoapp",
+            "updatedAt": "2022-02-07T06:47:23Z"
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.07184528937784365,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ashika555/github-slideshow",
+            "updatedAt": "2022-02-01T07:16:18Z"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 23,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Ashika555 is a highly skilled software developer with expertise in designing and developing cutting-edge solutions using C++, JavaScript, and HTML. With a strong foundation in computer science, ashika555 has demonstrated exceptional technical acumen and passion for innovation, evident in the extensive repository of 23 public projects that showcase a range of applications, tools, and technologies. This versatility and ability to adapt to diverse development environments position ashika555 as a valuable asset to any project team.\n\nAs a dedicated developer with a growing professional network of one and counting, ashika555 is committed to staying abreast of industry trends and advancements. By leveraging C++ for building high-performance applications, JavaScript for crafting dynamic user interfaces, and HTML for designing intuitive web experiences, ashika555 consistently delivers high-quality solutions that exceed expectations. With a proven track record of collaborating on multiple projects and actively contributing to the developer community, ashika555 is an innovative and results-driven professional poised to drive success in various software development initiatives."
+}

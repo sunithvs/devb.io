@@ -28,6 +28,7 @@ jobs:
         source venv/bin/activate
         pip install -r requirements.txt
         git checkout -B data
+        git pull origin data
         python manage.py fetch
         python manage.py build
       env:

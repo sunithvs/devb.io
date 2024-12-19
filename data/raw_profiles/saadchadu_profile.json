@@ -1,0 +1,126 @@
+{
+    "username": "saadchadu",
+    "name": "saadchadu",
+    "bio": "Web and graphic expert",
+    "location": "Kannur, kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27438284?u=5323aeaa7d2d3b8cc975a21653fc81a83756d565&v=4",
+    "profile_url": "https://github.com/saadchadu",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RGBA-Color-Picker",
+            "description": "Create tour color with RGBA Sliders and copy the code",
+            "score": 2.568552331329584,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/saadchadu/RGBA-Color-Picker",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "Fan",
+            "description": null,
+            "score": 1.6026681476179454,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/saadchadu/Fan",
+            "updatedAt": "2024-10-04T10:13:20Z"
+        },
+        {
+            "name": "Todo",
+            "description": null,
+            "score": 1.5328046321768194,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/saadchadu/Todo",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "Bulb-Glow-Switch",
+            "description": null,
+            "score": 1.5305232645473732,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/saadchadu/Bulb-Glow-Switch",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "Dictionary",
+            "description": null,
+            "score": 1.5290149972579947,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/saadchadu/Dictionary",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "Ballot-Box",
+            "description": "A prototype design of a ballot box designed and developed with an option to vote with a beep sound",
+            "score": 1.5288315604896663,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/saadchadu/Ballot-Box",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "saadchadu",
+            "description": "About Me",
+            "score": 1.528650227678454,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/saadchadu/saadchadu",
+            "updatedAt": "2023-03-04T09:12:44Z"
+        },
+        {
+            "name": "React-Learing-Torism-Website",
+            "description": null,
+            "score": 0.23592909938985335,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saadchadu/React-Learing-Torism-Website",
+            "updatedAt": "2024-09-11T14:23:15Z"
+        }
+    ],
+    "followers": 10,
+    "following": 10,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/saadchadu"
+        }
+    ],
+    "activity_summary": {
+        "saadchadu/Fan": {
+            "link": "https://github.com/saadchadu/Fan",
+            "summary": "The repository recently underwent a maintenance update with a CNAME record deletion, indicating a possible reconfiguration of the repository's custom domain setup."
+        }
+    },
+    "profile_summary": "Saadchadu is a highly skilled web and graphic expert, leveraging expertise in JavaScript, HTML, and CSS to drive innovation and deliver high-quality solutions. With a solid foundation in front-end development, this skilled professional crafts visually stunning and user-friendly web experiences that cater to diverse business needs. By combining technical prowess with a keen eye for design, saadchadu effectively bridges the gap between form and function, yielding impressive results.\n\nAs a highly influential developer with a network of 10 followers and a portfolio of 9 public repositories, saadchadu showcases a strong commitment to ongoing learning and professional growth. By staying abreast of industry trends and best practices, this web expert consistently delivers cutting-edge solutions that meet and exceed client expectations. With a proven track record of success and a reputation for reliability, saadchadu is a valuable asset to any project requiring expertise in web development and graphic design."
+}

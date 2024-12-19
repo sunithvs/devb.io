@@ -1,0 +1,115 @@
+{
+    "username": "muhammedfazal1122",
+    "name": "Muhammed Fazal",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/137698856?u=045bcb37d4e7c6be5a4f6f2e8b8dfc252d347b30&v=4",
+    "profile_url": "https://github.com/muhammedfazal1122",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DocTime",
+            "description": null,
+            "score": 1.6500549554625064,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedfazal1122/DocTime",
+            "updatedAt": "2024-07-06T09:28:41Z"
+        },
+        {
+            "name": "timegear",
+            "description": null,
+            "score": 1.6387006607971397,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/muhammedfazal1122/timegear",
+            "updatedAt": "2024-07-06T10:06:00Z"
+        },
+        {
+            "name": "Ecom",
+            "description": null,
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedfazal1122/Ecom",
+            "updatedAt": "2024-08-02T11:57:19Z"
+        },
+        {
+            "name": "Data-Structures-and-algorithms",
+            "description": null,
+            "score": 0.28077614189870803,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedfazal1122/Data-Structures-and-algorithms",
+            "updatedAt": "2024-07-12T15:26:38Z"
+        },
+        {
+            "name": "CRUIZERO",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muhammedfazal1122/CRUIZERO",
+            "updatedAt": "2024-05-22T10:11:09Z"
+        },
+        {
+            "name": "Muhammed-Fazal-Resume-",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muhammedfazal1122/Muhammed-Fazal-Resume-",
+            "updatedAt": "2024-05-25T14:54:28Z"
+        },
+        {
+            "name": "NetflixClone",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedfazal1122/NetflixClone",
+            "updatedAt": "2024-05-22T10:25:20Z"
+        },
+        {
+            "name": "OLXclone",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedfazal1122/OLXclone",
+            "updatedAt": "2024-05-22T10:27:08Z"
+        }
+    ],
+    "followers": 6,
+    "following": 8,
+    "public_repos": 15,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 158,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Muhammed Fazal is a highly skilled software developer with a strong proficiency in programming languages such as Python, JavaScript, and HTML. With a proven track record of delivering high-quality projects, Muhammed has established himself as a reliable and innovative professional in the tech industry. His extensive experience in developing scalable and efficient solutions has enabled him to stay ahead of the curve, making him a valuable asset to any development team.\n\nAs a versatile developer with a strong online presence, Muhammed's work showcases his ability to adapt to various technologies and frameworks. With a network of six professional followers and an impressive portfolio of 15 public repositories, Muhammed has demonstrated his expertise and commitment to collaboration and open-source development. His technical prowess, combined with his passion for innovation and problem-solving, positions him as a highly sought-after developer with a unique value proposition that sets him apart from his peers."
+}

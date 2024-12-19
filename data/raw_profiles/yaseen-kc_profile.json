@@ -1,0 +1,138 @@
+{
+    "username": "yaseen-kc",
+    "name": "Yaseen KC",
+    "bio": "A passionate web developer with a focus on building clean, modern, and responsive websites.",
+    "location": "Kochi, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/60836135?u=92f3ef6f39cb5ce21f7b3644cf7e92d4b678b86f&v=4",
+    "profile_url": "https://github.com/yaseen-kc",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            6
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "movieAi",
+            "description": "MovieAI is an AI-powered movie discovery application \ud83c\udfa5 designed to enhance your cinematic experience \ud83c\udf7f. With a sleek interface \u2728, curated recommendations \ud83c\udfac, and real-time data \u23f1\ufe0f, MovieAI connects you to trending movies \ud83c\udf1f and personal favorites \ud83d\udc96 with ease.",
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/yaseen-kc/movieAi",
+            "updatedAt": "2024-12-02T14:04:45Z"
+        },
+        {
+            "name": "yaseen-kc",
+            "description": null,
+            "score": 0.40392376209658654,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/yaseen-kc/yaseen-kc",
+            "updatedAt": "2024-12-19T01:12:20Z"
+        },
+        {
+            "name": "blog",
+            "description": "\u2728 A clean, fast, and responsive personal blog built using Hugo \u2013 a static site generator \u2013 to showcase your thoughts, projects, and writing. This blog is designed to be simple, customizable, and optimized for speed, with a modern and user-friendly layout. ",
+            "score": 0.3367496740233143,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yaseen-kc/blog",
+            "updatedAt": "2024-11-09T04:36:14Z"
+        },
+        {
+            "name": "Zwiggy",
+            "description": "This project is a clone of almost all features of popular food delivery platforms \ud83c\udf55\ud83c\udf54, built with React. It was developed to gain hands-on experience and deepen understanding of advanced React topics while building a real-world application.",
+            "score": 0.3216510325810537,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/yaseen-kc/Zwiggy",
+            "updatedAt": "2024-11-20T08:04:43Z"
+        },
+        {
+            "name": "portfolio",
+            "description": "A modern, responsive personal portfolio website built using HTML, SCSS, and JavaScript. This portfolio showcases my skills, projects, and experience in a sleek, interactive, and user-friendly design. It is optimized for both desktop and mobile viewing, allowing potential employers, clients, or collaborators to easily navigate through my work",
+            "score": 0.25077681414833924,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yaseen-kc/portfolio",
+            "updatedAt": "2024-11-09T04:43:06Z"
+        },
+        {
+            "name": "Vera-website",
+            "description": "https://vera-company.netlify.app/ Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.",
+            "score": 0.2504607887053257,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yaseen-kc/Vera-website",
+            "updatedAt": "2024-11-09T13:20:27Z"
+        },
+        {
+            "name": "airbnb-clone",
+            "description": "An Airbnb clone built using HTML and CSS. The goal is to recreate the basic layout and styling of the Airbnb website, providing a practical exercise for HTML and CSS enthusiasts to enhance their skills.",
+            "score": 0.25014791710700535,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yaseen-kc/airbnb-clone",
+            "updatedAt": "2024-12-02T18:31:01Z"
+        },
+        {
+            "name": "youtube.com-clone",
+            "description": "A simple YouTube clone built using HTML and CSS. It aims to replicate the basic layout and styling of the YouTube website, providing a starting point for beginners to practice HTML and CSS skills.",
+            "score": 0.24912708570745712,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yaseen-kc/youtube.com-clone",
+            "updatedAt": "2024-12-02T18:30:30Z"
+        }
+    ],
+    "followers": 25,
+    "following": 18,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 426,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/yaseenkc/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/yaseeenkc"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/kc.yaseen"
+        }
+    ],
+    "activity_summary": {
+        "yaseen-kc/yaseen-kc": {
+            "link": "https://github.com/yaseen-kc/yaseen-kc",
+            "summary": "Recently updated README.md and integrated waka-readme, enhancing the repository's documentation and visual appeal. These updates demonstrate a focus on improving the repository's presentation and functionality."
+        },
+        "yaseen-kc/100xDev": {
+            "link": "https://github.com/yaseen-kc/100xDev",
+            "summary": "Recently added content on React returns, re-rendering, and key concepts, showcasing a commitment to sharing knowledge on front-end development and staying up-to-date with industry trends."
+        }
+    },
+    "profile_summary": "Yaseen KC is a talented web developer known for crafting clean, modern, and responsive websites with expertise in JavaScript, HTML, and Java. As a seasoned professional, he leverages his technical skills to deliver high-quality solutions, ensuring seamless user experiences and efficient coding. With a strong online presence and influence, Yaseen has attracted a devoted following of 25 professionals, reflecting his dedication to the field and passion for innovation.\n\nWith a diverse portfolio of 15 public repositories, Yaseen demonstrates his commitment to continuous learning and improvement, always seeking to expand his expertise and stay at the forefront of industry trends. By combining impeccable technical skills with creative problem-solving abilities, he offers a unique value proposition to clients and collaborators, solidifying his position as a highly sought-after and reliable developer in the web development landscape."
+}

@@ -1,0 +1,105 @@
+{
+    "username": "mmuneesm99",
+    "name": "M Munees",
+    "bio": "",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/175437865?v=4",
+    "profile_url": "https://github.com/mmuneesm99",
+    "top_languages": [
+        [
+            "Vue",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "mmuneesm99",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mmuneesm99/mmuneesm99",
+            "updatedAt": "2024-11-28T13:07:10Z"
+        },
+        {
+            "name": "munees.co.inv1",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/mmuneesm99/munees.co.inv1",
+            "updatedAt": "2024-11-05T18:27:29Z"
+        },
+        {
+            "name": "imagecloude",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mmuneesm99/imagecloude",
+            "updatedAt": "2024-11-29T17:00:38Z"
+        },
+        {
+            "name": "premiumedentalstudio.in",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/mmuneesm99/premiumedentalstudio.in",
+            "updatedAt": "2024-11-29T16:59:36Z"
+        },
+        {
+            "name": "vue-gauge-chart",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/mmuneesm99/vue-gauge-chart",
+            "updatedAt": "2024-10-18T10:52:42Z"
+        },
+        {
+            "name": "finapp",
+            "description": null,
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mmuneesm99/finapp",
+            "updatedAt": "2024-07-27T20:06:28Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 208,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "premiumedentalstudio.in": {
+            "link": "https://github.com/mmuneesm99/premiumedentalstudio.in",
+            "summary": "Recent activities in this repository involved numerous updates and fixes between November 16th and 29th, indicating ongoing development and maintenance efforts."
+        },
+        "imagecloude": {
+            "link": "https://github.com/mmuneesm99/imagecloude",
+            "summary": "Recent activities in this repository centered around renaming and updating image files between November 18th and 29th, highlighting organizational efforts within the project."
+        }
+    },
+    "profile_summary": "M Munees is a highly skilled and innovative Vue developer with a strong proficiency in JavaScript and CSS. With a solid foundation in front-end development, Munees brings a unique blend of technical expertise and creative problem-solving skills to deliver high-quality solutions that meet and exceed client expectations. As an active contributor to the open-source community, Munees has established a portfolio of six public repositories, showcasing a commitment to ongoing learning and a passion for collaborating with fellow developers.\n\nWith a keen eye for detail and a passion for staying up-to-date with the latest industry trends, M Munees consistently delivers high-performing, scalable, and user-friendly applications that drive business results. As a dedicated and versatile developer, Munees is well-equipped to tackle complex projects, foster strong relationships with clients and team members, and drive technical innovation that fuels success in today's fast-paced digital landscape."
+}

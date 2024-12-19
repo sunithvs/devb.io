@@ -1,0 +1,128 @@
+{
+    "username": "mohammmmmmmmmmed",
+    "name": "Mohammed Sahal",
+    "bio": "Where's my Miata?",
+    "location": "Kochi, Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/118444006?u=3c0ec2fcd3dc305f4405a2082c7b59d533330aaf&v=4",
+    "profile_url": "https://github.com/mohammmmmmmmmmed",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "The-Strand-Project",
+            "description": null,
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/mohammmmmmmmmmed/The-Strand-Project",
+            "updatedAt": "2024-11-04T21:16:44Z"
+        },
+        {
+            "name": "Celeris",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/mohammmmmmmmmmed/Celeris",
+            "updatedAt": "2024-08-22T12:53:49Z"
+        },
+        {
+            "name": "peekaboo",
+            "description": null,
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mohammmmmmmmmmed/peekaboo",
+            "updatedAt": "2024-07-27T00:05:38Z"
+        },
+        {
+            "name": "rdis-external",
+            "description": null,
+            "score": 0.294478515998375,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mohammmmmmmmmmed/rdis-external",
+            "updatedAt": "2024-07-10T01:07:01Z"
+        },
+        {
+            "name": "Case-Converter",
+            "description": null,
+            "score": 0.2914039066494681,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mohammmmmmmmmmed/Case-Converter",
+            "updatedAt": "2024-07-01T18:38:29Z"
+        },
+        {
+            "name": "expense-tracker-py",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mohammmmmmmmmmed/expense-tracker-py",
+            "updatedAt": "2024-06-29T21:27:10Z"
+        },
+        {
+            "name": "Root-Bisection",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mohammmmmmmmmmed/Root-Bisection",
+            "updatedAt": "2024-06-30T19:10:41Z"
+        },
+        {
+            "name": "Ciphers",
+            "description": null,
+            "score": 0.2901082377277394,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mohammmmmmmmmmed/Ciphers",
+            "updatedAt": "2024-06-27T15:13:24Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 64,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mohammed-sahal-4b299924a/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/mohammmmmmmmmmmmmmmmmmmmmmme.d/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://discordapp.com/users/ironsidepickle"
+        }
+    ],
+    "profile_summary": "Mohammed Sahal is a highly skilled and accomplished software developer with a strong background in developing innovative solutions using C, C++, and TypeScript. With a significant portfolio of 64 public repositories, Mohammed has consistently demonstrated his ability to design and deliver high-quality projects that showcase his technical expertise and creativity. His dedication to staying up-to-date with the latest technologies and trends is evident in his commitment to continuous learning and self-improvement.\n\nAs a results-driven developer, Mohammed brings a unique combination of technical skills and problem-solving abilities to the table. His passion for coding and commitment to excellence have earned him recognition within the development community, and he continues to build a strong professional network. Although his professional network is still growing, his impressive body of work speaks to his expertise and reliability, making him a valuable asset to any team or project."
+}

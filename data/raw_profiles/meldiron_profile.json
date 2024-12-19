@@ -1,0 +1,142 @@
+{
+    "username": "meldiron",
+    "name": "Matej Ba\u010do",
+    "bio": "Open-minded software engineer \ud83d\udc4b",
+    "location": "Czech Republic - Prague",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19310830?u=4afa15959de1544aaa53f3adf87cfb89fc314771&v=4",
+    "profile_url": "https://github.com/Meldiron",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "JavaScript",
+            38
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ssr-logs-test",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Meldiron/ssr-logs-test",
+            "updatedAt": "2024-12-19T14:47:38Z"
+        },
+        {
+            "name": "almost-reddit-place",
+            "description": "r/place canvas clone made with Appwrite, Alpine.js and TailwindCSS",
+            "score": 12.673071981131054,
+            "stars": 69,
+            "forks": 13,
+            "language": "HTML",
+            "url": "https://github.com/Meldiron/almost-reddit-place",
+            "updatedAt": "2024-10-27T01:45:55Z"
+        },
+        {
+            "name": "appwrite-cms",
+            "description": "Prepare admin panels for your projects rapidly using Appwrite CMS, a headless CMS for any Appwrite project.",
+            "score": 12.452270827674802,
+            "stars": 42,
+            "forks": 22,
+            "language": "Svelte",
+            "url": "https://github.com/Meldiron/appwrite-cms",
+            "updatedAt": "2024-12-13T18:38:33Z"
+        },
+        {
+            "name": "authui",
+            "description": "Fully customizable login flow for your applications. Get started in minutes, not hours!",
+            "score": 12.028436705760152,
+            "stars": 69,
+            "forks": 8,
+            "language": "Svelte",
+            "url": "https://github.com/Meldiron/authui",
+            "updatedAt": "2024-11-23T21:42:12Z"
+        },
+        {
+            "name": "appwrite-tools",
+            "description": "Set of tools for Appwrite projects",
+            "score": 9.347002017089645,
+            "stars": 25,
+            "forks": 5,
+            "language": "JavaScript",
+            "url": "https://github.com/Meldiron/appwrite-tools",
+            "updatedAt": "2023-06-16T11:30:06Z"
+        },
+        {
+            "name": "appwrite-ssr-next-js",
+            "description": "Appwrite Loves Next.js! Demo application with authorized server-side and client-side rendering.",
+            "score": 9.01032912368352,
+            "stars": 20,
+            "forks": 5,
+            "language": "TypeScript",
+            "url": "https://github.com/Meldiron/appwrite-ssr-next-js",
+            "updatedAt": "2024-05-03T14:47:54Z"
+        },
+        {
+            "name": "railway-webhook-proxy",
+            "description": "Webhook proxy to trigger Appwrite Function. Hosted for free on Railway.",
+            "score": 8.949605224920546,
+            "stars": 7,
+            "forks": 20,
+            "language": "HTML",
+            "url": "https://github.com/Meldiron/railway-webhook-proxy",
+            "updatedAt": "2024-09-19T07:51:01Z"
+        },
+        {
+            "name": "appwrite-webhook-proxy",
+            "description": "A simple HTTP server behaving as proxy between webhooks and Appwrite Functions.",
+            "score": 8.731340636594803,
+            "stars": 30,
+            "forks": 2,
+            "language": "PHP",
+            "url": "https://github.com/Meldiron/appwrite-webhook-proxy",
+            "updatedAt": "2024-09-17T16:27:17Z"
+        }
+    ],
+    "followers": 232,
+    "following": 2,
+    "public_repos": 214,
+    "pull_requests_merged": 970,
+    "issues_closed": 423,
+    "achievements": {
+        "total_contributions": 3286,
+        "repositories_contributed_to": 53
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/matejbaco/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/_meldiron"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/matejbaco2000/"
+        }
+    ],
+    "activity_summary": {
+        "open-runtimes/open-runtimes": {
+            "link": "https://github.com/open-runtimes/open-runtimes",
+            "summary": "The Open Runtimes repository has seen significant activity in recent days with a focus on improving and expanding framework support. Key updates include the addition of SSR logs, a security-focused proxy, and new frameworks such as Astro, Next.js, Nuxt, and Angular. Moreover, several pull requests have been merged to address various issues and enhance the overall quality of the repository."
+        },
+        "Meldiron/store-template": {
+            "link": "https://github.com/Meldiron/store-template",
+            "summary": "The Store Template repository has undergone notable updates, primarily centered around template creation and refinement. Efforts have been made to ensure a responsive design, implement proper Git ignore configurations, and enhance the overall user experience with features such as product image handling and cart management."
+        },
+        "appwrite/appwrite": {
+            "link": "https://github.com/appwrite/appwrite",
+            "summary": "Although fewer in number, the Appwrite repository has received updates aimed at addressing test failures, showcasing the project's focus on maintaining stability and ensuring consistent functionality."
+        }
+    },
+    "profile_summary": "Matej Ba\u010do is a highly skilled and innovative software engineer with a proven track record of leveraging cutting-edge technologies to deliver exceptional solutions. With a strong command of Rust, TypeScript, and JavaScript, he possesses the technical expertise to design, develop, and deploy scalable, efficient, and reliable software applications. His expertise in these programming languages has been demonstrated through his active contributions to the development community, with a notable presence on GitHub, where he has established a professional network of over 230 followers and maintains an impressive portfolio of over 210 public repositories.\n\nAs a versatile and open-minded software engineer, Matej is committed to staying at the forefront of industry trends and advancements, continually expanding his skill set to tackle complex challenges and deliver unique value propositions. His dedication to ongoing learning and professional growth has earned him recognition and respect within the development community. With a collaborative mindset and a passion for driving innovation, Matej is an ideal partner for forward-thinking organizations seeking to tap into his expertise and technical prowess to drive success in an increasingly complex and competitive landscape."
+}

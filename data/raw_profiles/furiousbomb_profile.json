@@ -1,0 +1,57 @@
+{
+    "username": "furiousbomb",
+    "name": "sheepman105",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/68858816?u=7a67614c18af03592dc6a369cf6ac780650985f2&v=4",
+    "profile_url": "https://github.com/FuriousBomb",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "basic_list_app",
+            "description": "Just a simple list app I made a while ago which has the functionality to save new files to system and options to add \"to do\" tabs",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FuriousBomb/basic_list_app",
+            "updatedAt": "2024-10-27T14:22:55Z"
+        },
+        {
+            "name": "github-final-project",
+            "description": null,
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/FuriousBomb/github-final-project",
+            "updatedAt": "2024-07-27T15:10:21Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "FuriousBomb/basic_list_app": {
+            "link": "https://github.com/FuriousBomb/basic_list_app",
+            "summary": "Recent activities in the basic_list_app repository have focused on updates and development. Multiple commits were made on October 27, 2024, adding and updating files, including README.md and main app code with a Tkinter module. These enhancements showcase the growth and updates of this project."
+        }
+    },
+    "profile_summary": "Sheepman105 is a highly skilled software developer and proficient programmer specializing in the Python and Shell programming languages. With a strong foundation in core technologies, sheepman105 possesses a unique ability to leverage code-level expertise into solutions that drive business value and exceed customer expectations. By consistently delivering high-quality software products, sheepman105 has demonstrated exceptional technical skill and a passion for innovation.\n\nAs an emerging professional in the software development community, sheepman105 has actively contributed to the creation of five public repositories, showcasing a commitment to collaboration, knowledge-sharing, and community engagement. With a growing body of work and an unwavering dedication to staying at the forefront of industry trends, sheepman105 is well-positioned to make meaningful contributions to forward-thinking projects and organizations, driving technical excellence and delivering exceptional results."
+}

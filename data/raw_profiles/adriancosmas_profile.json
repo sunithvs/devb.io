@@ -1,0 +1,54 @@
+{
+    "username": "adriancosmas",
+    "name": "adriancosmas",
+    "bio": "",
+    "location": "Indonesia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/70308368?u=ff147b926bfabc8a1920edfd157aa19154ec661b&v=4",
+    "profile_url": "https://github.com/adriancosmas",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adriancosmas/portfolio",
+            "updatedAt": "2024-09-13T17:46:35Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/adriancosmas/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.behance.net/shibuyameto"
+        },
+        {
+            "provider": "generic",
+            "url": "https://read.cv/adriancosmas"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/shibuyameto"
+        }
+    ],
+    "profile_summary": "Adriancosmas is a skilled and detail-driven software developer with a strong foundation in TypeScript, a powerful language for building scalable and efficient applications. With a proven track record of actively contributing to open-source projects, Adriancosmas possesses a unique ability to design and develop innovative software solutions that meet the highest standards of quality and reliability.\n\nAs a rising star in the developer community, Adriancosmas brings a fresh perspective and unwavering passion for coding excellence to every project. With a solid understanding of modern software development principles and best practices, Adriancosmas is well-equipped to deliver high-quality solutions that meet the evolving needs of clients and users alike. Driven by a relentless pursuit of knowledge and innovation, Adriancosmas consistently seeks out new opportunities to grow and expand their technical expertise."
+}

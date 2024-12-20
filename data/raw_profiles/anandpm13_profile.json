@@ -1,0 +1,67 @@
+{
+    "username": "anandpm13",
+    "name": "anandpm13",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/85994414?v=4",
+    "profile_url": "https://github.com/anandpm13",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "anand-blog",
+            "description": null,
+            "score": 0.16669621184917072,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandpm13/anand-blog",
+            "updatedAt": "2023-11-13T13:52:55Z"
+        },
+        {
+            "name": "anandpm-blog",
+            "description": null,
+            "score": 0.16669621184917072,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandpm13/anandpm-blog",
+            "updatedAt": "2023-11-13T13:01:43Z"
+        },
+        {
+            "name": "nextjs-portfolio-starter",
+            "description": null,
+            "score": 0.06993088331786598,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandpm13/nextjs-portfolio-starter",
+            "updatedAt": "2021-06-26T06:22:01Z"
+        },
+        {
+            "name": "datavoyager",
+            "description": null,
+            "score": 0.0699155444730497,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/anandpm13/datavoyager",
+            "updatedAt": "2021-08-30T10:30:14Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Anandpm13 is a highly skilled and innovative JavaScript developer with a diverse portfolio of projects, showcasing expertise in delivering robust and scalable applications. With a strong foundation in programming principles and software development best practices, Anandpm13 consistently crafts high-quality code that is both efficient and reliable. Their proficiency in JavaScript enables them to tackle complex problems and develop creative solutions that meet the evolving needs of businesses and organizations.\n\nAs a driven and results-oriented professional, Anandpm13 consistently delivers high-quality projects that demonstrate a deep understanding of modern software development methodologies. With a growing portfolio of four public repositories, Anandpm13 continues to establish themselves as a talented and dedicated developer. With a focus on collaboration and continuous learning, Anandpm13 is an invaluable asset to any team seeking to drive innovation and growth through cutting-edge technology and exceptional coding skills."
+}

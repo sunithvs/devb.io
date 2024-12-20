@@ -1,0 +1,102 @@
+{
+    "username": "fallen-01",
+    "name": "Jeffin Basil",
+    "bio": "Enthusiast, code creator. Building, learning, and sharing passionately.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105587250?u=5becff4ce199c274366fdc4930135b22b324b9f8&v=4",
+    "profile_url": "https://github.com/FALLEN-01",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FALLEN-01",
+            "description": "Enthusiast, code creator. Building, learning, and sharing passionately",
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FALLEN-01/FALLEN-01",
+            "updatedAt": "2024-08-26T10:27:26Z"
+        },
+        {
+            "name": "AudioBook_with_GUI",
+            "description": "Python based program, using tkinter and PyPDF2, allows users to convert PDF files into audiobooks. Choose between a male or female voice",
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/AudioBook_with_GUI",
+            "updatedAt": "2024-01-27T08:03:15Z"
+        },
+        {
+            "name": "Voice-Assistant",
+            "description": "Utilizing Python's speech recognition library, this voice assistant can interpret spoken commands.",
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/Voice-Assistant",
+            "updatedAt": "2024-01-27T06:08:40Z"
+        },
+        {
+            "name": "Course_Management_System",
+            "description": "Course Management System: Python app for academic admin, user management, and mark entry. Tkinter GUI. Manage profiles and records efficiently.",
+            "score": 0.2445626371359932,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/Course_Management_System",
+            "updatedAt": "2024-02-03T15:28:33Z"
+        },
+        {
+            "name": "Turf_Booking_System",
+            "description": "Turf Booking System: C program for managing turf slots, bookings, and profits. Admin features, user bookings, and cancellation.",
+            "score": 0.2445626371359932,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/FALLEN-01/Turf_Booking_System",
+            "updatedAt": "2024-02-03T15:27:57Z"
+        },
+        {
+            "name": "saturday-hacknight",
+            "description": "\"Slithering Serpent\" is a timeless classic snake game that will take you on a nostalgic journey back to the era of retro gaming.",
+            "score": 0.16510412090242932,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/saturday-hacknight",
+            "updatedAt": "2023-10-21T14:32:25Z"
+        }
+    ],
+    "followers": 2,
+    "following": 5,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 38,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jeffin-basil"
+        }
+    ],
+    "activity_summary": {
+        "skills-copilot-codespaces-vscode": {
+            "link": "https://github.com/FALLEN-01/skills-copilot-codespaces-vscode",
+            "summary": "This repository experienced significant activities in October 2024, with multiple commits and updates related to GitHub Copilot integration and the setup of a devcontainer.json file for a Codespaces environment. These updates aim to enhance the development workflow and facilitate collaboration on the project."
+        }
+    },
+    "profile_summary": "Jeffin Basil is a highly skilled and innovative developer with a strong passion for creating cutting-edge code. With a solid foundation in programming languages such as Python and C, he possesses a unique combination of technical skills and expertise that enable him to tackle complex projects with ease. As a dedicated and responsible developer, Jeffin has built a reputation for delivering high-quality solutions that exceed expectations, solidifying his position as a trusted and reliable professional in the industry.\n\nThrough his public repositories and active online presence, Jeffin has demonstrated his commitment to sharing knowledge and collaborating with fellow developers, earning him a growing network of followers and peers who value his insights and expertise. With a relentless drive to learn and improve, Jeffin continuously updates his skills and stays at the forefront of industry trends, ensuring that his contributions remain relevant, innovative, and impactful. His dedication to building, learning, and sharing passionately has earned him recognition as a driven and accomplished developer in the field."
+}

@@ -1,0 +1,58 @@
+{
+    "username": "narjeeshtp",
+    "name": "Narjeesh Abdul khadar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/47671063?u=9bd5e8c06668553c0246a3bcc9a6f3976d81c30d&v=4",
+    "profile_url": "https://github.com/NarjeeshTP",
+    "top_languages": [
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "job-portal-backend",
+            "description": "A sample job portal backend using Spring Boot and MongoDB Atlas with search capabilities.",
+            "score": 1.775889814378298,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/NarjeeshTP/job-portal-backend",
+            "updatedAt": "2024-11-03T16:48:20Z"
+        },
+        {
+            "name": "todome-backend",
+            "description": "A Spring Boot backend API for managing tasks and follow-up tasks.",
+            "score": 1.7054106818508945,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/NarjeeshTP/todome-backend",
+            "updatedAt": "2024-11-03T17:21:26Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 13,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/narjeesh/"
+        }
+    ],
+    "activity_summary": {
+        "NarjeeshTP/job-portal-backend": {
+            "link": "https://github.com/NarjeeshTP/job-portal-backend",
+            "summary": "The job-portal-backend repository experienced a surge of activity on November 3, 2024, with multiple push events adding and updating project setup instructions and a README file. Initial commit was made for the job portal backend, leveraging Spring Boot and MongoDB Atlas search. A LICENSE.md file was also added to the repository, contributing to its completeness."
+        }
+    },
+    "profile_summary": "Narjeesh Abdul Khadar is a highly skilled Java developer with a proven track record of delivering innovative solutions and driving technical excellence. With a strong foundation in Java, he possesses a unique ability to drive complex projects forward, leveraging his expertise to design, develop, and deploy scalable, efficient applications. As a dedicated and results-driven professional, Narjeesh consistently demonstrates a deep understanding of his craft, staying up-to-date with the latest industry trends and technologies.\n\nAs a collaborative and influential developer, Narjeesh has established a growing professional network, with a notable following of peers who rely on his technical insights and expertise. Through his public repositories on GitHub, he showcases his active development projects, underscoring his commitment to open-source collaboration and knowledge sharing. By combining technical prowess, creative problem-solving skills, and a passion for innovation, Narjeesh positions himself as a go-to expert in Java development, ready to tackle challenging projects and drive business success through cutting-edge technology solutions."
+}

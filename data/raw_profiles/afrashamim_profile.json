@@ -1,0 +1,127 @@
+{
+    "username": "afrashamim",
+    "name": "AFRA B",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145262529?v=4",
+    "profile_url": "https://github.com/afrashamim",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Inbuilt-Chatbot",
+            "description": "This is a simple chatbot program that simulates a conversation with a user. The bot can respond to predefined questions about AI-related topics. It can also greet the user and respond to exit commands. Additionally, users have the option to add new questions and answers to expand the chatbot's knowledge.",
+            "score": 1.7230440351432048,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afrashamim/Inbuilt-Chatbot",
+            "updatedAt": "2024-11-16T15:14:26Z"
+        },
+        {
+            "name": "Vigil-Eye",
+            "description": "Vigil Eye is a real-time driver monitoring system designed to detect drowsiness and alert the driver with an audible warning. Using computer vision, machine learning, and an intuitive graphical interface, this system provides a reliable solution to enhance road safety.",
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afrashamim/Vigil-Eye",
+            "updatedAt": "2024-11-16T15:10:30Z"
+        },
+        {
+            "name": "Meme-Classifier",
+            "description": "This project is a simple image classification model that distinguishes between two categories of memes: \"Rickroll\" and \"Women and Cat Yelling\". The model uses a convolutional neural network (CNN) architecture built with TensorFlow/Keras to train and classify meme images.",
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/afrashamim/Meme-Classifier",
+            "updatedAt": "2024-11-16T16:53:13Z"
+        },
+        {
+            "name": "Ai_image_generator",
+            "description": "This project leverages the  Stable Diffusion V5 model to create stunning images based on text prompts. Simply provide a description, and the AI will generate an image and save it to your desktop.",
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afrashamim/Ai_image_generator",
+            "updatedAt": "2024-11-16T17:04:26Z"
+        },
+        {
+            "name": "RAG-based-LLM-application",
+            "description": "This project is a Real-Time Retrieval-Augmented Generation (RAG)-Based Language Model (LLM) Application built using Pathway, a real-time processing engine. This application enhances the capabilities of large language models (LLMs) by integrating external knowledge retrieval from real-time data sources. ",
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afrashamim/RAG-based-LLM-application",
+            "updatedAt": "2024-11-16T15:18:25Z"
+        },
+        {
+            "name": "Superhero-Prediction",
+            "description": "This Superhero prediction project uses logistic regression to predict a superhero's name based on various attributes. It utilizes Pandas for data manipulation, Matplotlib for visualization (if needed), and Scikit-learn for machine learning.",
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/afrashamim/Superhero-Prediction",
+            "updatedAt": "2024-11-16T15:13:53Z"
+        },
+        {
+            "name": "E-Commerce-Skincare-Website",
+            "description": "Skinzy is a demo e-commerce website which features a simple, effective skincare product to choose from. It is designed to provide a preview of how you can explore, search, and shop for skincare products.",
+            "score": 0.3367496740233143,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/afrashamim/E-Commerce-Skincare-Website",
+            "updatedAt": "2024-11-16T15:17:22Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "afrashamim/RAG-based-LLM-application": {
+            "link": "https://github.com/afrashamim/RAG-based-LLM-application",
+            "summary": "Recent updates to the RAG-based LLM application involved refactoring and updating the README file with new information."
+        },
+        "afrashamim/Vigil-Eye": {
+            "link": "https://github.com/afrashamim/Vigil-Eye",
+            "summary": "The Vigil-Eye repository recently went through significant updates, starting with an initial commit and getting a new README file along with several pushes of files."
+        },
+        "afrashamim/Ai_image_generator": {
+            "link": "https://github.com/afrashamim/Ai_image_generator",
+            "summary": "There were notable updates to the AI image generator involving adding files through uploads and refactoring the README file."
+        },
+        "afrashamim/Meme-Classifier": {
+            "link": "https://github.com/afrashamim/Meme-Classifier",
+            "summary": "The Meme Classifier repository witnessed important activity as a README file was added and further refinements were made through subsequent commits."
+        },
+        "afrashamim/Superhero-Prediction": {
+            "link": "https://github.com/afrashamim/Superhero-Prediction",
+            "summary": "Activity on the Superhero Prediction repository included second iteration updates as well as addition of a new README file, ensuring enhanced clarity and documentation."
+        }
+    },
+    "profile_summary": "Afra B is a highly skilled and accomplished developer with a strong proficiency in Python, Jupyter Notebook, and HTML. With a solid foundation in programming languages and a keen interest in data-driven solutions, Afra has established herself as a reliable and innovative professional in the field of software development. Her technical expertise has enabled her to showcase her coding capabilities through 7 public repositories, demonstrating her ability to collaborate and contribute to the open-source community.\n\nAfra's dedication to her craft has earned her a professional network of like-minded developers, with a notable following of 2. This indicates her influence and credibility as a respected member of the development community. With a strong focus on delivering high-quality solutions, Afra excels in leveraging her technical skills to drive meaningful results and drive innovation in her field. As a committed and driven professional, Afra B is well-positioned to tackle complex challenges and make significant contributions to the tech industry."
+}

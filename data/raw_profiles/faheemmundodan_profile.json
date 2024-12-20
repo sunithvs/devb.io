@@ -1,0 +1,71 @@
+{
+    "username": "faheemmundodan",
+    "name": "faheemmundodan",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105119123?v=4",
+    "profile_url": "https://github.com/FaheemMundodan",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FindFc_Backend",
+            "description": null,
+            "score": 0.2592062552949126,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FaheemMundodan/FindFc_Backend",
+            "updatedAt": "2024-01-30T08:08:33Z"
+        },
+        {
+            "name": "fullstack",
+            "description": null,
+            "score": 0.1552182794613759,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaheemMundodan/fullstack",
+            "updatedAt": "2023-04-03T04:25:07Z"
+        },
+        {
+            "name": "faheemmundodan.github.io",
+            "description": null,
+            "score": 0.07333711138165712,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/faheemmundodan.github.io",
+            "updatedAt": "2022-06-20T17:21:51Z"
+        },
+        {
+            "name": "Personal-website",
+            "description": null,
+            "score": 0.0728348269577788,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/Personal-website",
+            "updatedAt": "2022-05-07T17:17:44Z"
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "profile_summary": "Highly skilled Python developer faheemmundodan is a versatile and accomplished professional with a strong foundation in HTML and a proven track record of delivering high-quality solutions. Leveraging a unique expertise in Python, faheemmundodan efficiently crafts scalable and reliable code that meets and exceeds project requirements. With a keen eye for detail and a drive for innovation, they excel at resolving complex technical challenges and consistently deliver cutting-edge solutions that drive results.\n\nAs a dedicated and forward-thinking developer, faheemmundodan actively contributes to the open-source community, showcasing a portfolio of 5 public repositories that demonstrate their technical prowess and commitment to collaborative development. With a growing network of 4 followers, faheemmundodan continues to build a strong professional presence, cementing their position as a trusted and reliable partner for projects requiring expertise in Python and HTML."
+}

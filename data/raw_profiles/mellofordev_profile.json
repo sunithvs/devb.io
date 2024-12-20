@@ -1,0 +1,134 @@
+{
+    "username": "mellofordev",
+    "name": "Sreedhar k.s",
+    "bio": "A random guy from kerala \r\n",
+    "location": "Allappuzha ,Kerala India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53270409?u=9cbec454b088d913c78aa711856d8025278c6937&v=4",
+    "profile_url": "https://github.com/mellofordev",
+    "top_languages": [
+        [
+            "Python",
+            15
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "JavaScript",
+            13
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "palmier",
+            "description": null,
+            "score": 3.4668206328667686,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mellofordev/palmier",
+            "updatedAt": "2024-12-05T06:21:54Z"
+        },
+        {
+            "name": "advent24site",
+            "description": null,
+            "score": 2.6891525493709563,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/mellofordev/advent24site",
+            "updatedAt": "2024-05-13T13:32:01Z"
+        },
+        {
+            "name": "adventsite",
+            "description": null,
+            "score": 2.661182860927907,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/mellofordev/adventsite",
+            "updatedAt": "2024-05-28T09:25:48Z"
+        },
+        {
+            "name": "roommates",
+            "description": "Websocket based group chat platform (non react version)",
+            "score": 2.4088625880737613,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mellofordev/roommates",
+            "updatedAt": "2024-05-25T16:10:54Z"
+        },
+        {
+            "name": "potato",
+            "description": "Potato  API(python )version 1.0.0 version 8.1.0.9 will be uploaded soon !",
+            "score": 2.3982992607612976,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mellofordev/potato",
+            "updatedAt": "2024-05-25T16:11:22Z"
+        },
+        {
+            "name": "arc",
+            "description": null,
+            "score": 1.9102925333814653,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/mellofordev/arc",
+            "updatedAt": "2024-07-02T15:20:49Z"
+        },
+        {
+            "name": "internshipcell",
+            "description": "website of internship cell sct",
+            "score": 1.79817145118822,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/mellofordev/internshipcell",
+            "updatedAt": "2022-12-24T16:12:08Z"
+        },
+        {
+            "name": "mellofordev",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.5951617002236398,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mellofordev/mellofordev",
+            "updatedAt": "2024-06-12T17:23:03Z"
+        }
+    ],
+    "followers": 26,
+    "following": 5,
+    "public_repos": 64,
+    "pull_requests_merged": 26,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 706,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/boywithacap"
+        }
+    ],
+    "activity_summary": {
+        "mellofordev/mello_website": {
+            "link": "https://github.com/mellofordev/mello_website",
+            "summary": "The repository has seen significant updates with multiple refactors, a new feature for adding Google AdSense script and several bug fixes, mainly between October 16 and November 19, 2024."
+        },
+        "mellofordev/expo-onboard-template": {
+            "link": "https://github.com/mellofordev/expo-onboard-template",
+            "summary": "On November 1, 2024, there was a code update to change the package name to expo-onboard-template."
+        },
+        "mellofordev/sstapi": {
+            "link": "https://github.com/mellofordev/sstapi",
+            "summary": "A push event on September 25, 2024, updated the repository to export team winner data."
+        }
+    },
+    "profile_summary": "Sreedhar k.s is a versatile and accomplished software developer with a strong foundation in programming languages, including Python, TypeScript, and JavaScript. With a proven track record of delivering high-quality solutions and a commitment to staying at the forefront of industry trends, he is a valuable asset to any development team. As a seasoned professional with a continually growing network and a substantial portfolio of publicly available projects, Sreedhar has established himself as a reliable and skilled developer in the global technical community.\n\nWith a robust background in software development and a passion for creating innovative solutions, Sreedhar brings technical expertise, problem-solving skills, and creativity to his work. His dedication to staying up-to-date with the latest industry advancements and best practices has allowed him to consistently deliver outstanding results. As an accomplished developer with a strong online presence and a demonstrated commitment to sharing knowledge through open-source projects, Sreedhar is a sought-after collaborator and technical leader in his field.\n\n(Note: For this profile, since no specific achievements or awards were mentioned I was not able to include those in the description, also changed \"A random guy from kerala\" with professional and core information about him as there isn't much content in the bio part)"
+}

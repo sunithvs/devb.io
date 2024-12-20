@@ -1,0 +1,133 @@
+{
+    "username": "karivarkey",
+    "name": "Geevarghese Regi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/79575529?u=35e2891d998b01ebaf5ea4c7e748d51b0bcc37bb&v=4",
+    "profile_url": "https://github.com/karivarkey",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kodomo",
+            "description": null,
+            "score": 3.538347849823821,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/karivarkey/kodomo",
+            "updatedAt": "2024-08-15T09:24:19Z"
+        },
+        {
+            "name": "I3-Rice",
+            "description": "Dot files and wallpaper for the personal setup",
+            "score": 3.4349470061436835,
+            "stars": 4,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/karivarkey/I3-Rice",
+            "updatedAt": "2024-11-04T13:26:51Z"
+        },
+        {
+            "name": "mini-project-DBMS",
+            "description": null,
+            "score": 2.7745228723209845,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/karivarkey/mini-project-DBMS",
+            "updatedAt": "2024-11-15T04:07:57Z"
+        },
+        {
+            "name": "clab",
+            "description": null,
+            "score": 1.6242906616693324,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/karivarkey/clab",
+            "updatedAt": "2024-09-01T18:53:29Z"
+        },
+        {
+            "name": "WRTC",
+            "description": null,
+            "score": 1.2087481281576076,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/karivarkey/WRTC",
+            "updatedAt": "2023-12-16T06:09:23Z"
+        },
+        {
+            "name": "munchmate-backend-test",
+            "description": null,
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/karivarkey/munchmate-backend-test",
+            "updatedAt": "2024-09-23T15:57:45Z"
+        },
+        {
+            "name": "banzan-timer",
+            "description": null,
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/karivarkey/banzan-timer",
+            "updatedAt": "2024-08-25T17:18:05Z"
+        },
+        {
+            "name": "banzan-todo",
+            "description": null,
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/karivarkey/banzan-todo",
+            "updatedAt": "2024-08-25T17:09:01Z"
+        }
+    ],
+    "followers": 21,
+    "following": 10,
+    "public_repos": 38,
+    "pull_requests_merged": 20,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 498,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "karivarkey/mini-project-DBMS": {
+            "link": "https://github.com/karivarkey/mini-project-DBMS",
+            "summary": "Recent activities on this repository involve various frontend and backend enhancements, including the addition of about, orders, and product pages, as well as the implementation of sorting, image upload, and chatbot features."
+        },
+        "karivarkey/karivarkey.github.io": {
+            "link": "https://github.com/karivarkey/karivarkey.github.io",
+            "summary": "Recent activities include updates to bio data and configurations, demonstrating a focused effort on maintaining a comprehensive online presence."
+        },
+        "gtech-mulearn/Top-100-Coders": {
+            "link": "https://github.com/gtech-mulearn/Top-100-Coders",
+            "summary": "The repository received a pull request from a new member, including a comprehensive profile and checklist, which indicates that the community is actively growing and engaging with new participants."
+        },
+        "karivarkey/Top-100-Coders": {
+            "link": "https://github.com/karivarkey/Top-100-Coders",
+            "summary": "A new profile for a member was recently created, contributing to the repository's collection of profiles for top coders in Kerala."
+        }
+    },
+    "profile_summary": "Geevarghese Regi is a skilled and accomplished software developer with a strong foundation in C, TypeScript, and Python. With a demonstrated track record of success, he delivers high-quality solutions that showcase his technical expertise and innovative approach. As an active open-source contributor with 38 public repositories, Geevarghese consistently demonstrates his ability to collaborate, adapt, and grow in a rapidly evolving technological landscape.\n\nAs a respected member of the tech community, Geevarghese has earned the trust and admiration of his peers, with 21 followers who value his insights and contributions. His unique blend of technical skills, experience, and collaborative mindset makes him a valuable asset to any project or team. With a passion for staying at the forefront of industry trends and advancements, Geevarghese Regi is dedicated to delivering exceptional results and pushing the boundaries of what is possible through intelligent, effective code."
+}

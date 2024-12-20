@@ -1,0 +1,101 @@
+{
+    "username": "varnanarajeev",
+    "name": "Vars",
+    "bio": "Error",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/162691134?u=79578937e540007eb6cc2b5b302e6f196d108dcd&v=4",
+    "profile_url": "https://github.com/Varnanarajeev",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DocuMate",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Varnanarajeev/DocuMate",
+            "updatedAt": "2024-10-27T06:57:38Z"
+        },
+        {
+            "name": "Marco",
+            "description": null,
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Varnanarajeev/Marco",
+            "updatedAt": "2024-10-28T14:58:41Z"
+        },
+        {
+            "name": "Varnanarajeev",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Varnanarajeev/Varnanarajeev",
+            "updatedAt": "2024-10-27T06:59:19Z"
+        },
+        {
+            "name": "Prototypes",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Varnanarajeev/Prototypes",
+            "updatedAt": "2024-10-19T21:40:45Z"
+        },
+        {
+            "name": "skills-copilot-codespaces-vscode",
+            "description": "My clone repository",
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Varnanarajeev/skills-copilot-codespaces-vscode",
+            "updatedAt": "2024-10-19T13:26:39Z"
+        },
+        {
+            "name": "sum.py",
+            "description": null,
+            "score": 0.26504191422724854,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Varnanarajeev/sum.py",
+            "updatedAt": "2024-03-08T09:38:16Z"
+        }
+    ],
+    "followers": 1,
+    "following": 4,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 44,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Varnanarajeev/shopify": {
+            "link": "https://github.com/Varnanarajeev/shopify",
+            "summary": "This repository has experienced significant activity with multiple updates to README.md and the addition of new project files. Furthermore, pushes to the master branch updated the app.py file, adding to the repository's functionality."
+        },
+        "Varnanarajeev/Marco": {
+            "link": "https://github.com/Varnanarajeev/Marco",
+            "summary": "This repository has also seen considerable activity, with a series of commits updating the README.md file and multiple pushes improving the app.py file, indicating growth and development of the project."
+        },
+        "Varnanarajeev/DocuMate": {
+            "link": "https://github.com/Varnanarajeev/DocuMate",
+            "summary": "The DocuMate repository experienced a burst of activity, with several updates to README.md, and the upload of new project files, showcasing the project's expanding scope and utility."
+        }
+    },
+    "profile_summary": "Vars is a highly skilled and accomplished Python developer with a strong reputation for delivering innovative solutions. With a proven track record of creating high-quality code and collaborating with other professionals, Vars has established a network of peers who recognize their expertise. As an active contributor to the development community, Vars has developed a diverse portfolio of public repositories, showcasing their ability to tackle complex challenges and drive technological advancements.\n\nAs a problem-solver with a passion for error resolution, Vars excels in leveraging Python to drive efficiency, scalability, and reliability. With a deep understanding of software engineering principles and best practices, Vars brings a unique combination of technical expertise and collaborative spirit to every project. By staying up-to-date with the latest industry trends and technologies, Vars continues to expand their skillset and provide cutting-edge solutions that meet the evolving needs of modern businesses and applications."
+}

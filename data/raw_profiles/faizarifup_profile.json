@@ -1,0 +1,120 @@
+{
+    "username": "faizarifup",
+    "name": "Faiz Arif U P",
+    "bio": "| Developer |",
+    "location": "Kozhikode, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68603404?u=6c143960f75a9e112e0f1469bdb04772f6d1cbad&v=4",
+    "profile_url": "https://github.com/FaizArifUP",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FaizArifUP",
+            "description": null,
+            "score": 4.468972370722983,
+            "stars": 4,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/FaizArifUP",
+            "updatedAt": "2024-09-19T06:21:23Z"
+        },
+        {
+            "name": "FaizArifUP.github.io",
+            "description": "Portfolio",
+            "score": 1.7172302848135312,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaizArifUP/FaizArifUP.github.io",
+            "updatedAt": "2024-09-19T06:38:04Z"
+        },
+        {
+            "name": "Android-Lab",
+            "description": "Mobile Application Development Lab",
+            "score": 1.6405360724759672,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/Android-Lab",
+            "updatedAt": "2024-05-23T17:06:57Z"
+        },
+        {
+            "name": "Image-Captioning",
+            "description": "A mini project using Deep Learning.",
+            "score": 1.6403008112909587,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FaizArifUP/Image-Captioning",
+            "updatedAt": "2024-05-23T17:06:59Z"
+        },
+        {
+            "name": "Data-Structures-Lab",
+            "description": null,
+            "score": 1.6316456822841128,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/FaizArifUP/Data-Structures-Lab",
+            "updatedAt": "2024-05-23T17:07:03Z"
+        },
+        {
+            "name": "Java-Programs",
+            "description": null,
+            "score": 1.6311176068796036,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/FaizArifUP/Java-Programs",
+            "updatedAt": "2024-05-23T17:07:03Z"
+        },
+        {
+            "name": "shn-twitter-api",
+            "description": null,
+            "score": 0.07260548937465872,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/shn-twitter-api",
+            "updatedAt": "2022-04-16T07:22:05Z"
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.07012525833828821,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaizArifUP/github-slideshow",
+            "updatedAt": "2021-07-20T11:11:57Z"
+        }
+    ],
+    "followers": 41,
+    "following": 58,
+    "public_repos": 14,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 13,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/faizarifup"
+        }
+    ],
+    "profile_summary": "Faiz Arif U P is a highly skilled developer with a strong foundation in programming languages including C, Python, and Java. With a demonstrated track record of delivering high-quality solutions, Faiz possesses a unique ability to leverage technical expertise to drive innovation and excellence in software development. As an established member of the developer community, Faiz's presence is reinforced by a notable network of 41 followers, underscoring their influence and reputation.\n\nFaiz's remarkable development portfolio showcases 14 public repositories, underscoring an unwavering commitment to ongoing learning and growth. As a versatile and results-driven developer, Faiz consistently seeks to capitalize on emerging trends and technologies to craft forward-thinking solutions that meet the evolving needs of the industry. With an unwavering passion for coding and a proven ability to deliver exceptional results, Faiz is an accomplished professional poised to make a lasting impact in the world of software development."
+}

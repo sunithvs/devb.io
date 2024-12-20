@@ -1,0 +1,138 @@
+{
+    "username": "alwinantony29",
+    "name": "Alwin Antony",
+    "bio": "Experienced MERN stack web developer\r\n",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110175978?u=c82542097792d7e57b667aec4ee1c9ed8fefdb8f&v=4",
+    "profile_url": "https://github.com/alwinantony29",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "full-stack-task",
+            "description": "Developed a web application that allows users to upload a PDF file and extract certain pages from the PDF to create a new PDF.",
+            "score": 2.3578275020620176,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/alwinantony29/full-stack-task",
+            "updatedAt": "2023-08-13T07:34:22Z"
+        },
+        {
+            "name": "task-manager",
+            "description": null,
+            "score": 1.2016413491594184,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/alwinantony29/task-manager",
+            "updatedAt": "2023-08-27T07:25:09Z"
+        },
+        {
+            "name": "beyond-us-hackathon-ST06-",
+            "description": null,
+            "score": 1.1990893646789673,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/alwinantony29/beyond-us-hackathon-ST06-",
+            "updatedAt": "2023-07-08T13:20:49Z"
+        },
+        {
+            "name": "my-website",
+            "description": "Html & bootstrap ",
+            "score": 1.1873391573555845,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/alwinantony29/my-website",
+            "updatedAt": "2023-05-19T10:19:09Z"
+        },
+        {
+            "name": "graphql-nest",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alwinantony29/graphql-nest",
+            "updatedAt": "2024-12-09T04:46:51Z"
+        },
+        {
+            "name": "my-strapi-demo",
+            "description": null,
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/alwinantony29/my-strapi-demo",
+            "updatedAt": "2024-07-22T08:59:04Z"
+        },
+        {
+            "name": "strapi-demo",
+            "description": null,
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/alwinantony29/strapi-demo",
+            "updatedAt": "2024-07-20T11:33:57Z"
+        },
+        {
+            "name": "Astral-App",
+            "description": null,
+            "score": 0.26993817036354906,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alwinantony29/Astral-App",
+            "updatedAt": "2024-04-05T14:15:15Z"
+        }
+    ],
+    "followers": 18,
+    "following": 29,
+    "public_repos": 41,
+    "pull_requests_merged": 5,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 1144,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alwin-antony-5227971b8"
+        },
+        {
+            "provider": "generic",
+            "url": "https://instagram.com/itz_me_alwiii?igshid=MzNlNGNkZWQ4Mg=="
+        }
+    ],
+    "activity_summary": {
+        "alwinantony29/graphql-nest": {
+            "link": "https://github.com/alwinantony29/graphql-nest",
+            "summary": "This repository has seen a surge in development with additions to the author and book modules, including functionalities such as CRUD operations and websockets for chat features. Various resolvers have been updated, and code organization has improved."
+        },
+        "alwinantony29/alwinantony29": {
+            "link": "https://github.com/alwinantony29/alwinantony29",
+            "summary": "Recent updates in this repository have focused on enhancing the README file, suggesting an effort to improve documentation and clarity for users."
+        },
+        "johnjofin07/Translator": {
+            "link": "https://github.com/johnjofin07/Translator",
+            "summary": "Development in the Translator repository has led to the addition of language codes in the UI, improving user experience by reducing confusion, and introducing the copy feature on click."
+        }
+    },
+    "profile_summary": "Alwin Antony is a highly skilled MERN stack web developer with a strong proficiency in TypeScript, JavaScript, and Java, delivering high-quality solutions to drive business growth and innovation. With a proven track record of actively developing and contributing to various projects, Alwin has established a strong presence in the developer community, as evident from his extensive network of 18 followers and 41 public repositories that showcase his dedication to staying up-to-date with the latest technologies and trends.\n\nAs an experienced web developer, Alwin brings a unique combination of technical expertise, passion for coding, and a keen eye for detail to every project he undertakes. His expertise in creating scalable, efficient, and reliable web applications has earned him recognition as a trusted and accomplished developer in his field. By leveraging his technical skills and staying at the forefront of industry developments, Alwin continues to drive innovation and deliver exceptional results that exceed expectations."
+}

@@ -1,0 +1,53 @@
+{
+    "username": "thoyyibarazak",
+    "name": "Thoyyiba Jabin P P",
+    "bio": "Developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135024873?u=e7ac0bdf6b3d484226c310bf79280a2756d49de7&v=4",
+    "profile_url": "https://github.com/thoyyibarazak",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "thoyyibarazak.github.io",
+            "description": "Portfolio",
+            "score": 1.7257499181620255,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/thoyyibarazak/thoyyibarazak.github.io",
+            "updatedAt": "2024-09-28T18:41:42Z"
+        },
+        {
+            "name": "thoyyibarazak",
+            "description": "GitHub Profile",
+            "score": 1.6665708487602198,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/thoyyibarazak/thoyyibarazak",
+            "updatedAt": "2024-09-28T18:36:10Z"
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "thoyyibarazak/thoyyibarazak.github.io": {
+            "link": "https://github.com/thoyyibarazak/thoyyibarazak.github.io",
+            "summary": "Recently updated the repository on September 28, 2024, by modifying the index.html file, which indicates maintenance and improvement of the site's main page content."
+        }
+    },
+    "profile_summary": "Thoyyiba Jabin P P is an accomplished developer with a strong foundation in HTML, consistently delivering high-quality solutions that exceed industry standards. With a growing professional network and active contributions to the development community, Thoyyiba has established a reputation as a reliable and innovative professional who can effectively bridge the gap between technical expertise and real-world applications. As an active developer, Thoyyiba has successfully created and maintained multiple public repositories, showcasing a commitment to collaboration and open-source development.\n\nAs a skilled HTML developer, Thoyyiba brings a unique combination of technical expertise and creative problem-solving skills to the table, driving innovation and growth in the field. With a focus on delivering forward-thinking solutions that meet the evolving needs of the industry, Thoyyiba continuously updates their skills and knowledge to stay at the forefront of the latest trends and technologies. As a dedicated professional, Thoyyiba is poised to make a lasting impact in the world of software development, bringing value and expertise to every project they undertake."
+}

@@ -1,0 +1,125 @@
+{
+    "username": "akashno",
+    "name": "noakash",
+    "bio": "Self taught web developer.\r\nPing me @n.o.codes ",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/52347258?u=ba7da8983e52e0e2d65de8f2308dd719f8428392&v=4",
+    "profile_url": "https://github.com/Akashno",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gym-management",
+            "description": "The Gym Admin Panel project aims to create a platform for gym owners to manage their clients and payment details, including client registration, payment management, and attendance tracking. The project aims to streamline gym operations and improve customer experience.",
+            "score": 1.5484893694133974,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Akashno/gym-management",
+            "updatedAt": "2023-09-18T20:01:41Z"
+        },
+        {
+            "name": "docs",
+            "description": "Create your documentation in seconds with this template",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Akashno/docs",
+            "updatedAt": "2024-10-10T13:43:11Z"
+        },
+        {
+            "name": "kosu",
+            "description": null,
+            "score": 0.15248091473715275,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Akashno/kosu",
+            "updatedAt": "2023-01-15T13:56:08Z"
+        },
+        {
+            "name": "chat-api",
+            "description": "Socket.io powered chat backend",
+            "score": 0.1476433091794241,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Akashno/chat-api",
+            "updatedAt": "2023-02-13T17:30:09Z"
+        },
+        {
+            "name": "popup-editor",
+            "description": null,
+            "score": 0.07503977825638221,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Akashno/popup-editor",
+            "updatedAt": "2022-10-29T08:35:22Z"
+        },
+        {
+            "name": "gym-client",
+            "description": null,
+            "score": 0.0741912784071857,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Akashno/gym-client",
+            "updatedAt": "2022-10-19T11:03:58Z"
+        },
+        {
+            "name": "goofy-client",
+            "description": "A Lofi music app built in vue js",
+            "score": 0.07408768922369381,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Akashno/goofy-client",
+            "updatedAt": "2022-09-26T16:55:34Z"
+        },
+        {
+            "name": "Music-app-in-nuxt-js",
+            "description": "Lofi music app",
+            "score": 0.07402358341592558,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Akashno/Music-app-in-nuxt-js",
+            "updatedAt": "2022-08-20T11:45:53Z"
+        }
+    ],
+    "followers": 6,
+    "following": 5,
+    "public_repos": 45,
+    "pull_requests_merged": 9,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 497,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "mcdc": {
+            "link": "https://github.com/Akashno/mcdc",
+            "summary": "Recent updates to the repository involved multiple push events in a short timeframe on October 10, 2024, including upgrading from a minimal workflow, adding a custom CNAME file, and increasing version numbers. These adjustments hinted toward enhancing the repository's functionality and possibly ensuring its hosting or deployment."
+        },
+        "color-mode": {
+            "link": "https://github.com/Akashno/color-mode",
+            "summary": "A significant fix was made on September 19, 2024, addressing a typo in the installation command for color-mode. This correction, most likely made for nuximod, signifies a critical maintenance step in keeping the repository up-to-date and free of build errors."
+        }
+    },
+    "profile_summary": "Highly skilled and innovative web developer noakash brings over 45 publicly available repositories of cutting-edge projects, cementing their position as a committed and reliable presence in the coding community. As a self-taught expert with a strong grasp of in-demand programming languages including TypeScript, JavaScript, and Python, noakash delivers high-quality solutions in a rapidly evolving tech landscape.\n\nWith a growing network of peers and a notable presence on major platforms, noakash is well-regarded for their proactive approach to staying at the forefront of coding best practices. Leveraging their natural talent, resourcefulness, and unwavering enthusiasm for all things tech-related, noakash consistently drives results that meet and exceed expectations, making them an invaluable asset to collaborative projects and tech initiatives alike."
+}

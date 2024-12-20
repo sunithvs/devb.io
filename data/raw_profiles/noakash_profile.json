@@ -1,0 +1,81 @@
+{
+    "username": "noakash",
+    "name": "noakash",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/125884820?v=4",
+    "profile_url": "https://github.com/Noakash",
+    "top_languages": [
+        [
+            "EJS",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "secret",
+            "description": null,
+            "score": 0.15600198409770594,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/Noakash/secret",
+            "updatedAt": "2023-04-22T17:53:36Z"
+        },
+        {
+            "name": "Story",
+            "description": "My masterpiece.",
+            "score": 0.15450347594188987,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Noakash/Story",
+            "updatedAt": "2023-03-14T13:16:02Z"
+        },
+        {
+            "name": "Story2",
+            "description": null,
+            "score": 0.15450347594188987,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Noakash/Story2",
+            "updatedAt": "2023-03-14T16:54:48Z"
+        },
+        {
+            "name": "Niv_Zarfati",
+            "description": null,
+            "score": 0.15378014558967593,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Noakash/Niv_Zarfati",
+            "updatedAt": "2023-02-22T19:52:54Z"
+        },
+        {
+            "name": "cv",
+            "description": null,
+            "score": 0.15370937472835366,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Noakash/cv",
+            "updatedAt": "2023-02-20T12:32:17Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "noakash is a skilled web development professional with expertise in EJS and HTML, consistently delivering high-quality solutions with a strong focus on code efficiency and innovation. With a growing portfolio of publicly available repositories showcasing active development and a passion for improvement, noakash demonstrates a keen eye for detail and a commitment to ongoing learning and growth.\n\nAs an accomplished developer, noakash leverages technical expertise to craft effective, user-centric solutions that meet the evolving needs of modern web applications. Through a dedication to clean code and best practices, noakash ensures seamless integration and reliable performance, making them a valuable asset to collaborative development projects and a reliable partner in driving digital innovation forward."
+}

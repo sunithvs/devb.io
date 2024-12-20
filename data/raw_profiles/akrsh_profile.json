@@ -1,0 +1,57 @@
+{
+    "username": "akrsh",
+    "name": "Andreas Kraushaar",
+    "bio": "",
+    "location": "Ruhr Area, Germany",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1309623?u=bf3ca8ec5cdfffa8086f417e89ba6f7de7151936&v=4",
+    "profile_url": "https://github.com/akrsh",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "xbmc500px",
+            "description": null,
+            "score": 1.445439169893763,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/akrsh/xbmc500px",
+            "updatedAt": "2014-11-09T23:20:01Z"
+        },
+        {
+            "name": "akrsh.github.io",
+            "description": null,
+            "score": 0.06564457357783841,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/akrsh/akrsh.github.io",
+            "updatedAt": "2019-05-29T13:54:29Z"
+        },
+        {
+            "name": "lightroom",
+            "description": "stuff for Adobe Lightroom",
+            "score": 0.06488313340031154,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/akrsh/lightroom",
+            "updatedAt": "2020-12-07T09:33:10Z"
+        }
+    ],
+    "followers": 1,
+    "following": 8,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Andreas Kraushaar is a highly skilled developer with expertise in HTML, consistently delivering high-quality results in his projects. As an active contributor to the developer community, he has built a professional network and demonstrated his influence by earning a following of peers who respect his work. With a strong portfolio of public repositories, Andreas showcases his commitment to continuous learning and improvement, while also sharing his knowledge and expertise with others.\n\nAs a seasoned developer, Andreas brings a wealth of experience and technical prowess to his work, leveraging HTML to drive innovative solutions and solve complex problems. With a focus on reliability and precision, he has earned a reputation as a high-performing professional who consistently delivers results-driven projects. Andreas's dedication to his craft, coupled with his willingness to share knowledge and collaborate with others, makes him a valuable asset to any development team."
+}

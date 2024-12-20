@@ -1,0 +1,146 @@
+{
+    "username": "ar1701",
+    "name": "Ayush Raj",
+    "bio": "Coding/Development/Robotics Enthusiast | 9+GPA/B-tech/CUSAT'26 Software Trainee at Horizon Mars Rover Team, CUSAT",
+    "location": "Kochi, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/65725168?u=552fb8ad7542c945d285182e51566cb09e2abf7b&v=4",
+    "profile_url": "https://github.com/ar1701",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DIKSHA-Novathon-",
+            "description": null,
+            "score": 2.911288311682817,
+            "stars": 1,
+            "forks": 1,
+            "language": "SCSS",
+            "url": "https://github.com/ar1701/DIKSHA-Novathon-",
+            "updatedAt": "2024-12-13T17:45:51Z"
+        },
+        {
+            "name": "HackMatch",
+            "description": null,
+            "score": 1.914121806266773,
+            "stars": 0,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ar1701/HackMatch",
+            "updatedAt": "2024-06-10T13:47:35Z"
+        },
+        {
+            "name": "ROS2-TurtleSim-Project",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ar1701/ROS2-TurtleSim-Project",
+            "updatedAt": "2024-11-26T03:35:25Z"
+        },
+        {
+            "name": "Naive_Bayes_Classfication_Algorithm",
+            "description": null,
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ar1701/Naive_Bayes_Classfication_Algorithm",
+            "updatedAt": "2024-11-13T13:45:03Z"
+        },
+        {
+            "name": "ROS2_Humble",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/ar1701/ROS2_Humble",
+            "updatedAt": "2024-11-26T03:25:47Z"
+        },
+        {
+            "name": "ar1701",
+            "description": null,
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ar1701/ar1701",
+            "updatedAt": "2024-11-01T05:59:58Z"
+        },
+        {
+            "name": "Zerodha",
+            "description": null,
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ar1701/Zerodha",
+            "updatedAt": "2024-10-23T23:39:02Z"
+        },
+        {
+            "name": "Placement-Management-System",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/ar1701/Placement-Management-System",
+            "updatedAt": "2024-10-20T05:38:51Z"
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 44,
+    "pull_requests_merged": 65,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 548,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "http://www.linkedin.com/in/ayush-raj17"
+        },
+        {
+            "provider": "generic",
+            "url": "https://twitter.com/Ayushraj2833?t=ol5AVCtgGAyBGitUhX7JFA&s=09"
+        },
+        {
+            "provider": "generic",
+            "url": "https://instagram.com/ayushrajjofficial?igshid=ZDdkNTZiNTM="
+        }
+    ],
+    "activity_summary": {
+        "CodeCrew_Novathon": {
+            "link": "https://github.com/ar1701/CodeCrew_Novathon",
+            "summary": "Significant updates were made to the repository, including changes to the UI, addition of a logo, and modifications to the frontend and backend. Multiple commits were pushed in a short period of time, indicating a high level of activity and development in the repository."
+        },
+        "llmware": {
+            "link": "https://github.com/llmware-ai/llmware",
+            "summary": "A series of pull requests were submitted to the repository, adding the DIKSHA Project for Novathon to the hackathon folder. This suggests a significant contribution to the repository and an ongoing effort to integrate new projects and features."
+        },
+        "llmware-ar1701": {
+            "link": "https://github.com/ar1701/llmware",
+            "summary": "The repository received multiple pushes, including modifications to the project and additions to the hackathon folder. This indicates a high level of activity and development in the repository, with a focus on integrating new projects and features."
+        },
+        "DIKSHA-Novathon-": {
+            "link": "https://github.com/ar1701/DIKSHA-Novathon-",
+            "summary": "A recent push was made to the repository, committing changes and updates to the project. This suggests ongoing development and maintenance of the repository, with a focus on refining and improving the project."
+        }
+    },
+    "profile_summary": "Ayush Raj is a highly skilled software developer with a strong foundation in programming languages such as C++, Python, and JavaScript. As a passionate coding enthusiast with a background in robotics, Ayush possesses a unique combination of technical expertise and innovative thinking. With a remarkable academic record and a GPA of 9+, Ayush has consistently demonstrated exceptional problem-solving skills and a keen eye for detail.\n\nAs a software trainee with the elite Horizon Mars Rover Team at CUSAT, Ayush has honed his skills in collaborative development and real-world application of state-of-the-art technologies. With an active presence on GitHub, showcasing 44 public repositories and an influence among 4 followers, Ayush has established himself as a credible and reliable professional in the development community. By combining his technical prowess with a relentless passion for coding and robotics, Ayush delivers cutting-edge solutions that drive innovation and advance the boundaries of what is possible."
+}

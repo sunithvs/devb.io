@@ -1,0 +1,142 @@
+{
+    "username": "aqeelshamz",
+    "name": "Aqeel",
+    "bio": "Full Stack Developer",
+    "location": "Thrissur, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69390743?v=4",
+    "profile_url": "https://github.com/aqeelshamz",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quran",
+            "description": "Quran for Dart / Flutter",
+            "score": 14.699995145756992,
+            "stars": 89,
+            "forks": 38,
+            "language": "Dart",
+            "url": "https://github.com/aqeelshamz/quran",
+            "updatedAt": "2024-12-16T17:19:17Z"
+        },
+        {
+            "name": "quran-db",
+            "description": "JavaScript library for Quran text, translation, audio URLs, and details of pages, juz, surah, ayah, place of revelation etc.",
+            "score": 7.434176092176473,
+            "stars": 10,
+            "forks": 4,
+            "language": "JavaScript",
+            "url": "https://github.com/aqeelshamz/quran-db",
+            "updatedAt": "2024-12-16T16:08:50Z"
+        },
+        {
+            "name": "hadith",
+            "description": "Hadith for Dart / Flutter",
+            "score": 4.125763297954219,
+            "stars": 6,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/aqeelshamz/hadith",
+            "updatedAt": "2024-11-21T18:10:22Z"
+        },
+        {
+            "name": "gdsc-flutter-bootcamp",
+            "description": null,
+            "score": 4.043844226041621,
+            "stars": 3,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/aqeelshamz/gdsc-flutter-bootcamp",
+            "updatedAt": "2024-02-23T19:38:53Z"
+        },
+        {
+            "name": "uploadthing",
+            "description": "An unofficial Dart/Flutter SDK for the UploadThing API",
+            "score": 2.7745228723209845,
+            "stars": 1,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/aqeelshamz/uploadthing",
+            "updatedAt": "2024-12-01T06:45:42Z"
+        },
+        {
+            "name": "dpsub",
+            "description": "DPSUB (Dynamic Positioned Subtitles) positions subtitles and captions dynamically on screen.",
+            "score": 2.3471323918065057,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aqeelshamz/dpsub",
+            "updatedAt": "2023-01-31T08:46:16Z"
+        },
+        {
+            "name": "QuranSurahJSON",
+            "description": "JSON Object Array of Quran Surah' s with Aya count, Place of Revelation, English title, etc.",
+            "score": 2.3339134679375473,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aqeelshamz/QuranSurahJSON",
+            "updatedAt": "2023-03-30T07:58:52Z"
+        },
+        {
+            "name": "auto-scheme-gen",
+            "description": "Automatic Police Bandobast Scheme Generator",
+            "score": 1.6190642939856028,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aqeelshamz/auto-scheme-gen",
+            "updatedAt": "2024-05-03T03:48:55Z"
+        }
+    ],
+    "followers": 59,
+    "following": 37,
+    "public_repos": 84,
+    "pull_requests_merged": 27,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1776,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aqeelshamz"
+        }
+    ],
+    "activity_summary": {
+        "aqeelshamz/envato-src": {
+            "link": "https://github.com/aqeelshamz/envato-src",
+            "summary": "Recent updates primarily involve version updates and improvements for evaluateai, including v6 and v7 releases with accompanying pricing updates and offers. These changes demonstrate ongoing efforts to enhance the repository's content and offerings."
+        },
+        "aqeelshamz/os": {
+            "link": "https://github.com/aqeelshamz/os",
+            "summary": "Notable activities include a focus on kernel development, including a separate kernel boot process. Additional updates have also been made to improve the user interface with a menu system and enhanced comments for better code readability."
+        },
+        "aqeelshamz/uploadthing": {
+            "link": "https://github.com/aqeelshamz/uploadthing",
+            "summary": "Recent updates have been centered around resolving issues, specifically addressing a 403 error in version 1.0.3. Additionally, updates have been made to the README file, ensuring that documentation remains accurate and helpful for users."
+        },
+        "aqeelshamz/hadith": {
+            "link": "https://github.com/aqeelshamz/hadith",
+            "summary": "A critical issue with loading times has been successfully addressed, enhancing the user experience by providing a smoother interaction with the repository's content."
+        },
+        "aqeelshamz/wixzel-os": {
+            "link": "https://github.com/aqeelshamz/wixzel-os",
+            "summary": "A notable update involved an improvement to the README file, which plays a crucial role in providing clear instructions and information to users about the repository and its usage."
+        }
+    },
+    "profile_summary": "Aqeel is a seasoned Full Stack Developer with a profound expertise in TypeScript, C, and C++, consistently delivering high-quality solutions that exhibit technical excellence. With an impressive portfolio of 84 public repositories, Aqeel demonstrates an unwavering commitment to active development, honing skills, and sharing knowledge. A respected influencer, Aqeel has cultivated a strong professional network, earning the admiration of 59 followers who value expertise and thoughtful insights.\n\nAs a versatile developer with a strong foundation in computer science fundamentals, Aqeel brings a unique value proposition that blends technical acumen with innovative problem-solving skills. Aqeel's expertise spans the full stack, empowering clients to harness the power of modern technologies and overcome complex technical challenges. With a relentless drive for excellence and a collaborative spirit, Aqeel continues to inspire confidence and trust in clients and peers alike, solidifying a reputation as a high-performing, results-driven Full Stack Developer."
+}

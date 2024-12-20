@@ -1,0 +1,138 @@
+{
+    "username": "pseudozoid",
+    "name": "Sarath Madhav",
+    "bio": "dreaming of electric sheep",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33229387?u=2f027b74631bcd85cbc5d50ea7c6bc839edd8850&v=4",
+    "profile_url": "https://github.com/Pseudozoid",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "zoid",
+            "description": "A basic shell written in C",
+            "score": 1.8152938623739021,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Pseudozoid/zoid",
+            "updatedAt": "2024-11-24T14:51:38Z"
+        },
+        {
+            "name": "odin-recipes",
+            "description": "For learning web development fundamentals.",
+            "score": 1.6437608857256456,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Pseudozoid/odin-recipes",
+            "updatedAt": "2024-01-19T08:40:13Z"
+        },
+        {
+            "name": "DSAlab",
+            "description": "Sem 3 DSA lab programs",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Pseudozoid/DSAlab",
+            "updatedAt": "2024-11-06T15:06:02Z"
+        },
+        {
+            "name": "sarathmadhav.me",
+            "description": "A simple personal website",
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Pseudozoid/sarathmadhav.me",
+            "updatedAt": "2024-11-19T18:38:55Z"
+        },
+        {
+            "name": "Face-Detector",
+            "description": "Sem-2 ICP",
+            "score": 0.28793626779905185,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Pseudozoid/Face-Detector",
+            "updatedAt": "2024-06-20T17:45:16Z"
+        },
+        {
+            "name": "To-Doer",
+            "description": "Simple web-based to-do list application",
+            "score": 0.2765002433508858,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Pseudozoid/To-Doer",
+            "updatedAt": "2024-05-18T08:59:01Z"
+        },
+        {
+            "name": "SafeDisp.",
+            "description": "Safe and smart biomedical waste management",
+            "score": 0.27496089932767337,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Pseudozoid/SafeDisp.",
+            "updatedAt": "2024-04-30T06:28:42Z"
+        },
+        {
+            "name": "Pseudozoid",
+            "description": null,
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Pseudozoid/Pseudozoid",
+            "updatedAt": "2024-11-18T05:53:48Z"
+        }
+    ],
+    "followers": 4,
+    "following": 4,
+    "public_repos": 15,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 214,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sarath-madhav-11241927b/"
+        }
+    ],
+    "activity_summary": {
+        "sarathmadhav.me": {
+            "link": "https://github.com/Pseudozoid/sarathmadhav.me",
+            "summary": "Recent updates to the personal website repository include the addition of new blog pages, minor font changes, and improvements to the blog style and layout. Additionally, a custom domain has been set up using a CNAME record, and the README file has been updated with relevant information."
+        },
+        "zoid": {
+            "link": "https://github.com/Pseudozoid/zoid",
+            "summary": "The repository has undergone significant updates, including improvements to error coloring, aliasing, and the addition of history functions. Piping has been temporarily re-enabled and then reverted. The README file has been updated to reflect changes in features."
+        },
+        "linux-configs": {
+            "link": "https://github.com/Pseudozoid/linux-configs",
+            "summary": "The repository has been updated with new neovim configurations and rosepine theme presets, along with customized wallpaper and lockscreen settings. These updates improve the overall aesthetic of the Linux environment."
+        },
+        "DSAlab": {
+            "link": "https://github.com/Pseudozoid/DSAlab",
+            "summary": "Recent contributions to the DSAlab repository include implementing an algorithm to find pairs of elements in a linked list with a given sum. These changes enhance the lab's capabilities and are documented in the README file."
+        }
+    },
+    "profile_summary": "Sarath Madhav is a multi-faceted and detail-oriented developer with a strong foundation in programming languages, including C, Python, and Java. With a passion for innovation and a keen eye for detail, Sarath consistently delivers high-quality solutions that exceed expectations. As an active and influential member of the development community, Sarath has built a professional network of peers who admire their technical prowess and collaborative spirit.\n\nAs a visionary developer with a knack for dreaming of electric sheep, Sarath brings a unique perspective to the table, combining technical expertise with a creative approach to problem-solving. With a portfolio of 15 public repositories and a growing network of four followers, Sarath's expertise and contributions to the development community are recognized and respected by their peers. Their dedication to staying at the forefront of industry trends and technologies enables them to drive innovative solutions and empower others through their work."
+}

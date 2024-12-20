@@ -1,0 +1,83 @@
+{
+    "username": "kanu-3",
+    "name": "kanu-3",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/184348512?v=4",
+    "profile_url": "https://github.com/kanu-3",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Dart",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Learnify",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/kanu-3/Learnify",
+            "updatedAt": "2024-12-14T10:28:55Z"
+        },
+        {
+            "name": "APP2",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/kanu-3/APP2",
+            "updatedAt": "2024-12-14T10:26:58Z"
+        },
+        {
+            "name": "APP1",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/kanu-3/APP1",
+            "updatedAt": "2024-11-27T17:50:31Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "fitness": {
+            "link": "https://github.com/kanu-3/fitness",
+            "summary": "The fitness repository recently underwent changes with the addition of new files and revisions to the README.md file, indicating updates to the repository's documentation and possibly the integration of new features."
+        },
+        "Learnify": {
+            "link": "https://github.com/kanu-3/Learnify",
+            "summary": "The Learnify repository experienced updates to the README.md file, suggesting improvements or revisions to the project's documentation, which could be related to changes in the project's scope or functionality."
+        },
+        "APP2": {
+            "link": "https://github.com/kanu-3/APP2",
+            "summary": "The APP2 repository witnessed updates to the README.md file on multiple occasions, implying ongoing revisions to the project's documentation, possibly due to bug fixes, feature enhancements, or refactoring."
+        },
+        "LMS": {
+            "link": "https://github.com/kanu-3/LMS",
+            "summary": "The LMS repository observed the creation and subsequent update of the README.md file, signifying improvements to the repository's documentation, potentially related to the refinement of the project's structure or addition of new features."
+        },
+        "APP1": {
+            "link": "https://github.com/kanu-3/APP1",
+            "summary": "The APP1 repository underwent an update to the README.md file, suggesting enhancements to the project's documentation, possibly associated with adjustments to the project's architecture or recent improvements."
+        }
+    },
+    "profile_summary": "Kanu-3 is a highly skilled developer specializing in the design and development of high-performance systems utilizing expertise in C++ and Dart programming languages. With a strong foundation in computer science and software engineering, Kanu-3 delivers innovative solutions that meet complex technical requirements, driving business growth through efficient and scalable applications. By leveraging expertise in system architecture and algorithm design, Kanu-3 crafts robust and maintainable codebases that seamlessly integrate with diverse ecosystems.\n\nAs an active contributor to the open-source community, Kanu-3 showcases proficiency through publicly accessible repositories, demonstrating a commitment to knowledge sharing and collective advancement. By continuously refining technical expertise and staying abreast of industry trends, Kanu-3 provides exceptional value to collaborators and organizations seeking expert guidance on C++ and Dart-driven projects. With a growing portfolio of successful endeavors, Kanu-3 stands out as a reliable and results-driven developer capable of driving technical innovation and excellence."
+}

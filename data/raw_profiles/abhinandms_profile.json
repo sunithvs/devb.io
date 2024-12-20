@@ -1,0 +1,111 @@
+{
+    "username": "abhinandms",
+    "name": "Abhinand M S",
+    "bio": "ENGINEERING STUDENT AT GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60026643?u=e9963c33a5f1c1fbabb086d1423fd258a7e1f270&v=4",
+    "profile_url": "https://github.com/abhinandms",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfoliod",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/portfoliod",
+            "updatedAt": "2024-05-23T06:36:51Z"
+        },
+        {
+            "name": "abhinandms",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07258397918217553,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/abhinandms",
+            "updatedAt": "2022-04-15T06:47:08Z"
+        },
+        {
+            "name": "p",
+            "description": null,
+            "score": 0.07258397918217553,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/p",
+            "updatedAt": "2022-04-15T06:52:52Z"
+        },
+        {
+            "name": "port",
+            "description": null,
+            "score": 0.07258397918217553,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/port",
+            "updatedAt": "2022-04-15T06:51:23Z"
+        },
+        {
+            "name": "PORTFOLIO",
+            "description": null,
+            "score": 0.0675118850307605,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhinandms/PORTFOLIO",
+            "updatedAt": "2020-06-18T18:16:49Z"
+        },
+        {
+            "name": "offlineweb",
+            "description": null,
+            "score": 0.0673965180940357,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/abhinandms/offlineweb",
+            "updatedAt": "2020-05-29T06:05:23Z"
+        },
+        {
+            "name": "amsstudio",
+            "description": null,
+            "score": 0.06736932156158043,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/amsstudio",
+            "updatedAt": "2020-05-23T15:09:01Z"
+        },
+        {
+            "name": "offline",
+            "description": "website",
+            "score": 0.06736389464377464,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhinandms/offline",
+            "updatedAt": "2022-04-15T06:56:27Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Abhinand M S is a driven and results-oriented developer with a strong foundation in JavaScript and CSS, consistently delivering high-quality solutions that exceed expectations. As an engineering student at the Government Engineering College Idukki, Abhinand leverages his academic expertise and industry knowledge to drive innovation and growth in his projects. His proficiency in web development enables him to craft seamless, user-friendly experiences that meet the demands of modern technology.\n\nWith a portfolio of 9 public repositories showcasing his work, Abhinand demonstrates a commitment to open-source development and a passion for collaborative innovation. As an up-and-coming developer, he is dedicated to staying at the forefront of industry trends and best practices, continuously refining his skills to provide exceptional results. Abhinand's tireless work ethic, technical expertise, and eagerness to learn make him a valuable asset to any development team, positioning him for long-term success in the tech industry."
+}

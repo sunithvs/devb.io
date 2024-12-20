@@ -1,0 +1,125 @@
+{
+    "username": "lifeng-yin",
+    "name": "Li Feng Yin",
+    "bio": "",
+    "location": "Waterloo, Canada",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105888573?v=4",
+    "profile_url": "https://github.com/lifeng-yin",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Processing",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "simpleread",
+            "description": "A simple, minimalist book review website",
+            "score": 4.332257676846991,
+            "stars": 4,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/lifeng-yin/simpleread",
+            "updatedAt": "2022-11-27T16:26:41Z"
+        },
+        {
+            "name": "cultivate",
+            "description": "A web app for urban farmers to share and market their produce.",
+            "score": 3.3121741507695184,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/lifeng-yin/cultivate",
+            "updatedAt": "2022-11-13T21:50:16Z"
+        },
+        {
+            "name": "personal-website-2",
+            "description": "better win",
+            "score": 2.4622664915634678,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/lifeng-yin/personal-website-2",
+            "updatedAt": "2024-05-21T13:42:37Z"
+        },
+        {
+            "name": "arithmetic-game",
+            "description": null,
+            "score": 1.6589592575111967,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lifeng-yin/arithmetic-game",
+            "updatedAt": "2024-11-23T04:44:23Z"
+        },
+        {
+            "name": "mathworkit",
+            "description": null,
+            "score": 1.5537631519433543,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lifeng-yin/mathworkit",
+            "updatedAt": "2023-11-26T14:20:58Z"
+        },
+        {
+            "name": "food-for-thought",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 1.5484893694133974,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lifeng-yin/food-for-thought",
+            "updatedAt": "2023-09-15T12:06:12Z"
+        },
+        {
+            "name": "website-scraper",
+            "description": null,
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/lifeng-yin/website-scraper",
+            "updatedAt": "2024-11-10T21:07:13Z"
+        },
+        {
+            "name": "harmoniq-backend",
+            "description": "The backend for HarmoniQ, LHSS Team 2's submission to NeoDev.",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/lifeng-yin/harmoniq-backend",
+            "updatedAt": "2024-10-28T00:27:02Z"
+        }
+    ],
+    "followers": 16,
+    "following": 20,
+    "public_repos": 38,
+    "pull_requests_merged": 30,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 116,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "lifeng-yin/arithmetic-game": {
+            "link": "https://github.com/lifeng-yin/arithmetic-game",
+            "summary": "Recent activities in the arithmetic-game repository include multiple significant updates. These updates involve a series of refactorings to improve the code structure, such as separating the store into app and config, changing folders, and completely refactoring the state system with zustand to avoid prop drilling. Additional features like adding a chart at the end of a round using recharts have been implemented. Furthermore, efforts to maintain code quality have been made, including fixing TypeScript warnings and updating the build process to use pnpm."
+        },
+        "lifeng-yin/website-scraper": {
+            "link": "https://github.com/lifeng-yin/website-scraper",
+            "summary": "The website-scraper repository has seen a recent update, where the package.json name was renamed, indicating a potential rebranding or reconfiguration of the project. This change may reflect broader adjustments in the project's development or direction."
+        }
+    },
+    "profile_summary": "Li Feng Yin is a highly skilled and innovative developer with a strong foundation in programming languages, particularly TypeScript and JavaScript. With a keen interest in creative coding, Li Feng Yin also has extensive experience with Processing, a flexible software sketchbook and a language for learning how to code. Having established a professional network of 16 followers, Li Feng Yin is recognized for expertise and influence within the development community. As an active contributor to open-source projects, Li Feng Yin has successfully developed and maintained 38 public repositories, showcasing technical prowess and a commitment to collaborative innovation.\n\nAs a seasoned developer, Li Feng Yin brings a unique value proposition to projects, combining technical expertise with a passion for creative problem-solving. With a solid understanding of industry trends and best practices, Li Feng Yin is well-equipped to design, develop, and deploy high-quality solutions that meet the evolving needs of users. By leveraging expertise in TypeScript, JavaScript, and Processing, Li Feng Yin delivers reliable, efficient, and scalable code that drives business results and fuels digital transformation. With a strong online presence and a reputation for excellence, Li Feng Yin is a trusted partner for companies seeking innovative, tech-savvy solutions that drive growth and success."
+}

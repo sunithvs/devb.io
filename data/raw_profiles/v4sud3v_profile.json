@@ -1,0 +1,114 @@
+{
+    "username": "v4sud3v",
+    "name": "C.R Vasudev Varma",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/138276093?u=561219144eb599b8188893758893ff62a67104e6&v=4",
+    "profile_url": "https://github.com/v4sud3v",
+    "top_languages": [
+        [
+            "Go",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ANNFS",
+            "description": "Artificial Neural Network from scratch using Go",
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/v4sud3v/ANNFS",
+            "updatedAt": "2024-12-16T13:22:03Z"
+        },
+        {
+            "name": "AI-Job-Matching-System",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/v4sud3v/AI-Job-Matching-System",
+            "updatedAt": "2024-11-04T08:16:55Z"
+        },
+        {
+            "name": "Seeb-Residency",
+            "description": null,
+            "score": 0.29308358997247175,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/v4sud3v/Seeb-Residency",
+            "updatedAt": "2024-07-06T17:45:25Z"
+        },
+        {
+            "name": "expenzio",
+            "description": "micro project expenzio",
+            "score": 0.26637250704054294,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/v4sud3v/expenzio",
+            "updatedAt": "2024-11-09T09:27:07Z"
+        },
+        {
+            "name": "v4sud3v",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.23848455197843202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/v4sud3v/v4sud3v",
+            "updatedAt": "2024-11-09T13:02:55Z"
+        },
+        {
+            "name": "sampfirebase",
+            "description": null,
+            "score": 0.16380571166444102,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/v4sud3v/sampfirebase",
+            "updatedAt": "2023-09-30T05:26:08Z"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 69,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/iamcrv_/"
+        }
+    ],
+    "activity_summary": {
+        "Jopauljose/Auradetector": {
+            "link": "https://github.com/Jopauljose/Auradetector",
+            "summary": "Recent activities in the Auradetector repository include significant code refactoring, backend layout implementation, project and team details addition, and improvement of the README file. Enhancements to vercel.json and fixing commits were also made. Furthermore, notable progress was observed with updates in the project's exposure and incorporation of frontend changes. Finally, the repository witnessed comprehensive revisions, resulting in an enhanced project structure."
+        },
+        "v4sud3v/AI-Job-Matching-System": {
+            "link": "https://github.com/v4sud3v/AI-Job-Matching-System",
+            "summary": "The AI Job Matching System repository saw notable progress with recent updates focusing on UI developments and improvements. The addition of a basic layout and an alerting result UI component are significant milestones. Resource downloads and backend functionality also received attention, contributing to a comprehensive system overhaul. Moreover, enhancements in UI color scheme and compatability assured a seamless user experience."
+        },
+        "v4sud3v/ANNFS": {
+            "link": "https://github.com/v4sud3v/ANNFS",
+            "summary": "The ANNFS repository recently witnessed significant development activity. This was marked by the introduction of a critical test, p2-fist-neurons and layers test, signifying an important stride in the project's progression."
+        }
+    },
+    "profile_summary": "C.R Vasudev Varma is a highly skilled and accomplished software developer with a strong background in Go, Python, and HTML. He applies his technical expertise to design and develop innovative solutions that are reliable, efficient, and scalable. With a keen eye for detail and a passion for staying up-to-date with the latest industry trends, Vasudev Varma consistently delivers high-quality results that exceed expectations.\n\nAs a prolific developer with a portfolio of 9 public repositories, Vasudev Varma has demonstrated his ability to work independently and collaboratively on a wide range of projects. His solid grasp of core technical skills enables him to tackle complex problems with ease, and his dedication to his craft has earned him recognition within the developer community. With a strong foundation in programming fundamentals and a commitment to ongoing learning and growth, Vasudev Varma is a valuable asset to any team or project."
+}

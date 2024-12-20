@@ -1,0 +1,85 @@
+{
+    "username": "vishnuxprasad",
+    "name": "vishnuxprasad",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/113599700?v=4",
+    "profile_url": "https://github.com/vishnuxprasad",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ChatSql-speak2DB",
+            "description": null,
+            "score": 2.675041952040868,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/vishnuxprasad/ChatSql-speak2DB",
+            "updatedAt": "2024-01-03T08:27:34Z"
+        },
+        {
+            "name": "WriteImprov",
+            "description": null,
+            "score": 1.5426601304724186,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/vishnuxprasad/WriteImprov",
+            "updatedAt": "2023-06-25T17:10:51Z"
+        },
+        {
+            "name": "nextjs-todo-app",
+            "description": null,
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vishnuxprasad/nextjs-todo-app",
+            "updatedAt": "2024-06-14T12:41:42Z"
+        },
+        {
+            "name": "communicate-using-markdown",
+            "description": null,
+            "score": 0.15644758563980118,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/vishnuxprasad/communicate-using-markdown",
+            "updatedAt": "2023-05-04T07:57:44Z"
+        },
+        {
+            "name": "introduction-to-github",
+            "description": null,
+            "score": 0.15644758563980118,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/vishnuxprasad/introduction-to-github",
+            "updatedAt": "2023-05-04T07:25:44Z"
+        }
+    ],
+    "followers": 11,
+    "following": 8,
+    "public_repos": 10,
+    "pull_requests_merged": 31,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 886,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "profile_summary": "Vishnuxprasad is a highly accomplished developer with a strong proficiency in cutting-edge technologies including TypeScript, Python, and HTML. With a solid track record of delivering high-quality projects, this visionary developer has built a reputation for innovative problem-solving and technical expertise. As a respected member of the GitHub community, vishnuxprasad has established a robust network of peers and collaborators, with 11 dedicated followers and a portfolio of 10 public repositories showcasing their exceptional coding skills.\n\nAs a seasoned developer with a keen eye for detail and a passion for driving innovation, vishnuxprasad consistently brings unique value to projects through their meticulous approach and mastery of relevant technologies. With a proven ability to tackle complex challenges and deliver scalable, efficient solutions, this talented developer is poised to make a lasting impact in the software development landscape. Whether leading collaborative efforts or contributing to open-source initiatives, vishnuxprasad's contributions are a testament to their dedication to technical excellence and commitment to lifelong learning."
+}

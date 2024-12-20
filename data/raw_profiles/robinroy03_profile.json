@@ -1,0 +1,126 @@
+{
+    "username": "robinroy03",
+    "name": "Robin Roy",
+    "bio": "Building stuff. Actively exploring CS :)",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115863770?u=fd7b366da7739303c90ba30ebfe5af9944a9e794&v=4",
+    "profile_url": "https://github.com/robinroy03",
+    "top_languages": [
+        [
+            "Python",
+            13
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RoadmapGPT",
+            "description": "Get a roadmap and never get lost again.",
+            "score": 7.593743729218757,
+            "stars": 13,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/RoadmapGPT",
+            "updatedAt": "2024-10-11T06:40:13Z"
+        },
+        {
+            "name": "twitter-phishing",
+            "description": "bypassing the twitter safety link firewall :)",
+            "score": 7.030001273057062,
+            "stars": 12,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/twitter-phishing",
+            "updatedAt": "2024-08-13T16:59:50Z"
+        },
+        {
+            "name": "healthbot",
+            "description": "HealthBot is an application made to streamline the campus health center operations and improve the quality of life of students.",
+            "score": 4.6429794528383175,
+            "stars": 8,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/healthbot",
+            "updatedAt": "2024-03-19T13:53:10Z"
+        },
+        {
+            "name": "tinystore",
+            "description": "A tiny database for all your big needs. ",
+            "score": 4.088270180761056,
+            "stars": 2,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/robinroy03/tinystore",
+            "updatedAt": "2024-06-13T10:32:27Z"
+        },
+        {
+            "name": "robinroy03.github.io",
+            "description": "A page for sharing my thoughts.",
+            "score": 3.5138973779777785,
+            "stars": 2,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/robinroy03/robinroy03.github.io",
+            "updatedAt": "2024-06-14T05:03:16Z"
+        },
+        {
+            "name": "QRGenerator",
+            "description": "Generates QR codes for free. (idk why ppl charge for this)",
+            "score": 3.4887991022242915,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/QRGenerator",
+            "updatedAt": "2024-03-19T13:53:41Z"
+        },
+        {
+            "name": "xerox-automation",
+            "description": "A solution on automating VIT Xerox shop queues. ",
+            "score": 3.0188411751667634,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/xerox-automation",
+            "updatedAt": "2024-05-29T11:43:07Z"
+        },
+        {
+            "name": "global-chat",
+            "description": "A discord cross-guild messenger bot using python. ",
+            "score": 2.431468759356279,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/robinroy03/global-chat",
+            "updatedAt": "2024-03-19T13:53:49Z"
+        }
+    ],
+    "followers": 81,
+    "following": 136,
+    "public_repos": 29,
+    "pull_requests_merged": 14,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 298,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/_RobinRoy"
+        }
+    ],
+    "activity_summary": {
+        "curl-llm": {
+            "link": "https://github.com/robinroy03/curl-llm",
+            "summary": "Recent activities in curl-llm repository includes a PushEvent on November 20, 2024 where changes were made to the README file, enhancing the repository's documentation and transparency."
+        }
+    },
+    "profile_summary": "Robin Roy is a highly skilled software developer with a strong foundation in Python, C, and TypeScript, leveraging these skills to craft innovative solutions to complex problems. Through his extensive experience and contributions to 29 public repositories, Robin has established himself as a reliable and accomplished developer, consistently delivering high-quality work products that showcase his technical expertise.\n\nAs an active and engaged member of the developer community, Robin has built a professional network of 81 followers who value his insights and expertise. With a passion for continuous learning and exploration, Robin is dedicated to staying at the forefront of industry developments, ensuring his skills and knowledge remain up-to-date and relevant. By combining his technical prowess with a collaborative approach, Robin is well-positioned to drive success in a wide range of projects and applications."
+}

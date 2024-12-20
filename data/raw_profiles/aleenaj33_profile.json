@@ -1,0 +1,125 @@
+{
+    "username": "aleenaj33",
+    "name": "aleenaj33",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/129213416?u=d67ef83f345d78ac1cfb640ddfe28e27646c0f0e&v=4",
+    "profile_url": "https://github.com/Aleenaj33",
+    "top_languages": [
+        [
+            "Java",
+            4
+        ],
+        [
+            "PHP",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tags",
+            "description": null,
+            "score": 1.313620156050098,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Aleenaj33/tags",
+            "updatedAt": "2024-04-27T10:03:57Z"
+        },
+        {
+            "name": "capstone",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Aleenaj33/capstone",
+            "updatedAt": "2024-12-17T05:27:41Z"
+        },
+        {
+            "name": "athlete-monitor",
+            "description": "Capstone project of UST , \"Empowering Athletes With Tech Insights\"",
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Aleenaj33/athlete-monitor",
+            "updatedAt": "2024-11-02T12:04:00Z"
+        },
+        {
+            "name": "Oct24Usttraining-SpringBootProjects",
+            "description": null,
+            "score": 0.3678690927147456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Aleenaj33/Oct24Usttraining-SpringBootProjects",
+            "updatedAt": "2024-10-23T12:24:34Z"
+        },
+        {
+            "name": "productapi",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Aleenaj33/productapi",
+            "updatedAt": "2024-10-22T09:12:12Z"
+        },
+        {
+            "name": "hellorepo",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Aleenaj33/hellorepo",
+            "updatedAt": "2024-10-14T12:12:00Z"
+        },
+        {
+            "name": "jenkinspratice",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Aleenaj33/jenkinspratice",
+            "updatedAt": "2024-10-14T10:26:34Z"
+        },
+        {
+            "name": "pr",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Aleenaj33/pr",
+            "updatedAt": "2024-10-14T11:41:23Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 15,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 56,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Aleenaj33/capstone": {
+            "link": "https://github.com/Aleenaj33/capstone",
+            "summary": "The capstone repository has seen significant recent activity, with multiple updates and improvements to various components. These include additions to the player dashboard, coach section, login and register pages, as well as bug fixes to weather API logging and other parts of the application. These updates suggest active development and refinement of the project."
+        },
+        "Aleenaj33/athlete-monitor": {
+            "link": "https://github.com/Aleenaj33/athlete-monitor",
+            "summary": "The athlete-monitor repository has experienced recent activity focused on improving performance reporting and team management features. Updates include the integration of a performance service into the cloud gateway, fixes to deleting team functionality, and exception handling. These changes indicate efforts to enhance the project's overall functionality and robustness."
+        }
+    },
+    "profile_summary": "Aleenaj33 is a highly skilled software developer with a strong foundation in programming languages such as Java, PHP, and HTML. With a proven track record of delivering high-quality solutions, aleenaj33 is a dependable and innovative professional who brings exceptional expertise to the table. As a seasoned developer, aleenaj33 has consistently demonstrated the ability to design, develop, and deploy efficient and scalable software applications that meet the needs of diverse clients and projects.\n\nWith a distinctive approach that combines technical acumen and creative problem-solving skills, aleenaj33 is a valuable asset to any development team. Over the course of their career, aleenaj33 has established a robust portfolio of 15 public repositories that showcase their technical capabilities and expertise. By leveraging their technical expertise and professional network, aleenaj33 delivers solutions that drive innovation, efficiency, and growth, making them a trusted partner for clients seeking reliable and forward-thinking software development services."
+}

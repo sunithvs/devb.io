@@ -1,0 +1,47 @@
+{
+    "username": "sidharthan003",
+    "name": "sidharthan003",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118356374?v=4",
+    "profile_url": "https://github.com/sidharthan003",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "meta-school-DOA",
+            "description": "Build a Gamer DAO on the Q Blockchain",
+            "score": 0.16918193269400245,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sidharthan003/meta-school-DOA",
+            "updatedAt": "2023-12-17T13:56:19Z"
+        },
+        {
+            "name": "WEBCRAFT2023",
+            "description": null,
+            "score": 0.16704385153631351,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sidharthan003/WEBCRAFT2023",
+            "updatedAt": "2023-11-18T06:35:54Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "sidharthan003 is a meticulous and skilled web developer with a strong proficiency in HTML, consistently delivering high-quality code and innovative solutions. As an early-stage developer, sidharthan003 has actively engaged in open-source development, showcasing a portfolio of two public repositories that demonstrate their technical expertise and willingness to push boundaries in the world of web development.\n\nWith a focus on building a strong foundation in web standards, sidharthan003 excels in creating efficient, responsive, and user-friendly interfaces that cater to diverse user needs. As sidharthan003 continues to grow and expand their professional network, they are well-positioned to collaborate with like-minded developers and contribute to cutting-edge projects that showcase their skills and passion for web development."
+}

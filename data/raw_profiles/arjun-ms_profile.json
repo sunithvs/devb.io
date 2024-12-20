@@ -1,0 +1,142 @@
+{
+    "username": "arjun-ms",
+    "name": "Arjun M S ",
+    "bio": "Curious Guy who :heart: Python :snake: and ML :brain: ",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64315213?u=7c17ba8ce1008e0ee9794b43b216608b951d0a28&v=4",
+    "profile_url": "https://github.com/arjun-ms",
+    "top_languages": [
+        [
+            "Python",
+            40
+        ],
+        [
+            "C",
+            5
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "mashithandu",
+            "description": "A repo for beginners to do their first contribution in GitHub",
+            "score": 8.574600249211949,
+            "stars": 0,
+            "forks": 289,
+            "language": null,
+            "url": "https://github.com/arjun-ms/mashithandu",
+            "updatedAt": "2022-07-24T14:30:04Z"
+        },
+        {
+            "name": "20-20",
+            "description": "Mohanlal vs Mammooty Classfier",
+            "score": 6.572013984289536,
+            "stars": 5,
+            "forks": 6,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/arjun-ms/20-20",
+            "updatedAt": "2022-12-17T15:53:25Z"
+        },
+        {
+            "name": "SQL-Ease",
+            "description": null,
+            "score": 6.400503270758766,
+            "stars": 12,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/arjun-ms/SQL-Ease",
+            "updatedAt": "2024-02-10T19:17:33Z"
+        },
+        {
+            "name": "Scrapster",
+            "description": "Scrape images from google  for your next ML project.",
+            "score": 6.189961088391521,
+            "stars": 8,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/arjun-ms/Scrapster",
+            "updatedAt": "2023-03-29T06:10:07Z"
+        },
+        {
+            "name": "Pixage",
+            "description": "A command line image format tool using which we can convert image format, resize image and other optional pre-processing. One can pass a single image path or image folder.",
+            "score": 4.466462864002508,
+            "stars": 8,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arjun-ms/Pixage",
+            "updatedAt": "2022-08-18T00:33:43Z"
+        },
+        {
+            "name": "pre-owned",
+            "description": "This web-based application uses machine learning to predict the price of used cars in India.",
+            "score": 3.6530753229220996,
+            "stars": 5,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/arjun-ms/pre-owned",
+            "updatedAt": "2022-11-02T06:06:14Z"
+        },
+        {
+            "name": "sat-hack-night",
+            "description": null,
+            "score": 3.3074333615310447,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/arjun-ms/sat-hack-night",
+            "updatedAt": "2021-09-06T04:42:06Z"
+        },
+        {
+            "name": "arjun-ms",
+            "description": null,
+            "score": 3.239508565548934,
+            "stars": 1,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/arjun-ms/arjun-ms",
+            "updatedAt": "2024-11-27T19:12:54Z"
+        }
+    ],
+    "followers": 156,
+    "following": 188,
+    "public_repos": 107,
+    "pull_requests_merged": 54,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 258,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Arjun_M_S_"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/the-arjun-ms/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@arjun-ms"
+        }
+    ],
+    "activity_summary": {
+        "OpenStatus": {
+            "link": "https://github.com/arjun-ms/OpenStatus",
+            "summary": "Recently experienced significant development activities with multiple push events. Updates include initial commits, data return success in submit status, migration success, and authentication callback fixes. Additional features were added for incident management, including all actions and layouts updates."
+        },
+        "TalkDocX": {
+            "link": "https://github.com/arjun-ms/TalkDocX",
+            "summary": "Recent commits included moving gemini.py, adding requirements, and including demo videos. However, the repository is less active compared to others."
+        },
+        "Top-100-Coders(arjun-ms account)": {
+            "link": "https://github.com/arjun-ms/Top-100-Coders",
+            "summary": "Committed updates to files, including creation and modification for user profiles, in late 2024. This repository seems relatively inactive in recent days."
+        }
+    },
+    "profile_summary": "As a highly skilled and accomplished developer with extensive experience in Python, C, and JavaScript, Arjun M S is a driving force in the creation of innovative software solutions. His impressive track record of delivering high-quality projects and collaborative contributions to the developer community has earned him a strong professional network of 156 followers, underscoring his reliability and technical expertise.\n\nWith a unique ability to merge technical acumen with creativity, Arjun M S brings a distinct value proposition to the table, especially in the realms of machine learning and Python development. Having actively contributed to 107 public repositories, he has consistently demonstrated his passion for staying at the forefront of technology and driving meaningful advancements in his field. His unwavering commitment to excellence has forged a professional reputation that is built on technical proficiency, innovative thinking, and a relentless pursuit of knowledge."
+}

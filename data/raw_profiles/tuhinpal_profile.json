@@ -1,0 +1,126 @@
+{
+    "username": "tuhinpal",
+    "name": "Tuhin Kanti Pal",
+    "bio": "Beating AI with human logic \ud83d\ude01",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/51857187?u=4570e97cfee744dfe4cc71cf3c4503d30240a91a&v=4",
+    "profile_url": "https://github.com/tuhinpal",
+    "top_languages": [
+        [
+            "JavaScript",
+            34
+        ],
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WhatsBot",
+            "description": "Modular Userbot for Whatsapp. Supports MultiDevice authentication on non persistent server.",
+            "score": 20.78510390949677,
+            "stars": 328,
+            "forks": 399,
+            "language": "JavaScript",
+            "url": "https://github.com/tuhinpal/WhatsBot",
+            "updatedAt": "2024-12-05T14:20:54Z"
+        },
+        {
+            "name": "amazon-api",
+            "description": "Serverless Amazon Search and Product API, runs on Cloudflare worker. Supports multiple country's amazon version.",
+            "score": 17.089094512237835,
+            "stars": 111,
+            "forks": 142,
+            "language": "TypeScript",
+            "url": "https://github.com/tuhinpal/amazon-api",
+            "updatedAt": "2024-12-08T20:45:30Z"
+        },
+        {
+            "name": "CloudflareDB",
+            "description": "The low latency database powered by Cloudflare Worker and KV",
+            "score": 16.171224508224125,
+            "stars": 144,
+            "forks": 54,
+            "language": "JavaScript",
+            "url": "https://github.com/tuhinpal/CloudflareDB",
+            "updatedAt": "2024-12-12T10:04:54Z"
+        },
+        {
+            "name": "hls-downloader",
+            "description": "Download HLS videos directly from your browser",
+            "score": 15.280866642171254,
+            "stars": 118,
+            "forks": 38,
+            "language": "JavaScript",
+            "url": "https://github.com/tuhinpal/hls-downloader",
+            "updatedAt": "2024-12-05T10:02:30Z"
+        },
+        {
+            "name": "Upier",
+            "description": "Shareable Payment's Link for UPI",
+            "score": 14.125181379089717,
+            "stars": 37,
+            "forks": 83,
+            "language": "TypeScript",
+            "url": "https://github.com/tuhinpal/Upier",
+            "updatedAt": "2024-12-17T02:46:15Z"
+        },
+        {
+            "name": "Musicder",
+            "description": "The React Website for Download or Stream Music with Lyrics for Free",
+            "score": 14.064504321983069,
+            "stars": 61,
+            "forks": 41,
+            "language": "JavaScript",
+            "url": "https://github.com/tuhinpal/Musicder",
+            "updatedAt": "2024-07-29T08:20:54Z"
+        },
+        {
+            "name": "readme-stats-github",
+            "description": "Generate your GitHub's Stats in SVG",
+            "score": 13.756635102394933,
+            "stars": 71,
+            "forks": 27,
+            "language": "TypeScript",
+            "url": "https://github.com/tuhinpal/readme-stats-github",
+            "updatedAt": "2024-12-16T17:00:41Z"
+        },
+        {
+            "name": "Contact-Form",
+            "description": "The Lightweight Contact Form which send contact requests on your Telegram",
+            "score": 13.603190417134778,
+            "stars": 50,
+            "forks": 39,
+            "language": "JavaScript",
+            "url": "https://github.com/tuhinpal/Contact-Form",
+            "updatedAt": "2024-09-10T15:48:28Z"
+        }
+    ],
+    "followers": 269,
+    "following": 7,
+    "public_repos": 66,
+    "pull_requests_merged": 43,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 5074,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/jeeetpaul"
+        }
+    ],
+    "activity_summary": {
+        "visadb-io-Inc/ai-support-bot-knowledge-base": {
+            "link": "https://github.com/visadb-io-Inc/ai-support-bot-knowledge-base",
+            "summary": "Recent activities in the ai-support-bot-knowledge-base repository include multiple push events, primarily consisting of updates to various markdown files such as AFFILIATE.md, DEFAULT.md, and the creation of a new file, AUTOMATION.md, between September 24 and September 26, 2024, indicating ongoing development and refinement of the knowledge base."
+        }
+    },
+    "profile_summary": "Tuhin Kanti Pal is a highly skilled and accomplished developer with a strong background in JavaScript, TypeScript, and Python. With a large and active professional network of 269 followers, he has established himself as a reputable and influential figure in the development community. His extensive portfolio of 66 public repositories showcases his dedication to continuous learning and innovation, demonstrating a unique ability to leverage technology to drive meaningful outcomes. As a seasoned expert in his field, Tuhin brings a distinct blend of technical expertise and creative problem-solving skills to the table, poised to tackle even the most complex challenges with confidence and precision.\n\nAs a forward-thinking developer with a passion for harnessing human logic to drive technological advancements, Tuhin is committed to delivering high-quality solutions that exceed expectations. With a bio that boldly declares \"beating AI with human logic\", he embodies the spirit of innovation and continuous improvement that defines the best in the industry. Through his work, Tuhin consistently demonstrates a commitment to excellence, reliability, and technical prowess, making him an invaluable asset to any project or organization. With his expertise in JavaScript, TypeScript, and Python, he is well-equipped to tackle a wide range of development challenges, from front-end and back-end development to data analysis and machine learning, and is dedicated to staying at the forefront of industry trends and best practices."
+}

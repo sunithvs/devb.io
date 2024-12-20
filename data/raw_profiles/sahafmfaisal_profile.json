@@ -1,0 +1,138 @@
+{
+    "username": "sahafmfaisal",
+    "name": "SAHAF M FAISAL",
+    "bio": "",
+    "location": "localhost:3000",
+    "avatar_url": "https://avatars.githubusercontent.com/u/133376398?u=ce0698bb4a1b2bd858b947d6fb7c657adf31a232&v=4",
+    "profile_url": "https://github.com/sahafmfaisal",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "to-do-list-app-with-timer",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sahafmfaisal/to-do-list-app-with-timer",
+            "updatedAt": "2024-09-22T17:22:37Z"
+        },
+        {
+            "name": "test2",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sahafmfaisal/test2",
+            "updatedAt": "2024-08-19T18:24:52Z"
+        },
+        {
+            "name": "test1",
+            "description": null,
+            "score": 0.3076798538720624,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/sahafmfaisal/test1",
+            "updatedAt": "2024-08-11T12:06:59Z"
+        },
+        {
+            "name": "APOD",
+            "description": null,
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sahafmfaisal/APOD",
+            "updatedAt": "2024-05-20T08:33:06Z"
+        },
+        {
+            "name": "Random-Number-Generator",
+            "description": null,
+            "score": 0.25618814250803673,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/sahafmfaisal/Random-Number-Generator",
+            "updatedAt": "2024-01-07T06:05:54Z"
+        },
+        {
+            "name": "Rock-Paper-Scissor-Game",
+            "description": null,
+            "score": 0.25618814250803673,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sahafmfaisal/Rock-Paper-Scissor-Game",
+            "updatedAt": "2024-01-07T06:28:55Z"
+        },
+        {
+            "name": "Sorting-a-List",
+            "description": null,
+            "score": 0.25618814250803673,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sahafmfaisal/Sorting-a-List",
+            "updatedAt": "2024-01-07T06:49:02Z"
+        },
+        {
+            "name": "TS-Jams",
+            "description": null,
+            "score": 0.25507891945660277,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sahafmfaisal/TS-Jams",
+            "updatedAt": "2024-01-02T16:12:11Z"
+        }
+    ],
+    "followers": 15,
+    "following": 34,
+    "public_repos": 23,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 128,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sahafmfaisal"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/sahafmfaisal"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sahafmfaisal"
+        }
+    ],
+    "activity_summary": {
+        "to-do-list-app-with-timer": {
+            "link": "https://github.com/sahafmfaisal/to-do-list-app-with-timer",
+            "summary": "Recently, this repository experienced a series of rapid updates to its codebase, including modifications to the index.html and script.js files, as well as enhancements to the README.md file. These changes suggest ongoing development and refinement of the to-do list app with timer."
+        },
+        "to-do-list-app": {
+            "link": "https://github.com/sahafmfaisal/to-do-list-app",
+            "summary": "Notable activity in this repository includes the bulk upload of files, indicating likely initial development or repurposing of the to-do list app, setting the stage for further updates and refinement."
+        }
+    },
+    "profile_summary": "Sahaf M Faisal is a highly skilled software developer known for his proficiency in TypeScript, Python, and JavaScript. With a strong foundation in programming languages, he excels in designing and developing innovative solutions that meet the evolving demands of the tech industry. Sahaf's extensive experience is reflected in his 23 public repositories, showcasing his passion for active development and commitment to staying up-to-date with the latest trends and technologies.\n\nAs a respected and influential member of the developer community, Sahaf has garnered a following of 15 professionals who appreciate his expertise and insightful contributions. His unique value proposition lies in his ability to deliver high-quality solutions that drive growth, efficiency, and scalability. Sahaf's dedication to excellence and passion for coding position him as a valuable asset to any organization seeking a talented and reliable developer who can drive business success through innovative technology solutions."
+}

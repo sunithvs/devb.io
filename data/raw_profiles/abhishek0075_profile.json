@@ -1,0 +1,115 @@
+{
+    "username": "abhishek0075",
+    "name": "Abhishek",
+    "bio": "Student at Cochin University of Science \r\n  and Technology",
+    "location": "Kozhikode,Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95518276?u=f60732056fa311ded6237faeddcc65676fced57b&v=4",
+    "profile_url": "https://github.com/Abhishek0075",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "Jupyter Notebook",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CommuSpace",
+            "description": null,
+            "score": 1.193571965309067,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhishek0075/CommuSpace",
+            "updatedAt": "2023-07-02T08:51:52Z"
+        },
+        {
+            "name": "Ai_Assignment",
+            "description": null,
+            "score": 1.11245652328156,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Abhishek0075/Ai_Assignment",
+            "updatedAt": "2022-07-25T03:08:16Z"
+        },
+        {
+            "name": "lingustics_lab",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Abhishek0075/lingustics_lab",
+            "updatedAt": "2024-12-16T18:38:28Z"
+        },
+        {
+            "name": "imageProcessingLab",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Abhishek0075/imageProcessingLab",
+            "updatedAt": "2024-10-15T06:58:41Z"
+        },
+        {
+            "name": "deepLearning",
+            "description": null,
+            "score": 0.2785776535233783,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Abhishek0075/deepLearning",
+            "updatedAt": "2024-05-18T16:09:04Z"
+        },
+        {
+            "name": "prapro",
+            "description": null,
+            "score": 0.25990042486762954,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Abhishek0075/prapro",
+            "updatedAt": "2024-02-05T10:03:20Z"
+        },
+        {
+            "name": "Sem5",
+            "description": null,
+            "score": 0.2435422583002531,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Abhishek0075/Sem5",
+            "updatedAt": "2024-04-08T15:31:33Z"
+        },
+        {
+            "name": "numericalMethods",
+            "description": null,
+            "score": 0.15758860784601006,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Abhishek0075/numericalMethods",
+            "updatedAt": "2023-07-18T09:25:36Z"
+        }
+    ],
+    "followers": 8,
+    "following": 10,
+    "public_repos": 82,
+    "pull_requests_merged": 14,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 75,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "profile_summary": "Abhishek is a highly skilled and dedicated developer with a strong foundation in programming languages, including C++, Python, and expertise in data analysis using Jupyter Notebook. As a student at Cochin University of Science and Technology, Abhishek has developed a solid understanding of computer science principles and has applied this knowledge to create innovative solutions. With a growing professional network of 8 followers and an impressive portfolio of 82 public repositories, Abhishek has established himself as a reliable and talented developer in the industry.\n\nAbhishek's technical expertise and achievements have earned him recognition as a high-performing developer, and his unique value proposition lies in his ability to leverage cutting-edge technologies to drive solutions. With a focus on delivering high-quality code and a passion for collaborative development, Abhishek is well-positioned to make significant contributions to the field of software development. As a skilled and motivated developer, Abhishek continues to expand his skill set, explore new technologies, and push the boundaries of what is possible, making him an asset to any development team or project that leverages his expertise in C++, Python, and data analysis using Jupyter Notebook."
+}

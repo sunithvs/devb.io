@@ -1,0 +1,81 @@
+{
+    "username": "vishnuponneth",
+    "name": "VISHNU P",
+    "bio": "",
+    "location": "KOCHI",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90571792?u=c3073d6e010ce2f47b3534a95b68cdb69758b3b4&v=4",
+    "profile_url": "https://github.com/vishnuponneth",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "My-Portfolio",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vishnuponneth/My-Portfolio",
+            "updatedAt": "2024-12-20T19:10:54Z"
+        },
+        {
+            "name": "homepage-TF",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vishnuponneth/homepage-TF",
+            "updatedAt": "2024-10-15T21:10:20Z"
+        },
+        {
+            "name": "html-portfolio",
+            "description": null,
+            "score": 0.29779910958090483,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vishnuponneth/html-portfolio",
+            "updatedAt": "2024-07-20T06:27:19Z"
+        },
+        {
+            "name": "cv",
+            "description": null,
+            "score": 0.07055432338835751,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vishnuponneth/cv",
+            "updatedAt": "2021-09-12T17:56:56Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "vishnuponneth/My-portfolio": {
+            "link": "https://github.com/vishnuponneth/My-portfolio",
+            "summary": "Recent activities in this repository include a series of push events involving the creation and deletion of CNAME files, suggesting potential DNS configuration updates or testing, all occurring on December 18, 2024."
+        },
+        "sunithvs/tech-fusion-wbeiste": {
+            "link": "https://github.com/sunithvs/tech-fusion-wbeiste",
+            "summary": "Recent activity in this repository involves a push event on November 9, 2024, where the index.html file was updated, indicating maintenance or development work on the repository's web content."
+        }
+    },
+    "profile_summary": "Vishnu P is a skilled and accomplished developer with a strong foundation in cutting-edge technologies, including TypeScript and HTML. With a keen eye for innovation and a passion for delivering high-quality solutions, Vishnu has established himself as a reliable and talented professional in the development community. His expertise in programming languages and web development has enabled him to create effective and efficient solutions that meet the needs of his clients and exceed their expectations. As a dedicated and results-driven individual, Vishnu is committed to staying up-to-date with the latest industry trends and advancements.\n\nWith a growing network of 2 followers and a portfolio of 6 public repositories, Vishnu has demonstrated his ability to collaborate with others and share his knowledge and expertise with the development community. His public repositories showcase his active development work and commitment to open-source software, highlighting his technical prowess and dedication to his craft. As a proficient developer with a unique value proposition, Vishnu is well-positioned to drive innovation and deliver high-performing solutions that meet the evolving needs of the industry, and his expertise in web development and programming languages makes him an asset to any organization seeking to leverage the latest technologies to drive success."
+}

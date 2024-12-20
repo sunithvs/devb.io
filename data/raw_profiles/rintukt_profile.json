@@ -1,0 +1,91 @@
+{
+    "username": "rintukt",
+    "name": "rintukt",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/160901552?v=4",
+    "profile_url": "https://github.com/RintuKT",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/RintuKT/portfolio",
+            "updatedAt": "2024-10-30T12:01:52Z"
+        },
+        {
+            "name": "ISSUE",
+            "description": null,
+            "score": 0.30487923075586354,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RintuKT/ISSUE",
+            "updatedAt": "2024-08-06T15:51:40Z"
+        },
+        {
+            "name": "Ecom",
+            "description": "surplus",
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/RintuKT/Ecom",
+            "updatedAt": "2024-04-27T09:18:04Z"
+        },
+        {
+            "name": "Ecomm",
+            "description": "surplus",
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/RintuKT/Ecomm",
+            "updatedAt": "2024-04-27T09:25:49Z"
+        },
+        {
+            "name": "BOOKS-BLOG",
+            "description": "Blog",
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/RintuKT/BOOKS-BLOG",
+            "updatedAt": "2024-04-13T05:44:40Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "RintuKT/portfolio": {
+            "link": "https://github.com/RintuKT/portfolio",
+            "summary": "Recent activities in the repository involved managing DNS settings, specifically creating and deleting CNAME records, to ensure the hosts file and custom domains are properly configured for the portfolio."
+        }
+    },
+    "profile_summary": "Rintukt is a highly skilled developer with a strong foundation in Python, JavaScript, and HTML, consistently delivering innovative software solutions that drive results. With a demonstrated track record of active development, as evidenced by a portfolio of six public repositories, Rintukt showcases a dedication to ongoing learning and a passion for staying at the forefront of industry trends.\n\nAs a proficient and reliable developer, Rintukt brings a unique blend of technical expertise and creative problem-solving to every project, leveraging expertise in Python, JavaScript, and HTML to craft efficient, scalable, and user-centric software applications. With a commitment to collaboration and continuous improvement, Rintukt is poised to make a lasting impact in the development community and drive technological advancements that shape the future."
+}

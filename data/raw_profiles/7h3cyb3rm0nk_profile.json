@@ -1,0 +1,134 @@
+{
+    "username": "7h3cyb3rm0nk",
+    "name": "Ramees Mohammed M M",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/70532769?u=9642334425ff821d0f3d6587d12ac2fb9f032467&v=4",
+    "profile_url": "https://github.com/7h3cyb3rm0nk",
+    "top_languages": [
+        [
+            "Rust",
+            10
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "termigram",
+            "description": null,
+            "score": 4.17575779886672,
+            "stars": 3,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/7h3cyb3rm0nk/termigram",
+            "updatedAt": "2024-10-20T06:53:23Z"
+        },
+        {
+            "name": "sora",
+            "description": "Micro blogging Social media platform for cs department U.C College",
+            "score": 2.7215715118216264,
+            "stars": 1,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/7h3cyb3rm0nk/sora",
+            "updatedAt": "2024-11-13T19:53:44Z"
+        },
+        {
+            "name": "chumma-ttf",
+            "description": "A TTF File that can replace glyphs using WebAssembly",
+            "score": 1.6767226591313376,
+            "stars": 1,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/7h3cyb3rm0nk/chumma-ttf",
+            "updatedAt": "2024-06-30T06:33:05Z"
+        },
+        {
+            "name": "drowsiness-detect",
+            "description": null,
+            "score": 1.3102260910065984,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/7h3cyb3rm0nk/drowsiness-detect",
+            "updatedAt": "2024-04-09T06:00:28Z"
+        },
+        {
+            "name": "curiosity",
+            "description": "website for curisoty quiz competition C.S department, Union Christian College Aluva",
+            "score": 1.2999029527064363,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/7h3cyb3rm0nk/curiosity",
+            "updatedAt": "2024-03-01T10:02:16Z"
+        },
+        {
+            "name": "showrtcuts",
+            "description": "a c utility to show dwm keybindings",
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/7h3cyb3rm0nk/showrtcuts",
+            "updatedAt": "2024-12-08T15:39:20Z"
+        },
+        {
+            "name": "config.nvim",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/7h3cyb3rm0nk/config.nvim",
+            "updatedAt": "2024-10-27T10:26:22Z"
+        },
+        {
+            "name": "ss-and-os-seminar",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "TeX",
+            "url": "https://github.com/7h3cyb3rm0nk/ss-and-os-seminar",
+            "updatedAt": "2024-10-17T22:06:45Z"
+        }
+    ],
+    "followers": 38,
+    "following": 81,
+    "public_repos": 53,
+    "pull_requests_merged": 35,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 787,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/__ramees._/"
+        }
+    ],
+    "activity_summary": {
+        "7h3cyb3rm0nk/sora": {
+            "link": "https://github.com/7h3cyb3rm0nk/sora",
+            "summary": "Recent activities for 7h3cyb3rm0nk/sora involved multiple improvements to user registration and validation processes. Key features include the addition of an admin module with the ability to delete users and configure logout. Issues with duplicate message lists, user registration breaking, and validation have been addressed through a series of commits, ensuring overall stability of the platform. Updated database schema and refactored styles have been implemented throughout the repository."
+        },
+        "7h3cyb3rm0nk/showrtcuts": {
+            "link": "https://github.com/7h3cyb3rm0nk/showrtcuts",
+            "summary": "The recent activities for 7h3cyb3rm0nk/showrtcuts centered around the development of a config parser function that allows for the parsing and display of keybindings. Additionally, ongoing work has been conducted on parsing functions to extract user-defined key bindings."
+        },
+        "7h3cyb3rm0nk/dwm-config": {
+            "link": "https://github.com/7h3cyb3rm0nk/dwm-config",
+            "summary": "Recent updates for 7h3cyb3rm0nk/dwm-config included updates to the colorschemes and adjustments to the keypress repeat rate. These modifications have been implemented in order to optimize user experience and maintain aesthetic consistency."
+        }
+    },
+    "profile_summary": "Ramees Mohammed M M is a highly skilled software developer with expertise in Rust, C, and C++ programming languages. With a strong technical foundation and a proven track record of delivering innovative solutions, he has established himself as a reliable and talented developer in the field. His impressive portfolio of 53 public repositories showcases his active development activities and commitment to staying up-to-date with the latest programming trends.\n\nAs a respected member of the development community, Ramees has attracted a professional network of over 38 followers who value his expertise and insights. His unique value proposition lies in his ability to balance technical proficiency with innovative thinking, allowing him to develop efficient and effective software solutions that meet the needs of diverse industries. With a strong passion for coding and a strong commitment to excellence, Ramees is an asset to any project he undertakes."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "arjun-mec",
+    "name": "Arjun A",
+    "bio": "",
+    "location": "Kochi, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146703387?v=4",
+    "profile_url": "https://github.com/arjun-mec",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TimeSked",
+            "description": "TimeSked is your AI calendar whiz on Telegram! \ud83e\udde0\ud83d\uddd3\ufe0f Chat, send a message or screenshot, and TimeSked magically adds events to your Google Calendar or provides ready-to-go links. Event planning made easy.",
+            "score": 1.6678324360449275,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arjun-mec/TimeSked",
+            "updatedAt": "2024-11-29T17:12:44Z"
+        },
+        {
+            "name": "Excel-PreEvents-2024",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjun-mec/Excel-PreEvents-2024",
+            "updatedAt": "2024-12-14T19:35:47Z"
+        },
+        {
+            "name": "Digital-Combination-Lock",
+            "description": "Verilog Implementation of a Digital Combinational Lock which unlocks when a specific 3 bit sequence is entered.",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "Verilog",
+            "url": "https://github.com/arjun-mec/Digital-Combination-Lock",
+            "updatedAt": "2024-11-06T17:19:10Z"
+        },
+        {
+            "name": "arjun-mec",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.3096494774516637,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/arjun-mec/arjun-mec",
+            "updatedAt": "2024-08-21T14:02:56Z"
+        },
+        {
+            "name": "Syntax_Backend",
+            "description": null,
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arjun-mec/Syntax_Backend",
+            "updatedAt": "2024-08-10T17:06:59Z"
+        },
+        {
+            "name": "Syntax_Dashboard",
+            "description": null,
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjun-mec/Syntax_Dashboard",
+            "updatedAt": "2024-08-31T14:21:42Z"
+        },
+        {
+            "name": "ContactMe",
+            "description": null,
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjun-mec/ContactMe",
+            "updatedAt": "2024-08-27T18:26:39Z"
+        },
+        {
+            "name": "Quotify",
+            "description": null,
+            "score": 0.2951939842332517,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/arjun-mec/Quotify",
+            "updatedAt": "2024-08-27T18:26:18Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 100,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/arjuna05/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/arjun.a_05/"
+        }
+    ],
+    "activity_summary": {
+        "arjun-mec/techno-event-management": {
+            "link": "https://github.com/arjun-mec/techno-event-management",
+            "summary": "Recent updates include features such as scanner implementation, staging area development, enhanced user interface, mailer integration, taskbar customization, calendar integration, event registration form previews, and organization settings. Resolved issues include fixing bugs in sign-in, organization creation, scrolling, and building processes."
+        },
+        "arjun-mec/Shop-Management-Python": {
+            "link": "https://github.com/arjun-mec/Shop-Management-Python",
+            "summary": "Recent updates in this repository have included adding an open in Codespaces button, fixing terminal clear issues, and initializing the database. The updates demonstrate a focus on improving the user experience and setting up the project's infrastructure."
+        },
+        "arjun-mec/Digital-Combination-Lock": {
+            "link": "https://github.com/arjun-mec/Digital-Combination-Lock",
+            "summary": "Recent updates in this repository include the addition of a constraints file and removal of an unnecessary schematics file. Further improvements were made by fixing the README file. The updates display maintenance efforts and improvement of the project's content organization."
+        },
+        "arjun-mec/Excel-PreEvents-2024": {
+            "link": "https://github.com/arjun-mec/Excel-PreEvents-2024",
+            "summary": "Recent updates to the Excel PreEvents repository involved performance improvements and a bug fix. These updates demonstrate an effort to fine-tune and resolve issues, ensuring a seamless experience for users."
+        }
+    },
+    "profile_summary": "Arjun A is a versatile and accomplished software developer with expertise in languages such as Python, TypeScript, and JavaScript, leveraging these skills to drive innovation and deliver high-quality solutions. With a strong portfolio of public repositories, he has consistently demonstrated his passion for coding and collaboration. Arjun's dedication to his craft has culminated in a solid foundation of expertise, positioning him as a highly capable professional in the realm of software development.\n\nHis proficiency in a range of programming languages enables Arjun to effectively navigate the complexities of modern software development. Through his work, he has showcased his commitment to writing clean, efficient, and well-documented code. By combining technical acumen with a collaborative approach, Arjun is poised to make a meaningful impact across a variety of technology-driven projects, fostering a culture of innovation and continuous learning in the process."
+}

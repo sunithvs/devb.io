@@ -1,0 +1,126 @@
+{
+    "username": "bhagyajkumar",
+    "name": "Bhagyaj Kumar B",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/85674409?u=2cc00b79c130db889e8ec3bd04fb88a0dcfb63b9&v=4",
+    "profile_url": "https://github.com/bhagyajkumar",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "JavaScript",
+            18
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GOAT",
+            "description": null,
+            "score": 2.5776901274526263,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/GOAT",
+            "updatedAt": "2023-01-19T05:14:01Z"
+        },
+        {
+            "name": "cucek",
+            "description": null,
+            "score": 2.4188970987219705,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/cucek",
+            "updatedAt": "2024-11-14T05:04:49Z"
+        },
+        {
+            "name": "django-ecommerce",
+            "description": null,
+            "score": 2.3383165844945806,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/django-ecommerce",
+            "updatedAt": "2023-05-29T12:06:01Z"
+        },
+        {
+            "name": "django-ig-clone",
+            "description": null,
+            "score": 2.3380854848189676,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/django-ig-clone",
+            "updatedAt": "2023-05-12T10:10:26Z"
+        },
+        {
+            "name": "only_phones",
+            "description": null,
+            "score": 1.536988763434366,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/bhagyajkumar/only_phones",
+            "updatedAt": "2023-01-19T05:14:01Z"
+        },
+        {
+            "name": "class_recordings",
+            "description": null,
+            "score": 1.530402071801159,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/class_recordings",
+            "updatedAt": "2023-01-19T05:14:01Z"
+        },
+        {
+            "name": "personal_website",
+            "description": null,
+            "score": 1.5284709557151925,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/personal_website",
+            "updatedAt": "2023-01-19T05:14:00Z"
+        },
+        {
+            "name": "todolist-api",
+            "description": null,
+            "score": 1.528276086925938,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/todolist-api",
+            "updatedAt": "2023-01-19T05:14:00Z"
+        }
+    ],
+    "followers": 21,
+    "following": 44,
+    "public_repos": 74,
+    "pull_requests_merged": 11,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 305,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/bhagyajkumar/"
+        }
+    ],
+    "activity_summary": {
+        "cucek": {
+            "link": "https://github.com/bhagyajkumar/cucek",
+            "summary": "Recent updates include the removal of trolls, the redesign of the 'about us' page, the addition of research, and improvements to state management, navigation bars, and academics section. The repository has seen a significant number of push events with merge pull requests, showcasing an active development process."
+        }
+    },
+    "profile_summary": "Bhagyaj Kumar B is a seasoned software developer with a proven track record of leveraging cutting-edge technologies to deliver innovative solutions. With a strong foundation in Python, JavaScript, and TypeScript, Bhagyaj has established himself as a versatile and skilled programmer, well-versed in crafting efficient, scalable, and maintainable codebases. His technical expertise is complemented by a keen eye for detail, allowing him to consistently produce high-quality solutions that meet the needs of diverse stakeholders.\n\nAs a prolific developer with 74 public repositories, Bhagyaj has demonstrated his commitment to active development and open-source collaboration. His growing network of 21 followers is a testament to his professional influence and the value he brings to the development community. With a passion for staying at the forefront of industry trends, Bhagyaj continues to expand his skill set, driving innovation and excellence in software development. By combining technical expertise with a collaborative mindset, Bhagyaj has established himself as a trusted partner for businesses and individuals seeking to harness the power of technology to drive success."
+}

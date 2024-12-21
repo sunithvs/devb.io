@@ -1,0 +1,142 @@
+{
+    "username": "unknown-geek",
+    "name": "Shravan Nander Pandala",
+    "bio": "A coding enthusiast, journeying through the boundless universe of technology.",
+    "location": "Malayattoor, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97742905?u=2de6da37dc4bbf1e296ccad196bd7c778e5c6b76&v=4",
+    "profile_url": "https://github.com/Unknown-Geek",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CS50",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Unknown-Geek/CS50",
+            "updatedAt": "2024-12-08T09:23:00Z"
+        },
+        {
+            "name": "Documentation_Generator_frontend",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Unknown-Geek/Documentation_Generator_frontend",
+            "updatedAt": "2024-12-08T10:43:02Z"
+        },
+        {
+            "name": "Copilot-App",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Unknown-Geek/Copilot-App",
+            "updatedAt": "2024-12-08T20:10:51Z"
+        },
+        {
+            "name": "Monetize-blogs",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Unknown-Geek/Monetize-blogs",
+            "updatedAt": "2024-11-24T19:07:30Z"
+        },
+        {
+            "name": "Data-Structures-in-C",
+            "description": null,
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Unknown-Geek/Data-Structures-in-C",
+            "updatedAt": "2024-11-15T10:12:15Z"
+        },
+        {
+            "name": "OOP-in-Java",
+            "description": null,
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Unknown-Geek/OOP-in-Java",
+            "updatedAt": "2024-11-15T09:55:19Z"
+        },
+        {
+            "name": "Story-Generator",
+            "description": null,
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Unknown-Geek/Story-Generator",
+            "updatedAt": "2024-11-30T20:14:55Z"
+        },
+        {
+            "name": "Bark-Translator",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Unknown-Geek/Bark-Translator",
+            "updatedAt": "2024-11-03T05:52:02Z"
+        }
+    ],
+    "followers": 1,
+    "following": 6,
+    "public_repos": 33,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 719,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shravan-pandala-570629244/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.facebook.com/shravannander.pandala?mibextid=b06tZ0"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/mojomaniac2005"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.freepik.com/author/mojomaniac"
+        }
+    ],
+    "activity_summary": {
+        "Unknown-Geek/Copilot-App": {
+            "link": "https://github.com/Unknown-Geek/Copilot-App",
+            "summary": "Recent activities in the Copilot-App repository have been significant, with multiple push events occurring on December 8, 2024, and December 7, 2024. The updates include the implementation of various features such as Translation Services, GitHub Integration, Documentation Generation, and Security Features. Additionally, several sample commits were made, and the README file was updated multiple times to reflect progress. The repository also saw updates to its documentation generation logic, test cases, and API functionality."
+        },
+        "Unknown-Geek/CS50": {
+            "link": "https://github.com/Unknown-Geek/CS50",
+            "summary": "The CS50 repository has seen a recent initial commit on December 8, 2024, indicating the start of a new project. This commit marks the beginning of development, and further updates are anticipated as the project progresses."
+        }
+    },
+    "profile_summary": "Shravan Nander Pandala is a highly skilled developer with a strong foundation in programming languages such as C, Python, and TypeScript. With a keen interest in technology, he has established himself as a dedicated coding enthusiast, continually exploring the vast possibilities of the digital world. His professional network is growing, with 1 follower, and he has made significant contributions to the open-source community through his 33 public repositories. This showcases his ability to collaborate, share knowledge, and drive innovation in the field of software development.\n\nAs a proficient and reliable developer, Shravan Nander Pandala brings a unique value proposition to the table, combining technical expertise with a passion for innovation. His expertise in C, Python, and TypeScript enables him to tackle complex projects with ease, delivering high-quality solutions that meet the evolving needs of the industry. With a strong online presence and a commitment to ongoing learning, Shravan Nander Pandala is well-positioned to make a significant impact in the world of technology, driving progress and excellence in all his endeavors. His dedication to coding and technology makes him a valuable asset to any organization, and his contributions are likely to inspire and influence the developer community at large."
+}

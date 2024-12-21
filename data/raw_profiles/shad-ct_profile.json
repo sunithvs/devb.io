@@ -1,0 +1,126 @@
+{
+    "username": "shad-ct",
+    "name": "Shad CT",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/88387228?u=b12bad205f847aa81b5d438d4bff0b91d1e8b651&v=4",
+    "profile_url": "https://github.com/shad-ct",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FYIMP-Projects",
+            "description": null,
+            "score": 6.891697934306055,
+            "stars": 6,
+            "forks": 5,
+            "language": "C",
+            "url": "https://github.com/shad-ct/FYIMP-Projects",
+            "updatedAt": "2024-12-09T07:58:27Z"
+        },
+        {
+            "name": "FYIMP-Resource",
+            "description": null,
+            "score": 6.355700535243805,
+            "stars": 5,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/shad-ct/FYIMP-Resource",
+            "updatedAt": "2024-12-10T05:34:31Z"
+        },
+        {
+            "name": "Code-Notes",
+            "description": "Personal notes ",
+            "score": 3.870265039496148,
+            "stars": 5,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shad-ct/Code-Notes",
+            "updatedAt": "2024-12-21T07:48:41Z"
+        },
+        {
+            "name": "GHSS-Cherukunnu",
+            "description": null,
+            "score": 3.2854159803572505,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/shad-ct/GHSS-Cherukunnu",
+            "updatedAt": "2024-05-20T15:07:02Z"
+        },
+        {
+            "name": "Luma-notes",
+            "description": null,
+            "score": 2.446857899875521,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/shad-ct/Luma-notes",
+            "updatedAt": "2024-11-03T02:26:49Z"
+        },
+        {
+            "name": "YearBook",
+            "description": null,
+            "score": 1.6292571030671659,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/shad-ct/YearBook",
+            "updatedAt": "2024-10-09T00:44:54Z"
+        },
+        {
+            "name": "flipkart-clone",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shad-ct/flipkart-clone",
+            "updatedAt": "2024-12-07T13:20:25Z"
+        },
+        {
+            "name": "Reader",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shad-ct/Reader",
+            "updatedAt": "2024-11-27T08:54:44Z"
+        }
+    ],
+    "followers": 24,
+    "following": 30,
+    "public_repos": 15,
+    "pull_requests_merged": 6,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 421,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shad-ct/"
+        }
+    ],
+    "activity_summary": {
+        "shad-ct/Code-Notes": {
+            "link": "https://github.com/shad-ct/Code-Notes",
+            "summary": "Recent activities in the shad-ct/Code-Notes repository have been significant, with multiple push events occurring over the past few days. The repository has seen the creation of new files, including useContext.md and API.md, as well as updates and renames to existing files such as Pybasics.md, PalindromeString.md, and various code files converted to markdown format. Additionally, the README.md and basics.md files have undergone multiple updates, indicating ongoing efforts to refine and expand the repository's content."
+        }
+    },
+    "profile_summary": "Shad CT is a highly skilled and accomplished software developer with a strong foundation in programming languages such as C, JavaScript, and HTML. With a notable presence on GitHub, Shad has established a professional network of 24 followers who recognize and appreciate their technical expertise. This influential developer has also made significant contributions to the open-source community through 15 public repositories, showcasing a commitment to collaborative development and a passion for innovation. Shad's technical skills and dedication to their craft have earned them a reputation as a reliable and talented developer.\n\nAs a proficient programmer with a keen eye for detail, Shad CT brings a unique combination of technical proficiency and creative problem-solving skills to the table. With a solid understanding of web development principles and a talent for crafting efficient, scalable code, Shad is well-equipped to tackle complex projects and deliver high-quality results. Through their active participation in the GitHub community and ongoing commitment to learning and growth, Shad continues to expand their skill set and stay up-to-date with the latest industry trends and best practices, making them a valuable asset to any development team or project."
+}

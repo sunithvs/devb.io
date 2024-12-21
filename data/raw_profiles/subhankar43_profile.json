@@ -1,0 +1,120 @@
+{
+    "username": "subhankar43",
+    "name": "Vortx",
+    "bio": "Do or do not. There is no try",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86139438?u=5a7552db6696668eb47807d541f0fcc8d9b415c2&v=4",
+    "profile_url": "https://github.com/Subhankar43",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "HTML",
+            6
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Vortx-Steganography",
+            "description": "Its a cryptography process where anyone can hide data inside of an image....          Enjoy :) ",
+            "score": 1.6162300817592117,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Subhankar43/Vortx-Steganography",
+            "updatedAt": "2024-02-11T07:07:21Z"
+        },
+        {
+            "name": "Vortx-Proxy",
+            "description": null,
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Subhankar43/Vortx-Proxy",
+            "updatedAt": "2024-01-27T12:57:49Z"
+        },
+        {
+            "name": "Bio-Tree",
+            "description": null,
+            "score": 0.15560597465004997,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Subhankar43/Bio-Tree",
+            "updatedAt": "2023-04-13T18:53:34Z"
+        },
+        {
+            "name": "Random-TMKOC-Suggestions",
+            "description": "It will suggest Taarak Mehta Ka Ooltah Chashmah Episodes randomly",
+            "score": 0.15465165761780927,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Subhankar43/Random-TMKOC-Suggestions",
+            "updatedAt": "2023-03-19T11:54:01Z"
+        },
+        {
+            "name": "Random-Standup-Suggestions",
+            "description": null,
+            "score": 0.1546144992752814,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Subhankar43/Random-Standup-Suggestions",
+            "updatedAt": "2023-03-18T15:14:55Z"
+        },
+        {
+            "name": "Vortx-Player",
+            "description": null,
+            "score": 0.15450347594188987,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Subhankar43/Vortx-Player",
+            "updatedAt": "2023-03-17T14:51:56Z"
+        },
+        {
+            "name": "Vortx-QR",
+            "description": "QR generator With quality UI",
+            "score": 0.1542834375113939,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Subhankar43/Vortx-QR",
+            "updatedAt": "2023-03-09T15:28:09Z"
+        },
+        {
+            "name": "Vortx-Portfolio",
+            "description": "Portfolio",
+            "score": 0.1538156351548753,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Subhankar43/Vortx-Portfolio",
+            "updatedAt": "2023-03-10T13:58:31Z"
+        }
+    ],
+    "followers": 4,
+    "following": 36,
+    "public_repos": 33,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 13,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/subhankarkundu43/"
+        }
+    ],
+    "profile_summary": "Vortx is a highly skilled developer with expertise in TypeScript, HTML, and JavaScript, utilizing these technologies to drive innovative solutions. With a strong professional network and influence, as evidenced by their growing number of followers, Vortx has established themselves as a reputable and reliable expert in their field. Their approach to development is guided by a philosophy of determination and excellence, as reflected in their mantra \"Do or do not. There is no try\", which underscores their commitment to delivering high-quality results.\n\nAs a seasoned developer with a portfolio of 33 public repositories, Vortx has consistently demonstrated their ability to design, develop, and deploy cutting-edge software applications. By leveraging their technical expertise and industry knowledge, Vortx is able to craft tailored solutions that meet the unique needs of their clients and users. With a strong foundation in web development and a passion for staying up-to-date with the latest technologies and trends, Vortx is well-positioned to drive success in a wide range of projects and collaborations, and is a valuable asset to any team or organization seeking to harness the power of technology to achieve their goals."
+}

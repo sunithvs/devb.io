@@ -1,0 +1,109 @@
+{
+    "username": "minizyperx",
+    "name": "Sumit Raj",
+    "bio": "Don't talk, show me the vulnerability",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/152911119?u=4bb739b994ff07f94a32b44ff0dfe1abba9d6080&v=4",
+    "profile_url": "https://github.com/minizyperx",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CUSAT-Hostel-Equipment-Availability",
+            "description": null,
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/minizyperx/CUSAT-Hostel-Equipment-Availability",
+            "updatedAt": "2024-11-16T20:08:15Z"
+        },
+        {
+            "name": "SQL-Cheatcodes",
+            "description": "A cheatsheet for sql injection",
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/minizyperx/SQL-Cheatcodes",
+            "updatedAt": "2024-11-02T17:42:50Z"
+        },
+        {
+            "name": "ExamIntegratingSystem",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/minizyperx/ExamIntegratingSystem",
+            "updatedAt": "2024-10-20T04:57:48Z"
+        },
+        {
+            "name": "Coding-qus",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/minizyperx/Coding-qus",
+            "updatedAt": "2024-10-12T00:16:34Z"
+        },
+        {
+            "name": "LGMVIP-Web-Task-Number",
+            "description": null,
+            "score": 0.27474613157243294,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/minizyperx/LGMVIP-Web-Task-Number",
+            "updatedAt": "2024-04-30T17:41:25Z"
+        },
+        {
+            "name": "LGMVIP-Web-Task-Number-1",
+            "description": "This a repo for to do list",
+            "score": 0.27474613157243294,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/minizyperx/LGMVIP-Web-Task-Number-1",
+            "updatedAt": "2024-04-30T18:01:16Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 33,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "minizyperx/CUSAT-Hostel-Equipment-Availability": {
+            "link": "https://github.com/minizyperx/CUSAT-Hostel-Equipment-Availability",
+            "summary": "Recent activities in this repository have been focused on updates to the README.md file, with multiple push events occurring on November 16, 2024, indicating ongoing refinement of the project's documentation. Earlier activities in November included testing and updates to the index.html file, suggesting development and refinement of the project's web presence."
+        },
+        "minizyperx/SQL-Cheatcodes": {
+            "link": "https://github.com/minizyperx/SQL-Cheatcodes",
+            "summary": "This repository has seen recent activity focused on creating new resources for SQL, including an Auth bypass, Error based techniques, and a Generic Payload for SQL, all of which were added on November 2, 2024. An update to the README.md file on November 1, 2024, further suggests that the project is being actively maintained and expanded."
+        },
+        "minizyperx/ExamIntegratingSystem": {
+            "link": "https://github.com/minizyperx/ExamIntegratingSystem",
+            "summary": "Activities in this repository have been centered around creating foundational files for the project, including style.css and index.html, which were added on October 20, 2024. Additionally, a smartpy file was created, indicating initial setup and development of the Exam Integrating System, although recent activity has been less frequent compared to the other repositories."
+        }
+    },
+    "profile_summary": "Sumit Raj is a skilled and innovative software developer with a strong foundation in C++, JavaScript, and HTML. With a focus on delivering high-quality solutions, Sumit has established himself as a reliable and proficient expert in his field. His technical expertise is complemented by a passion for identifying and addressing vulnerabilities, as evident from his approach to problem-solving. As a dedicated developer, Sumit has created six public repositories, demonstrating his active engagement in the development community and commitment to sharing knowledge.\n\nThrough his work, Sumit aims to showcase his capabilities and build a professional network, currently seeking to expand his influence and collaborate with like-minded individuals. With a results-driven mindset and a focus on showcasing vulnerability, Sumit is poised to make a significant impact in the software development landscape. By leveraging his technical skills and expertise, he is well-equipped to drive innovation and deliver cutting-edge solutions that meet the evolving needs of the industry, ultimately establishing himself as a trusted and skilled developer in the tech community."
+}

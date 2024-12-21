@@ -1,0 +1,138 @@
+{
+    "username": "anshumanmahato",
+    "name": "Anshuman Mahato",
+    "bio": "Full Stack Web Developer",
+    "location": "Jamshedpur, Jharkhand, IN",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58422570?u=cca89322a177da78fae57ebd2eb4435678779c03&v=4",
+    "profile_url": "https://github.com/AnshumanMahato",
+    "top_languages": [
+        [
+            "JavaScript",
+            10
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Happy-Birthday-Card",
+            "description": "This is a web based interactive birthday card.",
+            "score": 19.603952483431407,
+            "stars": 327,
+            "forks": 182,
+            "language": "JavaScript",
+            "url": "https://github.com/AnshumanMahato/Happy-Birthday-Card",
+            "updatedAt": "2024-12-18T02:58:02Z"
+        },
+        {
+            "name": "AtmanirbharKrishi-GFG-Hackathon",
+            "description": "Project for GeeksForGeeks GoogleXAmd hackathon",
+            "score": 5.895615798804009,
+            "stars": 5,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/AnshumanMahato/AtmanirbharKrishi-GFG-Hackathon",
+            "updatedAt": "2024-04-12T08:01:33Z"
+        },
+        {
+            "name": "Personal-Blog-Website",
+            "description": "This is my Personal Blog Website with Hashnode Headless CMS integration. ",
+            "score": 3.4536087681407204,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AnshumanMahato/Personal-Blog-Website",
+            "updatedAt": "2024-08-05T01:06:10Z"
+        },
+        {
+            "name": "connect4",
+            "description": "Connect 4 game Frontend",
+            "score": 3.018028960511931,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AnshumanMahato/connect4",
+            "updatedAt": "2024-10-31T18:16:20Z"
+        },
+        {
+            "name": "space-travel-frontendmentor",
+            "description": "space-travel-frontendmentor",
+            "score": 2.5782341483486144,
+            "stars": 1,
+            "forks": 1,
+            "language": "SCSS",
+            "url": "https://github.com/AnshumanMahato/space-travel-frontendmentor",
+            "updatedAt": "2023-08-10T13:09:11Z"
+        },
+        {
+            "name": "AnshumanMahato",
+            "description": null,
+            "score": 1.5909948147067678,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AnshumanMahato/AnshumanMahato",
+            "updatedAt": "2024-11-30T01:02:18Z"
+        },
+        {
+            "name": "OmniFoods-Landing",
+            "description": "LAnding page for food delivery service",
+            "score": 1.1140433385670672,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/AnshumanMahato/OmniFoods-Landing",
+            "updatedAt": "2022-09-08T17:21:35Z"
+        },
+        {
+            "name": "Precision-Farming-BaseStation",
+            "description": "sem-5-miniproject",
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AnshumanMahato/Precision-Farming-BaseStation",
+            "updatedAt": "2024-12-01T14:41:33Z"
+        }
+    ],
+    "followers": 65,
+    "following": 29,
+    "public_repos": 42,
+    "pull_requests_merged": 36,
+    "issues_closed": 36,
+    "achievements": {
+        "total_contributions": 729,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AnshumanMahato_"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/anshuman-mahato/"
+        }
+    ],
+    "activity_summary": {
+        "codewithnick/ascii-art": {
+            "link": "https://github.com/codewithnick/ascii-art",
+            "summary": "Recent activities in the codewithnick/ascii-art repository include multiple bug fixes, such as clearing the letters matrix and resetting the column pointer to zero, and addressing memory leaks by utilizing vectors and unique pointers. Additionally, pull requests have been merged to resolve issues and improve the overall functionality of the repository."
+        },
+        "AnshumanMahato/Precision-Farming-App": {
+            "link": "https://github.com/AnshumanMahato/Precision-Farming-App",
+            "summary": "The AnshumanMahato/Precision-Farming-App repository has seen recent activities focused on refining the application, including push events with graph fixes and updates indicating that the app is now working, suggesting progress towards a stable and functional release."
+        },
+        "JakeKilled4/ascii-art": {
+            "link": "https://github.com/JakeKilled4/ascii-art",
+            "summary": "Recent activities in the JakeKilled4/ascii-art repository include push events that added new characters to amongus and drpepper, updated the readme, and modified the .gitignore file to avoid future merge conflicts, demonstrating ongoing development and maintenance efforts."
+        }
+    },
+    "profile_summary": "Anshuman Mahato is a highly skilled Full Stack Web Developer with a strong background in JavaScript, C++, and TypeScript. With a robust professional network of 65 followers and an impressive portfolio of 42 public repositories, he has established himself as a reliable and innovative developer in the industry. His expertise in JavaScript, C++, and TypeScript enables him to craft high-quality, scalable, and efficient software solutions that meet the evolving needs of businesses and organizations. As a seasoned full stack developer, Anshuman Mahato brings a unique blend of technical skills and creative vision to the table, making him a valuable asset to any project or team.\n\nWith a passion for staying up-to-date with the latest industry trends and technologies, Anshuman Mahato continues to expand his technical expertise and push the boundaries of what is possible in the world of web development. His commitment to delivering exceptional results, combined with his collaborative spirit and strong work ethic, makes him a trusted partner for businesses and developers alike. Whether it's building responsive web applications, optimizing code for better performance, or troubleshooting complex technical issues, Anshuman Mahato is a go-to expert who consistently delivers high-quality solutions that exceed expectations, making him a highly sought-after professional in the field of web development."
+}

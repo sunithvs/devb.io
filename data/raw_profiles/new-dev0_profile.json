@@ -1,0 +1,142 @@
+{
+    "username": "new-dev0",
+    "name": "Devesh Pal",
+    "bio": "Human | @TeamUltroid  | @switchcollab\r\n\r\nBuilding AI",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69723581?u=77846dcec13e7e0f35d7d3ae858883db7070ae80&v=4",
+    "profile_url": "https://github.com/New-dev0",
+    "top_languages": [
+        [
+            "Python",
+            14
+        ],
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TgTwitterStreamer",
+            "description": "Continuous Integration from Twitter to Telegram.",
+            "score": 15.468943938879478,
+            "stars": 85,
+            "forks": 68,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/TgTwitterStreamer",
+            "updatedAt": "2024-11-03T01:00:41Z"
+        },
+        {
+            "name": "TgTwitterBot",
+            "description": "TgTwitterBot -  Control and Explore Twitter from Telegram",
+            "score": 13.83780353734379,
+            "stars": 61,
+            "forks": 35,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/TgTwitterBot",
+            "updatedAt": "2024-09-13T18:30:33Z"
+        },
+        {
+            "name": "Bing-ChatBot",
+            "description": "Chat bot based on Bing web ai bot.",
+            "score": 10.997222942522491,
+            "stars": 38,
+            "forks": 9,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/Bing-ChatBot",
+            "updatedAt": "2024-06-21T12:29:34Z"
+        },
+        {
+            "name": "profile-cards",
+            "description": null,
+            "score": 8.08037355046,
+            "stars": 17,
+            "forks": 3,
+            "language": "Dart",
+            "url": "https://github.com/New-dev0/profile-cards",
+            "updatedAt": "2024-06-15T13:58:24Z"
+        },
+        {
+            "name": "TeleCloudBot",
+            "description": " Switch Mini-App to stream telegram files and more features.",
+            "score": 7.145928470470731,
+            "stars": 10,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/TeleCloudBot",
+            "updatedAt": "2024-12-12T18:38:23Z"
+        },
+        {
+            "name": "Telethon-Patch",
+            "description": "Wrap over telethon with additional upgrades",
+            "score": 6.835259142951891,
+            "stars": 11,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/Telethon-Patch",
+            "updatedAt": "2024-06-28T16:50:18Z"
+        },
+        {
+            "name": "MiniBots",
+            "description": "A Collection of Small Bots !!",
+            "score": 6.275339466224969,
+            "stars": 4,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/New-dev0/MiniBots",
+            "updatedAt": "2023-12-15T12:23:45Z"
+        },
+        {
+            "name": "StringConverter-Cli",
+            "description": "CLI Tool to Convert Telethon's StringSession to Pyrogram StringSession",
+            "score": 6.111638865820761,
+            "stars": 6,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/New-dev0/StringConverter-Cli",
+            "updatedAt": "2023-08-30T18:21:35Z"
+        }
+    ],
+    "followers": 117,
+    "following": 21,
+    "public_repos": 82,
+    "pull_requests_merged": 165,
+    "issues_closed": 18,
+    "achievements": {
+        "total_contributions": 1459,
+        "repositories_contributed_to": 16
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/NewDev00"
+        },
+        {
+            "provider": "generic",
+            "url": "https://t.me/karboncopy"
+        }
+    ],
+    "activity_summary": {
+        "New-dev0/switch-ts": {
+            "link": "https://github.com/New-dev0/switch-ts",
+            "summary": "Recent activities in this repository include multiple push events, such as adding an example file, editing and parsing messages, and the initial release of the project, which took place between November 17, 2024 and December 1, 2024."
+        },
+        "switchcollab/Switch-Bots-Python-Library": {
+            "link": "https://github.com/switchcollab/Switch-Bots-Python-Library",
+            "summary": "This repository experienced significant updates, including the enhancement of the instant messaging API, modifications for deployment to GitHub Pages, and the update of the deploy-docusaurus.yml, all of which occurred on November 24, 2024."
+        },
+        "Switch-Bot-Samples/SwitchTgAutoFilter": {
+            "link": "https://github.com/Switch-Bot-Samples/SwitchTgAutoFilter",
+            "summary": "Recent activities include the addition of a configuration variable and an update to requirements.txt, both of which took place on December 5, 2024, indicating continued development and maintenance."
+        },
+        "New-dev0/Telethon": {
+            "link": "https://github.com/New-dev0/Telethon",
+            "summary": "This repository saw updates on October 31, 2024, with changes including the update of message.py and transitioning to Layer 192, suggesting ongoing development and refinement of the project's codebase."
+        }
+    },
+    "profile_summary": "Devesh Pal is a highly skilled and accomplished developer with a strong proficiency in programming languages such as Python, JavaScript, and TypeScript. With a sizable following of 117 professionals, Devesh has established himself as a respected figure in the development community, known for his exceptional technical expertise and collaborative approach. His impressive portfolio of 82 public repositories is a testament to his dedication to active development and his commitment to sharing knowledge with others. As a key member of TeamUltroid and SwitchCollab, Devesh is constantly pushing the boundaries of innovation and driving progress in the field of artificial intelligence.\n\nDevesh's expertise in building AI solutions has earned him a reputation as a forward-thinking and results-driven professional. With a unique blend of technical skills and creative vision, he is able to design and develop cutting-edge solutions that meet the complex needs of modern businesses and organizations. As a seasoned developer with a passion for building AI, Devesh is dedicated to staying at the forefront of industry trends and advances, ensuring that his skills and knowledge remain up-to-date and relevant. With his strong technical foundation, collaborative mindset, and commitment to innovation, Devesh is an invaluable asset to any development team, and his work continues to inspire and impress his peers and colleagues alike."
+}

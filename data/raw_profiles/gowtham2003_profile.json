@@ -1,0 +1,125 @@
+{
+    "username": "gowtham2003",
+    "name": "Gowtham",
+    "bio": "Titles don't mean anything. That's why I removed mine. I do what I love. Have a vision and everything is possible.",
+    "location": "Anthiyur,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29628713?u=7fdaa94139cd70d9fb1cde69fbc860db38fe404d&v=4",
+    "profile_url": "https://github.com/Gowtham2003",
+    "top_languages": [
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Go",
+            2
+        ],
+        [
+            "Python",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DailyHunt-NewsAPI",
+            "description": null,
+            "score": 8.404219004672852,
+            "stars": 9,
+            "forks": 10,
+            "language": "Python",
+            "url": "https://github.com/Gowtham2003/DailyHunt-NewsAPI",
+            "updatedAt": "2024-08-12T20:02:05Z"
+        },
+        {
+            "name": "tgsession",
+            "description": "Simple Telethon and GramJS string session generator written in GramJS",
+            "score": 7.663565182322967,
+            "stars": 7,
+            "forks": 8,
+            "language": "JavaScript",
+            "url": "https://github.com/Gowtham2003/tgsession",
+            "updatedAt": "2024-05-13T08:58:00Z"
+        },
+        {
+            "name": "BrainyQuotesAPI",
+            "description": "Unofficial Brainy Quotes API using PYTHON , FLASK , BeautifulSoup4",
+            "score": 6.775311407176311,
+            "stars": 7,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/Gowtham2003/BrainyQuotesAPI",
+            "updatedAt": "2024-04-21T16:53:38Z"
+        },
+        {
+            "name": "CheatSheetBot",
+            "description": null,
+            "score": 6.307005865861165,
+            "stars": 7,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/Gowtham2003/CheatSheetBot",
+            "updatedAt": "2021-05-15T10:25:28Z"
+        },
+        {
+            "name": "NewsAggregator",
+            "description": "Python App Which Fetches News from Lot of Websites",
+            "score": 5.002708951920037,
+            "stars": 4,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Gowtham2003/NewsAggregator",
+            "updatedAt": "2023-07-20T17:16:32Z"
+        },
+        {
+            "name": "BrainyQuoteBot",
+            "description": null,
+            "score": 4.952640782309534,
+            "stars": 2,
+            "forks": 5,
+            "language": "Python",
+            "url": "https://github.com/Gowtham2003/BrainyQuoteBot",
+            "updatedAt": "2022-07-08T07:48:44Z"
+        },
+        {
+            "name": "codemirror-nord-theme",
+            "description": null,
+            "score": 4.399671981062357,
+            "stars": 4,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/Gowtham2003/codemirror-nord-theme",
+            "updatedAt": "2023-06-07T17:15:39Z"
+        },
+        {
+            "name": "NewsifyWebApp",
+            "description": "Newsify App's Landing Page",
+            "score": 3.103005399762303,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/Gowtham2003/NewsifyWebApp",
+            "updatedAt": "2021-05-25T13:00:43Z"
+        }
+    ],
+    "followers": 28,
+    "following": 50,
+    "public_repos": 69,
+    "pull_requests_merged": 7,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 903,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "pdf-splitter": {
+            "link": "https://github.com/Gowtham2003/pdf-splitter",
+            "summary": "Recent activities in the pdf-splitter repository include the addition of minification in production builds, facilitating optimized performance, as evidenced by a push event on November 23, 2024."
+        },
+        "jiosaavn-api-ts": {
+            "link": "https://github.com/Gowtham2003/jiosaavn-api-ts",
+            "summary": "The jiosaavn-api-ts repository has seen a fix changing the deploy button URL, which was deployed on October 9, 2024, as part of a push event, while a corresponding pull request was also raised, albeit without additional context or description, on the same date by another contributor."
+        }
+    },
+    "profile_summary": "Gowtham is a highly skilled developer with a strong foundation in programming languages such as TypeScript, Go, and Python. With a proven track record of delivering high-quality solutions, Gowtham has established himself as a reliable and innovative professional in the field of software development. His expertise in these areas has enabled him to tackle complex projects with ease, making him a valuable asset to any team. As a passionate and dedicated developer, Gowtham is committed to staying up-to-date with the latest industry trends and technologies, ensuring that his skills remain relevant and in-demand.\n\nWith a network of 28 followers and a impressive portfolio of 69 public repositories, Gowtham has demonstrated his ability to collaborate with others and share his knowledge and expertise with the wider development community. His philosophy of having a vision and making everything possible has driven him to push boundaries and strive for excellence in all that he does. As a result, Gowtham has become a respected and influential figure in the world of software development, known for his technical prowess, creativity, and passion for delivering exceptional results. Whether working on personal projects or collaborating with others, Gowtham is a developer who consistently delivers high-quality solutions that exceed expectations."
+}

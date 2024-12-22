@@ -503,6 +503,27 @@
             </div>
         </div>
     </section>
+    <section id="contributors" class="py-10 md:pt-10 mt-10">
+        <div class="container md:mx-auto md:px-4">
+            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                <div class="flex items-center ">
+                        <span
+                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Contributors</span>
+                </div>
+                <div>
+
+                </div>
+
+            </div>
+
+            <!-- Services Grid -->
+            <div id="contributors-users-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
+                <!-- Portfolio Generation -->
+
+
+            </div>
+        </div>
+    </section>
     <section id="people" class="py-10 md:pt-10 mt-10">
         <div class="container md:mx-auto md:px-4">
             <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
@@ -620,15 +641,13 @@
     // Initialize Lucide icons
     lucide.createIcons();
 
-    function renderProfiles(profiles) {
-        const usersSection = document.getElementById('users-section');
+    function renderProfiles(profiles,section='users-section') {
+        const usersSection = document.getElementById(section);
 
         // Clear any existing content
         usersSection.innerHTML = '';
-        const selectedProfiles = loadProfiles(profiles);
+        const selectedProfiles = profiles;
         console.log(selectedProfiles)
-
-
         // Iterate through profiles and create profile divs
         selectedProfiles.forEach(profile => {
             // Create the main container div
@@ -680,12 +699,12 @@
         if (profiles.length === 0) return [];
 
         // Always take the first profile
-        const selectedProfiles = [profiles[0]];
+        const selectedProfiles = [];
 
         // If we have more than 1 profile and we haven't reached 6 profiles
         if (profiles.length > 1) {
             // Take the last 5 generated profiles (or fewer if not available)
-            const lastProfiles = profiles.slice(-5);
+            const lastProfiles = profiles.slice(-6);
 
             // Add these last profiles to our selection
             selectedProfiles.push(...lastProfiles);
@@ -697,9 +716,40 @@
 
     // Complete loading function
     function loadAndRenderProfiles(profileData) {
-        renderProfiles(profileData);
+        renderProfiles(loadProfiles(profileData));
     }
 
+    function loadAndRenderContributors(profileData) {
+            const cleanedData = profileData.filter((profile) => profile.login !== 'actions-user');
+
+            // Wait for all promises to resolve before rendering
+            Promise.all(
+                cleanedData.map(async (profile) => {
+                    try {
+                        const response = await fetch(`https://api.github.com/users/${profile.login}`);
+                        const data = await response.json();
+                        return {
+                            name: data.name || profile.login, // Fallback to username if name is null
+                            username: profile.login,
+                            avatar_url: profile.avatar_url
+                        };
+                    } catch (error) {
+                        console.error(`Error fetching data for ${profile.login}:`, error);
+                        // Return object with fallback values if fetch fails
+                        return {
+                            name: profile.login,
+                            username: profile.login,
+                            avatar_url: profile.avatar_url
+                        };
+                    }
+                })
+            ).then(resolvedData => {
+                renderProfiles(resolvedData, 'contributors-users-section');
+            }).catch(error => {
+                console.error('Error processing profiles:', error);
+            });
+
+        }
     // Example usage when page loads
     document.addEventListener('DOMContentLoaded', () => {
         // Assuming profileData is available globally or passed in
@@ -708,6 +758,21 @@
             .then(profileData => {
                 loadAndRenderProfiles(profileData);
             });
+        try {
+            fetch("https://api.github.com/repos/sunithvs/devb.io/contributors")
+                .then(response => response.json())
+                .then(contributors => {
+
+                    if (contributors.message) {
+                        document.getElementById('contributors').style.display = 'none';
+                    } else {
+                        loadAndRenderContributors(contributors);
+                    }
+                });
+        } catch (error) {
+            console.error('Error fetching contributors:', error);
+        }
+
 
     });
 </script>

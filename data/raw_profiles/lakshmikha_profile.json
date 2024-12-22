@@ -1,0 +1,121 @@
+{
+    "username": "lakshmikha",
+    "name": "lakshmikha",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118295811?v=4",
+    "profile_url": "https://github.com/Lakshmikha",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Diagnex",
+            "description": "Design and develop an AI-powered conversational system that can accurately diagnose medical conditions based on user-inputted symptoms, medical history, and risk factors,",
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Lakshmikha/Diagnex",
+            "updatedAt": "2024-10-26T05:16:19Z"
+        },
+        {
+            "name": "beef",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Lakshmikha/beef",
+            "updatedAt": "2024-09-24T15:38:24Z"
+        },
+        {
+            "name": "MyFavShow",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Lakshmikha/MyFavShow",
+            "updatedAt": "2024-09-20T14:46:58Z"
+        },
+        {
+            "name": "PRAGTI",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Lakshmikha/PRAGTI",
+            "updatedAt": "2024-01-31T03:20:17Z"
+        },
+        {
+            "name": "BEWEB.DEV",
+            "description": null,
+            "score": 0.15694615804860262,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Lakshmikha/BEWEB.DEV",
+            "updatedAt": "2023-05-22T20:11:41Z"
+        },
+        {
+            "name": "THE-COMPLETE-JS-COURSE-UDEMY",
+            "description": null,
+            "score": 0.1566123030110044,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Lakshmikha/THE-COMPLETE-JS-COURSE-UDEMY",
+            "updatedAt": "2023-05-09T13:33:06Z"
+        },
+        {
+            "name": "codeforgewebdev",
+            "description": null,
+            "score": 0.15495167447311847,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Lakshmikha/codeforgewebdev",
+            "updatedAt": "2023-03-28T14:57:07Z"
+        },
+        {
+            "name": "Lakshmikha",
+            "description": null,
+            "score": 0.154876207971428,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Lakshmikha/Lakshmikha",
+            "updatedAt": "2023-03-26T16:13:37Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 13,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Lakshmikha/beef": {
+            "link": "https://github.com/Lakshmikha/beef",
+            "summary": "Recent activities in the Lakshmikha/beef repository include multiple push events, with a focus on setting up the episode detail page, configuring the backend server and database, and making miscellaneous backend-related changes, all occurring between September 23-24, 2024."
+        }
+    },
+    "profile_summary": "Lakshmikha is a highly skilled and accomplished developer with a strong proficiency in JavaScript, Python, and HTML. With a solid foundation in these core technical skills, lakshmikha has established a reputation as a reliable and innovative professional in the field of software development. As a knowledgeable and experienced developer, lakshmikha is well-versed in creating dynamic and interactive web applications, leveraging expertise in front-end development to deliver high-quality solutions. With a growing professional network and influence, lakshmikha has garnered a follower base that appreciates expertise and technical know-how.\n\nAs an active and prolific developer, lakshmikha has made significant contributions to the open-source community, with 13 public repositories showcasing a commitment to collaborative development and a passion for coding. By utilizing industry-relevant keywords and technologies, lakshmikha's work is optimized for search and tailored to meet the evolving needs of the tech industry. With a unique value proposition that combines technical expertise with a creative approach to problem-solving, lakshmikha is poised to drive innovation and deliver exceptional results in the field of software development, making them a valuable asset to any project or organization."
+}

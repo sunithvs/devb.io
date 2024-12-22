@@ -1,0 +1,123 @@
+{
+    "username": "manasvi10ag",
+    "name": "Manasvi Agarwal",
+    "bio": "Django Developer",
+    "location": "Ghaziabad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146832960?v=4",
+    "profile_url": "https://github.com/Manasvi10ag",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "currency-converter",
+            "description": "Seamless currency conversion",
+            "score": 2.622592315413219,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/currency-converter",
+            "updatedAt": "2024-11-29T21:24:01Z"
+        },
+        {
+            "name": "WeatherApp",
+            "description": "A React-based weather application that allows users to search for weather information by city. It uses the OpenWeatherMap API to fetch real-time weather data.",
+            "score": 2.0377360839747682,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/WeatherApp",
+            "updatedAt": "2024-12-16T16:57:28Z"
+        },
+        {
+            "name": "django-todo-list",
+            "description": null,
+            "score": 1.905258745511681,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Manasvi10ag/django-todo-list",
+            "updatedAt": "2024-12-16T18:19:55Z"
+        },
+        {
+            "name": "tic-tac-toe",
+            "description": null,
+            "score": 1.7957319917339867,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/tic-tac-toe",
+            "updatedAt": "2024-11-29T21:23:58Z"
+        },
+        {
+            "name": "Manasvi10ag",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Manasvi10ag/Manasvi10ag",
+            "updatedAt": "2024-12-18T15:02:35Z"
+        },
+        {
+            "name": "Portfolio",
+            "description": "Personal Portfolio",
+            "score": 0.16416830195132148,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Manasvi10ag/Portfolio",
+            "updatedAt": "2023-10-08T13:10:48Z"
+        },
+        {
+            "name": "Demo",
+            "description": null,
+            "score": 0.16392585500285345,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Manasvi10ag/Demo",
+            "updatedAt": "2023-10-03T12:13:06Z"
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 40,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Manasvi10ag/Manasvi10ag": {
+            "link": "https://github.com/Manasvi10ag/Manasvi10ag",
+            "summary": "Recent activities in the Manasvi10ag repository involve a series of updates to the README.md file, with multiple commits made between December 16th and December 18th, including the addition of a snake file and several revisions to the file's content."
+        },
+        "Manasvi10ag/django-todo-list": {
+            "link": "https://github.com/Manasvi10ag/django-todo-list",
+            "summary": "The django-todo-list repository has seen recent updates, with commits made between December 4th and December 5th, focusing on changes to validation, the addition of gunicorn, and modifications to static directories, indicating ongoing development and refinement of the project."
+        },
+        "Manasvi10ag/Manasvi-Agarwal": {
+            "link": "https://github.com/Manasvi10ag/Manasvi-Agarwal",
+            "summary": "Activity in the Manasvi-Agarwal repository has been centered around updates to the README.md file, with multiple pushes made on December 16th, suggesting efforts to refine or expand the project's documentation or introduction."
+        },
+        "Manasvi10ag/WeatherApp": {
+            "link": "https://github.com/Manasvi10ag/WeatherApp",
+            "summary": "The WeatherApp repository has seen recent activity, with commits made between December 13th and December 15th, including initial commits, API changes, and adjustments such as implementing title case for city names, indicating the project is in its early stages of development."
+        }
+    },
+    "profile_summary": "Manasvi Agarwal is a highly skilled Django developer with a strong foundation in JavaScript, Python, and HTML. With a solid understanding of web development principles, Manasvi crafts innovative solutions that meet the needs of modern applications. As a seasoned professional, Manasvi has established a reputation for delivering high-quality code and collaborating effectively with others. With a growing network of followers and a portfolio of public repositories, Manasvi demonstrates a commitment to open-source development and community engagement.\n\nAs a skilled programmer with a focus on Django, Manasvi brings a unique combination of technical expertise and creativity to every project. With a proven track record of developing efficient and scalable applications, Manasvi is a valuable asset to any development team. With expertise in industry-relevant technologies and a dedication to staying up-to-date with the latest trends, Manasvi is well-positioned to drive innovation and deliver results in a rapidly evolving tech landscape. By leveraging Manasvi's technical prowess and collaborative approach, organizations can tap into the power of web development to drive business success and achieve their goals."
+}

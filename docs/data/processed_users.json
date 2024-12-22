@@ -390,5 +390,33 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/22698488?u=3f788ca2aaf11ba0695d8f3488ae30c72dcb865f&v=4",
         "updated": "2024-12-22T21:18:01.961714",
         "name": "Luca D'Angelo"
+    },
+    "mcblair": {
+        "created": "2024-12-22T22:18:30.234061",
+        "username": "mcblair",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12667624?u=4c3ac6d56333b7925a2315f09509b61a20c16f97&v=4",
+        "updated": "2024-12-22T22:18:30.234068",
+        "name": "Matt Blair"
+    },
+    "axiomaabsurdo": {
+        "created": "2024-12-22T22:18:30.580711",
+        "username": "axiomaabsurdo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20176256?u=90a7c9aabb8e5cab88e910b4ab594150761f363b&v=4",
+        "updated": "2024-12-22T22:18:30.580719",
+        "name": "Matias Mortara"
+    },
+    "davidpreid": {
+        "created": "2024-12-22T22:18:31.043411",
+        "username": "davidpreid",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38797560?u=b700d36f9754a0c4e80761c54a03ef372166fb4f&v=4",
+        "updated": "2024-12-22T22:18:31.043419",
+        "name": "IrishReid"
+    },
+    "shsharkar": {
+        "created": "2024-12-22T22:18:31.397469",
+        "username": "shsharkar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12555542?u=6aec7a2f678cc1f1ca645f1cb9367937511e405d&v=4",
+        "updated": "2024-12-22T22:18:31.397475",
+        "name": "Md. Sazzad Hossain Sharkar"
     }
 }

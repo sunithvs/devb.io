@@ -1,0 +1,120 @@
+{
+    "username": "axiomaabsurdo",
+    "name": "Matias Mortara",
+    "bio": "",
+    "location": "Montevideo, Uruguay",
+    "avatar_url": "https://avatars.githubusercontent.com/u/20176256?u=90a7c9aabb8e5cab88e910b4ab594150761f363b&v=4",
+    "profile_url": "https://github.com/AxiomaAbsurdo",
+    "top_languages": [
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "Astro",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AxiomaAbsurdo.github.io",
+            "description": null,
+            "score": 1.5827005369211489,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AxiomaAbsurdo/AxiomaAbsurdo.github.io",
+            "updatedAt": "2024-09-20T16:44:47Z"
+        },
+        {
+            "name": "cyber-security-certificate-live-doc-ort",
+            "description": "A compilation of documentation gatherer from student for a the Cyber Security Certification by ORT University Montevideo Uruguay.",
+            "score": 1.5438829689659006,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AxiomaAbsurdo/cyber-security-certificate-live-doc-ort",
+            "updatedAt": "2023-06-01T23:23:15Z"
+        },
+        {
+            "name": "astro-for-make-money",
+            "description": "just learning Astro",
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/AxiomaAbsurdo/astro-for-make-money",
+            "updatedAt": "2024-10-27T13:27:12Z"
+        },
+        {
+            "name": "qr-am",
+            "description": null,
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AxiomaAbsurdo/qr-am",
+            "updatedAt": "2024-09-19T00:30:46Z"
+        },
+        {
+            "name": "qr-mm",
+            "description": "My Personal Presentation Virtual Card",
+            "score": 0.32230614082245657,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AxiomaAbsurdo/qr-mm",
+            "updatedAt": "2024-11-14T17:20:02Z"
+        },
+        {
+            "name": "bun-plan-ts-fp",
+            "description": "starter with bun, typescript and functional programming.",
+            "score": 0.16447549140945417,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AxiomaAbsurdo/bun-plan-ts-fp",
+            "updatedAt": "2023-10-13T00:12:58Z"
+        },
+        {
+            "name": "community-am",
+            "description": "A Static site like Linktree for the Community AM project.",
+            "score": 0.15811879210971763,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AxiomaAbsurdo/community-am",
+            "updatedAt": "2023-08-03T20:10:54Z"
+        },
+        {
+            "name": "blogpostr-backend",
+            "description": "Language tone parametrizable blog writer with AI powered text generator.",
+            "score": 0.15741513279199884,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AxiomaAbsurdo/blogpostr-backend",
+            "updatedAt": "2023-05-29T14:27:14Z"
+        }
+    ],
+    "followers": 38,
+    "following": 214,
+    "public_repos": 41,
+    "pull_requests_merged": 15,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 179,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mat\u00edas-mortara-silva-662448148/"
+        }
+    ],
+    "profile_summary": "Matias Mortara is a highly skilled and accomplished developer with a strong expertise in modern web development technologies, particularly in TypeScript, JavaScript, and Astro. With a solid foundation in programming fundamentals, Matias possesses a unique ability to craft innovative solutions that meet the demands of complex projects. His proficiency in these areas has earned him a reputation as a reliable and forward-thinking professional, capable of driving projects forward with precision and creativity.\n\nAs a seasoned developer with a substantial presence on GitHub, Matias has built a professional network of 38 followers and maintains an impressive portfolio of 41 public repositories, showcasing his commitment to active development and collaboration. By leveraging his technical expertise and passion for innovation, Matias delivers high-quality solutions that drive results, making him a valuable asset to any development team. With his expertise and dedication to staying up-to-date with the latest industry trends, Matias is well-positioned to tackle complex challenges and make meaningful contributions to the world of web development."
+}

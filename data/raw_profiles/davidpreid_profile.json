@@ -1,0 +1,63 @@
+{
+    "username": "davidpreid",
+    "name": "IrishReid",
+    "bio": "",
+    "location": "Dublin, Ireland",
+    "avatar_url": "https://avatars.githubusercontent.com/u/38797560?u=b700d36f9754a0c4e80761c54a03ef372166fb4f&v=4",
+    "profile_url": "https://github.com/davidpreid",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ModernSaaS",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/davidpreid/ModernSaaS",
+            "updatedAt": "2024-11-09T07:36:01Z"
+        },
+        {
+            "name": "whisperEcho",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/davidpreid/whisperEcho",
+            "updatedAt": "2024-11-08T15:59:11Z"
+        },
+        {
+            "name": "quiktipzONE",
+            "description": "Created with\u26a1\ufe0f",
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/davidpreid/quiktipzONE",
+            "updatedAt": "2024-11-06T22:42:59Z"
+        }
+    ],
+    "followers": 3,
+    "following": 5,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "davidpreid/ModernSaaS": {
+            "link": "https://github.com/davidpreid/ModernSaaS",
+            "summary": "Recent activities on the ModernSaaS repository include an initial push event on November 9, 2024, marking the beginning of development."
+        }
+    },
+    "profile_summary": "IrishReid is a highly skilled and accomplished developer with a strong proficiency in TypeScript, a versatile and widely-used programming language. With a growing professional network of 3 followers, IrishReid has established themselves as a trusted and influential figure in the development community. Their impressive portfolio of 4 public repositories showcases a consistent track record of active development and a passion for creating innovative solutions. As a seasoned developer, IrishReid possesses a deep understanding of software development principles and a keen eye for detail, ensuring that their code is always reliable, efficient, and easy to maintain.\n\nWith a unique blend of technical expertise and creative problem-solving skills, IrishReid is well-equipped to tackle complex development challenges and deliver high-quality results. Their expertise in TypeScript enables them to craft scalable, modular, and well-documented code that meets the highest standards of quality and performance. As a forward-thinking developer, IrishReid is always looking for ways to improve their skills and stay up-to-date with the latest industry trends and best practices. With their strong work ethic, attention to detail, and commitment to excellence, IrishReid is an exceptional developer who can make a valuable contribution to any project or organization, bringing innovative ideas and technical expertise to the table."
+}

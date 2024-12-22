@@ -1,0 +1,120 @@
+{
+    "username": "hknp796",
+    "name": "Harikrishnan",
+    "bio": "MEVN Stack Developer.",
+    "location": "Calicut",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85402206?u=77c187f25d3ce3cc14b94ebbe4cbad0d1d9b8d2d&v=4",
+    "profile_url": "https://github.com/hknp796",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "Vue",
+            4
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "vitalz-backend",
+            "description": null,
+            "score": 0.24370992427238225,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hknp796/vitalz-backend",
+            "updatedAt": "2024-07-30T17:07:45Z"
+        },
+        {
+            "name": "vitalz",
+            "description": "This repository contains the source code and documentation for a complete gym management software. For gym and clients",
+            "score": 0.2324275117096777,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hknp796/vitalz",
+            "updatedAt": "2024-07-30T17:07:09Z"
+        },
+        {
+            "name": "hknp796",
+            "description": "My Profile",
+            "score": 0.221539898243358,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hknp796/hknp796",
+            "updatedAt": "2024-12-21T18:23:38Z"
+        },
+        {
+            "name": "chart",
+            "description": null,
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/hknp796/chart",
+            "updatedAt": "2023-10-16T06:07:34Z"
+        },
+        {
+            "name": "chat-react",
+            "description": null,
+            "score": 0.15965773819182738,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/hknp796/chat-react",
+            "updatedAt": "2023-07-16T17:38:06Z"
+        },
+        {
+            "name": "chat-server",
+            "description": null,
+            "score": 0.15965773819182738,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hknp796/chat-server",
+            "updatedAt": "2023-07-16T17:28:14Z"
+        },
+        {
+            "name": "money-tracker",
+            "description": null,
+            "score": 0.15960924559651557,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hknp796/money-tracker",
+            "updatedAt": "2023-07-16T10:54:21Z"
+        },
+        {
+            "name": "money-tracker-backend",
+            "description": null,
+            "score": 0.15960924559651557,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hknp796/money-tracker-backend",
+            "updatedAt": "2023-07-16T12:26:35Z"
+        }
+    ],
+    "followers": 5,
+    "following": 16,
+    "public_repos": 21,
+    "pull_requests_merged": 14,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 35,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/hknp796"
+        }
+    ],
+    "profile_summary": "Harikrishnan is a highly skilled and accomplished MEVN Stack Developer with a strong foundation in JavaScript, Vue, and Python. With a solid track record of delivering high-quality solutions, he has established himself as a reliable and innovative professional in the development community. His expertise in leveraging the MEVN stack to build scalable and efficient applications has earned him recognition and respect among his peers. As a seasoned developer with a growing network of followers, Harikrishnan is committed to staying at the forefront of the latest trends and technologies.\n\nAs an active and prolific developer, Harikrishnan has created an impressive portfolio of 21 public repositories, demonstrating his dedication to continuous learning and improvement. With a strong presence in the development community, he is well-positioned to collaborate and contribute to a wide range of projects. By combining his technical expertise with a passion for innovation and a commitment to excellence, Harikrishnan delivers exceptional results that meet and exceed expectations. His unique blend of skills, experience, and passion for development makes him an invaluable asset to any project or organization, and a trusted partner for companies seeking to drive growth and success through technology."
+}

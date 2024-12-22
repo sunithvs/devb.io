@@ -30,6 +30,10 @@
             display: none;
             /* Chrome, Safari and Opera */
         }
+
+        #right-section {
+            overscroll-behavior: none;
+        }
     </style>
     <script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
@@ -83,7 +87,7 @@
     <!-- Content will be dynamically loaded here -->
       <div class="grid grid-cols-1 lg:grid-cols-[400px,1fr] gap-8">
         <!-- Left Profile Section -->
-        <div class="lg:sticky lg:top-8 space-y-6">
+        <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo -->
             <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
                 <div class="w-12 h-12 shimmer-load rounded-full"></div>
@@ -129,7 +133,7 @@
         </div>
 
         <!-- Right Content Section -->
-        <div class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
+        <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
             <section class="mt-6">
                 <div class="w-48 h-8 shimmer-load rounded mb-6 mx-3"></div>
 
@@ -203,6 +207,18 @@
         </div>
     </div>
 </main>
+
+<script>
+    // Scroll sync between left and right sections
+    const leftSection = document.getElementById("left-section");
+    const rightSection = document.getElementById("right-section");
+
+    leftSection.addEventListener("wheel", (event) => {
+        rightSection.scrollBy({
+            top: event.deltaY,
+        });
+    });
+</script>
 
 <script>
     // Function to fetch user profile data
@@ -405,7 +421,7 @@ function renderErrorPage(error) {
         const container = document.getElementById('profile-container');
         container.innerHTML = `<div class="grid grid-cols-1 lg:grid-cols-[400px,1fr] gap-8">
         <!-- Left Profile Section - Stacked on Mobile, Static on Desktop -->
-        <div class="lg:sticky lg:top-8 space-y-6">
+        <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo - Centered on Mobile -->
             <a href="/">
                 <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
@@ -472,7 +488,7 @@ function renderErrorPage(error) {
             </div>
         </div>
         <!-- Right Content Section - Scrollable -->
-        <div class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
+        <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
 
             <section id="about" class="mt-6">
                 <h2 class="text-2xl font-bold mb-6 mx-3 text-left">Get to know me ↓</h2>

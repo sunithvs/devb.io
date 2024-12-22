@@ -145,5 +145,12 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/383316?v=4",
         "updated": "2024-12-22T12:37:45.513641",
         "name": "test"
+    },
+    "connect": {
+        "created": "2024-12-22T13:22:25.740786",
+        "username": "connect",
+        "avatar_url": "https://avatars.githubusercontent.com/u/331908?u=ce4facfcf08b3a1f35dd5c5578e592ff1ba4d849&v=4",
+        "updated": "2024-12-22T13:22:25.740793",
+        "name": "kod_connect"
     }
 }

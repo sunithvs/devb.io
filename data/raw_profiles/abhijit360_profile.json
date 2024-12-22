@@ -1,0 +1,121 @@
+{
+    "username": "abhijit360",
+    "name": "abhijit",
+    "bio": "",
+    "location": "massachusetts",
+    "avatar_url": "https://avatars.githubusercontent.com/u/23292258?u=556d3a8821f0590bd1e67761df7957a1f07b9772&v=4",
+    "profile_url": "https://github.com/abhijit360",
+    "top_languages": [
+        [
+            "Go",
+            3
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "learnGit",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abhijit360/learnGit",
+            "updatedAt": "2024-12-22T18:12:04Z"
+        },
+        {
+            "name": "ChartVue",
+            "description": null,
+            "score": 1.6411318549843077,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/abhijit360/ChartVue",
+            "updatedAt": "2024-01-05T22:07:09Z"
+        },
+        {
+            "name": "ERC223-tokens-solidity",
+            "description": null,
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/abhijit360/ERC223-tokens-solidity",
+            "updatedAt": "2024-12-06T03:15:19Z"
+        },
+        {
+            "name": "SMTP-GO",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/abhijit360/SMTP-GO",
+            "updatedAt": "2024-11-05T03:13:56Z"
+        },
+        {
+            "name": "blockchain-461",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abhijit360/blockchain-461",
+            "updatedAt": "2024-11-08T21:07:51Z"
+        },
+        {
+            "name": "MailService",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/abhijit360/MailService",
+            "updatedAt": "2024-10-27T21:29:47Z"
+        },
+        {
+            "name": "CrackingTheCodingInterview",
+            "description": null,
+            "score": 0.30914893733334936,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abhijit360/CrackingTheCodingInterview",
+            "updatedAt": "2024-08-18T03:02:17Z"
+        },
+        {
+            "name": "Habit_Tracker",
+            "description": null,
+            "score": 0.290428298011447,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abhijit360/Habit_Tracker",
+            "updatedAt": "2024-09-22T15:47:19Z"
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 41,
+    "pull_requests_merged": 17,
+    "issues_closed": 8,
+    "achievements": {
+        "total_contributions": 959,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ducth1903/sas-period-tracker": {
+            "link": "https://github.com/ducth1903/sas-period-tracker",
+            "summary": "Recent activities in the sas-period-tracker repository have focused on enhancing the user interface and resolving existing bugs. Notably, a search bar UI has been added, along with navigation features for both articles and sections. Additionally, several bug fixes have been implemented, including the declaration of paramResources to address a previously encountered issue. These updates aim to improve overall user experience and stability of the application."
+        }
+    },
+    "profile_summary": "Abhijit is a highly skilled software developer with a strong proficiency in Go, Python, and TypeScript, demonstrating expertise in a range of programming languages. With a growing professional network of 6 followers, abhijit has established a reputation as a reliable and innovative developer, actively contributing to the development community through 41 public repositories. This dedication to open-source development showcases abhijit's commitment to collaborative problem-solving and a passion for staying at the forefront of industry trends.\n\nAs a seasoned developer, abhijit brings a unique combination of technical skills and collaborative spirit to the table, making them a valuable asset to any project or team. With a focus on delivering high-quality solutions, abhijit leverages their expertise in programming languages to drive innovation and improvement. By combining technical prowess with a passion for development, abhijit consistently delivers reliable and efficient solutions, solidifying their position as a high-performing and innovative professional in the field of software development, with a strong online presence and a commitment to ongoing learning and growth."
+}

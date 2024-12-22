@@ -1,0 +1,134 @@
+{
+    "username": "mgpai22",
+    "name": "Shishir Pai",
+    "bio": "Simplicity is the ultimate sophistication",
+    "location": "Boston",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64056966?v=4",
+    "profile_url": "https://github.com/mgpai22",
+    "top_languages": [
+        [
+            "Rust",
+            4
+        ],
+        [
+            "Scala",
+            4
+        ],
+        [
+            "Python",
+            13
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ergpy",
+            "description": "A python-jvm wrapper for interacting with the Ergo blockchain.",
+            "score": 9.784706466904465,
+            "stars": 22,
+            "forks": 8,
+            "language": "Python",
+            "url": "https://github.com/mgpai22/ergpy",
+            "updatedAt": "2024-12-21T16:15:12Z"
+        },
+        {
+            "name": "ergo-synced-node",
+            "description": "Dockerized synced ergo node! The fastest way to spin a complete operational node for the ergo blockchain.",
+            "score": 5.861325720961914,
+            "stars": 9,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/mgpai22/ergo-synced-node",
+            "updatedAt": "2024-08-26T20:16:55Z"
+        },
+        {
+            "name": "ergo-nft-bulk-minter",
+            "description": "Repository for the ergo NFT bulk minter",
+            "score": 5.578257525650462,
+            "stars": 8,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/mgpai22/ergo-nft-bulk-minter",
+            "updatedAt": "2023-09-15T12:52:15Z"
+        },
+        {
+            "name": "bells-inscriptions",
+            "description": null,
+            "score": 5.486274865322692,
+            "stars": 5,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/mgpai22/bells-inscriptions",
+            "updatedAt": "2024-01-22T18:22:01Z"
+        },
+        {
+            "name": "nautilus-ergo-wallet-decrypter",
+            "description": null,
+            "score": 4.045718455054773,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/mgpai22/nautilus-ergo-wallet-decrypter",
+            "updatedAt": "2024-03-24T11:40:20Z"
+        },
+        {
+            "name": "ergo-streaming",
+            "description": "Kafka-based streaming service for Ergo blockchain data with real-time block, transaction, and mempool event processing",
+            "score": 3.3264927818430636,
+            "stars": 3,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/mgpai22/ergo-streaming",
+            "updatedAt": "2024-12-18T16:53:59Z"
+        },
+        {
+            "name": "paiNet",
+            "description": "Custom Ergo Testnet Node",
+            "score": 2.846937792683821,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mgpai22/paiNet",
+            "updatedAt": "2022-10-09T22:37:15Z"
+        },
+        {
+            "name": "bells-docker",
+            "description": null,
+            "score": 2.6806129905659315,
+            "stars": 1,
+            "forks": 1,
+            "language": "Dockerfile",
+            "url": "https://github.com/mgpai22/bells-docker",
+            "updatedAt": "2024-01-03T15:28:52Z"
+        }
+    ],
+    "followers": 27,
+    "following": 7,
+    "public_repos": 85,
+    "pull_requests_merged": 52,
+    "issues_closed": 29,
+    "achievements": {
+        "total_contributions": 828,
+        "repositories_contributed_to": 34
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/shishirpai"
+        }
+    ],
+    "activity_summary": {
+        "UMass-Events-Map/frontend": {
+            "link": "https://github.com/UMass-Events-Map/frontend",
+            "summary": "Recent activities have focused on dependency fixes, updates to the README, and adjustments to package versions, with multiple push events and pull requests addressing these issues to enhance the overall stability and functionality of the repository."
+        },
+        "mgpai22/evm-json-rpc-cache": {
+            "link": "https://github.com/mgpai22/evm-json-rpc-cache",
+            "summary": "The repository has seen recent updates aimed at improving rate limit handling, round trip functionality, and configuration adjustments, with several push events implementing these fixes to optimize the repository's performance and reliability."
+        },
+        "UMass-Events-Map/backend": {
+            "link": "https://github.com/UMass-Events-Map/backend",
+            "summary": "Activities have centered around enhancing the backend functionality, including fixes to the delete route, additions of end-to-end testing documentation, and the implementation of delete and update endpoints for the events controller, showcasing a focus on expanding and stabilizing the repository's features."
+        }
+    },
+    "profile_summary": "Shishir Pai is a highly skilled developer with a strong foundation in programming languages such as Rust, Scala, and Python. With a professional network of 27 followers and a portfolio of 85 public repositories, he has established himself as a reliable and innovative professional in the field of software development. His technical expertise and dedication to his craft have earned him a reputation as a high-performing developer who consistently delivers high-quality solutions. As a seasoned expert, Shishir Pai is well-versed in the latest industry trends and technologies, allowing him to stay ahead of the curve and drive innovation in his work.\n\nAs a developer who embodies the principle that simplicity is the ultimate sophistication, Shishir Pai is committed to creating elegant and efficient solutions that meet the needs of his clients and users. With his strong technical skills and passion for innovation, he is a valuable asset to any team or project. Shishir Pai's expertise in Rust, Scala, and Python makes him a versatile developer who can tackle a wide range of challenges, from building scalable systems to developing intelligent applications. His extensive experience and commitment to excellence make him a trusted partner for companies and individuals seeking to leverage the power of technology to drive success and growth."
+}

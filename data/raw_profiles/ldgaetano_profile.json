@@ -1,0 +1,115 @@
+{
+    "username": "ldgaetano",
+    "name": "Luca D'Angelo",
+    "bio": "",
+    "location": "Montr\u00e9al, QC",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22698488?u=3f788ca2aaf11ba0695d8f3488ae30c72dcb865f&v=4",
+    "profile_url": "https://github.com/ldgaetano",
+    "top_languages": [
+        [
+            "Scala",
+            1
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "flowcardLib",
+            "description": "Ergo FlowCard library for diagrams.net",
+            "score": 2.26838450166375,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ldgaetano/flowcardLib",
+            "updatedAt": "2021-12-14T17:57:14Z"
+        },
+        {
+            "name": "MRT-GUI",
+            "description": "Avionics GUI for the McGill Rocket Team (2017-2018)",
+            "score": 1.4505695730156487,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ldgaetano/MRT-GUI",
+            "updatedAt": "2020-09-17T16:58:30Z"
+        },
+        {
+            "name": "0KnowledgeSim",
+            "description": "0 Knowledge Simulation",
+            "score": 1.1066022969116416,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/ldgaetano/0KnowledgeSim",
+            "updatedAt": "2021-12-01T15:00:42Z"
+        },
+        {
+            "name": "medusa-reproduction",
+            "description": "Reproduction repo for MedusaJS issues.",
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ldgaetano/medusa-reproduction",
+            "updatedAt": "2024-12-09T08:06:05Z"
+        },
+        {
+            "name": "trade-in",
+            "description": "Card game token burn and trade-in protocol for Ergo blockchain.",
+            "score": 0.23541923707290394,
+            "stars": 0,
+            "forks": 0,
+            "language": "Scala",
+            "url": "https://github.com/ldgaetano/trade-in",
+            "updatedAt": "2024-05-05T22:45:23Z"
+        },
+        {
+            "name": "lgd-dev-env",
+            "description": "Custom image for a Docker development environment.",
+            "score": 0.16192057831950055,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/ldgaetano/lgd-dev-env",
+            "updatedAt": "2023-08-30T16:00:05Z"
+        },
+        {
+            "name": "hodlcoin-contracts",
+            "description": null,
+            "score": 0.15898970131895468,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ldgaetano/hodlcoin-contracts",
+            "updatedAt": "2023-07-03T14:30:20Z"
+        },
+        {
+            "name": "pinlock-extended-example",
+            "description": "Grantor/beneficiary pinlock example using the ergo_python_appkit library.",
+            "score": 0.07294632920364777,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ldgaetano/pinlock-extended-example",
+            "updatedAt": "2022-05-20T01:45:38Z"
+        }
+    ],
+    "followers": 15,
+    "following": 82,
+    "public_repos": 44,
+    "pull_requests_merged": 123,
+    "issues_closed": 92,
+    "achievements": {
+        "total_contributions": 274,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [],
+    "profile_summary": "Luca D'Angelo is a highly skilled and accomplished developer with a strong foundation in programming languages such as Scala, C++, and TypeScript. With a proven track record of delivering high-quality solutions, Luca has established himself as a trusted and reliable expert in his field. His extensive experience and in-depth knowledge of software development enable him to tackle complex projects with ease and precision. As a dedicated professional, Luca is committed to staying up-to-date with the latest industry trends and technologies, ensuring that his skills remain current and relevant.\n\nAs a prominent figure in the development community, Luca has built a reputation for innovation and excellence. With 44 public repositories and a network of 15 followers, he has demonstrated his ability to collaborate and share knowledge with others. Luca's unique value proposition lies in his ability to leverage his technical expertise to drive business results and deliver cutting-edge solutions. By combining his technical skills with a passion for innovation and a customer-centric approach, Luca is able to provide exceptional value to his clients and partners, solidifying his position as a leading developer in his field."
+}

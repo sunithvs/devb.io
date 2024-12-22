@@ -1,0 +1,115 @@
+{
+    "username": "deepusnath",
+    "name": "Deepu S Nath",
+    "bio": "Programming is not a zero-sum game.  I'm happy to share what I can because I'm in it for the love of programming.",
+    "location": "Trivandrum, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11581972?u=c97028ceb845b5fa9c67388f2d3dc3366fc046d3&v=4",
+    "profile_url": "https://github.com/deepusnath",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Ruby",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 3.9637249757228297,
+            "stars": 1,
+            "forks": 4,
+            "language": null,
+            "url": "https://github.com/deepusnath/skills-communicate-using-markdown",
+            "updatedAt": "2023-11-17T16:24:59Z"
+        },
+        {
+            "name": "travel-companion",
+            "description": null,
+            "score": 2.707043571963732,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/deepusnath/travel-companion",
+            "updatedAt": "2024-06-03T05:27:33Z"
+        },
+        {
+            "name": "tech-myrmidons",
+            "description": null,
+            "score": 1.1035483833966282,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/deepusnath/tech-myrmidons",
+            "updatedAt": "2018-01-24T21:13:16Z"
+        },
+        {
+            "name": "Mentoring-Startup",
+            "description": "This Contains slides that could be used for mentoring start up companies and budding entrepreneurs ",
+            "score": 1.1013972659765883,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/deepusnath/Mentoring-Startup",
+            "updatedAt": "2015-11-23T20:49:49Z"
+        },
+        {
+            "name": "HappyPulse",
+            "description": null,
+            "score": 0.29308358997247175,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deepusnath/HappyPulse",
+            "updatedAt": "2024-07-09T10:41:22Z"
+        },
+        {
+            "name": "travel-route",
+            "description": null,
+            "score": 0.27929642477188826,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deepusnath/travel-route",
+            "updatedAt": "2024-05-24T21:13:39Z"
+        },
+        {
+            "name": "skills-github-pages",
+            "description": "My clone repository",
+            "score": 0.16286951187663795,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deepusnath/skills-github-pages",
+            "updatedAt": "2023-09-16T06:36:06Z"
+        },
+        {
+            "name": "skills-introduction-to-github",
+            "description": "My clone repository",
+            "score": 0.16269873579458505,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deepusnath/skills-introduction-to-github",
+            "updatedAt": "2023-09-13T07:16:52Z"
+        }
+    ],
+    "followers": 37,
+    "following": 50,
+    "public_repos": 131,
+    "pull_requests_merged": 70,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 34,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "profile_summary": "Deepu S Nath is a highly skilled and accomplished software developer with a strong proficiency in programming languages such as Python, JavaScript, and Ruby. With a vast array of public repositories, totaling 131, and a growing professional network of 37 followers, Deepu has established himself as a reliable and innovative problem solver in the developer community. His passion for programming is evident in his commitment to sharing knowledge and collaborating with others, reflecting his belief that programming is a collective endeavor that benefits from mutual support and shared expertise.\n\nAs a seasoned developer with a dedication to delivering high-quality solutions, Deepu brings a unique value proposition to the table, combining technical expertise with a collaborative spirit and a love for programming. His expertise in multiple programming languages enables him to tackle complex projects with ease, making him a versatile and valuable asset to any development team. With a strong online presence and a reputation for sharing knowledge and expertise, Deepu is well-positioned to drive innovation and growth in the software development industry, and his contributions are likely to have a lasting impact on the programming community."
+}

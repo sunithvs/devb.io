@@ -1,0 +1,126 @@
+{
+    "username": "zersya",
+    "name": "Zein Ersyad",
+    "bio": "Different is Beautiful",
+    "location": "Indonesia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11307389?u=286c55ec5eb9cb7f7d58244ed87d2dbc72f8a9f7&v=4",
+    "profile_url": "https://github.com/Zersya",
+    "top_languages": [
+        [
+            "Rust",
+            4
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "chat.salingtanya.com",
+            "description": "A simple project about Flutter x Appwrite, it's open source :)",
+            "score": 2.498588377254299,
+            "stars": 1,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/Zersya/chat.salingtanya.com",
+            "updatedAt": "2022-09-21T15:03:57Z"
+        },
+        {
+            "name": "server-location-tracker",
+            "description": "Example Rust application integrate with Axum and SurrealDB",
+            "score": 1.5420182511738563,
+            "stars": 1,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Zersya/server-location-tracker",
+            "updatedAt": "2023-07-30T05:04:12Z"
+        },
+        {
+            "name": "Hand-Gesture-Drawing",
+            "description": "Fun Projects",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Zersya/Hand-Gesture-Drawing",
+            "updatedAt": "2024-12-20T04:41:10Z"
+        },
+        {
+            "name": "routegen",
+            "description": "a flutter lib for generate route",
+            "score": 1.1066787397849904,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/Zersya/routegen",
+            "updatedAt": "2022-08-17T13:56:26Z"
+        },
+        {
+            "name": "nuxt-keycloak",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Zersya/nuxt-keycloak",
+            "updatedAt": "2024-10-14T09:15:09Z"
+        },
+        {
+            "name": "docs",
+            "description": null,
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "MDX",
+            "url": "https://github.com/Zersya/docs",
+            "updatedAt": "2024-10-03T01:17:11Z"
+        },
+        {
+            "name": "subscription-tracker",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Zersya/subscription-tracker",
+            "updatedAt": "2024-09-21T04:31:19Z"
+        },
+        {
+            "name": "invoice-billing-server",
+            "description": null,
+            "score": 0.22681277096093722,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Zersya/invoice-billing-server",
+            "updatedAt": "2024-01-17T11:34:10Z"
+        }
+    ],
+    "followers": 14,
+    "following": 11,
+    "public_repos": 61,
+    "pull_requests_merged": 82,
+    "issues_closed": 24,
+    "achievements": {
+        "total_contributions": 1590,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/zeinersyad"
+        }
+    ],
+    "activity_summary": {
+        "Inving-Co/fin-expenses": {
+            "link": "https://github.com/Inving-Co/fin-expenses",
+            "summary": "The fin-expenses repository has seen significant activity recently, with multiple push events introducing new features and fixes. Notable updates include the ability to archive circles, export records, and filter based on budget plans. Additionally, several improvements have been made to the user interface, including the implementation of a mobile menu bottom navbar and the cleanup of subscription UI. These changes demonstrate the repository's active development and commitment to enhancing its financial management capabilities."
+        }
+    },
+    "profile_summary": "Zein Ersyad is a highly skilled and innovative software developer with a strong background in programming languages such as Rust, C++, and TypeScript. With a unique approach to problem-solving, Zein brings a distinct perspective to the field, embracing the idea that \"Different is Beautiful\". As a seasoned developer with a significant presence on GitHub, Zein has established a professional network of 14 followers and has actively contributed to 61 public repositories, showcasing a commitment to collaborative development and open-source sharing.\n\nAs a technically proficient and reliable developer, Zein Ersyad leverages expertise in Rust, C++, and TypeScript to deliver high-quality solutions that meet the evolving needs of the software development landscape. With a focus on precision, efficiency, and innovation, Zein consistently pushes the boundaries of what is possible, driving progress and excellence in the field. By combining technical prowess with a passion for creative problem-solving, Zein has established a reputation as a trusted and accomplished developer, poised to make a lasting impact in the world of software development."
+}

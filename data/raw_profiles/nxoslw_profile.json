@@ -1,0 +1,53 @@
+{
+    "username": "nxoslw",
+    "name": "Nahid Ahmad",
+    "bio": "",
+    "location": "Dhaka, Bangladesh",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98708163?u=c931d510e7d6eb637c0212ffc7f0dbd7b69efd74&v=4",
+    "profile_url": "https://github.com/nxoslw",
+    "top_languages": [
+        [
+            "Svelte",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nxoslw",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.21538925768838327,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nxoslw/nxoslw",
+            "updatedAt": "2024-10-11T18:43:13Z"
+        },
+        {
+            "name": "cv",
+            "description": null,
+            "score": 0.1625856908090673,
+            "stars": 0,
+            "forks": 0,
+            "language": "Svelte",
+            "url": "https://github.com/nxoslw/cv",
+            "updatedAt": "2023-09-11T21:41:07Z"
+        }
+    ],
+    "followers": 0,
+    "following": 3,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 53,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "nxoslw/nxoslw": {
+            "link": "https://github.com/nxoslw/nxoslw",
+            "summary": "This repository recently experienced a series of push events on October 11, 2024, with multiple updates to the README.md file, indicating continuous maintenance and improvement of the project's documentation."
+        }
+    },
+    "profile_summary": null
+}

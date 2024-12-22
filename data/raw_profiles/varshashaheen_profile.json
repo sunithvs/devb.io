@@ -1,0 +1,130 @@
+{
+    "username": "varshashaheen",
+    "name": "Varsha Shaheen",
+    "bio": "Third-year Computer Science student at Cochin University Of Science And Technology.",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97077639?u=06923288c32165746388cafcea4556706b331e8d&v=4",
+    "profile_url": "https://github.com/VarshaShaheen",
+    "top_languages": [
+        [
+            "Python",
+            19
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WIT-Website",
+            "description": null,
+            "score": 4.125490094770555,
+            "stars": 0,
+            "forks": 13,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/WIT-Website",
+            "updatedAt": "2023-11-19T02:40:12Z"
+        },
+        {
+            "name": "Experimenting-with-Assembly-Language",
+            "description": "Here you can discover my experimentation with Assembly language, which was the first language I ever learned.",
+            "score": 3.383880518123364,
+            "stars": 2,
+            "forks": 1,
+            "language": "Assembly",
+            "url": "https://github.com/VarshaShaheen/Experimenting-with-Assembly-Language",
+            "updatedAt": "2023-10-02T06:28:19Z"
+        },
+        {
+            "name": "graphics-lab",
+            "description": null,
+            "score": 1.6399511189789489,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/graphics-lab",
+            "updatedAt": "2024-11-16T09:37:38Z"
+        },
+        {
+            "name": "DSA-S4-new",
+            "description": null,
+            "score": 1.5450047240157374,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/VarshaShaheen/DSA-S4-new",
+            "updatedAt": "2023-07-13T16:55:16Z"
+        },
+        {
+            "name": "S3_oops_lab",
+            "description": null,
+            "score": 1.5409460187376998,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3_oops_lab",
+            "updatedAt": "2023-03-31T12:10:49Z"
+        },
+        {
+            "name": "Actions-Controlled-Presentation",
+            "description": null,
+            "score": 1.5408347698306588,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/Actions-Controlled-Presentation",
+            "updatedAt": "2023-03-21T14:41:46Z"
+        },
+        {
+            "name": "S3-Oop",
+            "description": null,
+            "score": 1.5398630204234875,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3-Oop",
+            "updatedAt": "2023-02-27T05:34:21Z"
+        },
+        {
+            "name": "varshashaheen.github.io",
+            "description": null,
+            "score": 1.4599922260166303,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/varshashaheen.github.io",
+            "updatedAt": "2022-07-23T18:44:05Z"
+        }
+    ],
+    "followers": 43,
+    "following": 3,
+    "public_repos": 81,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 413,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/varsha-shaheen-a10295231"
+        }
+    ],
+    "activity_summary": {
+        "VarshaShaheen/IWCMLQC": {
+            "link": "https://github.com/VarshaShaheen/IWCMLQC",
+            "summary": "This repository has experienced significant activity with multiple push events, primarily focused on modifying the brochure and making date changes between October and December 2024, indicating ongoing updates and maintenance."
+        },
+        "VarshaShaheen/Network-Lab-S7": {
+            "link": "https://github.com/VarshaShaheen/Network-Lab-S7",
+            "summary": "The repository saw a series of push events, mainly in November and October 2024, with a focus on adding programs, reflecting a pattern of continuous development and enrichment of the network lab resources."
+        }
+    },
+    "profile_summary": "Varsha Shaheen is a highly skilled and dedicated computer science student with a strong foundation in programming languages such as Python, C, and C++. As a third-year student at Cochin University Of Science And Technology, she has already demonstrated a keen interest in software development and a natural aptitude for coding. With a growing professional network of 43 followers and an impressive portfolio of 81 public repositories, Varsha has established herself as a talented and prolific developer with a passion for innovation and collaboration.\n\nAs a emerging developer, Varsha brings a fresh perspective and a strong work ethic to the table, with a unique ability to design and develop high-quality software solutions that meet the needs of her clients and users. With expertise in languages such as Python, C, and C++, she is well-equipped to tackle a wide range of projects and challenges, from backend development to data analysis and machine learning. With her strong technical skills, combined with her creativity and enthusiasm, Varsha Shaheen is an exciting new talent in the world of software development, with a bright future ahead of her in the tech industry."
+}

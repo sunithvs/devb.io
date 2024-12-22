@@ -1,0 +1,57 @@
+{
+    "username": "lakshaybot",
+    "name": "Lakshay",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/84670382?u=d60ba30f56d0497079af35dcf2304f58d820e3b2&v=4",
+    "profile_url": "https://github.com/LakshayBot",
+    "top_languages": [
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LakshayBot.github.io",
+            "description": null,
+            "score": 0.16588483704660195,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/LakshayBot/LakshayBot.github.io",
+            "updatedAt": "2023-11-04T04:33:25Z"
+        },
+        {
+            "name": "WasteCollectionAPI",
+            "description": null,
+            "score": 0.15960924559651557,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/LakshayBot/WasteCollectionAPI",
+            "updatedAt": "2023-07-16T07:49:04Z"
+        },
+        {
+            "name": "Healthcare",
+            "description": null,
+            "score": 0.07233018976457864,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/LakshayBot/Healthcare",
+            "updatedAt": "2022-03-24T15:13:15Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Lakshay is a skilled software developer with a strong foundation in C# programming language, demonstrating expertise in designing and developing innovative solutions. With a growing portfolio of public repositories, Lakshay showcases active engagement in the development community, highlighting a commitment to collaborative and open-source development. As a dedicated professional, Lakshay is driven to deliver high-quality solutions, leveraging technical expertise to drive project success and foster strong relationships with peers and clients.\n\nWith a professional online presence, Lakshay is poised to expand a network of like-minded professionals, contributing to and learning from the broader development community. By emphasizing a unique blend of technical skills and collaborative spirit, Lakshay offers a distinctive value proposition, positioning as a reliable and innovative partner for forward-thinking projects. As a C# specialist with a passion for innovative development, Lakshay is well-equipped to tackle complex challenges, drive technology-forward solutions, and make meaningful contributions to the ever-evolving landscape of software development."
+}

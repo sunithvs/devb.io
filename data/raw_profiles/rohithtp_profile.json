@@ -1,0 +1,87 @@
+{
+    "username": "rohithtp",
+    "name": "Rohith Pavithran",
+    "bio": "a being with glasses",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2780123?u=93aa9e523c1c85a93bd039014ba7ed4c13ec7999&v=4",
+    "profile_url": "https://github.com/rohithtp",
+    "top_languages": [
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "rohithtp",
+            "description": "A man with googles",
+            "score": 0.07294632920364777,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohithtp/rohithtp",
+            "updatedAt": "2022-05-20T04:14:27Z"
+        },
+        {
+            "name": "dependecy-check-app",
+            "description": "Uses internally the OWASP dependency  check",
+            "score": 0.07207400359071019,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/rohithtp/dependecy-check-app",
+            "updatedAt": "2022-02-27T08:46:00Z"
+        },
+        {
+            "name": "rohithtp-cv",
+            "description": null,
+            "score": 0.07042226575555136,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohithtp/rohithtp-cv",
+            "updatedAt": "2021-08-29T06:25:37Z"
+        },
+        {
+            "name": "life-rule-mappings",
+            "description": null,
+            "score": 0.061820381082093985,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohithtp/life-rule-mappings",
+            "updatedAt": "2016-01-24T14:38:06Z"
+        },
+        {
+            "name": "jsf-examples",
+            "description": "sample jsf examples for reference",
+            "score": 0.06164446849085771,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohithtp/jsf-examples",
+            "updatedAt": "2015-11-09T17:54:59Z"
+        },
+        {
+            "name": "examples",
+            "description": null,
+            "score": 0.06133315199497689,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/rohithtp/examples",
+            "updatedAt": "2022-04-30T08:58:04Z"
+        }
+    ],
+    "followers": 15,
+    "following": 347,
+    "public_repos": 35,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Rohith Pavithran is a highly skilled Java developer with a strong online presence, having built a professional network of 15 followers who appreciate his technical expertise. As a prolific developer with 35 public repositories, he consistently demonstrates his ability to design, develop, and deliver high-quality software solutions. With a unique perspective as a detail-oriented individual, often characterized as a being with glasses, Rohith brings a distinctive approach to problem-solving, combining creativity with technical precision to drive innovation.\n\nAs a seasoned Java expert, Rohith Pavithran offers a unique value proposition, leveraging his technical skills to drive business results and deliver cutting-edge software solutions. His extensive experience and active involvement in the development community have earned him a reputation as a reliable and innovative professional. With a passion for staying up-to-date with the latest industry trends and technologies, Rohith is well-equipped to tackle complex software development challenges, making him an invaluable asset to any organization seeking a skilled and dedicated Java developer."
+}

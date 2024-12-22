@@ -1,0 +1,126 @@
+{
+    "username": "paulsojan",
+    "name": "Paul Elias Sojan",
+    "bio": "Software Engineer",
+    "location": "Pathanamthitta",
+    "avatar_url": "https://avatars.githubusercontent.com/u/47073691?u=d0ace273bbb5314872deff5ef21bceeeaf845911&v=4",
+    "profile_url": "https://github.com/paulsojan",
+    "top_languages": [
+        [
+            "Ruby",
+            6
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "simplify-debt",
+            "description": null,
+            "score": 1.7180215028118875,
+            "stars": 1,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/paulsojan/simplify-debt",
+            "updatedAt": "2024-09-23T09:06:45Z"
+        },
+        {
+            "name": "AI-Store",
+            "description": null,
+            "score": 1.1072715275915714,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/paulsojan/AI-Store",
+            "updatedAt": "2020-06-27T19:40:34Z"
+        },
+        {
+            "name": "string-calculator",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/paulsojan/string-calculator",
+            "updatedAt": "2024-08-20T06:50:21Z"
+        },
+        {
+            "name": "go-cab",
+            "description": "Realtime cab booking",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/paulsojan/go-cab",
+            "updatedAt": "2024-12-16T09:24:42Z"
+        },
+        {
+            "name": "tech-blog",
+            "description": null,
+            "score": 0.26504191422724854,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/paulsojan/tech-blog",
+            "updatedAt": "2024-03-11T06:28:34Z"
+        },
+        {
+            "name": "doc-mate",
+            "description": "DocMate is an AI tool to chat with your PDF and TXT files",
+            "score": 0.16902735731768975,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/paulsojan/doc-mate",
+            "updatedAt": "2023-12-17T20:05:25Z"
+        },
+        {
+            "name": "test",
+            "description": null,
+            "score": 0.157157878879018,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/paulsojan/test",
+            "updatedAt": "2023-05-22T15:32:15Z"
+        },
+        {
+            "name": "paulsojan",
+            "description": null,
+            "score": 0.0755278656898803,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/paulsojan/paulsojan",
+            "updatedAt": "2022-12-03T17:29:07Z"
+        }
+    ],
+    "followers": 16,
+    "following": 23,
+    "public_repos": 53,
+    "pull_requests_merged": 110,
+    "issues_closed": 92,
+    "achievements": {
+        "total_contributions": 1313,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/paul-elias-sojan"
+        }
+    ],
+    "activity_summary": {
+        "openvitae-tech/blackboard-lms": {
+            "link": "https://github.com/openvitae-tech/blackboard-lms",
+            "summary": "Recent activities in the repository have focused on improving the user interface, fixing bugs, and adding new features. This includes updates to the tag seed data, fixes for issues such as profile picture misalignment and button alignment, and the implementation of features like filtering courses by tags and adding a retry button for failed video uploads to Vimeo. Additionally, there have been efforts to refactor code, add tests, and update dependencies like Rails."
+        }
+    },
+    "profile_summary": "Paul Elias Sojan is a highly skilled software engineer with a strong background in programming languages such as Ruby, JavaScript, and Python. With a notable presence on GitHub, he has built a professional network of 16 followers who appreciate his technical expertise and contributions to the development community. His impressive portfolio of 53 public repositories showcases his active involvement in various projects, demonstrating his ability to design, develop, and deploy innovative software solutions. As a seasoned developer, Paul brings a unique combination of technical skills and collaborative spirit to the table, making him a valuable asset to any project or team.\n\nWith a solid foundation in software engineering, Paul Elias Sojan excels in crafting efficient, scalable, and reliable code that meets the highest standards of quality and performance. His proficiency in multiple programming languages enables him to tackle complex challenges and adapt to evolving technology landscapes with ease. As a dedicated and results-driven professional, Paul is committed to delivering exceptional results and pushing the boundaries of what is possible in the world of software development. With his technical expertise, collaborative mindset, and passion for innovation, Paul Elias Sojan is an outstanding software engineer who is well-equipped to drive success in a wide range of projects and initiatives."
+}

@@ -1,0 +1,128 @@
+{
+    "username": "buddhhu",
+    "name": "Amitkumar Sharma",
+    "bio": "You will get to know me sooooon....",
+    "location": "Vadodara, GJ - IN",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48654350?u=eec907b93aa6bfca8c9c4ee793a23717b49ccf6f&v=4",
+    "profile_url": "https://github.com/buddhhu",
+    "top_languages": [
+        [
+            "Python",
+            8
+        ],
+        [
+            "Dart",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "YT-Channel-Downloader",
+            "description": null,
+            "score": 10.107018546915853,
+            "stars": 24,
+            "forks": 9,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/YT-Channel-Downloader",
+            "updatedAt": "2024-02-19T00:56:36Z"
+        },
+        {
+            "name": "Redis-Database-Manager",
+            "description": "A Telegram Bot to manage Redis Database.",
+            "score": 7.094081958356907,
+            "stars": 5,
+            "forks": 8,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/Redis-Database-Manager",
+            "updatedAt": "2024-01-19T10:28:39Z"
+        },
+        {
+            "name": "PasteBin-Bot",
+            "description": "PasteBin Telegram Bot made using PastebinAPI in python.",
+            "score": 6.913582676938116,
+            "stars": 5,
+            "forks": 7,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/PasteBin-Bot",
+            "updatedAt": "2024-11-02T20:35:57Z"
+        },
+        {
+            "name": "localdb.json",
+            "description": null,
+            "score": 6.396838129170551,
+            "stars": 9,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/localdb.json",
+            "updatedAt": "2023-09-10T05:50:20Z"
+        },
+        {
+            "name": "buddhhu",
+            "description": null,
+            "score": 5.0597967974488665,
+            "stars": 3,
+            "forks": 3,
+            "language": null,
+            "url": "https://github.com/buddhhu/buddhhu",
+            "updatedAt": "2024-12-22T00:54:19Z"
+        },
+        {
+            "name": "NoDM",
+            "description": null,
+            "score": 4.686027607645949,
+            "stars": 2,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/NoDM",
+            "updatedAt": "2022-10-03T18:04:13Z"
+        },
+        {
+            "name": "Goats",
+            "description": "Going with Telegram Crypto Farming",
+            "score": 4.210936618841631,
+            "stars": 6,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/Goats",
+            "updatedAt": "2024-10-13T12:13:36Z"
+        },
+        {
+            "name": "sorting-algorithms",
+            "description": null,
+            "score": 1.8116643397036367,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/buddhhu/sorting-algorithms",
+            "updatedAt": "2023-10-01T06:10:16Z"
+        }
+    ],
+    "followers": 70,
+    "following": 73,
+    "public_repos": 49,
+    "pull_requests_merged": 45,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 5780,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/buddhhu_ttr"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/amitwaa"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/amitkr-lnkd"
+        }
+    ],
+    "profile_summary": "Amitkumar Sharma is a highly skilled and accomplished developer with a strong foundation in programming languages such as Python, Dart, and HTML. With a growing professional network of over 70 followers, he has established himself as a reliable and innovative expert in his field. His impressive portfolio of 49 public repositories demonstrates his active contribution to open-source development and his commitment to colaboration and knowledge sharing. As a versatile and adaptable developer, Amitkumar Sharma is well-equipped to tackle complex projects and deliver high-quality solutions that meet the evolving needs of the tech industry.\n\nWith a unique blend of technical expertise and creative vision, Amitkumar Sharma is poised to make a lasting impact in the world of software development. His expertise in Python, Dart, and HTML enables him to craft efficient, scalable, and user-friendly applications that cater to diverse needs and preferences. As a dedicated and forward-thinking professional, he is constantly updating his skills and staying abreast of the latest trends and technologies to ensure that his work remains relevant, innovative, and effective. With his strong work ethic, collaborative spirit, and passion for coding, Amitkumar Sharma is an asset to any project or organization, and his contributions are sure to drive growth, improvement, and success."
+}

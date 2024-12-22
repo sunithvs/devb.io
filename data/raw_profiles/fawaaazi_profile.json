@@ -1,0 +1,104 @@
+{
+    "username": "fawaaazi",
+    "name": "Muhammed Fawas ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/176074030?u=d559ea0493bd62385110ac8cd20f41f2f8f7f62f&v=4",
+    "profile_url": "https://github.com/fawaaazi",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/fawaaazi/portfolio",
+            "updatedAt": "2024-12-10T18:28:28Z"
+        },
+        {
+            "name": "web-calculator",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/fawaaazi/web-calculator",
+            "updatedAt": "2024-12-09T08:26:24Z"
+        },
+        {
+            "name": "basic-python-programs",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/fawaaazi/basic-python-programs",
+            "updatedAt": "2024-12-08T09:18:30Z"
+        },
+        {
+            "name": "data-structures",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/fawaaazi/data-structures",
+            "updatedAt": "2024-12-08T08:45:17Z"
+        },
+        {
+            "name": "fawaaazi",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/fawaaazi/fawaaazi",
+            "updatedAt": "2024-12-07T03:54:02Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 5,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 32,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/fawaaazi/"
+        }
+    ],
+    "activity_summary": {
+        "fawaaazi/web-calculator": {
+            "link": "https://github.com/fawaaazi/web-calculator",
+            "summary": "Recent activities in the web-calculator repository include the addition of an icon to the title and enhancements to the user interface, such as the addition of a button effect and changes to the display size, significantly improving the calculator's functionality and visual appeal."
+        },
+        "fawaaazi/basic-python-programs": {
+            "link": "https://github.com/fawaaazi/basic-python-programs",
+            "summary": "The basic-python-programs repository has seen recent updates, including the addition of a new attribute 'parent' and the introduction of a new Python script, sum.py, alongside updates to the inheritance.py file, demonstrating active development and expansion of the repository's content."
+        },
+        "fawaaazi/data-structures": {
+            "link": "https://github.com/fawaaazi/data-structures",
+            "summary": "Activity in the data-structures repository has focused on resolving issues, notably the correction of an error in the merge sort algorithm, highlighting a commitment to ensuring the robustness and accuracy of the data structures implemented within the repository."
+        }
+    },
+    "profile_summary": "Muhammed Fawas is a skilled and innovative developer with a strong foundation in programming languages such as C, Python, and HTML. He has demonstrated his technical expertise through his active development work, with five public repositories showcasing his projects and contributions to the open-source community. As a dedicated professional, Muhammed Fawas is committed to delivering high-quality solutions and continuously improving his skills to stay up-to-date with the latest industry trends and technologies.\n\nWith a growing presence in the development community, Muhammed Fawas is poised to make a significant impact with his unique blend of technical skills and innovative approach. His expertise in C, Python, and HTML enables him to develop efficient and effective solutions for a wide range of applications and industries. As he continues to expand his professional network and influence, Muhammed Fawas is an exciting talent to watch in the world of software development, offering a rare combination of technical prowess, creativity, and dedication to his craft."
+}

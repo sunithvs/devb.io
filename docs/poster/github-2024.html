@@ -3,168 +3,99 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Wrapped 2024 - Sunith VS</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <title>Dynamic SVG to PNG</title>
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        #svgContainer {
+            margin: 20px auto;
+            width: fit-content;
+        }
+
+    </style>
+
 </head>
-<body class="min-h-screen bg-gradient-to-b from-[#0a0b1e] via-[#0a0b2e] to-[#1a0b2e] text-white p-4 md:p-8 font-sans">
-    <div id="github-wrapped-poster" class="max-w-2xl mx-auto space-y-8">
-        <!-- Download Button -->
-        <div class="fixed top-4 right-4 z-10">
-            <button
-                id="download-btn"
-                onclick="downloadPoster()"
-                class="bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-2 px-4 rounded transition duration-300"
-            >
-                Download Poster
-            </button>
-        </div>
+<body>
+<h1>Dynamic SVG to PNG Converter</h1>
+<input type="text" id="username" placeholder="Enter GitHub Username">
+<button id="fetchData">Fetch Data</button>
+<div id="svgContainer"></div>
+<button id="download" style="display: none;">Download as PNG</button>
 
-        <!-- Rest of the existing content remains the same as in the original HTML -->
-        <div class="flex justify-between items-start">
-            <div class="space-y-2">
-                <h1 class="text-4xl font-bold">Sunith VS</h1>
-                <p class="text-gray-400">Backend Developer @Eduport | CUSATian | Engineer</p>
-            </div>
-            <div class="text-right">
-                <div class="text-5xl font-bold text-gray-300">2024</div>
-                <div class="text-xl text-gray-400">wrapped</div>
-            </div>
-        </div>
+<script>
 
-        <!-- Stats -->
-        <div class="grid grid-cols-2 gap-4">
-            <div class="p-4 bg-gray-800/50 border border-gray-700 rounded-lg">
-                <div class="flex items-center gap-2">
-                    <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
-                    <span class="text-xl font-bold">43</span>
-                    <span class="text-gray-400">Followers</span>
-                    <span class="text-gray-500">•</span>
-                    <span class="text-xl font-bold">41</span>
-                    <span class="text-gray-400">Following</span>
-                </div>
-            </div>
-            <div class="p-4 bg-gray-800/50 border border-gray-700 rounded-lg">
-                <div class="flex items-center gap-2">
-                    <svg class="w-5 h-5 text-gray-400" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <path d="M3 3h18v18H3z M9 3v18" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                    <span class="text-xl font-bold">10</span>
-                    <span class="text-gray-400">Public Repos</span>
-                </div>
-            </div>
-        </div>
-
-        <!-- Commits -->
-        <div class="text-center space-y-2">
-            <div class="text-7xl font-bold bg-gradient-to-r from-cyan-400 to-cyan-200 text-transparent bg-clip-text">
-                400
-            </div>
-            <div class="text-2xl text-gray-400">Commits</div>
-        </div>
-
-        <!-- Recent Projects -->
-        <div>
-            <h2 class="text-2xl font-bold mb-4">Recent Projects</h2>
-            <div class="space-y-4">
-                <div class="p-4 bg-gray-800/50 border border-gray-700 rounded-lg">
-                    <h3 class="text-xl font-bold mb-2">Amazon-Prime Clone</h3>
-                    <p class="text-gray-400">React based web clone of Amazon Prime Video</p>
-                </div>
-                <div class="p-4 bg-gray-800/50 border border-gray-700 rounded-lg">
-                    <h3 class="text-xl font-bold mb-2">Amazon-Prime Clone</h3>
-                    <p class="text-gray-400">React based web clone of Amazon Prime Video</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- PRs Merged -->
-        <div class="text-center space-y-2">
-            <div class="text-6xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 text-transparent bg-clip-text">
-                20
-            </div>
-            <div class="flex items-center justify-center gap-2 text-2xl text-gray-400">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path></svg>
-                PRs Merged
-            </div>
-        </div>
-
-        <!-- Top Languages -->
-        <div>
-            <h2 class="text-2xl font-bold mb-4">Top Languages</h2>
-            <div class="space-y-4">
-                <div class="relative pt-4">
-                    <div class="h-40 flex items-end gap-8 justify-center">
-                        <div class="w-24 relative group">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-800/50 to-gray-800/30 rounded-t-lg" style="height: 5%"></div>
-                            <div class="absolute bottom-0 left-0 right-0 text-center">
-                                <div class="text-2xl font-bold">5%</div>
-                                <div class="text-gray-400">HTML</div>
-                            </div>
-                        </div>
-                        <div class="w-24 relative group">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-800/50 to-gray-800/30 rounded-t-lg" style="height: 16%"></div>
-                            <div class="absolute bottom-0 left-0 right-0 text-center">
-                                <div class="text-2xl font-bold">16%</div>
-                                <div class="text-gray-400">Python</div>
-                            </div>
-                        </div>
-                        <div class="w-24 relative group">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-800/50 to-gray-800/30 rounded-t-lg" style="height: 3%"></div>
-                            <div class="absolute bottom-0 left-0 right-0 text-center">
-                                <div class="text-2xl font-bold">3%</div>
-                                <div class="text-gray-400">Javascript</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-cyan-500 to-transparent"></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <div class="text-center text-gray-400 pt-8 pb-4">
-            made with devb.io
-        </div>
-    </div>
-
-    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                    },
-                }
-            }
+    document.getElementById("fetchData").addEventListener("click", async () => {
+        const username = document.getElementById("username").value;
+        if (!username) {
+            alert("Please enter a username!");
+            return;
         }
 
-       function downloadPoster() {
-            const element = document.getElementById('github-wrapped-poster');
-            const canvas = document.createElement('canvas');
-            canvas.width = 1200;
-            canvas.height = 1800;
-
-            const ctx = canvas.getContext('2d');
-            ctx.fillStyle = 'rgba(10, 11, 30, 1)'; // Match background color
-            ctx.fillRect(0, 0, 1200, 1800);
-
-            // Clone the poster content and render it on the canvas
-            const clone = element.cloneNode(true);
-            clone.style.transform = 'scale(1)';
-            ctx.drawImage(clone, 0, 0, 1200, 1800);
-
-            // Convert canvas to data URL and trigger download
-            const dataURL = canvas.toDataURL('image/png');
-            const link = document.createElement('a');
-            link.download = 'GitHub_Wrapped_2024.png';
-            link.href = dataURL;
-            link.click();
+        const response = await fetch(`https://user.devb.io/user/${username}`);
+        if (!response.ok) {
+            alert("Error fetching user data.");
+            return;
         }
 
-    </script>
+        const userData = await response.json();
+        const svgResponse = await fetch('poster.svg');
+        let svgText = await svgResponse.text();
 
+        // Replace placeholders in SVG
+        svgText = svgText
+            .replace(/{username}/g, userData.username)
+            .replace(/{name}/g, userData.name)
+            .replace(/{bio}/g, userData.bio)
+            .replace(/{location}/g, userData.location)
+            .replace(/{avatar_url}/g, userData.avatar_url);
+
+        document.getElementById("svgContainer").innerHTML = svgText;
+        document.getElementById("download").style.display = "block";
+    });
+
+    document.getElementById("download").addEventListener("click", async () => {
+        const svgElement = document.getElementById("svgContainer").querySelector("svg");
+
+        if (!svgElement) {
+            alert("No SVG to download.");
+            return;
+        }
+        await document.fonts.ready;
+
+
+        const svgData = new XMLSerializer().serializeToString(svgElement);
+        const blob = new Blob([svgData], {type: "image/svg+xml"});
+        const url = URL.createObjectURL(blob);
+
+        const img = new Image();
+        img.src = url;
+
+        img.onload = () => {
+            URL.revokeObjectURL(url);
+            // sleep for 1 second to ensure the image is loaded
+            setTimeout(() => {
+                const canvas = document.createElement("canvas");
+                canvas.width = 1080 * 2;
+                canvas.height = 1920 * 2;
+
+                const ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0);
+
+                const pngUrl = canvas.toDataURL("image/png");
+                const link = document.createElement("a");
+                link.download = `${document.getElementById("username").value}.png`;
+                link.href = pngUrl;
+                link.click();
+            }, 2000);
+
+        };
+    });
+
+</script>
 </body>
 </html>

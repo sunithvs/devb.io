@@ -1,0 +1,115 @@
+{
+    "username": "leonardhw",
+    "name": "leonardhw",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/111659819?u=6d8af4e4391ea51b834627bb6c4a3a57e36568d9&v=4",
+    "profile_url": "https://github.com/leonardhw",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "chart-playground",
+            "description": null,
+            "score": 1.199041592820344,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/chart-playground",
+            "updatedAt": "2023-07-10T08:55:20Z"
+        },
+        {
+            "name": "idx-demo-expo",
+            "description": null,
+            "score": 0.27787232118406857,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/leonardhw/idx-demo-expo",
+            "updatedAt": "2024-05-16T12:22:44Z"
+        },
+        {
+            "name": "pina-web-landing-page-advice",
+            "description": null,
+            "score": 0.15951262426756102,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/pina-web-landing-page-advice",
+            "updatedAt": "2023-07-16T21:11:35Z"
+        },
+        {
+            "name": "finproh8",
+            "description": null,
+            "score": 0.1583895446221668,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/finproh8",
+            "updatedAt": "2023-06-20T14:30:27Z"
+        },
+        {
+            "name": "online-portfolio",
+            "description": null,
+            "score": 0.15745835220560253,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/online-portfolio",
+            "updatedAt": "2023-06-07T07:36:40Z"
+        },
+        {
+            "name": "currency-exchange",
+            "description": null,
+            "score": 0.1568621343856925,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/currency-exchange",
+            "updatedAt": "2023-05-16T13:02:45Z"
+        },
+        {
+            "name": "calculator",
+            "description": null,
+            "score": 0.1562843108887373,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/leonardhw/calculator",
+            "updatedAt": "2023-05-02T13:41:12Z"
+        },
+        {
+            "name": "pixel-store",
+            "description": null,
+            "score": 0.15251392462592742,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/leonardhw/pixel-store",
+            "updatedAt": "2023-01-19T07:25:02Z"
+        }
+    ],
+    "followers": 2,
+    "following": 4,
+    "public_repos": 13,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 264,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "leonardhw is a highly skilled and accomplished developer with a strong foundation in JavaScript, TypeScript, and HTML. With a solid understanding of web development principles, leonardhw creates innovative solutions that drive results. As a prolific developer with 13 public repositories, leonardhw consistently demonstrates a commitment to active development and a passion for staying up-to-date with the latest technologies. With a growing professional network of 2 followers, leonardhw is establishing a reputation as a reliable and knowledgeable expert in the field.\n\nAs a seasoned developer, leonardhw brings a unique combination of technical expertise and creative problem-solving skills to the table. With a keen eye for detail and a talent for crafting efficient, effective code, leonardhw delivers high-quality solutions that meet and exceed expectations. By leveraging industry-relevant technologies and staying current with emerging trends, leonardhw remains at the forefront of the development community, driving innovation and pushing the boundaries of what is possible. With a strong focus on collaboration and knowledge-sharing, leonardhw is a valuable asset to any development team, and a trusted partner for businesses seeking to harness the power of technology to achieve their goals."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "moussan",
+    "name": "Moussa El Najmi",
+    "bio": "\ud83d\udd2d I\u2019m currently learning Google Compute Platform Security on Coursera, and Google Cloud Boost.\r\n\ud83d\udc6f I\u2019m studying for a Master's in Engineering Management.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/34472361?u=451f7bb2eb989e066b97506aa42bac5ff8a14148&v=4",
+    "profile_url": "https://github.com/moussan",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "HCL",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Active-Directory-Maintenance-Scripts",
+            "description": "Professional PowerShell scripts designed for common maintenance, addition, removal, and reporting tasks in Active Directory Server 2022. .",
+            "score": 1.8116620991968908,
+            "stars": 1,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/moussan/Active-Directory-Maintenance-Scripts",
+            "updatedAt": "2024-11-19T15:10:46Z"
+        },
+        {
+            "name": "WP-Security-Scripts",
+            "description": "Python scripts tailored for performing cool security-related tasks on a WordPress hosting server. These scripts cover tasks like scanning vulnerabilities, managing backups, monitoring file integrity, detecting malware, and more.",
+            "score": 1.8116620991968908,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/moussan/WP-Security-Scripts",
+            "updatedAt": "2024-11-19T15:10:41Z"
+        },
+        {
+            "name": "AES",
+            "description": "A comprehensive C program using the Advanced Encryption Standard (AES) for encryption and decryption. The program includes a menu-driven interface, detailed comments, and instructions for compiling and running it on Linux, Windows, or macOS.",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/moussan/AES",
+            "updatedAt": "2024-12-10T07:19:13Z"
+        },
+        {
+            "name": "AWS-Playbooks",
+            "description": "Creating playbooks for a professional, standards-based security response to a DDoS attack in an AWS cloud environment involves structuring each playbook with clear objectives, steps, roles, tools, and outcomes.",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/moussan/AWS-Playbooks",
+            "updatedAt": "2024-12-10T07:31:42Z"
+        },
+        {
+            "name": "Countdown",
+            "description": "n the Numbers Round, contestants aim to reach a target number using six given numbers and basic arithmetic operations (+, -, \u00d7, \u00f7). Let\u2019s create a website to solve these problems interactively.",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moussan/Countdown",
+            "updatedAt": "2024-12-10T07:30:18Z"
+        },
+        {
+            "name": "Cloud-Security-Projects",
+            "description": null,
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/moussan/Cloud-Security-Projects",
+            "updatedAt": "2024-11-22T09:45:56Z"
+        },
+        {
+            "name": "multi-cloud-infra-management",
+            "description": "This project demonstrates how to manage and deploy infrastructure across AWS, Azure, and GCP using Terraform. The goal is to show how a cloud architect can create, deploy, and maintain scalable, secure, and efficient infrastructure across multiple cloud providers.",
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "HCL",
+            "url": "https://github.com/moussan/multi-cloud-infra-management",
+            "updatedAt": "2024-11-22T09:34:19Z"
+        },
+        {
+            "name": "cloud-audit-playbooks",
+            "description": "Comprehensive Terraform playbooks for scanning and auditing Azure, AWS, and GCP tenants. Each playbook is modular, professionally documented, and extensively commented. The purpose is to query infrastructure resources, network configurations, IAM setups, and security policies.",
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "HCL",
+            "url": "https://github.com/moussan/cloud-audit-playbooks",
+            "updatedAt": "2024-11-19T15:40:46Z"
+        }
+    ],
+    "followers": 0,
+    "following": 9,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 110,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/moussan"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/moussano"
+        }
+    ],
+    "activity_summary": {
+        "moussan/AWS-DDOS-Playbooks": {
+            "link": "https://github.com/moussan/AWS-DDOS-Playbooks",
+            "summary": "Recent activities in the repository involved multiple updates to the README.md file, with several push events occurring on December 10, 2024, indicating ongoing development and refinement of the project's documentation."
+        },
+        "moussan/Countdown": {
+            "link": "https://github.com/moussan/Countdown",
+            "summary": "The repository saw significant activity on December 10, 2024, with the creation of essential files including script.js, styles.css, and index.html, alongside updates to the README.md, suggesting the initialization or major update of a project, likely a web-based countdown application."
+        },
+        "moussan/AES": {
+            "link": "https://github.com/moussan/AES",
+            "summary": "Activities in the repository on December 10, 2024, included updates to the README.md and the creation of aes-encryptor.c, indicating work on advancing or documenting the project's encryption capabilities, possibly enhancing the AES implementation."
+        },
+        "moussan/AWS-Playbooks": {
+            "link": "https://github.com/moussan/AWS-Playbooks",
+            "summary": "On December 10, 2024, the repository had a push event that added a LICENSE file, a crucial step for defining the project's usage rights and terms, suggesting a move towards making the project more accessible or open to collaboration."
+        }
+    },
+    "profile_summary": "Moussa El Najmi is a skilled developer with a strong foundation in programming languages, including C and Python, as well as expertise in HCL. With a growing portfolio of 12 public repositories, he demonstrates a consistent commitment to active development and innovation. Currently, Moussa is expanding his knowledge by studying Google Compute Platform Security on Coursera and Google Cloud Boost, showcasing his dedication to staying up-to-date with the latest technologies and trends. This ongoing education, combined with his existing technical skills, positions him as a reliable and forward-thinking professional in the field.\n\nAs a master's student in Engineering Management, Moussa is not only refining his technical abilities but also developing a deeper understanding of the managerial aspects of the industry. His unique blend of technical expertise and managerial knowledge enables him to approach problems from a holistic perspective, making him a valuable asset to any team. With a strong work ethic and a passion for learning, Moussa El Najmi is an emerging talent in the world of software development, poised to make a positive impact with his skills and expertise in C, Python, HCL, and cloud computing, making him an attractive collaborator for projects that require a high level of technical proficiency and innovation."
+}

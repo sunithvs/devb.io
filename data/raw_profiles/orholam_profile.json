@@ -1,0 +1,67 @@
+{
+    "username": "orholam",
+    "name": "orholam",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72541297?u=054450437eb8659061551686ce5ee42ec4535121&v=4",
+    "profile_url": "https://github.com/orholam",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "receipt-scanner",
+            "description": null,
+            "score": 2.0377360839747682,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/orholam/receipt-scanner",
+            "updatedAt": "2024-12-21T19:26:41Z"
+        },
+        {
+            "name": "kanban_ai",
+            "description": "Your personal AI scrum master",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/orholam/kanban_ai",
+            "updatedAt": "2024-12-20T00:01:13Z"
+        },
+        {
+            "name": "orholam",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2092689636998264,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/orholam/orholam",
+            "updatedAt": "2024-11-30T07:23:56Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 8,
+    "pull_requests_merged": 13,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 117,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "orholam/receipt-scanner": {
+            "link": "https://github.com/orholam/receipt-scanner",
+            "summary": "Recent activities in the orholam/receipt-scanner repository have focused on various features and fixes, including analytics, UI refresh, error handling, OCR integration, and improvements to the landing page, with multiple work-in-progress updates, indicating active development and refinement of the receipt scanning application."
+        },
+        "orholam/kanban_ai": {
+            "link": "https://github.com/orholam/kanban_ai",
+            "summary": "The orholam/kanban_ai repository has seen recent activity with updates including making task descriptions editable, implementing login functionality, and work-in-progress changes, suggesting ongoing development and enhancement of the Kanban AI project, with a focus on user interaction and accessibility."
+        }
+    },
+    "profile_summary": "orholam is a highly skilled and innovative TypeScript developer with a strong passion for building high-quality software solutions. With a solid foundation in computer science and a keen eye for detail, orholam has developed a unique expertise in crafting efficient and scalable code that meets the needs of complex projects. Through active participation in open-source development, orholam has demonstrated a commitment to collaborative programming and a dedication to staying up-to-date with the latest industry trends and best practices.\n\nAs a seasoned developer with a portfolio of 8 public repositories, orholam has consistently delivered reliable and well-documented code that showcases technical expertise and a deep understanding of software development principles. With a focus on delivering exceptional results and a strong work ethic, orholam is well-positioned to drive innovation and growth in the tech industry. By leveraging expertise in TypeScript and a keen understanding of industry needs, orholam is a valuable asset to any development team, bringing a unique combination of technical skills, creativity, and collaborative spirit to the table, and is poised to make a significant impact in the world of software development."
+}

@@ -50,7 +50,7 @@
     <script type="module">
         // Firebase initialization script (unchanged)
         import {initializeApp} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
-        import {getAnalytics} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
+        import {getAnalytics,logEvent} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
 
         const firebaseConfig = {
             apiKey: "AIzaSyDNfTJ9M8Bd4ZmnpJ3ZHdJT_Hs9CTvd1Mw",
@@ -64,6 +64,9 @@
 
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
+        function log_custom_event(event_name, event_params) {
+            logEvent(analytics, event_name, event_params);
+        }
     </script>
     <style>
         @keyframes shimmer {
@@ -723,6 +726,8 @@ function renderErrorPage(error) {
             const pathParts = window.location.pathname.split('/').filter(part => part);
             const username = pathParts[pathParts.length - 1];
 
+            log_custom_event('2024_wrapped_404', {action: 'download', username: username});
+
 
             const img = new Image();
             img.src = url;
@@ -798,7 +803,9 @@ function renderErrorPage(error) {
                     alert("This type of data cannot be shared on your device");
                     return;
                 }
-
+                const pathParts = window.location.pathname.split('/').filter(part => part);
+                const username = pathParts[pathParts.length - 1];
+                log_custom_event('2024_wrapped_404', {action: 'share',username: username});
                 await navigator.share(shareData);
             } catch (error) {
                 console.error('Error sharing:', error);

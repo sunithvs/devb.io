@@ -1,0 +1,123 @@
+{
+    "username": "jappoman",
+    "name": "Gabriele Tarenzi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4927559?u=5a2e41f0a96abd1821551493fd3728286c885ea3&v=4",
+    "profile_url": "https://github.com/jappoman",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "Lua",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "barcode-generator",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/barcode-generator",
+            "updatedAt": "2024-12-18T15:34:35Z"
+        },
+        {
+            "name": "test-webhook",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jappoman/test-webhook",
+            "updatedAt": "2024-11-26T18:55:19Z"
+        },
+        {
+            "name": "esercizi-pratici-sistemi-tecnologie",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/jappoman/esercizi-pratici-sistemi-tecnologie",
+            "updatedAt": "2024-10-23T09:33:00Z"
+        },
+        {
+            "name": "neovim-config",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/jappoman/neovim-config",
+            "updatedAt": "2024-11-05T20:10:21Z"
+        },
+        {
+            "name": "complife-product-management",
+            "description": null,
+            "score": 0.2951939842332517,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jappoman/complife-product-management",
+            "updatedAt": "2024-07-29T10:33:17Z"
+        },
+        {
+            "name": "photosorter",
+            "description": null,
+            "score": 0.23977940134890346,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/photosorter",
+            "updatedAt": "2024-06-11T12:14:58Z"
+        },
+        {
+            "name": "image-gridder",
+            "description": null,
+            "score": 0.15884952276382172,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/image-gridder",
+            "updatedAt": "2023-07-22T08:12:54Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 1053,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "jappoman/esercizi-pratici-sistemi-tecnologie": {
+            "link": "https://github.com/jappoman/esercizi-pratici-sistemi-tecnologie",
+            "summary": "Recent activities include multiple push events with updates such as adding output files, finishing and updating bigino bash scripts, and refactoring existing code, indicating active development and maintenance of the repository."
+        },
+        "jappoman/neovim-config": {
+            "link": "https://github.com/jappoman/neovim-config",
+            "summary": "The repository has seen significant updates with push events focused on enhancing the Neovim configuration, including updates to indentation, the addition of a C language server, removal of dependencies, and modifications to telescope.lua, demonstrating ongoing efforts to refine and expand the configuration."
+        },
+        "jappoman/esercizi-script-bash": {
+            "link": "https://github.com/jappoman/esercizi-script-bash",
+            "summary": "Activities in this repository involve refactorings and additions of exercises, reflecting a focus on improving and expanding the bash script exercises, with push events indicating recent updates to the structure and content of the exercises."
+        },
+        "jappoman/test-webhook": {
+            "link": "https://github.com/jappoman/test-webhook",
+            "summary": "This repository has experienced updates through push events, notably with changes to device identifiers in API requests and the addition of an API for a resilyera endpoint, suggesting testing and development of webhook functionalities and API integrations."
+        }
+    },
+    "profile_summary": "Gabriele Tarenzi is a skilled developer with a strong foundation in programming languages, including TypeScript, Python, and Lua. With a growing portfolio of public repositories, totaling 7, Gabriele demonstrates a commitment to active development and a passion for creating innovative solutions. As a dedicated professional, Gabriele stays up-to-date with the latest industry trends and technologies, ensuring expertise in areas such as software development, coding, and problem-solving. With a focus on delivering high-quality results, Gabriele is a reliable and talented developer who consistently strives for excellence in every project.\n\nAs a talented and ambitious developer, Gabriele Tarenzi brings a unique perspective and skillset to the table, making him a valuable asset to any project or team. With expertise in languages such as TypeScript, Python, and Lua, Gabriele is well-equipped to tackle a wide range of development challenges. Although still building his professional network, Gabriele's dedication to his craft and his impressive portfolio of public repositories showcase his potential as a rising star in the development community. By leveraging his technical skills and passion for innovation, Gabriele is poised to make a significant impact in the world of software development, and his work is certainly worth watching."
+}

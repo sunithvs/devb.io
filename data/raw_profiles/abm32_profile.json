@@ -1,0 +1,142 @@
+{
+    "username": "abm32",
+    "name": "Abhimanyu R B",
+    "bio": "Passionate developer experienced in building robust applications using various technologies. Always eager to learn and explore new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/110992125?u=64e13362264e65dd158940f4fb8ead7aa2da3968&v=4",
+    "profile_url": "https://github.com/Abm32",
+    "top_languages": [
+        [
+            "Python",
+            10
+        ],
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Kotlin",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "global-fire-safety-system",
+            "description": "This project leverages cutting-edge technology and machine learning to analyze satellite imagery, providing early detection of potential wildfires. It aims to democratize access to this critical information, engaging local communities in reporting, monitoring, and proactive measures.",
+            "score": 4.09121308414666,
+            "stars": 2,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Abm32/global-fire-safety-system",
+            "updatedAt": "2024-10-05T18:15:21Z"
+        },
+        {
+            "name": "Glitch-Service-Hub",
+            "description": "Glitch Service Hub bridges the gap between skilled job seekers (e.g., plumbers, electricians, mechanics) and those in need of their services. Our tech-powered platform connects service providers with customers, addressing global issues of poverty and unemployment.",
+            "score": 3.389034848623451,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Abm32/Glitch-Service-Hub",
+            "updatedAt": "2023-09-01T07:53:06Z"
+        },
+        {
+            "name": "Personal_diary_app_electronjs",
+            "description": "Personal diary app made using electronjs. Store the note written into our system",
+            "score": 2.4317120706881084,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abm32/Personal_diary_app_electronjs",
+            "updatedAt": "2024-01-10T14:23:17Z"
+        },
+        {
+            "name": "mysite",
+            "description": null,
+            "score": 1.9034856708161925,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Abm32/mysite",
+            "updatedAt": "2024-01-05T08:44:29Z"
+        },
+        {
+            "name": "Arambh-Hackathon",
+            "description": null,
+            "score": 1.6175559731596056,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abm32/Arambh-Hackathon",
+            "updatedAt": "2024-04-20T01:40:59Z"
+        },
+        {
+            "name": "facebook_clone",
+            "description": "This is a duplicate facebook page made for educational purpose",
+            "score": 1.6086735220983888,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abm32/facebook_clone",
+            "updatedAt": "2024-09-21T06:12:37Z"
+        },
+        {
+            "name": "OTD",
+            "description": "OTD is made to predict the probability of an individual to get affected by a disease and gives him suggestions on how to get not affected based on his/her habits.",
+            "score": 1.5378750666535004,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Abm32/OTD",
+            "updatedAt": "2023-01-02T11:30:25Z"
+        },
+        {
+            "name": "Chatbot-with-Tkinter",
+            "description": "A chatbot written in python and given a GUI using tkinter module",
+            "score": 1.5371986304488998,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Abm32/Chatbot-with-Tkinter",
+            "updatedAt": "2023-09-01T13:09:21Z"
+        }
+    ],
+    "followers": 44,
+    "following": 33,
+    "public_repos": 102,
+    "pull_requests_merged": 29,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1169,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AbhimanyuRB1"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhimanyurb"
+        }
+    ],
+    "activity_summary": {
+        "Abm32/survival_guide": {
+            "link": "https://github.com/Abm32/survival_guide",
+            "summary": "Recent activities in the survival_guide repository include multiple updates to the README.md, addition of new pages and project documents, implementation of a basic UI with an apocalyptic touch, and initialization of the project with base files. The repository has seen significant development in a short period, indicating active maintenance and improvement."
+        },
+        "Abm32/Real-Time-Stock-and-Sentiment-Analysis-Dashboard": {
+            "link": "https://github.com/Abm32/Real-Time-Stock-and-Sentiment-Analysis-Dashboard",
+            "summary": "The Real-Time-Stock-and-Sentiment-Analysis-Dashboard repository has seen recent activities focused on setting up the project's base code, removal of Databricks in favor of TextBlob for sentiment analysis, and initialization of the project with necessary files. These changes suggest the project is in its initial phases of development."
+        },
+        "Abm32/student_management": {
+            "link": "https://github.com/Abm32/student_management",
+            "summary": "Activities in the student_management repository have centered around enhancing its functionalities, including the successful implementation of delete functionality on the server side, addition of edit functionality routed through Express to MySQL, and fixing the read command for the MySQL server route. These updates indicate the repository is undergoing active development to improve its features."
+        },
+        "Abm32/coqui-tts-practise": {
+            "link": "https://github.com/Abm32/coqui-tts-practise",
+            "summary": "The coqui-tts-practise repository has seen a recent activity involving the creation of a C42-Text-to-Speech component, suggesting initial development or experimentation with text-to-speech functionalities."
+        }
+    },
+    "profile_summary": "Abhimanyu R B is a highly skilled developer with a strong proficiency in programming languages such as Python, JavaScript, and Kotlin. With a passion for building robust applications, he has established himself as a proficient professional in the field of software development. His extensive experience and continuous learning have enabled him to stay up-to-date with the latest technologies, making him a valuable asset to any project. As a dedicated and innovative developer, Abhimanyu R B has built a strong network of peers, with 44 followers who appreciate his technical expertise and contributions to the community.\n\nWith a portfolio of 102 public repositories, Abhimanyu R B has consistently demonstrated his ability to design, develop, and deploy high-quality applications. His commitment to delivering exceptional results and his eagerness to learn and explore new technologies have earned him a reputation as a reliable and skilled developer. By leveraging his technical expertise and industry knowledge, Abhimanyu R B is well-equipped to drive innovation and deliver cutting-edge solutions that meet the evolving needs of the industry. As a seasoned professional with a strong track record of success, he is poised to make significant contributions to the field of software development, and his expertise is likely to be in high demand by organizations seeking to leverage the latest technologies to drive business growth."
+}

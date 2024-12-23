@@ -1,0 +1,120 @@
+{
+    "username": "gokul-krishna-r",
+    "name": "Gokul",
+    "bio": "Android and Web Developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/55547509?u=2878b43cb3eea2b228a578df8440b9ba6f3db620&v=4",
+    "profile_url": "https://github.com/gokul-krishna-r",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "s5-cg-lab",
+            "description": null,
+            "score": 2.4226477240780824,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gokul-krishna-r/s5-cg-lab",
+            "updatedAt": "2024-06-12T04:21:31Z"
+        },
+        {
+            "name": "s4-dbms-lab",
+            "description": null,
+            "score": 1.7216532436440324,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/gokul-krishna-r/s4-dbms-lab",
+            "updatedAt": "2022-07-27T06:08:59Z"
+        },
+        {
+            "name": "ima-msn-backend",
+            "description": "Backend using past api for a project by IMA Medical Student's Network Kerala",
+            "score": 1.1942611795506861,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/gokul-krishna-r/ima-msn-backend",
+            "updatedAt": "2023-04-15T11:22:30Z"
+        },
+        {
+            "name": "dm-logistic-regression",
+            "description": null,
+            "score": 0.15980395026677385,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/gokul-krishna-r/dm-logistic-regression",
+            "updatedAt": "2023-07-21T05:06:57Z"
+        },
+        {
+            "name": "rzrpay-order",
+            "description": null,
+            "score": 0.15807403923089106,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gokul-krishna-r/rzrpay-order",
+            "updatedAt": "2023-06-14T17:38:03Z"
+        },
+        {
+            "name": "infosign-accounts-frontend",
+            "description": null,
+            "score": 0.15776369138997973,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/gokul-krishna-r/infosign-accounts-frontend",
+            "updatedAt": "2023-06-15T09:52:12Z"
+        },
+        {
+            "name": "wallet-ecommerce-project",
+            "description": null,
+            "score": 0.1560822119618804,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/gokul-krishna-r/wallet-ecommerce-project",
+            "updatedAt": "2023-04-27T22:59:19Z"
+        },
+        {
+            "name": "drop-backend",
+            "description": "API for dockerised repository hosting and deployment platform",
+            "score": 0.15541110738421443,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/gokul-krishna-r/drop-backend",
+            "updatedAt": "2023-04-10T23:28:34Z"
+        }
+    ],
+    "followers": 43,
+    "following": 41,
+    "public_repos": 41,
+    "pull_requests_merged": 28,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 14,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/gokul_krishna_r"
+        }
+    ],
+    "profile_summary": "Gokul is a highly skilled Android and Web Developer with a strong foundation in programming languages such as C++, C, and Python. With a proven track record of delivering high-quality solutions, Gokul has established a reputation as a reliable and innovative professional in the field of software development. As an active developer with 41 public repositories, Gokul consistently demonstrates a commitment to staying up-to-date with the latest technologies and trends, ensuring that clients receive the most efficient and effective solutions.\n\nAs a respected member of the development community with 43 followers, Gokul possesses a unique ability to leverage technical expertise to drive business results. With expertise in Android and web development, Gokul is well-equipped to handle a wide range of projects, from mobile app development to web application design. By combining technical prowess with a passion for innovation, Gokul delivers cutting-edge solutions that meet the evolving needs of clients, making him a valuable asset to any organization seeking a skilled and dedicated developer."
+}

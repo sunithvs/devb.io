@@ -29,6 +29,69 @@
 
 <script>
 
+    function get_svg_x(mid,font_size,text){
+        return mid - (text.length * font_size / 4);
+    }
+    function get_in_k_format(num){
+        if(num >= 1000){
+            return (num/1000).toFixed(1) + "k";
+        }
+        return num;
+    }
+
+    async function get_base64_from_url(url) {
+    return new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.responseType = "blob";
+        xhr.onload = () => {
+            if (xhr.status === 200) {
+                const reader = new FileReader();
+                reader.onloadend = () => resolve(reader.result);
+                reader.onerror = reject;
+                reader.readAsDataURL(xhr.response);
+            } else {
+                reject(new Error(`Failed to fetch image: ${xhr.status}`));
+            }
+        };
+        xhr.onerror = () => reject(new Error("Network error"));
+        xhr.send();
+    });
+}
+    async function updateSvg(svgText, userData) {
+        // Replace placeholders in SVG
+        const base64Image = await get_base64_from_url(userData.avatar_url);
+
+        svgText = svgText
+            .replace(/{name}/g, userData.name)
+            .replace(/{avatar}/g, `${base64Image}`)
+            .replace(/{bio}/g, userData.bio? userData.bio.slice(0, 140) + userData.bio.length > 140 ? "..." : "" : "")
+            .replace(/{follow}/g, `${get_in_k_format(userData.followers)} Followers | ${get_in_k_format(userData.following)} Following`)
+            .replace(/{repos}/g, `${userData.public_repos} Public Repos`)
+            .replace(/{commits}/g, `${userData.achievements.total_contributions}`)
+            .replace(/{commit_x}/g, get_svg_x(370, 68.514, `${userData.achievements.total_contributions}`))
+            .replace(/{issue}/g, `${userData.issues_closed}`)
+            .replace(/{issue_x}/g, get_svg_x(330, 68.514, `${userData.issues_closed}`))
+
+            .replace(/{pr}/g, `${userData.pull_requests_merged}`)
+            .replace(/{pr_x}/g, get_svg_x(350, 68.514, `${userData.pull_requests_merged}`))
+            // .replace(/{lang1}/g, userData.top_languages[0] ? userData.top_languages[0][0] : "")
+            // .replace(/{lang2}/g, userData.top_languages[1] ? userData.top_languages[1][0] : "")
+            // .replace(/{lang3}/g, userData.top_languages[2] ? userData.top_languages[2][0] : "")
+            .replace(/{lang1}/g, userData.top_languages[0] ? userData.top_languages[0][0] : "")
+            .replace(/{lang1_x}/g, get_svg_x(370, 54, userData.top_languages[0] ? userData.top_languages[0][0] : ""))
+
+
+            .replace(/{lang2}/g, userData.top_languages[1] ? userData.top_languages[1][0] : "")
+            .replace(/{lang2_x}/g, get_svg_x(370, 54, userData.top_languages[1] ? userData.top_languages[1][0] : ""))
+
+            .replace(/{lang3}/g, userData.top_languages[2] ? userData.top_languages[2][0] : "")
+            .replace(/{lang3_x}/g, get_svg_x(370, 54, userData.top_languages[2] ? userData.top_languages[2][0] : ""));
+
+
+        return svgText;
+    }
+
     document.getElementById("fetchData").addEventListener("click", async () => {
         const username = document.getElementById("username").value;
         if (!username) {
@@ -43,17 +106,9 @@
         }
 
         const userData = await response.json();
-        const svgResponse = await fetch('poster.svg');
+        const svgResponse = await fetch('posterv2.svg');
         let svgText = await svgResponse.text();
-
-        // Replace placeholders in SVG
-        svgText = svgText
-            .replace(/{username}/g, userData.username)
-            .replace(/{name}/g, userData.name)
-            .replace(/{bio}/g, userData.bio)
-            .replace(/{location}/g, userData.location)
-            .replace(/{avatar_url}/g, userData.avatar_url);
-
+        svgText = await updateSvg(svgText, userData);
         document.getElementById("svgContainer").innerHTML = svgText;
         document.getElementById("download").style.display = "block";
     });

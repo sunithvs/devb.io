@@ -1,0 +1,134 @@
+{
+    "username": "progprnv",
+    "name": "progprnv",
+    "bio": "Cybersecurity Researcher & Likes to crack codes rather than building one!!\r\n\r\n/ C / Python / C++ / Js / Bash / Html ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145828371?u=4a779d1fc0f06da5a5ee30b6552bcabf42129144&v=4",
+    "profile_url": "https://github.com/progprnv",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Interncrow",
+            "description": "Tensed about your job or career? Welcome InternCrow - Your Minimalistic Free Job Finder Tool ",
+            "score": 6.094436890932153,
+            "stars": 7,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/progprnv/Interncrow",
+            "updatedAt": "2024-11-27T12:36:28Z"
+        },
+        {
+            "name": "Chatter-Hacktoberfest_2024",
+            "description": "Chatter is a minimalist web application designed for users to post and view messages easily. Built with PHP, it allows anyone to share their thoughts without the need for user accounts or complicated security features.",
+            "score": 4.9717474496572045,
+            "stars": 5,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/progprnv/Chatter-Hacktoberfest_2024",
+            "updatedAt": "2024-11-27T12:36:09Z"
+        },
+        {
+            "name": "SecMySIte",
+            "description": "SEC-MY_SITE is a Flask-based web app designed to scan domains for essential security headers like Content-Security-Policy (CSP), CSRF tokens, CORS protection, and host header validation. It provides an easy-to-use interface for users to input domains and receive insights on their security posture, helping identify potential vulnerabilities.",
+            "score": 4.612862601622553,
+            "stars": 4,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/progprnv/SecMySIte",
+            "updatedAt": "2024-11-27T12:36:11Z"
+        },
+        {
+            "name": "Hackathon-Winning-Tips-Tricks",
+            "description": "Must need repo to level up on Hackathon Events!! Master the art of problem solving and ideating projects. Be sure to use these tips nd tricks on your next hackathon!!!",
+            "score": 4.20146977556229,
+            "stars": 6,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/progprnv/Hackathon-Winning-Tips-Tricks",
+            "updatedAt": "2024-11-30T14:11:00Z"
+        },
+        {
+            "name": "Aircrack-ng-144p",
+            "description": "Aircrack-Ng-144p lite v0.1.1 is a C-based Wi-Fi network scanner tool that scans and displays basic information about nearby Wi-Fi networks, including SSID, BSSID, channel, and signal strength.",
+            "score": 3.873627176183849,
+            "stars": 5,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/progprnv/Aircrack-ng-144p",
+            "updatedAt": "2024-11-27T12:36:25Z"
+        },
+        {
+            "name": "Secure-KTU-Project_Davinci",
+            "description": "Project Davinci, led by Government Engineering College (GEC) Thrissur, focuses on \"Secure-KTU,\" enhancing the security of the KTU website. The project assesses vulnerabilities per NCIIPC RVDP standards, addressing threats like data breaches and unauthorized access, ensuring safer online services. ",
+            "score": 3.562168627676933,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/progprnv/Secure-KTU-Project_Davinci",
+            "updatedAt": "2024-11-27T12:35:58Z"
+        },
+        {
+            "name": "reconP",
+            "description": "reconP is a powerful subdomain discovery and verification tool that integrates multiple APIs to gather and check the status of subdomains for a given target domain.",
+            "score": 3.5248816159751892,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/progprnv/reconP",
+            "updatedAt": "2024-11-27T12:36:14Z"
+        },
+        {
+            "name": "scope",
+            "description": "SCOPE [Subdomain Cache Observation, Poisoning & Evaluation] is a simple, yet powerful tool designed to help you find and test vulnerabilities in subdomains that might be exposed to cache poisoning attacks. If a website isn't properly handling cache, it could lead to security issues where malicious content gets stored and served to users.",
+            "score": 3.1765124843363677,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/progprnv/scope",
+            "updatedAt": "2024-12-13T23:47:32Z"
+        }
+    ],
+    "followers": 69,
+    "following": 69,
+    "public_repos": 43,
+    "pull_requests_merged": 2,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 827,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/pranav-jayan-818b52208"
+        }
+    ],
+    "activity_summary": {
+        "Kalyani": {
+            "link": "https://github.com/progprnv/Kalyani",
+            "summary": "Recent activities in the Kalyani repository involved a series of updates to various files including script.js, styles.css, and index.html, with multiple push events occurring on December 21, 2024, indicating active development and refinement of the project's codebase."
+        },
+        "ASCII-Kuttappan": {
+            "link": "https://github.com/progprnv/ASCII-Kuttappan",
+            "summary": "The ASCII-Kuttappan repository saw updates to its readme.md and app.py files, along with a modification to requirements.txt, all happening on December 20, 2024, suggesting maintenance and enhancement of the project's documentation and core functionality."
+        },
+        "devb.io": {
+            "link": "https://github.com/progprnv/devb.io",
+            "summary": "The devb.io repository experienced significant activity with a push event implementing error handling for the GitHub profile fetcher on December 21, 2024, and another event configuring the application through an environment variable, aligning with standard DevOps practices, demonstrating efforts to improve the project's reliability and flexibility."
+        }
+    },
+    "profile_summary": "Progprnv is a highly skilled and accomplished cybersecurity researcher with a strong foundation in programming languages such as C, C++, and Python. With a keen interest in cracking codes, progprnv brings a unique perspective to the field of cybersecurity, leveraging expertise in languages like Javascript, Bash, and Html to stay ahead of emerging threats. As a seasoned developer with 43 public repositories and a network of 69 followers, progprnv has established a reputation for innovative problem-solving and collaboration, making significant contributions to the cybersecurity community.\n\nAs a seasoned cybersecurity expert, progprnv combines technical proficiency with a passion for research and development, driving advancements in the field through active engagement with the developer community. With a focus on delivering high-quality solutions and a commitment to staying up-to-date with the latest technologies, progprnv is a reliable and trusted partner for organizations seeking to enhance their cybersecurity posture. By blending technical expertise with creativity and a passion for code cracking, progprnv continues to push the boundaries of what is possible in cybersecurity, earning recognition as a talented and innovative professional in the industry."
+}

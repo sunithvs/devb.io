@@ -71,11 +71,17 @@ class GitHubProfileFetcher:
                             }}
                           }}
                         }}
-                        pullRequests(first: 0, states: MERGED, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
+                        pullRequests(first: 100, states: MERGED, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
+                           nodes {{
+                          createdAt
+                          }}
                           totalCount
                         }}
-                        issues(first: 0, states: CLOSED) {{
+                        issues(last: 100, states: CLOSED) {{
                           totalCount
+                          nodes {{
+                            createdAt
+                            }}
                         }}
                         repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {{
                           totalCount
@@ -102,7 +108,12 @@ class GitHubProfileFetcher:
             graphql_data = graphql_response.json().get('data', {}).get('user', {})
             if not graphql_data:
                 raise ValueError(f"User '{username}' not found or query returned no data.")
-
+            pr_merged_last_year = sum(
+                1 for pr in graphql_data['pullRequests']['nodes'] if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+            )
+            issues_closed_last_year = sum(
+                1 for issue in graphql_data['issues']['nodes'] if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+            )
             featured = GitHubProjectRanker().get_featured(username)
             return {
                 'username': username,
@@ -116,8 +127,8 @@ class GitHubProfileFetcher:
                 'followers': graphql_data['followers']['totalCount'],
                 'following': graphql_data['following']['totalCount'],
                 'public_repos': graphql_data['repositories']['totalCount'],
-                'pull_requests_merged': graphql_data['pullRequests']['totalCount'],
-                'issues_closed': graphql_data['issues']['totalCount'],
+                'pull_requests_merged': pr_merged_last_year if pr_merged_last_year < 100 else f"{100}+",
+                'issues_closed': issues_closed_last_year if issues_closed_last_year < 100 else f"{100}+",
                 'achievements': {
                     'total_contributions': graphql_data['contributionsCollection']['contributionCalendar']['totalContributions'],
                     'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],

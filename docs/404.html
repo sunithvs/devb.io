@@ -573,5 +573,17 @@ function renderErrorPage(error) {
         </div>
 
     </div>`;
+    // Scroll sync between left and right sections of dynamically loaded DOM.
+    const leftSection = document.getElementById("left-section");
+    const rightSection = document.getElementById("right-section");
+    
+    if (leftSection && rightSection) {
+        leftSection.addEventListener("wheel", (event) => {
+            event.preventDefault();
+            rightSection.scrollBy({
+                top: event.deltaY,
+            });
+        });
+    }
     }
 </script>

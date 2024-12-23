@@ -1,0 +1,134 @@
+{
+    "username": "vuon9",
+    "name": "Vuong",
+    "bio": "\u2615\ufe0f with \ud83e\uddca",
+    "location": "Vietnam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3168632?u=d5f92d301aea3821711b8d53a2834c6d1210b0f8&v=4",
+    "profile_url": "https://github.com/vuon9",
+    "top_languages": [
+        [
+            "Go",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "zshs",
+            "description": "Utility functions for Zsh uses",
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/vuon9/zshs",
+            "updatedAt": "2024-10-19T18:55:10Z"
+        },
+        {
+            "name": "play-with-py",
+            "description": null,
+            "score": 0.3216510325810537,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/vuon9/play-with-py",
+            "updatedAt": "2024-11-10T16:56:25Z"
+        },
+        {
+            "name": "play-with-go",
+            "description": "Draft version of things I played with Go",
+            "score": 0.302246012469152,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/vuon9/play-with-go",
+            "updatedAt": "2024-08-02T13:46:19Z"
+        },
+        {
+            "name": "play-with-html",
+            "description": "Something in HTML/CSS",
+            "score": 0.302246012469152,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vuon9/play-with-html",
+            "updatedAt": "2024-08-02T13:56:49Z"
+        },
+        {
+            "name": "tkaraoke-lyrics-searcher",
+            "description": "Simple module to search for lyrics of a song in the Tkaraoke database",
+            "score": 0.2820545609606904,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vuon9/tkaraoke-lyrics-searcher",
+            "updatedAt": "2024-09-07T12:52:58Z"
+        },
+        {
+            "name": "homebrew-d2m",
+            "description": "Homebrew tap for vuon9/d2m",
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/vuon9/homebrew-d2m",
+            "updatedAt": "2024-05-01T10:19:10Z"
+        },
+        {
+            "name": "youtube-music-theme",
+            "description": "Youtube Music theme",
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/vuon9/youtube-music-theme",
+            "updatedAt": "2024-03-16T06:07:54Z"
+        },
+        {
+            "name": "dotfiles",
+            "description": "My dotfiles",
+            "score": 0.2502518606753924,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/vuon9/dotfiles",
+            "updatedAt": "2024-08-28T03:11:17Z"
+        }
+    ],
+    "followers": 43,
+    "following": 118,
+    "public_repos": 23,
+    "pull_requests_merged": 74,
+    "issues_closed": 45,
+    "achievements": {
+        "total_contributions": 226,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/vuon9.bsky.social"
+        },
+        {
+            "provider": "generic",
+            "url": "https://buymeacoffee.com/vuong"
+        }
+    ],
+    "activity_summary": {
+        "vuon9/Sequel-Ace": {
+            "link": "https://github.com/vuon9/Sequel-Ace",
+            "summary": "Recent activities in the vuon9/Sequel-Ace repository include multiple push events, focusing on the implementation of dark mode features, improvements to the text editor's appearance, and fixes to various issues such as preferences window centralization and the handling of default values. Additionally, there have been updates to the Server Processes UI, enhancements to the detection of default values, and the application of escaping text data for binary data when exporting to SQL. A pull request event also introduced a feature to add editor dark mode colors."
+        },
+        "Sequel-Ace/Sequel-Ace": {
+            "link": "https://github.com/Sequel-Ace/Sequel-Ace",
+            "summary": "The Sequel-Ace/Sequel-Ace repository has seen a significant pull request event focused on fixing an issue related to closing the data structure retrieval connection when the main connection is closed. This pull request provides detailed explanations and includes debug logs to demonstrate the fix, ensuring proper disconnection and cancellation of queries and keep-alives, ultimately leading to a more stable and efficient database connection handling process."
+        }
+    },
+    "profile_summary": "Vuong is a highly skilled developer with a strong foundation in programming languages such as Go, TypeScript, and Python. With a professional network of 43 followers and a portfolio of 23 public repositories, Vuong has established himself as a reputable and active member of the development community. His technical expertise and dedication to his craft have earned him a reputation as a reliable and innovative problem solver. As a passionate developer who enjoys combining coffee with ice, Vuong brings a unique and refreshing perspective to his work.\n\nWith a focus on delivering high-quality solutions, Vuong leverages his technical skills to drive innovation and growth in the industry. His proficiency in Go, TypeScript, and Python enables him to tackle complex projects with confidence and precision. As a seasoned developer, Vuong is well-versed in the latest trends and technologies, making him an invaluable asset to any team. With a strong online presence and a commitment to ongoing learning and improvement, Vuong is poised to continue making significant contributions to the development community, and his work is sure to inspire and impress peers and clients alike."
+}

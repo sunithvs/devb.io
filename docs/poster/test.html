@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SVG to PNG Converter</title>
+    <style>
+        /* Your font definitions */
+        @font-face {
+            font-family: 'Satoshi';
+            src: url('https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2') format('woff2'),
+                 url('https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff') format('woff'),
+                 url('https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.ttf') format('truetype');
+            font-weight: 400;
+            font-display: swap;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Satoshi';
+            src: url('https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2') format('woff2'),
+                 url('https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff') format('woff'),
+                 url('https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.ttf') format('truetype');
+            font-weight: 500;
+            font-display: swap;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Satoshi';
+            src: url('https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2') format('woff2'),
+                 url('https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff') format('woff'),
+                 url('https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.ttf') format('truetype');
+            font-weight: 700;
+            font-display: swap;
+            font-style: normal;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: center;
+        }
+        canvas {
+            border: 1px solid #ccc;
+            margin: 20px 0;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <canvas id="myCanvas"></canvas>
+        <br>
+        <button onclick="downloadPNG()">Download as PNG</button>
+    </div>
+
+    <script>
+        let canvas;
+        let ctx;
+
+        // Function to load fonts
+        function loadFonts() {
+            return Promise.all([
+                new FontFace('Satoshi', 'url(https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2)', { weight: '400' }).load(),
+                new FontFace('Satoshi', 'url(https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2)', { weight: '500' }).load(),
+                new FontFace('Satoshi', 'url(https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2)', { weight: '700' }).load()
+            ]).then(fonts => {
+                fonts.forEach(font => {
+                    document.fonts.add(font);
+                });
+            });
+        }
+
+        async function loadSVG() {
+            try {
+                // First, load the fonts
+                await loadFonts();
+
+                // Then fetch and process the SVG
+                const response = await fetch('poster.svg');
+                const svgContent = await response.text();
+
+                canvas = document.getElementById('myCanvas');
+                ctx = canvas.getContext('2d');
+
+                // Set canvas size
+                canvas.width = 1080;
+                canvas.height = 1920;
+
+                // Create SVG blob
+                const blob = new Blob([svgContent], { type: 'image/svg+xml' });
+                const url = URL.createObjectURL(blob);
+
+                // Create image from SVG
+                const img = new Image();
+                img.onload = function() {
+                    // Draw image on canvas
+                    ctx.drawImage(img, 0, 0);
+                    // Clean up
+                    URL.revokeObjectURL(url);
+                };
+                img.onerror = function(err) {
+                    console.error('Error loading image:', err);
+                };
+                img.src = url;
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        // Call the async function
+        loadSVG();
+
+        function downloadPNG() {
+            if (!canvas) {
+                console.error('Canvas not initialized yet');
+                return;
+            }
+            const link = document.createElement('a');
+            link.download = 'converted-image.png';
+            link.href = canvas.toDataURL('image/png');
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+</html>

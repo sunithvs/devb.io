@@ -152,12 +152,10 @@
             <!-- Create Profile Button - Centered on Mobile -->
             <div class="flex items-center justify-center lg:justify-start">
                 <div class="lg:mt-40 flex items-center">
-                    <a href="https://devb.io#connect">
-                        <button
+                        <button id="wrapped-btn"
                                 class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex items-center">
-                            Create Your Profile
+                            2024 Wrapped
                         </button>
-                    </a>
                 </div>
             </div>
         </div>
@@ -347,6 +345,35 @@
         </div>
 
     </div>
+<div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4 lg:p-0">
+  <div class="bg-white rounded-xl p-4 lg:p-6 w-full max-w-4xl h-[90vh] flex flex-col">
+    <div class="flex flex-col lg:flex-row justify-between items-center mb-4 gap-4">
+      <h2 class="text-2xl font-bold">2024 Wrapped</h2>
+      <div class="flex gap-4">
+        <button id="download-btn" class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors">
+          Download
+        </button>
+        <button id="share-btn" class="px-4 py-2 rounded-lg border-2 border-black hover:bg-[#B9FF66] transition-colors">
+          Share
+        </button>
+        <button id="close-modal" class="text-2xl">&times;</button>
+      </div>
+    </div>
+
+    <div id="loading" class="hidden flex-1 py-20 text-center">
+      <div class="animate-spin rounded-full h-16 w-16 border-b-2 border-black mx-auto mb-4"></div>
+      <p>Generating your wrapped...</p>
+    </div>
+
+    <div id="svg-preview" class="hidden flex-1 overflow-y-auto">
+      <div id="svg-container" class="flex justify-center items-start">
+        <div class="w-full max-w-3xl transform-gpu">
+          <!-- SVG will be inserted here -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 </main>
 </body>
 <script>
@@ -354,5 +381,154 @@
     lucide.createIcons();
 </script>
 
+<script>
+    function get_svg_x(mid,font_size,text){
+        return mid - (text.length * font_size / 4);
+    }
+    function get_in_k_format(num){
+        if(num >= 1000){
+            return (num/1000).toFixed(1) + "k";
+        }
+        return num;
+    }
+
+    async function get_base64_from_url(url) {
+    return new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.responseType = "blob";
+        xhr.onload = () => {
+            if (xhr.status === 200) {
+                const reader = new FileReader();
+                reader.onloadend = () => resolve(reader.result);
+                reader.onerror = reject;
+                reader.readAsDataURL(xhr.response);
+            } else {
+                reject(new Error(`Failed to fetch image: ${xhr.status}`));
+            }
+        };
+        xhr.onerror = () => reject(new Error("Network error"));
+        xhr.send();
+    });
+}
+
+
+async function updateSvg(svgText, userData) {
+    const base64Image = await get_base64_from_url(userData.avatar_url);
+    return svgText
+        .replace(/{name}/g, userData.name)
+        .replace(/{avatar}/g, `${base64Image}`)
+        .replace(/{bio}/g, userData.bio ? userData.bio.slice(0, 140) + (userData.bio.length > 140 ? "..." : "") : "")
+        .replace(/{follow}/g, `${get_in_k_format(userData.followers)} Followers | ${get_in_k_format(userData.following)} Following`)
+        .replace(/{repos}/g, `${userData.public_repos} Public Repos`)
+        .replace(/{commits}/g, `${userData.achievements.total_contributions}`)
+        .replace(/{commit_x}/g, get_svg_x(370, 68.514, `${userData.achievements.total_contributions}`))
+        .replace(/{issue}/g, `${userData.issues_closed}`)
+        .replace(/{issue_x}/g, get_svg_x(330, 68.514, `${userData.issues_closed}`))
+        .replace(/{pr}/g, `${userData.pull_requests_merged}`)
+        .replace(/{pr_x}/g, get_svg_x(350, 68.514, `${userData.pull_requests_merged}`))
+        .replace(/{lang1}/g, userData.top_languages[0] ? userData.top_languages[0][0] : "")
+        .replace(/{lang1_x}/g, get_svg_x(370, 54, userData.top_languages[0] ? userData.top_languages[0][0] : ""))
+        .replace(/{lang2}/g, userData.top_languages[1] ? userData.top_languages[1][0] : "")
+        .replace(/{lang2_x}/g, get_svg_x(370, 54, userData.top_languages[1] ? userData.top_languages[1][0] : ""))
+        .replace(/{lang3}/g, userData.top_languages[2] ? userData.top_languages[2][0] : "")
+        .replace(/{lang3_x}/g, get_svg_x(370, 54, userData.top_languages[2] ? userData.top_languages[2][0] : ""));
+}
+
+const modal = document.getElementById('modal');
+const wrappedBtn = document.getElementById('wrapped-btn');
+const closeModal = document.getElementById('close-modal');
+const loading = document.getElementById('loading');
+const svgPreview = document.getElementById('svg-preview');
+const downloadBtn = document.getElementById('download-btn');
+const shareBtn = document.getElementById('share-btn');
+
+wrappedBtn.addEventListener('click', async () => {
+    modal.classList.remove('hidden');
+    loading.classList.remove('hidden');
+    svgPreview.classList.add('hidden');
+     const pathParts = window.location.pathname.split('/').filter(part => part);
+    const username = pathParts[pathParts.length - 1];
+    console.log(username);
+
+    try {
+        const response = await fetch(`https://user.devb.io/user/${username}`);
+        const userData = await response.json();
+
+        const svgResponse = await fetch('https://devb.io/poster/poster.svg');
+        const svgText = await svgResponse.text();
+
+        const updatedSvg = await updateSvg(svgText, userData);
+        document.getElementById('svg-container').innerHTML = updatedSvg;
+
+
+        loading.classList.add('hidden');
+        svgPreview.classList.remove('hidden');
+    } catch (error) {
+        console.error('Error:', error);
+        loading.classList.add('hidden');
+    }
+});
+
+closeModal.addEventListener('click', () => {
+    modal.classList.add('hidden');
+});
+
+modal.addEventListener('click', (e) => {
+    if (e.target === modal) modal.classList.add('hidden');
+});
+
+downloadBtn.addEventListener('click', async () => {
+    const svgElement = document.querySelector("#svg-container svg");
+    if (!svgElement) return;
+
+    const svgData = new XMLSerializer().serializeToString(svgElement);
+    const blob = new Blob([svgData], {type: "image/svg+xml"});
+    const url = URL.createObjectURL(blob);
+    const pathParts = window.location.pathname.split('/').filter(part => part);
+    const username = pathParts[pathParts.length - 1] ;
+
+
+    const img = new Image();
+    img.src = url;
+
+    img.onload = () => {
+        URL.revokeObjectURL(url);
+        setTimeout(() => {
+            const canvas = document.createElement("canvas");
+            canvas.width = 1080 * 2;
+            canvas.height = 1920 * 2;
+
+            const ctx = canvas.getContext("2d");
+            ctx.drawImage(img, 0, 0);
+
+            const pngUrl = canvas.toDataURL("image/png");
+            const link = document.createElement("a");
+            link.download = `${username}-wrapped-2024.png`;
+            link.href = pngUrl;
+            link.click();
+        }, 2000);
+    };
+});
+
+shareBtn.addEventListener('click', async () => {
+    const svgElement = document.querySelector("#svg-container svg");
+    if (!svgElement) return;
+
+    const svgData = new XMLSerializer().serializeToString(svgElement);
+    const blob = new Blob([svgData], {type: "image/png"});
+    const file = new File([blob], "wrapped-2024.png", { type: "image/png" });
+
+    try {
+        await navigator.share({
+            files: [file],
+            title: '2024 GitHub Wrapped',
+            text: 'Check out my 2024 GitHub Wrapped!'
+        });
+    } catch (error) {
+        console.error('Error sharing:', error);
+    }
+});
+</script>
 
 </html>

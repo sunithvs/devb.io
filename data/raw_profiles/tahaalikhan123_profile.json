@@ -1,0 +1,125 @@
+{
+    "username": "tahaalikhan123",
+    "name": "Taha Ali Khan",
+    "bio": "\"Why did the data analyst break up with their calculator? It couldn't handle their complex relationship status!\"",
+    "location": "Dxb UAE",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49469972?u=190cadd99d5f6bc4ed300d6cae35980e76f5dfdc&v=4",
+    "profile_url": "https://github.com/tahaalikhan123",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            3
+        ],
+        [
+            "TeX",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "R-programming",
+            "description": "Learn R programming with me",
+            "score": 1.6593661291079418,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tahaalikhan123/R-programming",
+            "updatedAt": "2024-07-15T14:42:53Z"
+        },
+        {
+            "name": "Taxcalcpy",
+            "description": "Tax calculator based on Ontario CA",
+            "score": 1.658556889797997,
+            "stars": 1,
+            "forks": 0,
+            "language": "TeX",
+            "url": "https://github.com/tahaalikhan123/Taxcalcpy",
+            "updatedAt": "2024-07-15T14:43:18Z"
+        },
+        {
+            "name": "LLMshowcase",
+            "description": "A curated list of AI tools along with their rankings, provided with a video feeback for each of them according to their usability.",
+            "score": 0.3178977130047066,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/tahaalikhan123/LLMshowcase",
+            "updatedAt": "2024-12-21T08:39:20Z"
+        },
+        {
+            "name": "customersegmentation",
+            "description": "Visualization and analysis of Customer Segmentation dataset provided on kaggle",
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/tahaalikhan123/customersegmentation",
+            "updatedAt": "2024-07-26T11:16:55Z"
+        },
+        {
+            "name": "unc-to-cle",
+            "description": "Preprocessing and analyzing a dataset found on kaggle.",
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/tahaalikhan123/unc-to-cle",
+            "updatedAt": "2024-06-11T08:14:14Z"
+        },
+        {
+            "name": "takportfolio",
+            "description": null,
+            "score": 0.2831087487266323,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/tahaalikhan123/takportfolio",
+            "updatedAt": "2024-12-16T12:02:30Z"
+        },
+        {
+            "name": "tahaalikhan123",
+            "description": null,
+            "score": 0.27226252867810646,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tahaalikhan123/tahaalikhan123",
+            "updatedAt": "2024-09-02T17:34:07Z"
+        },
+        {
+            "name": "DDEAWP",
+            "description": "Detailed Data Exploratory Analysis With Python",
+            "score": 0.27206300635396197,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/tahaalikhan123/DDEAWP",
+            "updatedAt": "2024-06-06T15:30:01Z"
+        }
+    ],
+    "followers": 1,
+    "following": 9,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 311,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "tahaalikhan123/takportfolio": {
+            "link": "https://github.com/tahaalikhan123/takportfolio",
+            "summary": "The repository has experienced significant activity, with multiple push events occurring between October 2024 and December 2024, including updates to styles, projects, and CSS comments, as well as the addition of new content and fixes, demonstrating ongoing development and refinement."
+        },
+        "tahaalikhan123/LLMshowcase": {
+            "link": "https://github.com/tahaalikhan123/LLMshowcase",
+            "summary": "This repository has shown notable activity, with push events in October and November 2024, including updates to the navbar, colors, and general updates, indicating a period of improvement and development."
+        }
+    },
+    "profile_summary": null
+}

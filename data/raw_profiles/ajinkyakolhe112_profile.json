@@ -1,0 +1,129 @@
+{
+    "username": "ajinkyakolhe112",
+    "name": "Ajinkya Kolhe",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6188049?u=aec0b639430e67499ccc7f5615467ddecf8990d5&v=4",
+    "profile_url": "https://github.com/ajinkyakolhe112",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            15
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Machine-Learning-Crash-Course-2017",
+            "description": null,
+            "score": 5.433610582986658,
+            "stars": 5,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/Machine-Learning-Crash-Course-2017",
+            "updatedAt": "2024-07-10T06:30:13Z"
+        },
+        {
+            "name": "Workshop-NMIMS-MTech-2024",
+            "description": null,
+            "score": 3.773615172851579,
+            "stars": 0,
+            "forks": 9,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/Workshop-NMIMS-MTech-2024",
+            "updatedAt": "2024-11-07T02:56:04Z"
+        },
+        {
+            "name": "Learning-Artificial-Intelligence-in-2023",
+            "description": null,
+            "score": 2.435850166693353,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajinkyakolhe112/Learning-Artificial-Intelligence-in-2023",
+            "updatedAt": "2024-07-10T09:41:00Z"
+        },
+        {
+            "name": "Vision-101---Cohort-1",
+            "description": null,
+            "score": 1.6354214468273476,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/Vision-101---Cohort-1",
+            "updatedAt": "2024-08-28T06:42:17Z"
+        },
+        {
+            "name": "ERA1-School-of-AI-COURSE-NOTES",
+            "description": null,
+            "score": 1.6215875626984293,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/ERA1-School-of-AI-COURSE-NOTES",
+            "updatedAt": "2024-07-10T06:32:46Z"
+        },
+        {
+            "name": "mahabharat-image-gen",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/mahabharat-image-gen",
+            "updatedAt": "2024-12-11T06:37:20Z"
+        },
+        {
+            "name": "Introduction-to-Deep-Learning-Essentials",
+            "description": null,
+            "score": 0.29779910958090483,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/Introduction-to-Deep-Learning-Essentials",
+            "updatedAt": "2024-07-22T11:34:12Z"
+        },
+        {
+            "name": "Cats-vs-Dogs",
+            "description": null,
+            "score": 0.2962907343396846,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajinkyakolhe112/Cats-vs-Dogs",
+            "updatedAt": "2024-07-18T10:05:23Z"
+        }
+    ],
+    "followers": 148,
+    "following": 4,
+    "public_repos": 23,
+    "pull_requests_merged": 13,
+    "issues_closed": 8,
+    "achievements": {
+        "total_contributions": 216,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ajinkyakolhe112/Workshop-NMIMS-MTech-2024": {
+            "link": "https://github.com/ajinkyakolhe112/Workshop-NMIMS-MTech-2024",
+            "summary": "Recent activities include multiple push events with updates such as adding extra tutorials, remaining labs, lab renaming organization, linux commands, and various code changes to support docker, flask, and volumes folder, showcasing significant development and refinement of the repository's content."
+        },
+        "ajinkyakolhe112/mahabharat-image-gen": {
+            "link": "https://github.com/ajinkyakolhe112/mahabharat-image-gen",
+            "summary": "The repository has seen several recent push events, primarily focusing on reorganization and fine-tuning of images, indicating efforts to enhance the repository's structure and the quality of the generated images."
+        },
+        "ajinkyakolhe112/Learning-Artificial-Intelligence-in-2024": {
+            "link": "https://github.com/ajinkyakolhe112/Learning-Artificial-Intelligence-in-2024",
+            "summary": "Recent activities include push events updating the repository with 2024 closing updates and Q2 updates, demonstrating a commitment to regularly refreshing the content to reflect the evolving landscape of artificial intelligence in 2024."
+        },
+        "ajinkyakolhe112/nn-architecture-visualization": {
+            "link": "https://github.com/ajinkyakolhe112/nn-architecture-visualization",
+            "summary": "A notable recent push event addressed several improvements including replacing HTTP with HTTPS in the README, correcting label placement in AlexNet, and scaling vector length for LeNet, highlighting active maintenance and enhancement of the repository to improve its neural network architecture visualization capabilities."
+        }
+    },
+    "profile_summary": "Ajinkya Kolhe is a highly skilled developer with a strong foundation in Python and Jupyter Notebook, bringing a unique combination of technical expertise and innovative problem-solving skills to the table. With a professional network of 148 followers and a portfolio of 23 public repositories, Ajinkya has established himself as a reliable and experienced developer in the industry. His proficiency in Python and Jupyter Notebook enables him to design, develop, and deploy efficient data-driven solutions, making him a valuable asset to any project.\n\nAs a seasoned developer, Ajinkya Kolhe is dedicated to delivering high-quality solutions that meet the evolving needs of the industry. His expertise in data analysis, machine learning, and data science is complemented by his ability to work collaboratively and communicate complex technical concepts effectively. With a strong online presence and a track record of active development, Ajinkya is well-positioned to drive innovation and growth in the tech industry, and his skills and expertise make him an attractive candidate for companies seeking a skilled and dedicated developer to join their team."
+}

@@ -1,0 +1,123 @@
+{
+    "username": "jappoman",
+    "name": "Gabriele Tarenzi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4927559?u=5a2e41f0a96abd1821551493fd3728286c885ea3&v=4",
+    "profile_url": "https://github.com/jappoman",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "Lua",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "barcode-generator",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/barcode-generator",
+            "updatedAt": "2024-12-18T15:34:35Z"
+        },
+        {
+            "name": "test-webhook",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jappoman/test-webhook",
+            "updatedAt": "2024-11-26T18:55:19Z"
+        },
+        {
+            "name": "esercizi-pratici-sistemi-tecnologie",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/jappoman/esercizi-pratici-sistemi-tecnologie",
+            "updatedAt": "2024-10-23T09:33:00Z"
+        },
+        {
+            "name": "neovim-config",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/jappoman/neovim-config",
+            "updatedAt": "2024-11-05T20:10:21Z"
+        },
+        {
+            "name": "complife-product-management",
+            "description": null,
+            "score": 0.2951939842332517,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jappoman/complife-product-management",
+            "updatedAt": "2024-07-29T10:33:17Z"
+        },
+        {
+            "name": "photosorter",
+            "description": null,
+            "score": 0.23977940134890346,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/photosorter",
+            "updatedAt": "2024-06-11T12:14:58Z"
+        },
+        {
+            "name": "image-gridder",
+            "description": null,
+            "score": 0.15884952276382172,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jappoman/image-gridder",
+            "updatedAt": "2023-07-22T08:12:54Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 1053,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "jappoman/esercizi-pratici-sistemi-tecnologie": {
+            "link": "https://github.com/jappoman/esercizi-pratici-sistemi-tecnologie",
+            "summary": "Recent activities include updates to the bigino bash script, additions of regular expressions, and various commits related to the bigino file, showcasing ongoing development and refinement of the repository's contents."
+        },
+        "jappoman/neovim-config": {
+            "link": "https://github.com/jappoman/neovim-config",
+            "summary": "The repository has seen significant updates, including the addition of a C language server, updates to indentation, and the removal of the octohub dependency, demonstrating active maintenance and improvement of the Neovim configuration."
+        },
+        "jappoman/esercizi-script-bash": {
+            "link": "https://github.com/jappoman/esercizi-script-bash",
+            "summary": "Recent activities involve refactoring exercises, adding new exercises, and reorganizing the repository's structure, indicating a focus on enhancing the quality and quantity of the bash script exercises available."
+        },
+        "jappoman/test-webhook": {
+            "link": "https://github.com/jappoman/test-webhook",
+            "summary": "The repository has experienced updates, including the addition of an API for the resilyera endpoint and updates to device identifiers in API requests, suggesting ongoing development and testing of webhook-related functionality."
+        }
+    },
+    "profile_summary": "Gabriele Tarenzi is a skilled and innovative developer with a strong foundation in programming languages such as TypeScript, Python, and Lua. With a solid track record of creating high-quality code, Gabriele demonstrates a deep understanding of software development principles and a passion for delivering effective solutions. As a dedicated professional, Gabriele actively contributes to the development community through public repositories, showcasing a commitment to open-source collaboration and knowledge sharing. With a growing portfolio of 7 public repositories, Gabriele's technical expertise and creative problem-solving skills are evident in every project.\n\nAs a rising talent in the development community, Gabriele Tarenzi brings a unique combination of technical skills and collaborative spirit to the table. With expertise in languages like TypeScript, Python, and Lua, Gabriele is well-equipped to tackle complex projects and deliver results-driven solutions. By leveraging industry-relevant keywords and best practices, Gabriele's work is optimized for performance, scalability, and reliability. With a strong focus on continuous learning and professional growth, Gabriele is poised to make a lasting impact in the development community, and is an exciting talent to watch in the years to come."
+}

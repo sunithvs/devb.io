@@ -1,0 +1,154 @@
+{
+    "username": "xuho",
+    "name": "Hoa NgX",
+    "bio": "Software Engineer / Project Manager\r\n\ud83d\udcda Stacks: React, React Native, JavaScript, PHP (Laravel), MySQL, Linux",
+    "location": "Viet Nam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13913140?u=7dad2ea7467ed37d95993a340c517f32c6cfa7ca&v=4",
+    "profile_url": "https://github.com/xuho",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "react-native-select-two",
+            "description": "Component like Select2 on web for React Native",
+            "score": 15.45001240391967,
+            "stars": 82,
+            "forks": 71,
+            "language": "JavaScript",
+            "url": "https://github.com/xuho/react-native-select-two",
+            "updatedAt": "2024-10-03T01:13:29Z"
+        },
+        {
+            "name": "react-native-google-recaptcha-v2",
+            "description": "Implement Google recaptcha v2 in React Native (both Android an iOS)",
+            "score": 12.992383077504652,
+            "stars": 38,
+            "forks": 39,
+            "language": "JavaScript",
+            "url": "https://github.com/xuho/react-native-google-recaptcha-v2",
+            "updatedAt": "2023-10-31T07:46:21Z"
+        },
+        {
+            "name": "code2image",
+            "description": "Transform code snippet to image",
+            "score": 5.893127121639947,
+            "stars": 9,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/xuho/code2image",
+            "updatedAt": "2024-11-04T16:26:10Z"
+        },
+        {
+            "name": "rn-simple-toast",
+            "description": "React Native Toast component for both iOS and Android",
+            "score": 3.8782976089581704,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/xuho/rn-simple-toast",
+            "updatedAt": "2020-09-28T02:08:10Z"
+        },
+        {
+            "name": "FacebookChatUI",
+            "description": "Facebook chat UI using React Native",
+            "score": 2.263564875127809,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/xuho/FacebookChatUI",
+            "updatedAt": "2022-11-16T07:36:28Z"
+        },
+        {
+            "name": "Game_Lucky_Box",
+            "description": null,
+            "score": 2.2594401478922044,
+            "stars": 2,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/xuho/Game_Lucky_Box",
+            "updatedAt": "2022-11-16T07:36:29Z"
+        },
+        {
+            "name": "FindNumber",
+            "description": null,
+            "score": 1.448582968327372,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/xuho/FindNumber",
+            "updatedAt": "2022-11-17T04:13:38Z"
+        },
+        {
+            "name": "xuho",
+            "description": null,
+            "score": 0.2049403618017307,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/xuho/xuho",
+            "updatedAt": "2024-12-20T03:36:05Z"
+        }
+    ],
+    "followers": 18,
+    "following": 3,
+    "public_repos": 91,
+    "pull_requests_merged": 3,
+    "issues_closed": 13,
+    "achievements": {
+        "total_contributions": 24,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/xuho/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/hoa_ngx"
+        },
+        {
+            "provider": "generic",
+            "url": "https://feedbackglow.com/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://smartgantt.net/"
+        }
+    ],
+    "activity_summary": {
+        "xuho/rare-big-deal": {
+            "link": "https://github.com/xuho/rare-big-deal",
+            "summary": "Recent activities include multiple push events, focusing on adding new features such as FeedbackGlow and SmartGantt deal, updating repository stats, and fixing existing issues."
+        },
+        "hilmanski/freeStuffDev": {
+            "link": "https://github.com/hilmanski/freeStuffDev",
+            "summary": "The repository has seen significant pull request events, adding new customer feedback management software FeedbackGlow and instant Gantt chart creator SmartGantt, enhancing its offerings."
+        },
+        "xuho/freeStuffDev": {
+            "link": "https://github.com/xuho/freeStuffDev",
+            "summary": "Activities involve push events, creating and adding new files for customer feedback management software FeedbackGlow and instant Gantt chart creator SmartGantt, indicating growth in the repository's content and capabilities."
+        },
+        "xuho/xuho": {
+            "link": "https://github.com/xuho/xuho",
+            "summary": "Recent activity involves a push event updating the README.md file, suggesting maintenance and improvement of the repository's primary information and documentation."
+        },
+        "trungdq88/Awesome-Black-Friday-Cyber-Monday": {
+            "link": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+            "summary": "A notable pull request event added SmartGantt and FeedbackGlow, indicating an effort to enrich the repository with new tools and resources, possibly related to Black Friday and Cyber Monday deals."
+        }
+    },
+    "profile_summary": "Hoa NgX is a highly skilled software engineer and project manager with a strong background in developing innovative solutions using JavaScript, C++, and Swift. With a solid foundation in React, React Native, and PHP, particularly with the Laravel framework, Hoa has established himself as a versatile and dependable professional in the tech industry. His expertise in MySQL and Linux further underscores his ability to design, implement, and manage complex projects from inception to deployment. As a seasoned developer with a significant network of peers, Hoa has built a reputation for delivering high-quality results and collaborating effectively with his team.\n\nWith a portfolio of 91 public repositories and a growing network of 18 followers, Hoa demonstrates his commitment to ongoing learning, professional growth, and community engagement. His unique blend of technical skills, project management acumen, and collaborative mindset makes him an invaluable asset to any development team. By leveraging his expertise in React, JavaScript, and PHP, Hoa continues to drive innovation and excellence in the software engineering landscape. As a dedicated and results-driven professional, Hoa is poised to make a lasting impact in the tech industry, and his contributions are eagerly anticipated by his peers and the broader developer community."
+}

@@ -1,0 +1,67 @@
+{
+    "username": "rohittp",
+    "name": "rohittp",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10898255?v=4",
+    "profile_url": "https://github.com/rohittp",
+    "top_languages": [
+        [
+            "R",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RP",
+            "description": null,
+            "score": 0.06252878487759192,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohittp/RP",
+            "updatedAt": "2016-11-06T01:16:17Z"
+        },
+        {
+            "name": "getting-cleaning-data-project",
+            "description": "Coursera  project for getting and cleaning data",
+            "score": 0.06120872674743104,
+            "stars": 0,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/rohittp/getting-cleaning-data-project",
+            "updatedAt": "2015-04-26T23:19:10Z"
+        },
+        {
+            "name": "datasciencecoursera",
+            "description": "Data Science Coursera project",
+            "score": 0.061061905806646395,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohittp/datasciencecoursera",
+            "updatedAt": "2015-02-15T17:30:44Z"
+        },
+        {
+            "name": "DataScience-repo",
+            "description": "DataScience-repo",
+            "score": 0.061055693040875346,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rohittp/DataScience-repo",
+            "updatedAt": "2015-02-13T02:07:35Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Rohittp is a skilled developer with expertise in R programming, demonstrating a strong foundation in statistical analysis and data visualization. With a portfolio of 11 public repositories, rohittp showcases a commitment to active development and a passion for innovative problem-solving. As a dedicated professional, rohittp is focused on delivering high-quality solutions that meet the evolving needs of the industry. With a growing presence in the development community, rohittp is poised to make a significant impact through collaborative efforts and knowledge sharing.\n\nAs a talented R developer, rohittp brings a unique combination of technical expertise and creative thinking to the table. With a keen eye for detail and a talent for optimizing code, rohittp is well-equipped to tackle complex challenges and drive projects forward. With a strong understanding of industry trends and best practices, rohittp is committed to staying at the forefront of emerging technologies and methodologies. Through a relentless pursuit of excellence and a dedication to continuous learning, rohittp is establishing themselves as a trusted and reliable partner for businesses and organizations seeking expertise in R programming and data analysis."
+}

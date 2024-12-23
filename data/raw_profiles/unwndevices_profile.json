@@ -1,0 +1,121 @@
+{
+    "username": "unwndevices",
+    "name": "Ciro Caputo Viglione",
+    "bio": "",
+    "location": "Italy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58692249?u=a2ade06509066556d50afd1b426e974e09acb210&v=4",
+    "profile_url": "https://github.com/unwndevices",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Raiju",
+            "description": "Eurorack Percussive Synthesizer",
+            "score": 3.007944870922782,
+            "stars": 3,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/unwndevices/Raiju",
+            "updatedAt": "2024-02-08T05:37:21Z"
+        },
+        {
+            "name": "T16",
+            "description": "Topo T16, Midi Controller with magnetic switches",
+            "score": 1.6486684614991916,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/unwndevices/T16",
+            "updatedAt": "2024-12-03T14:58:31Z"
+        },
+        {
+            "name": "Ogami-Itto",
+            "description": null,
+            "score": 1.4541406419377048,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/unwndevices/Ogami-Itto",
+            "updatedAt": "2022-03-01T16:20:53Z"
+        },
+        {
+            "name": "eisei-landing",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/unwndevices/eisei-landing",
+            "updatedAt": "2024-10-05T19:44:40Z"
+        },
+        {
+            "name": "react-portfolio",
+            "description": null,
+            "score": 0.1655559322908945,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/unwndevices/react-portfolio",
+            "updatedAt": "2023-10-30T10:13:33Z"
+        },
+        {
+            "name": "eisei_oled",
+            "description": null,
+            "score": 0.15728606625990224,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/unwndevices/eisei_oled",
+            "updatedAt": "2023-06-16T17:49:39Z"
+        },
+        {
+            "name": "unknown-dark-vscode-theme",
+            "description": null,
+            "score": 0.07316242967576522,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/unwndevices/unknown-dark-vscode-theme",
+            "updatedAt": "2022-06-08T16:12:52Z"
+        },
+        {
+            "name": "raiju_FW",
+            "description": null,
+            "score": 0.07309357488603946,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/unwndevices/raiju_FW",
+            "updatedAt": "2022-06-02T17:23:38Z"
+        }
+    ],
+    "followers": 6,
+    "following": 3,
+    "public_repos": 21,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 49,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "unwndevices/T16": {
+            "link": "https://github.com/unwndevices/T16",
+            "summary": "Recent activities in the T16 repository include several push events focusing on bug fixes and improvements, such as a serial fix, adjusting the max brightness, and enhancements to hardware boot testing, with the most recent push occurring on December 3, 2024."
+        }
+    },
+    "profile_summary": "Ciro Caputo Viglione is a highly skilled software developer with a strong foundation in programming languages, including C++, C, and JavaScript. With a robust portfolio of 21 public repositories, he showcases his active involvement in development projects, demonstrating his ability to design, implement, and maintain complex software systems. As a respected member of the development community, he has garnered a following of 6 professionals, underscoring his influence and reputation among peers. His expertise in C++ and C enables him to build high-performance applications, while his proficiency in JavaScript facilitates the creation of dynamic web applications.\n\nAs a seasoned developer, Ciro Caputo Viglione brings a unique combination of technical expertise and innovative thinking to the table. With a keen eye for detail and a passion for solving complex problems, he delivers high-quality solutions that meet and exceed expectations. His strong technical skills, combined with his collaborative approach and commitment to excellence, make him a valuable asset to any development team. Whether he is working on a cutting-edge project or contributing to open-source initiatives, Ciro Caputo Viglione consistently demonstrates his expertise and dedication to the field, solidifying his position as a trusted and accomplished software developer."
+}

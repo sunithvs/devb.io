@@ -1,0 +1,133 @@
+{
+    "username": "sukicz",
+    "name": "Jakub Boukal",
+    "bio": "",
+    "location": "Prague",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7142785?u=cf69b9525094e57d6ef8249fc7e33870b0b65606&v=4",
+    "profile_url": "https://github.com/SukiCZ",
+    "top_languages": [
+        [
+            "Rust",
+            2
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "SCSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SukiCZ.github.io",
+            "description": "Just another static website",
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SukiCZ/SukiCZ.github.io",
+            "updatedAt": "2024-12-05T03:15:01Z"
+        },
+        {
+            "name": "runserver",
+            "description": "Multi-threaded web server in Rust",
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/SukiCZ/runserver",
+            "updatedAt": "2024-11-23T01:11:10Z"
+        },
+        {
+            "name": "UpptimeRobot",
+            "description": "UptimeRobot powered by Upptime",
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "Markdown",
+            "url": "https://github.com/SukiCZ/UpptimeRobot",
+            "updatedAt": "2024-12-23T00:03:32Z"
+        },
+        {
+            "name": "rugrep",
+            "description": "grep in Rust",
+            "score": 0.3210046961141753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/SukiCZ/rugrep",
+            "updatedAt": "2024-10-02T07:18:43Z"
+        },
+        {
+            "name": "marnost",
+            "description": "Webov\u00e9 str\u00e1nky pro Karneval Marnosti 2024",
+            "score": 0.2655349337348481,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/SukiCZ/marnost",
+            "updatedAt": "2024-05-25T12:12:59Z"
+        },
+        {
+            "name": "swag-ares-config",
+            "description": "Configuration files of \"Python client for ARES with Swag\"",
+            "score": 0.26118738766922667,
+            "stars": 0,
+            "forks": 0,
+            "language": "Mustache",
+            "url": "https://github.com/SukiCZ/swag-ares-config",
+            "updatedAt": "2024-02-15T20:58:20Z"
+        },
+        {
+            "name": "koledy",
+            "description": "Koledy jednodu\u0161e",
+            "score": 0.2542417113560766,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/SukiCZ/koledy",
+            "updatedAt": "2023-12-24T15:45:44Z"
+        },
+        {
+            "name": "SukiCZ",
+            "description": null,
+            "score": 0.2531963593899222,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SukiCZ/SukiCZ",
+            "updatedAt": "2024-12-11T21:10:15Z"
+        }
+    ],
+    "followers": 17,
+    "following": 23,
+    "public_repos": 47,
+    "pull_requests_merged": 93,
+    "issues_closed": 30,
+    "achievements": {
+        "total_contributions": 1101,
+        "repositories_contributed_to": 23
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "NajadaGames/Upptime": {
+            "link": "https://github.com/NajadaGames/Upptime",
+            "summary": "Recent activities on NajadaGames/Upptime include updates to the summary in README, status summaries, and graphs, as well as checks on the status of various components, such as Najada FE and BE, and Magic Card Buyer FE and BE, with the most recent update on December 23, 2024."
+        },
+        "SukiCZ/UpptimeRobot": {
+            "link": "https://github.com/SukiCZ/UpptimeRobot",
+            "summary": "Recent activities on SukiCZ/UpptimeRobot involve updates to the summary in README, status summaries, and graphs, in addition to monitoring the status of services like MH Clinic, Chameleon, and Barr\u00e9, with the latest update on December 23, 2024."
+        },
+        "Web3IDE/upptime": {
+            "link": "https://github.com/Web3IDE/upptime",
+            "summary": "Web3IDE/upptime has seen recent activities including updates to graphs, summaries in README, and status summaries, as well as checks on the status of Web3 IDE and its API, with the most recent update occurring on December 23, 2024."
+        },
+        "SukiCZ/boardgamegeek": {
+            "link": "https://github.com/SukiCZ/boardgamegeek",
+            "summary": "Recent activities on SukiCZ/boardgamegeek include a push event on December 20, 2024, which involved bumping the version of pypa/gh-action-pypi-publish from 1.12.2 to 1.12.3 and merging a related pull request."
+        }
+    },
+    "profile_summary": "Jakub Boukal is a highly skilled developer with a strong proficiency in Rust, Python, and SCSS, bringing a unique combination of technical expertise and innovative problem-solving skills to the table. With a growing professional network of 17 followers, he has established himself as a reliable and influential figure in the development community. His impressive portfolio of 47 public repositories showcases his active engagement in various projects, demonstrating his ability to deliver high-quality solutions and collaborate effectively with others. As a seasoned developer, Jakub Boukal possesses a deep understanding of software development principles, enabling him to design, develop, and deploy scalable and efficient applications.\n\nWith a keen eye for detail and a passion for staying up-to-date with the latest industry trends, Jakub Boukal is well-versed in leveraging his technical skills to drive business growth and improve overall system performance. His expertise in Rust, Python, and SCSS allows him to tackle complex projects with confidence, delivering tailored solutions that meet the specific needs of his clients. As a dedicated and results-driven professional, Jakub Boukal is committed to delivering exceptional results, fostering a culture of innovation, and driving technical excellence in all his endeavors, making him an invaluable asset to any organization seeking a skilled and motivated developer to drive their technical initiatives forward."
+}

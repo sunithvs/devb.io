@@ -1,0 +1,71 @@
+{
+    "username": "zaranip",
+    "name": "Zara Nip",
+    "bio": "A fly is a fly because a fly can fly.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/112828270?u=72d9e3ee93a5e466121c945ac564a8a6051a8678&v=4",
+    "profile_url": "https://github.com/zaranip",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Chicago-Trading-Competition-2024",
+            "description": null,
+            "score": 2.6939477763702646,
+            "stars": 1,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/zaranip/Chicago-Trading-Competition-2024",
+            "updatedAt": "2024-06-16T13:13:07Z"
+        },
+        {
+            "name": "AIdio",
+            "description": "2022 HackUMass Project",
+            "score": 2.347711606722123,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/zaranip/AIdio",
+            "updatedAt": "2023-02-09T14:27:52Z"
+        },
+        {
+            "name": "Health-Insurance",
+            "description": null,
+            "score": 0.23208930270212316,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/zaranip/Health-Insurance",
+            "updatedAt": "2024-01-11T20:01:05Z"
+        },
+        {
+            "name": "zaranip",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.22273065328002756,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/zaranip/zaranip",
+            "updatedAt": "2024-04-01T15:56:51Z"
+        }
+    ],
+    "followers": 6,
+    "following": 8,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 128,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "profile_summary": "Zara Nip is a skilled developer with strong expertise in Python and Jupyter Notebook, delivering high-quality solutions that showcase technical prowess and innovative thinking. With a growing professional network of 6 followers, Zara has established a reputation as a reliable and knowledgeable expert in the field, demonstrating influence and thought leadership through active engagement and collaboration. A creative problem solver with a unique perspective, Zara's approach to development is guided by the mantra \"a fly is a fly because a fly can fly,\" reflecting a commitment to simplicity, elegance, and effective solutions.\n\nAs a prolific developer with 9 public repositories, Zara has consistently demonstrated a passion for coding and a dedication to ongoing learning and growth. With a focus on leveraging Python and Jupyter Notebook to drive innovation and improvement, Zara's work showcases a deep understanding of industry-relevant technologies and a talent for applying technical skills to real-world challenges. By combining technical expertise with a collaborative mindset and a passion for creative problem-solving, Zara Nip has established herself as a high-performing, innovative professional in the field of software development, poised to make a lasting impact through her work and contributions to the developer community."
+}

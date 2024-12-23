@@ -1,0 +1,115 @@
+{
+    "username": "abhigk",
+    "name": "Abhi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/9884510?u=cd14754a522b9ad3b88ae5654bfab4b0e491cfd2&v=4",
+    "profile_url": "https://github.com/abhigk",
+    "top_languages": [
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kross-react",
+            "description": null,
+            "score": 2.3317798172662325,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhigk/kross-react",
+            "updatedAt": "2023-03-08T23:05:14Z"
+        },
+        {
+            "name": "teamex",
+            "description": null,
+            "score": 2.3317691018644524,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhigk/teamex",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        },
+        {
+            "name": "coderadio-desktop-client",
+            "description": null,
+            "score": 2.331514320444521,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhigk/coderadio-desktop-client",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        },
+        {
+            "name": "LiftUp",
+            "description": null,
+            "score": 2.3310995837084967,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhigk/LiftUp",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        },
+        {
+            "name": "smart-waste-management",
+            "description": null,
+            "score": 2.3291296456466317,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhigk/smart-waste-management",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        },
+        {
+            "name": "Ozfooty",
+            "description": null,
+            "score": 2.3285307004350875,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/abhigk/Ozfooty",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        },
+        {
+            "name": "Cpgr",
+            "description": "C Program pratice",
+            "score": 2.3224198117950103,
+            "stars": 2,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/abhigk/Cpgr",
+            "updatedAt": "2023-03-08T23:05:14Z"
+        },
+        {
+            "name": "extreme-cell-simulator",
+            "description": null,
+            "score": 1.531333934338128,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abhigk/extreme-cell-simulator",
+            "updatedAt": "2023-03-08T23:05:13Z"
+        }
+    ],
+    "followers": 2,
+    "following": 10,
+    "public_repos": 33,
+    "pull_requests_merged": 6,
+    "issues_closed": 9,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Abhi is a highly skilled and accomplished developer with a strong proficiency in JavaScript, TypeScript, and C++. With a solid background in programming, Abhi has built a reputation as a creative problem solver and innovative thinker, consistently delivering high-quality solutions that meet and exceed expectations. As a dedicated professional with a growing network of peers and a portfolio of 33 public repositories, Abhi has established themselves as a reliable and knowledgeable expert in their field, with a unique ability to bridge technical complexity with practical, real-world applications.\n\nAs a seasoned developer with a keen eye for detail and a passion for staying up-to-date with the latest industry trends and advancements, Abhi is well-versed in a range of cutting-edge technologies and methodologies. With a strong focus on collaboration and knowledge-sharing, Abhi has attracted a loyal following of 2 peers who appreciate their technical expertise and willingness to help others. By combining technical expertise with excellent communication skills and a collaborative mindset, Abhi is able to drive projects forward with confidence and precision, making them a valuable asset to any development team and a sought-after partner for businesses and organizations seeking innovative, effective solutions to complex technical challenges."
+}

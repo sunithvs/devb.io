@@ -1,0 +1,115 @@
+{
+    "username": "mhase",
+    "name": "Maciej Syku\u0142a",
+    "bio": "https://github.com/theviewsource\r\nmaciek.sykula@gmail.com",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/11634131?u=6968ea8fc0bb074648a266dc22927e082bcab194&v=4",
+    "profile_url": "https://github.com/MHase",
+    "top_languages": [
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Game",
+            "description": "Game created using RealTutsGML's tutorials on YT.",
+            "score": 3.359422400444507,
+            "stars": 2,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/MHase/Game",
+            "updatedAt": "2023-03-07T08:40:38Z"
+        },
+        {
+            "name": "netguru_frontend_junior",
+            "description": "radio widget developed in free time",
+            "score": 2.323613961807664,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/netguru_frontend_junior",
+            "updatedAt": "2023-03-07T08:40:38Z"
+        },
+        {
+            "name": "form-generator",
+            "description": null,
+            "score": 1.5189937371125741,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MHase/form-generator",
+            "updatedAt": "2023-03-07T08:40:37Z"
+        },
+        {
+            "name": "chatterbox",
+            "description": "A location-based chat room web application",
+            "score": 1.5158724980649034,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/chatterbox",
+            "updatedAt": "2023-03-07T08:40:37Z"
+        },
+        {
+            "name": "react-native-sandbox",
+            "description": "React Native project from CRNA with random components for testing purpose",
+            "score": 1.5156796184970347,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/react-native-sandbox",
+            "updatedAt": "2023-03-07T08:40:38Z"
+        },
+        {
+            "name": "rogue-dungeon-backend",
+            "description": null,
+            "score": 1.5156208290177295,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/rogue-dungeon-backend",
+            "updatedAt": "2023-03-07T08:40:37Z"
+        },
+        {
+            "name": "rogue-dungeon-front",
+            "description": null,
+            "score": 1.5156208290177295,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/rogue-dungeon-front",
+            "updatedAt": "2023-03-07T08:40:37Z"
+        },
+        {
+            "name": "rogue-dungeon",
+            "description": null,
+            "score": 1.514217029750217,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MHase/rogue-dungeon",
+            "updatedAt": "2023-03-07T08:40:38Z"
+        }
+    ],
+    "followers": 15,
+    "following": 5,
+    "public_repos": 37,
+    "pull_requests_merged": 86,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 1927,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "profile_summary": "Maciej Syku\u0142a is a highly skilled software developer with a strong background in programming languages such as JavaScript, TypeScript, and Java. With a solid foundation in computer science and a keen interest in innovative technologies, Maciej has established himself as a reliable and proficient developer in his field. His professional network, comprising 15 followers, is a testament to his influence and reputation within the development community. Maciej's active involvement in GitHub, with 37 public repositories, demonstrates his dedication to collaborative development and open-source software.\n\nAs a seasoned developer, Maciej possesses a unique ability to design, develop, and deploy high-quality software solutions that meet the needs of his clients. His expertise in JavaScript, TypeScript, and Java enables him to tackle complex projects with ease, making him a valuable asset to any development team. With a strong online presence, including his GitHub profile and email address, maciek.sykula@gmail.com, Maciej is easily accessible to potential collaborators and clients. His commitment to staying up-to-date with the latest technologies and trends ensures that his skills remain relevant and in-demand, positioning him as a high-performing and innovative professional in the software development industry."
+}

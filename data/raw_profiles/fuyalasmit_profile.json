@@ -1,0 +1,146 @@
+{
+    "username": "fuyalasmit",
+    "name": "Asmit Phuyal",
+    "bio": "",
+    "location": "Kathmandu, Nepal",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91250300?u=e9c58d9419a30f167f8ca47ea2ddd289cfc62c16&v=4",
+    "profile_url": "https://github.com/fuyalasmit",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "text-to-own-handwriting",
+            "description": "This is a free online tool that transforms digital text into realistic handwritten text. Users can customize fonts, colors, and paper styles, then generate and download their handwritten text as images or compile multiple pages into a PDF.",
+            "score": 2.760192346695854,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/fuyalasmit/text-to-own-handwriting",
+            "updatedAt": "2024-12-13T13:14:00Z"
+        },
+        {
+            "name": "4th-Sem-Labs",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/fuyalasmit/4th-Sem-Labs",
+            "updatedAt": "2024-12-23T03:29:57Z"
+        },
+        {
+            "name": "fuyalasmit",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/fuyalasmit/fuyalasmit",
+            "updatedAt": "2024-12-05T14:44:47Z"
+        },
+        {
+            "name": "Learning-Management-System",
+            "description": "LMS Project going on.",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fuyalasmit/Learning-Management-System",
+            "updatedAt": "2024-12-20T07:54:13Z"
+        },
+        {
+            "name": "Product-Store",
+            "description": "A full-stack Product Store app built using the MERN stack",
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fuyalasmit/Product-Store",
+            "updatedAt": "2024-11-24T15:18:26Z"
+        },
+        {
+            "name": "Modern-Task-Manager",
+            "description": "Modern To-Do List App using React, Tailwind CSS, and LocalStorage.",
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fuyalasmit/Modern-Task-Manager",
+            "updatedAt": "2024-11-24T14:16:37Z"
+        },
+        {
+            "name": "Employee-Management-System",
+            "description": "A React-based application for managing employees and their tasks using local storage.",
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fuyalasmit/Employee-Management-System",
+            "updatedAt": "2024-11-07T03:25:43Z"
+        },
+        {
+            "name": "OOP-Lab-IOE",
+            "description": "Contains OOP lab questions and its solutions, also the things to print for lab.",
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/fuyalasmit/OOP-Lab-IOE",
+            "updatedAt": "2024-10-03T14:13:16Z"
+        }
+    ],
+    "followers": 12,
+    "following": 28,
+    "public_repos": 19,
+    "pull_requests_merged": 6,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 394,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/fuyalasmit/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/asmlogs"
+        }
+    ],
+    "activity_summary": {
+        "Learning-Management-System": {
+            "link": "https://github.com/fuyalasmit/Learning-Management-System",
+            "summary": "Recent activities in the Learning-Management-System repository have focused on enhancing the course management functionality. Updates include making the edit course feature functional, creating a course API through the frontend, and adding a course page. Additionally, changes to the course table and improvements to the gitignore file have been made to improve the overall repository health."
+        },
+        "4th-Sem-Labs": {
+            "link": "https://github.com/fuyalasmit/4th-Sem-Labs",
+            "summary": "The 4th-Sem-Labs repository has seen recent activity with multiple push events related to lab assignments. The focus has been on lab 2 and lab 3, with multiple updates and improvements made to these assignments, indicating ongoing work and progress in the repository."
+        },
+        "website": {
+            "link": "https://github.com/fuyalasmit/website",
+            "summary": "In the website repository, recent activities have centered around improving the FAQ section. Updates include adding conditionals to the FAQ section to handle empty data and fixing the accordion feature, which enhances the user experience by providing a more robust and dynamic FAQ display."
+        },
+        "text-to-own-handwriting": {
+            "link": "https://github.com/fuyalasmit/text-to-own-handwriting",
+            "summary": "The text-to-own-handwriting repository has addressed a significant issue with a recent push event and pull request. The fix resolves a problem where pasted text retained unwanted background styles, ensuring that only plain text is pasted, thus improving the functionality and usability of the project."
+        },
+        "GNOME-Nepal/website": {
+            "link": "https://github.com/GNOME-Nepal/website",
+            "summary": "The GNOME-Nepal/website repository has seen a notable pull request aimed at fixing an issue in the FAQ section. The solution involves adding conditionals to handle cases where the FAQ data is empty, thereby improving the user experience by displaying a helpful message instead of empty placeholder boxes."
+        }
+    },
+    "profile_summary": "Asmit Phuyal is a skilled and accomplished developer with a strong foundation in programming languages such as C++, C, and JavaScript. With a portfolio of 19 public repositories, Asmit has demonstrated a commitment to active development and a passion for creating innovative solutions. Asmit's technical expertise is complemented by a growing professional network, with 12 followers who recognize their value and expertise in the field. As a proficient coder, Asmit is well-versed in designing, developing, and deploying software applications that meet the highest standards of quality and reliability.\n\nAsmit's unique blend of technical skills and professional achievements makes them a valuable asset to any development team. With a focus on delivering high-quality results and a dedication to staying up-to-date with the latest industry trends, Asmit is a reliable and forward-thinking developer who can drive projects forward with confidence and precision. By leveraging their expertise in C++, C, and JavaScript, Asmit can tackle complex software development challenges and create cutting-edge solutions that meet the needs of clients and users alike. With a strong online presence and a growing reputation as a talented and innovative developer, Asmit Phuyal is an exceptional professional who can bring significant value to any organization."
+}

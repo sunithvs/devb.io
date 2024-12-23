@@ -1,0 +1,130 @@
+{
+    "username": "kiranmurali93",
+    "name": "KIRAN",
+    "bio": "",
+    "location": "Noida - NCR",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44119868?u=c51c33231ecf9ac1e5240993819d79f6bb453fc8&v=4",
+    "profile_url": "https://github.com/kiranmurali93",
+    "top_languages": [
+        [
+            "Go",
+            2
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "Elixir",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSC-CUSAT",
+            "description": "Website for Developer students club cusat",
+            "score": 4.677418788675059,
+            "stars": 2,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/DSC-CUSAT",
+            "updatedAt": "2021-10-07T15:34:45Z"
+        },
+        {
+            "name": "hacktoberfest",
+            "description": "hello",
+            "score": 2.9850938175488357,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/hacktoberfest",
+            "updatedAt": "2020-10-04T16:23:45Z"
+        },
+        {
+            "name": "my_webdevelopment-project",
+            "description": "this project is to learn web development",
+            "score": 2.9839327553002883,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/my_webdevelopment-project",
+            "updatedAt": "2020-10-01T03:44:54Z"
+        },
+        {
+            "name": "pyopengl_lab",
+            "description": null,
+            "score": 2.4937978811193378,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/pyopengl_lab",
+            "updatedAt": "2021-10-26T15:05:55Z"
+        },
+        {
+            "name": "greyatom-python-for-data-science",
+            "description": "A collection of projects as part of the Python for Data Science program at GreyAtom EduTech Pvt Ltd",
+            "score": 2.4933465513423494,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/greyatom-python-for-data-science",
+            "updatedAt": "2020-06-25T14:54:21Z"
+        },
+        {
+            "name": "analyzing-movie-dataset",
+            "description": "Analyzing movie dataset using Python Fundamentals",
+            "score": 1.4536854316293517,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/analyzing-movie-dataset",
+            "updatedAt": "2020-06-07T16:27:27Z"
+        },
+        {
+            "name": "youtube-test",
+            "description": "test repo",
+            "score": 1.1082603367398687,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/youtube-test",
+            "updatedAt": "2020-12-12T19:23:31Z"
+        },
+        {
+            "name": "instaclone",
+            "description": null,
+            "score": 1.1078509822400004,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/kiranmurali93/instaclone",
+            "updatedAt": "2020-10-17T15:03:48Z"
+        }
+    ],
+    "followers": 75,
+    "following": 106,
+    "public_repos": 68,
+    "pull_requests_merged": 74,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 1500,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/kiran-p-k"
+        }
+    ],
+    "activity_summary": {
+        "kiranmurali93/elixir-llm-coms": {
+            "link": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "summary": "Recent activities in this repository include a hotfix to allow the frontend production URL for CORS and utilize environment variables during runtime. Additionally, new files were added from a Fly.io launch, and a pull request was merged to incorporate Fly.io launch configuration files, enhancing the project's configuration and setup."
+        },
+        "kiranmurali93/react-rust-wasm": {
+            "link": "https://github.com/kiranmurali93/react-rust-wasm",
+            "summary": "The repository has seen significant updates, including the completion of the calculator tab, which involved adding UI for two tabs, integrating Rust and WebAssembly calculations, and incorporating a bot. Further updates include adding environment variables to the Docker file and Fly.toml, demonstrating ongoing development and refinement of the project's features and infrastructure."
+        }
+    },
+    "profile_summary": "KIRAN is a highly skilled software developer with a strong focus on Go, JavaScript, and Elixir programming languages. With a solid foundation in computer science and a keen interest in innovative technologies, KIRAN has established a reputation as a reliable and results-driven professional in the field of software development. As a seasoned developer with a large and active network of peers, KIRAN has built a strong online presence with 75 followers and an impressive portfolio of 68 public repositories, showcasing a commitment to collaboration, open-source development, and community engagement.\n\nAs a skilled programmer with expertise in multiple programming languages, KIRAN is well-equipped to handle complex software development projects from concept to deployment. With a strong understanding of industry trends and emerging technologies, KIRAN is dedicated to delivering high-quality solutions that meet the needs of modern businesses and organizations. By leveraging a unique blend of technical expertise, creativity, and problem-solving skills, KIRAN is able to drive innovation and excellence in software development, making them a valuable asset to any team or project. With a passion for learning and a commitment to staying up-to-date with the latest technologies, KIRAN continues to grow and evolve as a professional, always striving to improve and expand their skill set."
+}

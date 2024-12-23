@@ -1,0 +1,138 @@
+{
+    "username": "ranork",
+    "name": "Emir O\u011eUZ",
+    "bio": "Co-Founder of DEBI Assistant by Akatron",
+    "location": "\u0130zmir",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16599966?u=0e02b9580ea3be8ed9a05129e436b2035d21bebd&v=4",
+    "profile_url": "https://github.com/Ranork",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "C#",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Auto-Linkedin",
+            "description": "Unoffical Linkedin Client NPM Package (Developed with Puppeteer)",
+            "score": 8.627839322343592,
+            "stars": 22,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Auto-Linkedin",
+            "updatedAt": "2024-11-18T20:08:01Z"
+        },
+        {
+            "name": "Pomotro",
+            "description": "Pomodoro timer mini for desktop!",
+            "score": 3.822715680133961,
+            "stars": 5,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Pomotro",
+            "updatedAt": "2024-08-27T15:11:13Z"
+        },
+        {
+            "name": "Auto-Linkedin-App",
+            "description": "(WIP) Auto Linkedin desktop app",
+            "score": 3.1035246459334216,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ranork/Auto-Linkedin-App",
+            "updatedAt": "2024-10-22T12:38:17Z"
+        },
+        {
+            "name": "5-Axis-Robotic-Arm-Kinematics",
+            "description": "5 Axis Robotic Arm Forward and Inverse Kinematics",
+            "score": 2.4949543817490234,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Ranork/5-Axis-Robotic-Arm-Kinematics",
+            "updatedAt": "2021-04-04T20:21:20Z"
+        },
+        {
+            "name": "Trina-n-Muhasebe",
+            "description": "Trina \u00d6n Muhasebe Program\u0131",
+            "score": 2.335062741025732,
+            "stars": 2,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Ranork/Trina-n-Muhasebe",
+            "updatedAt": "2023-11-26T05:50:35Z"
+        },
+        {
+            "name": "Auto-Instagram",
+            "description": "Instagram Automation with NodeJS and Puppeteer",
+            "score": 1.6675767722408996,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Auto-Instagram",
+            "updatedAt": "2024-06-02T17:33:13Z"
+        },
+        {
+            "name": "Swagger-GPT",
+            "description": "Swagger auto configuration with Chat GPT (NodeJS)",
+            "score": 1.6262953118208925,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Swagger-GPT",
+            "updatedAt": "2024-07-12T09:58:14Z"
+        },
+        {
+            "name": "Arduino-Serial-Comunication-With-C-",
+            "description": "Arduino serial comunucation tests from visual c#",
+            "score": 1.455213442964647,
+            "stars": 1,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Ranork/Arduino-Serial-Comunication-With-C-",
+            "updatedAt": "2021-04-04T20:21:21Z"
+        }
+    ],
+    "followers": 8,
+    "following": 6,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 309,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/EmirrOguz"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/emir-oguzz/"
+        },
+        {
+            "provider": "npm",
+            "url": "https://www.npmjs.com/~ranork"
+        }
+    ],
+    "activity_summary": {
+        "Ranork/Auto-Linkedin": {
+            "link": "https://github.com/Ranork/Auto-Linkedin",
+            "summary": "Recent activities include additions of custom cookies support, allowing for external cookie usage with the LinkedIn client, improvements to the client's logging functionality, introduction of a getMyProfile method for the LinkedIn object, and updates to the profile picture handling. These changes aim to enhance the flexibility and usability of the repository, addressing authentication and profile management aspects."
+        },
+        "Ranork/Auto-Linkedin-App": {
+            "link": "https://github.com/Ranork/Auto-Linkedin-App",
+            "summary": "The repository has seen an update related to external links, indicating ongoing development or refinement of its external linkage or interaction capabilities."
+        }
+    },
+    "profile_summary": "Emir O\u011eUZ is a highly skilled developer with a strong foundation in programming languages such as JavaScript, Python, and C#. As a co-founder of DEBI Assistant by Akatron, he brings a unique blend of technical expertise and entrepreneurial spirit to the table. With a growing professional network of 8 followers and an impressive portfolio of 17 public repositories, Emir has established himself as a reliable and innovative developer in the industry. His expertise in JavaScript, Python, and C# enables him to tackle complex projects with ease, making him a valuable asset to any development team.\n\nAs a seasoned developer, Emir O\u011eUZ is committed to delivering high-quality solutions that meet the evolving needs of the tech industry. With his strong technical skills and passion for innovation, he is well-equipped to handle a wide range of projects, from web development to software engineering. Emir's experience as a co-founder has also given him a unique perspective on the importance of collaboration, communication, and problem-solving in the development process. By leveraging his technical expertise and industry knowledge, Emir continues to drive innovation and excellence in the field of software development, making him a highly sought-after professional in the industry."
+}

@@ -1,0 +1,125 @@
+{
+    "username": "kanyantam",
+    "name": "Kanyanta M. Makasa",
+    "bio": "Software Developer with specialization in mobile apps and Django backend",
+    "location": "Lusaka, Zambia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/60268910?u=6ffa4f1254617b306593650fccc7cfba4353cace&v=4",
+    "profile_url": "https://github.com/KanyantaM",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Dart",
+            7
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "reviza",
+            "description": "ReviZa is designed to facilitate seamless collaboration among students, enabling them to share study materials such as past papers and school notes. The app also features a Gemini Pro-powered chatbot for quick assistance with study-related questions.",
+            "score": 5.229713724443631,
+            "stars": 11,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/KanyantaM/reviza",
+            "updatedAt": "2024-12-21T19:59:21Z"
+        },
+        {
+            "name": "portfolio",
+            "description": "Django Portfolio Website This project is a personal portfolio website built using Django. The UI design is sourced from BootstrapMade.com, while the backend and dynamic functionality are fully implemented by me. The admin panel allows for easy customization of the website. ",
+            "score": 3.067067238238156,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/KanyantaM/portfolio",
+            "updatedAt": "2024-12-10T13:40:41Z"
+        },
+        {
+            "name": "ar_view",
+            "description": "A Flutter package for augmented reality with camera integration.",
+            "score": 1.7443190892564362,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/KanyantaM/ar_view",
+            "updatedAt": "2024-10-18T22:14:37Z"
+        },
+        {
+            "name": "pawa_pay_flutter",
+            "description": "This package allows African Flutter developers to easily add mobile money payments to their Flutter apps using PawaPay's API. Future releases will include support for more African countries.",
+            "score": 1.6793779510923623,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/KanyantaM/pawa_pay_flutter",
+            "updatedAt": "2024-09-29T22:20:29Z"
+        },
+        {
+            "name": "Financial-Inclusion-Hackathon",
+            "description": "My solution to the Zambia Machine Learning hackathon held on 22/05/2020",
+            "score": 1.4559537588291123,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/KanyantaM/Financial-Inclusion-Hackathon",
+            "updatedAt": "2021-05-27T20:50:41Z"
+        },
+        {
+            "name": "final-year-project",
+            "description": "Final year project on predicting the impact of EVC's on low distribution networks",
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/KanyantaM/final-year-project",
+            "updatedAt": "2024-11-02T11:10:29Z"
+        },
+        {
+            "name": "receipt_reader",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/KanyantaM/receipt_reader",
+            "updatedAt": "2024-12-06T07:57:32Z"
+        },
+        {
+            "name": "form-bloc",
+            "description": "A simple flutter app that uses chaching local sotrage and cloud storage",
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/KanyantaM/form-bloc",
+            "updatedAt": "2024-09-21T17:29:06Z"
+        }
+    ],
+    "followers": 8,
+    "following": 17,
+    "public_repos": 22,
+    "pull_requests_merged": 24,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 3045,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Its_Kanyanta"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/kanyanta-makasa/"
+        }
+    ],
+    "activity_summary": {},
+    "profile_summary": "Kanyanta M. Makasa is a highly skilled software developer with a strong specialization in mobile app development and Django backend, utilizing programming languages such as C++, Dart, and Jupyter Notebook. With a strong foundation in software development, Kanyanta has established a professional network of peers and has made significant contributions to the open-source community, with 22 public repositories and 8 followers. As a seasoned developer, Kanyanta brings a unique blend of technical expertise and innovative thinking to the table, making him a valuable asset to any development team.\n\nAs a dedicated and results-driven professional, Kanyanta is committed to delivering high-quality solutions that meet and exceed client expectations. With a strong focus on mobile app development and backend engineering, Kanyanta has developed a distinctive value proposition that sets him apart from other developers in the field. By leveraging his technical skills and expertise, Kanyanta is able to craft innovative and effective solutions that drive business growth and success, making him an ideal collaborator for companies seeking to enhance their digital presence and capabilities. With his exceptional technical prowess and passion for software development, Kanyanta is poised to continue making significant contributions to the industry."
+}

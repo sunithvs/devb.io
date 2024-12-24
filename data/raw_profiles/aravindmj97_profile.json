@@ -1,0 +1,120 @@
+{
+    "username": "aravindmj97",
+    "name": "ARAVIND MJ",
+    "bio": "JavaScript Developer,\r\nAndroid Enthusiast\r\nSAPUI5 & ABAP",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/18099367?u=7572e5be744ac1e467d71ff8edbc1490c724e483&v=4",
+    "profile_url": "https://github.com/aravindmj97",
+    "top_languages": [
+        [
+            "Java",
+            14
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DynamicWalls",
+            "description": "A Wallpaper App that fetches Random High Quality images from Free APIs provided by Unsplash, Pexel, Pixabay in regular intervals",
+            "score": 2.5552466183247446,
+            "stars": 1,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/aravindmj97/DynamicWalls",
+            "updatedAt": "2023-11-15T13:41:27Z"
+        },
+        {
+            "name": "HeartRate-From-MiBand3",
+            "description": "A PoC for reading heart-rate information from MiBand3",
+            "score": 1.4535719810848973,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/aravindmj97/HeartRate-From-MiBand3",
+            "updatedAt": "2021-08-21T19:26:14Z"
+        },
+        {
+            "name": "DataBaseApp_SQLite",
+            "description": "This is my fisrt app with SQLite database.",
+            "score": 1.4497487958130613,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/aravindmj97/DataBaseApp_SQLite",
+            "updatedAt": "2020-06-21T15:56:27Z"
+        },
+        {
+            "name": "covid-19-India-Stat",
+            "description": "A Simple Website to populate data provided by covid19india.org",
+            "score": 1.1067715752382727,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/aravindmj97/covid-19-India-Stat",
+            "updatedAt": "2020-05-07T05:03:08Z"
+        },
+        {
+            "name": "miniproject2017",
+            "description": null,
+            "score": 1.1034681768586514,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/aravindmj97/miniproject2017",
+            "updatedAt": "2018-04-25T20:30:22Z"
+        },
+        {
+            "name": "Hand-Gesture-Based-On-Screen-Smart-Board",
+            "description": "Hand Gesture Based Drawing Board",
+            "score": 0.13981577316637864,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aravindmj97/Hand-Gesture-Based-On-Screen-Smart-Board",
+            "updatedAt": "2023-03-29T18:33:58Z"
+        },
+        {
+            "name": "aravindmj97.github.com",
+            "description": null,
+            "score": 0.13450174324803998,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aravindmj97/aravindmj97.github.com",
+            "updatedAt": "2023-07-19T20:01:52Z"
+        },
+        {
+            "name": "aravindmj97",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07503977825638221,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aravindmj97/aravindmj97",
+            "updatedAt": "2022-11-02T17:25:33Z"
+        }
+    ],
+    "followers": 9,
+    "following": 10,
+    "public_repos": 54,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aravind-mj/"
+        }
+    ],
+    "profile_summary": "Aravind MJ is a highly skilled and experienced software developer with a strong proficiency in Java, Python, and JavaScript. With a solid background in programming and a keen interest in Android development, he has established himself as a versatile and innovative professional in the tech industry. His expertise in SAPUI5 and ABAP further underscores his technical capabilities, making him a reliable and competent developer for a wide range of projects. As an active member of the development community, he has built a professional network of peers and followers who appreciate his technical insights and contributions.\n\nAs a developer with 54 public repositories to his credit, Aravind MJ has consistently demonstrated his ability to design, develop, and deploy high-quality software solutions. His commitment to staying up-to-date with the latest technologies and trends has enabled him to deliver innovative and effective solutions that meet the evolving needs of the industry. With a strong online presence and a growing network of 9 followers, he is well-positioned to collaborate with other professionals and contribute to the development of cutting-edge software applications. By leveraging his technical expertise and passion for programming, Aravind MJ continues to make a positive impact in the tech community and drive success in his projects."
+}

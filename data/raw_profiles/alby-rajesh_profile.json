@@ -1,0 +1,47 @@
+{
+    "username": "alby-rajesh",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/97757791?v=4",
+    "profile_url": "https://github.com/Alby-Rajesh",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MyCaptain-Python",
+            "description": "Python Programs",
+            "score": 0.07164201063217877,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Alby-Rajesh/MyCaptain-Python",
+            "updatedAt": "2022-01-15T15:56:06Z"
+        },
+        {
+            "name": "Alby-Rajesh",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07163245848006627,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Alby-Rajesh/Alby-Rajesh",
+            "updatedAt": "2022-01-14T18:32:56Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a highly skilled professional with a strong foundation in Python, a leading programming language used in a wide range of applications. With a growing network of peers and a track record of contributing to open-source projects, they have established themselves as a talented and dedicated member of the development community. Their work is showcased through two public repositories, demonstrating a commitment to transparency, collaboration, and continuous learning. As a result, they have garnered attention and respect from their peers, with a notable following that underscores their influence and reputation.\n\nWith a focus on delivering high-quality solutions and driving innovation, this developer brings a unique combination of technical expertise and creativity to the table. By leveraging their proficiency in Python and staying up-to-date with the latest industry trends and best practices, they are well-equipped to tackle complex challenges and develop cutting-edge solutions. As a reliable and forward-thinking professional, they are poised to make a meaningful impact in the world of software development, and their contributions are likely to resonate with a wide range of audiences, from fellow developers to industry leaders and beyond."
+}

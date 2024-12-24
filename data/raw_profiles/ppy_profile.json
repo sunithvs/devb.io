@@ -1,21 +1,21 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
+        "ppy/helm-charts": {
+            "link": "https://github.com/ppy/helm-charts",
+            "summary": "The ppy/helm-charts repository has seen recent activity with multiple push events, including updates to the index.yaml file, enhancements to storage RWX documentation, addition of probes configuration, and upgrades to the osu-beatmap-difficulty-lookup-cache subchart. Furthermore, there have been improvements to osu-web chart and updates to container ports."
+        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include several push and pull requests focused on implementing new features such as marking beatmaps as played, adding a 'Hidden' cursor state flag for better raw input handling on non-desktop platforms, and support for 'freestyle' in multiplayer. These updates aim to enhance user experience and functionality within the game, addressing issues and introducing new capabilities."
-        },
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "Activity involves a pull request to add support for locking screen orientation on iOS, which is intended for use in osu! during gameplay to provide a more consistent experience across different devices."
+            "summary": "The ppy/osu repository has experienced significant activity with push and pull request events, including the implementation of the ability to mark beatmaps as played, enabling seasonal features, and addressing community-reported issues. These updates aim to improve user experience and functionality within the osu platform."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "Recent updates include various push events that implement improvements such as requiring the multiplayer API to join rooms, adding event submission endpoints, introducing a leave team button, and enhancing TypeScript types for better code organization and clarity."
+            "summary": "The ppy/osu-web repository has undergone substantial updates with a recent push event, incorporating various features and fixes such as accounting for retina size team flags, adding submission-relevant events to the database, requiring multiplayer API to join rooms, and introducing a leave team button. These changes enhance the overall functionality and user interaction with osu-web."
         },
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Activity is centered around a pull request aimed at further cleaning up the 'Help centre/Beatmapping and editor' section, following up on previous cleanup efforts to maintain the wiki's quality and consistency."
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "The ppy/osu-framework repository has seen a pull request event aimed at adding support for locking screen orientation on iOS, a feature intended for use in osu to lock orientation during gameplay, thus improving the gaming experience on iOS devices."
         }
     },
     "profile_summary": null

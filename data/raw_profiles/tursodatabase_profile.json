@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include multiple push events focusing on code refactoring, with changes to functions such as cell_get_raw_pointer_region() and compute_free_space(). Additionally, a pull request was submitted to introduce support for multiple readers and a single writer with a custom lock called LimboRwLock, enhancing transaction handling capabilities."
+            "summary": "Recent activities include a pull request adding support for multiple readers and a single writer with a custom lock, along with several push events refactoring functions such as compute_free_space() and cell_get_raw_pointer_region(), and improving code formatting."
         }
     },
     "profile_summary": null

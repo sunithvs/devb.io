@@ -1,0 +1,130 @@
+{
+    "username": "imadibrahimk",
+    "name": "Imad Ibrahim ",
+    "bio": "Full Stack Developer",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/119976083?u=ab183330d45dfa223b3b4cc083f9458e4b82301b&v=4",
+    "profile_url": "https://github.com/imadibrahimk",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Swing-calculator",
+            "description": null,
+            "score": 2.3483412621336273,
+            "stars": 2,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/imadibrahimk/Swing-calculator",
+            "updatedAt": "2023-02-07T15:40:28Z"
+        },
+        {
+            "name": "thanos_snap",
+            "description": null,
+            "score": 1.6621270429895152,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/imadibrahimk/thanos_snap",
+            "updatedAt": "2024-05-09T05:13:13Z"
+        },
+        {
+            "name": "imadibrahimk",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6131532072912627,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/imadibrahimk/imadibrahimk",
+            "updatedAt": "2024-05-16T10:40:55Z"
+        },
+        {
+            "name": "StockSymbolScraper",
+            "description": "A web scraper for gathering stock names and symbols from Screener.in, saving the data into structured text and PDF formats.",
+            "score": 1.4175267439674673,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/imadibrahimk/StockSymbolScraper",
+            "updatedAt": "2024-11-01T13:23:51Z"
+        },
+        {
+            "name": "MongoDB-Autocomplete-Search",
+            "description": "A Node.js and MongoDB-based autocomplete search application. Uses an Express server to provide real-time suggestions from a MongoDB database as users type, showcasing efficient database querying and frontend integration.",
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/imadibrahimk/MongoDB-Autocomplete-Search",
+            "updatedAt": "2024-11-04T14:05:04Z"
+        },
+        {
+            "name": "RenderKeepAlive",
+            "description": " Deno-based server to periodically ping a Render app instance, preventing it from spinning down due to inactivity.",
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/imadibrahimk/RenderKeepAlive",
+            "updatedAt": "2024-11-08T10:20:28Z"
+        },
+        {
+            "name": "CrossSiteConnect",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/imadibrahimk/CrossSiteConnect",
+            "updatedAt": "2024-09-24T19:28:48Z"
+        },
+        {
+            "name": "tinkerspace",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/imadibrahimk/tinkerspace",
+            "updatedAt": "2024-09-21T12:11:27Z"
+        }
+    ],
+    "followers": 20,
+    "following": 31,
+    "public_repos": 30,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 389,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/imadibrahimk/"
+        }
+    ],
+    "activity_summary": {
+        "tinkerhub/tinkerspace_digital": {
+            "link": "https://github.com/tinkerhub/tinkerspace_digital",
+            "summary": "Recent activities in the tinkerhub/tinkerspace_digital repository include multiple updates and improvements, such as adding Lottie for Christmas, addressing build issues by installing missing Babel plugins, and updating React, React DOM, and React Slick to the latest versions. These updates and fixes demonstrate a commitment to maintaining and enhancing the repository's codebase."
+        },
+        "imadibrahimk/RenderKeepAlive": {
+            "link": "https://github.com/imadibrahimk/RenderKeepAlive",
+            "summary": "The imadibrahimk/RenderKeepAlive repository has seen recent activities focused on adjusting time intervals for pinging a health endpoint, with updates changing the interval to 5 minutes and further reducing it for testing purposes. These changes suggest efforts to optimize the repository's functionality and performance."
+        }
+    },
+    "profile_summary": "Imad Ibrahim is a highly skilled Full Stack Developer with a strong foundation in Python, JavaScript, and TypeScript. With a professional network of over 20 followers and a portfolio of 30 public repositories, he has established himself as a reliable and innovative developer in the industry. His technical expertise and ability to deliver high-quality solutions have earned him a reputation as a go-to expert in full stack development. Imad's proficiency in multiple programming languages enables him to tackle complex projects with ease, making him a valuable asset to any development team.\n\nAs a seasoned developer, Imad Ibrahim brings a unique combination of technical skills and professional experience to the table. His expertise in full stack development, coupled with his proficiency in JavaScript, TypeScript, and Python, makes him a versatile and highly sought-after professional. With a proven track record of delivering successful projects and a strong online presence, Imad is well-positioned to drive innovation and growth in the tech industry. His dedication to staying up-to-date with the latest industry trends and technologies ensures that his solutions are always cutting-edge and effective, making him an ideal partner for businesses and organizations seeking to leverage the power of technology to drive success."
+}

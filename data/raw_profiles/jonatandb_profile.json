@@ -1,0 +1,134 @@
+{
+    "username": "jonatandb",
+    "name": "Jonatandb",
+    "bio": "I \u2665 www.SpaceDashboard.com",
+    "location": "Gar\u00edn, Buenos Aires, Argentina.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8082172?u=a8a0c7bf0d3e6d716f4779783e3f7513ea70b4ec&v=4",
+    "profile_url": "https://github.com/Jonatandb",
+    "top_languages": [
+        [
+            "JavaScript",
+            62
+        ],
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "C++",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DotCSV-Juego-de-la-vida",
+            "description": "Mi versi\u00f3n del juego de la vida inspirada en la versi\u00f3n realizada por el autor del canal de Youtube -> DotCSV",
+            "score": 9.701157189109653,
+            "stars": 22,
+            "forks": 8,
+            "language": "Python",
+            "url": "https://github.com/Jonatandb/DotCSV-Juego-de-la-vida",
+            "updatedAt": "2023-07-10T17:54:14Z"
+        },
+        {
+            "name": "RestaurantPOS-NetMAUI",
+            "description": "Restaurant POS - .Net MAUI Windows App",
+            "score": 6.571591725644508,
+            "stars": 9,
+            "forks": 2,
+            "language": "C#",
+            "url": "https://github.com/Jonatandb/RestaurantPOS-NetMAUI",
+            "updatedAt": "2024-11-28T23:51:04Z"
+        },
+        {
+            "name": "python-flask-js-postgresql-crud",
+            "description": "Python Flask + JS + PostgreSQL - CRUD",
+            "score": 4.478083884735414,
+            "stars": 4,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Jonatandb/python-flask-js-postgresql-crud",
+            "updatedAt": "2024-10-26T08:42:26Z"
+        },
+        {
+            "name": "SmartExam",
+            "description": "This is a LLM app, using Streamlit and connecting to the GPT-4o-mini api to create interactive quizzes, based on university lectures",
+            "score": 4.461989322746318,
+            "stars": 0,
+            "forks": 15,
+            "language": null,
+            "url": "https://github.com/Jonatandb/SmartExam",
+            "updatedAt": "2024-08-06T01:58:34Z"
+        },
+        {
+            "name": "CursoUdemyReactJSReduxES6",
+            "description": "Mis notas del curso de Udemy: React JS + Redux + ES6. Completo \u00a1De 0 a experto! (espa\u00f1ol) - ",
+            "score": 3.946042165667942,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Jonatandb/CursoUdemyReactJSReduxES6",
+            "updatedAt": "2023-12-05T06:41:59Z"
+        },
+        {
+            "name": "Rotador-3D-React-Mediapipe",
+            "description": null,
+            "score": 3.549183780529484,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Jonatandb/Rotador-3D-React-Mediapipe",
+            "updatedAt": "2024-08-26T03:20:14Z"
+        },
+        {
+            "name": "breaking_bad_random_quotes",
+            "description": "Breaking bad random quotes",
+            "score": 3.3745967096868488,
+            "stars": 2,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/Jonatandb/breaking_bad_random_quotes",
+            "updatedAt": "2023-04-18T23:21:06Z"
+        },
+        {
+            "name": "LoginsAdmin-Xamarin-",
+            "description": "LoginsAdmin | Administrador de credenciales (Versi\u00f3n para Android con Xamarin.Forms)",
+            "score": 2.9736789289015473,
+            "stars": 3,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Jonatandb/LoginsAdmin-Xamarin-",
+            "updatedAt": "2024-03-13T18:47:14Z"
+        }
+    ],
+    "followers": 38,
+    "following": 44,
+    "public_repos": 288,
+    "pull_requests_merged": 4,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 1255,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/jonatandb"
+        }
+    ],
+    "activity_summary": {
+        "Jonatandb/Practicas_Assembler_ARMv7": {
+            "link": "https://github.com/Jonatandb/Practicas_Assembler_ARMv7",
+            "summary": "Recent activities include multiple push events with updates to comments, refactoring of code for calculating text length, and the addition of routines for writing to the console. Other updates include extractions of repeated code and the implementation of color-specific writing. The repository has seen significant updates, with a focus on code optimization and improvement."
+        },
+        "Jonatandb/Genesis": {
+            "link": "https://github.com/Jonatandb/Genesis",
+            "summary": "The repository has experienced significant activity, with a large push event that introduced various updates, including bug fixes, the addition of smoke tests, and updates to the CI pipeline. The event also included multiple merges of pull requests, which fixed minor typos, updated the README, and added new features such as support for submodules and improvements to the from_torch method."
+        },
+        "Jonatandb/awesome-for-beginners": {
+            "link": "https://github.com/Jonatandb/awesome-for-beginners",
+            "summary": "The repository has seen recent updates with the addition of new open-source projects and categories, such as H2O Wave apps, Kanister, OMRChecker, and Vite with JavaScript and TypeScript. The updates also include corrections to the data.json file and the addition of projects like Avo Admin, croma, and QuestDB to their respective lists, providing more resources for beginners to contribute to."
+        }
+    },
+    "profile_summary": "Jonatandb is a highly skilled developer with a strong foundation in programming languages such as JavaScript, TypeScript, and C++. With a large portfolio of 288 public repositories, he has consistently demonstrated his ability to design, develop, and deliver high-quality software solutions. His active engagement with the developer community has earned him a following of 38 professionals, highlighting his influence and reputation as a trusted and reliable expert in his field. Jonatandb's passion for innovation and technology is evident in his work, and his dedication to staying up-to-date with the latest industry trends and best practices has enabled him to drive success in his projects.\n\nAs a seasoned developer, Jonatandb brings a unique combination of technical expertise and creative vision to the table. His love for www.SpaceDashboard.com reflects his enthusiasm for exploring new frontiers in technology and pushing the boundaries of what is possible. With a strong focus on delivering exceptional results and exceeding expectations, Jonatandb has established himself as a go-to expert for complex software development projects. His commitment to quality, reliability, and innovation has earned him a reputation as a high-performing and innovative professional, and his contributions to the open-source community have made a significant impact on the industry as a whole."
+}

@@ -64,9 +64,7 @@
 
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
-        function log_custom_event(event_name, event_params) {
-            logEvent(analytics, event_name, event_params);
-        }
+
     </script>
     <style>
         @keyframes shimmer {
@@ -619,10 +617,6 @@ function renderErrorPage(error) {
     }
 </script>
 <script>
-        import {getAnalytics,logEvent} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
-               function log_custom_event(event_name, event_params) {
-            logEvent(analytics, event_name, event_params);
-        }
 
     function get_svg_x(mid, font_size, text) {
         return mid - (text.length * font_size / 4);
@@ -730,14 +724,6 @@ function renderErrorPage(error) {
             const url = URL.createObjectURL(blob);
             const pathParts = window.location.pathname.split('/').filter(part => part);
             const username = pathParts[pathParts.length - 1];
-            try {
-                log_custom_event('2024_wrapped_404', {action: 'download', username: username});
-
-            }
-            catch (error) {
-                console.error('Error downloading:', error);
-            }
-
 
             const img = new Image();
             img.src = url;
@@ -814,13 +800,6 @@ function renderErrorPage(error) {
                     return;
                 }
                 const pathParts = window.location.pathname.split('/').filter(part => part);
-                const username = pathParts[pathParts.length - 1];
-                try {
-
-                    log_custom_event('2024_wrapped_404', {action: 'share', username: username});
-                }
-                catch (error) {
-                }
                 await navigator.share(shareData);
             } catch (error) {
                 console.error('Error sharing:', error);

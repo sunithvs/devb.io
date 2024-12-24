@@ -397,10 +397,6 @@
 
 <script>
 
-            import {getAnalytics,logEvent} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
-               function log_custom_event(event_name, event_params) {
-            logEvent(analytics, event_name, event_params);
-        }
     function get_svg_x(mid,font_size,text){
         return mid - (text.length * font_size / 4);
     }
@@ -507,7 +503,6 @@ downloadBtn.addEventListener('click', async () => {
     const pathParts = window.location.pathname.split('/').filter(part => part);
     const username = pathParts[pathParts.length - 1] ;
 
-    log_custom_event('2024_wrapped_static', {action: 'download', username: username});
     const img = new Image();
     img.src = url;
 
@@ -601,9 +596,6 @@ downloadBtn.addEventListener('click', async () => {
                     return;
                 }
                  const pathParts = window.location.pathname.split('/').filter(part => part);
-                const username = pathParts[pathParts.length - 1];
-                log_custom_event('2024_wrapped_static', {action: 'share',username: username});
-
                 await navigator.share(shareData);
             } catch (error) {
                 console.error('Error sharing:', error);

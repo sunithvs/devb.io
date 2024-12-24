@@ -40,6 +40,69 @@
             rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+#wrapper2024 .box, #wrapper2024 .glow {
+  height: 45px;
+  width: 160px;
+  position: absolute;
+  overflow: hidden;
+  z-index: 0;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#wrapper2024 .text {
+  font-family: inherit;
+  font-size: inherit;
+  z-index: 1;
+  white-space: nowrap;
+    color: white;
+}
+
+#wrapper2024 .glow {
+  filter: blur(20px);
+}
+
+#wrapper2024 .box:before, #wrapper2024 .glow:before {
+  content: '';
+  z-index: -2;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(0deg);
+  width: 99999px;
+  height: 99999px;
+  background-image: conic-gradient(
+    #ff0000,
+    #ff8000,
+    #0000ff,
+    #8000ff,
+    #ff0000
+  );
+  animation: rotate2024 4s linear infinite;
+}
+
+#wrapper2024 .box:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  left: 2px;
+  top: 2px;
+  width: calc(100% - 4px);
+  height: calc(100% - 4px);
+  background: black;color: white;
+
+  border-radius: 0.375rem;
+}
+
+@keyframes rotate2024 {
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+</style>
+    <style>
 
 
         * {
@@ -154,10 +217,27 @@
                 </div>
             </div>
             <!-- Create Profile Button - Centered on Mobile -->
-            <div class="flex items-center justify-center lg:justify-start">
+<!--            <div class="flex items-center justify-center lg:justify-start">-->
+<!--                <div class="flex items-center">-->
+<!--                        <button id="wrapped-btn"-->
+<!--                                class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex items-center">-->
+<!--                            2024 Wrapped-->
+<!--                        </button>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="w-full flex items-center justify-start px-4 lg:px-0">-->
+<!--    <div class="mx-auto lg:mx-0" id="wrapper2024">-->
+<!--                    <div class="glow"></div>-->
+<!--                    <button id="wrapped-btn" class="box px-4 py-2 transition-colors flex items-center">-->
+<!--                        <span class="text">2024 Wrapped</span>-->
+<!--                    </button>-->
+<!--                </div>-->
+<!--            </div>-->
+            <div  id='wrapper2024' class="flex items-center justify-center lg:justify-start">
                 <div class="flex items-center">
+                 <div class="glow"></div>
                         <button id="wrapped-btn"
-                                class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex items-center">
+                                class="px-4 py-2 rounded-lg border-2 border-black bg-white transition-colors flex items-center text-black z-10 hover:bg-[#191A23] hover:text-white">
                             2024 Wrapped
                         </button>
                 </div>

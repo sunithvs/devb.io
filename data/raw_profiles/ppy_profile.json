@@ -3,23 +3,23 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities have included the implementation of the ability to mark beatmaps as played, adding a 'Hidden' cursor state flag on all platforms, and introducing support for 'freestyle' in multiplayer. These updates aim to enhance user experience and functionality within the game, with contributions addressing various aspects such as beatmap handling, cursor visibility, and multiplayer features."
+            "summary": "Recent activities include the addition of a 'Hidden' cursor state flag on non-desktop platforms, implementation of the ability to mark beatmaps as played, and the introduction of 'freestyle' mode in multiplayer, allowing users to choose their own beatmaps and rulesets. Other updates involve fixes for raw input on mobile devices, display of team logos, and improvements to the multiplayer experience."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "Notable activities on osu-web include requiring the multiplayer API to join multiplayer rooms, adding a leave team button, and explicit TypeScript types. These updates focus on refining multiplayer interactions, team management, and code quality. Additionally, there are efforts to support 'freestyle' in multiplayer, which involves enabling players to individually choose their beatmaps and rulesets within a room."
+            "summary": "Activities include enhancements to the multiplayer API, such as requiring the API to join multiplayer rooms and adding a leave team button. Additionally, there have been efforts to improve TypeScript types, rename constants, and account for retina size team flags. A pull request has also been made to add support for 'freestyle' mode in multiplayer, enabling individual beatmap and ruleset selection."
+        },
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "A recent pull request aims to add support for locking screen orientation on iOS, which can be utilized in osu! for gameplay purposes."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities on the osu-wiki have centered around further cleanup of the 'Help centre/Beatmapping and editor' section. This cleanup is part of ongoing efforts to maintain and improve the wiki's content, ensuring it remains a valuable resource for the osu! community by providing accurate and accessible information on beatmapping and editor usage."
+            "summary": "A pull request has been submitted for further cleanup of the 'Help centre/Beatmapping and editor' section, following up on a previously merged change and adhering to the contribution checklist."
         },
         "ppy/osu-server-spectator": {
             "link": "https://github.com/ppy/osu-server-spectator",
-            "summary": "The osu-server-spectator has seen activity related to adding support for 'freestyle' in multiplayer, which is a feature that allows for more flexible gameplay options within multiplayer rooms. This update is part of broader efforts to enhance multiplayer capabilities and user experience across different components of the osu! ecosystem."
-        },
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Recent work on osu-server-beatmap-submission includes implementing required interactions with beatmap mirrors. This involves purging outdated cached packages and is a step towards improving the beatmap submission process, ensuring that it is more efficient and reliable for users submitting their beatmaps for review and inclusion in the game."
+            "summary": "A pull request has been made to add support for 'freestyle' mode in multiplayer, although it currently lacks a detailed description."
         }
     },
     "profile_summary": null

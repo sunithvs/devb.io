@@ -1,0 +1,120 @@
+{
+    "username": "gopps95",
+    "name": "Gopi Shankar S",
+    "bio": "Passionate builder",
+    "location": "Thiruvananthapuram",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84285449?u=1b746c4c42d78e6c17d1fcf17de8470b90d6d9ca&v=4",
+    "profile_url": "https://github.com/Gopps95",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GitHub_Notifier",
+            "description": null,
+            "score": 3.9658082039900133,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Gopps95/GitHub_Notifier",
+            "updatedAt": "2023-03-07T15:16:56Z"
+        },
+        {
+            "name": "TecHFoss_Website",
+            "description": "Website for departmental fest",
+            "score": 2.5810425849292917,
+            "stars": 1,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/Gopps95/TecHFoss_Website",
+            "updatedAt": "2023-04-07T07:43:56Z"
+        },
+        {
+            "name": "Gopps95.github.io",
+            "description": null,
+            "score": 2.5737083974553805,
+            "stars": 1,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/Gopps95/Gopps95.github.io",
+            "updatedAt": "2023-03-04T08:04:36Z"
+        },
+        {
+            "name": "KeralaItineraryPlanner",
+            "description": null,
+            "score": 2.4574067592027373,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Gopps95/KeralaItineraryPlanner",
+            "updatedAt": "2024-02-14T09:13:35Z"
+        },
+        {
+            "name": "SAGA.CCM",
+            "description": null,
+            "score": 2.3471039331748758,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Gopps95/SAGA.CCM",
+            "updatedAt": "2023-08-11T05:09:23Z"
+        },
+        {
+            "name": "Trial_ML",
+            "description": null,
+            "score": 1.5402168844504072,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Gopps95/Trial_ML",
+            "updatedAt": "2023-03-04T08:04:35Z"
+        },
+        {
+            "name": "Automation_Excel",
+            "description": null,
+            "score": 1.5401811848984748,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Gopps95/Automation_Excel",
+            "updatedAt": "2023-03-04T08:04:35Z"
+        },
+        {
+            "name": "Figma_Plugin",
+            "description": "An plugin for figma ",
+            "score": 1.5393789944630798,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Gopps95/Figma_Plugin",
+            "updatedAt": "2023-03-04T08:04:36Z"
+        }
+    ],
+    "followers": 67,
+    "following": 129,
+    "public_repos": 61,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 160,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/g_o_p_p_s"
+        }
+    ],
+    "profile_summary": "Gopi Shankar S is a highly skilled and passionate software developer with a strong foundation in programming languages such as Python, C, and JavaScript. With a proven track record of delivering high-quality solutions, Gopi has established himself as a reliable and innovative professional in the field of software development. His expertise in these technical areas has enabled him to build a wide range of applications and systems, demonstrating his versatility and ability to adapt to different projects and technologies.\n\nAs a passionate builder with a strong online presence, Gopi has built a network of 67 followers and has contributed to 61 public repositories, showcasing his active involvement in the development community. With his technical skills and experience, Gopi is well-equipped to handle complex projects and provide effective solutions to real-world problems. His passion for building and creating innovative software solutions drives him to stay up-to-date with the latest trends and technologies, making him a valuable asset to any organization or project."
+}

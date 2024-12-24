@@ -1,0 +1,71 @@
+{
+    "username": "connect",
+    "name": "kod_connect",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/331908?u=ce4facfcf08b3a1f35dd5c5578e592ff1ba4d849&v=4",
+    "profile_url": "https://github.com/connect",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "null-doom",
+            "description": "WebGL DOOM with Three.js rendering",
+            "score": 10.122444390961343,
+            "stars": 20,
+            "forks": 12,
+            "language": "JavaScript",
+            "url": "https://github.com/connect/null-doom",
+            "updatedAt": "2024-08-09T01:04:50Z"
+        },
+        {
+            "name": "captal",
+            "description": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u043a\u043d\u0438\u0433-\u0438\u0433\u0440",
+            "score": 3.8742149987897925,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/connect/captal",
+            "updatedAt": "2017-12-29T19:29:11Z"
+        },
+        {
+            "name": "jquery-menubar",
+            "description": "Horizontal menubar plugin for jQuery",
+            "score": 0.061905505710093484,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/connect/jquery-menubar",
+            "updatedAt": "2016-03-02T14:11:11Z"
+        },
+        {
+            "name": "alatyr",
+            "description": "WebGL virtual world simulation.",
+            "score": 0.06026785121256846,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/connect/alatyr",
+            "updatedAt": "2014-01-02T21:01:02Z"
+        }
+    ],
+    "followers": 11,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Kod_connect is a highly skilled and experienced developer with a strong proficiency in JavaScript and CSS, delivering high-quality solutions that meet the needs of clients and users. With a growing network of 11 followers, kod_connect has established a reputation as a reliable and innovative professional in the development community. Through a portfolio of 5 public repositories, kod_connect demonstrates a commitment to active development and a passion for staying at the forefront of industry trends. By leveraging expertise in JavaScript and CSS, kod_connect creates dynamic and engaging user experiences that drive results and exceed expectations.\n\nAs a seasoned developer, kod_connect brings a unique combination of technical expertise and creative vision to every project, resulting in innovative and effective solutions that make a lasting impact. With a focus on delivering exceptional results and a passion for collaborative development, kod_connect is an invaluable asset to any team or organization. By staying up-to-date with the latest developments in JavaScript and CSS, kod_connect is able to provide expert guidance and support, ensuring that projects are completed efficiently and to the highest standard. With a strong foundation in web development and a commitment to ongoing learning and growth, kod_connect is poised to continue making significant contributions to the development community."
+}

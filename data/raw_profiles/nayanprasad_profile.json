@@ -1,0 +1,142 @@
+{
+    "username": "nayanprasad",
+    "name": "Nayan Prasad P K",
+    "bio": "i own a computer \ud83d\udcbb",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/93549213?u=79efe17d5a506c681b1b5409155adc2e3c97998e&v=4",
+    "profile_url": "https://github.com/nayanprasad",
+    "top_languages": [
+        [
+            "TypeScript",
+            7
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "JavaScript",
+            17
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "iChat-2.0",
+            "description": "Scalable chat application",
+            "score": 1.6405360724759672,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/nayanprasad/iChat-2.0",
+            "updatedAt": "2024-07-18T16:44:00Z"
+        },
+        {
+            "name": "react-file-manager",
+            "description": null,
+            "score": 1.296287213714399,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/nayanprasad/react-file-manager",
+            "updatedAt": "2024-12-14T15:37:40Z"
+        },
+        {
+            "name": "Treedom",
+            "description": null,
+            "score": 1.2045711139505855,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nayanprasad/Treedom",
+            "updatedAt": "2023-10-21T05:03:49Z"
+        },
+        {
+            "name": "node-redis-worker-demo",
+            "description": null,
+            "score": 0.3593341736205279,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/nayanprasad/node-redis-worker-demo",
+            "updatedAt": "2024-10-20T22:33:00Z"
+        },
+        {
+            "name": "react-file-manager-spring-boot-api",
+            "description": null,
+            "score": 0.25759714536400297,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/nayanprasad/react-file-manager-spring-boot-api",
+            "updatedAt": "2024-01-21T17:32:09Z"
+        },
+        {
+            "name": "spring-boot-learning",
+            "description": null,
+            "score": 0.2572068291572806,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/nayanprasad/spring-boot-learning",
+            "updatedAt": "2024-01-18T20:33:18Z"
+        },
+        {
+            "name": "Language-Processor-Lab",
+            "description": null,
+            "score": 0.2559383575524705,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/nayanprasad/Language-Processor-Lab",
+            "updatedAt": "2024-01-08T21:11:32Z"
+        },
+        {
+            "name": "Computer-Networks-Lab",
+            "description": null,
+            "score": 0.25569047430970365,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nayanprasad/Computer-Networks-Lab",
+            "updatedAt": "2024-01-08T20:05:27Z"
+        }
+    ],
+    "followers": 25,
+    "following": 4,
+    "public_repos": 80,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 589,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/nayanprasad096"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nayanprasad"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/nayanprasad"
+        }
+    ],
+    "activity_summary": {
+        "nayanprasad/nayanprasad": {
+            "link": "https://github.com/nayanprasad/nayanprasad",
+            "summary": "Recent activities in this repository include a push event on December 4, 2024, which involved an update to the README.md file, indicating ongoing maintenance and documentation efforts."
+        },
+        "nayanprasad/nayanprasad-portfolio-2.0": {
+            "link": "https://github.com/nayanprasad/nayanprasad-portfolio-2.0",
+            "summary": "This repository experienced a notable push event on October 18, 2024, where the contact section was removed, the timeline was updated, and the LeetCode logo was refreshed, suggesting enhancements to the portfolio's structure and visual identity."
+        },
+        "nayanprasad/node-redis-worker-demo": {
+            "link": "https://github.com/nayanprasad/node-redis-worker-demo",
+            "summary": "Activity in this repository was marked by a push event on October 20, 2024, during which a README.md file was created, indicating initial setup and documentation for the node-redis-worker demo project."
+        }
+    },
+    "profile_summary": "Nayan Prasad P K is a highly skilled developer with expertise in TypeScript, C, and JavaScript, demonstrating a strong foundation in programming languages. With a significant presence on GitHub, having 25 followers and 80 public repositories, Nayan showcases a high level of activity and dedication to software development. As a tech-savvy individual who owns a computer, Nayan is well-equipped to tackle complex projects and contribute to innovative solutions. By leveraging industry-relevant keywords, Nayan's work is optimized for search, increasing visibility and reach within the developer community.\n\nAs a seasoned developer, Nayan Prasad P K brings a unique value proposition to the table, combining technical expertise with a passion for innovation. With a focus on delivering high-quality solutions, Nayan has established a reputation for reliability and technical prowess. By emphasizing professional achievements and expertise in programming languages, Nayan positions himself as a high-performing developer who can drive projects forward with expertise and precision. With a strong online presence and a growing network of peers, Nayan is an ideal collaborator for businesses and individuals seeking skilled development services, and is well-poised to make a lasting impact in the tech industry."
+}

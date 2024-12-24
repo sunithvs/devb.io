@@ -1,4 +1,10 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
+    "activity_summary": {
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities in the tursodatabase/limbo repository include improvements to the core/btree documentation, with a focus on variable renaming, added comments, and better IDE support. These enhancements aim to increase code readability and maintainability, with no functional changes introduced. The updates also include additional comments for clarity and fixes to comment formatting for improved developer experience."
+        }
+    },
     "profile_summary": null
 }

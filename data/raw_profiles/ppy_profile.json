@@ -1,13 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Recent activities have focused on optimizing package-related operations, including the use of versioning database tables and checking for meaningful changes before performing updates. Additionally, submission-relevant events are now added to the database via LIO endpoints, improving the overall efficiency and data tracking of the repository."
-        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The repository has seen recent updates aimed at fixing issues with hitcircle sprites in certain skins, particularly since the last release. A pull request was submitted to address this problem by re-examining the use of providers for sprite availability checks, ensuring compatibility with various skins and closing a related issue."
+            "summary": "Recent activities in the osu repository include fixes for hitcircle sprite visibility issues, adjustments to beat snap divisor defaults, and updates to the framework. Several pull requests have been submitted and merged, addressing issues such as the volume adjustment using the scroll wheel during intro, background brightness at the main menu, and legacy hitcircle fallback logic. These changes aim to improve the overall user experience and resolve existing bugs."
         }
     },
     "profile_summary": null

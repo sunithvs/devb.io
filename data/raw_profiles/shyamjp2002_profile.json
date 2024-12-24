@@ -1,0 +1,120 @@
+{
+    "username": "shyamjp2002",
+    "name": "Syamagopal J",
+    "bio": "",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75899937?u=3131c70099f9e5d652cabbaac1a2734d5a3fb061&v=4",
+    "profile_url": "https://github.com/shyamjp2002",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Meal-Share-App",
+            "description": null,
+            "score": 1.2784171387965821,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/shyamjp2002/Meal-Share-App",
+            "updatedAt": "2024-08-04T19:55:09Z"
+        },
+        {
+            "name": "PhishBuster",
+            "description": "A web application which uses a machine learning to model phishing URLs",
+            "score": 0.2668848781142239,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/shyamjp2002/PhishBuster",
+            "updatedAt": "2024-03-27T18:54:28Z"
+        },
+        {
+            "name": "To-Do-App---Django",
+            "description": "A simple todo app",
+            "score": 0.2668848781142239,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shyamjp2002/To-Do-App---Django",
+            "updatedAt": "2024-03-23T19:48:34Z"
+        },
+        {
+            "name": "Mind-Empowered-Project",
+            "description": null,
+            "score": 0.1582988650110531,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shyamjp2002/Mind-Empowered-Project",
+            "updatedAt": "2023-06-19T16:15:34Z"
+        },
+        {
+            "name": "Mind-Empowered",
+            "description": null,
+            "score": 0.15682026346283148,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shyamjp2002/Mind-Empowered",
+            "updatedAt": "2023-05-16T14:04:17Z"
+        },
+        {
+            "name": "Java-programs",
+            "description": null,
+            "score": 0.15446661781970644,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/shyamjp2002/Java-programs",
+            "updatedAt": "2023-03-17T17:35:50Z"
+        },
+        {
+            "name": "doctor-appointment-booking-system",
+            "description": "An online doctor appointment booking system where user could book their appointment without standing in a queue",
+            "score": 0.15442983407431446,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/shyamjp2002/doctor-appointment-booking-system",
+            "updatedAt": "2023-03-16T12:17:18Z"
+        },
+        {
+            "name": "Authentication-app-using-Node-JS",
+            "description": "Node JS Authentication using MongoDB to store the details and using JWT authentication ",
+            "score": 0.07330187979498246,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shyamjp2002/Authentication-app-using-Node-JS",
+            "updatedAt": "2022-07-03T19:56:04Z"
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 16,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/syamagopal-j-a15394201"
+        }
+    ],
+    "profile_summary": "Syamagopal J is a highly skilled developer with a strong foundation in programming languages such as Python, JavaScript, and PHP. With a notable presence on GitHub, Syamagopal has built a professional network of peers who recognize his technical expertise, as evidenced by his growing follower base. His extensive collection of public repositories showcases his active engagement in software development, with 16 repositories demonstrating his ability to design, develop, and deploy innovative solutions. As a seasoned programmer, Syamagopal brings a unique combination of technical skills and creative problem-solving abilities to the table.\n\nSyamagopal's technical prowess is complemented by his passion for delivering high-quality solutions that meet the evolving needs of the industry. With a keen eye for detail and a commitment to staying up-to-date with the latest trends and technologies, Syamagopal is an innovative and reliable partner for businesses seeking to leverage the power of Python, JavaScript, and PHP. His strong online presence and active involvement in the developer community underscore his dedication to collaboration, knowledge sharing, and continuous learning, making him an invaluable asset to any organization seeking to drive growth and success through cutting-edge software development."
+}

@@ -1,0 +1,134 @@
+{
+    "username": "aswinpradeepc",
+    "name": "Aswin Pradeep",
+    "bio": "CSE student at CUSAT",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100145929?u=5e2e2ab1abe4ec0a56862a313e1c4df5bc59398e&v=4",
+    "profile_url": "https://github.com/aswinpradeepc",
+    "top_languages": [
+        [
+            "Python",
+            9
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "team4xplor",
+            "description": "Repo for Xplor Hackathon",
+            "score": 4.007792861730763,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/team4xplor",
+            "updatedAt": "2024-12-17T15:25:07Z"
+        },
+        {
+            "name": "take-rest",
+            "description": "Eye monitoring system for people with high screen time",
+            "score": 2.998675066291119,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/take-rest",
+            "updatedAt": "2024-06-03T14:26:44Z"
+        },
+        {
+            "name": "tasks-cli",
+            "description": "CLI todo list app",
+            "score": 2.751653201060147,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/tasks-cli",
+            "updatedAt": "2024-12-22T08:21:30Z"
+        },
+        {
+            "name": "Fidget-a-Ton",
+            "description": "Design files of swag made for Make-A-Ton 6.0",
+            "score": 2.446452253396322,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpradeepc/Fidget-a-Ton",
+            "updatedAt": "2024-05-16T20:14:19Z"
+        },
+        {
+            "name": "bored_af",
+            "description": "lazy and bored.",
+            "score": 1.6506896598471292,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aswinpradeepc/bored_af",
+            "updatedAt": "2024-09-11T02:09:06Z"
+        },
+        {
+            "name": "Bibliobazaar",
+            "description": "An e-commerce book-selling website developed using Django",
+            "score": 1.6232716342712623,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aswinpradeepc/Bibliobazaar",
+            "updatedAt": "2024-03-30T12:28:09Z"
+        },
+        {
+            "name": "SOE-Project-Hub",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/SOE-Project-Hub",
+            "updatedAt": "2024-07-07T13:32:01Z"
+        },
+        {
+            "name": "Route_Optimisation",
+            "description": "Route Optimisation with OpenRouteService to optimise routes upto 150 location with free api limit.",
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/aswinpradeepc/Route_Optimisation",
+            "updatedAt": "2024-06-21T06:25:29Z"
+        }
+    ],
+    "followers": 14,
+    "following": 13,
+    "public_repos": 42,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 239,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/aswinpradeepc"
+        }
+    ],
+    "activity_summary": {
+        "aswinpradeepc/tasks-cli": {
+            "link": "https://github.com/aswinpradeepc/tasks-cli",
+            "summary": "The tasks-cli repository has seen significant activity with multiple push events in the past 48 hours. The events include an initial commit, adding a README, website, and completing version 0, in addition to correcting a typo and solving a file availability issue."
+        },
+        "aswinpradeepc/team4xplor": {
+            "link": "https://github.com/aswinpradeepc/team4xplor",
+            "summary": "The team4xplor repository has experienced recent activity, primarily focused on adding new features such as a conductor app and login functionality. These changes have streamlined the repository and suggest ongoing development and improvement."
+        },
+        "aswinpradeepc/test": {
+            "link": "https://github.com/aswinpradeepc/test",
+            "summary": "The test repository has shown some activity with two recent push events, both centered around adding questions. While not as extensive as other repositories, these additions indicate a steady trickle of updates and testing-related work."
+        }
+    },
+    "profile_summary": "Aswin Pradeep is a highly skilled and accomplished developer with a strong foundation in programming languages such as Python, C++, and JavaScript. As a computer science student at CUSAT, he has developed a solid understanding of computer science fundamentals and has applied this knowledge to create innovative solutions. With a growing professional network of 14 followers and an impressive portfolio of 42 public repositories, Aswin has established himself as a reliable and active developer in the coding community. His technical expertise and passion for development have enabled him to make significant contributions to the field, earning him recognition and respect among his peers.\n\nAs a talented and dedicated developer, Aswin brings a unique value proposition to the table, combining technical proficiency with creativity and a willingness to learn. His expertise in Python, C++, and JavaScript has allowed him to tackle complex projects and deliver high-quality results, demonstrating his ability to work effectively in a fast-paced environment. With his strong work ethic and commitment to excellence, Aswin is well-positioned to drive innovation and growth in the tech industry, making him an attractive collaborator or hire for companies seeking skilled and motivated developers. His online presence and contributions to open-source projects showcase his skills and dedication, making him a notable figure in the developer community."
+}

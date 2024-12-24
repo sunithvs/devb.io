@@ -1,0 +1,72 @@
+{
+    "username": "mohamedfaz",
+    "name": "Mohamed Fazil",
+    "bio": "Currently pursuing B.Tech CS (2023-27) at SSET Karukutty.\r\n",
+    "location": "Thrissur, Kerala, India.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/145818177?u=af3ff3ad693320ef710f1d14b2e624777757f209&v=4",
+    "profile_url": "https://github.com/MOHAMEDFAZ",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Data-Structures",
+            "description": "A collection of practical code examples for common data structures like arrays, linked lists, stacks, queues, trees, and more. Perfect for learning and refreshing your knowledge of algorithms! Each structure is well-documented with clear explanations and usage examples.  ",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MOHAMEDFAZ/Data-Structures",
+            "updatedAt": "2024-12-01T14:46:22Z"
+        },
+        {
+            "name": "LEET-CODE",
+            "description": null,
+            "score": 0.25471745392133144,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MOHAMEDFAZ/LEET-CODE",
+            "updatedAt": "2023-12-29T10:02:29Z"
+        },
+        {
+            "name": "Senate-Election-Voting-System",
+            "description": "Its a python based election voting system ",
+            "score": 0.24473612527073463,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MOHAMEDFAZ/Senate-Election-Voting-System",
+            "updatedAt": "2024-12-01T14:41:09Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/1_mohamedfazil/"
+        }
+    ],
+    "activity_summary": {
+        "MOHAMEDFAZ/SEVS": {
+            "link": "https://github.com/MOHAMEDFAZ/SEVS",
+            "summary": "Recent activities in the MOHAMEDFAZ/SEVS repository include the creation and subsequent update of the README.md file, with the latest update occurring on 2024-12-01. These updates reflect efforts to enhance the repository's documentation and visibility."
+        },
+        "MOHAMEDFAZ/Data-Structures": {
+            "link": "https://github.com/MOHAMEDFAZ/Data-Structures",
+            "summary": "The MOHAMEDFAZ/Data-Structures repository saw recent activity with an update to the README.md file on 2024-12-01, indicating ongoing efforts to refine the repository's documentation and improve user understanding of its contents."
+        }
+    },
+    "profile_summary": "Mohamed Fazil is a dedicated and ambitious computer science student currently pursuing his B.Tech degree at SSET Karukutty. With a strong foundation in programming, he specializes in Python, demonstrating a solid understanding of its applications and potential. As a emerging developer, Mohamed Fazil is actively engaged in building his portfolio, with four public repositories showcasing his coding skills and attention to detail. His growing presence on GitHub reflects his enthusiasm for collaborative development and commitment to staying updated with the latest industry trends.\n\nAs a rising talent in the field of computer science, Mohamed Fazil brings a fresh perspective and innovative approach to software development. With a keen interest in leveraging technology to drive positive change, he is well-versed in leveraging Python to create efficient and effective solutions. As he continues to expand his skill set and explore new areas of interest, Mohamed Fazil is poised to make a meaningful impact in the tech industry, delivering high-quality results and exceeding expectations. With his strong work ethic and passion for learning, he is an exciting addition to the developer community, embodying the skills and dedication required to succeed in today's fast-paced technological landscape."
+}

@@ -1,0 +1,91 @@
+{
+    "username": "octocat",
+    "name": "The Octocat",
+    "bio": "",
+    "location": "San Francisco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/583231?u=a59fef2a493e2b67dd13754231daf220c82ba84d&v=4",
+    "profile_url": "https://github.com/octocat",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Spoon-Knife",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 36.93358821249673,
+            "stars": 12725,
+            "forks": 147757,
+            "language": "HTML",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "updatedAt": "2024-12-24T03:45:08Z"
+        },
+        {
+            "name": "Hello-World",
+            "description": "My first repository on GitHub!",
+            "score": 27.7915190727808,
+            "stars": 2790,
+            "forks": 2518,
+            "language": null,
+            "url": "https://github.com/octocat/Hello-World",
+            "updatedAt": "2024-12-23T01:06:41Z"
+        },
+        {
+            "name": "octocat.github.io",
+            "description": null,
+            "score": 22.254330099607213,
+            "stars": 752,
+            "forks": 358,
+            "language": "CSS",
+            "url": "https://github.com/octocat/octocat.github.io",
+            "updatedAt": "2024-12-23T07:45:21Z"
+        },
+        {
+            "name": "hello-worId",
+            "description": "My first repository on GitHub.",
+            "score": 20.51161223869909,
+            "stars": 493,
+            "forks": 196,
+            "language": null,
+            "url": "https://github.com/octocat/hello-worId",
+            "updatedAt": "2024-12-21T10:39:33Z"
+        },
+        {
+            "name": "git-consortium",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 19.004329769775467,
+            "stars": 380,
+            "forks": 101,
+            "language": null,
+            "url": "https://github.com/octocat/git-consortium",
+            "updatedAt": "2024-12-21T10:39:35Z"
+        },
+        {
+            "name": "test-repo1",
+            "description": null,
+            "score": 16.441765178257388,
+            "stars": 285,
+            "forks": 26,
+            "language": null,
+            "url": "https://github.com/octocat/test-repo1",
+            "updatedAt": "2024-12-21T10:39:34Z"
+        }
+    ],
+    "followers": 16255,
+    "following": 9,
+    "public_repos": 203,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "The Octocat is a highly skilled and accomplished developer with a strong proficiency in CSS and HTML, demonstrating a deep understanding of front-end development principles. With a substantial following of 16255, The Octocat has established a significant professional network and notable influence within the development community. This substantial following is a testament to their expertise and ability to provide valuable insights and solutions. Through active participation in various projects, The Octocat has further solidified their position as a reliable and innovative developer.\n\nThe Octocat's impressive portfolio, comprising 203 public repositories, showcases their extensive experience and dedication to delivering high-quality solutions. By leveraging their technical expertise and collaborative approach, The Octocat consistently delivers cutting-edge results that meet the evolving needs of the industry. As a seasoned developer with a strong online presence, The Octocat is well-equipped to drive projects forward, providing expert guidance and support to ensure successful outcomes. With a strong foundation in CSS and HTML, The Octocat is poised to continue making significant contributions to the development community, driving innovation and excellence in all aspects of their work."
+}

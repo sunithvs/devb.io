@@ -1,0 +1,154 @@
+{
+    "username": "arjunvaradiyill",
+    "name": "ARJUN V",
+    "bio": "Web Developer & Cybersecurity Enthusiast | Building Secure and Scalable Web Solutions",
+    "location": "MALAPPURAM",
+    "avatar_url": "https://avatars.githubusercontent.com/u/83506541?u=66ac04f9200de2e47a8f26183d7eaec9eb1005bd&v=4",
+    "profile_url": "https://github.com/arjunvaradiyill",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "JavaScript",
+            12
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Books-API---Node-and-Express-",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/Books-API---Node-and-Express-",
+            "updatedAt": "2024-12-24T04:58:58Z"
+        },
+        {
+            "name": "DSLAB-CUSAT",
+            "description": "thi",
+            "score": 2.992724373255826,
+            "stars": 0,
+            "forks": 6,
+            "language": "Java",
+            "url": "https://github.com/arjunvaradiyill/DSLAB-CUSAT",
+            "updatedAt": "2022-10-25T17:41:20Z"
+        },
+        {
+            "name": "c-prgms-cusat",
+            "description": null,
+            "score": 1.11108108890897,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/arjunvaradiyill/c-prgms-cusat",
+            "updatedAt": "2022-10-29T14:23:42Z"
+        },
+        {
+            "name": "arjunvaradiyil",
+            "description": null,
+            "score": 1.1092991119936495,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/arjunvaradiyill/arjunvaradiyil",
+            "updatedAt": "2022-02-07T06:22:19Z"
+        },
+        {
+            "name": "reportcardwebsite",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/reportcardwebsite",
+            "updatedAt": "2024-12-20T14:08:57Z"
+        },
+        {
+            "name": "arjunportfolio",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/arjunportfolio",
+            "updatedAt": "2024-12-17T15:50:56Z"
+        },
+        {
+            "name": "I-FORT-e-commerce-webiste-",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/I-FORT-e-commerce-webiste-",
+            "updatedAt": "2024-12-16T15:11:38Z"
+        },
+        {
+            "name": "ifort-e-commerce-website",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/ifort-e-commerce-website",
+            "updatedAt": "2024-12-24T05:02:27Z"
+        }
+    ],
+    "followers": 8,
+    "following": 9,
+    "public_repos": 82,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 151,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/VaradiyilArjun"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/arjunvaradiyill/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_arjuoo__/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.threads.net/@_arjuoo__"
+        }
+    ],
+    "activity_summary": {
+        "ifort-e-commerce-website": {
+            "link": "https://github.com/arjunvaradiyill/ifort-e-commerce-website",
+            "summary": "The ifort-e-commerce-website repository has seen significant development with multiple push events, including updates to the README.md file, removal of test credentials, and enhancements to the login page and responsive layout, indicating active maintenance and improvement of the e-commerce website."
+        },
+        "resultwebsite": {
+            "link": "https://github.com/arjunvaradiyill/resultwebsite",
+            "summary": "The resultwebsite repository has experienced a series of updates, with multiple push events occurring over a short period, suggesting ongoing development and refinement of the website's functionality and features."
+        },
+        "Books-API---Node-and-Express-": {
+            "link": "https://github.com/arjunvaradiyill/Books-API---Node-and-Express-",
+            "summary": "The Books-API---Node-and-Express- repository has received recent updates, including the resolution of merge conflicts and the creation of a README.md file, indicating efforts to stabilize and document the API."
+        },
+        "reportcardwebsite": {
+            "link": "https://github.com/arjunvaradiyill/reportcardwebsite",
+            "summary": "The reportcardwebsite repository has undergone updates, with push events indicating ongoing development and refinement of the website's features and functionality."
+        },
+        "arjunportfolio": {
+            "link": "https://github.com/arjunvaradiyill/arjunportfolio",
+            "summary": "The arjunportfolio repository has seen updates, with push events suggesting ongoing maintenance and enhancement of the portfolio website."
+        }
+    },
+    "profile_summary": "Arjun V is a highly skilled web developer and cybersecurity enthusiast with a strong proficiency in programming languages such as C, Python, and JavaScript. With a proven track record of building secure and scalable web solutions, he has established himself as a reliable and innovative professional in the field of web development. His expertise in cybersecurity ensures that his solutions are not only functional but also secure, making him a valuable asset to any organization. As a seasoned developer, Arjun V has built a professional network of like-minded individuals, with 8 followers who appreciate his technical expertise and insights.\n\nWith 82 public repositories to his credit, Arjun V has consistently demonstrated his ability to design, develop, and deploy high-quality web applications. His commitment to staying up-to-date with the latest technologies and trends has enabled him to deliver cutting-edge solutions that meet the evolving needs of businesses and organizations. As a web developer and cybersecurity enthusiast, Arjun V is dedicated to creating secure, efficient, and user-friendly web solutions that drive business success. With his technical expertise, passion for innovation, and dedication to excellence, Arjun V is an exceptional professional who can make a significant contribution to any web development project, leveraging his skills in web development, cybersecurity, and programming to drive results."
+}

@@ -1,0 +1,18 @@
+{
+    "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
+    "activity_summary": {
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "The osu repository has seen significant activity, including the implementation of a rename skin popover and button, persisting the 'featured artist' beatmap listing filter in config, and disabling the filter toggle on iOS. Additionally, resources have been updated and keywords have been added for intro-related settings, showcasing the ongoing development and refinement of the osu platform."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "The osu-web repository has experienced notable activity, including the addition of submission-relevant events to the database via LIO endpoints. This update aims to enhance the functionality of the osu web platform, particularly in relation to beatmap submissions and event tracking, contributing to the overall improvement of the user experience."
+        },
+        "ppy/osu-resources": {
+            "link": "https://github.com/ppy/osu-resources",
+            "summary": "The osu-resources repository has undergone significant updates, focusing on the reprocessing of logo animation textures to prevent premultiplication issues and the update of the logo animation shader. These changes are designed to ensure accurate rendering of the logo animation, especially on iOS, thereby maintaining the visual quality and consistency of the osu resources."
+        }
+    },
+    "profile_summary": null
+}

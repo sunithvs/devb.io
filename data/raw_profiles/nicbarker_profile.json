@@ -1,0 +1,130 @@
+{
+    "username": "nicbarker",
+    "name": "Nic Barker",
+    "bio": "Game Developer @cerebralfix",
+    "location": "Christchurch, New Zealand",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2264338?u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4",
+    "profile_url": "https://github.com/nicbarker",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "clay",
+            "description": "High performance UI layout library in C.",
+            "score": 25.905209376914453,
+            "stars": 6997,
+            "forks": 193,
+            "language": "C",
+            "url": "https://github.com/nicbarker/clay",
+            "updatedAt": "2024-12-24T05:51:42Z"
+        },
+        {
+            "name": "river",
+            "description": "River is an experimental assembly-like programming language.",
+            "score": 9.896228087860267,
+            "stars": 55,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/nicbarker/river",
+            "updatedAt": "2024-12-23T19:25:04Z"
+        },
+        {
+            "name": "algebra-sandbox",
+            "description": "Interactive algebra and symbolic manipulation",
+            "score": 3.8217932226018423,
+            "stars": 5,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/nicbarker/algebra-sandbox",
+            "updatedAt": "2024-12-22T12:27:55Z"
+        },
+        {
+            "name": "campusfloraweb",
+            "description": "Campus Flora maps the locations of more than 2000 individual plants from over 70 families on campus grounds and provides a botanical description of each plant and information on its distribution.",
+            "score": 2.476897181758677,
+            "stars": 0,
+            "forks": 4,
+            "language": "Ruby",
+            "url": "https://github.com/nicbarker/campusfloraweb",
+            "updatedAt": "2017-01-24T23:15:21Z"
+        },
+        {
+            "name": "swingstar",
+            "description": "Swingstar is a 2d arcade game built in Unity.",
+            "score": 2.397313885513684,
+            "stars": 2,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/nicbarker/swingstar",
+            "updatedAt": "2024-10-19T21:03:38Z"
+        },
+        {
+            "name": "pinataspredicament",
+            "description": "Pi\u00f1atas Predicament is a 2d puzzle platformer game, written in C# for Unity.",
+            "score": 1.4529514102918906,
+            "stars": 1,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/nicbarker/pinataspredicament",
+            "updatedAt": "2020-05-16T09:20:18Z"
+        },
+        {
+            "name": "simple-computer-algebra-system",
+            "description": "A reference implementation for a simple computer algebra system.",
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/nicbarker/simple-computer-algebra-system",
+            "updatedAt": "2023-10-23T07:35:36Z"
+        },
+        {
+            "name": "UnityEditorDeeplinking",
+            "description": "Editor tool that allows for deeplinking from web documentation directly to assets within Unity.",
+            "score": 0.07280166905499061,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nicbarker/UnityEditorDeeplinking",
+            "updatedAt": "2022-03-28T08:35:59Z"
+        }
+    ],
+    "followers": 241,
+    "following": 8,
+    "public_repos": 20,
+    "pull_requests_merged": 17,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 254,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/nicbarkeragain"
+        },
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/nicbarker.com"
+        }
+    ],
+    "activity_summary": {
+        "nicbarker/clay": {
+            "link": "https://github.com/nicbarker/clay",
+            "summary": "Recent activities in the nicbarker/clay repository include fixes to improve compatibility, specifically moving internal types to stdint specific to match Clay_RenderCommandArray_Get prototypes, and removing inline functions for better Windows library compatibility. These changes aim to enhance the repository's functionality and usability across different platforms."
+        }
+    },
+    "profile_summary": "Nic Barker is a highly skilled game developer with a strong background in programming languages such as C, TypeScript, and JavaScript. As a seasoned developer, he has built a reputation for delivering high-quality solutions and has established himself as a trusted expert in his field. With a professional network of over 241 followers, Nic has demonstrated his ability to collaborate and contribute to the development community. His experience as a game developer at Cerebralfix has equipped him with the skills to design and develop engaging games that meet the needs of diverse users.\n\nAs an active developer with 20 public repositories, Nic has consistently showcased his technical prowess and commitment to innovation. His expertise in C, TypeScript, and JavaScript has enabled him to develop efficient and effective solutions that meet the demands of the gaming industry. With a strong focus on reliability and technical excellence, Nic has positioned himself as a go-to expert for game development projects. His dedication to his craft and his passion for innovation have earned him a reputation as a high-performing and innovative professional in the game development community, making him an ideal partner for businesses and individuals seeking to bring their game development ideas to life."
+}

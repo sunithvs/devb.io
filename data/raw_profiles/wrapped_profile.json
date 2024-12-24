@@ -1,0 +1,115 @@
+{
+    "username": "wrapped",
+    "name": "Daniel Johansson",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2577140?u=3901df20cbaf913fbe1b816ca730cf824cb71ce9&v=4",
+    "profile_url": "https://github.com/wrapped",
+    "top_languages": [
+        [
+            "C",
+            9
+        ],
+        [
+            "C++",
+            7
+        ],
+        [
+            "Kotlin",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kernel_oneplus_sdm845",
+            "description": null,
+            "score": 1.4513618928372094,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/wrapped/kernel_oneplus_sdm845",
+            "updatedAt": "2020-06-02T09:20:22Z"
+        },
+        {
+            "name": "android_device_mediatek_harmony",
+            "description": null,
+            "score": 1.4507305547616962,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/wrapped/android_device_mediatek_harmony",
+            "updatedAt": "2022-11-16T08:04:41Z"
+        },
+        {
+            "name": "device_asus_grouper",
+            "description": "TeamEOS grouper f2fs device tree",
+            "score": 1.446905463495121,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/wrapped/device_asus_grouper",
+            "updatedAt": "2014-11-30T11:47:46Z"
+        },
+        {
+            "name": "hardware_nvidia_power",
+            "description": null,
+            "score": 1.1015200541345964,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/wrapped/hardware_nvidia_power",
+            "updatedAt": "2016-01-18T01:21:49Z"
+        },
+        {
+            "name": "TheCounter",
+            "description": null,
+            "score": 0.06789283835545404,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/wrapped/TheCounter",
+            "updatedAt": "2021-03-13T20:03:56Z"
+        },
+        {
+            "name": "TheConverter",
+            "description": null,
+            "score": 0.0666521413176236,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/wrapped/TheConverter",
+            "updatedAt": "2020-08-29T02:49:31Z"
+        },
+        {
+            "name": "RandomNumberGame",
+            "description": null,
+            "score": 0.06495168944420626,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/wrapped/RandomNumberGame",
+            "updatedAt": "2019-09-25T20:23:40Z"
+        },
+        {
+            "name": "alarmklock",
+            "description": null,
+            "score": 0.06483781680189048,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/wrapped/alarmklock",
+            "updatedAt": "2018-11-13T01:36:11Z"
+        }
+    ],
+    "followers": 4,
+    "following": 0,
+    "public_repos": 37,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Daniel Johansson is a highly skilled and accomplished software developer with a strong foundation in programming languages such as C, C++, and Kotlin. With a proven track record of delivering high-quality solutions, he has established himself as a reliable and innovative professional in the industry. His extensive experience and expertise in these languages have enabled him to develop a unique ability to craft efficient, scalable, and well-structured code that meets the highest standards of quality and performance. As a seasoned developer with a growing network of peers and a notable presence on GitHub, Daniel has demonstrated his commitment to ongoing learning and professional growth.\n\nWith a portfolio of 37 public repositories, Daniel has consistently showcased his technical prowess and ability to work on a wide range of projects, from simple scripts to complex systems. His dedication to his craft and passion for software development have earned him a loyal following of 4 peers who appreciate his expertise and contributions to the developer community. As a professional with a strong work ethic and a passion for innovation, Daniel Johansson is well-positioned to drive technological advancements and deliver cutting-edge solutions that meet the evolving needs of the industry, making him an asset to any organization seeking a skilled and dedicated developer with a strong technical foundation and a commitment to excellence."
+}

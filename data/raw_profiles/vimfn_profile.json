@@ -1,0 +1,146 @@
+{
+    "username": "vimfn",
+    "name": "Arunava Ghosh",
+    "bio": "computers are fun.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/102473837?u=47e26c3d0e3f85fc89178530d9c992f681a96d84&v=4",
+    "profile_url": "https://github.com/vimfn",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Go",
+            2
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "www",
+            "description": "(wip) personal website",
+            "score": 13.360601814542438,
+            "stars": 103,
+            "forks": 12,
+            "language": "TypeScript",
+            "url": "https://github.com/vimfn/www",
+            "updatedAt": "2024-12-23T07:28:11Z"
+        },
+        {
+            "name": "react-speech-to-text",
+            "description": "An example app demonstrating how to get Speech to text working in Nextjs 13+ (App Router) ",
+            "score": 8.913960231712517,
+            "stars": 19,
+            "forks": 5,
+            "language": "TypeScript",
+            "url": "https://github.com/vimfn/react-speech-to-text",
+            "updatedAt": "2024-09-25T02:04:11Z"
+        },
+        {
+            "name": "links",
+            "description": "elegant looking links manager.",
+            "score": 8.823801582024492,
+            "stars": 21,
+            "forks": 4,
+            "language": "TypeScript",
+            "url": "https://github.com/vimfn/links",
+            "updatedAt": "2024-11-18T03:52:34Z"
+        },
+        {
+            "name": "dots",
+            "description": "my boring dotfiles for *nix systems",
+            "score": 7.260205163285242,
+            "stars": 19,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/vimfn/dots",
+            "updatedAt": "2024-12-18T18:10:40Z"
+        },
+        {
+            "name": "get-spotify-refresh-token",
+            "description": "Guide: How to get spotify refresh token",
+            "score": 6.808840718487232,
+            "stars": 7,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/vimfn/get-spotify-refresh-token",
+            "updatedAt": "2024-10-05T15:17:39Z"
+        },
+        {
+            "name": "batter-pw",
+            "description": "Better PW Website.",
+            "score": 6.363471592530026,
+            "stars": 4,
+            "forks": 6,
+            "language": "JavaScript",
+            "url": "https://github.com/vimfn/batter-pw",
+            "updatedAt": "2024-03-09T09:16:20Z"
+        },
+        {
+            "name": "pw-desktop",
+            "description": "unofficial physics wallah desktop app made with rust (tauri)",
+            "score": 5.777528298588382,
+            "stars": 6,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/vimfn/pw-desktop",
+            "updatedAt": "2024-11-25T19:41:28Z"
+        },
+        {
+            "name": ".profile",
+            "description": "minimal github profile",
+            "score": 5.4506838352733205,
+            "stars": 5,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/vimfn/.profile",
+            "updatedAt": "2024-11-18T19:40:44Z"
+        }
+    ],
+    "followers": 91,
+    "following": 0,
+    "public_repos": 38,
+    "pull_requests_merged": 21,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 799,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/vimfnx"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/vimfn"
+        }
+    ],
+    "activity_summary": {
+        "vimfn/gdgc_task_round_backend": {
+            "link": "https://github.com/vimfn/gdgc_task_round_backend",
+            "summary": "Recent activities include a series of push events to enhance and stabilize the backend functionality, such as disabling deployment, adding a temporary host URL, fixing route normalization, addressing a product ID bug, and performing code cleanup and typo fixes."
+        },
+        "vimfn/dots": {
+            "link": "https://github.com/vimfn/dots",
+            "summary": "The repository has seen updates with push events focusing on improvements such as adding an OSX safe timer function, incorporating POSIX, and solving issues related to pnpm and updating configurations like the 'gruvy bat'."
+        },
+        "vimfn/www": {
+            "link": "https://github.com/vimfn/www",
+            "summary": "Recent activities involve a set of push events aimed at updating dependencies and lockfiles, ensuring the website's backend is up-to-date and securely managed, including specific updates using 'bun lockfile'."
+        },
+        "berobbb/GdgEvent": {
+            "link": "https://github.com/berobbb/GdgEvent",
+            "summary": "The repository has undergone significant updates through push events, focusing on removing the cart feature, updating lockfiles, and enhancing functionality with the addition of React Router Toast and addressing related fixes to improve user experience."
+        },
+        "GDGCVITBHOPAL/Web-TechFest-24-25": {
+            "link": "https://github.com/GDGCVITBHOPAL/Web-TechFest-24-25",
+            "summary": "A notable push event was made to fix issues related to React Toast, highlighting the repository's recent activity in maintaining and refining its web technology festival project."
+        }
+    },
+    "profile_summary": "Arunava Ghosh is a highly skilled software developer with a strong foundation in programming languages such as TypeScript, Go, and Python. With a keen interest in computer technology, as evident from his personal motto \"computers are fun\", he has developed a unique approach to software development. His expertise in these areas has enabled him to create innovative solutions and contribute to various open-source projects. As a seasoned developer, Arunava has built a professional network of 91 followers who appreciate his technical expertise and insights.\n\nArunava's impressive portfolio of 38 public repositories showcases his active involvement in software development and his commitment to delivering high-quality solutions. His technical skills, combined with his passion for innovation, make him a valuable asset to any development team. As a reliable and skilled developer, Arunava is well-equipped to handle complex projects and collaborate with others to achieve exceptional results. With his strong technical foundation and dedication to his craft, Arunava Ghosh is an outstanding professional in the field of software development, poised to make significant contributions to the industry."
+}

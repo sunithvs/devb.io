@@ -1,0 +1,116 @@
+{
+    "username": "artistatbl",
+    "name": "Jean Daly",
+    "bio": "2nd Year In Software Engineer\r\nCurrently Learning Java and Web Dev",
+    "location": "warrington",
+    "avatar_url": "https://avatars.githubusercontent.com/u/88166536?v=4",
+    "profile_url": "https://github.com/artistatbl",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Bugify",
+            "description": "Bugify is an open-source software designed to enhance workflow management within software development teams and organizations. This tool is built using robust technologies such as TypeScript and Next.js, ensuring a scalable and maintainable codebase. It offers a suite of features aimed at improving teams with fixing issue faster",
+            "score": 1.650212536179193,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/artistatbl/Bugify",
+            "updatedAt": "2024-05-07T10:10:29Z"
+        },
+        {
+            "name": "Mywebsite",
+            "description": null,
+            "score": 1.5496265251766608,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/artistatbl/Mywebsite",
+            "updatedAt": "2023-11-25T20:42:27Z"
+        },
+        {
+            "name": "weask",
+            "description": "weask ",
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/artistatbl/weask",
+            "updatedAt": "2024-10-17T20:49:44Z"
+        },
+        {
+            "name": "NexusFlow",
+            "description": null,
+            "score": 0.2790553132756236,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/artistatbl/NexusFlow",
+            "updatedAt": "2024-06-27T22:03:18Z"
+        },
+        {
+            "name": "SimpleText",
+            "description": null,
+            "score": 0.2758326818696246,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/artistatbl/SimpleText",
+            "updatedAt": "2024-05-08T23:34:21Z"
+        },
+        {
+            "name": "NoteApp",
+            "description": null,
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/artistatbl/NoteApp",
+            "updatedAt": "2024-04-23T22:41:31Z"
+        },
+        {
+            "name": "Software-Testing",
+            "description": null,
+            "score": 0.2559383575524705,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/artistatbl/Software-Testing",
+            "updatedAt": "2024-01-09T16:27:34Z"
+        },
+        {
+            "name": "Testing",
+            "description": null,
+            "score": 0.16754045829017827,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/artistatbl/Testing",
+            "updatedAt": "2023-11-30T16:47:11Z"
+        }
+    ],
+    "followers": 5,
+    "following": 28,
+    "public_repos": 29,
+    "pull_requests_merged": 0,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 352,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {},
+    "profile_summary": "Jean Daly is a highly skilled software engineer with a strong foundation in programming languages, including TypeScript, JavaScript, and Python. With a growing professional network of followers and a portfolio of 29 public repositories, Jean has established herself as a reliable and innovative developer in the industry. As a second-year software engineer, she continues to expand her technical expertise, currently exploring Java and web development to further enhance her skill set.\n\nJean's dedication to ongoing learning and professional growth positions her as a high-performing and adaptable developer, capable of tackling complex projects and delivering high-quality solutions. With a keen interest in emerging technologies and a passion for collaborative development, Jean is an exceptional team player who brings valuable expertise and enthusiasm to her work. As a results-driven professional with a strong online presence, Jean is well-equipped to drive innovative projects forward, leveraging her technical prowess and creative problem-solving skills to deliver exceptional results in the software development field."
+}

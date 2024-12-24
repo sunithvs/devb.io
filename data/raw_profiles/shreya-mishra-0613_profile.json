@@ -1,0 +1,95 @@
+{
+    "username": "shreya-mishra-0613",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/181230190?v=4",
+    "profile_url": "https://github.com/Shreya-Mishra-0613",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CoffeeMachineCLI",
+            "description": null,
+            "score": 1.3810604808249818,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Shreya-Mishra-0613/CoffeeMachineCLI",
+            "updatedAt": "2024-10-05T18:19:47Z"
+        },
+        {
+            "name": "mini-project",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Shreya-Mishra-0613/mini-project",
+            "updatedAt": "2024-12-05T09:11:17Z"
+        },
+        {
+            "name": "Task_3",
+            "description": null,
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Shreya-Mishra-0613/Task_3",
+            "updatedAt": "2024-11-16T12:41:49Z"
+        },
+        {
+            "name": "EDA",
+            "description": null,
+            "score": 0.3593341736205279,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Shreya-Mishra-0613/EDA",
+            "updatedAt": "2024-10-28T04:11:36Z"
+        },
+        {
+            "name": "Who-s-That-Pokemon",
+            "description": null,
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Shreya-Mishra-0613/Who-s-That-Pokemon",
+            "updatedAt": "2024-09-14T12:54:35Z"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Shreya-Mishra-0613/Task_3": {
+            "link": "https://github.com/Shreya-Mishra-0613/Task_3",
+            "summary": "Recent activities in the Task_3 repository include updates to feature engineering on crop yield data, with multiple push events occurring on November 16, 15, and 1, focusing on code updates and exploratory data analysis of datasets."
+        },
+        "Shreya-Mishra-0613/EDA": {
+            "link": "https://github.com/Shreya-Mishra-0613/EDA",
+            "summary": "The EDA repository has seen recent updates with push events on October 28 and 21, primarily consisting of code updates in preparation for evaluation, demonstrating ongoing maintenance and refinement of the project."
+        }
+    },
+    "profile_summary": "This highly skilled developer is a proficient expert in a range of cutting-edge technologies, including Jupyter Notebook, Python, and HTML. With a strong foundation in these core technical skills, they bring a unique ability to craft innovative solutions that drive results. Their expertise is showcased through their active development work, with five public repositories that demonstrate their capabilities and commitment to delivering high-quality projects. As a trusted professional with a growing network of peers, they have already garnered recognition and respect from their community, with one follower who values their technical insights and expertise.\n\nWith a proven track record of delivering high-quality projects, this developer is a reliable and talented professional who is dedicated to staying at the forefront of industry trends and advancements. Their proficiency in key technologies such as data science and web development enables them to tackle complex challenges and create innovative solutions that drive business value. By leveraging their technical expertise and collaborative approach, they are well-equipped to drive projects forward and deliver exceptional results that exceed expectations. Whether working on data-driven projects or web development initiatives, this skilled developer is a valuable asset to any team, bringing a unique combination of technical expertise, creativity, and passion to every project they undertake."
+}

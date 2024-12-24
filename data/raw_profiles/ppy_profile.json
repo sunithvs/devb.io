@@ -3,23 +3,23 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include the addition of support for 'freestyle' in multiplayer, with pull requests focused on implementing this feature and addressing related issues such as nerfing repeated angles on acute bonus. Also, there were push events to use 'lastAngle' when nerfing repeated angles on acute bonus, demonstrating the repository's ongoing development and refinement."
-        },
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Activity has been centered around further cleanup of the 'Help centre/Beatmapping and editor' section, with a pull request focused on following up on recently merged changes and ensuring compliance with the contribution checklist, indicating a commitment to maintaining and improving the wiki's content."
-        },
-        "ppy/osu-server-spectator": {
-            "link": "https://github.com/ppy/osu-server-spectator",
-            "summary": "A pull request was submitted to add support for 'freestyle' in multiplayer, although it lacked a detailed description, it points towards an effort to enhance spectator features in line with other repositories, suggesting a coordinated approach to implementing 'freestyle' support across different components of the osu ecosystem."
+            "summary": "Recent activities have included the implementation of the ability to mark beatmaps as played, adding a 'Hidden' cursor state flag on all platforms, and introducing support for 'freestyle' in multiplayer. These updates aim to enhance user experience and functionality within the game, with contributions addressing various aspects such as beatmap handling, cursor visibility, and multiplayer features."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "There has been a pull request to add support for 'freestyle' in multiplayer, with a focus on implementing the necessary backend logic to allow players to individually choose their beatmap and ruleset, including the requirement for validation to ensure users cannot pick beatmaps outside the current set or with lengths significantly different from the base playlist item, showcasing the repository's role in facilitating multiplayer functionalities."
+            "summary": "Notable activities on osu-web include requiring the multiplayer API to join multiplayer rooms, adding a leave team button, and explicit TypeScript types. These updates focus on refining multiplayer interactions, team management, and code quality. Additionally, there are efforts to support 'freestyle' in multiplayer, which involves enabling players to individually choose their beatmaps and rulesets within a room."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "Recent activities on the osu-wiki have centered around further cleanup of the 'Help centre/Beatmapping and editor' section. This cleanup is part of ongoing efforts to maintain and improve the wiki's content, ensuring it remains a valuable resource for the osu! community by providing accurate and accessible information on beatmapping and editor usage."
+        },
+        "ppy/osu-server-spectator": {
+            "link": "https://github.com/ppy/osu-server-spectator",
+            "summary": "The osu-server-spectator has seen activity related to adding support for 'freestyle' in multiplayer, which is a feature that allows for more flexible gameplay options within multiplayer rooms. This update is part of broader efforts to enhance multiplayer capabilities and user experience across different components of the osu! ecosystem."
         },
         "ppy/osu-server-beatmap-submission": {
             "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "A pull request was initiated to implement required interactions with beatmap mirrors, primarily involving the purging of outdated cached packages, highlighting the ongoing effort to enhance the beatmap submission process and ensure its efficiency and reliability."
+            "summary": "Recent work on osu-server-beatmap-submission includes implementing required interactions with beatmap mirrors. This involves purging outdated cached packages and is a step towards improving the beatmap submission process, ensuring that it is more efficient and reliable for users submitting their beatmaps for review and inclusion in the game."
         }
     },
     "profile_summary": null

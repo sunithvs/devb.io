@@ -1,0 +1,138 @@
+{
+    "username": "salmanfarisvp",
+    "name": "Salman Faris",
+    "bio": "Start where you are, use what you have, do what you can",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11945360?u=d338c0f86bd89cc1f22187e02288d90046ed49d8&v=4",
+    "profile_url": "https://github.com/salmanfarisvp",
+    "top_languages": [
+        [
+            "C++",
+            8
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TelegramBot",
+            "description": "rpi based TelegramBot",
+            "score": 10.964081017609278,
+            "stars": 18,
+            "forks": 25,
+            "language": "Python",
+            "url": "https://github.com/salmanfarisvp/TelegramBot",
+            "updatedAt": "2024-10-14T20:09:26Z"
+        },
+        {
+            "name": "esp8266",
+            "description": "esp8266 resources. ",
+            "score": 6.884663878064278,
+            "stars": 17,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/salmanfarisvp/esp8266",
+            "updatedAt": "2022-07-27T00:40:47Z"
+        },
+        {
+            "name": "SIGHT-For-the-Blind",
+            "description": "A pair of smart glasses for the blind. Powered by Android Things and TensorFlow. ",
+            "score": 6.706789565509287,
+            "stars": 6,
+            "forks": 5,
+            "language": "Java",
+            "url": "https://github.com/salmanfarisvp/SIGHT-For-the-Blind",
+            "updatedAt": "2023-09-23T10:06:29Z"
+        },
+        {
+            "name": "Wio-Terminal-MQTT",
+            "description": null,
+            "score": 3.947817602335034,
+            "stars": 3,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/salmanfarisvp/Wio-Terminal-MQTT",
+            "updatedAt": "2023-07-24T10:32:32Z"
+        },
+        {
+            "name": "IOTBasic",
+            "description": "IOT Basic Training with Cayenne ",
+            "score": 3.3638725119231565,
+            "stars": 2,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/salmanfarisvp/IOTBasic",
+            "updatedAt": "2023-04-07T06:39:54Z"
+        },
+        {
+            "name": "AndroidThings",
+            "description": "Android Things ",
+            "score": 3.300387606858941,
+            "stars": 2,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/salmanfarisvp/AndroidThings",
+            "updatedAt": "2018-10-28T00:05:08Z"
+        },
+        {
+            "name": "Walabot",
+            "description": "Walabot projects ",
+            "score": 2.899799706957634,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/salmanfarisvp/Walabot",
+            "updatedAt": "2023-11-08T12:27:47Z"
+        },
+        {
+            "name": "AgriBot",
+            "description": "Agricultral based Bot",
+            "score": 2.6143097404667888,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/salmanfarisvp/AgriBot",
+            "updatedAt": "2024-01-31T16:47:35Z"
+        }
+    ],
+    "followers": 101,
+    "following": 0,
+    "public_repos": 159,
+    "pull_requests_merged": 31,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 545,
+        "repositories_contributed_to": 12
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/0xsalfar"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/salmanfarisvp/"
+        }
+    ],
+    "activity_summary": {
+        "MakerGram/tinymlhack2024-docs": {
+            "link": "https://github.com/MakerGram/tinymlhack2024-docs",
+            "summary": "Recent activities include multiple push events with updates such as adding object detection versus image classification, ESP32 guide, community projects, and various CI/CD configurations. There were also several changes to the repository's build and deployment processes, including the addition of Netlify and fixing of folder names."
+        },
+        "MakerGram/tinymlhack2024": {
+            "link": "https://github.com/MakerGram/tinymlhack2024",
+            "summary": "Recent activities involve a push event and a pull request that fixed the footer text of the repository. The pull request was successfully merged into the main branch, addressing the footer text issue and contributing to the repository's improvement."
+        },
+        "Screenly/Playground": {
+            "link": "https://github.com/Screenly/Playground",
+            "summary": "The repository saw two pull requests for new asset metadata apps, each aiming to incorporate brand fetching features, update UI, and include features like error tracking and theme option selection. These pull requests also outlined to-do lists for further development, indicating ongoing work on enhancing the repository's functionalities."
+        }
+    },
+    "profile_summary": "Salman Faris is a highly skilled and accomplished developer with a strong foundation in programming languages such as C++, C, and Python. With a diverse portfolio of 159 public repositories, he has consistently demonstrated his ability to design, develop, and deploy high-quality software solutions. His technical expertise, combined with a strong work ethic and dedication to innovation, has earned him a reputation as a reliable and results-driven professional in the field of software development. As a developer with a strong network of 101 followers, Salman Faris is well-connected and influential in his community.\n\nSalman Faris brings a unique value proposition to the table, leveraging his technical skills and experience to deliver innovative solutions that meet the needs of his clients and stakeholders. His approach to development is guided by the philosophy of starting where you are, using what you have, and doing what you can, which enables him to be adaptable, resourceful, and effective in a rapidly changing technological landscape. With a strong commitment to professional excellence and a passion for staying up-to-date with the latest industry trends and best practices, Salman Faris is a highly sought-after developer who can make a significant impact in a variety of roles and projects, from software development and engineering to data science and artificial intelligence."
+}

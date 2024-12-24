@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository have focused on enhancing documentation within the core/btree module. Multiple pull requests and a push event have introduced various improvements, including tweaks to the insert_into_cell and compute_free_space functions, better comments and variable renaming, and additional links to relevant SQLite source information. These updates aim to improve code clarity and support, with the push event also incorporating a merged pull request that further enriches the documentation without introducing functional changes."
+            "summary": "Recent activities in the limbo repository include a pull request event involving documentation tweaks to the core btree, specifically updating insert_into_cell() and compute_free_space() functions, which were made on 2024-12-24."
         }
     },
     "profile_summary": null

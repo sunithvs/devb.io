@@ -1,0 +1,115 @@
+{
+    "username": "harikrishnan-pv",
+    "name": "Mr. Robot",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/32813618?u=a3dbe45ca17cd7c60edb491cab36f1a68a1a3e07&v=4",
+    "profile_url": "https://github.com/harikrishnan-pv",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "HTML",
+            6
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "harikrishnan-pv.github.io",
+            "description": null,
+            "score": 1.4566595523723467,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/harikrishnan-pv/harikrishnan-pv.github.io",
+            "updatedAt": "2022-03-02T04:18:33Z"
+        },
+        {
+            "name": "harikrishnan-pv",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.22369232503875403,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/harikrishnan-pv/harikrishnan-pv",
+            "updatedAt": "2024-05-07T16:51:59Z"
+        },
+        {
+            "name": "filmfest",
+            "description": null,
+            "score": 0.15431992642079595,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/harikrishnan-pv/filmfest",
+            "updatedAt": "2023-06-05T18:39:50Z"
+        },
+        {
+            "name": "muziris",
+            "description": null,
+            "score": 0.15205726864554236,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harikrishnan-pv/muziris",
+            "updatedAt": "2023-06-05T18:41:14Z"
+        },
+        {
+            "name": "Waiting-Book",
+            "description": null,
+            "score": 0.14973776168275255,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harikrishnan-pv/Waiting-Book",
+            "updatedAt": "2023-06-05T18:40:30Z"
+        },
+        {
+            "name": "Medha",
+            "description": null,
+            "score": 0.14751906353327135,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/harikrishnan-pv/Medha",
+            "updatedAt": "2023-06-05T18:41:53Z"
+        },
+        {
+            "name": "dr.ayman",
+            "description": null,
+            "score": 0.14371019852115238,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harikrishnan-pv/dr.ayman",
+            "updatedAt": "2023-06-05T18:42:53Z"
+        },
+        {
+            "name": "Saluberry_1",
+            "description": null,
+            "score": 0.143476331982022,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harikrishnan-pv/Saluberry_1",
+            "updatedAt": "2023-06-05T18:43:54Z"
+        }
+    ],
+    "followers": 3,
+    "following": 2,
+    "public_repos": 28,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 122,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Mr. Robot is a highly skilled and accomplished developer with a strong foundation in JavaScript, HTML, and CSS. With a proven track record of delivering high-quality solutions, he has established himself as a trusted and reliable expert in his field. His extensive experience in web development has equipped him with the skills to design, develop, and deploy innovative applications that meet the evolving needs of the digital landscape. As a dedicated professional, Mr. Robot stays up-to-date with the latest industry trends and technologies, ensuring his work remains fresh, efficient, and effective.\n\nAs a prominent figure in the development community, Mr. Robot has garnered a following of 3 professionals who appreciate his technical expertise and contributions to the field. His impressive portfolio of 28 public repositories showcases his active engagement in development projects, demonstrating his ability to collaborate, adapt, and drive results. With a unique blend of technical proficiency, creativity, and passion, Mr. Robot brings significant value to his work, making him an asset to any project or organization. His commitment to excellence, combined with his expertise in JavaScript, HTML, and CSS, positions him as a leading developer in the industry, capable of driving successful outcomes and pushing the boundaries of what is possible in the world of web development."
+}

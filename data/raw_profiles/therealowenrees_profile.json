@@ -1,0 +1,133 @@
+{
+    "username": "therealowenrees",
+    "name": "Owen Rees",
+    "bio": "Fullstack Web and App Developer. JavaScript | TypeScript | React | NextJS | Python | Elixir.",
+    "location": "Pays de la Loire, France",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11390760?u=923e1f23bc0b3cbf6a11b53dab46e9948afd914e&v=4",
+    "profile_url": "https://github.com/TheRealOwenRees",
+    "top_languages": [
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Elixir",
+            3
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "echecsfrance",
+            "description": "A website displaying upcoming chess tournaments for the FFE on a map",
+            "score": 7.317634198500992,
+            "stars": 8,
+            "forks": 5,
+            "language": "TypeScript",
+            "url": "https://github.com/TheRealOwenRees/echecsfrance",
+            "updatedAt": "2024-12-03T10:54:21Z"
+        },
+        {
+            "name": "chess-pdf",
+            "description": "A PGN file to PDF conversion tool",
+            "score": 5.7890673241303325,
+            "stars": 6,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/TheRealOwenRees/chess-pdf",
+            "updatedAt": "2024-10-23T15:58:07Z"
+        },
+        {
+            "name": "WBS-web-dev-resources",
+            "description": "A collection of external resources from the WBS Web & App Development Bootcamp ",
+            "score": 4.411613134582573,
+            "stars": 4,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/TheRealOwenRees/WBS-web-dev-resources",
+            "updatedAt": "2023-02-23T11:22:00Z"
+        },
+        {
+            "name": "logger_webhook_backend",
+            "description": "A backend for Elixir's Logger, allowing the sending of logs direct to webhooks.",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/TheRealOwenRees/logger_webhook_backend",
+            "updatedAt": "2024-12-23T22:28:36Z"
+        },
+        {
+            "name": "plantid-discord-bot",
+            "description": "PlantID Bot identifies plants from photos of their organs, passing to the PlantNet API for identification.",
+            "score": 2.01184294825626,
+            "stars": 1,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/TheRealOwenRees/plantid-discord-bot",
+            "updatedAt": "2024-12-22T21:36:19Z"
+        },
+        {
+            "name": "file_server",
+            "description": "A temporary file server written in Elixir",
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/TheRealOwenRees/file_server",
+            "updatedAt": "2024-12-06T11:35:30Z"
+        },
+        {
+            "name": "healthcheck",
+            "description": "API Health Status",
+            "score": 0.25893258697495064,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/TheRealOwenRees/healthcheck",
+            "updatedAt": "2024-12-22T21:20:07Z"
+        },
+        {
+            "name": "colorconverter",
+            "description": "A zero dependency, lightweight color manipulation library.",
+            "score": 0.25606301069720333,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/TheRealOwenRees/colorconverter",
+            "updatedAt": "2024-03-24T08:25:25Z"
+        }
+    ],
+    "followers": 31,
+    "following": 35,
+    "public_repos": 22,
+    "pull_requests_merged": 44,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1249,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "TheRealOwenRees/plantid-discord-bot": {
+            "link": "https://github.com/TheRealOwenRees/plantid-discord-bot",
+            "summary": "Recent activities have focused on enhancing the bot's functionality with multiple push events. Updates include exporting environment variables, logging scripts, and implementing a sleep mechanism between scripts. Additionally, improvements were made to command start changes, image URL handling, and error handling for accepted image types. There were also updates to environment variables, including the addition of new variables and modifications to the config and README files to reflect these changes."
+        },
+        "TheRealOwenRees/logger_webhook_backend": {
+            "link": "https://github.com/TheRealOwenRees/logger_webhook_backend",
+            "summary": "The repository saw a recent push event that added ExDoc and included renaming of variables along with basic tests, indicating ongoing development and improvement of the project."
+        },
+        "TheRealOwenRees/therealowenrees": {
+            "link": "https://github.com/TheRealOwenRees/therealowenrees",
+            "summary": "A single push event updated the README.md file, suggesting minor adjustments to the repository's documentation or information."
+        },
+        "TheRealOwenRees/healthcheck": {
+            "link": "https://github.com/TheRealOwenRees/healthcheck",
+            "summary": "A push event updated the fileserver name, indicating a specific modification to the repository's configuration or setup."
+        }
+    },
+    "profile_summary": "Owen Rees is a highly skilled fullstack web and app developer with a strong proficiency in a range of programming languages, including TypeScript, Elixir, and C. With a solid foundation in JavaScript and expertise in popular frameworks such as React and NextJS, Owen is well-equipped to handle complex development projects. His experience with Python and Elixir further enhances his versatility as a developer, allowing him to tackle a wide range of challenges. As a seasoned professional with a growing network of 31 followers and an impressive portfolio of 22 public repositories, Owen has established himself as a reliable and innovative developer.\n\nAs a fullstack developer, Owen brings a unique blend of technical expertise and creative problem-solving skills to the table. His ability to design and develop seamless user experiences, combined with his technical prowess, makes him an invaluable asset to any development team. With a strong online presence and a consistent track record of delivering high-quality solutions, Owen is an attractive collaborator for businesses and individuals seeking to drive innovation and growth through technology. By leveraging his expertise in emerging technologies and staying up-to-date with the latest industry trends, Owen continues to push the boundaries of what is possible in the world of web and app development, solidifying his position as a leading developer in his field."
+}

@@ -3,23 +3,19 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include the addition of a 'Hidden' cursor state flag on non-desktop platforms, implementation of the ability to mark beatmaps as played, and the introduction of 'freestyle' mode in multiplayer, allowing users to choose their own beatmaps and rulesets. Other updates involve fixes for raw input on mobile devices, display of team logos, and improvements to the multiplayer experience."
-        },
-        "ppy/osu-web": {
-            "link": "https://github.com/ppy/osu-web",
-            "summary": "Activities include enhancements to the multiplayer API, such as requiring the API to join multiplayer rooms and adding a leave team button. Additionally, there have been efforts to improve TypeScript types, rename constants, and account for retina size team flags. A pull request has also been made to add support for 'freestyle' mode in multiplayer, enabling individual beatmap and ruleset selection."
+            "summary": "Recent activities include several push and pull requests focused on implementing new features such as marking beatmaps as played, adding a 'Hidden' cursor state flag for better raw input handling on non-desktop platforms, and support for 'freestyle' in multiplayer. These updates aim to enhance user experience and functionality within the game, addressing issues and introducing new capabilities."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "A recent pull request aims to add support for locking screen orientation on iOS, which can be utilized in osu! for gameplay purposes."
+            "summary": "Activity involves a pull request to add support for locking screen orientation on iOS, which is intended for use in osu! during gameplay to provide a more consistent experience across different devices."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "Recent updates include various push events that implement improvements such as requiring the multiplayer API to join rooms, adding event submission endpoints, introducing a leave team button, and enhancing TypeScript types for better code organization and clarity."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "A pull request has been submitted for further cleanup of the 'Help centre/Beatmapping and editor' section, following up on a previously merged change and adhering to the contribution checklist."
-        },
-        "ppy/osu-server-spectator": {
-            "link": "https://github.com/ppy/osu-server-spectator",
-            "summary": "A pull request has been made to add support for 'freestyle' mode in multiplayer, although it currently lacks a detailed description."
+            "summary": "Activity is centered around a pull request aimed at further cleaning up the 'Help centre/Beatmapping and editor' section, following up on previous cleanup efforts to maintain the wiki's quality and consistency."
         }
     },
     "profile_summary": null

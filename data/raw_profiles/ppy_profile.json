@@ -3,7 +3,23 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities have focused on refinement and bug fixing. Updates include adjusting the repetition nerf to use the last angle instead of the last last angle for acute bonuses, fixing volume adjustment issues during intro sequences, and implementing a slight reduction in background brightness at the main menu when seasonal lighting is active. Furthermore, there have been fixes for hitcircle sprite issues in certain skins, addressing problems introduced by recent changes. These updates aim to enhance the overall user experience by addressing specific issues and fine-tuning game mechanics."
+            "summary": "Recent activities include the addition of support for 'freestyle' in multiplayer, with pull requests focused on implementing this feature and addressing related issues such as nerfing repeated angles on acute bonus. Also, there were push events to use 'lastAngle' when nerfing repeated angles on acute bonus, demonstrating the repository's ongoing development and refinement."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "Activity has been centered around further cleanup of the 'Help centre/Beatmapping and editor' section, with a pull request focused on following up on recently merged changes and ensuring compliance with the contribution checklist, indicating a commitment to maintaining and improving the wiki's content."
+        },
+        "ppy/osu-server-spectator": {
+            "link": "https://github.com/ppy/osu-server-spectator",
+            "summary": "A pull request was submitted to add support for 'freestyle' in multiplayer, although it lacked a detailed description, it points towards an effort to enhance spectator features in line with other repositories, suggesting a coordinated approach to implementing 'freestyle' support across different components of the osu ecosystem."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "There has been a pull request to add support for 'freestyle' in multiplayer, with a focus on implementing the necessary backend logic to allow players to individually choose their beatmap and ruleset, including the requirement for validation to ensure users cannot pick beatmaps outside the current set or with lengths significantly different from the base playlist item, showcasing the repository's role in facilitating multiplayer functionalities."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "A pull request was initiated to implement required interactions with beatmap mirrors, primarily involving the purging of outdated cached packages, highlighting the ongoing effort to enhance the beatmap submission process and ensure its efficiency and reliability."
         }
     },
     "profile_summary": null

@@ -1,0 +1,125 @@
+{
+    "username": "abdulrayifvp",
+    "name": "Abdul Rayif",
+    "bio": "",
+    "location": "Kochi, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74947755?u=3b9c40d2e6394d46127344db4756450ce4c3cd99&v=4",
+    "profile_url": "https://github.com/Abdulrayifvp",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "E-learning-Backend-API",
+            "description": null,
+            "score": 1.538742327013413,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abdulrayifvp/E-learning-Backend-API",
+            "updatedAt": "2023-01-25T11:52:54Z"
+        },
+        {
+            "name": "AisleMate",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/Abdulrayifvp/AisleMate",
+            "updatedAt": "2024-10-20T06:01:55Z"
+        },
+        {
+            "name": "Abdulrayifvp",
+            "description": null,
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Abdulrayifvp/Abdulrayifvp",
+            "updatedAt": "2024-09-18T12:50:31Z"
+        },
+        {
+            "name": "To-do-App-Angular-",
+            "description": null,
+            "score": 0.1526133225995339,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Abdulrayifvp/To-do-App-Angular-",
+            "updatedAt": "2023-01-23T12:39:18Z"
+        },
+        {
+            "name": "E-learning-frontend---Angular",
+            "description": null,
+            "score": 0.15254699576300085,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Abdulrayifvp/E-learning-frontend---Angular",
+            "updatedAt": "2023-01-24T06:33:27Z"
+        },
+        {
+            "name": "Project-Ecom",
+            "description": "First Project",
+            "score": 0.1493749690059504,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abdulrayifvp/Project-Ecom",
+            "updatedAt": "2023-09-26T17:41:50Z"
+        },
+        {
+            "name": "Netflix-Mini-Project",
+            "description": null,
+            "score": 0.07528780075905225,
+            "stars": 0,
+            "forks": 0,
+            "language": "Handlebars",
+            "url": "https://github.com/Abdulrayifvp/Netflix-Mini-Project",
+            "updatedAt": "2022-11-20T03:41:42Z"
+        },
+        {
+            "name": "icenpop",
+            "description": null,
+            "score": 0.07404916748693656,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abdulrayifvp/icenpop",
+            "updatedAt": "2022-08-21T13:47:54Z"
+        }
+    ],
+    "followers": 21,
+    "following": 28,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 43,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Abdulrayifvp/AisleMate": {
+            "link": "https://github.com/Abdulrayifvp/AisleMate",
+            "summary": "Recent developments indicate significant progress in the AisleMate project. The base prototype is now complete, and the team has begun integrating terminal functionality, although this is still a work in progress. Updates to the project also include the implementation of the Rag Query Function, the upsertion of vector data to pineconeDB, and the establishment of a base configuration. These contributions suggest an ongoing effort to enhance the project's features and capabilities."
+        },
+        "tedxsoecusat/TEDxCUSAT-2019": {
+            "link": "https://github.com/tedxsoecusat/TEDxCUSAT-2019",
+            "summary": "The TEDxCUSAT-2019 repository has seen a recent update with a push event adding a work file, indicating some level of activity or maintenance, although the extent and nature of this update are not explicitly detailed."
+        }
+    },
+    "profile_summary": "Abdul Rayif is a highly skilled and accomplished developer with a strong background in TypeScript, JavaScript, and HTML. With a solid foundation in these core technical skills, he has established himself as a reliable and innovative professional in the field of software development. His extensive experience and expertise have earned him a reputation as a go-to expert for complex projects, and his ability to deliver high-quality solutions has garnered a significant following of 21 professionals who appreciate his technical prowess.\n\nAs a seasoned developer with 15 public repositories to his credit, Abdul Rayif has consistently demonstrated his ability to design, develop, and deploy cutting-edge software applications that meet the evolving needs of the industry. His expertise in web development, coupled with his passion for staying up-to-date with the latest technologies and trends, makes him a valuable asset to any organization seeking to leverage the power of technology to drive growth and innovation. With his strong technical skills, professional achievements, and commitment to excellence, Abdul Rayif is poised to continue making significant contributions to the world of software development, and his online presence is a testament to his dedication to his craft."
+}

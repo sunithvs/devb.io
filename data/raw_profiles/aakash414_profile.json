@@ -1,0 +1,130 @@
+{
+    "username": "aakash414",
+    "name": "Aakash P R",
+    "bio": "4th Year BTech Undergrad at CUSAT",
+    "location": "Kochi, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/67820270?u=fd79e0542850e66ffd42b68b97cbb66067cc23bf&v=4",
+    "profile_url": "https://github.com/aakash414",
+    "top_languages": [
+        [
+            "JavaScript",
+            18
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "barakatexhibitions",
+            "description": null,
+            "score": 1.9246438854162484,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/aakash414/barakatexhibitions",
+            "updatedAt": "2024-06-10T06:05:14Z"
+        },
+        {
+            "name": "MedCritic",
+            "description": null,
+            "score": 1.305255704574766,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/aakash414/MedCritic",
+            "updatedAt": "2024-03-17T06:07:53Z"
+        },
+        {
+            "name": "MedMate",
+            "description": "Medicine price comparing web app",
+            "score": 1.1918425617700585,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/aakash414/MedMate",
+            "updatedAt": "2023-01-08T07:24:51Z"
+        },
+        {
+            "name": "Habit-Tracker",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/aakash414/Habit-Tracker",
+            "updatedAt": "2024-07-08T20:37:16Z"
+        },
+        {
+            "name": "blog-app",
+            "description": null,
+            "score": 0.28916299194693984,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aakash414/blog-app",
+            "updatedAt": "2024-06-28T15:03:55Z"
+        },
+        {
+            "name": "redux_api",
+            "description": "learn working of redux with async api calls",
+            "score": 0.28704032048575395,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aakash414/redux_api",
+            "updatedAt": "2024-06-21T14:49:07Z"
+        },
+        {
+            "name": "spotify_clone",
+            "description": null,
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aakash414/spotify_clone",
+            "updatedAt": "2024-06-20T16:53:21Z"
+        },
+        {
+            "name": "EmailBrief",
+            "description": "A Chrome extension that condenses long emails into bullet points using the Hugging Face API",
+            "score": 0.28616413491350695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aakash414/EmailBrief",
+            "updatedAt": "2024-06-18T08:32:20Z"
+        }
+    ],
+    "followers": 30,
+    "following": 35,
+    "public_repos": 72,
+    "pull_requests_merged": 8,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 874,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aakash414/"
+        }
+    ],
+    "activity_summary": {
+        "Make-a-Ton/make-a-ton-2024": {
+            "link": "https://github.com/Make-a-Ton/make-a-ton-2024",
+            "summary": "The Make-a-Ton/make-a-ton-2024 repository has witnessed significant activities recently, with multiple push events occurring between September 25, 2024, and October 28, 2024. The updates include various UI/UX modifications such as adding a project link, updating font styles, and modifying sponsor logos. Additionally, updates were made to the FAQ section and bug fixes were implemented, showcasing the repository's ongoing development and maintenance efforts."
+        },
+        "AaroneGeorge/ethindia24": {
+            "link": "https://github.com/AaroneGeorge/ethindia24",
+            "summary": "The AaroneGeorge/ethindia24 repository has seen notable activities in early December 2024, with two push events recorded on December 8, 2024. The updates involved refactoring coin data fetching to update every 60 seconds and changing the price change metric to 24 hours. Furthermore, the repository underwent UI final changes, indicating a focus on enhancing the user experience and data accuracy."
+        }
+    },
+    "profile_summary": "Aakash P R is a highly skilled and innovative developer with a strong foundation in programming languages such as JavaScript, TypeScript, and C++. As a 4th year BTech undergrad at CUSAT, he has already demonstrated a high level of technical expertise and a keen interest in software development. With a growing professional network of 30 followers, Aakash has established himself as a reliable and knowledgeable developer in his community. His active participation in development is evident from his 72 public repositories, showcasing his ability to design, develop, and deploy high-quality software solutions.\n\nAakash's technical skills and achievements position him as a talented and ambitious developer with a unique value proposition. He is well-versed in industry-relevant technologies and is committed to delivering innovative solutions that meet the needs of his clients. With a strong online presence and a track record of successful projects, Aakash is an attractive candidate for collaborative opportunities and a valuable asset to any development team. His passion for coding, combined with his academic background and professional experience, make him a high-performing developer with a bright future in the tech industry."
+}

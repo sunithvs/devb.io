@@ -1,0 +1,137 @@
+{
+    "username": "angeloantu7",
+    "name": "Angelo Antu",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/94218410?u=713508c51323623acad0013b95373a1c7531079b&v=4",
+    "profile_url": "https://github.com/ANGELOANTU7",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            12
+        ],
+        [
+            "Java",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CCTV-SURVEILLANCE",
+            "description": "This software can automatically detect an anomaly in CCTV live footage , and store the face ids and number-plate of vehicles",
+            "score": 3.3654327744183035,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ANGELOANTU7/CCTV-SURVEILLANCE",
+            "updatedAt": "2023-04-22T04:21:06Z"
+        },
+        {
+            "name": "AI-Doctor",
+            "description": null,
+            "score": 2.6618799919292924,
+            "stars": 1,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ANGELOANTU7/AI-Doctor",
+            "updatedAt": "2024-12-16T11:30:43Z"
+        },
+        {
+            "name": "AI_POWERED_EXAM_PREPARATION_BASED_ON_PYQS",
+            "description": null,
+            "score": 2.3522900372753552,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ANGELOANTU7/AI_POWERED_EXAM_PREPARATION_BASED_ON_PYQS",
+            "updatedAt": "2023-04-03T16:47:45Z"
+        },
+        {
+            "name": "SRM-HACK",
+            "description": null,
+            "score": 1.804822532124165,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/ANGELOANTU7/SRM-HACK",
+            "updatedAt": "2023-05-20T09:13:29Z"
+        },
+        {
+            "name": "DOP-SESSION-4",
+            "description": null,
+            "score": 1.5385133775086965,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ANGELOANTU7/DOP-SESSION-4",
+            "updatedAt": "2023-01-12T11:15:45Z"
+        },
+        {
+            "name": "robot_ik",
+            "description": null,
+            "score": 1.300044724993248,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/ANGELOANTU7/robot_ik",
+            "updatedAt": "2024-02-13T12:09:17Z"
+        },
+        {
+            "name": "nest-data-hackathon",
+            "description": null,
+            "score": 1.191810271287232,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ANGELOANTU7/nest-data-hackathon",
+            "updatedAt": "2023-01-25T08:17:16Z"
+        },
+        {
+            "name": "KRISHINETRA",
+            "description": "A website for Forest Department of India to tracking all individual sapling by taking benefit Social Media",
+            "score": 1.1151879993793703,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/ANGELOANTU7/KRISHINETRA",
+            "updatedAt": "2022-12-01T16:14:00Z"
+        }
+    ],
+    "followers": 19,
+    "following": 1,
+    "public_repos": 68,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 147,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ANGELLOANTU7/flipkart_grid24": {
+            "link": "https://github.com/ANGELOANTU7/flipkart_grid24",
+            "summary": "Recent activities in this repository include multiple push events on December 11, 2024, involving updates to submodules, addition of dataset metadata, editing of the readme, removal of a submodule, and bug fixes. These changes suggest ongoing development and refinement of the project's codebase and documentation."
+        },
+        "ANGELLOANTU7/flipkart_data_ingestion_pipeline": {
+            "link": "https://github.com/ANGELOANTU7/flipkart_data_ingestion_pipeline",
+            "summary": "This repository experienced a series of push events on December 11, 2024, primarily focused on updating submodules and adding a readme. These updates indicate maintenance and enhancements to the project, possibly in preparation for broader deployment or to improve its functionality."
+        },
+        "ANGELLOANTU7/flipkart_preview_creator": {
+            "link": "https://github.com/ANGELOANTU7/flipkart_preview_creator",
+            "summary": "Recent activities in this repository include push events from December 11, 2024, which involved updates to submodules, the addition of a readme, and the integration of a lambda function. These changes suggest active development aimed at expanding the project's capabilities, potentially incorporating serverless computing functionalities."
+        },
+        "ANGELLOANTU7/flipkart_get_dataset_details": {
+            "link": "https://github.com/ANGELOANTU7/flipkart_get_dataset_details",
+            "summary": "Activities in this repository on December 11, 2024, were marked by push events that added a readme, indicating documentation efforts. This suggests a focus on improving the project's accessibility and understandability, possibly for collaboration or user engagement purposes."
+        },
+        "ANGELLOANTU7/flipkart_data_ingestion": {
+            "link": "https://github.com/ANGELOANTU7/flipkart_data_ingestion",
+            "summary": "Recent activities include the addition of a readme and a lambda function on December 11, 2024. These updates point towards enhancement of the project's data processing capabilities and documentation, likely aimed at improving its usability and functionality in data ingestion tasks."
+        }
+    },
+    "profile_summary": "Angelo Antu is a highly skilled and accomplished software developer with a strong foundation in programming languages such as C++, Python, and Java. With a robust professional network of 19 followers, he has established himself as a reliable and innovative expert in his field. His impressive portfolio of 68 public repositories showcases his dedication to active development and commitment to delivering high-quality solutions. As a seasoned developer, Angelo possesses a unique blend of technical expertise and creative problem-solving skills, enabling him to craft innovative and efficient software solutions that meet the evolving needs of the industry.\n\nWith a keen eye for detail and a passion for staying up-to-date with the latest trends and technologies, Angelo consistently delivers cutting-edge solutions that drive results. His expertise in C++, Python, and Java has equipped him with the skills to tackle complex projects and collaborate effectively with cross-functional teams. As a trusted and respected member of the developer community, Angelo's work is characterized by precision, accuracy, and a relentless pursuit of excellence. His online presence and contributions to open-source projects have earned him recognition and respect from peers and industry leaders alike, solidifying his position as a high-performing and innovative professional in the field of software development."
+}

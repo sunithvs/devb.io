@@ -3,7 +3,7 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include fixes for hitcircle sprite visibility issues, adjustments to beat snap divisor defaults, and updates to the framework. Several pull requests have been submitted and merged, addressing issues such as the volume adjustment using the scroll wheel during intro, background brightness at the main menu, and legacy hitcircle fallback logic. These changes aim to improve the overall user experience and resolve existing bugs."
+            "summary": "Recent activities have focused on refinement and bug fixing. Updates include adjusting the repetition nerf to use the last angle instead of the last last angle for acute bonuses, fixing volume adjustment issues during intro sequences, and implementing a slight reduction in background brightness at the main menu when seasonal lighting is active. Furthermore, there have been fixes for hitcircle sprite issues in certain skins, addressing problems introduced by recent changes. These updates aim to enhance the overall user experience by addressing specific issues and fine-tuning game mechanics."
         }
     },
     "profile_summary": null

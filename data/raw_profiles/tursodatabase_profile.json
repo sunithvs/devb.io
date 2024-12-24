@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the repository include a push event with a commit message of 'fmt', indicating code formatting changes. Additionally, a pull request has been submitted titled 'core: wal transaction start', which introduces support for multiple readers and a single writer using a custom 'LimboRwLock' with a focus on handling concurrent access. The pull request is pending testing and review."
+            "summary": "Recent activities in the tursodatabase/limbo repository include a push event with code formatting updates and a pull request introducing support for multiple readers and a single writer with a custom LimboRwLock, enabling concurrent access with a single writer and multiple readers while allowing for various checkpoint modes."
         }
     },
     "profile_summary": null

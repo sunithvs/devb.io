@@ -3,11 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen significant activity with multiple pull requests and push events, focusing on adding new content, including lazer mod articles and a 'happy holidays!' news post, as well as fixing duplicate wording and adding images to event pages. Furthermore, the repository has had updates to various mod fields, reformatting of key mod details, and additions to the lazer mod listing, demonstrating a substantial effort to maintain and enhance the wiki's content and structure."
+            "summary": "Recent activities in the osu-wiki repository include fixes for duplicate wording on holiday newsposts, addition of lazer mod articles, and updates to various mod fields and descriptions, with multiple pull requests and push events occurring on December 24th and 25th."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "The osu repository saw a push event on December 25th, implementing the ability to mark a beatmap as played through a merged pull request."
         },
         "ppy/helm-charts": {
             "link": "https://github.com/ppy/helm-charts",
-            "summary": "The ppy/helm-charts repository has experienced recent activity, primarily consisting of push events aimed at updating the index.yaml file and addressing a probe type comparison issue. These updates suggest a focus on maintaining the integrity and accuracy of the charts, ensuring they remain up-to-date and functional for users."
+            "summary": "The helm-charts repository had a push event on December 24th, updating the index.yaml file with a signed-off commit from ThePooN."
         }
     },
     "profile_summary": null

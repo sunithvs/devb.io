@@ -1,0 +1,137 @@
+{
+    "username": "ranjithsiji",
+    "name": "Ranjith Siji",
+    "bio": "PHP, Python, Node developer from scratch. Experimenting with various Frameworks. Wikipedia Editor, OSM Contributor and Hacker.",
+    "location": "Cochin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/248799?v=4",
+    "profile_url": "https://github.com/ranjithsiji",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "PHP",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tools-editathonstat",
+            "description": "Wiki Edit A thon statistics Tool",
+            "score": 5.055353151033883,
+            "stars": 4,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/ranjithsiji/tools-editathonstat",
+            "updatedAt": "2024-05-25T11:56:03Z"
+        },
+        {
+            "name": "ilc",
+            "description": "Indian Langauge Converter",
+            "score": 2.2601332320307392,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ranjithsiji/ilc",
+            "updatedAt": "2018-05-01T08:42:56Z"
+        },
+        {
+            "name": "php-fileloader",
+            "description": "A PHP File copy script to copy files from other locations to the hosted server",
+            "score": 2.2571905176977816,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ranjithsiji/php-fileloader",
+            "updatedAt": "2019-11-19T04:38:45Z"
+        },
+        {
+            "name": "googledocs-addon-wikitableworks",
+            "description": "WikiTableWorks is a Google Sheets Add-on that converts spreadsheet range/selection to a wiki table (for Wikipedia, MediaWiki, Github wikis, etc.). Written in Google Apps Script. Addon Designed for Google Docs.",
+            "score": 2.142286194709226,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/ranjithsiji/googledocs-addon-wikitableworks",
+            "updatedAt": "2018-07-05T22:50:31Z"
+        },
+        {
+            "name": "wikilite",
+            "description": "An Attempt to create a lightweight Wikipedia search frontend and a distraction free reading article.",
+            "score": 1.5085431412669572,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ranjithsiji/wikilite",
+            "updatedAt": "2023-12-16T18:13:29Z"
+        },
+        {
+            "name": "periodictable",
+            "description": "Animated Periodic Table for LUCA",
+            "score": 1.4528249100873167,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ranjithsiji/periodictable",
+            "updatedAt": "2022-08-20T12:07:01Z"
+        },
+        {
+            "name": "Vruthasahayi",
+            "description": "  A utility to find/check the \"vrutham\" (metrics) of a given Malayalam poem.",
+            "score": 1.4511133863911025,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ranjithsiji/Vruthasahayi",
+            "updatedAt": "2021-03-27T09:04:24Z"
+        },
+        {
+            "name": "science-dictionary",
+            "description": "Wordpress Science Dictionary Plugin using WP_LIST_TABLE. ",
+            "score": 1.1043730151972386,
+            "stars": 0,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/ranjithsiji/science-dictionary",
+            "updatedAt": "2018-09-25T17:18:40Z"
+        }
+    ],
+    "followers": 16,
+    "following": 4,
+    "public_repos": 132,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 45,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "everythingisconnected": {
+            "link": "https://github.com/ranjithsiji/everythingisconnected",
+            "summary": "Recent activities on this repository include multiple push events with various code updates, including fixes for mobile compatibility, addition of new features such as auto-rearranging and light-dark toggle, improvements to the layout and user interface, and modifications to existing code for better performance and readability."
+        },
+        "wscontest-backend": {
+            "link": "https://github.com/ranjithsiji/wscontest-backend",
+            "summary": "This repository has seen significant activity with several push events focused on refinements and improvements, including switches to OAuth 2.0, route changes, typo fixes, and enhancements to contest name handling, validation, and configuration management, indicating an active development phase."
+        },
+        "wscontest": {
+            "link": "https://github.com/ranjithsiji/wscontest",
+            "summary": "Recent activities involve minor code adjustments and a fix for a URL issue, suggesting ongoing maintenance and debugging efforts to ensure the repository's functionality and usability."
+        },
+        "My_first_Flask_OAuth2_tool": {
+            "link": "https://github.com/ranjithsiji/My_first_Flask_OAuth2_tool",
+            "summary": "This repository has initial commit activities, including setting up a Flask OAuth2 tool, with a hotfix applied for a callback issue, marking the beginning of its development lifecycle with immediate issue resolution."
+        },
+        "WTW24-Wikiwhen": {
+            "link": "https://github.com/Wikimedians-of-Kerala-UG-Technical/WTW24-Wikiwhen",
+            "summary": "The repository saw the creation and addition of a time.json file, which could be part of integrating time-based functionality or data handling within the project, indicating a specific feature implementation or enhancement."
+        }
+    },
+    "profile_summary": "Ranjith Siji is a highly skilled and versatile developer with a strong foundation in programming languages such as JavaScript, Python, and PHP. With a proven track record of building innovative solutions from scratch, he has established himself as a reliable and skilled professional in the industry. His expertise spans various frameworks, and he is always experimenting with new tools and technologies to stay ahead of the curve. As a seasoned developer, Ranjith has built a strong professional network, with 16 followers who respect his opinion and expertise.\n\nWith 132 public repositories to his credit, Ranjith has demonstrated his ability to deliver high-quality code and collaborate with others on complex projects. His unique blend of technical skills and community involvement, as evident from his contributions to Wikipedia and OpenStreetMap, makes him a valuable asset to any development team. As a self-motivated and passionate hacker, Ranjith is always looking for new challenges and opportunities to grow and learn. With his strong technical foundation, professional achievements, and commitment to innovation, Ranjith Siji is an exceptional developer who can bring significant value to any organization or project he is involved with."
+}

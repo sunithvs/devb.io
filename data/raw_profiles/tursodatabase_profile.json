@@ -1,4 +1,10 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
+    "activity_summary": {
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests and push events focused on improving the database's functionality. Updates include switching the seed, database path, and plan path prints to println instead of log::info, adding support for multiple readers and a single writer with a custom made lock, and improvements to the simulator. These changes aim to enhance the overall performance and usability of the database, with some updates still pending testing and review."
+        }
+    },
     "profile_summary": null
 }

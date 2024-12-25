@@ -1,0 +1,130 @@
+{
+    "username": "tellmey18",
+    "name": "Vysakh Premkumar",
+    "bio": "",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84713473?u=f41b19ee8950d57bd70ba83f39b3d95be56229ce&v=4",
+    "profile_url": "https://github.com/tellmeY18",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Shell",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "indexofnitc",
+            "description": "The website aims to provide Information and it\u2019s corresponding links without having to navigate through a pile of junk",
+            "score": 6.973133866857755,
+            "stars": 4,
+            "forks": 10,
+            "language": null,
+            "url": "https://github.com/tellmeY18/indexofnitc",
+            "updatedAt": "2023-06-13T13:04:16Z"
+        },
+        {
+            "name": "0ox",
+            "description": "ZEROX is a mini script that can be used to utilize the nullpointer service of 0x0.st to share files that are less than 512 mb",
+            "score": 2.569529248531291,
+            "stars": 0,
+            "forks": 4,
+            "language": "Shell",
+            "url": "https://github.com/tellmeY18/0ox",
+            "updatedAt": "2023-04-11T08:40:03Z"
+        },
+        {
+            "name": "astroweb",
+            "description": null,
+            "score": 1.62975313821998,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/tellmeY18/astroweb",
+            "updatedAt": "2024-03-13T09:02:01Z"
+        },
+        {
+            "name": "tellmeY18.github.io",
+            "description": null,
+            "score": 1.5435804273797928,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/tellmeY18/tellmeY18.github.io",
+            "updatedAt": "2023-07-15T23:00:14Z"
+        },
+        {
+            "name": "ZeroX",
+            "description": null,
+            "score": 1.1984774079884295,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/tellmeY18/ZeroX",
+            "updatedAt": "2023-06-30T17:43:25Z"
+        },
+        {
+            "name": "tellmeY18",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.20895597908972954,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tellmeY18/tellmeY18",
+            "updatedAt": "2024-12-25T06:24:52Z"
+        },
+        {
+            "name": "tellmeY",
+            "description": "New Repo For Website",
+            "score": 0.16315741684715643,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tellmeY18/tellmeY",
+            "updatedAt": "2023-09-23T13:53:15Z"
+        },
+        {
+            "name": "attendance-tracker-friday-FOSS",
+            "description": "A web app that will track attendance for FRIDAY FOSS participants ",
+            "score": 0.16050124029960103,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tellmeY18/attendance-tracker-friday-FOSS",
+            "updatedAt": "2023-08-05T10:46:54Z"
+        }
+    ],
+    "followers": 50,
+    "following": 79,
+    "public_repos": 69,
+    "pull_requests_merged": 14,
+    "issues_closed": 8,
+    "achievements": {
+        "total_contributions": 265,
+        "repositories_contributed_to": 15
+    },
+    "social_accounts": [
+        {
+            "provider": "mastodon",
+            "url": "https://mastodon.social/@_Y___h"
+        }
+    ],
+    "activity_summary": {
+        "tellmeY18/medispeak-backend": {
+            "link": "https://github.com/tellmeY18/medispeak-backend",
+            "summary": "Recent activities in the medispeak-backend repository have focused on Dockerfile updates, including enhancements to security, credentials handling, and overall performance. Multiple pushes have been made to update the Dockerfile, with changes aimed at improving the environment setup, such as setting up a flake and adding a Ruby environment. Additionally, there have been adjustments to the docker-compose.yml file to optimize its configuration and reduce bloat. These updates indicate ongoing development and refinement of the project's infrastructure."
+        },
+        "tellmeY18/care_fe": {
+            "link": "https://github.com/tellmeY18/care_fe",
+            "summary": "The care_fe repository has seen significant updates, with a focus on improving component functionality, resolving issues, and enhancing the user experience. Recent pushes include the addition of a blur method for better component focus handling, fixes for flaky tests, and refactorings to directory names for improved organization. There have also been updates to address text overflow, exclusive data handling for ventilator modes and oxygen modalities, and improvements to API calls, field validation, and support for the `useMutation` hook. These changes demonstrate active development and a commitment to enhancing the repository's features and reliability."
+        }
+    },
+    "profile_summary": "Vysakh Premkumar is a highly skilled developer with a strong foundation in programming languages such as C, Python, and Shell. With a notable presence on GitHub, he has built a network of 50 followers who appreciate his technical expertise and contributions to the community. His impressive portfolio of 69 public repositories showcases his active engagement in development projects, demonstrating his ability to design, develop, and deploy high-quality solutions. As a seasoned programmer, Vysakh Premkumar possesses a unique blend of technical skills, attention to detail, and collaborative spirit, making him a valuable asset to any development team.\n\nAs a seasoned developer, Vysakh Premkumar brings a wealth of knowledge and experience to the table, leveraging his technical expertise to drive innovation and deliver results-driven solutions. With a keen eye for detail and a passion for staying up-to-date with industry trends, he consistently produces high-quality code and actively contributes to the open-source community. His strong online presence and professional network are a testament to his reputation as a reliable, innovative, and skilled developer, capable of tackling complex challenges and delivering effective solutions that meet the needs of clients and users alike, solidifying his position as a trusted and accomplished professional in the field of software development."
+}

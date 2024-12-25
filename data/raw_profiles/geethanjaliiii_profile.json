@@ -1,0 +1,125 @@
+{
+    "username": "geethanjaliiii",
+    "name": "Geethanjali S",
+    "bio": "Web Developer",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/135814021?u=9b4e6098012aab46bf31acc9b413c8e3564abdb8&v=4",
+    "profile_url": "https://github.com/geethanjaliiii",
+    "top_languages": [
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Javascript-Leetcode-Solutions",
+            "description": "A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)",
+            "score": 1.7417860688752613,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions",
+            "updatedAt": "2024-12-24T02:18:48Z"
+        },
+        {
+            "name": "ELARA",
+            "description": null,
+            "score": 1.7316136962018673,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/geethanjaliiii/ELARA",
+            "updatedAt": "2024-12-06T03:08:23Z"
+        },
+        {
+            "name": "Netflix-React-Clone",
+            "description": "Netflix Clone App \ud83c\udfac\ud83c\udf7f This project is a Netflix clone built using React with a config-driven UI. The app dynamically fetches data from the TMDB API, rendering new content every time the page is refreshed. Users can browse trending movies and TV shows, and play trailers when they click on the posters.",
+            "score": 1.7149283603410628,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/geethanjaliiii/Netflix-React-Clone",
+            "updatedAt": "2024-10-23T07:09:40Z"
+        },
+        {
+            "name": "Olx-React-Clone",
+            "description": "OLX Clone - React & Firebase This is an OLX-like marketplace web application built with React for the frontend and Firebase for the backend. Users can sign up, log in, post products for sale, and browse product listings in real-time. Firebase is used for authentication, database storage, and image handling.",
+            "score": 1.7149283603410628,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/geethanjaliiii/Olx-React-Clone",
+            "updatedAt": "2024-10-23T07:09:38Z"
+        },
+        {
+            "name": "TO-DO-List-App",
+            "description": "React To-Do App \ud83d\ude80 This is a fully functional To-Do App built with React, showcasing key features like adding, deleting, updating, and crossing off tasks. It highlights my journey in learning React and mastering CRUD operations in a practical project.",
+            "score": 1.7149283603410628,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/geethanjaliiii/TO-DO-List-App",
+            "updatedAt": "2024-10-23T07:09:36Z"
+        },
+        {
+            "name": "DSA-21-days-challenge",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/geethanjaliiii/DSA-21-days-challenge",
+            "updatedAt": "2024-12-23T09:18:09Z"
+        },
+        {
+            "name": "geethanjaliiii",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/geethanjaliiii/geethanjaliiii",
+            "updatedAt": "2024-12-09T13:56:45Z"
+        },
+        {
+            "name": "elara-client",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/geethanjaliiii/elara-client",
+            "updatedAt": "2024-12-17T12:05:10Z"
+        }
+    ],
+    "followers": 5,
+    "following": 10,
+    "public_repos": 20,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 355,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "geethanjaliiii/Javascript-Leetcode-Solutions": {
+            "link": "https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions",
+            "summary": "Recent activities in the Javascript-Leetcode-Solutions repository include multiple push events with updates to the README, LeetHub, and various code optimizations, with a focus on improving performance and accuracy, as well as creating and updating README files with topic tags and LeetHub statistics, all occurring between December 20-24, 2024."
+        },
+        "geethanjaliiii/DSA-21-days-challenge": {
+            "link": "https://github.com/geethanjaliiii/DSA-21-days-challenge",
+            "summary": "The DSA-21-days-challenge repository has seen recent activity with push events adding new algorithms, including quick sort and hash table implementation with arrays, as well as updates to existing code for queue and stack data structures, all taking place between December 21-23, 2024, as part of the ongoing challenge."
+        }
+    },
+    "profile_summary": "Geethanjali S is a highly skilled web developer with a strong foundation in JavaScript, C++, and HTML, delivering high-quality solutions that meet and exceed client expectations. With a growing professional network of 5 followers, Geethanjali has established herself as a reliable and innovative expert in her field, demonstrating a keen ability to collaborate and share knowledge with others. Her extensive experience in web development has equipped her with a unique understanding of the latest industry trends and technologies, allowing her to craft cutting-edge solutions that drive results.\n\nAs an active and accomplished developer, Geethanjali has built an impressive portfolio of 20 public repositories, showcasing her technical prowess and versatility in a range of projects. With a keen focus on innovation and excellence, Geethanjali continues to push the boundaries of what is possible in web development, leveraging her expertise in JavaScript, C++, and HTML to create dynamic, user-friendly, and scalable solutions that meet the evolving needs of the digital landscape. With her strong technical skills, collaborative approach, and commitment to delivering exceptional results, Geethanjali is an outstanding professional in the field of web development, poised to make a lasting impact in the industry."
+}

@@ -1,0 +1,129 @@
+{
+    "username": "anandbaburajan",
+    "name": "Anand Baburajan",
+    "bio": "Founder of CQ2.co, Wordamour.com & Samay.app. Prev: Product Engineer @ Frappe, SWE Intern @ HackerRank, GSoC @ LiberTEM",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2698932?u=771f33949276b089fcc50dc92a8c63489b665cbd&v=4",
+    "profile_url": "https://github.com/anandbaburajan",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "wordamour",
+            "description": "Personalised word search puzzle for your special someone",
+            "score": 7.715664700743178,
+            "stars": 16,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/anandbaburajan/wordamour",
+            "updatedAt": "2024-12-25T16:09:01Z"
+        },
+        {
+            "name": "Multiple-Face-Recognition",
+            "description": "Train multiple images per person and get started with recognizing faces with the face_recognition API ",
+            "score": 5.7373318611385145,
+            "stars": 6,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/Multiple-Face-Recognition",
+            "updatedAt": "2024-04-01T10:07:59Z"
+        },
+        {
+            "name": "life",
+            "description": "Conway's Game of Life",
+            "score": 3.7304780346770077,
+            "stars": 5,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/anandbaburajan/life",
+            "updatedAt": "2023-03-04T08:14:09Z"
+        },
+        {
+            "name": "roo",
+            "description": "Simple CLI to-do list app",
+            "score": 3.3682232010942634,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/roo",
+            "updatedAt": "2023-03-04T08:14:09Z"
+        },
+        {
+            "name": "anandbaburajan.github.io",
+            "description": ":D",
+            "score": 2.4045323378409895,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/anandbaburajan/anandbaburajan.github.io",
+            "updatedAt": "2024-12-10T16:49:11Z"
+        },
+        {
+            "name": "dotfiles-macos",
+            "description": ":D",
+            "score": 1.5355318075494464,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/anandbaburajan/dotfiles-macos",
+            "updatedAt": "2023-03-04T08:14:09Z"
+        },
+        {
+            "name": "acc",
+            "description": "Double-entry accounting app",
+            "score": 1.5344183383110512,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/acc",
+            "updatedAt": "2023-03-04T08:14:09Z"
+        },
+        {
+            "name": "ugit",
+            "description": "(WIP) DIY Git in Python",
+            "score": 1.5335189329416052,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/ugit",
+            "updatedAt": "2023-03-04T08:14:09Z"
+        }
+    ],
+    "followers": 147,
+    "following": 108,
+    "public_repos": 18,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 353,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "anandbaburajan/wordamour": {
+            "link": "https://github.com/anandbaburajan/wordamour",
+            "summary": "Recent activities have focused on enhancing the overall user experience through various design updates, including the addition of testimonials, improvements to word list management using the TagInput component, and UI adjustments such as rearranging home elements for better mobile display and fixing navigation z-index issues."
+        },
+        "anandbaburajan/samay": {
+            "link": "https://github.com/anandbaburajan/samay",
+            "summary": "The repository has seen updates aimed at refining its functionality and documentation, including showing the creator's default votes, ignoring build errors, and updating the README.md file to improve user understanding and interaction with the project."
+        },
+        "samay-app/samay": {
+            "link": "https://github.com/samay-app/samay",
+            "summary": "Recent activities include ignoring build errors to prevent unnecessary disruptions, enhancing the display by showing the creator's default votes, and updating the README.md to ensure that users are well-informed about the project's capabilities and usage guidelines."
+        }
+    },
+    "profile_summary": "Anand Baburajan is a highly skilled and accomplished software developer with a strong foundation in programming languages such as Python, TypeScript, and JavaScript. With a proven track record of delivering high-quality solutions, he has established himself as a trusted and reliable expert in his field. As the founder of multiple successful ventures, including CQ2.co, Wordamour.com, and Samay.app, Anand has consistently demonstrated his ability to innovate and drive projects forward. His professional experience, which includes tenure as a Product Engineer at Frappe and a Software Engineer Intern at HackerRank, has equipped him with a unique understanding of the industry and its needs.\n\nAs a seasoned developer with a strong online presence, Anand has built a network of 147 followers who appreciate his technical expertise and contributions to the open-source community. With 18 public repositories to his credit, he has showcased his commitment to active development and collaboration. His participation in esteemed programs such as Google Summer of Code at LiberTEM further underscores his dedication to staying at the forefront of technological advancements. By leveraging his technical skills and industry knowledge, Anand delivers cutting-edge solutions that meet the evolving needs of the digital landscape, making him a valuable asset to any organization seeking innovative and reliable software development expertise."
+}

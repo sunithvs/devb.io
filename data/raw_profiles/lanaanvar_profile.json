@@ -1,0 +1,134 @@
+{
+    "username": "lanaanvar",
+    "name": "Lana Anvar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118440051?u=868d2e091f17d4bbfd894e5b0b20588097903605&v=4",
+    "profile_url": "https://github.com/Lanaanvar",
+    "top_languages": [
+        [
+            "C++",
+            5
+        ],
+        [
+            "R",
+            2
+        ],
+        [
+            "Python",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "State-Level-CPI-Rural-Urban-February-2024",
+            "description": null,
+            "score": 3.3469870876902394,
+            "stars": 1,
+            "forks": 2,
+            "language": "R",
+            "url": "https://github.com/Lanaanvar/State-Level-CPI-Rural-Urban-February-2024",
+            "updatedAt": "2024-11-12T17:25:42Z"
+        },
+        {
+            "name": "Contact-Management-App",
+            "description": null,
+            "score": 1.700159445828844,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Lanaanvar/Contact-Management-App",
+            "updatedAt": "2024-10-06T09:31:28Z"
+        },
+        {
+            "name": "Godot-Engine",
+            "description": null,
+            "score": 1.6920876281134916,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Lanaanvar/Godot-Engine",
+            "updatedAt": "2024-10-06T09:31:33Z"
+        },
+        {
+            "name": "Streamlit-Tutorial-App",
+            "description": "For learning purpose",
+            "score": 1.6881165644062741,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Lanaanvar/Streamlit-Tutorial-App",
+            "updatedAt": "2024-10-06T09:31:36Z"
+        },
+        {
+            "name": "R-DataScience",
+            "description": null,
+            "score": 1.6807728771182655,
+            "stars": 1,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/Lanaanvar/R-DataScience",
+            "updatedAt": "2024-12-11T04:12:35Z"
+        },
+        {
+            "name": "Zip-File-Cracker",
+            "description": null,
+            "score": 1.678361898112546,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Lanaanvar/Zip-File-Cracker",
+            "updatedAt": "2024-10-06T09:31:39Z"
+        },
+        {
+            "name": "PraPro",
+            "description": null,
+            "score": 1.6566096310948424,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Lanaanvar/PraPro",
+            "updatedAt": "2024-10-06T09:31:44Z"
+        },
+        {
+            "name": "Linear_Algebra",
+            "description": null,
+            "score": 1.6524977343844993,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Lanaanvar/Linear_Algebra",
+            "updatedAt": "2024-10-06T09:31:49Z"
+        }
+    ],
+    "followers": 11,
+    "following": 7,
+    "public_repos": 52,
+    "pull_requests_merged": 29,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 254,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/lana-anvar"
+        }
+    ],
+    "activity_summary": {
+        "Lanaanvar/Surplus_Serve": {
+            "link": "https://github.com/Lanaanvar/Surplus_Serve",
+            "summary": "The Surplus_Serve repository has witnessed significant activity with multiple push events occurring between December 7-8, 2024, primarily focusing on deployment status updates, with a total of 14 push events recorded within this time frame, indicating a high level of development and deployment activity."
+        },
+        "Lanaanvar/Instagram-Caption-Generator": {
+            "link": "https://github.com/Lanaanvar/Instagram-Caption-Generator",
+            "summary": "The Instagram-Caption-Generator repository saw notable activity on December 23, 2024, with several push and pull request events, including updates to the README.md file, deployments, and the integration of frontend code for song recommendations and caption generation, showcasing a substantial amount of development and collaboration on this day."
+        },
+        "Lanaanvar/R-DataScience": {
+            "link": "https://github.com/Lanaanvar/R-DataScience",
+            "summary": "The R-DataScience repository had a push event on December 11, 2024, with updates related to Q5 and Q6, indicating some level of activity, although it is less active compared to the other two repositories."
+        }
+    },
+    "profile_summary": "Lana Anvar is a highly skilled developer with expertise in programming languages such as C++, R, and Python. She has a strong online presence, with a growing network of 11 followers who appreciate her technical insights and contributions to the development community. Lana's impressive portfolio of 52 public repositories showcases her active involvement in various projects, demonstrating her ability to design, develop, and deliver high-quality solutions. Her proficiency in multiple programming languages enables her to tackle complex problems and create innovative software applications.\n\nAs a seasoned developer, Lana Anvar brings a unique combination of technical expertise and collaborative spirit to the table. She is committed to staying up-to-date with the latest industry trends and advancements, ensuring that her skills remain relevant and in-demand. With a focus on reliability, scalability, and performance, Lana crafts software solutions that meet the needs of diverse users and organizations. Her professional achievements and commitment to excellence have earned her a reputation as a trusted and skilled developer, capable of driving projects forward with precision and creativity, and delivering exceptional results in a rapidly evolving technological landscape."
+}

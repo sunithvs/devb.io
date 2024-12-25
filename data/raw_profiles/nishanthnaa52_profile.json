@@ -1,0 +1,138 @@
+{
+    "username": "nishanthnaa52",
+    "name": "Nishanth",
+    "bio": "Update your self.. \r\n",
+    "location": "Tamilnadu",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98414644?u=7212a98e490eb74d442e676b8faf7cfd7f31dc55&v=4",
+    "profile_url": "https://github.com/Nishanthnaa52",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "todo_backend",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Nishanthnaa52/todo_backend",
+            "updatedAt": "2024-12-25T05:38:32Z"
+        },
+        {
+            "name": "SDAL",
+            "description": null,
+            "score": 1.6332874453262447,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Nishanthnaa52/SDAL",
+            "updatedAt": "2024-01-14T08:18:12Z"
+        },
+        {
+            "name": "React-counter",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nishanthnaa52/React-counter",
+            "updatedAt": "2024-12-23T03:35:06Z"
+        },
+        {
+            "name": "ToDo-App",
+            "description": "Todo Webapp",
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Nishanthnaa52/ToDo-App",
+            "updatedAt": "2024-11-26T13:49:11Z"
+        },
+        {
+            "name": "Shop_Porul",
+            "description": "e-commerce website . live website link ----> https://shop-porul.netlify.app/",
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nishanthnaa52/Shop_Porul",
+            "updatedAt": "2024-10-24T18:28:46Z"
+        },
+        {
+            "name": "tic_tac_toe_js",
+            "description": "Tic Tac Toe game create by HTML ,CSS ,JS (Nishanth \ud83d\ude09) ",
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nishanthnaa52/tic_tac_toe_js",
+            "updatedAt": "2024-09-03T16:27:49Z"
+        },
+        {
+            "name": "rock_paper_scissors_project",
+            "description": "Rock Paper Scissors Game",
+            "score": 0.267579907792056,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nishanthnaa52/rock_paper_scissors_project",
+            "updatedAt": "2024-08-30T06:02:18Z"
+        },
+        {
+            "name": "WebScrap",
+            "description": null,
+            "score": 0.26391817505930254,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Nishanthnaa52/WebScrap",
+            "updatedAt": "2024-12-22T02:21:21Z"
+        }
+    ],
+    "followers": 6,
+    "following": 37,
+    "public_repos": 12,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 85,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/nishanth_.dev/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nishanthnaa52"
+        }
+    ],
+    "activity_summary": {
+        "Nishanthnaa52/todo_backend": {
+            "link": "https://github.com/Nishanthnaa52/todo_backend",
+            "summary": "Recent activities in the todo_backend repository include multiple push events with updates such as preparing the project for Render deployment, adding a main folder, and updating requirements with gunicorn. The most recent activities involved updates for pythonanywhere host and minor changes."
+        },
+        "Nishanthnaa52/React-counter": {
+            "link": "https://github.com/Nishanthnaa52/React-counter",
+            "summary": "The React-counter repository has seen recent activities including push events for command updates and README file updates, indicating ongoing maintenance and documentation efforts."
+        },
+        "Nishanthnaa52/Nishanthnaa52": {
+            "link": "https://github.com/Nishanthnaa52/Nishanthnaa52",
+            "summary": "Recent activities in the Nishanthnaa52 repository include push events focused on updating the README.md file and a profile update, suggesting efforts to refine the repository's presentation and content."
+        }
+    },
+    "profile_summary": "Nishanth is a highly skilled developer with a strong foundation in programming languages such as Python, JavaScript, and CSS. With a growing professional network of followers and an impressive portfolio of public repositories, Nishanth has established himself as a dedicated and results-driven professional in the field of software development. His technical expertise and passion for innovation have enabled him to deliver high-quality solutions that meet the needs of his clients and stakeholders.\n\nAs a seasoned developer, Nishanth brings a unique combination of technical skills and collaborative mindset to his work, making him a valuable asset to any project or team. With a focus on delivering scalable, efficient, and reliable solutions, Nishanth has built a reputation for his attention to detail, creativity, and ability to drive projects forward. His expertise in Python, JavaScript, and CSS has allowed him to develop a wide range of applications and solutions, and his commitment to ongoing learning and professional growth ensures that he stays up-to-date with the latest trends and technologies in the industry."
+}

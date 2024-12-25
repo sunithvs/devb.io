@@ -1,0 +1,134 @@
+{
+    "username": "naaji-navas",
+    "name": "Najid Navas",
+    "bio": "Software Engineer @cisco \r\nEx- Software Developer Intern @dataequinox\r\nFull Stack Developer\r\n ",
+    "location": "Banglore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104789565?u=a1de3bcf7bbfd4a25b6839184104c282f6124bbf&v=4",
+    "profile_url": "https://github.com/naaji-navas",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "JavaScript",
+            18
+        ],
+        [
+            "TypeScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "drumkit",
+            "description": null,
+            "score": 7.246471191833032,
+            "stars": 3,
+            "forks": 16,
+            "language": "CSS",
+            "url": "https://github.com/naaji-navas/drumkit",
+            "updatedAt": "2024-10-28T12:12:38Z"
+        },
+        {
+            "name": "Simon-Game",
+            "description": "This game is written in JavaScript with some ES6 feature used, so you only need a modern browser that supports ES6 to play the game!ES6: ECMAScript 6 compatibility table",
+            "score": 6.688570530588855,
+            "stars": 2,
+            "forks": 18,
+            "language": "JavaScript",
+            "url": "https://github.com/naaji-navas/Simon-Game",
+            "updatedAt": "2022-10-31T13:27:52Z"
+        },
+        {
+            "name": "Sem_4_Java",
+            "description": "sem  4java",
+            "score": 5.708916046259206,
+            "stars": 1,
+            "forks": 16,
+            "language": "Java",
+            "url": "https://github.com/naaji-navas/Sem_4_Java",
+            "updatedAt": "2022-11-11T14:34:30Z"
+        },
+        {
+            "name": "todolist-v1",
+            "description": null,
+            "score": 4.233709763098283,
+            "stars": 0,
+            "forks": 15,
+            "language": "JavaScript",
+            "url": "https://github.com/naaji-navas/todolist-v1",
+            "updatedAt": "2022-10-22T13:43:16Z"
+        },
+        {
+            "name": "React-Ecommerce-App",
+            "description": "A React-Ecommerce-App usiing saleor and graph ql and React",
+            "score": 2.5892306291329503,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/naaji-navas/React-Ecommerce-App",
+            "updatedAt": "2023-11-10T13:56:53Z"
+        },
+        {
+            "name": "railway",
+            "description": null,
+            "score": 2.5686603445930403,
+            "stars": 0,
+            "forks": 4,
+            "language": "JavaScript",
+            "url": "https://github.com/naaji-navas/railway",
+            "updatedAt": "2023-03-20T08:07:49Z"
+        },
+        {
+            "name": "todolist-2.0",
+            "description": "A simple To do list which can add multiple categories by simply changing the routes",
+            "score": 2.348587215256579,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/naaji-navas/todolist-2.0",
+            "updatedAt": "2023-01-22T13:38:59Z"
+        },
+        {
+            "name": "s7_NetworkLab",
+            "description": "Here i post the programs for network lab for sem 7",
+            "score": 1.8105605662736268,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/naaji-navas/s7_NetworkLab",
+            "updatedAt": "2023-10-06T03:59:48Z"
+        }
+    ],
+    "followers": 42,
+    "following": 83,
+    "public_repos": 101,
+    "pull_requests_merged": 9,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 177,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/najid-navas-795aa2238/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/naaji__/"
+        }
+    ],
+    "activity_summary": {
+        "naaji-navas/ethindia2024": {
+            "link": "https://github.com/naaji-navas/ethindia2024",
+            "summary": "The repository has seen significant activity with multiple push events and pull requests. The activities include updates to the README file, creation of a new home page, addition of ethers and react tweet packages, removal of the wallet from the leaderboard list, and solving build errors. These changes suggest a focus on improving the project's overall functionality and user experience."
+        },
+        "naaji-navas/toastmasters-timer": {
+            "link": "https://github.com/naaji-navas/toastmasters-timer",
+            "summary": "The repository has experienced a push event that added the time showing feature, indicating ongoing development and refinement of the project's functionality to provide a more robust timer for Toastmasters."
+        }
+    },
+    "profile_summary": "Najid Navas is a highly skilled software engineer with a strong background in developing innovative solutions using C, JavaScript, and TypeScript. As a seasoned full stack developer, he possesses a unique combination of technical expertise and professional experience, having worked with prominent companies such as Cisco and DataEquinox. With a growing network of 42 followers and an impressive portfolio of 101 public repositories, Najid has established himself as a reliable and accomplished developer in the industry.\n\nAs a seasoned software engineer, Najid brings a high level of expertise and dedication to his work, consistently delivering high-quality solutions that meet the evolving needs of the tech landscape. With his proficiency in multiple programming languages and his experience working with top-tier companies, Najid is well-positioned to drive technological innovation and growth. His professional achievements and commitment to staying up-to-date with the latest industry trends make him a valuable asset to any organization, and his online presence reflects his passion for software development and his ability to collaborate and contribute to the developer community."
+}

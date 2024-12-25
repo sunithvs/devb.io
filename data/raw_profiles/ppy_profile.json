@@ -3,15 +3,19 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include updates to news posts, such as fixing duplicate wording on holidays and adding new news. Additionally, there have been contributions to lazer mod articles, including adding new articles, standardizing mod fields, and reformatting key mod details. Other updates include adding podium and badge images to the Sparxe's Two Key Event page."
+            "summary": "Recent activities include fixes for duplicate wording on news posts, the addition of lazer mod articles, and the implementation of various cleanup tasks such as standardizing mod fields, updating links, and reformatting key mod details. These updates aim to improve the overall quality and consistency of the wiki content."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Activity includes a pull request focused on enhancing observability by integrating tools like Sentry and Datadog, along with extending logging capabilities to improve the monitoring and debugging of the beatmap submission process."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "Recent activity involves a pull request to include user tags in the beatmap set search, which requires updating the search index to enable targeting these tags separately, aiming to enhance the search functionality and user experience."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "A recent update implemented the ability to mark a beatmap as played, which was merged through a pull request. This new feature is expected to enhance the user experience within the osu platform."
-        },
-        "ppy/helm-charts": {
-            "link": "https://github.com/ppy/helm-charts",
-            "summary": "A recent push event updated the index.yaml file, which is likely related to the management of Helm charts within the repository, ensuring they are up-to-date and properly maintained."
+            "summary": "A notable update includes the implementation of the ability to mark beatmaps as played, introduced through a pull request, which enhances the game's functionality and provides more interaction options for players."
         }
     },
     "profile_summary": null

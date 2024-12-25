@@ -1,0 +1,137 @@
+{
+    "username": "ganeshkumarka",
+    "name": "K A Ganesh Kumar",
+    "bio": "Student @ CUSAT\r\nenthusiastic programmer\r\nAI/ML\r\nopen to collaborate",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/117643249?u=d8f202d4d6df55e07904d38406bc4b17a02cc076&v=4",
+    "profile_url": "https://github.com/ganeshkumarka",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Traffic_Manager",
+            "description": null,
+            "score": 1.3714479125319148,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/ganeshkumarka/Traffic_Manager",
+            "updatedAt": "2024-11-08T09:55:02Z"
+        },
+        {
+            "name": "CPI_ANALYSIS",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ganeshkumarka/CPI_ANALYSIS",
+            "updatedAt": "2024-11-05T08:33:51Z"
+        },
+        {
+            "name": "color-cascade",
+            "description": null,
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ganeshkumarka/color-cascade",
+            "updatedAt": "2024-10-06T09:42:14Z"
+        },
+        {
+            "name": "ganeshkumarka",
+            "description": null,
+            "score": 0.3376362251726678,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ganeshkumarka/ganeshkumarka",
+            "updatedAt": "2024-11-14T09:57:29Z"
+        },
+        {
+            "name": "task-master",
+            "description": null,
+            "score": 0.30579326699360104,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ganeshkumarka/task-master",
+            "updatedAt": "2024-10-05T17:19:59Z"
+        },
+        {
+            "name": "R_DataScience",
+            "description": null,
+            "score": 0.2970381725432588,
+            "stars": 0,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/ganeshkumarka/R_DataScience",
+            "updatedAt": "2024-11-12T19:14:16Z"
+        },
+        {
+            "name": "Big_Data_Analytics",
+            "description": null,
+            "score": 0.2948347119468324,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ganeshkumarka/Big_Data_Analytics",
+            "updatedAt": "2024-11-14T18:15:02Z"
+        },
+        {
+            "name": "chess-room",
+            "description": null,
+            "score": 0.27496089932767337,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ganeshkumarka/chess-room",
+            "updatedAt": "2024-05-05T04:35:59Z"
+        }
+    ],
+    "followers": 16,
+    "following": 19,
+    "public_repos": 40,
+    "pull_requests_merged": 17,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 444,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ganeshkumarka/Big_Data_Analytics": {
+            "link": "https://github.com/ganeshkumarka/Big_Data_Analytics",
+            "summary": "Recent activities in the Big Data Analytics repository include significant updates, with multiple push events on November 13th and 14th, adding queries for questions 3 through 8, demonstrating consistent progress in the project."
+        },
+        "ganeshkumarka/Traffic_Manager": {
+            "link": "https://github.com/ganeshkumarka/Traffic_Manager",
+            "summary": "The Traffic Manager repository has seen notable activities, with push events on November 4th and 8th, focusing on authentication, UI updates, and dashboard setup, indicating ongoing development and refinement of the project's core functionalities."
+        },
+        "ganeshkumarka/ganeshkumarka": {
+            "link": "https://github.com/ganeshkumarka/ganeshkumarka",
+            "summary": "The ganeshkumarka repository has experienced recent updates, with multiple push events from November 12th to 14th, primarily involving updates to the README.md file, suggesting maintenance and enhancement of the repository's documentation and visibility."
+        },
+        "ganeshkumarka/R_DataScience": {
+            "link": "https://github.com/ganeshkumarka/R_DataScience",
+            "summary": "Activities in the R DataScience repository include a significant push event on November 12th, where questions 1 through 4 were completed, showcasing substantial progress in the project's data science aspects."
+        },
+        "ganeshkumarka/CPI_ANALYSIS": {
+            "link": "https://github.com/ganeshkumarka/CPI_ANALYSIS",
+            "summary": "The CPI ANALYSIS repository saw activity on November 5th, with a push event focused on the original data, cleaned data, and the cleaning process, indicating important steps in data preparation and analysis."
+        }
+    },
+    "profile_summary": "K A Ganesh Kumar is a skilled and enthusiastic programmer with a strong foundation in C++, Python, and TypeScript. As a student at CUSAT, he has developed a solid understanding of computer science concepts and has applied this knowledge to create innovative solutions. With a growing professional network of 16 followers, he has established himself as a reliable and collaborative developer who is open to working with others to drive projects forward. His experience with artificial intelligence and machine learning has equipped him with the skills to tackle complex problems and develop cutting-edge applications.\n\nWith 40 public repositories to his name, K A Ganesh Kumar has demonstrated his ability to design, develop, and deploy high-quality software solutions. His passion for programming and commitment to staying up-to-date with the latest technologies have earned him a reputation as a talented and dedicated developer. As a collaborative and driven individual, he is well-positioned to make significant contributions to the tech community and is excited to explore new opportunities for growth and innovation. With his technical expertise and enthusiasm for AI/ML, K A Ganesh Kumar is a valuable asset to any project or team, and his skills and experience make him an attractive candidate for collaborations and professional opportunities."
+}

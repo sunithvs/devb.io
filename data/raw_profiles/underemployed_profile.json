@@ -1,0 +1,130 @@
+{
+    "username": "underemployed",
+    "name": "Nithin A",
+    "bio": "Own work,own result.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/116073306?u=7af721b389f383bea617c9811c0529cace034b87&v=4",
+    "profile_url": "https://github.com/Underemployed",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C++",
+            3
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PHP-MySQL-Blog-Website-with-Admin-Panel",
+            "description": "The PHP & MySQL Blog App with Admin Panel project is a web application that allows users to create and manage blog posts, categories, and users. The app is built using PHP and MySQL, two popular technologies for web development, and features a robust CRUD functionality that enables users to Create, Read, Update, and Delete posts, categories,etc",
+            "score": 11.969881278416814,
+            "stars": 48,
+            "forks": 13,
+            "language": "PHP",
+            "url": "https://github.com/Underemployed/PHP-MySQL-Blog-Website-with-Admin-Panel",
+            "updatedAt": "2024-12-14T16:02:23Z"
+        },
+        {
+            "name": "blog_website_template",
+            "description": "This is the repositry which is used for hosting template which is designed to host a responsive multi-page blogging website that you can easily customize and extend to fit your needs. Built with modern HTML, CSS, and JavaScript, this template provides a seamless user experience for bloggers and readers alike.",
+            "score": 5.414305397547641,
+            "stars": 3,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/Underemployed/blog_website_template",
+            "updatedAt": "2024-12-10T15:00:28Z"
+        },
+        {
+            "name": "Bank-Management-System",
+            "description": "A simple Bank Management System for managing transactions ",
+            "score": 3.507641731370291,
+            "stars": 2,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/Underemployed/Bank-Management-System",
+            "updatedAt": "2024-12-15T06:28:54Z"
+        },
+        {
+            "name": "drive_app",
+            "description": "flutter storage app with a linear storage system",
+            "score": 3.4649458986764765,
+            "stars": 4,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Underemployed/drive_app",
+            "updatedAt": "2024-12-10T15:00:56Z"
+        },
+        {
+            "name": "yt_downloader",
+            "description": null,
+            "score": 3.0320709144356766,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Underemployed/yt_downloader",
+            "updatedAt": "2024-12-15T06:28:17Z"
+        },
+        {
+            "name": "google_news_api",
+            "description": " sentiment analysis with the data web scrapped from Google News.",
+            "score": 3.008007959312685,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Underemployed/google_news_api",
+            "updatedAt": "2024-12-10T15:01:06Z"
+        },
+        {
+            "name": "Python-Stock-Trend-Prediction",
+            "description": "Python stock trend predictor",
+            "score": 3.0062931025565733,
+            "stars": 3,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Underemployed/Python-Stock-Trend-Prediction",
+            "updatedAt": "2024-12-10T15:01:19Z"
+        },
+        {
+            "name": "makeathon7",
+            "description": "made for Makeathon 7.0 (hackathon)",
+            "score": 2.553968847555256,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Underemployed/makeathon7",
+            "updatedAt": "2024-12-15T06:29:29Z"
+        }
+    ],
+    "followers": 40,
+    "following": 30,
+    "public_repos": 52,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 302,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nithin-a-06b946256/"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@underemployed7136/"
+        }
+    ],
+    "activity_summary": {
+        "yt-to-spotify-playlist": {
+            "link": "https://github.com/Underemployed/yt-to-spotify-playlist",
+            "summary": "Recent activities in the yt-to-spotify-playlist repository indicate significant updates and improvements. Multiple push events have been recorded, focusing on enhancing the code, updating the README file, and addressing API limitations. Specifically, the addition of a refresh token for Spotify and modifications to handle login and logout functionality have been implemented. These changes suggest that the repository is actively being developed and refined to improve its overall functionality and user experience."
+        }
+    },
+    "profile_summary": "Nithin A is a highly skilled and accomplished developer with a strong foundation in programming languages, including Python, C++, and C. With a professional network of 40 followers and an impressive portfolio of 52 public repositories, Nithin has established himself as a reliable and innovative expert in his field. His technical expertise and dedication to delivering high-quality results have earned him a reputation as a go-to developer for complex projects. As a self-motivated individual who values ownership and responsibility, Nithin takes pride in his work, ensuring that every project is completed to the highest standards.\n\nAs a seasoned developer with a passion for innovation, Nithin is committed to staying at the forefront of industry trends and technologies. His expertise in Python, C++, and C enables him to tackle a wide range of projects, from backend development to systems programming. With a focus on delivering results-driven solutions, Nithin is dedicated to helping clients and collaborators achieve their goals. His strong work ethic, combined with his technical prowess, makes him an invaluable asset to any development team. By leveraging his skills and expertise, Nithin continues to drive success and push the boundaries of what is possible in the world of software development."
+}

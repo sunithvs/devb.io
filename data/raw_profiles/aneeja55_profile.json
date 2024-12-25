@@ -1,0 +1,103 @@
+{
+    "username": "aneeja55",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/161930038?v=4",
+    "profile_url": "https://github.com/Aneeja55",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Useless_Project",
+            "description": "An online canvas where we can draw",
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aneeja55/Useless_Project",
+            "updatedAt": "2024-11-17T08:31:43Z"
+        },
+        {
+            "name": "Care4World-Next.js",
+            "description": null,
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aneeja55/Care4World-Next.js",
+            "updatedAt": "2024-10-06T18:56:09Z"
+        },
+        {
+            "name": "Countdown_Timer",
+            "description": "A countdown timer build using Python's Tkinder library ",
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Aneeja55/Countdown_Timer",
+            "updatedAt": "2024-09-29T20:10:59Z"
+        },
+        {
+            "name": "P5.js",
+            "description": "An animation made using p5.js",
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aneeja55/P5.js",
+            "updatedAt": "2024-10-16T08:59:31Z"
+        },
+        {
+            "name": "Mystrex",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Aneeja55/Mystrex",
+            "updatedAt": "2024-03-03T05:09:24Z"
+        }
+    ],
+    "followers": 3,
+    "following": 6,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 24,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Useless_Project": {
+            "link": "https://github.com/Aneeja55/Useless_Project",
+            "summary": "Recent activities in the Useless_Project repository include multiple updates to the README.md file, with the most recent push event occurring on October 26, 2024, and a co-authored commit on October 25, 2024, indicating collaborative work on the project."
+        },
+        "meow-meow": {
+            "link": "https://github.com/Aneeja55/meow-meow",
+            "summary": "The meow-meow repository saw significant activity on October 7, 2024, with the creation of a new file, Simple fun website, which was later renamed to Simple-fun-website.html, demonstrating development and refinement of the project's content."
+        },
+        "P5.js": {
+            "link": "https://github.com/Aneeja55/P5.js",
+            "summary": "Activity in the P5.js repository has been consistent, with the most recent push event occurring on October 16, 2024, updating the README.md file, and previous events including file uploads, indicating ongoing maintenance and expansion of the project."
+        },
+        "Care4World-Next.js": {
+            "link": "https://github.com/Aneeja55/Care4World-Next.js",
+            "summary": "The Care4World-Next.js repository experienced a series of updates on October 6, 2024, including the creation of a README.md file and subsequent updates, suggesting initial setup and configuration of the project, laying the groundwork for future development."
+        }
+    },
+    "profile_summary": "This seasoned developer is a highly skilled technical expert with a strong proficiency in TypeScript, JavaScript, and Python. With a proven track record of delivering high-quality solutions, they have established themselves as a reliable and innovative professional in the software development community. Their expertise spans a range of areas, including programming languages, software development, and technical problem-solving. As a dedicated and passionate developer, they continuously strive to improve their skills and stay up-to-date with the latest industry trends and technologies.\n\nWith a growing professional network of followers and an impressive portfolio of public repositories, this developer has demonstrated their ability to collaborate, share knowledge, and contribute to the open-source community. Their 12 public repositories showcase their active development efforts and commitment to creating innovative solutions. By leveraging their technical expertise and industry knowledge, this developer is well-positioned to drive projects forward and deliver exceptional results. As a skilled and accomplished professional, they are dedicated to delivering high-quality solutions that meet the needs of their clients and contribute to the advancement of the software development field."
+}

@@ -1,0 +1,109 @@
+{
+    "username": "jackedhawk-117",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/132387682?v=4",
+    "profile_url": "https://github.com/jackedhawk-117",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Kommander-",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jackedhawk-117/Kommander-",
+            "updatedAt": "2024-11-18T07:33:36Z"
+        },
+        {
+            "name": "Two_pass_assembler",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/jackedhawk-117/Two_pass_assembler",
+            "updatedAt": "2024-11-12T11:51:01Z"
+        },
+        {
+            "name": "Airport-management-system",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jackedhawk-117/Airport-management-system",
+            "updatedAt": "2024-11-06T14:38:42Z"
+        },
+        {
+            "name": "test",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jackedhawk-117/test",
+            "updatedAt": "2024-10-25T15:31:32Z"
+        },
+        {
+            "name": "Farkle",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jackedhawk-117/Farkle",
+            "updatedAt": "2024-10-25T09:52:02Z"
+        },
+        {
+            "name": "flapper-zero",
+            "description": "a flipper zero that can fly hence the name flapper-zero",
+            "score": 0.3018222032863835,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jackedhawk-117/flapper-zero",
+            "updatedAt": "2024-08-04T05:52:20Z"
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 33,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "jackedhawk-117/Two_pass_assembler": {
+            "link": "https://github.com/jackedhawk-117/Two_pass_assembler",
+            "summary": "Recent activities on this repository include multiple updates to pass1.c and pass2.c files between November 11th and November 12th, with a focus on refining the codebase and incorporating comments for improved readability."
+        },
+        "progprnv/ConvinceAyoo": {
+            "link": "https://github.com/progprnv/ConvinceAyoo",
+            "summary": "Significant updates were made to the ConvinceAyoo repository between October 25th and October 26th, including enhancements to the appearance, the creation of style.css for basic animations, and several revisions to the README.md file, showcasing an active development phase."
+        },
+        "jackedhawk-117/Farkle": {
+            "link": "https://github.com/jackedhawk-117/Farkle",
+            "summary": "The Farkle repository saw a minor update on October 25th with the creation of a new file named h.txt, indicating a notable but singular recent activity."
+        }
+    },
+    "profile_summary": "This skilled developer is a proficient programmer with extensive experience in C, Python, and JavaScript, possessing a strong foundation in software development. With a track record of delivering high-quality solutions, this professional has established a reputation for technical expertise and innovative problem-solving. As an active member of the development community, they have built a professional network of peers and collaborators, with a growing number of followers who value their contributions and insights.\n\nWith a portfolio of 11 public repositories, this developer has demonstrated a commitment to open-source development and a willingness to share knowledge and expertise with others. Their technical skills and experience make them a valuable asset to any project or team, and their ability to leverage industry-relevant technologies has enabled them to drive results and deliver value in a rapidly evolving technical landscape. As a dedicated and skilled programmer, this developer is well-positioned to continue making significant contributions to the field, and their unique blend of technical expertise and collaborative spirit makes them an attractive partner for businesses and organizations seeking innovative solutions."
+}

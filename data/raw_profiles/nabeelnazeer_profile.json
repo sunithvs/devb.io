@@ -1,0 +1,137 @@
+{
+    "username": "nabeelnazeer",
+    "name": "nabeel nazeer",
+    "bio": "Computer Vision | Natural Language Processing | Data Science | GANs | Generative Models",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121021801?u=a5342ecddf0b2dc6dc595541c0b744799f8d7d21&v=4",
+    "profile_url": "https://github.com/nabeelnazeer",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "R",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Otterly",
+            "description": null,
+            "score": 2.691057046187057,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nabeelnazeer/Otterly",
+            "updatedAt": "2024-04-22T13:58:36Z"
+        },
+        {
+            "name": "BigDataAnalytics",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/nabeelnazeer/BigDataAnalytics",
+            "updatedAt": "2024-11-18T12:54:51Z"
+        },
+        {
+            "name": "CPI_Analysis_India",
+            "description": "This is the project done as part of R For Data Science. ",
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/nabeelnazeer/CPI_Analysis_India",
+            "updatedAt": "2024-09-24T19:15:52Z"
+        },
+        {
+            "name": "Churukki-Web-Summarizer",
+            "description": "Churukki Web Summarizer",
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nabeelnazeer/Churukki-Web-Summarizer",
+            "updatedAt": "2024-09-15T13:42:09Z"
+        },
+        {
+            "name": "seizure-medication-classification",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/nabeelnazeer/seizure-medication-classification",
+            "updatedAt": "2024-08-25T11:48:22Z"
+        },
+        {
+            "name": "Reggresion-anaylsis",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/nabeelnazeer/Reggresion-anaylsis",
+            "updatedAt": "2024-10-16T06:27:39Z"
+        },
+        {
+            "name": "R_For_DataScience",
+            "description": "public repo for managing R lab cycles ",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/nabeelnazeer/R_For_DataScience",
+            "updatedAt": "2024-12-11T06:22:21Z"
+        },
+        {
+            "name": "Nutrichat",
+            "description": "An application that allow you to chat with an opensource nutrition book. ",
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nabeelnazeer/Nutrichat",
+            "updatedAt": "2024-04-25T13:09:23Z"
+        }
+    ],
+    "followers": 15,
+    "following": 16,
+    "public_repos": 43,
+    "pull_requests_merged": 18,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 278,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "ssutharya/Cipher_Tag": {
+            "link": "https://github.com/ssutharya/Cipher_Tag",
+            "summary": "The Cipher_Tag repository has seen significant activity with multiple push and pull events. The activities include updating .env files, variable changes in login and settings, and merging pull requests from various branches. The prescription option has also been completed, along with resolving conflicts and updating .gitignore. These changes suggest a high level of development and collaboration in the repository."
+        },
+        "nabeelnazeer/R_For_DataScience": {
+            "link": "https://github.com/nabeelnazeer/R_For_DataScience",
+            "summary": "The R_For_DataScience repository has experienced recent activity, with push events creating new files such as question4.R, question5.R, and question6.R. Earlier activities include updates to question 9-lab2. These changes indicate ongoing work and contributions to the repository, likely related to data science projects or assignments using R."
+        },
+        "jeslinpjames/HackForTomorrow": {
+            "link": "https://github.com/jeslinpjames/HackForTomorrow",
+            "summary": "The HackForTomorrow repository has a recent push event updating the gitignore file, suggesting maintenance or initialization of the repository for future projects or collaborations. This single but recent activity indicates the repository is active, albeit with limited contributions at this time."
+        },
+        "nabeelnazeer/BigDataAnalytics": {
+            "link": "https://github.com/nabeelnazeer/BigDataAnalytics",
+            "summary": "The BigDataAnalytics repository shows a push event related to hive, a big data analytics tool. This activity suggests that the repository is being used for big data projects or learning, with hive being a key technology. The repository may serve as a resource or workspace for exploring big data analytics concepts and tools."
+        },
+        "nabeelnazeer/nabeelnazeer": {
+            "link": "https://github.com/nabeelnazeer/nabeelnazeer",
+            "summary": "The nabeelnazeer repository, likely a personal or profile repository, has a push event updating the README.md file. This activity indicates maintenance or personalization of the user's GitHub profile, which can be important for showcasing projects, skills, or experiences to the GitHub community."
+        }
+    },
+    "profile_summary": "Nabeel Nazeer is a highly skilled developer with a strong background in computer vision, natural language processing, and data science. With expertise in programming languages such as C++, Python, and R, he has established himself as a proficient technologist with a keen eye for innovative solutions. His professional network is growing, with 15 followers who recognize his technical abilities and value his insights. Nabeel's active involvement in development is evident from his impressive collection of 43 public repositories, showcasing his dedication to creating and sharing knowledge with the developer community.\n\nAs a specialist in Generative Adversarial Networks (GANs) and generative models, Nabeel Nazeer brings a unique perspective to the field of artificial intelligence. His work demonstrates a deep understanding of complex technologies and a passion for harnessing their potential to drive meaningful outcomes. With a strong foundation in data science and a talent for leveraging machine learning techniques, Nabeel is well-equipped to tackle challenging projects and deliver high-quality results. His commitment to staying at the forefront of industry trends and his collaborative approach make him a valuable asset to any team, and his contributions are poised to have a lasting impact on the world of computer vision and natural language processing."
+}

@@ -1,0 +1,79 @@
+{
+    "username": "adithyankoonoth",
+    "name": "ADITHYAN K",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146529699?u=e35021c2976f0f0d0962a3a031086819f92b2b8e&v=4",
+    "profile_url": "https://github.com/adithyankoonoth",
+    "top_languages": [
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "OSM-API",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adithyankoonoth/OSM-API",
+            "updatedAt": "2024-12-09T18:39:06Z"
+        },
+        {
+            "name": "clockinit",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adithyankoonoth/clockinit",
+            "updatedAt": "2024-10-25T13:57:08Z"
+        },
+        {
+            "name": "My-Portfolio",
+            "description": "This is my first self build website with only the knowledge of HTML 5 and not with CSS or JavaScript.",
+            "score": 0.2888527756094989,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adithyankoonoth/My-Portfolio",
+            "updatedAt": "2024-06-29T14:03:27Z"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 18,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "adithyankoonoth/meow-meow": {
+            "link": "https://github.com/adithyankoonoth/meow-meow",
+            "summary": "Recent activities in the meow-meow repository include a series of push events, where the index.html file was updated, a new file named ossbyak was created, and its name was later changed to ossbyak.html, indicating ongoing development and file structure adjustments."
+        },
+        "adithyankoonoth/OSM-API": {
+            "link": "https://github.com/adithyankoonoth/OSM-API",
+            "summary": "The OSM-API repository has seen a recent push event, where files were added via upload, suggesting new content or updates to the project, possibly expanding its functionality or data."
+        },
+        "sougandh-manoj/ERROR404": {
+            "link": "https://github.com/sougandh-manoj/ERROR404",
+            "summary": "Activity in the ERROR404 repository includes a pull request event aimed at updating the README.md file, indicating efforts to refine the project's documentation or presentation."
+        },
+        "adithyankoonoth/ERROR404": {
+            "link": "https://github.com/adithyankoonoth/ERROR404",
+            "summary": "The ERROR404 repository experienced a push event focused on updating the README.md file, which may imply improvements in the project's description, guidelines, or user instructions."
+        },
+        "adithyankoonoth/clockinit": {
+            "link": "https://github.com/adithyankoonoth/clockinit",
+            "summary": "Recent activity in the clockinit repository involved a push event to update the README.md file, suggesting enhancements to the project's documentation or initial setup instructions."
+        }
+    },
+    "profile_summary": "ADITHYAN K is a highly skilled and innovative developer with a strong foundation in HTML, bringing a unique blend of technical expertise and creative problem-solving skills to the table. With a growing portfolio of public repositories, totaling 5, ADITHYAN K consistently demonstrates a commitment to active development and a passion for pushing the boundaries of what is possible in the world of coding. As a dedicated professional, ADITHYAN K is dedicated to delivering high-quality solutions that meet the evolving needs of users, leveraging a deep understanding of industry trends and best practices to drive innovation and excellence.\n\nAs a trusted and reliable developer, ADITHYAN K is poised to make a significant impact in the tech community, with a strong focus on building a professional network and establishing meaningful connections with like-minded individuals. With a keen eye for detail and a talent for crafting elegant, user-centric solutions, ADITHYAN K is an asset to any project or team, bringing a distinctive combination of technical acumen and collaborative spirit to the forefront. By emphasizing precision, creativity, and technical prowess, ADITHYAN K is well on the way to establishing a reputation as a go-to expert in HTML development, with a bright future ahead in the world of coding and software development."
+}

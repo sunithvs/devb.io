@@ -1,0 +1,146 @@
+{
+    "username": "abm32",
+    "name": "Abhimanyu R B",
+    "bio": "Passionate developer experienced in building robust applications using various technologies. Always eager to learn and explore new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/110992125?u=64e13362264e65dd158940f4fb8ead7aa2da3968&v=4",
+    "profile_url": "https://github.com/Abm32",
+    "top_languages": [
+        [
+            "Python",
+            10
+        ],
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Kotlin",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "todo_app_vite_react",
+            "description": "A sail todo app",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Abm32/todo_app_vite_react",
+            "updatedAt": "2024-12-24T19:14:05Z"
+        },
+        {
+            "name": "global-fire-safety-system",
+            "description": "This project leverages cutting-edge technology and machine learning to analyze satellite imagery, providing early detection of potential wildfires. It aims to democratize access to this critical information, engaging local communities in reporting, monitoring, and proactive measures.",
+            "score": 4.091031792842664,
+            "stars": 2,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Abm32/global-fire-safety-system",
+            "updatedAt": "2024-10-05T18:15:21Z"
+        },
+        {
+            "name": "Glitch-Service-Hub",
+            "description": "Glitch Service Hub bridges the gap between skilled job seekers (e.g., plumbers, electricians, mechanics) and those in need of their services. Our tech-powered platform connects service providers with customers, addressing global issues of poverty and unemployment.",
+            "score": 3.3890026168216796,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Abm32/Glitch-Service-Hub",
+            "updatedAt": "2023-09-01T07:53:06Z"
+        },
+        {
+            "name": "Personal_diary_app_electronjs",
+            "description": "Personal diary app made using electronjs. Store the note written into our system",
+            "score": 2.431651043669325,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abm32/Personal_diary_app_electronjs",
+            "updatedAt": "2024-01-10T14:23:17Z"
+        },
+        {
+            "name": "mysite",
+            "description": null,
+            "score": 1.903240592312536,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Abm32/mysite",
+            "updatedAt": "2024-01-05T08:44:29Z"
+        },
+        {
+            "name": "Arambh-Hackathon",
+            "description": null,
+            "score": 1.6174474863292756,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abm32/Arambh-Hackathon",
+            "updatedAt": "2024-04-20T01:40:59Z"
+        },
+        {
+            "name": "facebook_clone",
+            "description": "This is a duplicate facebook page made for educational purpose",
+            "score": 1.6085960676687132,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abm32/facebook_clone",
+            "updatedAt": "2024-09-21T06:12:37Z"
+        },
+        {
+            "name": "OTD",
+            "description": "OTD is made to predict the probability of an individual to get affected by a disease and gives him suggestions on how to get not affected based on his/her habits.",
+            "score": 1.5378124856223743,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Abm32/OTD",
+            "updatedAt": "2023-01-02T11:30:25Z"
+        }
+    ],
+    "followers": 44,
+    "following": 33,
+    "public_repos": 102,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1209,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AbhimanyuRB1"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhimanyurb"
+        }
+    ],
+    "activity_summary": {
+        "Real-Time-Stock-and-Sentiment-Analysis-Dashboard": {
+            "link": "https://github.com/Abm32/Real-Time-Stock-and-Sentiment-Analysis-Dashboard",
+            "summary": "Recent activities include multiple code updates, including the removal of Databricks and the use of TextBlob for sentiment analysis, as well as the initialization of the project with base files and addition of base project code. These updates took place on November 10, 2024."
+        },
+        "survival_guide": {
+            "link": "https://github.com/Abm32/survival_guide",
+            "summary": "The repository experienced significant updates between October 25-26, 2024, with the addition of new pages, improvement of the user interface, and the implementation of basic UI with an apocalyptic theme, as well as multiple updates to the README.md file."
+        },
+        "student_management": {
+            "link": "https://github.com/Abm32/student_management",
+            "summary": "On November 16, 2024, the repository saw several updates, including the addition of delete functionality, edit functionality, and the successful routing of these features in Express to MySQL, demonstrating active development of the student management system."
+        },
+        "todo_app_vite_react": {
+            "link": "https://github.com/Abm32/todo_app_vite_react",
+            "summary": "A recent update was made on December 24, 2024, where the README.md file was updated, indicating ongoing maintenance of the todo app project."
+        },
+        "coqui-tts-practise": {
+            "link": "https://github.com/Abm32/coqui-tts-practise",
+            "summary": "An update took place on November 11, 2024, with the creation of a C42-Text-to-Speech component, suggesting the project is exploring text-to-speech functionalities."
+        }
+    },
+    "profile_summary": "Abhimanyu R B is a highly skilled developer with a strong foundation in programming languages, including Python, JavaScript, and Kotlin. With a proven track record of building robust applications, Abhimanyu has established himself as a reliable and innovative professional in the field of software development. His passion for learning and exploring new technologies has enabled him to stay up-to-date with the latest industry trends and advancements, allowing him to deliver high-quality solutions that meet the evolving needs of businesses and organizations.\n\nAs a respected member of the development community, Abhimanyu has built a professional network of 44 followers and has actively contributed to 102 public repositories, demonstrating his commitment to collaborative development and open-source innovation. With his unique blend of technical expertise, passion for learning, and dedication to delivering exceptional results, Abhimanyu is well-positioned to drive technology-driven initiatives and solve complex problems in a rapidly changing digital landscape. His expertise and achievements make him an invaluable asset to any organization seeking to leverage the power of technology to drive business growth and success."
+}

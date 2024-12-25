@@ -1,0 +1,115 @@
+{
+    "username": "anaya05wilson",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/148707322?v=4",
+    "profile_url": "https://github.com/Anaya05Wilson",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Anaya05Wilson/Portfolio",
+            "updatedAt": "2024-12-21T19:35:57Z"
+        },
+        {
+            "name": "Test",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Anaya05Wilson/Test",
+            "updatedAt": "2024-12-21T19:20:12Z"
+        },
+        {
+            "name": "Freecad-doc",
+            "description": "FreeCad text icon issue",
+            "score": 0.29896678056375503,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Anaya05Wilson/Freecad-doc",
+            "updatedAt": "2024-07-28T14:29:43Z"
+        },
+        {
+            "name": "Anaya05Wilson",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Anaya05Wilson/Anaya05Wilson",
+            "updatedAt": "2024-07-28T14:25:59Z"
+        },
+        {
+            "name": "foodsite",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anaya05Wilson/foodsite",
+            "updatedAt": "2024-03-01T17:38:43Z"
+        },
+        {
+            "name": "myfirstproject",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anaya05Wilson/myfirstproject",
+            "updatedAt": "2024-03-01T17:48:46Z"
+        },
+        {
+            "name": "NutriMix",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anaya05Wilson/NutriMix",
+            "updatedAt": "2024-03-03T04:46:16Z"
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 10,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 44,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Anaya05Wilson/Test": {
+            "link": "https://github.com/Anaya05Wilson/Test",
+            "summary": "The repository has experienced significant activity, with multiple push events and pull requests. The recent activities include the addition of a login page, modifications to the sign-in feature, and the merging of branches. Additionally, there were updates to the 'helo.txt' file and the addition of an education section. These activities indicate ongoing development and refinement of the repository's content."
+        },
+        "Anaya05Wilson/Portfolio": {
+            "link": "https://github.com/Anaya05Wilson/Portfolio",
+            "summary": "The repository has seen a recent push event with the addition of a React project, suggesting ongoing development and expansion of the portfolio. This activity indicates that the repository is being maintained and updated with new content, likely reflecting the growth and progression of the portfolio."
+        }
+    },
+    "profile_summary": "This skilled developer possesses a strong foundation in programming languages, with proficiency in C++, JavaScript, and HTML. With a diverse portfolio of 10 public repositories, they have consistently demonstrated their ability to design, develop, and deploy high-quality software solutions. Their technical expertise and attention to detail have earned them a reputation as a reliable and innovative problem solver. As a result, they have built a professional network of peers who recognize their value, with 2 followers who appreciate their contributions to the development community.\n\nWith a focus on delivering efficient, scalable, and user-friendly applications, this developer has established themselves as a talented and dedicated professional in the field. Their expertise in C++, JavaScript, and HTML enables them to tackle complex projects with confidence, and their passion for staying up-to-date with the latest industry trends and technologies ensures they remain at the forefront of software development. By leveraging their technical skills and collaborative approach, they are well-equipped to drive projects forward and make meaningful contributions to the open-source community, solidifying their position as a high-performing and innovative developer in the industry."
+}

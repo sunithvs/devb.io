@@ -1,25 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include fixing duplicate wording on the holidays newspost and merging pull requests to address similar issues, showcasing a focus on refining the wiki's content for better user experience."
-        },
         "ppy/osu-tools": {
             "link": "https://github.com/ppy/osu-tools",
-            "summary": "The repository has seen significant updates with the addition of an option to populate score parameters on the SimulateScreen using score ID, enhancing the tool's functionality and user interaction."
+            "summary": "Recent activities include the addition of an option to populate score parameters on `SimulateScreen` using score ID, along with the corresponding pull request being merged. This update aims to enhance the tool's functionality and user experience."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "The repository has seen a fix for duplicate wording on the 'happy holidays!' news post, addressing minor textual inconsistencies to improve overall readability and maintain the quality of the wiki's content."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "A notable update includes the implementation of the ability to mark a beatmap as played, which is a key feature for user engagement and beatmap management within the osu ecosystem."
+            "summary": "A notable update includes the implementation of the ability to mark a beatmap as played, following the merge of the relevant pull request, which contributes to enhancing the platform's user interaction capabilities."
         },
         "ppy/osu-server-beatmap-submission": {
             "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Efforts to improve observability are underway with the integration of Sentry and Datadog, along with extended logging, aiming to enhance the server's performance and issue tracking capabilities."
+            "summary": "There's an ongoing effort to improve observability by integrating services like Sentry and Datadog, along with extending logging capabilities, as proposed in a recent pull request, aiming to enhance monitoring and diagnostics within the beatmap submission process."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "A pull request aims to include user tags in beatmapset searches, which would require a new beatmap search index, indicating a push towards more personalized and efficient search functionalities within the osu web platform."
+            "summary": "A recent pull request proposes the inclusion of user tags in beatmapset searches, which would necessitate the creation of a new beatmap search index to effectively target and filter results based on these tags, aiming to enhance search functionality and user experience."
         }
     },
     "profile_summary": null

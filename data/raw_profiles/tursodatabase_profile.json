@@ -3,7 +3,11 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository have focused on resolving the empty range error that occurs when 0 interactions are produced. Multiple pull requests and a push event have been made to address this issue, specifically fixing the panicking case in issue #548 by ensuring at least one interaction is created, thereby preventing the error and enhancing the repository's stability."
+            "summary": "The repository has seen significant activities including several pull requests and push events. Notable changes include encoding integers with proper varint types, adding uuid support for v4 and v7, improving documentation, and fixing empty range errors. Additionally, there were multiple merges from different contributors, addressing issues and enhancing the overall functionality of the repository."
+        },
+        "tursodatabase/turso-client-php": {
+            "link": "https://github.com/tursodatabase/turso-client-php",
+            "summary": "This repository has experienced recent activity with pull requests and push events focused on fixing issues and enhancing the build process, particularly for Windows. Key changes include fixing the wrong compiler used in the Windows build, using the lld linker as suggested by ext-php-rs, and making adjustments for self-hosted runners and nix flake. These updates aim to stabilize and improve the client's functionality and compatibility across different platforms."
         }
     },
     "profile_summary": null

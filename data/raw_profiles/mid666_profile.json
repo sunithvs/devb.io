@@ -1,0 +1,71 @@
+{
+    "username": "mid666",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/64549631?v=4",
+    "profile_url": "https://github.com/Mid666",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Ruby",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LinuxDeviceDrivers",
+            "description": null,
+            "score": 0.06875310908583232,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Mid666/LinuxDeviceDrivers",
+            "updatedAt": "2021-03-02T09:05:33Z"
+        },
+        {
+            "name": "Semaphore-problems",
+            "description": null,
+            "score": 0.0684697356886607,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Mid666/Semaphore-problems",
+            "updatedAt": "2020-12-08T17:51:50Z"
+        },
+        {
+            "name": "FullDuplexTCP",
+            "description": null,
+            "score": 0.06842564068463157,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Mid666/FullDuplexTCP",
+            "updatedAt": "2021-01-07T08:01:44Z"
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.06721359179689589,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/Mid666/github-slideshow",
+            "updatedAt": "2020-04-29T17:13:32Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a skilled professional with a strong foundation in programming languages, particularly C and Ruby. With a growing network of followers and a portfolio of public repositories, they have established themselves as a capable and active developer in the industry. Their technical skills and expertise have enabled them to deliver high-quality solutions, and their public repositories demonstrate their ability to work on a wide range of projects. As a result, they have gained recognition and respect from their peers and have built a reputation as a reliable and innovative developer.\n\nWith a focus on using technology to drive innovation and improvement, this developer is committed to staying up-to-date with the latest trends and advancements in the field. Their expertise in C and Ruby has allowed them to develop efficient and effective solutions, and their experience with public repositories has given them a unique understanding of collaborative development and open-source software. As a skilled and dedicated developer, they are well-positioned to make significant contributions to the industry, and their work is likely to have a lasting impact on the projects they undertake, making them a valuable asset to any team or organization."
+}

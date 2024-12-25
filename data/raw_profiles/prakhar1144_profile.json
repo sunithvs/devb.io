@@ -1,0 +1,130 @@
+{
+    "username": "prakhar1144",
+    "name": "Prakhar Pratyush",
+    "bio": "Software Engineer @zulip | GSoC'23 @zulip | NIT Hamirpur",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/56781761?v=4",
+    "profile_url": "https://github.com/prakhar1144",
+    "top_languages": [
+        [
+            "Python",
+            14
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Acad-Mate",
+            "description": "A web app for academic help of NITH-Freshers",
+            "score": 3.3053146811833343,
+            "stars": 2,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/prakhar1144/Acad-Mate",
+            "updatedAt": "2020-12-11T11:04:21Z"
+        },
+        {
+            "name": "deLotto-HINT",
+            "description": "A decentralized, trustless and automated web application to play Lottery Games",
+            "score": 1.5311011562642032,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/prakhar1144/deLotto-HINT",
+            "updatedAt": "2023-05-18T17:10:35Z"
+        },
+        {
+            "name": "Track-S",
+            "description": "A website to track the live position of International space station , to get the info about when you can catch it at your location and some interesting weekly blogs.",
+            "score": 1.4542517081447268,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/prakhar1144/Track-S",
+            "updatedAt": "2022-12-01T07:23:07Z"
+        },
+        {
+            "name": "Angry-Birds",
+            "description": "Desktop Game",
+            "score": 1.107492028510372,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/prakhar1144/Angry-Birds",
+            "updatedAt": "2020-11-15T14:45:27Z"
+        },
+        {
+            "name": "git-internals",
+            "description": "A learning project to explore and implement how Git works under the hood.",
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/prakhar1144/git-internals",
+            "updatedAt": "2024-10-18T01:14:32Z"
+        },
+        {
+            "name": "convin",
+            "description": null,
+            "score": 0.1528137945008781,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/prakhar1144/convin",
+            "updatedAt": "2023-01-31T15:08:35Z"
+        },
+        {
+            "name": "Carpool-Backend",
+            "description": "This repository contains the API endpoints for Carpool-App. ",
+            "score": 0.14137733183446868,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/prakhar1144/Carpool-Backend",
+            "updatedAt": "2023-01-26T17:05:03Z"
+        },
+        {
+            "name": "major-project-frontend",
+            "description": null,
+            "score": 0.07428296767827582,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/prakhar1144/major-project-frontend",
+            "updatedAt": "2022-09-26T05:49:20Z"
+        }
+    ],
+    "followers": 45,
+    "following": 20,
+    "public_repos": 57,
+    "pull_requests_merged": 98,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 813,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/prakhar1144"
+        }
+    ],
+    "activity_summary": {
+        "prakhar1144/zulip": {
+            "link": "https://github.com/prakhar1144/zulip",
+            "summary": "Recent activities in the prakhar1144/zulip repository include multiple push events with various commits related to fixing issues, improving code quality, and enhancing functionality. The commits address issues such as requiring swap space for low RAM installations, fixing sidebars, and improving email parsing. Additionally, there are updates to Python requirements, openapi schema names, and improvements to message editing and user topic management."
+        },
+        "zulip/zulip": {
+            "link": "https://github.com/zulip/zulip",
+            "summary": "The zulip/zulip repository has seen recent activity with pull requests focused on enhancing the export functionality and improving channel activity status updates. One pull request introduces a banner to notify admins about their personal data export settings, while another updates the active status of channels based on recent activity, including a cron job and database migration. These changes aim to improve the overall user experience and data management within the Zulip platform."
+        }
+    },
+    "profile_summary": "Prakhar Pratyush is a skilled software engineer with a strong background in programming languages such as Python, JavaScript, and HTML. As a seasoned developer, he has established a notable presence in the industry, with a network of 45 followers and a portfolio of 57 public repositories that demonstrate his active involvement in development projects. Prakhar's technical expertise and dedication to his craft have earned him recognition, including his participation in Google Summer of Code 2023 at Zulip, where he contributed to the growth and improvement of the platform.\n\nAs a professional with a degree from NIT Hamirpur, Prakhar brings a unique combination of academic foundation and real-world experience to his work. His technical skills, paired with his experience as a software engineer at Zulip, make him a valuable asset to any project or organization. With a strong online presence and a history of delivering high-quality work, Prakhar is a reliable and innovative developer who consistently produces exceptional results. His proficiency in key programming languages and his commitment to staying up-to-date with industry trends position him as a leader in his field, capable of driving projects forward with expertise and precision."
+}

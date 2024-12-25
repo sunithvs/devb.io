@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/helm-charts": {
-            "link": "https://github.com/ppy/helm-charts",
-            "summary": "The ppy/helm-charts repository experienced significant activity on December 24, 2024, with multiple push events focused on updating index.yaml, enhancing storage RWX documentation, and adding probes configuration. Additionally, there were updates to osu-web chart, upgrade of osu-beatmap-difficulty-lookup-cache subchart, and fixes to probe type comparison."
-        },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The ppy/osu-wiki repository saw notable activity on December 24, 2024, with push and pull request events related to adding podium and badge images to Sparxe's Two Key Event. The changes were thoroughly tested against the contribution checklist, demonstrating a rigorous approach to repository maintenance and updates."
+            "summary": "Recent activities include adding lazer mod articles, fixing duplicate wording on news posts, and adding podium and badge images to Sparxe's Two Key Event. The repository also saw standardization of various mod fields, rewriting of the Classic intro, and reformatting of key mod details. Furthermore, there were additions to the news section, including a 'happy holidays!' post and miscellaneous mod cleanups."
         },
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "The ppy/osu repository had a notable push event on December 24, 2024, which enabled seasonal features, indicating preparations for seasonal updates or events within the osu! ecosystem."
+        "ppy/helm-charts": {
+            "link": "https://github.com/ppy/helm-charts",
+            "summary": "The repository experienced updates to index.yaml, fixes to probe type comparisons, and the addition of probes configuration. Other notable activities include the addition of Octane pools, restructuring of octane and assets configurations, and enhancements to storage RWX documentation. The osu-web chart was also upgraded to 2024.1224.0, indicating ongoing maintenance and improvement of the repository."
         }
     },
     "profile_summary": null

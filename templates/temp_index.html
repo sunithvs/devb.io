@@ -513,7 +513,7 @@ async function updateSvg(svgText, userData) {
     return svgText
         .replace(/{name}/g, userData.name)
         .replace(/{avatar}/g, `${base64Image}`)
-        .replace(/{bio}/g, userData.bio ? userData.bio.slice(0, 140) + (userData.bio.length > 140 ? "..." : "") : "")
+            .replace(/{bio}/g, userData.bio ? userData.bio.slice(0, 65) + (userData.bio.length > 65 ? "..." : "") : "")
         .replace(/{follow}/g, `${get_in_k_format(userData.followers)} Followers | ${get_in_k_format(userData.following)} Following`)
         .replace(/{repos}/g, `${userData.public_repos} Public Repos`)
         .replace(/{commits}/g, `${userData.achievements.total_contributions}`)

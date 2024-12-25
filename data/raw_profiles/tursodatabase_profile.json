@@ -3,11 +3,11 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "The repository has seen significant activities including several pull requests and push events. Notable changes include encoding integers with proper varint types, adding uuid support for v4 and v7, improving documentation, and fixing empty range errors. Additionally, there were multiple merges from different contributors, addressing issues and enhancing the overall functionality of the repository."
+            "summary": "Recent activities include improvements to integer and UUID handling, enhancements to the file creation function, and updates to the planner and translation. Multiple commits have been made to optimize performance, fix issues, and expand documentation. Additionally, a pull request has been made to encode integers with proper varint types, resolving issue #532."
         },
         "tursodatabase/turso-client-php": {
             "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "This repository has experienced recent activity with pull requests and push events focused on fixing issues and enhancing the build process, particularly for Windows. Key changes include fixing the wrong compiler used in the Windows build, using the lld linker as suggested by ext-php-rs, and making adjustments for self-hosted runners and nix flake. These updates aim to stabilize and improve the client's functionality and compatibility across different platforms."
+            "summary": "Recent activities focus on fixing issues with the Windows build, including the use of the wrong compiler. Multiple pull requests have been submitted to address these problems, with commits made to update the build process and ensure compatibility. Tests have also been run to verify the fixes, and documentation has been updated to reflect the changes."
         }
     },
     "profile_summary": null

@@ -1,0 +1,130 @@
+{
+    "username": "serasusan",
+    "name": "Sera Susan Koshy",
+    "bio": "Just another persevering mind!",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108021864?u=5e4a6f607080d92e089ad686cf18f902afd36092&v=4",
+    "profile_url": "https://github.com/serasusan",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TRIO_SaturdayHackNight",
+            "description": null,
+            "score": 1.7231032480072135,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/serasusan/TRIO_SaturdayHackNight",
+            "updatedAt": "2022-11-19T17:03:52Z"
+        },
+        {
+            "name": "RandomDSAQuestions",
+            "description": "Making own DSA questions and solving it",
+            "score": 1.6710400689023328,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/serasusan/RandomDSAQuestions",
+            "updatedAt": "2024-12-15T16:08:28Z"
+        },
+        {
+            "name": "MyPlayground",
+            "description": "You can find the websites I've created here. This repository encompasses all the code snippets I'm practicing to enhance my coding skills, such as implementing a JavaScript countdown timer and more.",
+            "score": 1.6403008112909587,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/serasusan/MyPlayground",
+            "updatedAt": "2024-02-25T06:59:13Z"
+        },
+        {
+            "name": "Zena_Tink-Her-Hack",
+            "description": null,
+            "score": 1.1152031193381782,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/serasusan/Zena_Tink-Her-Hack",
+            "updatedAt": "2022-12-18T02:38:13Z"
+        },
+        {
+            "name": "Arsh-DSA-Sheet-Practice",
+            "description": "45 day challenge ",
+            "score": 0.2941253503849037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/serasusan/Arsh-DSA-Sheet-Practice",
+            "updatedAt": "2024-08-07T08:32:51Z"
+        },
+        {
+            "name": "ML-Basics",
+            "description": null,
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/serasusan/ML-Basics",
+            "updatedAt": "2024-07-13T16:54:46Z"
+        },
+        {
+            "name": "TesseractOCR_Streamlit",
+            "description": "Implemented basic tesseract ocr along with streamlit",
+            "score": 0.28616413491350695,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/serasusan/TesseractOCR_Streamlit",
+            "updatedAt": "2024-06-20T14:14:51Z"
+        },
+        {
+            "name": "Portfolio_Template-1",
+            "description": "This is a portfolio template that I created using basic HTML, CSS & JS",
+            "score": 0.28284249651958554,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/serasusan/Portfolio_Template-1",
+            "updatedAt": "2024-06-08T08:58:36Z"
+        }
+    ],
+    "followers": 32,
+    "following": 49,
+    "public_repos": 41,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 140,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/KoshySera"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/serasusan/"
+        }
+    ],
+    "activity_summary": {
+        "serasusan/RandomDSAQuestions": {
+            "link": "https://github.com/serasusan/RandomDSAQuestions",
+            "summary": "Recent activities in the RandomDSAQuestions repository have focused on updating and expanding the blind75 module, with multiple push events occurring in December 2024. These updates have included the addition of new questions and code, as well as overall refinements to the content. Prior updates in November 2024 also introduced new lab questions and further enhanced the repository's codebase."
+        }
+    },
+    "profile_summary": "Sera Susan Koshy is a highly skilled and accomplished developer with a strong background in programming languages such as C, Python, and C++. With a growing professional network of 32 followers, she has established herself as a reliable and innovative expert in her field. Her impressive portfolio of 41 public repositories showcases her active development work and commitment to creating high-quality code. As a dedicated and persevering individual, Sera continues to push the boundaries of what is possible with technology, always striving to improve and expand her skill set.\n\nWith a unique blend of technical expertise and creative problem-solving skills, Sera brings a valuable perspective to the world of software development. Her proficiency in C, Python, and C++ enables her to tackle complex projects with confidence and precision. As a driven and passionate developer, Sera is well-equipped to collaborate with others and drive projects forward with her expertise and enthusiasm. With her strong online presence and impressive body of work, Sera Susan Koshy is an exceptional developer who consistently delivers high-quality results and makes significant contributions to the programming community."
+}

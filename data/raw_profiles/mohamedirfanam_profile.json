@@ -1,0 +1,142 @@
+{
+    "username": "mohamedirfanam",
+    "name": "Mohamed Irfan",
+    "bio": "CSE Undergrad at College of Engineering Trivandrum, Kerala, India",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64521698?u=7405f9d8c2d861a7cbb54c7c7a751504af24622e&v=4",
+    "profile_url": "https://github.com/MohamedIrfanAM",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "books2notion",
+            "description": "Python script for syncing Google Play Books highlights to Notion",
+            "score": 8.189339473428031,
+            "stars": 18,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/MohamedIrfanAM/books2notion",
+            "updatedAt": "2024-08-25T14:15:13Z"
+        },
+        {
+            "name": "AwesomeWM",
+            "description": "My Awesome window manager config",
+            "score": 5.852699664425673,
+            "stars": 9,
+            "forks": 1,
+            "language": "Lua",
+            "url": "https://github.com/MohamedIrfanAM/AwesomeWM",
+            "updatedAt": "2024-07-26T15:23:32Z"
+        },
+        {
+            "name": "ghostchat",
+            "description": "Chat with strangers, react-native cross platform application ",
+            "score": 1.6497419493507317,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MohamedIrfanAM/ghostchat",
+            "updatedAt": "2024-06-12T13:05:11Z"
+        },
+        {
+            "name": "Contest2Calender",
+            "description": "Python script to sync cp contest date to Google calander",
+            "score": 1.6145255715488238,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MohamedIrfanAM/Contest2Calender",
+            "updatedAt": "2024-05-02T12:07:47Z"
+        },
+        {
+            "name": "dotfiles",
+            "description": "Linux dotfiles",
+            "score": 1.5941664781170855,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/MohamedIrfanAM/dotfiles",
+            "updatedAt": "2024-11-30T14:49:55Z"
+        },
+        {
+            "name": "textrade",
+            "description": "Exchange platform offering a diverse range of used college essentials.",
+            "score": 1.2068348497828107,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/MohamedIrfanAM/textrade",
+            "updatedAt": "2023-11-25T12:48:19Z"
+        },
+        {
+            "name": "d-solve-timer",
+            "description": "D Solve hackathon timer",
+            "score": 0.2688302205985168,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MohamedIrfanAM/d-solve-timer",
+            "updatedAt": "2024-04-05T03:45:37Z"
+        },
+        {
+            "name": "labworks",
+            "description": null,
+            "score": 0.24823616481193678,
+            "stars": 0,
+            "forks": 0,
+            "language": "TeX",
+            "url": "https://github.com/MohamedIrfanAM/labworks",
+            "updatedAt": "2024-10-20T21:46:02Z"
+        }
+    ],
+    "followers": 23,
+    "following": 16,
+    "public_repos": 23,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 378,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/MohamedIrfanAM"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mohamedirfanam/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://codeforces.com/profile/irfan_"
+        }
+    ],
+    "activity_summary": {
+        "MohamedIrfanAM/cp": {
+            "link": "https://github.com/MohamedIrfanAM/cp",
+            "summary": "Recent activities in this repository include a series of updates related to competitive programming, with multiple push events containing solutions to AoC (Advent of Code) problems from day 1 to day 15, along with additions and edits to leetcode problems and other coding challenges."
+        },
+        "MohamedIrfanAM/labworks": {
+            "link": "https://github.com/MohamedIrfanAM/labworks",
+            "summary": "Activities in this repository have been centered around lab works, with push events dated from October 2024, focusing on the development and updates of algorithms, including the implementation of pass 1 and pass 2 algorithms, bubble sort, and substring assembly, along with updates to optab for assembler and fixes to the location counter shift in pass 1 algorithm."
+        },
+        "MohamedIrfanAM/dotfiles": {
+            "link": "https://github.com/MohamedIrfanAM/dotfiles",
+            "summary": "This repository has seen recent updates to dotfiles, including changes to hyprland configuration such as updating the suspend rule on hypridle, updating the fake fullscreen API, changing themes, and installing conda, reflecting ongoing customization and improvement of the user's development environment."
+        }
+    },
+    "profile_summary": "Mohamed Irfan is a skilled and innovative software developer with a strong foundation in computer science, currently pursuing his undergraduate degree at the prestigious College of Engineering Trivandrum in Kerala, India. He possesses exceptional technical expertise in programming languages such as C++, Python, and TypeScript, enabling him to develop efficient and scalable software solutions. With a growing professional network of 23 followers, Mohamed Irfan has established himself as a reliable and collaborative developer, capable of working effectively with others to achieve common goals. His active participation in open-source development is evident through his 23 public repositories, demonstrating his passion for coding and commitment to continuous learning.\n\nAs a highly motivated and dedicated individual, Mohamed Irfan is well-equipped to tackle complex software development challenges, leveraging his technical skills and knowledge to drive innovation and deliver high-quality results. With a strong online presence and a reputation for producing well-structured and maintainable code, Mohamed Irfan is an attractive candidate for collaborative projects and professional opportunities. His unique blend of technical expertise, creativity, and enthusiasm makes him an valuable asset to any development team, and his contributions are likely to have a significant impact in the world of software development, with a focus on building scalable, efficient, and reliable software systems using his expertise in C++, Python, and TypeScript."
+}

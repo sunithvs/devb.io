@@ -1,0 +1,126 @@
+{
+    "username": "ashwinsk24",
+    "name": "Ashwin Sivasankaran",
+    "bio": "Flutter | Web ",
+    "location": "Kochi, KL",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71746986?u=dfb8f646dec08acd8ca5aa04446bd0eed28d8588&v=4",
+    "profile_url": "https://github.com/ashwinsk24",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "seta",
+            "description": "SETA - Community App",
+            "score": 4.940541419979849,
+            "stars": 4,
+            "forks": 2,
+            "language": "Dart",
+            "url": "https://github.com/ashwinsk24/seta",
+            "updatedAt": "2022-11-13T06:19:26Z"
+        },
+        {
+            "name": "Laptop-Recommender",
+            "description": "Laptop recommender machine learning project using advanced content filtering and cosine similarity techniques, our system matches your preferences to the perfect laptop, providing you with accurate and personalized suggestions.",
+            "score": 4.513377694123332,
+            "stars": 2,
+            "forks": 3,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashwinsk24/Laptop-Recommender",
+            "updatedAt": "2024-11-01T02:30:26Z"
+        },
+        {
+            "name": "LaptopRecommendation",
+            "description": "Done as part of SlashKey 2.0 by IEEE CUSAT",
+            "score": 3.70160076276921,
+            "stars": 1,
+            "forks": 3,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ashwinsk24/LaptopRecommendation",
+            "updatedAt": "2023-12-25T19:44:50Z"
+        },
+        {
+            "name": "S3DataStructuresLabKTU",
+            "description": null,
+            "score": 3.2502539221122606,
+            "stars": 1,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/ashwinsk24/S3DataStructuresLabKTU",
+            "updatedAt": "2024-08-10T15:47:28Z"
+        },
+        {
+            "name": "Shooter2D_game",
+            "description": "A 2D game built on Unity. Web Version",
+            "score": 2.2679471943043676,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashwinsk24/Shooter2D_game",
+            "updatedAt": "2022-04-09T05:18:20Z"
+        },
+        {
+            "name": "GISRv2",
+            "description": "Gamified Intervention for Stress Relief project aims to develop an innovative intervention system using facial recognition technology and machine learning models. The system is designed to assist individuals in managing stress levels through gamification techniques.",
+            "score": 1.6610404926923235,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashwinsk24/GISRv2",
+            "updatedAt": "2024-05-22T06:19:21Z"
+        },
+        {
+            "name": "flutter-shimmer-effect",
+            "description": null,
+            "score": 1.6122467122351192,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ashwinsk24/flutter-shimmer-effect",
+            "updatedAt": "2024-08-24T06:20:57Z"
+        },
+        {
+            "name": "flightinfosystem_dbmsproject",
+            "description": null,
+            "score": 1.538127634287452,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashwinsk24/flightinfosystem_dbmsproject",
+            "updatedAt": "2023-02-08T19:11:42Z"
+        }
+    ],
+    "followers": 71,
+    "following": 98,
+    "public_repos": 51,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AshwiSK"
+        }
+    ],
+    "activity_summary": {
+        "ashwinsk24/flutter101_rset": {
+            "link": "https://github.com/ashwinsk24/flutter101_rset",
+            "summary": "Recent activities in the ashwinsk24/flutter101_rset repository include multiple updates to the README.md file, code optimizations, and additions to networking and API integration, indicating active development and improvement of the project's functionality and documentation."
+        }
+    },
+    "profile_summary": "Ashwin Sivasankaran is a highly skilled and accomplished developer with a strong foundation in programming languages such as C++, C, and TypeScript. With a notable presence on GitHub, Ashwin has built a professional network of 71 followers who appreciate his technical expertise and innovative approach to software development. His extensive portfolio of 51 public repositories showcases his active involvement in various development projects, demonstrating his ability to design, develop, and deploy high-quality solutions. As a proficient developer with a keen interest in Flutter and web development, Ashwin is well-versed in creating scalable, efficient, and user-friendly applications.\n\nWith a unique blend of technical skills and collaborative mindset, Ashwin Sivasankaran is a valuable asset to any development team. His expertise in leveraging programming languages to drive innovation and solve complex problems has earned him a reputation as a reliable and forward-thinking developer. By combining his technical prowess with a passion for delivering exceptional results, Ashwin consistently pushes the boundaries of what is possible in the world of software development. As a result, he is an attractive partner for businesses and individuals seeking to harness the power of technology to achieve their goals, and his work is characterized by a commitment to excellence, creativity, and attention to detail."
+}

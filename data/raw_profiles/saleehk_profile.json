@@ -1,0 +1,115 @@
+{
+    "username": "saleehk",
+    "name": "Saleeh",
+    "bio": "Co-founder @Appmaker-xyz",
+    "location": "Bangalore ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1823646?u=742bce61253c88908b9954255056117a3d4c7812&v=4",
+    "profile_url": "https://github.com/saleehk",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Java",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Android-Material-support-libraries-Samples",
+            "description": null,
+            "score": 11.225817932209072,
+            "stars": 43,
+            "forks": 10,
+            "language": "Java",
+            "url": "https://github.com/saleehk/Android-Material-support-libraries-Samples",
+            "updatedAt": "2021-03-17T18:14:17Z"
+        },
+        {
+            "name": "adb-wifi",
+            "description": null,
+            "score": 10.806899550367419,
+            "stars": 51,
+            "forks": 5,
+            "language": "JavaScript",
+            "url": "https://github.com/saleehk/adb-wifi",
+            "updatedAt": "2024-12-05T18:26:04Z"
+        },
+        {
+            "name": "data-binding-samples",
+            "description": "Samples for google new dataBinding ",
+            "score": 7.807145287271982,
+            "stars": 16,
+            "forks": 3,
+            "language": "Java",
+            "url": "https://github.com/saleehk/data-binding-samples",
+            "updatedAt": "2022-06-19T08:03:22Z"
+        },
+        {
+            "name": "APIservice-Sample",
+            "description": "Sample Boilerplate code for Any API service with OkHttp + Retrofit",
+            "score": 4.319627501912784,
+            "stars": 4,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/saleehk/APIservice-Sample",
+            "updatedAt": "2015-11-14T17:06:07Z"
+        },
+        {
+            "name": "CallEmailSms",
+            "description": "Android app for sending message after someone called",
+            "score": 2.489148678990976,
+            "stars": 1,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/saleehk/CallEmailSms",
+            "updatedAt": "2017-06-14T10:41:15Z"
+        },
+        {
+            "name": "lowdb-google-cloud-storage-adapter",
+            "description": null,
+            "score": 2.1441489166168,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/saleehk/lowdb-google-cloud-storage-adapter",
+            "updatedAt": "2019-08-23T10:15:48Z"
+        },
+        {
+            "name": "Clipshare",
+            "description": null,
+            "score": 1.5383838615672047,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saleehk/Clipshare",
+            "updatedAt": "2023-01-31T05:34:20Z"
+        },
+        {
+            "name": "telegram-form-bot",
+            "description": null,
+            "score": 1.4505316539161095,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saleehk/telegram-form-bot",
+            "updatedAt": "2018-11-01T17:03:53Z"
+        }
+    ],
+    "followers": 35,
+    "following": 40,
+    "public_repos": 74,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1382,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Saleeh is a highly skilled and accomplished software developer, co-founder of Appmaker-xyz, with a strong background in JavaScript, TypeScript, and Java. With a substantial professional network of 35 followers, Saleeh has established himself as a trusted and influential figure in the development community. His impressive portfolio of 74 public repositories showcases his active involvement in development projects, demonstrating a consistent ability to deliver high-quality code and innovative solutions. As a seasoned developer, Saleeh brings a unique combination of technical expertise and entrepreneurial spirit to the table, making him a valuable asset to any project or organization.\n\nWith a strong focus on delivering cutting-edge software solutions, Saleeh leverages his technical expertise to drive innovation and growth. His proficiency in JavaScript, TypeScript, and Java enables him to navigate complex development projects with ease, ensuring seamless execution and exceptional results. As a co-founder of Appmaker-xyz, Saleeh has developed a distinctive approach to software development, blending technical prowess with a deep understanding of industry trends and requirements. With his strong technical foundation, collaborative mindset, and passion for innovative problem-solving, Saleeh is well-positioned to drive success in the tech industry, providing reliable and forward-thinking solutions that meet the evolving needs of businesses and users alike."
+}

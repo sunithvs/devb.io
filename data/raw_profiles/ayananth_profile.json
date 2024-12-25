@@ -1,0 +1,61 @@
+{
+    "username": "ayananth",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/87563295?v=4",
+    "profile_url": "https://github.com/Ayananth",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "blog_app",
+            "description": "Django web application",
+            "score": 0.07479866002246266,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Ayananth/blog_app",
+            "updatedAt": "2022-10-17T12:43:55Z"
+        },
+        {
+            "name": "Vegetation-change",
+            "description": null,
+            "score": 0.07019645656238346,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ayananth/Vegetation-change",
+            "updatedAt": "2022-03-28T05:40:48Z"
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 11,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Ayananth/Obsidian-Vault": {
+            "link": "https://github.com/Ayananth/Obsidian-Vault",
+            "summary": "Recent activities in the Obsidian-Vault repository involve organizational efforts, including the deletion of the Rough Notes and Daily Notes directories on December 11, 2024, streamlining the repository's structure and content."
+        },
+        "firstcontributions/first-contributions": {
+            "link": "https://github.com/firstcontributions/first-contributions",
+            "summary": "The first-contributions repository recently received a pull request on December 18, 2024, aimed at adding Ayananth to the list of contributors, acknowledging their participation and involvement in the project."
+        }
+    },
+    "profile_summary": "This developer is a skilled and innovative technology expert with a strong foundation in programming languages such as Python and HTML. With a growing professional network of followers and an impressive portfolio of public repositories, they have established themselves as a knowledgeable and reliable presence in the development community. Their technical expertise and ability to deliver high-quality solutions have earned them a reputation as a talented and dedicated professional.\n\nAs a seasoned developer with a proven track record of success, they bring a unique combination of technical skills and collaborative spirit to their work. With a focus on creating effective and efficient solutions, they utilize their expertise in Python and HTML to drive projects forward and achieve exceptional results. With a strong online presence and a commitment to ongoing learning and growth, this developer is well-positioned to tackle complex challenges and make significant contributions to the field of software development, making them a valuable asset to any team or organization."
+}

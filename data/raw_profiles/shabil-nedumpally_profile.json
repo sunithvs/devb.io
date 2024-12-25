@@ -1,0 +1,120 @@
+{
+    "username": "shabil-nedumpally",
+    "name": "Shabil Nedumpally",
+    "bio": "hey this is Muhammed Shabil NP.I am  currently doing diploma in computer engineering at Ma'din Polytechnic College Malappuram",
+    "location": "india",
+    "avatar_url": "https://avatars.githubusercontent.com/u/101131851?u=37534a30341094631f8d0571d43c8b559849ea5d&v=4",
+    "profile_url": "https://github.com/Shabil-nedumpally",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            9
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "mars-mario",
+            "description": null,
+            "score": 3.957264034251639,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Shabil-nedumpally/mars-mario",
+            "updatedAt": "2023-12-07T17:01:41Z"
+        },
+        {
+            "name": "Shabil-nedumpally",
+            "description": null,
+            "score": 3.4688168855184838,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Shabil-nedumpally/Shabil-nedumpally",
+            "updatedAt": "2024-05-03T05:43:15Z"
+        },
+        {
+            "name": "openAi-interface",
+            "description": "education purpose ",
+            "score": 3.4602426136092044,
+            "stars": 4,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Shabil-nedumpally/openAi-interface",
+            "updatedAt": "2024-01-05T16:06:54Z"
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 2.9396325737760947,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Shabil-nedumpally/skills-communicate-using-markdown",
+            "updatedAt": "2023-12-07T17:01:24Z"
+        },
+        {
+            "name": "online-note-and-diary",
+            "description": "hey guys this an online diary ",
+            "score": 2.918548875203542,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Shabil-nedumpally/online-note-and-diary",
+            "updatedAt": "2023-12-07T17:01:30Z"
+        },
+        {
+            "name": "dev-quiz-game",
+            "description": null,
+            "score": 2.917886082980643,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Shabil-nedumpally/dev-quiz-game",
+            "updatedAt": "2023-12-07T17:01:31Z"
+        },
+        {
+            "name": "stonepaperscissor-beta",
+            "description": null,
+            "score": 2.9177997009890984,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Shabil-nedumpally/stonepaperscissor-beta",
+            "updatedAt": "2023-12-07T17:01:32Z"
+        },
+        {
+            "name": "pixabay-bootstrap",
+            "description": null,
+            "score": 2.9177781766352364,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Shabil-nedumpally/pixabay-bootstrap",
+            "updatedAt": "2023-12-07T17:01:39Z"
+        }
+    ],
+    "followers": 14,
+    "following": 27,
+    "public_repos": 23,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 493,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://shabilnp.site"
+        }
+    ],
+    "profile_summary": "Shabil Nedumpally is a skilled and innovative developer with a strong foundation in JavaScript, HTML, and CSS. As a diploma student in computer engineering at Ma'din Polytechnic College Malappuram, he is constantly expanding his technical expertise and staying up-to-date with the latest industry trends. With a growing professional network of 14 followers, Shabil is building a reputation as a reliable and talented developer who is passionate about creating high-quality solutions. His expertise in front-end development enables him to design and build responsive, user-friendly interfaces that meet the needs of modern web applications.\n\nAs an active developer with 23 public repositories, Shabil demonstrates his commitment to ongoing learning and development. His experience with JavaScript, HTML, and CSS has equipped him with the skills to tackle complex projects and deliver results-driven solutions. With a strong online presence and a growing portfolio of work, Shabil is well-positioned to collaborate with other developers and contribute to exciting new projects. His unique blend of technical skills, creativity, and enthusiasm makes him a valuable asset to any development team, and his dedication to his craft is evident in everything he does."
+}

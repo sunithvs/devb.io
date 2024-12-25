@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include adding lazer mod articles, fixing duplicate wording on news posts, and adding podium and badge images to Sparxe's Two Key Event. The repository also saw standardization of various mod fields, rewriting of the Classic intro, and reformatting of key mod details. Furthermore, there were additions to the news section, including a 'happy holidays!' post and miscellaneous mod cleanups."
+            "summary": "The osu-wiki repository has seen significant activity with multiple pull requests and push events, focusing on adding new content, including lazer mod articles and a 'happy holidays!' news post, as well as fixing duplicate wording and adding images to event pages. Furthermore, the repository has had updates to various mod fields, reformatting of key mod details, and additions to the lazer mod listing, demonstrating a substantial effort to maintain and enhance the wiki's content and structure."
         },
         "ppy/helm-charts": {
             "link": "https://github.com/ppy/helm-charts",
-            "summary": "The repository experienced updates to index.yaml, fixes to probe type comparisons, and the addition of probes configuration. Other notable activities include the addition of Octane pools, restructuring of octane and assets configurations, and enhancements to storage RWX documentation. The osu-web chart was also upgraded to 2024.1224.0, indicating ongoing maintenance and improvement of the repository."
+            "summary": "The ppy/helm-charts repository has experienced recent activity, primarily consisting of push events aimed at updating the index.yaml file and addressing a probe type comparison issue. These updates suggest a focus on maintaining the integrity and accuracy of the charts, ensuring they remain up-to-date and functional for users."
         }
     },
     "profile_summary": null

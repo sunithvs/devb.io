@@ -3,19 +3,19 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include fixes for duplicate wording on news posts, the addition of lazer mod articles, and the implementation of various cleanup tasks such as standardizing mod fields, updating links, and reformatting key mod details. These updates aim to improve the overall quality and consistency of the wiki content."
-        },
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Activity includes a pull request focused on enhancing observability by integrating tools like Sentry and Datadog, along with extending logging capabilities to improve the monitoring and debugging of the beatmap submission process."
-        },
-        "ppy/osu-web": {
-            "link": "https://github.com/ppy/osu-web",
-            "summary": "Recent activity involves a pull request to include user tags in the beatmap set search, which requires updating the search index to enable targeting these tags separately, aiming to enhance the search functionality and user experience."
+            "summary": "Recent activities involved resolving duplicate wording issues on news posts, such as the 'happy holidays!' post, and integrating various mod articles for lazer, including cleanup of existing mod articles, addition of new ones, and standardization of mod fields."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "A notable update includes the implementation of the ability to mark beatmaps as played, introduced through a pull request, which enhances the game's functionality and provides more interaction options for players."
+            "summary": "The repository saw the implementation of a feature to mark beatmaps as played, enhancing user interaction with the platform."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Efforts focused on improving observability by integrating tools like Sentry and Datadog, and enhancing logging capabilities to better monitor and manage the beatmap submission process."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "Developments included a proposal to include user tags in beatmap set searches, which would require an update to the beatmap search index to facilitate more targeted searches and improve user experience."
         }
     },
     "profile_summary": null

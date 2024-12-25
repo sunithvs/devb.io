@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests focused on removing dead code and improving logging mechanisms. Notably, several pull requests targeted the simulator component, aiming to eliminate unused code paths. Additionally, a recent push event addressed an issue in the macros crate by fixing the Cargo.toml file. These updates demonstrate ongoing efforts to refine and optimize the repository, with contributors actively working to resolve issues and streamline the codebase."
+            "summary": "Recent activities in the tursodatabase/limbo repository include a push event that fixed the Cargo.toml file in the macros crate, and a pull request event that removed dead code from the simulator by killing the old maybe_add_table() codepath, which is no longer in use."
         }
     },
     "profile_summary": null

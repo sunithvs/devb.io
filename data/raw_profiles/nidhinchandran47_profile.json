@@ -1,0 +1,134 @@
+{
+    "username": "nidhinchandran47",
+    "name": "Nidhin Chandran",
+    "bio": "59 6f 75 27 6c 6c 20 4e 65 76 65 72 20 57 61 6c 6b 20 41 6c 6f 6e 65\r\n",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/96820094?u=72de5fc9096b89efffe8f8c9e12a59c1dd4ef884&v=4",
+    "profile_url": "https://github.com/Nidhinchandran47",
+    "top_languages": [
+        [
+            "Verilog",
+            9
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "VHDL",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "my_rtl_code",
+            "description": "Repository for RTL building blocks   #100daysofrtl  VERILOG VHDL System Verilog",
+            "score": 6.237911385702293,
+            "stars": 11,
+            "forks": 1,
+            "language": "Verilog",
+            "url": "https://github.com/Nidhinchandran47/my_rtl_code",
+            "updatedAt": "2024-07-31T17:20:24Z"
+        },
+        {
+            "name": "HDLbits-Solutions",
+            "description": "The HDL Bits Solutions repository provides answers to the HDL Bits exercises, which are designed for practicing digital hardware design using Verilog HDL.  Join us to learn, share, and master digital design!",
+            "score": 5.148076668991374,
+            "stars": 4,
+            "forks": 2,
+            "language": "Verilog",
+            "url": "https://github.com/Nidhinchandran47/HDLbits-Solutions",
+            "updatedAt": "2024-09-03T17:36:51Z"
+        },
+        {
+            "name": "mac_unit",
+            "description": "This is a 4 bit MAC unit ,which is the basic unit of matric multiplier used in TPU",
+            "score": 4.03347692502694,
+            "stars": 3,
+            "forks": 1,
+            "language": "VHDL",
+            "url": "https://github.com/Nidhinchandran47/mac_unit",
+            "updatedAt": "2024-06-01T15:25:55Z"
+        },
+        {
+            "name": "NxN-network-on-chip",
+            "description": "implementation of a 5 port router",
+            "score": 3.8197064667645138,
+            "stars": 5,
+            "forks": 0,
+            "language": "Verilog",
+            "url": "https://github.com/Nidhinchandran47/NxN-network-on-chip",
+            "updatedAt": "2024-05-30T17:41:06Z"
+        },
+        {
+            "name": "DV200",
+            "description": "A go-to repository for exploring, learning, and mastering RTL design and verification.",
+            "score": 3.053364864138489,
+            "stars": 3,
+            "forks": 0,
+            "language": "Verilog",
+            "url": "https://github.com/Nidhinchandran47/DV200",
+            "updatedAt": "2024-12-18T14:47:05Z"
+        },
+        {
+            "name": "MIPS_testbench_generator",
+            "description": "A MIPS based microprocessor and a python script for automatic generation of testbench corresponding to the input assembly file",
+            "score": 2.703887453143877,
+            "stars": 1,
+            "forks": 1,
+            "language": "Verilog",
+            "url": "https://github.com/Nidhinchandran47/MIPS_testbench_generator",
+            "updatedAt": "2024-12-16T17:10:09Z"
+        },
+        {
+            "name": "flotadder",
+            "description": "This is the VHDL code for a floating point adder",
+            "score": 2.4181711443253007,
+            "stars": 2,
+            "forks": 0,
+            "language": "VHDL",
+            "url": "https://github.com/Nidhinchandran47/flotadder",
+            "updatedAt": "2024-08-22T19:22:15Z"
+        },
+        {
+            "name": "Nidhinchandran47",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.613806854359117,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Nidhinchandran47/Nidhinchandran47",
+            "updatedAt": "2024-09-17T05:23:53Z"
+        }
+    ],
+    "followers": 16,
+    "following": 44,
+    "public_repos": 18,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 456,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/nidhin_47"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nidhinchandran47/"
+        }
+    ],
+    "activity_summary": {
+        "Nidhinchandran47/1X3-Router": {
+            "link": "https://github.com/Nidhinchandran47/1X3-Router",
+            "summary": "The 1X3-Router repository has seen significant activity recently, with multiple push and pull requests. The updates include refactor, typo corrections, and improvements to documentation. Additionally, new features such as environment and scoreboard additions, top module and test class implementations, and updates to markdown and hyperlink fixes have been made. The repository has also seen updates to its make file and verification additions, indicating ongoing development and refinement."
+        },
+        "Nidhinchandran47/MIPS_testbench_generator": {
+            "link": "https://github.com/Nidhinchandran47/MIPS_testbench_generator",
+            "summary": "The MIPS_testbench_generator repository has had recent updates, including a push event to update the README.md file, as well as an earlier update to the mips32.v file. These changes suggest maintenance and improvement of the repository, with a focus on enhancing its functionality and documentation."
+        }
+    },
+    "profile_summary": "Nidhin Chandran is a highly skilled developer with a strong foundation in digital design and development, specializing in Verilog, C++, and VHDL. With a professional network of 16 followers and 18 public repositories, he has established himself as a reliable and innovative expert in his field. His technical expertise and dedication to his craft have earned him a reputation as a high-performing developer who consistently delivers high-quality results. Nidhin's passion for coding and commitment to staying up-to-date with industry trends make him a valuable asset to any project or team.\n\nAs a seasoned developer with a unique blend of technical skills and collaborative spirit, Nidhin Chandran brings a distinctive value proposition to the table. His ability to design, develop, and implement complex digital systems has enabled him to drive innovation and excellence in his work. With a strong focus on reliability, efficiency, and scalability, Nidhin's solutions are tailored to meet the evolving needs of the industry. His bio, \"You'll Never Walk Alone\", reflects his approach to collaboration and teamwork, emphasizing the importance of partnership and mutual support in achieving exceptional outcomes. With his expertise and dedication, Nidhin Chandran is poised to make a lasting impact in the world of digital design and development."
+}

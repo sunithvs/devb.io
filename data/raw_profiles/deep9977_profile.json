@@ -1,0 +1,85 @@
+{
+    "username": "deep9977",
+    "name": "deep",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/166912166?v=4",
+    "profile_url": "https://github.com/deep9977",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Rust",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "jif",
+            "description": "jit compiler for brainfuck",
+            "score": 0.3367496740233143,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/deep9977/jif",
+            "updatedAt": "2024-10-12T05:00:48Z"
+        },
+        {
+            "name": "vm",
+            "description": "a virtual machine written in c from scratch",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/deep9977/vm",
+            "updatedAt": "2024-08-08T13:54:38Z"
+        },
+        {
+            "name": "rush",
+            "description": "a simple shell written  in rust ",
+            "score": 0.2901082377277394,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/deep9977/rush",
+            "updatedAt": "2024-07-13T10:46:09Z"
+        },
+        {
+            "name": "daemonize",
+            "description": null,
+            "score": 0.2897906895081508,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/deep9977/daemonize",
+            "updatedAt": "2024-07-01T09:24:45Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 50,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "jif": {
+            "link": "https://github.com/deep9977/jif",
+            "summary": "Recent activities in the jif repository include multiple push events with updates such as initial parts of bfexec, refactoring, addition of a makefile, implementation of a function to convert bf source code into intermediate representation, and creation of a LICENSE file, all contributing to the ongoing development and refinement of the project."
+        },
+        "cmkr": {
+            "link": "https://github.com/deep9977/cmkr",
+            "summary": "The cmkr repository has seen a recent push event that involved refactoring by inlining a single-use function, contributing to code optimization and simplification, while the build-cpp/cmkr repository had a pull request event focused on adding a check for valid hex hashes, addressing issue #152."
+        },
+        "build-cpp/cmkr": {
+            "link": "https://github.com/build-cpp/cmkr",
+            "summary": "A significant pull request was made to the build-cpp/cmkr repository, introducing a check to ensure that hashes are valid hexadecimal, effectively resolving issue #152 and enhancing the repository's functionality and reliability."
+        }
+    },
+    "profile_summary": "Deep is a highly skilled and innovative software developer with a strong foundation in systems programming, specializing in C and Rust. With a keen eye for detail and a passion for delivering high-quality solutions, Deep has established a reputation for reliability and technical expertise. Through active development and contributions to open-source projects, Deep has demonstrated a commitment to staying at the forefront of industry trends and advancements, leveraging expertise in programming languages to drive innovation and improvement.\n\nAs a dedicated and results-driven professional, Deep brings a unique value proposition to the table, combining technical prowess with a dedication to best practices and collaborative development. With a portfolio of public repositories showcasing a range of projects and accomplishments, Deep has laid the groundwork for a strong professional network and influence in the development community. By emphasizing proficiency in key programming languages and a forward-thinking approach to software development, Deep is well-positioned to drive success and deliver exceptional results in a rapidly evolving technical landscape."
+}

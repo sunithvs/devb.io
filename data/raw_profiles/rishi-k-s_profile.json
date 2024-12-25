@@ -1,0 +1,150 @@
+{
+    "username": "rishi-k-s",
+    "name": "Rishi Krishna",
+    "bio": "Student.",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/56212396?u=7a1556696ff18d1529b9ffcc2959fd7654219143&v=4",
+    "profile_url": "https://github.com/Rishi-k-s",
+    "top_languages": [
+        [
+            "C++",
+            7
+        ],
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Python",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DialDeck",
+            "description": "Dial\u0d21\u0d46\u0d15\u0d4d\u0d15\u0d4d transforms your nostalgic BSNL landline into a cutting-edge stream deck, powered by an Arduino Nano.",
+            "score": 3.112044279281916,
+            "stars": 3,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Rishi-k-s/DialDeck",
+            "updatedAt": "2024-12-19T18:26:05Z"
+        },
+        {
+            "name": "step",
+            "description": "STEP - Student Teacher E-learning Program",
+            "score": 2.9822435988713414,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Rishi-k-s/step",
+            "updatedAt": "2024-10-01T08:13:14Z"
+        },
+        {
+            "name": "housekeeping_management",
+            "description": "Guest Review Management (Earlier known as housekeeping Management)",
+            "score": 2.3475942073463174,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Rishi-k-s/housekeeping_management",
+            "updatedAt": "2023-01-06T19:39:03Z"
+        },
+        {
+            "name": "6axisArduinoArm",
+            "description": null,
+            "score": 1.9380266707299039,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Rishi-k-s/6axisArduinoArm",
+            "updatedAt": "2024-07-11T03:47:46Z"
+        },
+        {
+            "name": "oujaDashboard",
+            "description": null,
+            "score": 1.814892292139048,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/Rishi-k-s/oujaDashboard",
+            "updatedAt": "2023-11-22T15:03:41Z"
+        },
+        {
+            "name": "Rishi-k-s.github.io",
+            "description": "Personal portfolio",
+            "score": 1.6678324360449275,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Rishi-k-s/Rishi-k-s.github.io",
+            "updatedAt": "2024-11-18T06:16:30Z"
+        },
+        {
+            "name": "youtube_downloader",
+            "description": "YouTube Audio and Video Downloader! This Python script allows you to download audio and video files from YouTube using their video URLs",
+            "score": 1.2794266962400787,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Rishi-k-s/youtube_downloader",
+            "updatedAt": "2024-11-30T07:57:39Z"
+        },
+        {
+            "name": "space-carnival-workshop",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Rishi-k-s/space-carnival-workshop",
+            "updatedAt": "2024-12-15T05:20:09Z"
+        }
+    ],
+    "followers": 20,
+    "following": 32,
+    "public_repos": 58,
+    "pull_requests_merged": 11,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 204,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/BeyondRishi"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/beyond_rishi/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rishikrishnas/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.figma.com/@rishikrishna"
+        }
+    ],
+    "activity_summary": {
+        "DialDeck": {
+            "link": "https://github.com/Rishi-k-s/DialDeck",
+            "summary": "Recent activities in DialDeck include multiple push events and pull requests related to feature development, notably the establishment of a simple Bluetooth connection and multiple key touches using ESP 32, as well as the completion of the first version of the project."
+        },
+        "youtube_downloader": {
+            "link": "https://github.com/Rishi-k-s/youtube_downloader",
+            "summary": "The youtube_downloader repository has seen recent activity with push events and pull requests focused on adding new features, including a pull request titled 'neaw stuff added' that was subsequently merged, indicating ongoing development and updates to the project."
+        },
+        "rpicam-apps": {
+            "link": "https://github.com/Rishi-k-s/rpicam-apps",
+            "summary": "Recent activities in rpicam-apps include push events that addressed changes in .hef file names for yolov6 and yolox, reflecting adaptations for the latest Hailo Boards, which underscores the repository's focus on maintaining compatibility with evolving hardware and software ecosystems."
+        },
+        "raspberrypi/rpicam-apps": {
+            "link": "https://github.com/raspberrypi/rpicam-apps",
+            "summary": "The raspberrypi/rpicam-apps repository has seen a significant pull request addressing the renaming of .hef files for yolov6 and yolox in the latest Hailo Boards, which aims to resolve compatibility issues and ensure seamless execution of examples from the Raspberry PI AI Kit, highlighting the community's collaborative effort in troubleshooting and updating the project."
+        }
+    },
+    "profile_summary": "Rishi Krishna is a highly skilled and innovative developer with a strong foundation in programming languages such as C++, Rust, and Python. With a growing network of 20 followers, his professional influence is expanding rapidly, reflecting his expertise and commitment to delivering high-quality solutions. As a student, Rishi Krishna has already demonstrated a remarkable ability to learn and adapt, staying up-to-date with the latest developments in the field and applying his knowledge to real-world problems. His technical skills and dedication to coding have earned him a reputation as a reliable and talented developer.\n\nRishi Krishna's impressive portfolio of 58 public repositories showcases his active involvement in development projects and his passion for coding. His expertise in languages like C++, Rust, and Python enables him to develop efficient and scalable solutions, making him a valuable asset to any project. With a strong online presence and a growing professional network, Rishi Krishna is well-positioned to collaborate with other developers and contribute to innovative projects. His unique blend of technical skills, creativity, and enthusiasm makes him an exciting talent to watch in the world of software development, and his future prospects look bright as he continues to grow and develop as a professional."
+}

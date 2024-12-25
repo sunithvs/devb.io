@@ -1,0 +1,138 @@
+{
+    "username": "harshedabdulla",
+    "name": "Harshed Abdulla",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/30034816?u=a45d4e17caa1659f9c935972102a0c8e4dbccc61&v=4",
+    "profile_url": "https://github.com/harshedabdulla",
+    "top_languages": [
+        [
+            "JavaScript",
+            23
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "feel.io",
+            "description": "Surprise",
+            "score": 2.591767777162655,
+            "stars": 1,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/harshedabdulla/feel.io",
+            "updatedAt": "2023-12-23T18:53:50Z"
+        },
+        {
+            "name": "code-red",
+            "description": "Bot providing immediate alerts based on geographical positioning.",
+            "score": 1.897247026019706,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/harshedabdulla/code-red",
+            "updatedAt": "2024-01-14T12:55:22Z"
+        },
+        {
+            "name": "bloggy",
+            "description": "bloggy_ is a decentralized blogging application built on the Internet Computer (ICP) platform",
+            "score": 1.6707624296908214,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harshedabdulla/bloggy",
+            "updatedAt": "2024-12-17T15:03:05Z"
+        },
+        {
+            "name": "xrc",
+            "description": null,
+            "score": 1.5341889463284846,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harshedabdulla/xrc",
+            "updatedAt": "2023-01-31T09:35:37Z"
+        },
+        {
+            "name": "Team-Horcrux-FarmX",
+            "description": null,
+            "score": 1.5318536370176112,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/harshedabdulla/Team-Horcrux-FarmX",
+            "updatedAt": "2023-01-31T09:35:48Z"
+        },
+        {
+            "name": "starlet_hackathon",
+            "description": null,
+            "score": 1.3253113861323635,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/harshedabdulla/starlet_hackathon",
+            "updatedAt": "2024-07-16T15:26:18Z"
+        },
+        {
+            "name": "breve.io",
+            "description": null,
+            "score": 1.3157746431246682,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/harshedabdulla/breve.io",
+            "updatedAt": "2024-05-12T17:10:23Z"
+        },
+        {
+            "name": "dhishnaw",
+            "description": null,
+            "score": 1.2033475963546845,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/harshedabdulla/dhishnaw",
+            "updatedAt": "2023-10-10T02:22:04Z"
+        }
+    ],
+    "followers": 30,
+    "following": 3,
+    "public_repos": 73,
+    "pull_requests_merged": 23,
+    "issues_closed": 13,
+    "achievements": {
+        "total_contributions": 482,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/harshed-abdulla/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/harshedabdulla"
+        }
+    ],
+    "activity_summary": {
+        "ReVuz/Byte404": {
+            "link": "https://github.com/ReVuz/Byte404",
+            "summary": "Recent activities on ReVuz/Byte404 involved a series of push events, including changes to the repository's codebase, integration of Auth0, and updates to the API configuration. These changes suggest ongoing development and refinement of the project, with a focus on authentication and backend setup. The high frequency of push events within a short timeframe indicates a period of intense development activity."
+        },
+        "antonnprince/FortiFi": {
+            "link": "https://github.com/antonnprince/FortiFi",
+            "summary": "The antonnprince/FortiFi repository witnessed a surge in activity with multiple push events, highlighting progress in the project. Updates included setting up the backend, configuring IPFS, and making the frontend ready. These developments indicate that the project is advancing towards its goals, with recent activities focused on building out the core functionality."
+        },
+        "harshedabdulla/master-inventory": {
+            "link": "https://github.com/harshedabdulla/master-inventory",
+            "summary": "The harshedabdulla/master-inventory repository had a notable update with a push event aimed at fixing validation issues. This targeted improvement suggests that the project is in a maintenance or refinement phase, where ensuring the stability and accuracy of the inventory system is a priority."
+        }
+    },
+    "profile_summary": "Harshed Abdulla is a highly skilled and accomplished developer with a strong proficiency in JavaScript, TypeScript, and Python. With a solid foundation in these programming languages, he has established himself as a reliable and innovative professional in the development community. His technical expertise is complemented by a growing network of peers, with 30 followers who recognize his value and expertise. Through his active involvement in development projects, Harshed has demonstrated his ability to deliver high-quality solutions, further solidifying his reputation as a trusted and skilled developer.\n\nAs a seasoned developer with 73 public repositories to his credit, Harshed Abdulla brings a unique combination of technical skills, creativity, and attention to detail to every project he undertakes. His strong work ethic and commitment to excellence have earned him a reputation as a high-performing developer who consistently delivers results. With his expertise in JavaScript, TypeScript, and Python, Harshed is well-equipped to tackle complex development challenges and provide innovative solutions that meet the needs of his clients. His professional achievements and technical prowess make him an asset to any development team, and his growing influence in the development community is a testament to his dedication and passion for his craft."
+}

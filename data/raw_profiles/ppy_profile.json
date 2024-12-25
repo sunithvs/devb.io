@@ -3,19 +3,19 @@
     "activity_summary": {
         "ppy/osu-tools": {
             "link": "https://github.com/ppy/osu-tools",
-            "summary": "Recent activities include the addition of an option to populate score parameters on SimulateScreen using score ID, merged in pull request #241, and the submission of a pull request with the same functionality, showcasing ongoing efforts to enhance simulation capabilities."
-        },
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "The repository has seen the implementation of a feature to mark beatmaps as played, merged in pull request #31138, demonstrating continuous improvement of the platform's functionality."
-        },
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "A pull request has been submitted to enhance observability by integrating Sentry and Datadog, and adding extended logging, aiming to improve the monitoring and analysis capabilities of the beatmap submission process."
+            "summary": "Recent activities include the addition of an option to populate score parameters on `SimulateScreen` using score ID, with the relevant pull request being merged, showcasing ongoing efforts to enhance the tool's functionality and user experience."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "A pull request has been submitted to include user tags in beatmapset search, requiring the construction of a new beatmap search index to support the addition of tags to the nested beatmap object, highlighting the ongoing development of search functionality."
+            "summary": "Recent activities involve a proposed enhancement to include user tags in Beatmapset search, necessitating the creation of a new beatmap search index to support the inclusion of tags within the nested beatmap object for targeted searching."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "A notable recent update is the implementation of the ability to mark beatmaps as played, following the successful merge of the corresponding pull request, which contributes to the game's usability and user interaction."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Ongoing activities focus on improving observability by integrating tools like Sentry and Datadog, along with the implementation of extended logging, aiming to enhance the submission process's transparency and performance monitoring capabilities."
         }
     },
     "profile_summary": null

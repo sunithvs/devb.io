@@ -3,19 +3,15 @@
     "activity_summary": {
         "ppy/helm-charts": {
             "link": "https://github.com/ppy/helm-charts",
-            "summary": "Recent activities include multiple updates to index.yaml, fixes to probe type comparison, and the addition of probes configuration, Octane pools, and re-structured octane and assets configurations. The repository also saw enhancements to storage RWX documentation, an upgrade to the osu-beatmap-difficulty-lookup-cache subchart, and an update to the osu-web chart. Additionally, there was an update to the container port."
+            "summary": "The repository has seen significant activity with multiple push events on December 24, 2024. The updates include various fixes and enhancements such as probe type comparison, adding probes configuration, enhancing storage RWX documentation, and upgrading osu-beatmap-difficulty-lookup-cache subchart. Additionally, there were updates to the index.yaml file and container port modifications."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The repository saw the addition of podium and badge images to the `Sparxe's Two Key Event` page, along with corresponding pull requests and self-checks against the contribution checklist. These changes were tested and merged, demonstrating active maintenance and community engagement within the repository."
+            "summary": "Recent activities in the repository involve adding podium and badge images to the `Sparxe's Two Key Event` page. There were multiple pull request events on December 24, 2024, with the most notable one being the merge of pull request #12593, which included the addition of images and a self-check against the contribution checklist."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The repository had a recent push event to enable seasonal features, indicating preparation for seasonal updates or events within the osu! ecosystem."
-        },
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "A pull request was submitted to add support for locking screen orientation on iOS, aiming to enhance the gaming experience by allowing orientation lockdown during gameplay, particularly useful for osu! on mobile devices."
+            "summary": "A push event occurred on December 24, 2024, enabling seasonal features, marking a notable update in the repository."
         }
     },
     "profile_summary": null

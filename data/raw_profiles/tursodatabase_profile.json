@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "tursodatabase/limbo": {
+        "limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include a push event with code formatting updates and a pull request introducing support for multiple readers and a single writer with a custom LimboRwLock, enabling concurrent access with a single writer and multiple readers while allowing for various checkpoint modes."
+            "summary": "Recent activities in the limbo repository indicate a push event occurred on December 24, 2024, which included a commit related to benchmarking, as evident from the 'bench' message."
         }
     },
     "profile_summary": null

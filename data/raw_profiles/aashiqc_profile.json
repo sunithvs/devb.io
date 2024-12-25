@@ -1,0 +1,132 @@
+{
+    "username": "aashiqc",
+    "name": "MUHAMMED ASHIQ",
+    "bio": "Software developer ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/124019926?u=6a0babf4d0fa87c3af36537c1076743952c14b71&v=4",
+    "profile_url": "https://github.com/aashiqc",
+    "top_languages": [
+        [
+            "TypeScript",
+            7
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "enrols",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aashiqc/enrols",
+            "updatedAt": "2024-12-24T08:11:04Z"
+        },
+        {
+            "name": "dfa",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/dfa",
+            "updatedAt": "2024-12-22T11:58:36Z"
+        },
+        {
+            "name": "sahityaApp",
+            "description": null,
+            "score": 0.25990042486762954,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/sahityaApp",
+            "updatedAt": "2024-02-20T14:37:00Z"
+        },
+        {
+            "name": "enitiate_test",
+            "description": null,
+            "score": 0.1687975729266148,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/enitiate_test",
+            "updatedAt": "2023-12-17T17:18:41Z"
+        },
+        {
+            "name": "wanderlodge",
+            "description": "Room booking app",
+            "score": 0.16601788005403986,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/wanderlodge",
+            "updatedAt": "2023-11-08T14:21:30Z"
+        },
+        {
+            "name": "aashiqc",
+            "description": null,
+            "score": 0.16575264520284677,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aashiqc/aashiqc",
+            "updatedAt": "2023-11-04T18:12:05Z"
+        },
+        {
+            "name": "travelxcite",
+            "description": "Travel agency website",
+            "score": 0.16441368104886364,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/travelxcite",
+            "updatedAt": "2023-10-14T19:11:51Z"
+        },
+        {
+            "name": "PriceCraft",
+            "description": null,
+            "score": 0.16362682551476665,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aashiqc/PriceCraft",
+            "updatedAt": "2023-10-01T04:53:10Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 23,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ashiq.c_/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/muhammed-ashiq-07aa48186/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/imashiqc"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/mhmdashiqc/"
+        }
+    ],
+    "profile_summary": "MUHAMMED ASHIQ is a skilled software developer with a strong foundation in TypeScript, JavaScript, and CSS. With a portfolio of 23 public repositories, he has demonstrated his ability to design, develop, and deploy high-quality software solutions. His expertise in these technologies enables him to craft efficient, scalable, and user-friendly applications that meet the needs of modern businesses. As a dedicated professional, MUHAMMED ASHIQ is committed to staying up-to-date with the latest industry trends and best practices, ensuring that his skills remain relevant and effective.\n\nWith a focus on delivering innovative and reliable solutions, MUHAMMED ASHIQ has established himself as a capable and driven software developer. His proficiency in TypeScript, JavaScript, and CSS allows him to tackle complex projects with confidence, and his active presence on GitHub showcases his dedication to collaborative development and open-source contributions. As he continues to grow his professional network and expand his influence, MUHAMMED ASHIQ is poised to make a significant impact in the software development community, leveraging his technical expertise to drive success and push the boundaries of what is possible in the world of software engineering."
+}

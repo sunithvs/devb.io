@@ -1,0 +1,125 @@
+{
+    "username": "vivekkj123",
+    "name": "Vivek K J",
+    "bio": "A 21st century teen, who loves programming, Web development, Etc.",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58988126?u=6ed5e0f846e38d643270b6db9d8e409c8e0ec003&v=4",
+    "profile_url": "https://github.com/vivekkj123",
+    "top_languages": [
+        [
+            "C",
+            7
+        ],
+        [
+            "JavaScript",
+            25
+        ],
+        [
+            "TypeScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quiz-app-react-native",
+            "description": "A customisable quiz app made in React Native",
+            "score": 12.631348642190245,
+            "stars": 48,
+            "forks": 21,
+            "language": "JavaScript",
+            "url": "https://github.com/vivekkj123/quiz-app-react-native",
+            "updatedAt": "2024-10-04T15:39:55Z"
+        },
+        {
+            "name": "amazon-clone-frontend",
+            "description": "Front end for my Amazon clone",
+            "score": 7.690924059994336,
+            "stars": 10,
+            "forks": 5,
+            "language": "JavaScript",
+            "url": "https://github.com/vivekkj123/amazon-clone-frontend",
+            "updatedAt": "2024-12-20T03:12:00Z"
+        },
+        {
+            "name": "ktu-s3-csl-201-ds-lab",
+            "description": "KTU S3 Data Structures lab (CSL 201) Programs (2019 - Scheme).",
+            "score": 7.544332649108808,
+            "stars": 16,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/vivekkj123/ktu-s3-csl-201-ds-lab",
+            "updatedAt": "2024-12-08T06:10:44Z"
+        },
+        {
+            "name": "ktu-s5-csl-331-ssmp-lab",
+            "description": "KTU S5 System Software and MicroProcessors Lab (CSL 331) Programs (2019 - Scheme)",
+            "score": 5.789679791763074,
+            "stars": 6,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/vivekkj123/ktu-s5-csl-331-ssmp-lab",
+            "updatedAt": "2024-11-09T08:42:27Z"
+        },
+        {
+            "name": "mobilEASE",
+            "description": "A Web-Based Traffic Complaint System that can be used by citizens for reporting various traffic and civic issues.",
+            "score": 5.534440065736034,
+            "stars": 4,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/vivekkj123/mobilEASE",
+            "updatedAt": "2024-09-12T08:06:47Z"
+        },
+        {
+            "name": "amazon-clone-backend",
+            "description": "Backend for my amazon clone",
+            "score": 5.05950377004164,
+            "stars": 3,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/vivekkj123/amazon-clone-backend",
+            "updatedAt": "2024-12-20T03:11:15Z"
+        },
+        {
+            "name": "ktu-s3-csl-203-oop-lab",
+            "description": "KTU S3 OOP Using Java Lab (CSL 203) Programs (2019 - Scheme). ",
+            "score": 4.647784341995671,
+            "stars": 3,
+            "forks": 2,
+            "language": "Java",
+            "url": "https://github.com/vivekkj123/ktu-s3-csl-203-oop-lab",
+            "updatedAt": "2024-11-02T13:50:33Z"
+        },
+        {
+            "name": "morse-flasher",
+            "description": "Let your Flashlight say your message...",
+            "score": 4.330560402383712,
+            "stars": 4,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/vivekkj123/morse-flasher",
+            "updatedAt": "2022-06-01T04:06:16Z"
+        }
+    ],
+    "followers": 109,
+    "following": 93,
+    "public_repos": 80,
+    "pull_requests_merged": 2,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 421,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/IamVivekKJ"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/iamvivekkj/"
+        }
+    ],
+    "activity_summary": {},
+    "profile_summary": "Vivek K J is a skilled and innovative software developer with a strong foundation in programming languages such as C, JavaScript, and TypeScript. With a passion for web development, he has established himself as a reliable and proficient coder, capable of delivering high-quality solutions. His extensive experience in developing and managing public repositories, currently totaling 80, showcases his dedication to active development and commitment to open-source collaboration. As a young and ambitious developer, Vivek has already built a professional network of 109 followers, demonstrating his growing influence in the programming community.\n\nAs a 21st-century developer, Vivek is well-versed in the latest technologies and trends, with a strong focus on web development and related fields. His bio reflects his enthusiasm for programming and his eagerness to explore new areas of interest. With a solid technical skill set and a proven track record of development, Vivek is poised to make significant contributions to the world of software development. His unique blend of technical expertise, creativity, and passion for innovation makes him an asset to any project or team, and his online presence is a testament to his dedication to his craft, making him a notable figure in the programming community."
+}

@@ -7,8 +7,10 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="devb.io - Automated Developer Portfolios Powered by GitHub & AI">
-    <meta name="description" content="Transform your GitHub profile into a polished portfolio instantly. AI-powered bios, automatic updates, and real-time activity tracking. Build your professional brand effortlessly">
-    <meta name="keywords" content="developer portfolio, GitHub portfolio, AI portfolio generator, automatic portfolio, developer showcase, coding portfolio, GitHub integration, professional developer profile">
+    <meta name="description"
+        content="Transform your GitHub profile into a polished portfolio instantly. AI-powered bios, automatic updates, and real-time activity tracking. Build your professional brand effortlessly">
+    <meta name="keywords"
+        content="developer portfolio, GitHub portfolio, AI portfolio generator, automatic portfolio, developer showcase, coding portfolio, GitHub integration, professional developer profile">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -23,7 +25,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="meta/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="meta/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="meta/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="meta/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="meta/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="meta/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="meta/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="meta/favicon-16x16.png">
@@ -36,8 +38,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-            href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap"
-            rel="stylesheet">
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap"
+        rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @tailwind base;
@@ -47,7 +49,6 @@
         * {
             font-family: 'Space Grotesk', sans-serif;
         }
-
     </style>
 
     <style>
@@ -56,7 +57,7 @@
             background: linear-gradient(to right, #191A23, #292A32);
         }
 
-       #wave-animation svg {
+        #wave-animation svg {
             width: 100%;
             height: 100%;
         }
@@ -109,14 +110,32 @@
         }
 
         @keyframes pulse {
-            0%, 100% {
+
+            0%,
+            100% {
                 opacity: 0.1;
                 transform: scale(1);
             }
+
             50% {
                 opacity: 0.2;
                 transform: scale(1.05);
             }
+        }
+    </style>
+    <style>
+        @keyframes spin-slow {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .animate-spin-slow {
+            animation: spin-slow 10s linear infinite;
         }
     </style>
     <link rel="stylesheet" href="style/index.css">
@@ -134,8 +153,8 @@
     </script>
     <script type="module">
         // Import the functions you need from the SDKs you need
-        import {initializeApp} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
-        import {getAnalytics} from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
 
         // Your web app's Firebase configuration
         // For Firebase JS SDK v7.20.0 and later, measurementId is optional
@@ -157,501 +176,462 @@
 </head>
 
 <body class="bg-white">
-<!-- Navbar -->
-<nav class="fixed w-full bg-white/80 backdrop-blur-sm z-50 py-4">
-    <div class="container mx-auto px-4 flex items-center justify-between">
-        <div class="flex gap-3">
-        <img width="100" src="images/logo-full.png" alt="devb.io">
-        </div>
-        <div class="hidden lg:flex items-center md:gap-14">
-            <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
-            <a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a>
-            <a href="#services" class="hover:text-lime-500 transition-colors">Services</a>
-            <a href="#people" class="hover:text-lime-500 transition-colors">People</a>
-            <!--            <a href="#" class="hover:text-lime-500 transition-colors">Contribute</a>-->
-
-        </div>
-        <a href="https://github.com/sunithvs/devb.io">
-            <button
-                    class="px-2 min-w-5 lg:px-6 py-1 md:py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex">
-                <svg class="w-6 h-6 mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-                          clip-rule="evenodd"></path>
-                </svg>
-                Star Repo
-            </button>
-        </a>
-
-    </div>
-</nav>
-
-<!-- Hero Section -->
-<main class="min-h-screen px-10 pt-20 md:px-24 md:pt-32 pb-0">
-    <section class="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">
-        <!-- Left Content -->
-        <div class="flex-1 space-y-6">
-            <h1 class="text-5xl md:text-6xl  leading-tight">
-                Effortless
-                <br>
-                Portfolios for
-                <br>
-                <span class="inline-block bg-[#B9FF66] px-4 py-2 my-5 rounded-lg">Developers</span>
-            </h1>
-            <p class="text-xl text-gray-600 ">
-                Your GitHub profile tells a story.
-                <br>
-                Let us help you narrate it
-            </p>
-            <div class="h-5">
+    <!-- Navbar -->
+    <nav class="fixed w-full bg-white/80 backdrop-blur-sm z-50 py-4">
+        <div class="container mx-auto px-4 flex items-center justify-between">
+            <div class="flex gap-3">
+                <img width="100" src="images/logo-full.png" alt="devb.io">
+            </div>
+            <div class="hidden lg:flex items-center md:gap-14">
+                <a href="#" class="hover:text-lime-500 transition-colors">Home</a>
+                <a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a>
+                <a href="#services" class="hover:text-lime-500 transition-colors">Services</a>
+                <a href="#people" class="hover:text-lime-500 transition-colors">People</a>
+                <!--            <a href="#" class="hover:text-lime-500 transition-colors">Contribute</a>-->
 
             </div>
-            <a href="connect">
-                <button class="p-4 md:px-12 py-5 bg-[#191A23] text-xl text-white rounded-lg  transition-colors hover:bg-[#B9FF66] hover:text-black">
-                    Generate Your Portfolio
+            <a href="https://github.com/sunithvs/devb.io">
+                <button
+                    class="px-2 min-w-5 lg:px-6 py-1 md:py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex">
+                    <svg class="w-6 h-6 mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path fill-rule="evenodd"
+                            d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                            clip-rule="evenodd"></path>
+                    </svg>
+                    Star Repo
                 </button>
             </a>
-             <div class="mt-2">
-            <a href="https://www.producthunt.com/posts/devb-io?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-devb&#0045;io" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=714905&theme=neutral" alt="devb&#0046;io - Effortless&#0032;Portfolios&#0032;for&#0032;Developers | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-       </div>
-        </div>
-
-        <!-- Right Illustration -->
-        <div class="flex-1 relative">
-            <div class="relative">
-                <img src="images/hero.png" alt="Illustration" class="w-full rounded-2xl">
-
-            </div>
-        </div>
-    </section>
-    <!-- Services Section -->
-    <section id="why" class="py-10 md:pt-10 mt-10">
-        <div class="container md:mx-auto md:px-4">
-
-            <!-- Services Grid -->
-            <div class="flex ">
-                <!-- Portfolio Generation -->
-                <div class=" flex flex-col md:flex-row items-center gap-12">
-
-                    <div class="flex-1 space-y-6 order-first md:order-last">
-                        <h1 class="text-2xl md:text-4xl  leading-tight">
-                            Stop Portfolio Panic: <br>
-                            Build Yours in a Snap
-                        </h1>
-                        <p class="text-xl text-gray-600">
-                            Staring down a blank screen, dreading the hours it'll take to build a portfolio? Not
-                            anymore!
-                            devb.io is your coding BFF, turning your messy GitHub profile into a sleek, professional
-                            bio
-                            easily, not marathons.
-                        </p>
-                    </div>
-                    <!-- Right Illustration -->
-                    <div class="flex-1 relative md:order-first">
-                        <div class="relative xl:p-20">
-                            <img src="images/graph.png" alt="Illustration" class="w-full rounded-2xl">
-
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="wave-animation" class="pt-12 md:pt-10 pt-10 lg:mt-20 flex justify-center	items-center	">
-        <div class="container">
-            <div class="wave-container rounded-[10px] md:rounded-[30px] flex items-center flex-col">
-                <div class="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl mt-3">
-                    <div class="w-full text-center">
-                        Scattered Commits, Unstructured Chaos
-
-                    </div>
-                    <div class="w-full text-center">
-                        Curated Contributions, Professional Portfolio
-
-                    </div>
-                </div>
-                <div class="w-full">
-                    <svg viewBox="0 0 1000 200">
-                        <!-- Noisy Wave Group -->
-                        <g class="noisy-wave">
-                            <path class="wave-primary" stroke-width="2"></path>
-                            <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"></path>
-                            <path class="wave-detail" stroke-width="1" transform="translate(0, -5)"></path>
-                        </g>
-
-                        <!-- GitHub Logo -->
-                        <g transform="translate(470, 65)">
-                            <circle class="logo-glow-outer" cx="30" cy="30" r="40"></circle>
-                            <circle class="logo-glow-inner" cx="30" cy="30" r="25"></circle>
-                            <svg width="63" height="62" viewBox="0 0 63 62" fill="none" xmlns="http://www.w3.org/2000/svg" transform="translate(10, 5) scale(0.6)">
-                                <rect width="62.2222" height="62" rx="31" fill="#B9FF66"/>
-                                <path d="M18.2555 43.4822C16.8548 43.4822 15.5574 43.1378 14.3633 42.4489C13.1692 41.76 12.2048 40.7726 11.47 39.4867C10.7581 38.1778 10.4022 36.6048 10.4022 34.7678V34.2511C10.4022 32.437 10.7581 30.8756 11.47 29.5667C12.1818 28.2578 13.1348 27.2589 14.3289 26.57C15.5229 25.8811 16.8318 25.5367 18.2555 25.5367C19.3578 25.5367 20.2763 25.6744 21.0111 25.95C21.7689 26.2256 22.3889 26.5815 22.8711 27.0178C23.3533 27.4311 23.7207 27.8674 23.9733 28.3267H24.5244V18.8889H28.0722V43H24.5933V40.5889H24.0422C23.6059 41.3237 22.94 41.9896 22.0444 42.5867C21.1718 43.1837 19.9089 43.4822 18.2555 43.4822ZM19.2544 40.3822C20.7929 40.3822 22.0559 39.8885 23.0433 38.9011C24.0537 37.9137 24.5589 36.5015 24.5589 34.6644V34.3544C24.5589 32.5404 24.0652 31.1396 23.0778 30.1522C22.0903 29.1648 20.8159 28.6711 19.2544 28.6711C17.7389 28.6711 16.4759 29.1648 15.4655 30.1522C14.4781 31.1396 13.9844 32.5404 13.9844 34.3544V34.6644C13.9844 36.5015 14.4781 37.9137 15.4655 38.9011C16.4759 39.8885 17.7389 40.3822 19.2544 40.3822ZM43.1115 43.4822C41.4582 43.4822 40.1837 43.1837 39.2882 42.5867C38.4156 41.9896 37.7611 41.3237 37.3248 40.5889H36.7737V43H33.2948V18.8889H36.8426V28.3267H37.3937C37.6693 27.8674 38.0367 27.4311 38.4959 27.0178C38.9552 26.5815 39.5637 26.2256 40.3215 25.95C41.0793 25.6744 42.0093 25.5367 43.1115 25.5367C44.5352 25.5367 45.8441 25.8811 47.0382 26.57C48.2322 27.2589 49.1852 28.2578 49.8971 29.5667C50.6089 30.8756 50.9648 32.437 50.9648 34.2511V34.7678C50.9648 36.6048 50.5974 38.1778 49.8626 39.4867C49.1508 40.7726 48.1978 41.76 47.0037 42.4489C45.8326 43.1378 44.5352 43.4822 43.1115 43.4822ZM42.0782 40.3822C43.6167 40.3822 44.8796 39.8885 45.8671 38.9011C46.8774 37.9137 47.3826 36.5015 47.3826 34.6644V34.3544C47.3826 32.5404 46.8889 31.1396 45.9015 30.1522C44.9141 29.1648 43.6396 28.6711 42.0782 28.6711C40.5626 28.6711 39.2996 29.1648 38.2893 30.1522C37.3019 31.1396 36.8082 32.5404 36.8082 34.3544V34.6644C36.8082 36.5015 37.3019 37.9137 38.2893 38.9011C39.2996 39.8885 40.5626 40.3822 42.0782 40.3822Z" fill="black"/>
-                            </svg>
-                        </g>
-
-                        <!-- Clean Wave Group -->
-                        <g class="clean-wave">
-                            <path class="wave-main" stroke-width="3"></path>
-                            <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"
-                                  stroke-dasharray="4 2"></path>
-                        </g>
-                    </svg>
-                </div>
-
-            </div>
 
         </div>
+    </nav>
 
-    </section>
-    <section id="how-to" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row">
-                <div class="flex items-center">
-                    <span class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5">How It Works</span>
+    <!-- Hero Section -->
+    <main class="min-h-screen px-10 pt-20 md:px-24 md:pt-32 pb-0">
+        <section class="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">
+            <!-- Left Content -->
+            <div class="flex-1 space-y-6">
+                <h1 class="text-5xl md:text-6xl  leading-tight">
+                    Effortless
+                    <br>
+                    Portfolios for
+                    <br>
+                    <span class="inline-block bg-[#B9FF66] px-4 py-2 my-5 rounded-lg">Developers</span>
+                </h1>
+                <p class="text-xl text-gray-600 ">
+                    Your GitHub profile tells a story.
+                    <br>
+                    Let us help you narrate it
+                </p>
+                <div class="h-5">
+
                 </div>
-                <div>
-                    <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>Your Dev Profile</h2>
+                    <button
+                        class="p-4 githubModalButton  md:px-12 py-5 bg-[#191A23] text-xl text-white rounded-lg  transition-colors hover:bg-[#B9FF66] hover:text-black">
+                        Generate Your Portfolio
+                    </button>
+                <div class="mt-2">
+                    <a href="https://www.producthunt.com/posts/devb-io?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-devb&#0045;io"
+                        target="_blank"><img
+                            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=714905&theme=neutral"
+                            alt="devb&#0046;io - Effortless&#0032;Portfolios&#0032;for&#0032;Developers | Product Hunt"
+                            style="width: 250px; height: 54px;" width="250" height="54" /></a>
                 </div>
             </div>
 
-            <div class="grid grid-cols-1 gap-8">
-                <!-- Step 1: Connect GitHub -->
-                <div class="bg-[#B9FF66] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class="text-3xl md:text-5xl mr-3">01</div>
-                                <div>Generate Profile</div>
+            <!-- Right Illustration -->
+            <div class="flex-1 relative">
+                <div class="relative">
+                    <img src="images/hero.png" alt="Illustration" class="w-full rounded-2xl">
+
+                </div>
+            </div>
+        </section>
+
+        <section id="2024-wrapped" class="py-10 md:pt-20 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="grid grid-cols-1 gap-8">
+                    <div class=" p-2 md:p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                        <div class="flex flex-col h-full">
+                            <div class="mb-4 flex flex-col md:flex-row items-center">
+                                <div class="flex flex-col md:flex-row items-start md:items-center ">
+                                    <div class="flex items-center mb-4">
+                                        <div class="relative">
+                                            <svg class="w-28 h-28 animate-spin-slow" viewBox="0 0 100 100">
+                                                <path id="curve"
+                                                    d="M 50,50 m -37,0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0"
+                                                    fill="none" />
+                                                <text>
+                                                    <textPath href="#curve" class="text-[15px]">
+                                                        wrapped <tspan fill="#70CF00">2024</tspan> | wrapped <tspan
+                                                            fill="#70CF00">2024</tspan> |
+                                                    </textPath>
+                                                </text>
+                                            </svg>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="flex md:ml-8 flex-col md:flex-row items-center">
+                                    <div class="md:w-4/5 text-center md:text-left">
+                                        <span
+                                            class="bg-[#B9FF66] md:px-4 py-2  mb-4 rounded-lg text-2xl font-medium">2024
+                                            Wrapped</span>
+                                        <div class="flex flex-col gap-4 mt-6">
+                                            <p class=" text-md md:text-lg">Imagine your entire year of coding captured
+                                                in one
+                                                beautiful
+                                                poster. Share your coding journey with the world!</p>
+                                            <p class="font-medium">No sign-in required</p>
+                                        </div>
+
+                                    </div>
+                                    <div class="flex items-end md:ml-2 mt-4 md:mt-0 ">
+                                        <button class="bg-black text-white px-6 py-3 rounded-lg githubModalButton ">Generate Now
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>Click the "Generate Profile" button to start your portfolio creation.</li>
-                                <li>Ensure your GitHub profile is updated with your about section, projects, and
-                                    achievements.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Step 2: Instant Generation -->
-                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class="text-2xl md:text-5xl mr-3">02</div>
-                                <div>Instant Portfolio Generation</div>
-                            </div>
-                        </div>
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>Your personalized developer portfolio is generated instantly.</li>
-                                <li>No manual work required - we handle all the technical details.</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Step 3: Automatic Updates -->
-                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class="text-2xl md:text-5xl mr-3">03</div>
-                                <div>Automatic Weekly Updates</div>
-                            </div>
-                        </div>
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>Your portfolio updates automatically each week based on your GitHub activity.</li>
-                                <li>New projects, commits, and contributions are showcased seamlessly.</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Step 4: Star and Share -->
-                <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                    <div class="flex flex-col h-full">
-                        <div class="flex items-center flex-row">
-                            <div class="flex flex-row text-left items-center">
-                                <div class="text-2xl md:text-5xl mr-3">04</div>
-                                <div>Support and Share</div>
-                            </div>
-                        </div>
-                        <div class="border-t-2 border-black my-4"></div>
-                        <div>
-                            <ul class="list-disc list-inside">
-                                <li>Star our GitHub repository to show support and help us grow.</li>
-                                <li>Upvote us on Product Hunt to spread the word.</li>
-                                <li>Share your portfolio with potential employers, recruiters, and friends.</li>
-                                <li>Showcase your skills and increase your chances of landing your dream job!</li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+        <!-- Services Section -->
+        <section id="why" class="py-10 md:pt-10 mt-10">
+            <div class="container md:mx-auto md:px-4">
 
-    <section id="services" class="py-10 md:pt-20 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+                <!-- Services Grid -->
+                <div class="flex ">
+                    <!-- Portfolio Generation -->
+                    <div class=" flex flex-col md:flex-row items-center gap-12">
+
+                        <div class="flex-1 space-y-6 order-first md:order-last">
+                            <h1 class="text-2xl md:text-4xl  leading-tight">
+                                Stop Portfolio Panic: <br>
+                                Build Yours in a Snap
+                            </h1>
+                            <p class="text-xl text-gray-600">
+                                Staring down a blank screen, dreading the hours it'll take to build a portfolio? Not
+                                anymore!
+                                devb.io is your coding BFF, turning your messy GitHub profile into a sleek, professional
+                                bio
+                                easily, not marathons.
+                            </p>
+                        </div>
+                        <!-- Right Illustration -->
+                        <div class="flex-1 relative md:order-first">
+                            <div class="relative xl:p-20">
+                                <img src="images/graph.png" alt="Illustration" class="w-full rounded-2xl">
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="wave-animation" class="pt-12 md:pt-10 pt-10 lg:mt-20 flex justify-center	items-center	">
+            <div class="container">
+                <div class="wave-container rounded-[10px] md:rounded-[30px] flex items-center flex-col">
+                    <div class="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl mt-3">
+                        <div class="w-full text-center">
+                            Scattered Commits, Unstructured Chaos
+
+                        </div>
+                        <div class="w-full text-center">
+                            Curated Contributions, Professional Portfolio
+
+                        </div>
+                    </div>
+                    <div class="w-full">
+                        <svg viewBox="0 0 1000 200">
+                            <!-- Noisy Wave Group -->
+                            <g class="noisy-wave">
+                                <path class="wave-primary" stroke-width="2"></path>
+                                <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"></path>
+                                <path class="wave-detail" stroke-width="1" transform="translate(0, -5)"></path>
+                            </g>
+
+                            <!-- GitHub Logo -->
+                            <g transform="translate(470, 65)">
+                                <circle class="logo-glow-outer" cx="30" cy="30" r="40"></circle>
+                                <circle class="logo-glow-inner" cx="30" cy="30" r="25"></circle>
+                                <svg width="63" height="62" viewBox="0 0 63 62" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" transform="translate(10, 5) scale(0.6)">
+                                    <rect width="62.2222" height="62" rx="31" fill="#B9FF66" />
+                                    <path
+                                        d="M18.2555 43.4822C16.8548 43.4822 15.5574 43.1378 14.3633 42.4489C13.1692 41.76 12.2048 40.7726 11.47 39.4867C10.7581 38.1778 10.4022 36.6048 10.4022 34.7678V34.2511C10.4022 32.437 10.7581 30.8756 11.47 29.5667C12.1818 28.2578 13.1348 27.2589 14.3289 26.57C15.5229 25.8811 16.8318 25.5367 18.2555 25.5367C19.3578 25.5367 20.2763 25.6744 21.0111 25.95C21.7689 26.2256 22.3889 26.5815 22.8711 27.0178C23.3533 27.4311 23.7207 27.8674 23.9733 28.3267H24.5244V18.8889H28.0722V43H24.5933V40.5889H24.0422C23.6059 41.3237 22.94 41.9896 22.0444 42.5867C21.1718 43.1837 19.9089 43.4822 18.2555 43.4822ZM19.2544 40.3822C20.7929 40.3822 22.0559 39.8885 23.0433 38.9011C24.0537 37.9137 24.5589 36.5015 24.5589 34.6644V34.3544C24.5589 32.5404 24.0652 31.1396 23.0778 30.1522C22.0903 29.1648 20.8159 28.6711 19.2544 28.6711C17.7389 28.6711 16.4759 29.1648 15.4655 30.1522C14.4781 31.1396 13.9844 32.5404 13.9844 34.3544V34.6644C13.9844 36.5015 14.4781 37.9137 15.4655 38.9011C16.4759 39.8885 17.7389 40.3822 19.2544 40.3822ZM43.1115 43.4822C41.4582 43.4822 40.1837 43.1837 39.2882 42.5867C38.4156 41.9896 37.7611 41.3237 37.3248 40.5889H36.7737V43H33.2948V18.8889H36.8426V28.3267H37.3937C37.6693 27.8674 38.0367 27.4311 38.4959 27.0178C38.9552 26.5815 39.5637 26.2256 40.3215 25.95C41.0793 25.6744 42.0093 25.5367 43.1115 25.5367C44.5352 25.5367 45.8441 25.8811 47.0382 26.57C48.2322 27.2589 49.1852 28.2578 49.8971 29.5667C50.6089 30.8756 50.9648 32.437 50.9648 34.2511V34.7678C50.9648 36.6048 50.5974 38.1778 49.8626 39.4867C49.1508 40.7726 48.1978 41.76 47.0037 42.4489C45.8326 43.1378 44.5352 43.4822 43.1115 43.4822ZM42.0782 40.3822C43.6167 40.3822 44.8796 39.8885 45.8671 38.9011C46.8774 37.9137 47.3826 36.5015 47.3826 34.6644V34.3544C47.3826 32.5404 46.8889 31.1396 45.9015 30.1522C44.9141 29.1648 43.6396 28.6711 42.0782 28.6711C40.5626 28.6711 39.2996 29.1648 38.2893 30.1522C37.3019 31.1396 36.8082 32.5404 36.8082 34.3544V34.6644C36.8082 36.5015 37.3019 37.9137 38.2893 38.9011C39.2996 39.8885 40.5626 40.3822 42.0782 40.3822Z"
+                                        fill="black" />
+                                </svg>
+                            </g>
+
+                            <!-- Clean Wave Group -->
+                            <g class="clean-wave">
+                                <path class="wave-main" stroke-width="3"></path>
+                                <path class="wave-secondary" stroke-width="1.5" transform="translate(0, 5)"
+                                    stroke-dasharray="4 2"></path>
+                            </g>
+                        </svg>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+        <section id="how-to" class="py-10 md:pt-20 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row">
+                    <div class="flex items-center">
                         <span
-                                class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Services</span>
-                </div>
-                <div>
-                    <h2 class="mb-4 text-left">Bring Your Work to Life <br>
-                        devb.io turns your GitHub into a stunning portfolio effortlessly.</h2>
+                            class="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5">How
+                            It Works</span>
+                    </div>
+                    <div>
+                        <h2 class="mb-4 text-left">Step-by-Step Guide to Generate<br>Your Dev Profile</h2>
+                    </div>
                 </div>
 
+                <div class="grid grid-cols-1 gap-8">
+                    <!-- Step 1: Connect GitHub -->
+                    <div class="bg-[#B9FF66] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class="text-3xl md:text-5xl mr-3">01</div>
+                                    <div>Generate Profile</div>
+                                </div>
+                            </div>
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>Click the "Generate Profile" button to start your portfolio creation.</li>
+                                    <li>Ensure your GitHub profile is updated with your about section, projects, and
+                                        achievements.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 2: Instant Generation -->
+                    <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class="text-2xl md:text-5xl mr-3">02</div>
+                                    <div>Instant Portfolio Generation</div>
+                                </div>
+                            </div>
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>Your personalized developer portfolio is generated instantly.</li>
+                                    <li>No manual work required - we handle all the technical details.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 3: Automatic Updates -->
+                    <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class="text-2xl md:text-5xl mr-3">03</div>
+                                    <div>Automatic Weekly Updates</div>
+                                </div>
+                            </div>
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>Your portfolio updates automatically each week based on your GitHub activity.
+                                    </li>
+                                    <li>New projects, commits, and contributions are showcased seamlessly.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 4: Star and Share -->
+                    <div class="bg-[#F3F3F3] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
+                        <div class="flex flex-col h-full">
+                            <div class="flex items-center flex-row">
+                                <div class="flex flex-row text-left items-center">
+                                    <div class="text-2xl md:text-5xl mr-3">04</div>
+                                    <div>Support and Share</div>
+                                </div>
+                            </div>
+                            <div class="border-t-2 border-black my-4"></div>
+                            <div>
+                                <ul class="list-disc list-inside">
+                                    <li>Star our GitHub repository to show support and help us grow.</li>
+                                    <li>Upvote us on Product Hunt to spread the word.</li>
+                                    <li>Share your portfolio with potential employers, recruiters, and friends.</li>
+                                    <li>Showcase your skills and increase your chances of landing your dream job!</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            <!-- Services Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 ">
-                <!-- Portfolio Generation -->
+        </section>
 
 
-                <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
-                                    <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Portfolio
-                                    </span>
-                                <span
-                                        class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-[#B9FF66]">Generation
-                                    </span>
-
-                            </div>
-                        </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
-                    </div>
-                </div>
-
-                <div
-                        class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
-                                    <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">Auto
-                                    </span>
-                                <span
-                                        class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-white">Update
-
-                                    </span>
-
-                            </div>
-                        </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
-                    </div>
-                </div>
-
-                <div
-                        class="bg-[#B9FF66] p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
-                                    <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-white">GitHub
-                                    </span>
-                                <span
-                                        class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-white">Profile
-                                        Summary
-
-                                    </span>
-
-                            </div>
-                        </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-[30px] border-2  border-b-[6px] md:border-b-[8px] border-black ">
-                    <div class="flex flex-row h-full">
-                        <div class="flex  justify-center items-center flex-col">
-                            <div class="flex flex-col">
-                                    <span
-                                            class="inline-block px-4 py-1 rounded-lg text-xl md:text-3xl font-medium w-fit bg-[#B9FF66]">Digital
-                                    </span>
-                                <span
-                                        class="inline-block px-4 py-1 rounded-lg text-xl  md:text-3xl font-medium w-fit bg-[#B9FF66]">Presence
-                                    </span>
-
-                            </div>
-                        </div>
-                        <div class="flex-grow flex items-center justify-center p-2">
-                            <img src="images/keyboard.png" alt="Portfolio Generation">
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section id="contributors" class="py-10 md:pt-10 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+        <section id="contributors" class="py-10 md:pt-10 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
                         <span
-                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Contributors</span>
-                </div>
-                <div>
+                            class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Contributors</span>
+                    </div>
+                    <div>
+
+                    </div>
 
                 </div>
 
+                <!-- Services Grid -->
+                <div id="contributors-users-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
+                    <!-- Portfolio Generation -->
+
+
+                </div>
             </div>
-
-            <!-- Services Grid -->
-            <div id="contributors-users-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
-                <!-- Portfolio Generation -->
-
-
-            </div>
-        </div>
-    </section>
-    <section id="people" class="py-10 md:pt-10 mt-10">
-        <div class="container md:mx-auto md:px-4">
-            <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
-                <div class="flex items-center ">
+        </section>
+        <section id="people" class="py-10 md:pt-10 mt-10">
+            <div class="container md:mx-auto md:px-4">
+                <div class="mb-4 md:mb-16 flex flex-col md:flex-row ">
+                    <div class="flex items-center ">
                         <span
-                                class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Recent profiles</span>
-                </div>
-                <div>
+                            class="bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5 ">Recent
+                            profiles</span>
+                    </div>
+                    <div>
+
+                    </div>
 
                 </div>
 
-            </div>
-
-            <!-- Services Grid -->
-            <div id="users-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
-                <!-- Portfolio Generation -->
+                <!-- Services Grid -->
+                <div id="users-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
+                    <!-- Portfolio Generation -->
 
 
-            </div>
-        </div>
-    </section>
-
-    <footer class="bg-[#191A23] text-white rounded-t-3xl p-5 md:p-10 mt-24">
-        <div class="container mx-auto p-8">
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div>
-                     <div class="flex gap-3">
-        <img width="120" src="images/logo-white.png" alt="devb.io">
-        </div>
-                    <p class="text-gray-400 mt-4">Effortless Portfolios for Developers</p>
-<!--                    <a href="mai" class="text-gray-400 mt-4">contact@devb.io</a>-->
-                    <a href="mailto:contact@devb.io" class="text-gray-400 mt-4"> contact@devb.io</a>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold">Quick Links</h2>
-                    <ul class="mt-4">
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Features</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">How It Works</a></li>
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Contribute</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2 class="text-xl font-bold">Follow us</h2>
-                    <ul class="mt-4">
-                        <li><a href="https://x.com/devb_io" target="_blank" class="hover:text-lime-500 transition-colors">X</a>
-                        <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
-                            class="hover:text-lime-500 transition-colors">Github</a></li>
-                        <li><a href="https://www.instagram.com/devb.io" target="_blank" class="hover:text-lime-500 transition-colors">Instagram</a>
-                        <li><a href="https://www.linkedin.com/company/devb-io" target="_blank" class="hover:text-lime-500 transition-colors">Linkedin</a>
-                        </li>
-
-
-                    </ul>
                 </div>
             </div>
-        </div>
-    </footer>
+        </section>
 
-</main>
-<div id="githubModal" class="fixed  inset-0 bg-black bg-opacity-50 z-[100] hidden items-center justify-center">
-    <div class="bg-white rounded-xl p-8 w-96 relative mx-3">
-        <button id="closeModal" class="absolute top-4 right-4 text-gray-600 hover:text-black">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                 stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-            </svg>
-        </button>
+        <footer class="bg-[#191A23] text-white rounded-t-3xl p-5 md:p-10 mt-24">
+            <div class="container mx-auto p-8">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div>
+                        <div class="flex gap-3">
+                            <img width="120" src="images/logo-white.png" alt="devb.io">
+                        </div>
+                        <p class="text-gray-400 mt-4">Effortless Portfolios for Developers</p>
+                        <!--                    <a href="mai" class="text-gray-400 mt-4">contact@devb.io</a>-->
+                        <a href="mailto:contact@devb.io" class="text-gray-400 mt-4"> contact@devb.io</a>
+                    </div>
+                    <div>
+                        <h2 class="text-xl font-bold">Quick Links</h2>
+                        <ul class="mt-4">
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Features</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">How It Works</a></li>
+                            <li><a href="#" class="hover:text-lime-500 transition-colors">Contribute</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2 class="text-xl font-bold">Follow us</h2>
+                        <ul class="mt-4">
+                            <li><a href="https://x.com/devb_io" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">X</a>
+                            <li><a href="https://github.com/sunithvs/devb.io" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">Github</a></li>
+                            <li><a href="https://www.instagram.com/devb.io" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">Instagram</a>
+                            <li><a href="https://www.linkedin.com/company/devb-io" target="_blank"
+                                    class="hover:text-lime-500 transition-colors">Linkedin</a>
+                            </li>
 
-        <div class="text-center mb-6">
-            <div class="flex justify-center items-center mb-4">
-                <svg class="mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true" width="36" height="36">
-                    <path fill-rule="evenodd"
-                          d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-                          clip-rule="evenodd"></path>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </main>
+    <div id="githubModal" class="fixed  inset-0 bg-black bg-opacity-50 z-[100] hidden items-center justify-center">
+        <div class="bg-white rounded-xl p-8 w-96 relative mx-3">
+            <button id="closeModal" class="absolute top-4 right-4 text-gray-600 hover:text-black">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                 </svg>
-                <span class="ml-2 text-xl font-bold">GitHub Username</span>
-            </div>
-
-            <input
-                    type="text"
-                    id="githubUsernameInput"
-                    placeholder="Enter GitHub username"
-                    class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 mb-4"
-            >
-
-            <div id="validationMessage" class="h-5 mb-4 text-sm"></div>
-
-            <div class="h-36 flex flex-col items-center justify-center">
-                <div id="profilePreview" class="hidden">
-                    <div class="flex items-center justify-center">
-                        <img id="profileImage" src="" alt="Profile" class="w-24 h-24 rounded-full object-cover mb-2">
-                    </div>
-                    <p id="profileName" class="text-lg font-semibold mb-2"></p>
-                </div>
-            </div>
-
-            <button
-                    id="validateUsername"
-                    class="w-full bg-gray-300 text-gray-500 py-2 rounded-lg cursor-not-allowed flex items-center justify-center"
-                    disabled
-            >
-<svg  id="logo-toggle" width="15" class="mr-2"  viewBox="0 0 89 91" fill="#6B7280" xmlns="http://www.w3.org/2000/svg" >
-<path d="M0 16C0 8.45753 0 4.68629 2.34315 2.34315C4.68629 0 8.45753 0 16 0H41V91H16C8.45753 91 4.68629 91 2.34315 88.6569C0 86.3137 0 82.5425 0 75V16Z" />
-<path d="M83 22C83 10.1259 73.3741 0.5 61.5 0.5H47V43.5H61.5C73.3741 43.5 83 33.8741 83 22V22Z" />
-<path d="M89 69C89 60.0962 89 55.6443 86.7542 52.5103C85.99 51.4439 85.0561 50.51 83.9897 49.7458C80.8557 47.5 76.4038 47.5 67.5 47.5H47V90.5H67.5C76.4038 90.5 80.8557 90.5 83.9897 88.2542C85.0561 87.49 85.99 86.5561 86.7542 85.4897C89 82.3557 89 77.9038 89 69V69Z" />
-</svg>
-
-                View Profile
             </button>
+
+            <div class="text-center mb-6">
+                <div class="flex justify-center items-center mb-4">
+                    <svg class="mx-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true" width="36" height="36">
+                        <path fill-rule="evenodd"
+                            d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
+                            clip-rule="evenodd"></path>
+                    </svg>
+                    <span class="ml-2 text-xl font-bold">GitHub Username</span>
+                </div>
+
+                <input type="text" id="githubUsernameInput" placeholder="Enter GitHub username"
+                    class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 mb-4">
+
+                <div id="validationMessage" class="h-5 mb-4 text-sm"></div>
+
+                <div class="h-36 flex flex-col items-center justify-center">
+                    <div id="profilePreview" class="hidden">
+                        <div class="flex items-center justify-center">
+                            <img id="profileImage" src="" alt="Profile"
+                                class="w-24 h-24 rounded-full object-cover mb-2">
+                        </div>
+                        <p id="profileName" class="text-lg font-semibold mb-2"></p>
+                    </div>
+                </div>
+
+                <button id="validateUsername"
+                    class="w-full bg-gray-300 text-gray-500 py-2 rounded-lg cursor-not-allowed flex items-center justify-center"
+                    disabled>
+                    <svg id="logo-toggle" width="15" class="mr-2" viewBox="0 0 89 91" fill="#6B7280"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M0 16C0 8.45753 0 4.68629 2.34315 2.34315C4.68629 0 8.45753 0 16 0H41V91H16C8.45753 91 4.68629 91 2.34315 88.6569C0 86.3137 0 82.5425 0 75V16Z" />
+                        <path
+                            d="M83 22C83 10.1259 73.3741 0.5 61.5 0.5H47V43.5H61.5C73.3741 43.5 83 33.8741 83 22V22Z" />
+                        <path
+                            d="M89 69C89 60.0962 89 55.6443 86.7542 52.5103C85.99 51.4439 85.0561 50.51 83.9897 49.7458C80.8557 47.5 76.4038 47.5 67.5 47.5H47V90.5H67.5C76.4038 90.5 80.8557 90.5 83.9897 88.2542C85.0561 87.49 85.99 86.5561 86.7542 85.4897C89 82.3557 89 77.9038 89 69V69Z" />
+                    </svg>
+
+                    View Profile
+                </button>
+            </div>
         </div>
     </div>
-</div>
-<script>
-    // Initialize Lucide icons
-    lucide.createIcons();
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
 
-    function renderProfiles(profiles,section='users-section') {
-        const usersSection = document.getElementById(section);
+        function renderProfiles(profiles, section = 'users-section') {
+            const usersSection = document.getElementById(section);
 
-        // Clear any existing content
-        usersSection.innerHTML = '';
-        const selectedProfiles = profiles;
-        console.log(selectedProfiles)
-        // Iterate through profiles and create profile divs
-        selectedProfiles.forEach(profile => {
-            // Create the main container div
-            var div = `<a href="/${profile.username}" target="_blank">
+            // Clear any existing content
+            usersSection.innerHTML = '';
+            const selectedProfiles = profiles;
+            console.log(selectedProfiles)
+            // Iterate through profiles and create profile divs
+            selectedProfiles.forEach(profile => {
+                // Create the main container div
+                var div = `<a href="/${profile.username}" target="_blank">
   <div class="bg-[#F3F3F3] p-4 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black min-h-[120px]">
     <div class="flex flex-row">
       <div class="flex flex-row">
@@ -678,48 +658,48 @@
 </a>
 `
 
-            // Add to users section
+                // Add to users section
 
-            usersSection.innerHTML += div;
+                usersSection.innerHTML += div;
 
 
-        });
+            });
 
-        // If Lucide icons are used, render them
-        if (typeof lucide !== 'undefined') {
-            lucide.createIcons();
-        }
-    }
-
-    function loadProfiles(profileData) {
-        // Convert object to array of profiles
-        const profiles = Object.values(profileData);
-
-        // If there are no profiles, return an empty array
-        if (profiles.length === 0) return [];
-
-        // Always take the first profile
-        const selectedProfiles = [];
-
-        // If we have more than 1 profile and we haven't reached 6 profiles
-        if (profiles.length > 1) {
-            // Take the last 5 generated profiles (or fewer if not available)
-            const lastProfiles = profiles.slice(-6);
-
-            // Add these last profiles to our selection
-            selectedProfiles.push(...lastProfiles);
+            // If Lucide icons are used, render them
+            if (typeof lucide !== 'undefined') {
+                lucide.createIcons();
+            }
         }
 
-        // Trim to max 6 profiles if we've exceeded that
-        return selectedProfiles.slice(0, 6);
-    }
+        function loadProfiles(profileData) {
+            // Convert object to array of profiles
+            const profiles = Object.values(profileData);
 
-    // Complete loading function
-    function loadAndRenderProfiles(profileData) {
-        renderProfiles(loadProfiles(profileData));
-    }
+            // If there are no profiles, return an empty array
+            if (profiles.length === 0) return [];
 
-    function loadAndRenderContributors(profileData) {
+            // Always take the first profile
+            const selectedProfiles = [];
+
+            // If we have more than 1 profile and we haven't reached 6 profiles
+            if (profiles.length > 1) {
+                // Take the last 5 generated profiles (or fewer if not available)
+                const lastProfiles = profiles.slice(-6);
+
+                // Add these last profiles to our selection
+                selectedProfiles.push(...lastProfiles);
+            }
+
+            // Trim to max 6 profiles if we've exceeded that
+            return selectedProfiles.slice(0, 6);
+        }
+
+        // Complete loading function
+        function loadAndRenderProfiles(profileData) {
+            renderProfiles(loadProfiles(profileData));
+        }
+
+        function loadAndRenderContributors(profileData) {
             const cleanedData = profileData.filter((profile) => profile.login !== 'actions-user');
 
             // Wait for all promises to resolve before rendering
@@ -750,248 +730,256 @@
             });
 
         }
-    // Example usage when page loads
-    document.addEventListener('DOMContentLoaded', () => {
-        // Assuming profileData is available globally or passed in
-        fetch("https://devb.io/data/processed_users.json")
-            .then(response => response.json())
-            .then(profileData => {
-                loadAndRenderProfiles(profileData);
-            });
-        try {
-            fetch("https://api.github.com/repos/sunithvs/devb.io/contributors")
+        // Example usage when page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            // Assuming profileData is available globally or passed in
+            fetch("https://devb.io/data/processed_users.json")
                 .then(response => response.json())
-                .then(contributors => {
-
-                    if (contributors.message) {
-                        document.getElementById('contributors').style.display = 'none';
-                    } else {
-                        loadAndRenderContributors(contributors);
-                    }
+                .then(profileData => {
+                    loadAndRenderProfiles(profileData);
                 });
-        } catch (error) {
-            console.error('Error fetching contributors:', error);
-        }
+            try {
+                fetch("https://api.github.com/repos/sunithvs/devb.io/contributors")
+                    .then(response => response.json())
+                    .then(contributors => {
 
-
-    });
-</script>
-<script>
-    document.addEventListener(
-        'DOMContentLoaded', () => {
-            const openModalButton = document.querySelector('a[href="connect"]');
-            const modal = document.getElementById('githubModal');
-            const closeModalButton = document.getElementById('closeModal');
-            const usernameInput = document.getElementById('githubUsernameInput');
-            const validationMessage = document.getElementById('validationMessage');
-            const profilePreview = document.getElementById('profilePreview');
-            const profileImage = document.getElementById('profileImage');
-            const profileName = document.getElementById('profileName');
-            const viewProfileButton = document.getElementById('validateUsername');
-
-// Default Octocat image
-            const DEFAULT_OCTOCAT_IMAGE = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png';
-
-// Debounce function to limit API calls
-            function debounce(func, delay) {
-                let timeoutId;
-                return function () {
-                    const context = this;
-                    const args = arguments;
-                    clearTimeout(timeoutId);
-                    timeoutId = setTimeout(() => {
-                        func.apply(context, args);
-                    }, delay);
-                };
+                        if (contributors.message) {
+                            document.getElementById('contributors').style.display = 'none';
+                        } else {
+                            loadAndRenderContributors(contributors);
+                        }
+                    });
+            } catch (error) {
+                console.error('Error fetching contributors:', error);
             }
 
-// Open modal
-            openModalButton.addEventListener('click', (e) => {
-                e.preventDefault();
-                modal.classList.remove('hidden');
-                modal.classList.add('flex');
-            });
 
-// Close modal
-            closeModalButton.addEventListener('click', () => {
-                modal.classList.remove('flex');
-                modal.classList.add('hidden');
-                resetModal();
-            });
+        });
+    </script>
+    <script>
+        document.addEventListener(
+            'DOMContentLoaded', () => {
+                const openModalButton = document.getElementsByClassName("githubModalButton");
+                const modal = document.getElementById('githubModal');
+                const closeModalButton = document.getElementById('closeModal');
+                const usernameInput = document.getElementById('githubUsernameInput');
+                const validationMessage = document.getElementById('validationMessage');
+                const profilePreview = document.getElementById('profilePreview');
+                const profileImage = document.getElementById('profileImage');
+                const profileName = document.getElementById('profileName');
+                const viewProfileButton = document.getElementById('validateUsername');
 
-// Reset modal function
-            function resetModal() {
-                usernameInput.value = '';
-                validationMessage.textContent = '';
-                profilePreview.classList.add('hidden');
-                profileImage.src = DEFAULT_OCTOCAT_IMAGE;
-                viewProfileButton.disabled = true;
-                viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
-                viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
-                document.getElementById('logo-toggle').style.fill = 'grey';
+                // Default Octocat image
+                const DEFAULT_OCTOCAT_IMAGE = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png';
 
-            }
-
-// Username validation function
-            async function validateUsername() {
-                const username = usernameInput.value.trim();
-                const githubUsernameRegex = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i;
-
-// Reset previous state
-                validationMessage.textContent = '';
-                profilePreview.classList.add('hidden');
-                viewProfileButton.disabled = true;
-                viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
-                viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
-                document.getElementById('logo-toggle').style.fill = '#6B7280';
-
-// Set default Octocat image initially
-                profileImage.src = DEFAULT_OCTOCAT_IMAGE;
-
-                if (!username) return;
-
-                if (!githubUsernameRegex.test(username)) {
-                    validationMessage.textContent = 'Invalid GitHub username format';
-                    validationMessage.classList.add('text-red-500');
-                    return;
+                // Debounce function to limit API calls
+                function debounce(func, delay) {
+                    let timeoutId;
+                    return function () {
+                        const context = this;
+                        const args = arguments;
+                        clearTimeout(timeoutId);
+                        timeoutId = setTimeout(() => {
+                            func.apply(context, args);
+                        }, delay);
+                    };
                 }
 
-                try {
-// Add shimmer effect
-                    profileImage.classList.add('animate-pulse', 'bg-gray-200');
+                // Open modal
+                // openModalButton.addEventListener('click', (e) => {
+                //     e.preventDefault();
+                //     modal.classList.remove('hidden');
+                //     modal.classList.add('flex');
+                // });
 
-                    const response = await fetch(`https://api.github.com/users/${username}`);
+                for (let i = 0; i < openModalButton.length; i++) {
+                    openModalButton[i].addEventListener('click', (e) => {
+                        e.preventDefault();
+                        modal.classList.remove('hidden');
+                        modal.classList.add('flex');
+                    });
+                }
 
-// Remove shimmer effect
-                    profileImage.classList.remove('animate-pulse', 'bg-gray-200');
+                // Close modal
+                closeModalButton.addEventListener('click', () => {
+                    modal.classList.remove('flex');
+                    modal.classList.add('hidden');
+                    resetModal();
+                });
 
-                    if (response.status === 403) {
-// Handle rate limiting
-                        validationMessage.textContent = 'Too many requests. Please try again later.';
+                // Reset modal function
+                function resetModal() {
+                    usernameInput.value = '';
+                    validationMessage.textContent = '';
+                    profilePreview.classList.add('hidden');
+                    profileImage.src = DEFAULT_OCTOCAT_IMAGE;
+                    viewProfileButton.disabled = true;
+                    viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
+                    viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
+                    document.getElementById('logo-toggle').style.fill = 'grey';
+
+                }
+
+                // Username validation function
+                async function validateUsername() {
+                    const username = usernameInput.value.trim();
+                    const githubUsernameRegex = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i;
+
+                    // Reset previous state
+                    validationMessage.textContent = '';
+                    profilePreview.classList.add('hidden');
+                    viewProfileButton.disabled = true;
+                    viewProfileButton.classList.remove('bg-[#B9FF66]', 'text-black');
+                    viewProfileButton.classList.add('bg-gray-300', 'text-gray-500');
+                    document.getElementById('logo-toggle').style.fill = '#6B7280';
+
+                    // Set default Octocat image initially
+                    profileImage.src = DEFAULT_OCTOCAT_IMAGE;
+
+                    if (!username) return;
+
+                    if (!githubUsernameRegex.test(username)) {
+                        validationMessage.textContent = 'Invalid GitHub username format';
                         validationMessage.classList.add('text-red-500');
-                        profileImage.src = DEFAULT_OCTOCAT_IMAGE;
                         return;
                     }
 
-                    if (response.ok) {
-                        const userData = await response.json();
+                    try {
+                        // Add shimmer effect
+                        profileImage.classList.add('animate-pulse', 'bg-gray-200');
 
-// Set profile preview
-                        profileImage.src = userData.avatar_url || DEFAULT_OCTOCAT_IMAGE;
-                        profileName.textContent = userData.name || username;
-                        profilePreview.classList.remove('hidden');
+                        const response = await fetch(`https://api.github.com/users/${username}`);
 
-// Enable view profile button
-                        viewProfileButton.disabled = false;
-                        viewProfileButton.classList.remove('bg-gray-300', 'text-gray-500');
-                        viewProfileButton.classList.add('bg-[#B9FF66]', 'text-black');
-//                         curser pointer
-                        viewProfileButton.style.cursor = 'pointer';
-//                         logo-toggle to black all paths in th svg fill
-                        document.getElementById('logo-toggle').style.fill = 'black';
+                        // Remove shimmer effect
+                        profileImage.classList.remove('animate-pulse', 'bg-gray-200');
 
-// Set profile link
-                        viewProfileButton.onclick = () => {
-                            window.open(`/${username}`, '_blank');
-                        };
-                    } else {
-// Use default image if user not found
+                        if (response.status === 403) {
+                            // Handle rate limiting
+                            validationMessage.textContent = 'Too many requests. Please try again later.';
+                            validationMessage.classList.add('text-red-500');
+                            profileImage.src = DEFAULT_OCTOCAT_IMAGE;
+                            return;
+                        }
+
+                        if (response.ok) {
+                            const userData = await response.json();
+
+                            // Set profile preview
+                            profileImage.src = userData.avatar_url || DEFAULT_OCTOCAT_IMAGE;
+                            profileName.textContent = userData.name || username;
+                            profilePreview.classList.remove('hidden');
+
+                            // Enable view profile button
+                            viewProfileButton.disabled = false;
+                            viewProfileButton.classList.remove('bg-gray-300', 'text-gray-500');
+                            viewProfileButton.classList.add('bg-[#B9FF66]', 'text-black');
+                            //                         curser pointer
+                            viewProfileButton.style.cursor = 'pointer';
+                            //                         logo-toggle to black all paths in th svg fill
+                            document.getElementById('logo-toggle').style.fill = 'black';
+
+                            // Set profile link
+                            viewProfileButton.onclick = () => {
+                                window.open(`/${username}`, '_blank');
+                            };
+                        } else {
+                            // Use default image if user not found
+                            profileImage.src = DEFAULT_OCTOCAT_IMAGE;
+                            validationMessage.textContent = 'GitHub user not found';
+                            validationMessage.classList.add('text-red-500');
+                        }
+                    } catch (error) {
+                        console.error('Error validating username:', error);
                         profileImage.src = DEFAULT_OCTOCAT_IMAGE;
-                        validationMessage.textContent = 'GitHub user not found';
+                        validationMessage.textContent = 'Error validating username';
                         validationMessage.classList.add('text-red-500');
                     }
-                } catch (error) {
-                    console.error('Error validating username:', error);
-                    profileImage.src = DEFAULT_OCTOCAT_IMAGE;
-                    validationMessage.textContent = 'Error validating username';
-                    validationMessage.classList.add('text-red-500');
                 }
+
+                // Debounced username validation
+                const debouncedValidation = debounce(validateUsername, 1000);
+
+                // Username input validation with debounce
+                usernameInput.addEventListener('input', debouncedValidation);
+            });
+
+    </script>
+    <script>
+        // Generate points for a sine wave
+        function generateSineWave(startX, endX, amplitude, frequency, phase, baseY = 100, steps = 100) {
+            const points = [];
+            const dx = (endX - startX) / steps;
+
+            // Ensure we complete exactly n full waves
+            const numWaves = Math.round((endX - startX) * frequency / (2 * Math.PI));
+            frequency = numWaves * 2 * Math.PI / (endX - startX);
+
+            for (let i = 0; i <= steps; i++) {
+                // Invert x-coordinate to run right to left
+                const x = endX - i * dx;
+                const y = baseY + amplitude * Math.sin(frequency * (endX - x - startX) + phase);
+                points.push(`${x},${y}`);
             }
 
-// Debounced username validation
-            const debouncedValidation = debounce(validateUsername, 1000);
+            return `M${points.join(' L')}`;
+        }
 
-// Username input validation with debounce
-            usernameInput.addEventListener('input', debouncedValidation);
+        // Generate a noisy wave path
+        function generateNoisyWave(startX, endX, baseAmplitude, noiseAmplitude, frequency, phase, baseY = 100, steps = 100) {
+            const points = [];
+            const dx = (endX - startX) / steps;
+
+            for (let i = 0; i <= steps; i++) {
+                // Invert x-coordinate to run right to left
+                const x = endX - i * dx;
+                const progress = i / steps;
+
+                // Base sine wave
+                const baseWave = baseAmplitude * Math.sin(frequency * (endX - x - startX) + phase);
+
+                // Noise that gradually reduces to zero at the ends
+                const noiseScale = Math.sin(Math.PI * progress);
+                const noise = noiseAmplitude * noiseScale * (Math.sin(8 * frequency * (endX - x - startX) + phase));
+
+                const y = baseY + baseWave + noise;
+                points.push(`${x},${y}`);
+            }
+
+            return `M${points.join(' L')}`;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get wave elements
+            const noisyWavePaths = document.querySelectorAll('.noisy-wave path');
+            const cleanWavePaths = document.querySelectorAll('.clean-wave path');
+
+            function updateWaves() {
+                const time = Date.now() / 1000;
+
+                // Update noisy waves (now running from right to left)
+                const noisyWave1 = generateNoisyWave(0, 450, 30, 15, Math.PI / 100, time % (2 * Math.PI));
+                const noisyWave2 = generateNoisyWave(0, 450, 20, 10, Math.PI / 80, (time + Math.PI / 4) % (2 * Math.PI));
+                const noisyWave3 = generateNoisyWave(0, 450, 5, 3, Math.PI / 40, (time + Math.PI / 2) % (2 * Math.PI));
+
+                noisyWavePaths[0].setAttribute('d', noisyWave1);
+                noisyWavePaths[1].setAttribute('d', noisyWave2);
+                noisyWavePaths[2].setAttribute('d', noisyWave3);
+
+                // Update clean waves (now running from right to left)
+                const numWaves = 3;
+                const frequency = (2 * Math.PI * numWaves) / 450;
+                const cleanWave1 = generateSineWave(550, 1000, 30, frequency, time % (2 * Math.PI));
+
+                cleanWavePaths[0].setAttribute('d', cleanWave1);
+                cleanWavePaths[1].setAttribute('d', cleanWave1);
+
+                requestAnimationFrame(updateWaves);
+            }
+
+            // Start the animation
+            updateWaves();
         });
-
-</script>
-<script>
-    // Generate points for a sine wave
-    function generateSineWave(startX, endX, amplitude, frequency, phase, baseY = 100, steps = 100) {
-        const points = [];
-        const dx = (endX - startX) / steps;
-
-        // Ensure we complete exactly n full waves
-        const numWaves = Math.round((endX - startX) * frequency / (2 * Math.PI));
-        frequency = numWaves * 2 * Math.PI / (endX - startX);
-
-        for (let i = 0; i <= steps; i++) {
-            // Invert x-coordinate to run right to left
-            const x = endX - i * dx;
-            const y = baseY + amplitude * Math.sin(frequency * (endX - x - startX) + phase);
-            points.push(`${x},${y}`);
-        }
-
-        return `M${points.join(' L')}`;
-    }
-
-    // Generate a noisy wave path
-    function generateNoisyWave(startX, endX, baseAmplitude, noiseAmplitude, frequency, phase, baseY = 100, steps = 100) {
-        const points = [];
-        const dx = (endX - startX) / steps;
-
-        for (let i = 0; i <= steps; i++) {
-            // Invert x-coordinate to run right to left
-            const x = endX - i * dx;
-            const progress = i / steps;
-
-            // Base sine wave
-            const baseWave = baseAmplitude * Math.sin(frequency * (endX - x - startX) + phase);
-
-            // Noise that gradually reduces to zero at the ends
-            const noiseScale = Math.sin(Math.PI * progress);
-            const noise = noiseAmplitude * noiseScale * (Math.sin(8 * frequency * (endX - x - startX) + phase));
-
-            const y = baseY + baseWave + noise;
-            points.push(`${x},${y}`);
-        }
-
-        return `M${points.join(' L')}`;
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-        // Get wave elements
-        const noisyWavePaths = document.querySelectorAll('.noisy-wave path');
-        const cleanWavePaths = document.querySelectorAll('.clean-wave path');
-
-        function updateWaves() {
-            const time = Date.now() / 1000;
-
-            // Update noisy waves (now running from right to left)
-            const noisyWave1 = generateNoisyWave(0, 450, 30, 15, Math.PI / 100, time % (2 * Math.PI));
-            const noisyWave2 = generateNoisyWave(0, 450, 20, 10, Math.PI / 80, (time + Math.PI / 4) % (2 * Math.PI));
-            const noisyWave3 = generateNoisyWave(0, 450, 5, 3, Math.PI / 40, (time + Math.PI / 2) % (2 * Math.PI));
-
-            noisyWavePaths[0].setAttribute('d', noisyWave1);
-            noisyWavePaths[1].setAttribute('d', noisyWave2);
-            noisyWavePaths[2].setAttribute('d', noisyWave3);
-
-            // Update clean waves (now running from right to left)
-            const numWaves = 3;
-            const frequency = (2 * Math.PI * numWaves) / 450;
-            const cleanWave1 = generateSineWave(550, 1000, 30, frequency, time % (2 * Math.PI));
-
-            cleanWavePaths[0].setAttribute('d', cleanWave1);
-            cleanWavePaths[1].setAttribute('d', cleanWave1);
-
-            requestAnimationFrame(updateWaves);
-        }
-
-        // Start the animation
-        updateWaves();
-    });
-</script>
+    </script>
 
 </body>
 

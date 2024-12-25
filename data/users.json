@@ -1,6 +1,6 @@
 [
-    "ppy",
-    "tursodatabase",
     "unwrapped",
+    "tursodatabase",
+    "ppy",
     "octacat"
 ]

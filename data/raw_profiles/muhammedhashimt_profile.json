@@ -1,0 +1,134 @@
+{
+    "username": "muhammedhashimt",
+    "name": "Muhammed Hashim T",
+    "bio": "Student  -\r\nFull Stack developer ",
+    "location": "calicut",
+    "avatar_url": "https://avatars.githubusercontent.com/u/87515404?u=1188cba0c18d3dcf4259bfb84baed6b9e1a8ca34&v=4",
+    "profile_url": "https://github.com/MuhammedHashimT",
+    "top_languages": [
+        [
+            "TypeScript",
+            15
+        ],
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "niics-portal-client",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/niics-portal-client",
+            "updatedAt": "2024-12-24T10:34:38Z"
+        },
+        {
+            "name": "bunyan",
+            "description": "bunyan",
+            "score": 3.940223345312682,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/bunyan",
+            "updatedAt": "2024-12-22T11:56:05Z"
+        },
+        {
+            "name": "Single_Chat_App",
+            "description": "A group chat web app",
+            "score": 2.924106846742265,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MuhammedHashimT/Single_Chat_App",
+            "updatedAt": "2023-11-18T06:29:08Z"
+        },
+        {
+            "name": "wc22-qatar-api",
+            "description": null,
+            "score": 2.9238587236489435,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MuhammedHashimT/wc22-qatar-api",
+            "updatedAt": "2023-04-11T16:00:35Z"
+        },
+        {
+            "name": "Eureka-23",
+            "description": "dhpcartsfest",
+            "score": 2.5914409584149287,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/Eureka-23",
+            "updatedAt": "2023-11-18T06:26:46Z"
+        },
+        {
+            "name": "Result-gen",
+            "description": null,
+            "score": 2.5735254624902,
+            "stars": 0,
+            "forks": 4,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/Result-gen",
+            "updatedAt": "2023-07-14T01:43:55Z"
+        },
+        {
+            "name": "she-fest-api",
+            "description": "she fest api",
+            "score": 1.8996628247295135,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/she-fest-api",
+            "updatedAt": "2024-12-03T18:28:33Z"
+        },
+        {
+            "name": "Project-management-API",
+            "description": "Dynamic Work Allocation Algorithm for Efficient Task Assignment , GTA-SandShores , Team Farrago",
+            "score": 1.55139848202232,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MuhammedHashimT/Project-management-API",
+            "updatedAt": "2023-11-18T06:26:50Z"
+        }
+    ],
+    "followers": 14,
+    "following": 16,
+    "public_repos": 59,
+    "pull_requests_merged": 3,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1972,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/__hashimt/"
+        }
+    ],
+    "activity_summary": {
+        "dars-fest": {
+            "link": "https://github.com/MuhammedHashimT/dars-fest",
+            "summary": "Recent activities include multiple push events to update the Institution component, Results component, and refactor results display logic. Other updates include modifying UI components for improved layout and renaming 'dars' to 'college' across components."
+        },
+        "JJF-C": {
+            "link": "https://github.com/MuhammedHashimT/JJF-C",
+            "summary": "Significant activities include refactoring the CategoryResult component to improve readability and performance, updating category assignment logic in the result page, and calculating total points for candidate programs. Multiple pull requests have also been merged to update the codebase."
+        },
+        "niics-portal-client": {
+            "link": "https://github.com/MuhammedHashimT/niics-portal-client",
+            "summary": "Recent activities include renaming project references to NIICS ADMISSION PORTAL and enabling conditional mock import based on app configuration, indicating efforts to refine and customize the client portal."
+        }
+    },
+    "profile_summary": "Muhammed Hashim T is a highly skilled full stack developer with a strong foundation in TypeScript, JavaScript, and Java. As a student with a passion for innovative technology solutions, he has established himself as a talented and dedicated professional in the field of software development. With a growing network of 14 followers and an impressive portfolio of 59 public repositories, Muhammed has demonstrated his ability to collaborate and share his expertise with others, showcasing his commitment to the developer community.\n\nAs a skilled programmer with expertise in multiple programming languages, Muhammed is well-equipped to design, develop, and deploy scalable and efficient software applications. His proficiency in full stack development enables him to approach problems from a holistic perspective, leveraging his technical skills to deliver high-quality solutions that meet the needs of users. With a unique blend of technical expertise and creativity, Muhammed is an asset to any development team, and his dedication to ongoing learning and professional growth ensures that he remains at the forefront of the latest industry trends and technologies."
+}

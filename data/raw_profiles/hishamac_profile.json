@@ -1,0 +1,125 @@
+{
+    "username": "hishamac",
+    "name": "MUHAMMED HISHAM AC",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/122851090?u=016aae95348152a5ce1e1a1a9c12168f08594f8a&v=4",
+    "profile_url": "https://github.com/hishamac",
+    "top_languages": [
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "bunyan-server",
+            "description": "Bunyan",
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/bunyan-server",
+            "updatedAt": "2024-12-17T13:29:48Z"
+        },
+        {
+            "name": "blog-client",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/blog-client",
+            "updatedAt": "2024-10-06T04:11:28Z"
+        },
+        {
+            "name": "blog-server",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/blog-server",
+            "updatedAt": "2024-10-19T20:16:53Z"
+        },
+        {
+            "name": "binary-to-text",
+            "description": null,
+            "score": 0.25631375626254904,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hishamac/binary-to-text",
+            "updatedAt": "2024-01-13T06:19:54Z"
+        },
+        {
+            "name": "hishamac",
+            "description": null,
+            "score": 0.24113467677230846,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hishamac/hishamac",
+            "updatedAt": "2024-09-25T06:13:26Z"
+        },
+        {
+            "name": "cloudinary-image-upload",
+            "description": null,
+            "score": 0.15780771673818506,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/cloudinary-image-upload",
+            "updatedAt": "2023-06-09T12:11:09Z"
+        },
+        {
+            "name": "drive-upload-nestjs",
+            "description": null,
+            "score": 0.15758860784601006,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/drive-upload-nestjs",
+            "updatedAt": "2023-06-06T12:38:21Z"
+        },
+        {
+            "name": "nextjs-gauth",
+            "description": null,
+            "score": 0.15657098717496845,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hishamac/nextjs-gauth",
+            "updatedAt": "2023-05-12T01:19:05Z"
+        }
+    ],
+    "followers": 3,
+    "following": 0,
+    "public_repos": 20,
+    "pull_requests_merged": 7,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 591,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "MuhammedHashimT/NIICS-CLIENT": {
+            "link": "https://github.com/MuhammedHashimT/NIICS-CLIENT",
+            "summary": "Recent activities include improvements to the Approval component, lazy loading for images, and updates to the MarkListPage component. Error handling has been enhanced, and new routes have been added for ExamCenterProtected and AdminProtected. The sidebar links have been updated for Institutions and Marks Columns, and the Applicant interface has been refactored to include a rollNumber field."
+        },
+        "hishamac/JJF-C": {
+            "link": "https://github.com/hishamac/JJF-C",
+            "summary": "Recent activities involve refactoring the CategoryResult component to improve readability and performance. The page.tsx and institutions/page.tsx files have been updated to improve maintainability, and a scorecard has been created. The code has been refactored to calculate total points for candidate programs and update display logic."
+        },
+        "hishamac/JJFD": {
+            "link": "https://github.com/hishamac/JJFD",
+            "summary": "Recent activities include updates and the removal of the junior category, indicating a refinement of the repository's content and structure."
+        }
+    },
+    "profile_summary": "MUHAMMED HISHAM AC is a highly skilled and accomplished developer with a strong foundation in TypeScript and HTML. With a proven track record of delivering high-quality projects, he has established himself as a reliable and innovative professional in the field of software development. His expertise in utilizing cutting-edge technologies to drive solutions has earned him a reputation as a forward-thinking developer who consistently pushes the boundaries of what is possible. As a testament to his growing influence, he has garnered a loyal following of 3 professionals who appreciate his technical insights and expertise.\n\nWith a portfolio of 20 public repositories, MUHAMMED HISHAM AC has demonstrated his commitment to active development and collaboration. His ability to balance technical complexity with simplicity and elegance has resulted in a body of work that showcases his proficiency in TypeScript and HTML. As a seasoned developer, he continues to stay at the forefront of industry trends, leveraging his skills to drive innovation and deliver exceptional results. With a strong online presence and a growing network of peers, MUHAMMED HISHAM AC is well-positioned to make a lasting impact in the world of software development, and his unique blend of technical expertise and passion for innovation makes him an invaluable asset to any project or team."
+}

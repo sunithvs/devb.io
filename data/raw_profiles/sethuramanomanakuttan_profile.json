@@ -1,0 +1,121 @@
+{
+    "username": "sethuramanomanakuttan",
+    "name": "Sethu Raman Omanakuttan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/44131280?u=7afcb901d4339edf1e579197aa3419f575df9a15&v=4",
+    "profile_url": "https://github.com/SethuRamanOmanakuttan",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "brownie-tutorial-series",
+            "description": "The code snippets for a four-part tutorials series that shows you how to use the python-based brownie framework for smart contract development",
+            "score": 2.417342055883919,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SethuRamanOmanakuttan/brownie-tutorial-series",
+            "updatedAt": "2024-01-22T20:32:33Z"
+        },
+        {
+            "name": "mailchain-newsletter-app",
+            "description": "A demo newsletter application built using the mailchain sdk",
+            "score": 2.3570775115688214,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/mailchain-newsletter-app",
+            "updatedAt": "2023-08-15T22:37:13Z"
+        },
+        {
+            "name": "about_me",
+            "description": null,
+            "score": 1.8019484789357412,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/SethuRamanOmanakuttan/about_me",
+            "updatedAt": "2023-03-07T03:22:26Z"
+        },
+        {
+            "name": "Sample-Hardhat-Project",
+            "description": null,
+            "score": 1.5405777986312845,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/Sample-Hardhat-Project",
+            "updatedAt": "2023-03-21T07:17:51Z"
+        },
+        {
+            "name": "basic-project-fdp",
+            "description": "Sample Solidity dapp with baremetal frontend",
+            "score": 1.5353953788256653,
+            "stars": 1,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/SethuRamanOmanakuttan/basic-project-fdp",
+            "updatedAt": "2023-05-25T11:10:58Z"
+        },
+        {
+            "name": "lava-rpc",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/lava-rpc",
+            "updatedAt": "2024-10-08T09:12:38Z"
+        },
+        {
+            "name": "web3compass-beta",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/web3compass-beta",
+            "updatedAt": "2024-10-07T19:11:48Z"
+        },
+        {
+            "name": "build-your-own-jarvis",
+            "description": null,
+            "score": 0.32297023066626696,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/build-your-own-jarvis",
+            "updatedAt": "2024-09-13T07:42:23Z"
+        }
+    ],
+    "followers": 26,
+    "following": 3,
+    "public_repos": 54,
+    "pull_requests_merged": 18,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 317,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "web3-compass-data-repository": {
+            "link": "https://github.com/The-Web3-Compass/web3-compass-data-repository",
+            "summary": "The repository has seen significant updates recently, with multiple pushes to update course materials, banners, and descriptions. Several new courses have been added, including 'Build your own token' and 'Build your own blockchain', along with updated thumbnails and course badges. Other updates include new cover images, gifs, and formatting changes to improve the overall content and user experience."
+        }
+    },
+    "profile_summary": "Sethu Raman Omanakuttan is a highly skilled and accomplished developer with a strong foundation in JavaScript, Python, and TypeScript. With a notable presence on GitHub, he has built a professional network of 26 followers who appreciate his technical expertise and innovative approach to software development. His impressive portfolio of 54 public repositories showcases his active involvement in various projects, demonstrating his ability to design, develop, and deploy high-quality solutions. As a seasoned programmer, Sethu consistently delivers reliable and efficient code, leveraging his technical skills to drive project success and exceed expectations.\n\nAs a seasoned developer, Sethu brings a unique value proposition to the table, combining technical expertise with a passion for innovation and collaboration. With a keen eye for detail and a talent for problem-solving, he navigates complex development challenges with ease, creating scalable and maintainable solutions that drive business results. With his strong technical foundation and commitment to staying up-to-date with industry trends, Sethu is well-positioned to drive software development projects forward, delivering high-quality outcomes and exceeding client expectations. His professional achievements and technical prowess make him a valuable asset to any development team, and his influence is reflected in his growing network of peers and collaborators."
+}

@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests and push events focused on improving the database's functionality. Updates include switching the seed, database path, and plan path prints to println instead of log::info, adding support for multiple readers and a single writer with a custom made lock, and improvements to the simulator. These changes aim to enhance the overall performance and usability of the database, with some updates still pending testing and review."
+            "summary": "The tursodatabase/limbo repository experienced significant activities on 2024-12-25, including multiple pull requests focused on simulator improvements, such as killing dead code and modifying print statements to use println instead of log::info. Additionally, a push event fixed the Cargo.toml file in the macros crate, while other pull requests worked on transaction support with a custom LimboRwLock for multiple readers and a single writer, and addressed issue #545."
         }
     },
     "profile_summary": null

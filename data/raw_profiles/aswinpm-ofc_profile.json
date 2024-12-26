@@ -1,0 +1,125 @@
+{
+    "username": "aswinpm-ofc",
+    "name": "ASWIN P M",
+    "bio": "Aswin PM \r\n\ud83c\udf93 2nd Year Student | Cochin University of Science and Technology (CUSAT)\r\n\ud83d\udcbb Department of Computer Science (DCS)",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147654197?v=4",
+    "profile_url": "https://github.com/aswinpm-ofc",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PR",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/aswinpm-ofc/PR",
+            "updatedAt": "2024-11-06T07:17:05Z"
+        },
+        {
+            "name": "aswinpm-ofc",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpm-ofc/aswinpm-ofc",
+            "updatedAt": "2024-09-25T09:45:04Z"
+        },
+        {
+            "name": "sem3",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpm-ofc/sem3",
+            "updatedAt": "2024-09-25T09:12:30Z"
+        },
+        {
+            "name": "sem2",
+            "description": null,
+            "score": 0.2592062552949126,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpm-ofc/sem2",
+            "updatedAt": "2024-02-04T20:14:08Z"
+        },
+        {
+            "name": "data-structures",
+            "description": null,
+            "score": 0.2583919250855886,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/aswinpm-ofc/data-structures",
+            "updatedAt": "2024-05-04T12:44:00Z"
+        },
+        {
+            "name": "sem1-5",
+            "description": null,
+            "score": 0.2569491711848753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpm-ofc/sem1-5",
+            "updatedAt": "2024-09-25T09:20:21Z"
+        },
+        {
+            "name": "psem1-3",
+            "description": null,
+            "score": 0.25035615052150056,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpm-ofc/psem1-3",
+            "updatedAt": "2024-09-25T09:19:14Z"
+        },
+        {
+            "name": "sem1-1",
+            "description": null,
+            "score": 0.25035615052150056,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpm-ofc/sem1-1",
+            "updatedAt": "2024-09-25T09:17:58Z"
+        }
+    ],
+    "followers": 2,
+    "following": 5,
+    "public_repos": 15,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 48,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "aswinpm-ofc/PR": {
+            "link": "https://github.com/aswinpm-ofc/PR",
+            "summary": "Recent activities in this repository include a series of pull requests, with four pull requests being opened and merged, indicating a high level of collaboration and development on the project. The pull requests, titled 1st PR, 2nd PR, 3rd PR, and 4th PR, were all merged, suggesting that the project is actively being updated and improved. These activities demonstrate a strong focus on iterative development and testing, with multiple contributors working together to refine the project."
+        },
+        "jeevandas-jd/useless_project_temp": {
+            "link": "https://github.com/jeevandas-jd/useless_project_temp",
+            "summary": "The recent activity in this repository includes a push event with the message 'finalR1', suggesting that the project has reached a significant milestone or is nearing completion. This single, yet notable, activity implies that the project is being regularly updated, although the pace of development may be slower compared to other repositories with more frequent commits and pull requests."
+        }
+    },
+    "profile_summary": "ASWIN P M is a highly skilled and dedicated developer with a strong foundation in programming languages, including C++ and Python. With a solid understanding of data analysis and visualization tools, Aswin effectively utilizes Jupyter Notebook to drive insights and informed decision-making. As a 2nd-year student at Cochin University of Science and Technology, pursuing a degree in Computer Science, Aswin has already demonstrated a keen aptitude for software development and a passion for innovation. With a growing professional network and a notable presence on GitHub, Aswin has established himself as a reliable and talented developer with a promising future ahead.\n\nAswin's impressive portfolio of 15 public repositories showcases his active involvement in various development projects, highlighting his technical expertise and creativity. With a strong online presence and a growing influence, Aswin is well-positioned to collaborate with like-minded professionals and contribute to cutting-edge projects. By leveraging his technical skills and knowledge, Aswin delivers high-quality solutions that meet the evolving needs of the industry. With a keen eye for detail and a commitment to excellence, Aswin continues to push the boundaries of what is possible, solidifying his reputation as a talented and innovative developer in the field of computer science."
+}

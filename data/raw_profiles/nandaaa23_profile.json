@@ -1,0 +1,95 @@
+{
+    "username": "nandaaa23",
+    "name": "Nandana",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145857731?v=4",
+    "profile_url": "https://github.com/nandaaa23",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "GDScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PJPJ",
+            "description": null,
+            "score": 1.9658161460068708,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/nandaaa23/PJPJ",
+            "updatedAt": "2024-09-08T13:37:23Z"
+        },
+        {
+            "name": "haloo",
+            "description": null,
+            "score": 1.7606081330637084,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nandaaa23/haloo",
+            "updatedAt": "2024-11-17T09:34:44Z"
+        },
+        {
+            "name": "nandaaa23",
+            "description": null,
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nandaaa23/nandaaa23",
+            "updatedAt": "2024-11-17T05:51:05Z"
+        },
+        {
+            "name": "gesture",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nandaaa23/gesture",
+            "updatedAt": "2024-11-01T10:56:29Z"
+        },
+        {
+            "name": "SHN",
+            "description": null,
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "GDScript",
+            "url": "https://github.com/nandaaa23/SHN",
+            "updatedAt": "2024-09-15T06:00:48Z"
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 62,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "haloo": {
+            "link": "https://github.com/Scar2345/haloo",
+            "summary": "The haloo repository has seen significant recent activity. Multiple push events occurred throughout November 2, including updates to README.md and the addition of new files such as a background image and interaction elements. The repository's main branch was also updated with changes merged from another branch."
+        },
+        "nandaaa23": {
+            "link": "https://github.com/nandaaa23/nandaaa23",
+            "summary": "The nandaaa23 repository experienced moderate activity on November 17. Two push events were recorded, both involving updates to the README.md file. These updates followed a series of activities on the haloo repository, also owned by nandaaa23, which saw updates to README.md and the creation and update of requirements.txt on November 16 and 17."
+        }
+    },
+    "profile_summary": "Nandana is a highly skilled developer with expertise in a range of programming languages, including Python, JavaScript, and GDScript. With a strong foundation in software development, Nandana has built a reputation for delivering high-quality solutions that meet the needs of clients and users. As an active member of the development community, Nandana has established a professional network of peers and collaborators, with a growing following of like-minded professionals. Through a portfolio of 12 public repositories, Nandana demonstrates a commitment to open-source development and a passion for sharing knowledge and expertise with others.\n\nAs a seasoned developer, Nandana brings a unique combination of technical skills and creative problem-solving abilities to every project. With a focus on innovation and reliability, Nandana is dedicated to staying up-to-date with the latest trends and technologies in the industry. By leveraging expertise in languages such as Python, JavaScript, and GDScript, Nandana is able to craft tailored solutions that meet the specific needs of clients and users. With a strong track record of achievement and a growing professional network, Nandana is a trusted partner for businesses and organizations seeking high-quality software development services."
+}

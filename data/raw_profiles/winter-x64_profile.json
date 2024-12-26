@@ -1,0 +1,138 @@
+{
+    "username": "winter-x64",
+    "name": "winter_x64",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/75623356?u=0e5bb4c7388f2fff1b486497de5ece4926d13306&v=4",
+    "profile_url": "https://github.com/winter-x64",
+    "top_languages": [
+        [
+            "Python",
+            15
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WebFlake",
+            "description": null,
+            "score": 5.746834342381552,
+            "stars": 2,
+            "forks": 8,
+            "language": null,
+            "url": "https://github.com/winter-x64/WebFlake",
+            "updatedAt": "2024-05-05T14:23:50Z"
+        },
+        {
+            "name": "pythonProgramming",
+            "description": "Python Programming Course",
+            "score": 2.989957008733766,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/winter-x64/pythonProgramming",
+            "updatedAt": "2024-10-12T05:47:37Z"
+        },
+        {
+            "name": "WinterIsCoding",
+            "description": "A cool and cozy theme for VS Code, Made by winter_x64",
+            "score": 2.4546911019419744,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/winter-x64/WinterIsCoding",
+            "updatedAt": "2024-11-20T04:04:23Z"
+        },
+        {
+            "name": "bash-script",
+            "description": null,
+            "score": 1.4592406903235384,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/winter-x64/bash-script",
+            "updatedAt": "2022-08-29T09:15:18Z"
+        },
+        {
+            "name": "SpaceApp24-CyberClan",
+            "description": null,
+            "score": 1.3791763278820528,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/winter-x64/SpaceApp24-CyberClan",
+            "updatedAt": "2024-10-06T19:37:20Z"
+        },
+        {
+            "name": "DiscordChat-cheatsheet",
+            "description": null,
+            "score": 1.1976168466040218,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/winter-x64/DiscordChat-cheatsheet",
+            "updatedAt": "2023-06-13T07:07:30Z"
+        },
+        {
+            "name": "c-programming",
+            "description": "C Programming  for Beginners \ud83d\udd30  ",
+            "score": 1.1121557461879659,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/winter-x64/c-programming",
+            "updatedAt": "2022-04-07T17:15:31Z"
+        },
+        {
+            "name": "PrimeApp-frontend",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/winter-x64/PrimeApp-frontend",
+            "updatedAt": "2024-11-15T19:03:30Z"
+        }
+    ],
+    "followers": 20,
+    "following": 8,
+    "public_repos": 64,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 408,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/winter_x64"
+        },
+        {
+            "provider": "generic",
+            "url": "https://winter-x64.github.io/my-portfolio/"
+        }
+    ],
+    "activity_summary": {
+        "winter-x64/useless-api": {
+            "link": "https://github.com/winter-x64/useless-api",
+            "summary": "Recent activities in the useless-api repository have focused on enhancing features and refining the codebase, with updates including the addition of CORS and filtering by venue, as well as multiple file updates to improve overall functionality and performance."
+        },
+        "winter-x64/useless-project": {
+            "link": "https://github.com/winter-x64/useless-project",
+            "summary": "The useless-project repository has seen significant activity with multiple updates to files and the initial configuration of the project, indicating a phase of active development and setup, including updates to the README.md file to improve documentation and clarity."
+        },
+        "winter-x64/CyberClan": {
+            "link": "https://github.com/winter-x64/CyberClan",
+            "summary": "The CyberClan repository has had recent push events, including version 2.1.0 and an initialization commit, suggesting major updates or the start of a new phase in the project's development cycle, potentially introducing new features or significant changes."
+        }
+    },
+    "profile_summary": "Winter_x64 is a highly skilled and accomplished developer with a strong foundation in programming languages, including Python, C, and TypeScript. With a notable presence on GitHub, winter_x64 has built a professional network of 20 followers who recognize their expertise and contributions to the development community. Their portfolio comprises 64 public repositories, showcasing a consistent track record of active development and a commitment to innovation. As a seasoned programmer, winter_x64 possesses a unique ability to design, develop, and deploy high-quality software solutions that meet the needs of a rapidly evolving tech landscape.\n\nWinter_x64's technical expertise, combined with their passion for collaboration and knowledge sharing, makes them a valuable asset to any development team. With a keen eye for detail and a talent for solving complex problems, winter_x64 is well-equipped to tackle a wide range of projects, from backend development to full-stack engineering. As a professional with a strong online presence and a reputation for delivering results-driven solutions, winter_x64 is an ideal partner for companies seeking to leverage the latest technologies and programming trends to drive business success. Their dedication to staying up-to-date with industry advancements and best practices ensures that their work remains fresh, relevant, and aligned with the needs of the tech industry."
+}

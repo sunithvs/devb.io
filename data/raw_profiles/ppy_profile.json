@@ -3,19 +3,19 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include two pull requests that update 'Game modifier' mods according to the osu-wiki status in Spanish, with a total of 22 mods being updated across the two requests."
+            "summary": "Recent activities in the osu-wiki repository include two significant pull requests aimed at updating 'Game modifier' mods according to the osu-wiki status in Spanish. These updates are part of a larger effort to ensure translations are accurate and up-to-date, with a total of 22 mods being addressed across the two pull requests."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include two pull requests, one that adds back volume control to the editor and another that switches the scroll direction for beat snap to match the stable version."
+            "summary": "The osu repository has seen notable pull requests, including the addition of volume control back to the editor, addressing a regression issue, and a change to the scroll direction for beat snap to match stable versions. These updates aim to enhance the user experience and fix previously introduced bugs."
         },
         "ppy/osu-tools": {
             "link": "https://github.com/ppy/osu-tools",
-            "summary": "Recent activities include a push event and a pull request that add an option to populate score parameters on the SimulateScreen using a score ID, enhancing the tool's functionality."
+            "summary": "Activities in the osu-tools repository involve a push event and a pull request, both focused on adding an option to populate score parameters on the SimulateScreen using a score ID. This enhancement is designed to improve functionality and usability within the simulation tools."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "Recent activities include a pull request that aims to include user tags in the Beatmapset search, requiring a new beatmap search index to be built for the added functionality."
+            "summary": "The osu-web repository has a recent pull request that aims to include user tags in Beatmapset searches. This update requires the creation of a new beatmap search index to properly integrate and target the tags within nested beatmap objects, enhancing search functionality and user experience."
         }
     },
     "profile_summary": null

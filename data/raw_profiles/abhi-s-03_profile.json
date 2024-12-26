@@ -1,0 +1,138 @@
+{
+    "username": "abhi-s-03",
+    "name": "Abhishek S",
+    "bio": "Full Stack Developer | College of Engineering Trivandrum | Aspiring ML/AI Enthusiast ",
+    "location": "Trivandrum,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104844413?u=73d0323c47c7f54f440e952d6325ab1bd154df2c&v=4",
+    "profile_url": "https://github.com/abhi-s-03",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "InterviewSensei",
+            "description": "Ace interviews with AI-powered coaching",
+            "score": 1.9346645340422026,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/InterviewSensei",
+            "updatedAt": "2024-07-21T10:20:19Z"
+        },
+        {
+            "name": "Library-Management-System",
+            "description": "KTU S5 DBMS Project",
+            "score": 1.8916283572745467,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Library-Management-System",
+            "updatedAt": "2024-07-16T14:53:40Z"
+        },
+        {
+            "name": "Notifier",
+            "description": "Notifier-a web app to send personal development and motivational notifications",
+            "score": 1.8033683494608446,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Notifier",
+            "updatedAt": "2023-05-01T14:06:17Z"
+        },
+        {
+            "name": "HackSquad",
+            "description": "Adaptive Traffic Management System using Python and Open CV",
+            "score": 1.5356141888254813,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abhi-s-03/HackSquad",
+            "updatedAt": "2023-02-01T02:00:55Z"
+        },
+        {
+            "name": "Jolly-Audience",
+            "description": null,
+            "score": 1.2894563358561217,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Jolly-Audience",
+            "updatedAt": "2024-12-07T16:25:00Z"
+        },
+        {
+            "name": "Edtech",
+            "description": null,
+            "score": 1.204196262249372,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Edtech",
+            "updatedAt": "2023-10-31T16:45:41Z"
+        },
+        {
+            "name": "Boiler-Plate-Code-Generator",
+            "description": "Boilerplate code generator using open ai api",
+            "score": 1.2000704719818824,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Boiler-Plate-Code-Generator",
+            "updatedAt": "2023-08-04T17:26:21Z"
+        },
+        {
+            "name": "Wizlet",
+            "description": "personal finance management app",
+            "score": 1.195843227135166,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abhi-s-03/Wizlet",
+            "updatedAt": "2023-05-07T17:27:46Z"
+        }
+    ],
+    "followers": 13,
+    "following": 11,
+    "public_repos": 32,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 492,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhis03/"
+        }
+    ],
+    "activity_summary": {
+        "abhi-s-03/ipl-win-predictor": {
+            "link": "https://github.com/abhi-s-03/ipl-win-predictor",
+            "summary": "Recent activities include a series of updates to the repository, with multiple push events on December 7, 2024, addressing issues such as responsive design fixes, URL changes, and README updates, in addition to earlier fixes for overs float issues."
+        },
+        "abhi-s-03/PDFPilot-Pro": {
+            "link": "https://github.com/abhi-s-03/PDFPilot-Pro",
+            "summary": "The repository has seen significant updates, including fixing display issues, removing duplicate search results, and addressing issues with answer changes beyond scope execution, showcasing active maintenance and improvement of the project."
+        },
+        "abhi-s-03/Portfolio": {
+            "link": "https://github.com/abhi-s-03/Portfolio",
+            "summary": "Recent activities involve several data updates, including changes to the CGPA, and updates to the data.js file, indicating ongoing portfolio maintenance and updates to reflect the latest information and achievements."
+        },
+        "abhi-s-03/Jolly-Audience": {
+            "link": "https://github.com/abhi-s-03/Jolly-Audience",
+            "summary": "Activities include UI changes, version updates, and README updates, all occurring on December 7, 2024, suggesting a focused effort to enhance the project's user interface and documentation."
+        }
+    },
+    "profile_summary": "Abhishek S is a highly skilled Full Stack Developer with a strong foundation in programming languages such as C, JavaScript, and C++. With a solid educational background from the College of Engineering Trivandrum, Abhishek has established himself as a proficient and reliable developer in the industry. His proficiency in multiple programming languages enables him to approach problems from different angles, making him a versatile and valuable asset to any development team. As an aspiring ML/AI enthusiast, Abhishek is constantly exploring new technologies and staying up-to-date with the latest trends in machine learning and artificial intelligence.\n\nWith a network of 13 followers and a portfolio of 32 public repositories, Abhishek has demonstrated his ability to collaborate with others and contribute to open-source projects. His public repositories showcase his active development work and commitment to delivering high-quality solutions. As a skilled developer with a unique blend of technical expertise and innovative thinking, Abhishek is well-positioned to drive projects forward and deliver exceptional results. With his strong technical skills, professional achievements, and passion for ML/AI, Abhishek is an innovative and reliable developer who can make a significant impact in the industry, and his work is optimized for search with relevant keywords such as full stack development, machine learning, and artificial intelligence."
+}

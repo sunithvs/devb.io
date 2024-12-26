@@ -1,0 +1,130 @@
+{
+    "username": "sanjeevidev",
+    "name": "Sanjeevi Kumar V",
+    "bio": "",
+    "location": "Tamilnadu,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/96916376?u=932e6ebb541f0be3a68f706836dfe3eda562b73f&v=4",
+    "profile_url": "https://github.com/sanjeevidev",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "100-days-code-challenge",
+            "description": null,
+            "score": 3.3930275601380178,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/sanjeevidev/100-days-code-challenge",
+            "updatedAt": "2023-05-06T15:22:12Z"
+        },
+        {
+            "name": "Google-Translator",
+            "description": null,
+            "score": 2.582877266345501,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/sanjeevidev/Google-Translator",
+            "updatedAt": "2023-07-14T10:49:41Z"
+        },
+        {
+            "name": "Flask-Openai",
+            "description": null,
+            "score": 2.353387365349592,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sanjeevidev/Flask-Openai",
+            "updatedAt": "2023-05-05T17:24:04Z"
+        },
+        {
+            "name": "whatsapp-clone",
+            "description": null,
+            "score": 1.5387752758570432,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sanjeevidev/whatsapp-clone",
+            "updatedAt": "2023-05-05T17:23:45Z"
+        },
+        {
+            "name": "quiz-appl",
+            "description": null,
+            "score": 1.201424510131422,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/sanjeevidev/quiz-appl",
+            "updatedAt": "2023-10-13T15:52:35Z"
+        },
+        {
+            "name": "sanjeevidev",
+            "description": null,
+            "score": 1.195883558853291,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/sanjeevidev/sanjeevidev",
+            "updatedAt": "2023-05-03T10:21:36Z"
+        },
+        {
+            "name": "Problem-Solving-25",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/sanjeevidev/Problem-Solving-25",
+            "updatedAt": "2024-12-04T18:16:17Z"
+        },
+        {
+            "name": "Altruisty-Coding-Challenge",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sanjeevidev/Altruisty-Coding-Challenge",
+            "updatedAt": "2024-09-29T14:29:08Z"
+        }
+    ],
+    "followers": 6,
+    "following": 8,
+    "public_repos": 48,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 156,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://sanjeevidev.carrd.co/"
+        }
+    ],
+    "activity_summary": {
+        "sanjeevidev/Problem-Solving-25": {
+            "link": "https://github.com/sanjeevidev/Problem-Solving-25",
+            "summary": "The repository has seen significant activity, with multiple push events occurring between November 25 and December 4, 2024. These updates include the addition of various programming solutions, such as integer stack implementation, queue examples, and problem-solving exercises like valid parentheses and diagonal sum calculations. Other updates involve enhancements to existing code, including updates to Remove_Duplicates.java and the addition of new files via upload. The repository appears to be focused on problem-solving and programming exercises, with the developer actively working on and updating the codebase."
+        },
+        "vishal8113/Hacktoberfest-2024": {
+            "link": "https://github.com/vishal8113/Hacktoberfest-2024",
+            "summary": "The repository has seen a notable pull request event on October 24, 2024, wherein a Python program was added to merge two linked lists. This contribution seems to be part of the Hacktoberfest event, which encourages open-source contributions. The pull request, titled 'Added Merge_Linked_List', suggests that the repository may be focused on collaborative open-source projects and problem-solving exercises, with this specific contribution being a Python-based solution to merge linked lists."
+        }
+    },
+    "profile_summary": "Sanjeevi Kumar V is a highly skilled and accomplished developer with a strong foundation in programming languages such as Python, C++, and JavaScript. With a notable presence on GitHub, he has built a network of 6 followers who appreciate his technical expertise and contributions to the developer community. His impressive portfolio of 48 public repositories showcases his dedication to active development and commitment to sharing knowledge with others. As a proficient coder, Sanjeevi Kumar V is well-versed in leveraging his technical skills to drive innovation and deliver high-quality solutions.\n\nWith a unique blend of technical expertise and collaborative spirit, Sanjeevi Kumar V brings significant value to the table as a developer. His proficiency in Python, C++, and JavaScript enables him to tackle complex projects with ease, making him a reliable and sought-after professional in his field. By consistently delivering high-quality code and actively engaging with the developer community, Sanjeevi Kumar V has established himself as a trusted and innovative expert, poised to make a lasting impact in the world of software development. His strong technical skills, combined with his passion for collaboration and knowledge-sharing, make him an asset to any project or team."
+}

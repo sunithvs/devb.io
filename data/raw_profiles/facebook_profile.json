@@ -3,7 +3,7 @@
     "activity_summary": {
         "facebook/docusaurus": {
             "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities in the docusaurus repository include a pull request to update the users.tsx file with a new table format for displaying invoice data, featuring sorting and filtering capabilities, and improved readability."
+            "summary": "Recent activities include multiple push events and pull requests. A fix was implemented for the theme to merge provided className in footer columns and links, ensuring consistency with the behavior of navbar items. Additionally, there were updates to users.tsx and minor fixes for typing, along with a deployment event with the commit 37184e581d48433c1bfcfcce1c1c3ce32d094dda."
         }
     },
     "profile_summary": null

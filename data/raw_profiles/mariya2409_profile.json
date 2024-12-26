@@ -1,0 +1,57 @@
+{
+    "username": "mariya2409",
+    "name": "Mariya S",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/144908841?u=51a968be390c4984e98effff111c11e50470425e&v=4",
+    "profile_url": "https://github.com/Mariya2409",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "scas-projects",
+            "description": null,
+            "score": 2.454560997746156,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Mariya2409/scas-projects",
+            "updatedAt": "2024-08-09T07:45:00Z"
+        },
+        {
+            "name": "Resume",
+            "description": null,
+            "score": 1.6663234548530717,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mariya2409/Resume",
+            "updatedAt": "2024-05-29T20:28:40Z"
+        }
+    ],
+    "followers": 21,
+    "following": 7,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "cainebenoy/EVALBOT": {
+            "link": "https://github.com/cainebenoy/EVALBOT",
+            "summary": "Recent activities in the EVALBOT repository indicate two push events that occurred on November 28 and November 29, 2024, where files were added via upload, suggesting ongoing development and updates to the repository's content."
+        }
+    },
+    "profile_summary": "Mariya S is a skilled and innovative developer with expertise in HTML and CSS, bringing a strong foundation in front-end development to the table. With a growing professional network of 21 followers, Mariya has established herself as a reliable and knowledgeable presence in the development community. Her portfolio boasts an impressive 4 public repositories, showcasing her active engagement in ongoing projects and commitment to continuous learning. As a dedicated and results-driven professional, Mariya is well-versed in the latest industry trends and technologies, making her a valuable asset to any development team.\n\nMariya's technical expertise and passion for development make her a highly sought-after professional in the field. With a keen eye for detail and a talent for crafting intuitive and user-friendly interfaces, Mariya excels at creating high-quality, responsive web applications that meet and exceed client expectations. As a proficient developer with a strong online presence, Mariya is dedicated to delivering exceptional results and pushing the boundaries of what is possible with HTML and CSS. Her unique blend of technical skills, creativity, and collaborative spirit makes her an excellent fit for forward-thinking companies and projects that require innovative solutions and a commitment to excellence."
+}

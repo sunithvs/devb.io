@@ -1,0 +1,142 @@
+{
+    "username": "gkrizz",
+    "name": "GobalaKrishnan",
+    "bio": " Full Stack Developer \ud83c\udf1f | Django,Python Expert\ud83d\udcbb | Lover of Algorithms \u2728 | | Technology Explorer\ud83d\udd2c | Let's Code and Create magic together ! ",
+    "location": "Coimbatore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/103564745?u=636bea55386d75a24075ac3e11a6df023979ab12&v=4",
+    "profile_url": "https://github.com/GKrizz",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Python",
+            10
+        ],
+        [
+            "JavaScript",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TNSDC-Generative-AI",
+            "description": null,
+            "score": 1.3089164878531023,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/GKrizz/TNSDC-Generative-AI",
+            "updatedAt": "2024-04-08T04:05:55Z"
+        },
+        {
+            "name": "My_website",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/GKrizz/My_website",
+            "updatedAt": "2024-12-13T19:12:56Z"
+        },
+        {
+            "name": "Personal_Website",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/GKrizz/Personal_Website",
+            "updatedAt": "2024-12-13T18:13:40Z"
+        },
+        {
+            "name": "Java_DSA",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/GKrizz/Java_DSA",
+            "updatedAt": "2024-12-10T05:17:58Z"
+        },
+        {
+            "name": "tharani-stores-backend",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GKrizz/tharani-stores-backend",
+            "updatedAt": "2024-10-25T01:22:42Z"
+        },
+        {
+            "name": "backend-authentication",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GKrizz/backend-authentication",
+            "updatedAt": "2024-10-17T06:53:15Z"
+        },
+        {
+            "name": "Altruisty_Coding_Challenge",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/GKrizz/Altruisty_Coding_Challenge",
+            "updatedAt": "2024-09-29T14:29:04Z"
+        },
+        {
+            "name": "QR_Code_Generator",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GKrizz/QR_Code_Generator",
+            "updatedAt": "2024-08-26T12:00:53Z"
+        }
+    ],
+    "followers": 7,
+    "following": 6,
+    "public_repos": 72,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 314,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/gobala-krishnan-5ab1a4231"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/gobala_krishnan/"
+        }
+    ],
+    "activity_summary": {
+        "My_website": {
+            "link": "https://github.com/GKrizz/My_website",
+            "summary": "Recent activities include a series of updates to the repository on December 13, 2024, with changes to asset paths and other modifications, indicating ongoing development and maintenance efforts."
+        },
+        "Guest_room_booking_application": {
+            "link": "https://github.com/GKrizz/Guest_room_booking_application",
+            "summary": "Recent activities involved updates to the application, including resolving merge conflicts and deleting the node_modules directory, demonstrating active development and version control management on December 10, 2024."
+        },
+        "Personal_Website": {
+            "link": "https://github.com/GKrizz/Personal_Website",
+            "summary": "The repository saw an update on December 13, 2024, with the addition of new file types to Git LFS tracking, suggesting efforts to optimize repository storage and management."
+        },
+        "GKrizz": {
+            "link": "https://github.com/GKrizz/GKrizz",
+            "summary": "A recent update on December 11, 2024, included modifications to the README.md file, indicating maintenance and documentation refinement activities within the repository."
+        }
+    },
+    "profile_summary": "GobalaKrishnan is a highly skilled and accomplished full stack developer with a strong foundation in C, Python, and JavaScript. With a proven track record of delivering high-quality solutions, he has established himself as a reliable and innovative expert in his field. As a Django and Python expert, he has a deep understanding of web development principles and is well-versed in the latest technologies and trends. His passion for algorithms and technology exploration drives him to continuously learn and improve, enabling him to stay ahead of the curve and provide cutting-edge solutions to complex problems.\n\nAs a seasoned developer with 72 public repositories and a growing network of 7 followers, GobalaKrishnan has demonstrated his ability to collaborate, share knowledge, and contribute to the development community. His expertise in full stack development, combined with his love for coding and creating, makes him a valuable asset to any project or team. With a strong commitment to delivering exceptional results, he is dedicated to helping others create magic through technology. By leveraging his technical expertise and passion for innovation, GobalaKrishnan is poised to make a lasting impact in the world of software development and beyond."
+}

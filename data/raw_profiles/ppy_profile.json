@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include a push event and pull request that switch the scroll direction for beat snap to match the stable version, along with a migration and merge of the pull request."
-        },
-        "ppy/osu-web": {
-            "link": "https://github.com/ppy/osu-web",
-            "summary": "A significant pull request has been opened to exclude bot and no profile special groups from being set as guest mappers, also affecting chat announcements and supporter tag gift lookups, with plans for further changes."
-        },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "A pull request has been submitted to add Daily Challenge medals to the 'Dedication' category in unlock requirements, with the changes tested against the contribution checklist."
+            "summary": "Recent activities in the osu-wiki repository include the expansion of system mod articles, the addition of Daily Challenge medals to the 'Dedication' category, and various fixes to improve compatibility and accuracy. These updates demonstrate ongoing efforts to enhance the osu-wiki's content and functionality, ensuring it remains a valuable resource for the osu! community."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "The osu repository has seen significant activity with pull requests focusing on improving the osu!taiko mode, particularly in the areas of rhythm and colour skills. These updates introduce new methods for evaluating consistency penalties and rhythmic difficulties, aiming to create a more sophisticated and challenging experience for players. The changes also include reworks of existing features and the introduction of new data classes to support these enhancements."
         }
     },
     "profile_summary": null

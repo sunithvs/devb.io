@@ -1,0 +1,120 @@
+{
+    "username": "sharunrajeev",
+    "name": "Sharun E Rajeev",
+    "bio": "Developer at TCS",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54183649?u=a92c7fa6f8ce37fcca16a5598fa05b894d79ac77&v=4",
+    "profile_url": "https://github.com/sharunrajeev",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C",
+            4
+        ],
+        [
+            "C++",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "YourFirstContribution",
+            "description": "A vast repository where you can try out code and raise issues to start up first contribution in opensource. This could be used for Hacktoberfest.",
+            "score": 7.842215108859642,
+            "stars": 2,
+            "forks": 40,
+            "language": "Python",
+            "url": "https://github.com/sharunrajeev/YourFirstContribution",
+            "updatedAt": "2022-12-05T19:03:36Z"
+        },
+        {
+            "name": "studentManagementSystem",
+            "description": "Student management system using Django and PostgreSQL",
+            "score": 6.921996283865784,
+            "stars": 5,
+            "forks": 7,
+            "language": "HTML",
+            "url": "https://github.com/sharunrajeev/studentManagementSystem",
+            "updatedAt": "2024-03-14T04:37:06Z"
+        },
+        {
+            "name": "DBMS-Lab",
+            "description": "DBMS Lab programs based on PHP and MySQL",
+            "score": 3.1049609717491458,
+            "stars": 1,
+            "forks": 2,
+            "language": "PHP",
+            "url": "https://github.com/sharunrajeev/DBMS-Lab",
+            "updatedAt": "2021-10-17T16:12:34Z"
+        },
+        {
+            "name": "Computer-Graphics-Lab",
+            "description": "Code repository for computer graphics lab in Python and OpenGL",
+            "score": 2.9892548237726855,
+            "stars": 0,
+            "forks": 6,
+            "language": "Python",
+            "url": "https://github.com/sharunrajeev/Computer-Graphics-Lab",
+            "updatedAt": "2021-10-21T09:58:04Z"
+        },
+        {
+            "name": "LP-Lab-Codes",
+            "description": null,
+            "score": 1.7225921211151958,
+            "stars": 0,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/sharunrajeev/LP-Lab-Codes",
+            "updatedAt": "2022-10-10T09:51:44Z"
+        },
+        {
+            "name": "python-simple-programs",
+            "description": "This program contains simple python code",
+            "score": 1.7185817323664825,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/sharunrajeev/python-simple-programs",
+            "updatedAt": "2021-10-16T17:49:34Z"
+        },
+        {
+            "name": "100-Days-of-Code",
+            "description": "Repository to save my activities of 100 days of code in python.",
+            "score": 1.5266872742446576,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/sharunrajeev/100-Days-of-Code",
+            "updatedAt": "2023-09-02T05:39:26Z"
+        },
+        {
+            "name": "Gradient-Background-Generator",
+            "description": null,
+            "score": 1.109613364639015,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/sharunrajeev/Gradient-Background-Generator",
+            "updatedAt": "2021-06-27T06:58:24Z"
+        }
+    ],
+    "followers": 51,
+    "following": 83,
+    "public_repos": 122,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/sharun_rajeev"
+        }
+    ],
+    "profile_summary": "Sharun E Rajeev is a highly skilled developer with a strong background in programming languages such as Rust, C, and C++. As a reputable developer at TCS, Sharun has established a robust professional network, with 51 followers who appreciate his technical expertise and contributions to the development community. With a significant portfolio of 122 public repositories, Sharun has consistently demonstrated his ability to design, develop, and deploy innovative software solutions. His expertise in systems programming, software development, and collaborative engineering has earned him recognition as a reliable and results-driven professional in the industry.\n\nAs a seasoned developer, Sharun brings a unique blend of technical expertise and collaborative spirit to the table, making him a valuable asset to any development team. With a keen focus on delivering high-quality solutions, Sharun is committed to staying up-to-date with the latest advancements in technology, ensuring that his skills remain relevant and aligned with industry trends. His proficiency in languages like Rust, C, and C++ enables him to tackle complex programming challenges with ease, and his experience in software development has equipped him with the skills to drive projects forward with precision and accuracy. With his strong technical foundation, collaborative mindset, and passion for innovation, Sharun E Rajeev is an exceptional developer who consistently delivers exceptional results."
+}

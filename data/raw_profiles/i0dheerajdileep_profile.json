@@ -1,0 +1,134 @@
+{
+    "username": "i0dheerajdileep",
+    "name": "Dheeraj dileep",
+    "bio": "That Indian guy every MNC needs",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94816195?u=508f8799299c66926709c1e7203f2e330abfada4&v=4",
+    "profile_url": "https://github.com/i0dheerajdileep",
+    "top_languages": [
+        [
+            "JavaScript",
+            24
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "h4t",
+            "description": null,
+            "score": 2.579920834841582,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/i0dheerajdileep/h4t",
+            "updatedAt": "2024-12-22T02:08:06Z"
+        },
+        {
+            "name": "executo.Ai",
+            "description": null,
+            "score": 2.235284103901938,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/i0dheerajdileep/executo.Ai",
+            "updatedAt": "2023-04-25T06:23:43Z"
+        },
+        {
+            "name": "frappe-lib-mngmt",
+            "description": null,
+            "score": 1.641738828308278,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/i0dheerajdileep/frappe-lib-mngmt",
+            "updatedAt": "2024-01-07T00:22:26Z"
+        },
+        {
+            "name": "job-searching-page",
+            "description": null,
+            "score": 1.611630341883369,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/i0dheerajdileep/job-searching-page",
+            "updatedAt": "2024-12-22T00:34:29Z"
+        },
+        {
+            "name": "Emotion-Recognition-from-Facial-Expressions",
+            "description": null,
+            "score": 1.202419506634503,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/i0dheerajdileep/Emotion-Recognition-from-Facial-Expressions",
+            "updatedAt": "2023-09-16T10:49:06Z"
+        },
+        {
+            "name": "Fictional-portfolio",
+            "description": "Mavelikkoru portfolio competition",
+            "score": 1.1140301180711925,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/i0dheerajdileep/Fictional-portfolio",
+            "updatedAt": "2022-09-12T12:48:48Z"
+        },
+        {
+            "name": "requex",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/i0dheerajdileep/requex",
+            "updatedAt": "2024-10-25T05:42:33Z"
+        },
+        {
+            "name": "helpmedecide",
+            "description": null,
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/i0dheerajdileep/helpmedecide",
+            "updatedAt": "2024-08-21T20:30:34Z"
+        }
+    ],
+    "followers": 42,
+    "following": 86,
+    "public_repos": 90,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 855,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dheerajdileep"
+        }
+    ],
+    "activity_summary": {
+        "AB7zz/chatwithnosql": {
+            "link": "https://github.com/AB7zz/chatwithnosql",
+            "summary": "Recent activities include the implementation of pdf/image to text functionality, data updates, and changes to the repository. Multiple pull requests were merged, including features such as batching, embedding, and data lake implementation, indicating significant development and collaboration efforts."
+        },
+        "i0dheerajdileep/h4t": {
+            "link": "https://github.com/i0dheerajdileep/h4t",
+            "summary": "The repository has seen recent updates with push events adding new features such as analyzing a website, initializing tailwind CSS, and version updates (v1 and v2), suggesting ongoing development and refinement of the project."
+        },
+        "tanuushree/Aether-Unfold24": {
+            "link": "https://github.com/tanuushree/Aether-Unfold24",
+            "summary": "Recent activities include the implementation of Okta authentication and a stepper form UI, indicating efforts to enhance the project's security and user interface, although the activity level appears to be relatively lower compared to the other repositories."
+        }
+    },
+    "profile_summary": "Dheeraj Dileep is a highly skilled and accomplished developer, renowned for his exceptional proficiency in JavaScript, TypeScript, and C++. With a strong background in software development, he has established himself as a trusted expert in his field, earning the respect and admiration of his peers. His impressive network of 42 followers and extensive portfolio of 90 public repositories demonstrate his dedication to collaborative innovation and open-source development. As a seasoned professional, Dheeraj brings a unique blend of technical expertise and creative problem-solving skills to the table, making him an invaluable asset to any organization.\n\nAs a highly motivated and innovative developer, Dheeraj is uniquely positioned to drive cutting-edge solutions and deliver high-quality results. His expertise in JavaScript, TypeScript, and C++ enables him to tackle complex projects with ease and precision, ensuring seamless execution and optimal performance. With his strong professional reputation and extensive experience, Dheeraj is the go-to expert for companies seeking to leverage the latest technologies and trends to drive business growth and success. As aptly described in his bio, Dheeraj is indeed \"that Indian guy every MNC needs\", bringing a distinctive blend of technical prowess, cultural diversity, and innovative thinking to the table."
+}

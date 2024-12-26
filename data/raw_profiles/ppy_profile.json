@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activity with multiple pull requests focused on improving volume control and editor functionality. Recent updates include fixing volume adjust key repeat, adding a global volume adjust binding, and restoring volume control to the editor. These changes aim to address user expectations and improve compatibility with other global actions."
+            "summary": "Recent activities in the osu repository include updates to beat snap and volume control functionality. Notable changes involve switching the scroll direction for beat snap to match stable versions and adding migration support. Additionally, pull requests have been made to address issues with volume adjust key repeat and to introduce new global volume adjust bindings. These changes aim to enhance the overall user experience and fix regressions introduced in previous updates."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has received updates to the Spanish translation of game modifier mods, with two pull requests covering 22 mods in total. These changes are part of the ongoing effort to update outdated translations according to the osu-wiki status in Spanish, and have been tested against the contribution checklist."
+            "summary": "The osu-wiki repository has seen recent activity focused on expanding system mod articles and updating mods according to the osu-wiki status in Spanish. This includes a series of pull requests designed to improve the accuracy and completeness of the wiki's content, with a particular emphasis on mods and their functionality. These updates are part of an ongoing effort to maintain and enhance the wiki's usefulness for the osu community."
         },
-        "ppy/osu-tools": {
-            "link": "https://github.com/ppy/osu-tools",
-            "summary": "The osu-tools repository has been updated with a new option to populate score parameters on the SimulateScreen using a score ID. This feature aims to enhance the simulation capabilities of the tool, and has been merged through a pull request."
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Activities in the osu-server-beatmap-submission repository have centered on implementing baseline S3 beatmap storage. This includes parallelizing S3 upload tasks to improve performance and configuring the upload process to utilize separate directories or buckets for beatmap files. These changes are aimed at enhancing the efficiency and reliability of beatmap storage and submission processes within the osu server infrastructure."
         }
     },
     "profile_summary": null

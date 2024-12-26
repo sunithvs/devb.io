@@ -1,0 +1,146 @@
+{
+    "username": "mhdyaseen8841",
+    "name": "MOHAMMED YASEEN ",
+    "bio": "Full Stack Developer | NestJS x ReactJS ",
+    "location": "kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76001378?u=5fd46cc40dfb24b6968ae9a038cd4de58516d8cd&v=4",
+    "profile_url": "https://github.com/mhdyaseen8841",
+    "top_languages": [
+        [
+            "JavaScript",
+            18
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Techio-Ecommerce-Website",
+            "description": "demo project from crossroads.brototype",
+            "score": 6.451804398022099,
+            "stars": 7,
+            "forks": 3,
+            "language": "Handlebars",
+            "url": "https://github.com/mhdyaseen8841/Techio-Ecommerce-Website",
+            "updatedAt": "2024-03-07T07:13:49Z"
+        },
+        {
+            "name": "Tool-Rental-Management-System",
+            "description": "TRMS is a web application build in React JS & Nest JS for a tools rental company for managing their data's. ",
+            "score": 5.767776374113477,
+            "stars": 6,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/mhdyaseen8841/Tool-Rental-Management-System",
+            "updatedAt": "2024-11-01T08:02:42Z"
+        },
+        {
+            "name": "cakey_launching_soon",
+            "description": "theCakey coming soon launching soon",
+            "score": 5.5255477422539565,
+            "stars": 4,
+            "forks": 3,
+            "language": "CSS",
+            "url": "https://github.com/mhdyaseen8841/cakey_launching_soon",
+            "updatedAt": "2024-03-07T12:12:16Z"
+        },
+        {
+            "name": "HStory",
+            "description": "HStory is a Doctor Consulting and Health History managing website using MERN Stack Technologies. ",
+            "score": 5.097199861080185,
+            "stars": 4,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/mhdyaseen8841/HStory",
+            "updatedAt": "2024-04-22T03:42:16Z"
+        },
+        {
+            "name": "Talk-A-Time",
+            "description": "chat application using mern stack technology and socket",
+            "score": 4.488636030703109,
+            "stars": 4,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/mhdyaseen8841/Talk-A-Time",
+            "updatedAt": "2024-03-07T07:13:23Z"
+        },
+        {
+            "name": "mhdyaseen8841",
+            "description": "Config files for my GitHub profile.",
+            "score": 4.467865559407945,
+            "stars": 4,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/mhdyaseen8841/mhdyaseen8841",
+            "updatedAt": "2024-10-23T13:05:44Z"
+        },
+        {
+            "name": "saloonManagementSystem",
+            "description": "Salon Management System Using PHP and MySQL",
+            "score": 4.117861901582339,
+            "stars": 6,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mhdyaseen8841/saloonManagementSystem",
+            "updatedAt": "2024-03-07T12:12:20Z"
+        },
+        {
+            "name": "Hexameta-Coming-Soon-Page",
+            "description": "Website launcing soon page for Hexameta Technologies",
+            "score": 3.967035694881114,
+            "stars": 3,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/mhdyaseen8841/Hexameta-Coming-Soon-Page",
+            "updatedAt": "2023-05-07T09:28:45Z"
+        }
+    ],
+    "followers": 92,
+    "following": 81,
+    "public_repos": 66,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 242,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/mohammedyaseenO"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mohammed-yaseen-08ysn/"
+        }
+    ],
+    "activity_summary": {
+        "mhdyaseen8841/Blood-Donor-backend": {
+            "link": "https://github.com/mhdyaseen8841/Blood-Donor-backend",
+            "summary": "Recent activities on this repository include multiple push events and pull requests focused on editing controllers, merging branches, and updating routes and loggers, indicating significant development and maintenance efforts."
+        },
+        "FathimathuSafna/Todo": {
+            "link": "https://github.com/FathimathuSafna/Todo",
+            "summary": "This repository has seen recent updates including changes to CRUD operations, updates to the Todo model, and the addition of JWT, showcasing active development with a focus on feature enhancements and improvements."
+        },
+        "Fleet-Queue/frontend": {
+            "link": "https://github.com/Fleet-Queue/frontend",
+            "summary": "Activities in this repository include push events with updates and changes, as well as a build update, indicating ongoing development and refinement of the frontend."
+        },
+        "asif-mohmd/Blood-Donor-backend": {
+            "link": "https://github.com/asif-mohmd/Blood-Donor-backend",
+            "summary": "Recent activities involve a series of push events with extensive updates, including controller edits, route updates, and logger modifications, merged from various branches, highlighting substantial backend development."
+        },
+        "Fleet-Queue/container_terminal_backend": {
+            "link": "https://github.com/Fleet-Queue/container_terminal_backend",
+            "summary": "This repository has experienced recent updates, including push events with changes and updates, suggesting ongoing maintenance and refinement of the container terminal backend."
+        }
+    },
+    "profile_summary": "Mohammed Yaseen is a highly skilled full stack developer with a strong proficiency in JavaScript, Go, and TypeScript, bringing a unique blend of technical expertise and innovative approach to software development. With a solid background in NestJS and ReactJS, he has established himself as a proficient expert in designing and implementing scalable, efficient, and reliable systems. As a dedicated professional, Mohammed has built a significant presence on GitHub, with 92 followers and 66 public repositories, demonstrating his active engagement in the development community and commitment to open-source collaboration.\n\nAs a seasoned full stack developer, Mohammed Yaseen delivers high-quality solutions that meet the evolving needs of modern applications, leveraging his expertise in JavaScript, Go, and TypeScript to drive technical innovation and excellence. With a keen focus on delivering exceptional results, he has developed a reputation for reliability, technical prowess, and collaboration, making him a valuable asset to any development team. By combining technical expertise with a passion for innovation, Mohammed Yaseen consistently pushes the boundaries of what is possible, driving growth, and success in the ever-changing landscape of software development."
+}

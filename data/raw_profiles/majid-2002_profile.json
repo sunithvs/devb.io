@@ -1,0 +1,146 @@
+{
+    "username": "majid-2002",
+    "name": "Majid",
+    "bio": "I write software; occasionally, it even works.",
+    "location": "Thrissur, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76196721?u=224f58008540c3b1fda942258a3566ada9e5385c&v=4",
+    "profile_url": "https://github.com/majid-2002",
+    "top_languages": [
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "Go",
+            4
+        ],
+        [
+            "C",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "postify-web",
+            "description": "A web application designed for testing RESTful HTTP requests",
+            "score": 3.3913384726133478,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/majid-2002/postify-web",
+            "updatedAt": "2023-05-10T18:29:47Z"
+        },
+        {
+            "name": "cd",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/majid-2002/cd",
+            "updatedAt": "2024-11-13T04:51:41Z"
+        },
+        {
+            "name": "wp-personal-web",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/majid-2002/wp-personal-web",
+            "updatedAt": "2024-10-16T19:58:57Z"
+        },
+        {
+            "name": "Proxy24",
+            "description": null,
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/majid-2002/Proxy24",
+            "updatedAt": "2024-09-28T15:22:45Z"
+        },
+        {
+            "name": "demo-website",
+            "description": null,
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/majid-2002/demo-website",
+            "updatedAt": "2024-05-06T15:35:51Z"
+        },
+        {
+            "name": "RoaDo-task2",
+            "description": null,
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/majid-2002/RoaDo-task2",
+            "updatedAt": "2024-05-03T08:46:09Z"
+        },
+        {
+            "name": "Hostel_Mangement_app",
+            "description": null,
+            "score": 0.27410924814389975,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/majid-2002/Hostel_Mangement_app",
+            "updatedAt": "2024-05-02T17:06:06Z"
+        },
+        {
+            "name": "RoaDo-task1",
+            "description": null,
+            "score": 0.27410924814389975,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/majid-2002/RoaDo-task1",
+            "updatedAt": "2024-05-03T06:01:23Z"
+        }
+    ],
+    "followers": 27,
+    "following": 44,
+    "public_repos": 85,
+    "pull_requests_merged": 14,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 1077,
+        "repositories_contributed_to": 11
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/0x_majid127x"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/majid.127x/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/majid-127x/"
+        }
+    ],
+    "activity_summary": {
+        "cd": {
+            "link": "https://github.com/majid-2002/cd",
+            "summary": "The cd repository has seen significant activities recently, including the addition of a target, updates to file names, and general code updates. These modifications span from October 25, 2024, to November 13, 2024, indicating ongoing development and refinement of the project."
+        },
+        "Proxy24": {
+            "link": "https://github.com/majid-2002/Proxy24",
+            "summary": "The Proxy24 repository has undergone fixes related to user interface adjustments, including margin correction for text and resolution of text alignment issues, both occurring on September 28, 2024. These updates suggest a focus on improving the visual and usability aspects of the project."
+        },
+        "majid-2002": {
+            "link": "https://github.com/majid-2002/majid-2002",
+            "summary": "The majid-2002 repository had a recent update to its README.md file on December 23, 2024, which could indicate project documentation or profile maintenance activities, ensuring the repository's information is current and accurate."
+        },
+        "wp-personal-web": {
+            "link": "https://github.com/majid-2002/wp-personal-web",
+            "summary": "The wp-personal-web repository experienced an update on October 16, 2024, specifically to the title, suggesting a minor adjustment to the project's metadata or presentation, possibly reflecting changes in the project's focus or branding."
+        }
+    },
+    "profile_summary": "Majid is a highly skilled software developer with a strong proficiency in programming languages such as TypeScript, Go, and C. With a proven track record of delivering high-quality solutions, Majid has established himself as a reliable and innovative professional in the industry. His extensive experience and expertise in software development have earned him a significant following of 27 peers, who value his insight and contributions to the field. As a seasoned developer, Majid has honed his skills in designing, developing, and deploying scalable and efficient software systems, making him a valuable asset to any project or organization.\n\nAs a prolific developer with 85 public repositories, Majid has consistently demonstrated his ability to craft software that meets the highest standards of quality and functionality. With a passion for writing software that \"occasionally even works,\" Majid brings a unique blend of technical expertise and humor to his work. His commitment to staying up-to-date with the latest industry trends and technologies has enabled him to deliver cutting-edge solutions that drive results. Whether working on complex software development projects or collaborating with peers, Majid's technical prowess, attention to detail, and dedication to excellence make him a highly sought-after professional in the software development community."
+}

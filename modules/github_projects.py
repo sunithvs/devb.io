@@ -4,252 +4,285 @@ from datetime import datetime
 import numpy as np
 import requests
 
+from config.settings import Settings
 
 class GitHubProjectRanker:
-	def __init__(self, github_token=None):
-		"""
-		Initialize the GitHub Project Ranker
+    def __init__(self):
+        """
+        Initialize the GitHub Project Ranker
 
-		:param github_token: GitHub Personal Access Token for increased API rate limits
-		"""
-		self.headers = {
-			'Accept': 'application/vnd.github.v3+json'
-		}
-		if github_token:
-			self.headers['Authorization'] = f'token {github_token}'
+        """
+        github_token = Settings.get_github_token()
+        self.headers = {
+            'Accept': 'application/vnd.github.v3+json'
+        }
+        if github_token:
+            self.headers['Authorization'] = f'token {github_token}'
 
-	def fetch_user_repos(self, username):
-		"""
-		Fetch all repositories for a given user
+    def fetch_user_repos(self, username):
+        """
+        Fetch all repositories for a given user
 
-		:param username: GitHub username
-		:return: List of repository dictionaries
-		"""
-		url = f'https://api.github.com/users/{username}/repos'
-		repos = []
-		page = 1
+        :param username: GitHub username
+        :return: List of repository dictionaries
+        """
+        url = f'https://api.github.com/users/{username}/repos'
+        repos = []
+        page = 1
 
-		while True:
-			params = {'page': page, 'per_page': 100}
-			response = requests.get(url, headers=self.headers, params=params)
+        while True:
+            params = {'page': page, 'per_page': 100}
+            response = requests.get(url, headers=self.headers, params=params)
 
-			if response.status_code != 200:
-				print(f"Error fetching repositories: {response.status_code}")
-				break
+            if response.status_code != 200:
+                print(f"Error fetching repositories: {response.status_code}")
+                break
 
-			page_repos = response.json()
-			if not page_repos:
-				break
+            page_repos = response.json()
+            if not page_repos:
+                break
 
-			repos.extend(page_repos)
-			page += 1
+            repos.extend(page_repos)
+            page += 1
 
-		return repos
+        return repos
 
-	def fetch_repo_details(self, owner, repo_name):
-		"""
-		Fetch detailed information for a specific repository
+    def fetch_pinned_repos(self, username):
+        """
+        Fetch pinned repositories for a user using the GraphQL API
 
-		:param owner: Repository owner
-		:param repo_name: Repository name
-		:return: Dictionary with repository details
-		"""
-		url = f'https://api.github.com/repos/{owner}/{repo_name}'
-		response = requests.get(url, headers=self.headers)
+        :param username: GitHub username
+        :return: List of pinned repository names
+        """
+        url = 'https://api.github.com/graphql'
+        query = """
+        query($username: String!) {
+          user(login: $username) {
+            pinnedItems(first: 6, types: REPOSITORY) {
+              nodes {
+                ... on Repository {
+                  name
+                }
+              }
+            }
+          }
+        }
+        """
 
-		if response.status_code != 200:
-			print(f"Error fetching repo details for {repo_name}: {response.status_code}")
-			return None
+        variables = {'username': username}
 
-		return response.json()
+        response = requests.post(
+            url,
+            headers=self.headers,
+            json={'query': query, 'variables': variables}
+        )
 
-	def calculate_project_score(self, repo):
-		"""
-		Calculate a comprehensive score for a repository
+        if response.status_code != 200:
+            print(f"Error fetching pinned repos: {response.status_code}")
+            return []
 
-		:param repo: Repository dictionary
-		:return: Numerical score
-		"""
-		# Base metrics
-		stars = repo.get('stargazers_count', 0)
-		forks = repo.get('forks_count', 0)
+        data = response.json()
+        try:
+            pinned_items = data['data']['user']['pinnedItems']['nodes']
+            return [item['name'] for item in pinned_items]
+        except (KeyError, TypeError):
+            return []
 
-		# Recency calculation
-		created_at = datetime.strptime(repo.get('created_at', ''), "%Y-%m-%dT%H:%M:%SZ")
-		updated_at = datetime.strptime(repo.get('updated_at', ''), "%Y-%m-%dT%H:%M:%SZ")
-		days_since_creation = (datetime.now() - created_at).days
-		days_since_update = (datetime.now() - updated_at).days
+    def calculate_project_score(self, repo, pinned_repos):
+        """
+        Calculate a comprehensive score for a repository
 
-		# Weighting factors (can be adjusted)
-		star_weight = 2.0
-		fork_weight = 1.5
-		recency_weight = 1.0
+        :param repo: Repository dictionary
+        :param pinned_repos: List of pinned repository names
+        :return: Numerical score
+        """
+        # Base metrics
+        stars = repo.get('stargazers_count', 0)
+        forks = repo.get('forks_count', 0)
 
-		# Normalized scoring
-		star_score = np.log1p(stars) * star_weight
-		fork_score = np.log1p(forks) * fork_weight
+        # Recency calculation
+        created_at = datetime.strptime(repo.get('created_at', ''), "%Y-%m-%dT%H:%M:%SZ")
+        updated_at = datetime.strptime(repo.get('updated_at', ''), "%Y-%m-%dT%H:%M:%SZ")
+        days_since_creation = (datetime.now() - created_at).days
+        days_since_update = (datetime.now() - updated_at).days
 
-		# Recency bonus/penalty
-		# Prefer repos updated in last 2 years, with bonus for recent updates
-		if days_since_update <= 365:
-			recency_bonus = 1.5
-		elif days_since_update <= 730:
-			recency_bonus = 1.0
-		else:
-			recency_bonus = 0.5
+        # Weighting factors
+        star_weight = 2.0
+        fork_weight = 1.5
+        recency_weight = 1.0
+        pinned_weight = 10
 
-		# Total score calculation
-		total_score = (
-				star_score +
-				fork_score +
-				recency_weight * recency_bonus * (1 / np.log1p(days_since_creation))
-		)
+        # Normalized scoring
+        star_score = np.log1p(stars) * star_weight
+        fork_score = np.log1p(forks) * fork_weight
 
-		return total_score
+        # Recency bonus/penalty
+        if days_since_update <= 365:
+            recency_bonus = 1.5
+        elif days_since_update <= 730:
+            recency_bonus = 1.0
+        else:
+            recency_bonus = 0.5
 
-	def get_featured(self, username, top_n=8):
-		"""
-		Get top featured projects for a user
+        # Pinned repository bonus
+        pinned_bonus = pinned_weight if repo['name'] in pinned_repos else 0
 
-		:param username: GitHub username
-		:param top_n: Number of top projects to return
-		:return: List of top projects with details
-		"""
-		# Fetch repositories
-		repos = self.fetch_user_repos(username)
+        # Total score calculation
+        total_score = (
+                star_score +
+                fork_score +
+                recency_weight * recency_bonus * (1 / np.log1p(days_since_creation)) +
+                pinned_bonus
+        )
 
-		top_languages = self.get_top_languages(repos)
-		# Calculate scores
-		scored_repos = []
-		for repo in repos:
-			# Skip forks and archived repositories
-			if repo.get('fork') or repo.get('archived'):
-				continue
+        return total_score
 
-			score = self.calculate_project_score(repo)
-			scored_repos.append({
-				'name': repo['name'],
-				'description': repo.get('description', 'No description'),
-				'score': score,
-				'stars': repo.get('stargazers_count', 0),
-				'forks': repo.get('forks_count', 0),
-				'language': repo.get('language', 'Unknown'),
-				'url': repo.get('html_url', ''),
-				"updatedAt": repo.get('updated_at', '')
-			})
+    def get_featured(self, username, top_n=8):
+        """
+        Get top featured projects for a user
 
-		# Sort and select top projects
-		featured_projects = sorted(
-			scored_repos,
-			key=lambda x: x['score'],
-			reverse=True
-		)[:top_n]
+        :param username: GitHub username
+        :param top_n: Number of top projects to return
+        :return: List of top projects with details
+        """
+        # Fetch repositories and pinned repos
+        repos = self.fetch_user_repos(username)
+        pinned_repos = self.fetch_pinned_repos(username)
+        print(pinned_repos)
+        top_languages = self.get_top_languages(repos)
 
-		return {
-			"top_projects": featured_projects,
-			"top_languages": top_languages
-		}
+        # Calculate scores
+        scored_repos = []
+        for repo in repos:
+            # Skip forks and archived repositories
+            if repo.get('fork') or repo.get('archived'):
+                continue
 
-	def get_top_languages(self, repos, top_n=3):
-		"""
-		Get top languages ranked by usage frequency and complexity across repositories
+            score = self.calculate_project_score(repo, pinned_repos)
+            scored_repos.append({
+                'name': repo['name'],
+                'description': repo.get('description', 'No description'),
+                'score': score,
+                'stars': repo.get('stargazers_count', 0),
+                'forks': repo.get('forks_count', 0),
+                'language': repo.get('language', 'Unknown'),
+                'url': repo.get('html_url', ''),
+                'updatedAt': repo.get('updated_at', ''),
+                'isPinned': repo['name'] in pinned_repos,
+                'homepage': repo.get('homepage', '')
+            })
 
-		:param repos: List of repository dictionaries
-		:param top_n: Number of top languages to return
-		:return: List of [language, count] pairs
-		"""
-		# Language Complexity and Rarity Scoring Dictionary
-		LANGUAGE_COMPLEXITY = {
-			# Systems Programming Languages
-			'Rust': 9.5,
-			'C': 8.5,
-			'C++': 8.0,
+        # Sort and select top projects
+        featured_projects = sorted(
+            scored_repos,
+            key=lambda x: x['score'],
+            reverse=True
+        )[:top_n]
 
-			# Advanced High-Level Languages
-			'Haskell': 9.0,
-			'Scala': 8.5,
-			'Go': 8.0,
+        return {
+            "top_projects": featured_projects,
+            "top_languages": top_languages
+        }
 
-			# Data Science and Scientific Computing
-			'Julia': 8.5,
-			'R': 7.5,
+    def get_top_languages(self, repos, top_n=3):
+        """
+        Get top languages ranked by usage frequency and complexity across repositories
 
-			# Web and Modern Languages
-			'TypeScript': 7.5,
-			'Kotlin': 7.5,
-			'Swift': 7.0,
+        :param repos: List of repository dictionaries
+        :param top_n: Number of top languages to return
+        :return: List of [language, count] pairs
+        """
+        # Language Complexity and Rarity Scoring Dictionary
+        LANGUAGE_COMPLEXITY = {
+            # Systems Programming Languages
+            'Rust': 9.5,
+            'C': 8.5,
+            'C++': 8.0,
 
-			# Scripting and Dynamic Languages
-			'Python': 6.5,
-			'Ruby': 6.0,
-			'JavaScript': 5.5,
+            # Advanced High-Level Languages
+            'Haskell': 9.0,
+            'Scala': 8.5,
+            'Go': 8.0,
 
-			# Less Common Languages
-			'Erlang': 9.0,
-			'Clojure': 8.5,
-			'Elixir': 8.0,
+            # Data Science and Scientific Computing
+            'Julia': 8.5,
+            'R': 7.5,
 
-			# Niche Languages
-			'Elm': 7.5,
-			'Crystal': 7.0,
-			'Nim': 7.0,
+            # Web and Modern Languages
+            'TypeScript': 7.5,
+            'Kotlin': 7.5,
+            'Swift': 7.0,
 
-			# Default for unknown or very common languages
-			'Unknown': 3.0,
-			'HTML': 3.0,
-			'CSS': 3.0,
-			'Shell': 4.0
-		}
+            # Scripting and Dynamic Languages
+            'Python': 6.5,
+            'Ruby': 6.0,
+            'JavaScript': 5.5,
 
-		# Count languages
-		language_counter = Counter()
-		for repo in repos:
-			# Skip forks and archived repositories
-			if repo.get('fork') or repo.get('archived'):
-				continue
+            # Less Common Languages
+            'Erlang': 9.0,
+            'Clojure': 8.5,
+            'Elixir': 8.0,
 
-			# Replace None with 'Unknown' and handle empty strings
-			language = repo.get('language')
-			if not language:  # This handles both None and empty string
-				language = 'Unknown'
+            # Niche Languages
+            'Elm': 7.5,
+            'Crystal': 7.0,
+            'Nim': 7.0,
 
-			language_counter[language] += 1
+            # Default for unknown or very common languages
+            'Unknown': 3.0,
+            'HTML': 3.0,
+            'CSS': 3.0,
+            'Shell': 4.0
+        }
 
-		# Calculate total repositories and language distribution
-		total_repos = sum(language_counter.values())
+        # Count languages
+        language_counter = Counter()
+        for repo in repos:
+            # Skip forks and archived repositories
+            if repo.get('fork') or repo.get('archived'):
+                continue
 
-		# Guard against empty repository list
-		if total_repos == 0:
-			return []
+            # Replace None with 'Unknown' and handle empty strings
+            language = repo.get('language')
+            if not language:  # This handles both None and empty string
+                language = 'Unknown'
 
-		# Scoring languages based on complexity and usage
-		scored_languages = []
-		for language, count in language_counter.items():
-			# Base complexity score
-			complexity_score = LANGUAGE_COMPLEXITY.get(language, 5.0)
+            language_counter[language] += 1
 
-			# Usage factor: More frequently used languages get higher scores
-			# Using square root to moderate the impact of frequency
-			usage_factor = np.sqrt(count / total_repos) * 10
+        # Calculate total repositories and language distribution
+        total_repos = sum(language_counter.values())
 
-			# Combine metrics with higher weight on usage
-			total_score = (
-					complexity_score * 0.6 +  # Reduced complexity weight
-					usage_factor * 0.4  # Increased usage weight
-			)
-			if language != 'Unknown':
-				scored_languages.append({
-					'language': language,
-					'count': count,
-					'total_score': total_score
-				})
+        # Guard against empty repository list
+        if total_repos == 0:
+            return []
 
-		# Sort by total score in descending order
-		ranked_languages = sorted(
-			scored_languages,
-			key=lambda x: x['total_score'],
-			reverse=True
-		)[:top_n]
+        # Scoring languages based on complexity and usage
+        scored_languages = []
+        for language, count in language_counter.items():
+            # Base complexity score
+            complexity_score = LANGUAGE_COMPLEXITY.get(language, 5.0)
 
-		# Return list of [language, count] pairs
-		return [[lang['language'], lang['count']] for lang in ranked_languages]
+            # Usage factor: More frequently used languages get higher scores
+            usage_factor = np.sqrt(count / total_repos) * 10
+
+            # Combine metrics with higher weight on usage
+            total_score = (
+                    complexity_score * 0.6 +  # Reduced complexity weight
+                    usage_factor * 0.4  # Increased usage weight
+            )
+            if language != 'Unknown':
+                scored_languages.append({
+                    'language': language,
+                    'count': count,
+                    'total_score': total_score
+                })
+
+        # Sort by total score in descending order
+        ranked_languages = sorted(
+            scored_languages,
+            key=lambda x: x['total_score'],
+            reverse=True
+        )[:top_n]
+
+        # Return list of [language, count] pairs
+        return [[lang['language'], lang['count']] for lang in ranked_languages]

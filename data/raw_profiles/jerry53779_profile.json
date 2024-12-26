@@ -1,0 +1,75 @@
+{
+    "username": "jerry53779",
+    "name": "Jerry ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/164014557?u=e5078e16ac5f41cf3172e57ffe8aec9fef1863da&v=4",
+    "profile_url": "https://github.com/jerry53779",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Face-Detection-and-Recognition-OpenCV-",
+            "description": null,
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jerry53779/Face-Detection-and-Recognition-OpenCV-",
+            "updatedAt": "2024-11-21T15:02:45Z"
+        },
+        {
+            "name": "HR-Management-System-App",
+            "description": "It's a flutter app for managing Staffs in a Company",
+            "score": 0.2901082377277394,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/jerry53779/HR-Management-System-App",
+            "updatedAt": "2024-07-03T09:58:15Z"
+        },
+        {
+            "name": "Student-Management",
+            "description": null,
+            "score": 0.2758326818696246,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jerry53779/Student-Management",
+            "updatedAt": "2024-06-10T18:34:26Z"
+        },
+        {
+            "name": "HelloWorldBootcamp",
+            "description": null,
+            "score": 0.2753942218332271,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/jerry53779/HelloWorldBootcamp",
+            "updatedAt": "2024-05-08T10:27:17Z"
+        }
+    ],
+    "followers": 2,
+    "following": 5,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 15,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Jerry is a highly skilled developer with a strong foundation in programming languages such as C, Python, and Dart. With a growing professional network of followers and a portfolio of eight public repositories, Jerry demonstrates a commitment to active development and community engagement. As a proficient programmer, Jerry brings a unique combination of technical expertise and innovative problem-solving skills to the table, making him a valuable asset to any development team. With a focus on delivering high-quality solutions, Jerry has established himself as a reliable and results-driven professional in the field of software development.\n\nWith a keen eye for detail and a passion for staying up-to-date with the latest industry trends, Jerry is well-versed in a range of technologies and frameworks. His expertise in languages such as C, Python, and Dart enables him to tackle complex projects with ease, and his dedication to best practices ensures that his code is always efficient, scalable, and well-maintained. As a skilled developer with a strong online presence, Jerry is an attractive candidate for collaborations, projects, and employment opportunities, and his professional reputation continues to grow as he contributes to the open-source community and shares his knowledge with others."
+}

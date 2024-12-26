@@ -1,0 +1,121 @@
+{
+    "username": "sajithlaldev",
+    "name": "Sajith Lal",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/28499651?u=60b10cd561cc2f0498fedbb120bb21f5f817527f&v=4",
+    "profile_url": "https://github.com/sajithlaldev",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "whatsapp-node-api",
+            "description": null,
+            "score": 1.5519812265638095,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sajithlaldev/whatsapp-node-api",
+            "updatedAt": "2023-11-05T13:04:29Z"
+        },
+        {
+            "name": "Admin-Dashbord-Demo",
+            "description": null,
+            "score": 1.5302817833611788,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sajithlaldev/Admin-Dashbord-Demo",
+            "updatedAt": "2023-01-29T09:49:18Z"
+        },
+        {
+            "name": "Fluttergram-Instagram-Clone",
+            "description": "An updated version of instagram clone developed by Rivaan Ranawat ()",
+            "score": 1.4611210408585023,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/sajithlaldev/Fluttergram-Instagram-Clone",
+            "updatedAt": "2022-10-25T16:00:23Z"
+        },
+        {
+            "name": "FoodHubClone_Live",
+            "description": null,
+            "score": 1.4586872599593996,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sajithlaldev/FoodHubClone_Live",
+            "updatedAt": "2022-05-29T17:04:11Z"
+        },
+        {
+            "name": "sajithlal.com",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sajithlaldev/sajithlal.com",
+            "updatedAt": "2024-12-10T16:46:40Z"
+        },
+        {
+            "name": "RealEstate",
+            "description": null,
+            "score": 0.16491349307150527,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sajithlaldev/RealEstate",
+            "updatedAt": "2023-10-23T15:39:41Z"
+        },
+        {
+            "name": "WASAVER_VERSION",
+            "description": null,
+            "score": 0.1600997289265679,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sajithlaldev/WASAVER_VERSION",
+            "updatedAt": "2023-07-29T17:39:35Z"
+        },
+        {
+            "name": "Food_Image_Recognition_Models",
+            "description": null,
+            "score": 0.15780771673818506,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sajithlaldev/Food_Image_Recognition_Models",
+            "updatedAt": "2023-06-10T12:34:33Z"
+        }
+    ],
+    "followers": 7,
+    "following": 15,
+    "public_repos": 30,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 127,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "sajithlaldev/sajithlal.com": {
+            "link": "https://github.com/sajithlaldev/sajithlal.com",
+            "summary": "Recent activities in sajithlaldev/sajithlal.com repository include a push event on December 10, 2024, where the parallax effect was increased, enhancing the overall user experience of the website."
+        }
+    },
+    "profile_summary": "Sajith Lal is a highly skilled and accomplished developer with a strong foundation in programming languages, including TypeScript, C++, and JavaScript. With a growing professional network of followers and an impressive portfolio of 30 public repositories, he has established himself as a talented and dedicated professional in the field of software development. His technical expertise and innovative approach to problem-solving have earned him recognition and respect within the development community, making him a valuable asset to any project or organization.\n\nAs a seasoned developer, Sajith Lal brings a unique combination of technical expertise and collaborative spirit to the table, driving innovative solutions and delivering high-quality results. With a focus on reliability, efficiency, and scalability, he crafts cutting-edge software applications that meet the evolving needs of users and organizations. By leveraging his expertise in TypeScript, C++, and JavaScript, he staying up-to-date with the latest industry trends and best practices, ensuring that his work remains at the forefront of the field, and his professional network and influence continue to grow, positioning him as a leading developer in his field."
+}

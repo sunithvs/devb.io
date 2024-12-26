@@ -1,0 +1,10 @@
+{
+    "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
+    "activity_summary": {
+        "facebook/docusaurus": {
+            "link": "https://github.com/facebook/docusaurus",
+            "summary": "Recent activities in the docusaurus repository include a pull request to update the users.tsx file with a new table format for displaying invoice data, featuring sorting and filtering capabilities, and improved readability."
+        }
+    },
+    "profile_summary": null
+}

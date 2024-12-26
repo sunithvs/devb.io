@@ -1,25 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/pyre-check": {
-            "link": "https://github.com/facebook/pyre-check",
-            "summary": "Recent activities include several push events, focusing on deploying to gh-pages, implementing unary operations, and expanding the result of callable_infer, indicating ongoing development and improvement of the pyre-check repository."
-        },
-        "facebook/rocksdb": {
-            "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities involve pull requests and push events aimed at fixing assertion failures in the error handler, detecting and handling WAL holes, and enhancing the tracking and verification of WAL data, showing efforts to stabilize and enhance the performance of the rocksdb repository."
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "Recent activities in the facebook/fbthrift repository include multiple push events with reverts and fixes for build failures, indicating efforts to stabilize and resolve issues within the codebase. The reverts include changes related to adding support for literals and modifying the parser to accept format strings, suggesting a focus on refining the repository's functionality and robustness."
         },
         "facebook/hhvm": {
             "link": "https://github.com/facebook/hhvm",
-            "summary": "Recent activities include push events that remove implicit disabling of schema constants for file-relative includes, change the render engine to return shared pointers, and add support for literals, indicating ongoing maintenance and feature development in the hhvm repository."
-        },
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activities involve push events that mirror changes seen in hhvm, including removing implicit disabling of schema constants and changing the render engine, suggesting synchronization or shared development practices between these repositories."
-        },
-        "facebook/fresco": {
-            "link": "https://github.com/facebook/fresco",
-            "summary": "Recent activities include push events related to updates in animated-gif-lite and animated-webp sources, indicating continued maintenance and development within the fresco project."
+            "summary": "The facebook/hhvm repository has seen recent activities centered around addressing build failures, with push events containing reverts and fixes. These actions imply a concentrated effort to rectify issues and enhance the repository's stability, including reverts of commits related to adding support for literals and adjusting the parser, indicating a proactive approach to maintaining and improving the codebase."
         }
     },
     "profile_summary": null

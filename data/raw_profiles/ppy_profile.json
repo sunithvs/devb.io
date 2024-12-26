@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include updates to the Midnight Moment Art Contest news post, specifically the entry count, as well as various translation and article updates, such as the expansion of Difficulty Reduction mod articles and the retranslation of Help centre/Account restrictions."
+            "summary": "The repository has seen recent activities including updates to the Midnight Moment Art Contest news post, improvements to the Medals and Unlock Requirements sections, and expansions to the Difficulty Reduction mod articles. These updates demonstrate a commitment to maintaining and improving the osu! wiki, ensuring it remains a valuable resource for the community. Multiple pull requests have been submitted, focusing on translations, content updates, and enhancements, highlighting the collaborative effort to refine the wiki's content."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities focus on improvements to the osu!taiko game mode, including the addition of pooling for HitRim and HitCentre classes, and enhancements to the beatmap editing flow with the introduction of an audio tab for easier sample and volume management."
+            "summary": "The osu! repository has experienced significant activity with a focus on implementing pooling for taiko hit objects and improving the beatmap editing flow. A notable pull request aims to address issues with taiko pooling, including the creation of separate HitCentre and HitRim classes, while another proposal seeks to enhance the editing experience by introducing an audio tab for easier management of samples, banks, and volumes. These developments underscore the ongoing efforts to refine and expand osu!'s functionality and user experience."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "Recent activities include a pull request to preserve upstream Cache-Control headers, ensuring better caching and performance in the proxy server."
+            "summary": "A recent pull request in the s3-nginx-proxy repository aims to preserve upstream Cache-Control headers, ensuring that caching behavior is properly maintained. This change reflects a focus on optimizing the performance and reliability of the proxy server, which is crucial for efficient data transfer and user experience. By addressing caching, the repository contributors are working towards a more robust and scalable solution."
         }
     },
     "profile_summary": null

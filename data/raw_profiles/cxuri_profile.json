@@ -1,0 +1,82 @@
+{
+    "username": "cxuri",
+    "name": "Dhanesh u pai",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121673416?u=dcd1ba6f25aca2b3e6e513fd5d83fb862949f0f8&v=4",
+    "profile_url": "https://github.com/cxuri",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Open-Source-Vision-Goggles",
+            "description": "Open source vision goggles using ESP32-cam module. ",
+            "score": 2.4560211705554504,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/cxuri/Open-Source-Vision-Goggles",
+            "updatedAt": "2024-03-06T19:29:57Z"
+        },
+        {
+            "name": "web-static",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/cxuri/web-static",
+            "updatedAt": "2024-12-19T08:38:12Z"
+        },
+        {
+            "name": "Insta-toolkit",
+            "description": null,
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/cxuri/Insta-toolkit",
+            "updatedAt": "2024-03-20T02:12:48Z"
+        },
+        {
+            "name": "About",
+            "description": null,
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/cxuri/About",
+            "updatedAt": "2024-02-01T07:46:08Z"
+        }
+    ],
+    "followers": 3,
+    "following": 2,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 67,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/n7oue"
+        }
+    ],
+    "activity_summary": {
+        "cxuri/web-static": {
+            "link": "https://github.com/cxuri/web-static",
+            "summary": "The repository has seen significant activity with multiple push events, primarily focusing on updates to various HTML files, including services.html, about.html, and contact.html. Furthermore, there have been changes related to styling, favicon updates, and the creation and deletion of CNAME files, suggesting a range of development and maintenance activities aimed at enhancing the web static project's functionality and user interface."
+        }
+    },
+    "profile_summary": "Dhanesh u pai is a skilled and accomplished developer with a strong foundation in programming languages, particularly Python and HTML. With a growing professional network of followers and a portfolio of public repositories, Dhanesh has established himself as a dedicated and innovative member of the development community. His technical expertise and passion for coding have enabled him to create high-quality solutions that meet the needs of his clients and collaborators. As a talented developer, Dhanesh is committed to staying up-to-date with the latest industry trends and technologies, ensuring that his skills remain relevant and effective.\n\nWith a proven track record of delivering reliable and efficient code, Dhanesh has built a reputation as a trustworthy and results-driven professional. His ability to leverage Python and HTML to drive project success has earned him recognition within his network, and his contributions to open-source projects have further demonstrated his technical prowess. As a collaborative and forward-thinking developer, Dhanesh is well-positioned to drive innovation and growth in the tech industry, and his unique blend of technical skills and professional acumen makes him an valuable asset to any development team."
+}

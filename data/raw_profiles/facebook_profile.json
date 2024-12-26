@@ -3,7 +3,11 @@
     "activity_summary": {
         "facebook/docusaurus": {
             "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities in the facebook/docusaurus repository involve a pull request that refactors the core functionality to utilize the native Intl API for determining locale direction, effectively removing the dependency on rtl-detect. This enhancement, proposed to improve performance and simplify dependencies, is currently undergoing review and has been designed to be compatible with Node versions 18 and above."
+            "summary": "Recent activities in the facebook/docusaurus repository include multiple push events and pull requests focused on improving the Algolia integration, specifically around placeholder and translation forwards to DocSearch components. The changes aim to enhance the convenience of providing labels through themeConfig.algolia for non-localized sites, addressing an existing issue. Additionally, there were deployments and removal of dogfood tests, indicating active development and testing."
+        },
+        "facebook/pyre-check": {
+            "link": "https://github.com/facebook/pyre-check",
+            "summary": "The facebook/pyre-check repository saw recent activities including push events that deployed updates to gh-pages, improved error messages for anonymous keywords to TypeVar, and enhanced the modeling of control flow for try/except blocks, adopting a behavior different from pyre's existing one. These changes suggest ongoing efforts to refine and expand the tool's capabilities and user experience."
         }
     },
     "profile_summary": null

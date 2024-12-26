@@ -1,13 +1,21 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "limbo": {
-            "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities on the limbo repository have been focused on pushing updates, primarily related to 'no allocation for serial types', with multiple commits made on December 26, 2024, indicating ongoing development and refinement of the repository's content."
-        },
-        "turso-client-php": {
+        "tursodatabase/turso-client-php": {
             "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "The turso-client-php repository has seen significant activity with a feature addition of TS and NTS build support, including updates to version scripts, ignore files, and matrix parameters. Pull requests have been submitted and updated, with a focus on adding new functionality and enhancing the build process, all occurring on December 26, 2024, showcasing an active development phase."
+            "summary": "The repository has seen recent activities including the addition of ts and nts build support, introduction of a version script, and an updated version. A pull request was also merged which added NTS and TS support with CI related changes, resolving issue #6. The changes do not introduce a breaking change."
+        },
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities include push events focusing on no allocation for serial types, indicating efforts to optimize memory usage within the repository's codebase."
+        },
+        "tursodatabase/libsql-php": {
+            "link": "https://github.com/tursodatabase/libsql-php",
+            "summary": "A recent push event refactored and fixed code by moving ffi checks and adding defaults to PDO options, showcasing ongoing development and refinement of the repository."
+        },
+        "tursodatabase/turso-cli": {
+            "link": "https://github.com/tursodatabase/turso-cli",
+            "summary": "A pull request was submitted to update the usage of endpoints for query statistics, shifting from the obsolete /stats endpoint to the modern /usage/queries endpoint, enhancing the tool's functionality and compatibility, especially for databases in AWS."
         }
     },
     "profile_summary": null

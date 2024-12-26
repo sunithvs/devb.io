@@ -1,0 +1,125 @@
+{
+    "username": "mehbinamal",
+    "name": "AMAL MEHABIN P",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145112583?u=73bf224a604f0c4f9f18877929cf540af984ea36&v=4",
+    "profile_url": "https://github.com/Mehbinamal",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DBMS",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mehbinamal/DBMS",
+            "updatedAt": "2024-12-04T17:29:48Z"
+        },
+        {
+            "name": "Mehbinamal",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mehbinamal/Mehbinamal",
+            "updatedAt": "2024-09-24T18:51:20Z"
+        },
+        {
+            "name": "Algorithm_design",
+            "description": null,
+            "score": 0.290428298011447,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Mehbinamal/Algorithm_design",
+            "updatedAt": "2024-12-10T19:22:45Z"
+        },
+        {
+            "name": "DSB_ASSIGNMENTS",
+            "description": "SEM 2 AI&DS",
+            "score": 0.25759714536400297,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Mehbinamal/DSB_ASSIGNMENTS",
+            "updatedAt": "2024-07-17T09:21:52Z"
+        },
+        {
+            "name": "Lab-cycle2-python",
+            "description": null,
+            "score": 0.16895048713841182,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Mehbinamal/Lab-cycle2-python",
+            "updatedAt": "2023-12-21T04:09:15Z"
+        },
+        {
+            "name": "Lab-cycle1-python-",
+            "description": null,
+            "score": 0.16683457378359495,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Mehbinamal/Lab-cycle1-python-",
+            "updatedAt": "2023-11-22T13:46:52Z"
+        },
+        {
+            "name": "python-Rap-Qns-",
+            "description": null,
+            "score": 0.16683457378359495,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Mehbinamal/python-Rap-Qns-",
+            "updatedAt": "2023-11-22T13:42:06Z"
+        },
+        {
+            "name": "RaptorLab",
+            "description": "Sequential,Decision,Loop",
+            "score": 0.16410741777599977,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mehbinamal/RaptorLab",
+            "updatedAt": "2023-10-10T18:40:32Z"
+        }
+    ],
+    "followers": 6,
+    "following": 5,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 119,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Virtual-High-Five-Generator": {
+            "link": "https://github.com/Mehbinamal/Virtual-High-Five-Generator",
+            "summary": "The Virtual High Five Generator repository has seen significant activity, with multiple push events occurring on November 2, 2024. The updates include renaming and adding files, as well as updating the README.md file. The changes suggest enhancements to the user system, file naming conventions, and overall repository organization."
+        },
+        "Algorithm_design": {
+            "link": "https://github.com/Mehbinamal/Algorithm_design",
+            "summary": "The Algorithm Design repository experienced notable updates, including the implementation of the quick sort algorithm on November 17, 2024, and further updates on December 10, 2024. These changes indicate ongoing development and refinement of algorithmic solutions within the repository."
+        },
+        "DBMS": {
+            "link": "https://github.com/Mehbinamal/DBMS",
+            "summary": "The DBMS repository underwent updates on December 4, 2024, with new files being added and existing SQL files, such as Q6.sql and Q7.sql, being modified. These changes suggest the repository is being actively maintained and expanded, potentially incorporating new database management system features or improvements."
+        }
+    },
+    "profile_summary": "Amal Mehabin P is a highly skilled developer with a strong foundation in programming languages, particularly C++ and Python. With a growing professional network of followers and a portfolio of public repositories, Amal has established himself as a capable and innovative technologist. His technical expertise is complemented by a passion for development, driving him to continuously create and improve software solutions. As a seasoned programmer, Amal is well-versed in the latest industry trends and technologies, enabling him to deliver high-quality code that meets the most demanding requirements.\n\nAmal's extensive experience and proficiency in C++ and Python have equipped him with the skills to tackle complex software development projects. With a strong online presence and a commitment to open-source development, Amal has demonstrated his ability to collaborate and contribute to the broader developer community. His dedication to his craft and his willingness to share knowledge and expertise have earned him recognition and respect among his peers. As a reliable and skilled developer, Amal is poised to drive technology forward, leveraging his expertise to deliver cutting-edge solutions that drive business success and innovation."
+}

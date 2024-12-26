@@ -3,11 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities on the tursodatabase/limbo repository include three pull request events. The first event, simulator: allow failure assertions, adds creating the same table twice to the list of checked properties as a failure property example. The second event, Fix submission queue overflow on large blob writes, addresses an issue with submission queue overflow by increasing the sub queue entries size. The third event, Fixes like function giving incorrect results when pattern has regex meta chars, resolves an issue where the like function was giving incorrect results when the pattern contained regex meta characters by properly escaping the required characters."
-        },
-        "tursodatabase/libsql-php": {
-            "link": "https://github.com/tursodatabase/libsql-php",
-            "summary": "Recent activities on the tursodatabase/libsql-php repository include a push event that refactors and fixes the code by moving the ffi check and adding defaults to PDO options."
+            "summary": "Recent activities in the limbo repository include multiple pull request events focused on enhancing the simulator and addressing existing issues. Specifically, these events involve adjustments to failure assertions, fixes for submission queue overflows on large blob writes, and corrections to the like function when handling regex meta characters in patterns. These efforts aim to improve the overall performance and reliability of the repository."
         }
     },
     "profile_summary": null

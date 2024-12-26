@@ -1,17 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/pyre-check": {
+            "link": "https://github.com/facebook/pyre-check",
+            "summary": "Recent activities include several push events, focusing on deploying to gh-pages, implementing unary operations, and expanding the result of callable_infer, indicating ongoing development and improvement of the pyre-check repository."
+        },
         "facebook/rocksdb": {
             "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities include two pull requests, one titled 'Debug Detect WAL hole #13226' and another titled 'Reduce unnecessary manifest data when no file checksum', which aims to minimize manifest file space usage by avoiding unnecessary file checksum manifest entries."
+            "summary": "Recent activities involve pull requests and push events aimed at fixing assertion failures in the error handler, detecting and handling WAL holes, and enhancing the tracking and verification of WAL data, showing efforts to stabilize and enhance the performance of the rocksdb repository."
         },
-        "facebook/react": {
-            "link": "https://github.com/facebook/react",
-            "summary": "Recent activities include a pull request, '[compiler] Fix broken fire snapshot', which addresses a broken fire snapshot issue, and a push event that also fixes the same issue, indicating active maintenance of the compiler."
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "Recent activities include push events that remove implicit disabling of schema constants for file-relative includes, change the render engine to return shared pointers, and add support for literals, indicating ongoing maintenance and feature development in the hhvm repository."
         },
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities involve significant updates, including the introduction of a new symbol 'ZSTD_compressSequencesAndLiterals()' through a pull request, which improves compression speed by nearly 20%, and a push event with multiple codemods and fixes, enhancing the overall functionality and code quality of the repository."
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "Recent activities involve push events that mirror changes seen in hhvm, including removing implicit disabling of schema constants and changing the render engine, suggesting synchronization or shared development practices between these repositories."
+        },
+        "facebook/fresco": {
+            "link": "https://github.com/facebook/fresco",
+            "summary": "Recent activities include push events related to updates in animated-gif-lite and animated-webp sources, indicating continued maintenance and development within the fresco project."
         }
     },
     "profile_summary": null

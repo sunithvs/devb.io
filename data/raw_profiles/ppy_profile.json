@@ -3,11 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen significant activity, with multiple pull requests submitted on December 26, 2024. These include updates to the 'Midnight Moment Art Contest: Voting Open' news post, the 'Medals/Unlock requirements/Dedication' section, and the 'Help centre/Account restrictions' article. Additionally, an expansion of the Difficulty Reduction mod articles has been proposed, along with updates to the Indonesian and Spanish translations."
+            "summary": "Recent activities include updates to the Midnight Moment Art Contest news post, specifically the entry count, as well as various translation and article updates, such as the expansion of Difficulty Reduction mod articles and the retranslation of Help centre/Account restrictions."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has experienced substantial activity, with several pull requests submitted on December 26, 2024. These include efforts to enhance the beatmap editing flow by adding an audio tab, changes to the hit leniency in the OsuModRelax mod to match the stable version, and a proposal to improve osu!taiko pooling, which involves splitting the 'Hit' class into 'HitCentre' and 'HitRim' classes to facilitate pooling, although help is needed to address certain issues and uncertainties in the implementation."
+            "summary": "Recent activities focus on improvements to the osu!taiko game mode, including the addition of pooling for HitRim and HitCentre classes, and enhancements to the beatmap editing flow with the introduction of an audio tab for easier sample and volume management."
+        },
+        "ppy/s3-nginx-proxy": {
+            "link": "https://github.com/ppy/s3-nginx-proxy",
+            "summary": "Recent activities include a pull request to preserve upstream Cache-Control headers, ensuring better caching and performance in the proxy server."
         }
     },
     "profile_summary": null

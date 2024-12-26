@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include updates to beat snap and volume control functionality. Notable changes involve switching the scroll direction for beat snap to match stable versions and adding migration support. Additionally, pull requests have been made to address issues with volume adjust key repeat and to introduce new global volume adjust bindings. These changes aim to enhance the overall user experience and fix regressions introduced in previous updates."
+            "summary": "Recent activities include a push event and pull request that switch the scroll direction for beat snap to match the stable version, along with a migration and merge of the pull request."
+        },
+        "ppy/osu-web": {
+            "link": "https://github.com/ppy/osu-web",
+            "summary": "A significant pull request has been opened to exclude bot and no profile special groups from being set as guest mappers, also affecting chat announcements and supporter tag gift lookups, with plans for further changes."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen recent activity focused on expanding system mod articles and updating mods according to the osu-wiki status in Spanish. This includes a series of pull requests designed to improve the accuracy and completeness of the wiki's content, with a particular emphasis on mods and their functionality. These updates are part of an ongoing effort to maintain and enhance the wiki's usefulness for the osu community."
-        },
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Activities in the osu-server-beatmap-submission repository have centered on implementing baseline S3 beatmap storage. This includes parallelizing S3 upload tasks to improve performance and configuring the upload process to utilize separate directories or buckets for beatmap files. These changes are aimed at enhancing the efficiency and reliability of beatmap storage and submission processes within the osu server infrastructure."
+            "summary": "A pull request has been submitted to add Daily Challenge medals to the 'Dedication' category in unlock requirements, with the changes tested against the contribution checklist."
         }
     },
     "profile_summary": null

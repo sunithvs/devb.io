@@ -1,4 +1,10 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
+    "activity_summary": {
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "The repository has seen significant activity with multiple push events occurring on 2024-12-26, primarily focusing on implementing no allocation for serial types, indicating ongoing development and optimization efforts."
+        }
+    },
     "profile_summary": null
 }

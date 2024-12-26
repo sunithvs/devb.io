@@ -1,0 +1,125 @@
+{
+    "username": "vimalmurugesanm",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/132368713?v=4",
+    "profile_url": "https://github.com/VIMALMURUGESANM",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "view_limitless_front_end_new",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/view_limitless_front_end_new",
+            "updatedAt": "2024-12-09T14:42:45Z"
+        },
+        {
+            "name": "view_limitless_back_end",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/view_limitless_back_end",
+            "updatedAt": "2024-11-29T10:58:47Z"
+        },
+        {
+            "name": "nextjs-with-supabase",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/VIMALMURUGESANM/nextjs-with-supabase",
+            "updatedAt": "2024-11-11T14:16:51Z"
+        },
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/VIMALMURUGESANM/Portfolio",
+            "updatedAt": "2024-05-26T12:15:54Z"
+        },
+        {
+            "name": "Vimal_Portfolio",
+            "description": null,
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/VIMALMURUGESANM/Vimal_Portfolio",
+            "updatedAt": "2024-05-26T13:15:57Z"
+        },
+        {
+            "name": "Churn_Track",
+            "description": null,
+            "score": 0.2682889452665016,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/VIMALMURUGESANM/Churn_Track",
+            "updatedAt": "2024-07-08T16:25:35Z"
+        },
+        {
+            "name": "VIEW_LIMITLESS_AR_VR",
+            "description": "An Interesting Website that enables the user to communicate, order, share their ideas about architecture with designers and architects , it also used to allow users to create \"Floor plan\" on their own and render in 2D and visualize it in 3D.",
+            "score": 0.26723067273182516,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/VIEW_LIMITLESS_AR_VR",
+            "updatedAt": "2024-05-26T13:02:05Z"
+        },
+        {
+            "name": "DIABETES_PREDICTION_MACHINE_LEARNING",
+            "description": "Diabetes Prediction using machine learning algorithms and data mining techniques.",
+            "score": 0.162250352577379,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VIMALMURUGESANM/DIABETES_PREDICTION_MACHINE_LEARNING",
+            "updatedAt": "2023-09-09T07:47:26Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 30,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "VIMALMURUGESANM/view_limitless_front_end_new": {
+            "link": "https://github.com/VIMALMURUGESANM/view_limitless_front_end_new",
+            "summary": "Recent activities in this repository include a push event on December 9, 2024, where the README.md file was updated, indicating ongoing maintenance and improvement of the repository's documentation."
+        },
+        "VIMALMURUGESANM/view_limitless_back_end": {
+            "link": "https://github.com/VIMALMURUGESANM/view_limitless_back_end",
+            "summary": "The repository saw a notable update on November 29, 2024, with a push event that modified the index.js file to utilize process.env.PORT, suggesting efforts to enhance the application's portability and flexibility."
+        }
+    },
+    "profile_summary": "This skilled developer is a proficient programmer with a strong foundation in TypeScript, JavaScript, and Python, leveraging these technologies to craft innovative solutions. With a portfolio of 10 public repositories, they demonstrate a high level of activity and commitment to ongoing development, showcasing their capabilities and dedication to the field. Their expertise spans multiple programming languages, enabling them to tackle complex projects and collaborate effectively with others. As a detail-oriented and forward-thinking professional, they remain up-to-date with the latest industry trends and best practices.\n\nAs a rising talent in the development community, this developer brings a unique combination of technical expertise and creative problem-solving skills to the table. With a focus on delivering high-quality, reliable, and efficient solutions, they have established themselves as a trusted and competent professional. Their experience with TypeScript, JavaScript, and Python has equipped them with the skills to tackle a wide range of projects, from web development to data analysis. With a strong work ethic and a passion for innovation, they are well-positioned to make a significant impact in the industry, and their growing portfolio is a testament to their potential for growth and success."
+}

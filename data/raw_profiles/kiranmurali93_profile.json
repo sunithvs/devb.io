@@ -1,0 +1,130 @@
+{
+    "username": "kiranmurali93",
+    "name": "KIRAN",
+    "bio": "",
+    "location": "Noida - NCR",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44119868?u=c51c33231ecf9ac1e5240993819d79f6bb453fc8&v=4",
+    "profile_url": "https://github.com/kiranmurali93",
+    "top_languages": [
+        [
+            "Go",
+            2
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "Elixir",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSC-CUSAT",
+            "description": "Website for Developer students club cusat",
+            "score": 4.6774053282914,
+            "stars": 2,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/DSC-CUSAT",
+            "updatedAt": "2021-10-07T15:34:45Z"
+        },
+        {
+            "name": "coding-challenges-go",
+            "description": "Implementations of probems in codingchallenges.fyi using golang",
+            "score": 3.0399935786627275,
+            "stars": 3,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/coding-challenges-go",
+            "updatedAt": "2024-12-24T08:06:12Z"
+        },
+        {
+            "name": "gpt-cli",
+            "description": "Gpt on your cli",
+            "score": 3.0304486734684746,
+            "stars": 3,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/gpt-cli",
+            "updatedAt": "2024-12-24T08:06:13Z"
+        },
+        {
+            "name": "hacktoberfest",
+            "description": "hello",
+            "score": 2.9850799801221672,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/hacktoberfest",
+            "updatedAt": "2020-10-04T16:23:45Z"
+        },
+        {
+            "name": "my_webdevelopment-project",
+            "description": "this project is to learn web development",
+            "score": 2.9839171936373594,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/my_webdevelopment-project",
+            "updatedAt": "2020-10-01T03:44:54Z"
+        },
+        {
+            "name": "elixir-llm-coms",
+            "description": "Elixir server which calls llm api",
+            "score": 2.8486663001910966,
+            "stars": 2,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "updatedAt": "2024-12-24T08:01:05Z"
+        },
+        {
+            "name": "pyopengl_lab",
+            "description": null,
+            "score": 2.493774916385023,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/pyopengl_lab",
+            "updatedAt": "2021-10-26T15:05:55Z"
+        },
+        {
+            "name": "greyatom-python-for-data-science",
+            "description": "A collection of projects as part of the Python for Data Science program at GreyAtom EduTech Pvt Ltd",
+            "score": 2.4933303689026474,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/greyatom-python-for-data-science",
+            "updatedAt": "2020-06-25T14:54:21Z"
+        }
+    ],
+    "followers": 86,
+    "following": 116,
+    "public_repos": 68,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1503,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/kiran-p-k"
+        }
+    ],
+    "activity_summary": {
+        "kiranmurali93/elixir-llm-coms": {
+            "link": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "summary": "Recent activities include a hotfix allowing frontend prod URL for CORS and utilizing environment variables in runtime, as well as the integration of new files from a Fly.io launch configuration, including a merge of pull request #1, which added configuration files for Fly.io launch."
+        },
+        "kiranmurali93/react-rust-wasm": {
+            "link": "https://github.com/kiranmurali93/react-rust-wasm",
+            "summary": "Notable updates involve adding environment variables to Docker files and fly.toml, along with the completion of a calculator tab, featuring UI enhancements for two tabs, rust and wasm calculation integration, and bot integration, showcasing active development and refinement of the repository's core functionalities."
+        }
+    },
+    "profile_summary": "KIRAN is a highly skilled and accomplished software developer with a strong proficiency in Go, JavaScript, and Elixir. With a substantial professional network of 86 followers, KIRAN has established themselves as a reputable and influential figure in the development community. Their extensive portfolio of 68 public repositories showcases a consistent track record of innovative and high-quality development work. As a seasoned expert in multiple programming languages, KIRAN brings a unique combination of technical expertise and creative problem-solving skills to the table.\n\nWith a solid foundation in software development and a keen eye for innovation, KIRAN delivers cutting-edge solutions that meet the most demanding requirements. As a tech-savvy professional with a passion for coding, KIRAN stays up-to-date with the latest industry trends and advancements, ensuring their skills and knowledge remain current and relevant. With a strong commitment to excellence and a customer-centric approach, KIRAN is the go-to developer for businesses and organizations seeking reliable, efficient, and effective software solutions that drive results and propel growth, making them an invaluable asset to any development team."
+}

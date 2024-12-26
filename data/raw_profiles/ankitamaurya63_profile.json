@@ -1,0 +1,47 @@
+{
+    "username": "ankitamaurya63",
+    "name": "Ankita Maurya",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/182392570?u=b91ceda9578d7423e1f7975bb1abe2274ac22ff5&v=4",
+    "profile_url": "https://github.com/AnkitaMaurya63",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Cofee_Machine_PythonProject",
+            "description": null,
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AnkitaMaurya63/Cofee_Machine_PythonProject",
+            "updatedAt": "2024-10-07T05:01:43Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "AnkitaMaurya63/Crop_Dataset_EDA": {
+            "link": "https://github.com/AnkitaMaurya63/Crop_Dataset_EDA",
+            "summary": "Recent activities in this repository include multiple push events with file uploads and deletions, indicating active development and maintenance of the Crop Dataset EDA project, with the most recent changes occurring on October 29, 2024."
+        },
+        "AnkitaMaurya63/Task3_ML_model_development": {
+            "link": "https://github.com/AnkitaMaurya63/Task3_ML_model_development",
+            "summary": "This repository has seen significant activity with push events and file uploads, notably on November 16, 2024, and October 29, 2024, suggesting ongoing work and updates to the Task3 ML model development project."
+        }
+    },
+    "profile_summary": "Ankita Maurya is a skilled Python developer with a strong foundation in software development and a passion for creating innovative solutions. With a growing presence on GitHub, Ankita is committed to building a professional network and sharing knowledge with the developer community. As a dedicated and detail-oriented individual, Ankita excels in designing and implementing efficient code, leveraging Python's versatility to drive project success. With a keen eye for detail and a ability to adapt to new technologies, Ankita is a valuable asset to any development team.\n\nAs a proficient Python developer, Ankita brings a unique blend of technical expertise and creativity to the table, with a proven track record of delivering high-quality solutions. With a public repository showcasing active development, Ankita demonstrates a commitment to ongoing learning and professional growth. By combining technical skills with a collaborative mindset, Ankita delivers reliable and efficient solutions that meet and exceed project requirements, making her a promising talent in the field of software development, with a strong potential to make a positive impact in the industry, and a bright future ahead as a skilled and innovative Python developer."
+}

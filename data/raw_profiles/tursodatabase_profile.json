@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "tursodatabase/limbo": {
+        "limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "The repository has seen multiple push events with commits focused on implementing 'no allocation for serial types', indicating ongoing development and refinement of serial type handling within the project."
+            "summary": "Recent activities on the limbo repository have been focused on pushing updates, primarily related to 'no allocation for serial types', with multiple commits made on December 26, 2024, indicating ongoing development and refinement of the repository's content."
         },
-        "tursodatabase/turso-client-php": {
+        "turso-client-php": {
             "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "Recent activities include the introduction of new features such as adding TS and NTS build support, along with enhancements to versioning, ignoring unnecessary files, and improvements to the build process, showcasing active development and maintenance of the PHP client."
+            "summary": "The turso-client-php repository has seen significant activity with a feature addition of TS and NTS build support, including updates to version scripts, ignore files, and matrix parameters. Pull requests have been submitted and updated, with a focus on adding new functionality and enhancing the build process, all occurring on December 26, 2024, showcasing an active development phase."
         }
     },
     "profile_summary": null

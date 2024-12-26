@@ -3,7 +3,7 @@
     "activity_summary": {
         "facebook/docusaurus": {
             "link": "https://github.com/facebook/docusaurus",
-            "summary": "The facebook/docusaurus repository has seen significant activity recently. There have been multiple pull requests, including one that refactors the core to use the Intl native API for locale direction and removes the rtl-detect dependency. Additionally, there have been push events to deploy updates and bump the nanoid dependency from 3.3.7 to 3.3.8, addressing a vulnerability and improving overall performance."
+            "summary": "Recent activities in the facebook/docusaurus repository involve a pull request that refactors the core functionality to utilize the native Intl API for determining locale direction, effectively removing the dependency on rtl-detect. This enhancement, proposed to improve performance and simplify dependencies, is currently undergoing review and has been designed to be compatible with Node versions 18 and above."
         }
     },
     "profile_summary": null

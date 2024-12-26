@@ -1,0 +1,138 @@
+{
+    "username": "amjadcp",
+    "name": "Amjad C P",
+    "bio": "Web-app Pentester | Mentor | DevOps",
+    "location": "Calicut 673007",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84246684?u=662cc39ea5017b6e540498683aaf59573bbcba07&v=4",
+    "profile_url": "https://github.com/amjadcp",
+    "top_languages": [
+        [
+            "Python",
+            17
+        ],
+        [
+            "JavaScript",
+            23
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "express-openAPI-generator",
+            "description": null,
+            "score": 2.993941699767649,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/amjadcp/express-openAPI-generator",
+            "updatedAt": "2024-03-05T10:42:53Z"
+        },
+        {
+            "name": "web2-vs-web3",
+            "description": null,
+            "score": 2.5592692848001315,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/amjadcp/web2-vs-web3",
+            "updatedAt": "2024-12-21T13:20:21Z"
+        },
+        {
+            "name": "express-generate-api",
+            "description": null,
+            "score": 2.4257488027608596,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjadcp/express-generate-api",
+            "updatedAt": "2024-03-02T14:31:27Z"
+        },
+        {
+            "name": "saturday-hackNight-googleSheetapi",
+            "description": null,
+            "score": 2.2680069666109177,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/amjadcp/saturday-hackNight-googleSheetapi",
+            "updatedAt": "2021-10-18T08:22:18Z"
+        },
+        {
+            "name": "shn-web-socket",
+            "description": null,
+            "score": 1.7226613256450247,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/amjadcp/shn-web-socket",
+            "updatedAt": "2022-10-15T15:04:24Z"
+        },
+        {
+            "name": "let-us-build-registration-form",
+            "description": null,
+            "score": 1.532781342052686,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/amjadcp/let-us-build-registration-form",
+            "updatedAt": "2023-08-23T17:08:33Z"
+        },
+        {
+            "name": "SHN-twitter-api",
+            "description": null,
+            "score": 1.4588141477290093,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/amjadcp/SHN-twitter-api",
+            "updatedAt": "2022-04-16T14:18:50Z"
+        },
+        {
+            "name": "send-notify",
+            "description": null,
+            "score": 1.1144775714858801,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/amjadcp/send-notify",
+            "updatedAt": "2022-10-15T21:45:26Z"
+        }
+    ],
+    "followers": 44,
+    "following": 24,
+    "public_repos": 74,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1260,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/amjadcp"
+        }
+    ],
+    "activity_summary": {
+        "amjadcp/learn-devops": {
+            "link": "https://github.com/amjadcp/learn-devops",
+            "summary": "Recent activities in the learn-devops repository have focused on enhancing the project's testing capabilities, including the addition of selenium tests and implementation of testing for versions 0.1 and 0.2, along with updates to the requirements.txt file and various chore-related changes."
+        },
+        "amjadcp/web2-vs-web3": {
+            "link": "https://github.com/amjadcp/web2-vs-web3",
+            "summary": "The web2-vs-web3 repository has seen updates to its README.md file, the creation of a .env.example file, and the inclusion of get result logic in the contract, indicating ongoing development and refinement of the project's core functionalities and documentation."
+        },
+        "amjadcp/person-detection-using-cnn-detector": {
+            "link": "https://github.com/amjadcp/person-detection-using-cnn-detector",
+            "summary": "Activities in the person-detection-using-cnn-detector repository have centered around the addition of various CNN detectors, including RetnaNet, Cascade R-CNN, and Faster R-CNN, suggesting a focus on expanding and improving the project's object detection capabilities."
+        },
+        "amjadcp/voting-app": {
+            "link": "https://github.com/amjadcp/voting-app",
+            "summary": "The voting-app repository has undergone fixes to prevent multiple submissions and updates to its port configuration, indicating efforts to stabilize and secure the application's functionality and user experience."
+        }
+    },
+    "profile_summary": "Amjad C P is a highly skilled web application penetration tester and developer with a strong proficiency in programming languages such as Python, JavaScript, and TypeScript. With a robust network of 44 followers and an impressive portfolio of 74 public repositories, Amjad has established himself as a reliable and innovative professional in the field of web application security and development. As a seasoned mentor and DevOps expert, Amjad brings a unique blend of technical expertise and leadership skills to the table, making him a valuable asset to any development team.\n\nWith a focus on delivering high-quality solutions and driving technical excellence, Amjad has built a reputation as a results-driven professional with a passion for web application security and development. His expertise in Python, JavaScript, and TypeScript enables him to design and develop secure, scalable, and efficient web applications that meet the needs of modern businesses. As a web-app pentester, Amjad helps organizations identify and mitigate security vulnerabilities, ensuring the integrity and reliability of their web applications. With his strong technical skills, leadership abilities, and commitment to excellence, Amjad is a trusted partner for businesses seeking to drive innovation and growth through technology."
+}

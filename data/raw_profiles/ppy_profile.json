@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities have focused on various updates to the osu!taiko mode, including changes to the OsuModRelax hit leniency, the introduction of a consistentRatioPenalty to the Colour skill, and a comprehensive rework of the rhythm system. These updates aim to improve gameplay experience and provide more accurate difficulty calculations. The changes include new methods for evaluating consistency penalties, new data classes for rhythm patterns, and adjustments to how rhythm difficulty is calculated."
+            "summary": "Recent activities include multiple pull requests to improve the osu!taiko mode, such as reworking rhythm difficulty to be based on complex interval ratios, introducing a new method to evaluate consistency penalties, and fixing leniency issues with the OsuModRelax mod. These changes aim to enhance the overall gameplay experience and are available for testing."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities have centered around expanding system mod articles, fixing compatibility issues with touch devices, and refining wiki content through various merges and updates. These efforts aim to enhance the overall documentation and user experience of the osu! wiki, providing more comprehensive and accurate information on system mods and other topics."
+            "summary": "Recent activities involve expanding system mod articles and fixing issues with Touch Device incompatible mods. A push event and a pull request were made to update and merge changes into the system-mods branch, improving the overall documentation and information available on the osu! wiki."
         }
     },
     "profile_summary": null

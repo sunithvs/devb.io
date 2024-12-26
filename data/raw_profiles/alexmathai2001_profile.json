@@ -1,0 +1,126 @@
+{
+    "username": "alexmathai2001",
+    "name": "Alex Mathai",
+    "bio": "",
+    "location": "Thrissur, kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69806852?u=c0f7b0cc1589f307241a26b72738fc7515ebfdff&v=4",
+    "profile_url": "https://github.com/Alexmathai2001",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PhenomenalHR-website",
+            "description": "Website for PhenomenalHR",
+            "score": 2.696903600610563,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Alexmathai2001/PhenomenalHR-website",
+            "updatedAt": "2024-10-26T04:19:57Z"
+        },
+        {
+            "name": "Hatio--take-away-assignment---todo",
+            "description": "Todo application as part of an assignment from Hatio IT and Services",
+            "score": 2.4681130459869736,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alexmathai2001/Hatio--take-away-assignment---todo",
+            "updatedAt": "2024-10-24T05:20:14Z"
+        },
+        {
+            "name": "todo-backend-java-springboot-3",
+            "description": "backend project for todo using java and spring-boot 3",
+            "score": 1.6736310964424286,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Alexmathai2001/todo-backend-java-springboot-3",
+            "updatedAt": "2024-07-05T08:50:27Z"
+        },
+        {
+            "name": "quiz-app",
+            "description": "Backend application using java spring-boot for a quiz app",
+            "score": 1.669403109846523,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Alexmathai2001/quiz-app",
+            "updatedAt": "2024-06-18T06:42:19Z"
+        },
+        {
+            "name": "shoppify",
+            "description": "task for Appmaker.xyz",
+            "score": 1.6637037099253473,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Alexmathai2001/shoppify",
+            "updatedAt": "2024-05-25T04:31:01Z"
+        },
+        {
+            "name": "learn-nextJS",
+            "description": "repo to tryout nextJS",
+            "score": 1.6625707491988833,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Alexmathai2001/learn-nextJS",
+            "updatedAt": "2024-05-13T13:02:03Z"
+        },
+        {
+            "name": "home-made",
+            "description": "This is a project aiming to make freelance works for house-wifes or students with their limited time and exposure",
+            "score": 1.656420584273588,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Alexmathai2001/home-made",
+            "updatedAt": "2024-04-13T06:30:38Z"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 1.6533517102476054,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alexmathai2001/portfolio",
+            "updatedAt": "2024-03-28T05:15:54Z"
+        }
+    ],
+    "followers": 5,
+    "following": 8,
+    "public_repos": 25,
+    "pull_requests_merged": 7,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 257,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alex-mathai/"
+        }
+    ],
+    "activity_summary": {
+        "Alexmathai2001/PhenomenalHR-website": {
+            "link": "https://github.com/Alexmathai2001/PhenomenalHR-website",
+            "summary": "Recent activities in the PhenomenalHR-website repository include a push event on October 26, 2024, which involved updating the phone number, indicating ongoing maintenance and updates to the repository's content."
+        }
+    },
+    "profile_summary": "Alex Mathai is a seasoned developer with a strong foundation in JavaScript, TypeScript, and Python, bringing a unique blend of technical expertise and innovative problem-solving skills to the table. With a growing professional network of followers and an impressive portfolio of 25 public repositories, Alex has established himself as a reliable and skilled developer who consistently delivers high-quality solutions. His proficiency in multiple programming languages enables him to approach complex challenges from diverse angles, making him a valuable asset to any project or team.\n\nAs a dedicated and results-driven professional, Alex is committed to staying at the forefront of industry trends and advancements, continuously updating his skills to ensure he remains a competitive and innovative force in the development community. With a focus on collaboration, creativity, and technical excellence, Alex is well-positioned to drive successful projects and contribute to the success of his peers and organizations. His online presence and active engagement with the developer community demonstrate his passion for sharing knowledge, learning from others, and fostering a spirit of innovation and growth."
+}

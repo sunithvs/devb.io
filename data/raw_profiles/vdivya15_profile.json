@@ -1,0 +1,66 @@
+{
+    "username": "vdivya15",
+    "name": "V Divya Vara Lakshmi",
+    "bio": "Government engineering college,Thrissur",
+    "location": "kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/111564353?u=df5d1165afbdccfc5e61e7ff9d7eb1714fdaa093&v=4",
+    "profile_url": "https://github.com/Vdivya15",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TPGHH-Payroll",
+            "description": null,
+            "score": 1.1151879993793703,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Vdivya15/TPGHH-Payroll",
+            "updatedAt": "2022-12-04T06:06:36Z"
+        },
+        {
+            "name": "sample",
+            "description": null,
+            "score": 0.1666273737668555,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Vdivya15/sample",
+            "updatedAt": "2023-11-18T17:45:12Z"
+        },
+        {
+            "name": "hacktober",
+            "description": null,
+            "score": 0.07491128939396556,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Vdivya15/hacktober",
+            "updatedAt": "2022-10-27T12:35:11Z"
+        }
+    ],
+    "followers": 6,
+    "following": 18,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/divya150803"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/v-divya-vara-lakshmi-67611624b/"
+        }
+    ],
+    "profile_summary": "V Divya Vara Lakshmi is a skilled JavaScript developer with a strong foundation in software development, currently associated with the Government Engineering College in Thrissur. With a growing professional network of 6 followers, she has established herself as a credible and influential figure in the programming community. Her technical expertise in JavaScript is evident through her active contributions to 6 public repositories, showcasing her ability to design, develop, and maintain high-quality codebases. As a dedicated and innovative developer, she stays up-to-date with industry trends and best practices, ensuring her skills remain relevant and effective.\n\nAs a talented and reliable developer, V Divya Vara Lakshmi brings a unique value proposition to the table, combining technical expertise with a passion for innovation and collaboration. Her experience with JavaScript has equipped her with the skills to develop scalable, efficient, and user-friendly applications, making her a valuable asset to any development team. With a strong educational background and a commitment to ongoing learning, she is well-positioned to drive technological advancements and deliver exceptional results in a rapidly evolving industry. By leveraging her technical prowess and collaborative mindset, V Divya Vara Lakshmi is poised to make a lasting impact in the world of software development."
+}

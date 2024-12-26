@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activity, with two recent pull requests. The first, 'Enhance beatmap editing flow by adding an audio tab', aims to improve the beatmap editing experience by introducing a new audio tab inspired by FL Studio's piano roll, allowing users to easily set samples, banks, and volumes for hit objects. The second, 'Change `OsuModRelax` hit leniency to be the same as in stable', fixes a discrepancy in hit leniency between the Relax mod and the stable version of osu, ensuring a more consistent experience."
-        },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has also experienced notable activity, with two pull requests focused on improving the wiki's content. One update, '[ID] Update/Retranslate `Help centre/Account restrictions`', aims to translate and update the Help Centre's account restrictions page, enhancing the wiki's accessibility and accuracy. Another contribution, 'Expand Difficulty Reduction mod articles', seeks to expand the wiki's coverage of the Difficulty Reduction mod, providing more comprehensive information to the osu community."
+            "summary": "The osu-wiki repository has seen significant activity, with multiple pull requests submitted on December 26, 2024. These include updates to the 'Midnight Moment Art Contest: Voting Open' news post, the 'Medals/Unlock requirements/Dedication' section, and the 'Help centre/Account restrictions' article. Additionally, an expansion of the Difficulty Reduction mod articles has been proposed, along with updates to the Indonesian and Spanish translations."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "The osu repository has experienced substantial activity, with several pull requests submitted on December 26, 2024. These include efforts to enhance the beatmap editing flow by adding an audio tab, changes to the hit leniency in the OsuModRelax mod to match the stable version, and a proposal to improve osu!taiko pooling, which involves splitting the 'Hit' class into 'HitCentre' and 'HitRim' classes to facilitate pooling, although help is needed to address certain issues and uncertainties in the implementation."
         }
     },
     "profile_summary": null

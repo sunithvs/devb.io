@@ -1,25 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/docusaurus": {
-            "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities include a push event for deploying changes with commit cc97d66dbb9112ebf5809d9db49b68ced6b2664b, as well as a refactor of the algolia SearchBar component in pull request #10801, which simplifies the component by extracting custom hooks and grouping related code into separate functions."
+        "facebook/rocksdb": {
+            "link": "https://github.com/facebook/rocksdb",
+            "summary": "Recent activities include two pull requests, one titled 'Debug Detect WAL hole #13226' and another titled 'Reduce unnecessary manifest data when no file checksum', which aims to minimize manifest file space usage by avoiding unnecessary file checksum manifest entries."
         },
-        "facebook/fb303": {
-            "link": "https://github.com/facebook/fb303",
-            "summary": "A recent push event updated hashes and referenced a GitHub commit, specifically 64bdd771bbcccad0, as part of the update process."
+        "facebook/react": {
+            "link": "https://github.com/facebook/react",
+            "summary": "Recent activities include a pull request, '[compiler] Fix broken fire snapshot', which addresses a broken fire snapshot issue, and a push event that also fixes the same issue, indicating active maintenance of the compiler."
         },
-        "facebook/mvfst": {
-            "link": "https://github.com/facebook/mvfst",
-            "summary": "There was a push event that updated hashes, referencing a GitHub commit, specifically 64bdd771bbcccad0, as part of the summary of changes."
-        },
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "A push event updated submodules, pointing to a specific GitHub commit, 64bdd771bbcc, as a summary of the changes made."
-        },
-        "facebook/openr": {
-            "link": "https://github.com/facebook/openr",
-            "summary": "Recent activities include a push event that updated submodules, referencing a GitHub commit, specifically 64bdd771bbcc, in the summary of the update."
+        "facebook/zstd": {
+            "link": "https://github.com/facebook/zstd",
+            "summary": "Recent activities involve significant updates, including the introduction of a new symbol 'ZSTD_compressSequencesAndLiterals()' through a pull request, which improves compression speed by nearly 20%, and a push event with multiple codemods and fixes, enhancing the overall functionality and code quality of the repository."
         }
     },
     "profile_summary": null

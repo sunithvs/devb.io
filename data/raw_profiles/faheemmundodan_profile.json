@@ -1,0 +1,71 @@
+{
+    "username": "faheemmundodan",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105119123?v=4",
+    "profile_url": "https://github.com/FaheemMundodan",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FindFc_Backend",
+            "description": null,
+            "score": 0.2583919250855886,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FaheemMundodan/FindFc_Backend",
+            "updatedAt": "2024-01-30T08:08:33Z"
+        },
+        {
+            "name": "fullstack",
+            "description": null,
+            "score": 0.15498952457765786,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaheemMundodan/fullstack",
+            "updatedAt": "2023-04-03T04:25:07Z"
+        },
+        {
+            "name": "faheemmundodan.github.io",
+            "description": null,
+            "score": 0.0732551355284644,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/faheemmundodan.github.io",
+            "updatedAt": "2022-06-20T17:21:51Z"
+        },
+        {
+            "name": "Personal-website",
+            "description": null,
+            "score": 0.07275766583899658,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/Personal-website",
+            "updatedAt": "2022-05-07T17:17:44Z"
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a skilled and experienced professional with a strong foundation in programming languages, particularly Python and HTML. With a growing network of peers and a track record of active development, they have established themselves as a knowledgeable and capable presence in the development community. Their technical expertise and dedication to their craft have earned them a reputation as a reliable and innovative problem solver, and their work is characterized by a commitment to quality and attention to detail.\n\nAs a seasoned developer with a portfolio of public repositories, this individual has consistently demonstrated their ability to design, develop, and deploy effective solutions that meet the needs of their users. With a focus on leveraging technology to drive innovation and improvement, they have built a reputation as a forward-thinking and collaborative professional who is always looking for ways to expand their skill set and stay up-to-date with the latest industry trends and best practices. With a strong online presence and a growing following, this developer is well-positioned to make a meaningful contribution to a wide range of projects and initiatives, and is a valuable asset to any team or organization."
+}

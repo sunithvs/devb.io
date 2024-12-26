@@ -1,21 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "tursodatabase/turso-client-php": {
-            "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "The repository has seen recent activities including the addition of ts and nts build support, introduction of a version script, and an updated version. A pull request was also merged which added NTS and TS support with CI related changes, resolving issue #6. The changes do not introduce a breaking change."
-        },
-        "tursodatabase/limbo": {
-            "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities include push events focusing on no allocation for serial types, indicating efforts to optimize memory usage within the repository's codebase."
-        },
         "tursodatabase/libsql-php": {
             "link": "https://github.com/tursodatabase/libsql-php",
-            "summary": "A recent push event refactored and fixed code by moving ffi checks and adding defaults to PDO options, showcasing ongoing development and refinement of the repository."
+            "summary": "Recent activities in the libsql-php repository include a refactor and fix that involved moving the FFI check and adding defaults to PDO options, which was pushed on December 26, 2024, aiming to enhance the repository's functionality and stability."
         },
         "tursodatabase/turso-cli": {
             "link": "https://github.com/tursodatabase/turso-cli",
-            "summary": "A pull request was submitted to update the usage of endpoints for query statistics, shifting from the obsolete /stats endpoint to the modern /usage/queries endpoint, enhancing the tool's functionality and compatibility, especially for databases in AWS."
+            "summary": "The turso-cli repository has seen a recent pull request submitted on December 26, 2024, focusing on utilizing the modern `/usage/queries` endpoint instead of the obsolete `/stats` endpoint to fetch query statistics, specifically showing query execution statistics for the last 1 day, thereby updating the command logic for improved functionality and accuracy."
         }
     },
     "profile_summary": null

@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include two significant pull requests. The first pull request changes the `OsuModRelax` hit leniency to match the stable version, addressing the issue of different leniency values, as described in pull request #31134. The second pull request introduces a new method called `consistentRatioPenalty` to evaluate consistency penalties in rhythmic ratios for the `Colour` skill, building upon the changes proposed in #31284. These updates aim to enhance the gaming experience and fix existing issues in the osu game."
+            "summary": "The osu repository has seen significant activity, with two recent pull requests. The first, 'Enhance beatmap editing flow by adding an audio tab', aims to improve the beatmap editing experience by introducing a new audio tab inspired by FL Studio's piano roll, allowing users to easily set samples, banks, and volumes for hit objects. The second, 'Change `OsuModRelax` hit leniency to be the same as in stable', fixes a discrepancy in hit leniency between the Relax mod and the stable version of osu, ensuring a more consistent experience."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen recent activity with a push event that expanded system mod articles, fixed compatibility issues with Touch Device mods, and included minor adjustments such as parentheses corrections. This update also merged the system-mods branch into the master branch, as outlined in pull request #12598, contributing to the growth and improvement of the osu wiki's content and compatibility."
+            "summary": "The osu-wiki repository has also experienced notable activity, with two pull requests focused on improving the wiki's content. One update, '[ID] Update/Retranslate `Help centre/Account restrictions`', aims to translate and update the Help Centre's account restrictions page, enhancing the wiki's accessibility and accuracy. Another contribution, 'Expand Difficulty Reduction mod articles', seeks to expand the wiki's coverage of the Difficulty Reduction mod, providing more comprehensive information to the osu community."
         }
     },
     "profile_summary": null

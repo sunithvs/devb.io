@@ -3,11 +3,23 @@
     "activity_summary": {
         "facebook/docusaurus": {
             "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities in the facebook/docusaurus repository include multiple push events and pull requests focused on improving the Algolia integration, specifically around placeholder and translation forwards to DocSearch components. The changes aim to enhance the convenience of providing labels through themeConfig.algolia for non-localized sites, addressing an existing issue. Additionally, there were deployments and removal of dogfood tests, indicating active development and testing."
+            "summary": "Recent activities include a push event for deploying changes with commit cc97d66dbb9112ebf5809d9db49b68ced6b2664b, as well as a refactor of the algolia SearchBar component in pull request #10801, which simplifies the component by extracting custom hooks and grouping related code into separate functions."
         },
-        "facebook/pyre-check": {
-            "link": "https://github.com/facebook/pyre-check",
-            "summary": "The facebook/pyre-check repository saw recent activities including push events that deployed updates to gh-pages, improved error messages for anonymous keywords to TypeVar, and enhanced the modeling of control flow for try/except blocks, adopting a behavior different from pyre's existing one. These changes suggest ongoing efforts to refine and expand the tool's capabilities and user experience."
+        "facebook/fb303": {
+            "link": "https://github.com/facebook/fb303",
+            "summary": "A recent push event updated hashes and referenced a GitHub commit, specifically 64bdd771bbcccad0, as part of the update process."
+        },
+        "facebook/mvfst": {
+            "link": "https://github.com/facebook/mvfst",
+            "summary": "There was a push event that updated hashes, referencing a GitHub commit, specifically 64bdd771bbcccad0, as part of the summary of changes."
+        },
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "A push event updated submodules, pointing to a specific GitHub commit, 64bdd771bbcc, as a summary of the changes made."
+        },
+        "facebook/openr": {
+            "link": "https://github.com/facebook/openr",
+            "summary": "Recent activities include a push event that updated submodules, referencing a GitHub commit, specifically 64bdd771bbcc, in the summary of the update."
         }
     },
     "profile_summary": null

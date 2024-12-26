@@ -3,11 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include multiple push events with various commits such as removing space allocated for overflow pointers, adding constants for integer lo/hi values and serial types, and implementing uuid support for v4 and v7. Additionally, there were pull request events for encoding integers with proper varint types, fixing file creation in the GenericIO `open_file` function, and other improvements to the repository's codebase, documentation, and testing."
-        },
-        "tursodatabase/turso-client-php": {
-            "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "The turso-client-php repository has seen recent activities including pull requests to fix issues with the windows build, such as using the lld linker as suggested by ext-php-rs, and fixing the wrong compiler used in the windows build. There were also push events for chores like testing self-hosted runners, making the build work for windows, and adding a nix flake, demonstrating ongoing efforts to improve the repository's functionality, compatibility, and build process."
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple push events and a pull request. The push events involved optimizing space allocation by removing space for overflow pointers in non-overflow cases, introducing constants for integer values and serial types, and adding tests for the serialize function. Additionally, a pull request was submitted to encode integers using proper varint types, which aims to close issue #532, and is currently a work-in-progress with a focus on further testing."
         }
     },
     "profile_summary": null

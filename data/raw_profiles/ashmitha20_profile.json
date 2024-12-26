@@ -1,0 +1,126 @@
+{
+    "username": "ashmitha20",
+    "name": "Ashmitha P R",
+    "bio": "WIT intern at TinkerHub|Computer Science UG student at MITS, Ernakulam| UI/UX | C | Front-end",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/132273348?u=becb9445aa346859618a239d5deb3100c7b9d822&v=4",
+    "profile_url": "https://github.com/ashmitha20",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "College_Management_System",
+            "description": null,
+            "score": 0.34850774036117615,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashmitha20/College_Management_System",
+            "updatedAt": "2024-11-03T09:51:29Z"
+        },
+        {
+            "name": "To-Do_App",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ashmitha20/To-Do_App",
+            "updatedAt": "2024-08-28T04:09:50Z"
+        },
+        {
+            "name": "Data-Structures",
+            "description": null,
+            "score": 0.2785776535233783,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/ashmitha20/Data-Structures",
+            "updatedAt": "2024-05-22T06:56:57Z"
+        },
+        {
+            "name": "OOPS-using-Java",
+            "description": null,
+            "score": 0.2785776535233783,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ashmitha20/OOPS-using-Java",
+            "updatedAt": "2024-05-22T07:03:40Z"
+        },
+        {
+            "name": "Hacknight_django",
+            "description": null,
+            "score": 0.2677558345262757,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ashmitha20/Hacknight_django",
+            "updatedAt": "2024-04-07T15:11:13Z"
+        },
+        {
+            "name": "Automatic-Ticket-Generator",
+            "description": null,
+            "score": 0.2597604312939914,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ashmitha20/Automatic-Ticket-Generator",
+            "updatedAt": "2024-02-08T12:52:03Z"
+        },
+        {
+            "name": "to-do",
+            "description": null,
+            "score": 0.16642221502620114,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ashmitha20/to-do",
+            "updatedAt": "2023-11-15T15:38:39Z"
+        },
+        {
+            "name": "Weather-forecasting",
+            "description": null,
+            "score": 0.16642221502620114,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashmitha20/Weather-forecasting",
+            "updatedAt": "2023-11-15T15:12:55Z"
+        }
+    ],
+    "followers": 3,
+    "following": 0,
+    "public_repos": 16,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 25,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ashmitha-p-r-4287b6274/"
+        }
+    ],
+    "activity_summary": {
+        "ashmitha20/College_Management_System": {
+            "link": "https://github.com/ashmitha20/College_Management_System",
+            "summary": "The College_Management_System repository has seen significant activity, with a final commit on November 3, 2024, following initial commits and updates to the README.md file on October 13, 2024, which included concluding a merge and adding the initial README.md content."
+        }
+    },
+    "profile_summary": "Ashmitha P R is a highly skilled and accomplished software developer with a strong foundation in programming languages such as C, Python, and JavaScript. As a Computer Science undergraduate student at MITS, Ernakulam, and a former WIT intern at TinkerHub, Ashmitha has gained valuable experience in front-end development and UI/UX design, demonstrating a unique blend of technical expertise and creative flair. With a growing professional network of followers and a portfolio of 16 public repositories, Ashmitha has established herself as a talented and dedicated developer with a passion for building innovative solutions.\n\nAs a rising star in the tech industry, Ashmitha brings a fresh perspective and a commitment to delivering high-quality results. Her proficiency in multiple programming languages, combined with her experience in front-end development and UI/UX design, makes her a versatile and valuable asset to any team. With a strong online presence and a track record of active development, Ashmitha is well-positioned to collaborate with other developers and contribute to a wide range of projects, from web applications to software development initiatives. Her technical expertise, creativity, and dedication to her craft make her an exciting and promising talent in the world of software development."
+}

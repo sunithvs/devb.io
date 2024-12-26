@@ -1,0 +1,129 @@
+{
+    "username": "sharkspidy",
+    "name": "Joseph Shibu",
+    "bio": "A Gamer with a tint of artistic taste",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147188239?u=2afc83b4991272b59f9008a0206939d1c5f2cb06&v=4",
+    "profile_url": "https://github.com/SharkSpidy",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "HTML",
+            2
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "P5.JS-SHN",
+            "description": "SHN 07-09-2024",
+            "score": 1.704192074124597,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SharkSpidy/P5.JS-SHN",
+            "updatedAt": "2024-09-09T04:14:59Z"
+        },
+        {
+            "name": "Weather-Web-App",
+            "description": null,
+            "score": 1.6328224480117395,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SharkSpidy/Weather-Web-App",
+            "updatedAt": "2024-12-01T16:16:21Z"
+        },
+        {
+            "name": "GitHubAPI-SHN",
+            "description": null,
+            "score": 1.3407076090598682,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/SharkSpidy/GitHubAPI-SHN",
+            "updatedAt": "2024-08-04T17:26:22Z"
+        },
+        {
+            "name": "BodyTracking",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SharkSpidy/BodyTracking",
+            "updatedAt": "2024-12-03T05:32:35Z"
+        },
+        {
+            "name": "Hirely-MarketPlace_Platform",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SharkSpidy/Hirely-MarketPlace_Platform",
+            "updatedAt": "2024-11-03T15:53:26Z"
+        },
+        {
+            "name": "TECNEURO",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SharkSpidy/TECNEURO",
+            "updatedAt": "2024-10-12T09:03:59Z"
+        },
+        {
+            "name": "TechySpot",
+            "description": null,
+            "score": 0.30914893733334936,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SharkSpidy/TechySpot",
+            "updatedAt": "2024-09-08T17:57:37Z"
+        },
+        {
+            "name": "GodotEngine-SHN",
+            "description": null,
+            "score": 0.30579326699360104,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SharkSpidy/GodotEngine-SHN",
+            "updatedAt": "2024-08-13T14:20:10Z"
+        }
+    ],
+    "followers": 15,
+    "following": 30,
+    "public_repos": 20,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 68,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "SharkSpidy/CodeCrocodilezzz_USELESS": {
+            "link": "https://github.com/SharkSpidy/CodeCrocodilezzz_USELESS",
+            "summary": "Recent activities in the CodeCrocodilezzz_USELESS repository indicate a burst of development, with two push events occurring on October 30, 2024, which included commits for 'commit this' and 'Commited GuitarMate', suggesting active feature development and contribution to the project."
+        },
+        "SharkSpidy/BodyTracking": {
+            "link": "https://github.com/SharkSpidy/BodyTracking",
+            "summary": "The BodyTracking repository saw a recent update on December 3, 2024, with a push event focused on updating the README.md file, implying ongoing maintenance and documentation effort to ensure the repository remains informative and accessible to its users."
+        },
+        "SharkSpidy/Weather-Web-App": {
+            "link": "https://github.com/SharkSpidy/Weather-Web-App",
+            "summary": "Activity in the Weather-Web-App repository includes a push event on December 1, 2024, with a commit message '24decpush', suggesting that the repository is being updated, potentially with new features or fixes, contributing to its ongoing development and refinement."
+        }
+    },
+    "profile_summary": "Joseph Shibu is a highly skilled developer with a strong foundation in Python, HTML, and CSS, bringing a unique blend of technical expertise and artistic flair to his work. As a gamer with a creative edge, he approaches development with a fresh perspective, crafting innovative solutions that combine functionality with visual appeal. With a growing professional network of 15 followers and an impressive portfolio of 20 public repositories, Joseph has established himself as a reliable and accomplished developer, dedicated to delivering high-quality results.\n\nJoseph's technical proficiency and passion for development make him a valuable asset to any project, as he consistently leverages his expertise to drive growth, improve efficiency, and push the boundaries of what is possible. By combining his artistic sensibilities with a deep understanding of programming fundamentals, Joseph creates engaging, user-friendly experiences that resonate with audiences. As a seasoned developer with a proven track record, Joseph Shibu is well-equipped to tackle complex challenges, collaborate with cross-functional teams, and drive successful outcomes, making him an excellent choice for companies seeking a talented, forward-thinking developer."
+}

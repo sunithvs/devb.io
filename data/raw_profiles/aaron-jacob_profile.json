@@ -1,0 +1,115 @@
+{
+    "username": "aaron-jacob",
+    "name": "Aaron Jacob",
+    "bio": "B.Tech Computer Science student at College Of Engineering Trivandrum.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/95364791?u=240da2c348968502212d88f126ab22c539046745&v=4",
+    "profile_url": "https://github.com/aaron-jacob",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EmployeeManagementSystem",
+            "description": "A basic Employee Management using PostgreSQL, Flask, HTML, CSS",
+            "score": 1.2916842663282897,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aaron-jacob/EmployeeManagementSystem",
+            "updatedAt": "2024-09-07T04:49:54Z"
+        },
+        {
+            "name": "MazeGenerator",
+            "description": "A Maze Generator to visualize BFS algorithm",
+            "score": 0.2970381725432588,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaron-jacob/MazeGenerator",
+            "updatedAt": "2024-07-23T19:02:42Z"
+        },
+        {
+            "name": "WordCounter",
+            "description": "A Live Word Counter",
+            "score": 0.16497683863384652,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aaron-jacob/WordCounter",
+            "updatedAt": "2023-10-24T05:23:07Z"
+        },
+        {
+            "name": "FlickPicksPal",
+            "description": null,
+            "score": 0.16410741777599977,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaron-jacob/FlickPicksPal",
+            "updatedAt": "2023-10-20T11:29:23Z"
+        },
+        {
+            "name": "MemeGenerator",
+            "description": "A Meme generating website using an API that imports memes from reddit",
+            "score": 0.16398619526897049,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aaron-jacob/MemeGenerator",
+            "updatedAt": "2023-10-08T14:08:58Z"
+        },
+        {
+            "name": "Calculator",
+            "description": "A Calculator app using HTML, CSS and Javascript",
+            "score": 0.16392585500285345,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaron-jacob/Calculator",
+            "updatedAt": "2023-10-07T10:07:07Z"
+        },
+        {
+            "name": "QR-Code-Generator",
+            "description": "A QR Code Generator that generates QR Codes for text and URLs",
+            "score": 0.16374590670147243,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aaron-jacob/QR-Code-Generator",
+            "updatedAt": "2023-10-04T06:04:56Z"
+        },
+        {
+            "name": "WeatherApp",
+            "description": "A simple WeatherApp using React and OpenWeatherMap API",
+            "score": 0.16368627829411217,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaron-jacob/WeatherApp",
+            "updatedAt": "2023-10-04T01:39:51Z"
+        }
+    ],
+    "followers": 6,
+    "following": 12,
+    "public_repos": 19,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 136,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "profile_summary": "Aaron Jacob is a skilled and dedicated developer with a strong foundation in computer science, currently pursuing a B.Tech degree at the prestigious College Of Engineering Trivandrum. He possesses exceptional technical skills in JavaScript, Python, and CSS, which enable him to craft innovative solutions and deliver high-quality results. With a growing professional network of 6 followers, Aaron has established himself as a reliable and knowledgeable expert in his field, demonstrating a unique ability to collaborate and share his expertise with others.\n\nAs an active and passionate developer, Aaron has built an impressive portfolio of 19 public repositories, showcasing his creativity, technical prowess, and commitment to continuous learning and improvement. His expertise in programming languages and web development has allowed him to drive projects forward with precision and speed, making him a valuable asset to any team. With a strong focus on innovation, quality, and customer satisfaction, Aaron is poised to make a significant impact in the tech industry, and his profile serves as a testament to his dedication, skills, and passion for delivering exceptional results as a developer."
+}

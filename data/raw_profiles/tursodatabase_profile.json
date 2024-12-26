@@ -1,10 +1,4 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
-    "activity_summary": {
-        "tursodatabase/limbo": {
-            "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include a push event on December 25, 2024, where changes were made to remove unnecessary space allocated for overflow pointers in non-overflow cases, indicating ongoing efforts to optimize repository performance and efficiency."
-        }
-    },
     "profile_summary": null
 }

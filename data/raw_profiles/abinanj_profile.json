@@ -1,0 +1,117 @@
+{
+    "username": "abinanj",
+    "name": "Abina NJ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/132810248?v=4",
+    "profile_url": "https://github.com/abinanj",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "lost-and-found",
+            "description": "hackathon",
+            "score": 1.3117837771938798,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/abinanj/lost-and-found",
+            "updatedAt": "2024-04-23T17:04:11Z"
+        },
+        {
+            "name": "portfolio",
+            "description": "my personal portfolio website",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abinanj/portfolio",
+            "updatedAt": "2024-11-12T15:47:42Z"
+        },
+        {
+            "name": "useless",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abinanj/useless",
+            "updatedAt": "2024-10-27T11:44:05Z"
+        },
+        {
+            "name": "useless_proj",
+            "description": "yesterday weather finder",
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abinanj/useless_proj",
+            "updatedAt": "2024-10-27T12:01:27Z"
+        },
+        {
+            "name": "lost2found",
+            "description": "hackathon",
+            "score": 0.27206300635396197,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abinanj/lost2found",
+            "updatedAt": "2024-04-22T15:58:26Z"
+        },
+        {
+            "name": "abinanj",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2348564807624527,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abinanj/abinanj",
+            "updatedAt": "2024-07-26T10:09:32Z"
+        },
+        {
+            "name": "1SKills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.1625856908090673,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abinanj/1SKills-communicate-using-markdown",
+            "updatedAt": "2023-09-14T14:19:49Z"
+        },
+        {
+            "name": "skills-github-pages",
+            "description": "My clone repository",
+            "score": 0.1625856908090673,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abinanj/skills-github-pages",
+            "updatedAt": "2023-09-14T15:06:50Z"
+        }
+    ],
+    "followers": 8,
+    "following": 0,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "abinanj/portfolio": {
+            "link": "https://github.com/abinanj/portfolio",
+            "summary": "Recent activities in the abinanj/portfolio repository indicate a high level of file upload activity, with multiple push events occurring on November 12, 2024. The uploaded files and created assets suggest ongoing development and updates to the repository's content."
+        }
+    },
+    "profile_summary": "Abina NJ is a highly skilled developer with expertise in JavaScript and HTML, possessing a strong foundation in web development. With a growing professional network of 8 followers, Abina has established a reputation as a reliable and innovative problem solver. Through 13 public repositories, Abina has demonstrated a consistent ability to design, develop, and deploy high-quality software solutions, showcasing a deep understanding of industry best practices and a commitment to ongoing learning and improvement. As a seasoned developer, Abina is well-versed in the latest technologies and trends, allowing for the creation of efficient, scalable, and user-friendly applications.\n\nAbina's technical expertise, combined with a passion for innovation and collaboration, makes them a valuable asset to any development team. With a strong focus on delivering exceptional results, Abina is dedicated to staying up-to-date with the latest advancements in JavaScript, HTML, and other relevant technologies. By leveraging this expertise, Abina is able to craft tailored solutions that meet the unique needs of clients and users, driving business success and customer satisfaction. As a trusted and experienced developer, Abina is poised to make a lasting impact in the world of web development, and is an excellent choice for companies seeking a skilled and dedicated professional to drive their technological initiatives forward."
+}

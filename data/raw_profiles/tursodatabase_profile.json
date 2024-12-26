@@ -3,11 +3,11 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository involve a series of push events, all dated December 26, 2024, focusing on the implementation of 'no allocation for serial types'. These frequent updates suggest ongoing development and refinement of the repository's functionality related to serial type handling."
+            "summary": "The repository has seen multiple push events with commits focused on implementing 'no allocation for serial types', indicating ongoing development and refinement of serial type handling within the project."
         },
         "tursodatabase/turso-client-php": {
             "link": "https://github.com/tursodatabase/turso-client-php",
-            "summary": "The tursodatabase/turso-client-php repository has seen significant activity on December 26, 2024, with push and pull request events centered around adding TS and NTS build support. This includes feature enhancements, code updates, and CI-related changes, indicating active development and expansion of the repository's capabilities, particularly in terms of build steps and version management."
+            "summary": "Recent activities include the introduction of new features such as adding TS and NTS build support, along with enhancements to versioning, ignoring unnecessary files, and improvements to the build process, showcasing active development and maintenance of the PHP client."
         }
     },
     "profile_summary": null

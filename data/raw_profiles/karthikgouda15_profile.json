@@ -1,0 +1,77 @@
+{
+    "username": "karthikgouda15",
+    "name": "Karthik G",
+    "bio": "Learning MERN, Full Stack Web-Development\ud83c\udfaf ||\ud83d\udcbb Computer Science Undergrad @DR.SMCE",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/177159010?u=a27b381458db0cdf1e286f05e1961d746254eb7f&v=4",
+    "profile_url": "https://github.com/Karthikgouda15",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "karthikgouda14",
+            "description": "Hello world, this is My profile",
+            "score": 1.7047974677741418,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Karthikgouda15/karthikgouda14",
+            "updatedAt": "2024-10-16T11:55:15Z"
+        },
+        {
+            "name": "labor-farmer-connect",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Karthikgouda15/labor-farmer-connect",
+            "updatedAt": "2024-12-20T19:17:45Z"
+        },
+        {
+            "name": "Agri2All",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Karthikgouda15/Agri2All",
+            "updatedAt": "2024-10-29T16:07:14Z"
+        },
+        {
+            "name": "Karthikgouda15",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.299763408375859,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Karthikgouda15/Karthikgouda15",
+            "updatedAt": "2024-12-24T16:33:32Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 6,
+    "pull_requests_merged": 5,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 63,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ kartikagouda15"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/in/karthik_gouda01"
+        }
+    ],
+    "activity_summary": {
+        "Karthikgouda15/Karthikgouda15": {
+            "link": "https://github.com/Karthikgouda15/Karthikgouda15",
+            "summary": "The repository has seen a surge in activities with multiple updates to the README.md file, totaling over 25 push events within a short span, primarily focusing on refining the project's description and details, demonstrating the repository's active maintenance and development."
+        }
+    },
+    "profile_summary": "Karthik G is a skilled and ambitious computer science undergraduate with a strong foundation in full stack web development, currently focused on mastering the MERN stack. With a growing professional network and a notable presence on GitHub, he has established himself as a talented developer with a keen eye for innovation and a passion for delivering high-quality solutions. His active involvement in various development projects is evident through his six public repositories, showcasing his technical expertise and dedication to the field.\n\nAs a driven and results-oriented individual, Karthik G brings a unique combination of technical skills and enthusiasm to the table, making him a valuable asset to any development team. With a solid understanding of computer science principles and a strong proficiency in web development, he is well-equipped to tackle complex projects and contribute to the creation of innovative software solutions. By leveraging his skills and expertise, Karthik G is poised to make a significant impact in the tech industry, and his ongoing commitment to learning and growth ensures that he remains at the forefront of the latest technologies and trends."
+}

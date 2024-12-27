@@ -1,0 +1,133 @@
+{
+    "username": "revanth1718",
+    "name": "Revanth",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/109272714?u=d3e2f250d938b01904a741e3f184c7e1ca26693a&v=4",
+    "profile_url": "https://github.com/revanth1718",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AI_Travel_Planner",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/revanth1718/AI_Travel_Planner",
+            "updatedAt": "2024-12-17T19:17:53Z"
+        },
+        {
+            "name": "AI_Trip_Planner",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/revanth1718/AI_Trip_Planner",
+            "updatedAt": "2024-12-17T19:27:00Z"
+        },
+        {
+            "name": "Data-Analytics-Pipeline-on-AWS",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/revanth1718/Data-Analytics-Pipeline-on-AWS",
+            "updatedAt": "2024-11-13T17:19:35Z"
+        },
+        {
+            "name": "Trip_Nest",
+            "description": null,
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/revanth1718/Trip_Nest",
+            "updatedAt": "2024-11-10T14:18:07Z"
+        },
+        {
+            "name": "Cold-email-generator-using-Llama3.1-LLM",
+            "description": "Developed Cold email generator using Llama3.1 LLM, Langchain, Chromadb and Streamlit",
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/revanth1718/Cold-email-generator-using-Llama3.1-LLM",
+            "updatedAt": "2024-11-09T12:18:00Z"
+        },
+        {
+            "name": "PrepInsights",
+            "description": null,
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/revanth1718/PrepInsights",
+            "updatedAt": "2024-11-04T17:45:00Z"
+        },
+        {
+            "name": "Stackoverflow_clone",
+            "description": null,
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/revanth1718/Stackoverflow_clone",
+            "updatedAt": "2024-11-02T18:19:12Z"
+        },
+        {
+            "name": "Foodies-Hub",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/revanth1718/Foodies-Hub",
+            "updatedAt": "2024-10-01T15:14:15Z"
+        }
+    ],
+    "followers": 3,
+    "following": 1,
+    "public_repos": 68,
+    "pull_requests_merged": 55,
+    "issues_closed": 83,
+    "achievements": {
+        "total_contributions": 866,
+        "repositories_contributed_to": 40
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "revanth1718/LeetCode-Graphs": {
+            "link": "https://github.com/revanth1718/LeetCode-Graphs",
+            "summary": "Recent activities include multiple updates to the README file, including topic tags, LeetHub creations, and statistics updates, showcasing a high level of engagement and maintenance of the repository."
+        },
+        "revanth1718/AI_Trip_Planner": {
+            "link": "https://github.com/revanth1718/AI_Trip_Planner",
+            "summary": "Recent activities involve updates to FirebaseConfig.js, .env file, and other changes, indicating ongoing development and refinement of the project, with a focus on configurations and environmental settings."
+        },
+        "revanth1718/AI_Travel_Planner": {
+            "link": "https://github.com/revanth1718/AI_Travel_Planner",
+            "summary": "The repository has seen a recent deletion of the README.md file, which may suggest a reorganization or repurposing of the project, but lacks other recent activities to provide further insight into its current state or direction."
+        },
+        "revanth1718/Data-Analytics-Pipeline-on-AWS": {
+            "link": "https://github.com/revanth1718/Data-Analytics-Pipeline-on-AWS",
+            "summary": "Although there is a push event with a brief message 'AWS', the lack of detailed activities in recent times suggests that the repository might be in a dormant state or awaiting further contributions to enhance its Data Analytics Pipeline on AWS."
+        }
+    },
+    "profile_summary": "Revanth is a highly skilled developer with a strong foundation in programming languages, including C, C++, and Python. With a professional network of peers and a notable presence on GitHub, Revanth has established himself as a reliable and innovative expert in his field. His technical expertise is complemented by a proven track record of active development, with an impressive collection of 68 public repositories that demonstrate his capabilities and showcase his work. As a proficient programmer, Revanth is well-versed in software development, data analysis, and problem-solving, making him a valuable asset to any project or team.\n\nWith a focus on delivering high-quality solutions and driving technical excellence, Revanth brings a unique value proposition to the table. His expertise in programming languages, combined with his experience in developing and maintaining large codebases, makes him an ideal collaborator for complex projects. As a dedicated and results-driven professional, Revanth is committed to staying up-to-date with the latest industry trends and technologies, ensuring that his skills remain relevant and in demand. With a growing professional network and a reputation for reliability and innovation, Revanth is poised to make a significant impact in the world of software development, and his contributions are sure to be noticed by peers and industry leaders alike."
+}

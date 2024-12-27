@@ -1,0 +1,130 @@
+{
+    "username": "soorya005",
+    "name": "Soorya A P",
+    "bio": "An tech enthusiast ready to explore the world ",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/165376922?u=0a60acee4c732f84ff633c4be86a3889f781f4f4&v=4",
+    "profile_url": "https://github.com/Soorya005",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pharmacy-database",
+            "description": null,
+            "score": 2.7014093537930357,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/Soorya005/pharmacy-database",
+            "updatedAt": "2024-08-10T17:45:46Z"
+        },
+        {
+            "name": "Soorya005",
+            "description": null,
+            "score": 1.6634743513902852,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Soorya005/Soorya005",
+            "updatedAt": "2024-10-12T15:29:30Z"
+        },
+        {
+            "name": "Cybersecurity-",
+            "description": null,
+            "score": 1.6630198135339747,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Soorya005/Cybersecurity-",
+            "updatedAt": "2024-09-24T10:36:38Z"
+        },
+        {
+            "name": "ICPS-Repository",
+            "description": null,
+            "score": 1.6630198135339747,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Soorya005/ICPS-Repository",
+            "updatedAt": "2024-08-10T17:45:44Z"
+        },
+        {
+            "name": "CrazyCaptcha",
+            "description": null,
+            "score": 1.4123590184376216,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Soorya005/CrazyCaptcha",
+            "updatedAt": "2024-11-16T12:43:44Z"
+        },
+        {
+            "name": "SymptomChecker",
+            "description": "RagHack",
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Soorya005/SymptomChecker",
+            "updatedAt": "2024-12-04T15:24:13Z"
+        },
+        {
+            "name": "Symptoms-and-FAQ-cheker",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Soorya005/Symptoms-and-FAQ-cheker",
+            "updatedAt": "2024-09-01T10:14:59Z"
+        },
+        {
+            "name": "SQl-Injections-",
+            "description": "A personal cheat sheet for SQL injections ",
+            "score": 0.3101556172405831,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Soorya005/SQl-Injections-",
+            "updatedAt": "2024-08-24T04:58:51Z"
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 15,
+    "pull_requests_merged": 4,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 118,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sooryaap"
+        }
+    ],
+    "activity_summary": {
+        "Soorya005/CrazyCaptcha": {
+            "link": "https://github.com/Soorya005/CrazyCaptcha",
+            "summary": "Recent activities in this repository include multiple updates to the README.md file, creation of new files such as app.py, Procfile, requirements.txt, and index.html, as well as improvements to the Captcha.py file including the addition of speech-to-text functionality and a morse code display button. Pull requests have also been merged, introducing new features and updating existing ones."
+        },
+        "Soorya005/Soorya005": {
+            "link": "https://github.com/Soorya005/Soorya005",
+            "summary": "This repository has seen recent updates to the README.md file and the creation of a new snake.yml file, along with the establishment of workflows. The focus has been on refining the repository's structure and documentation, indicating ongoing development and refinement of its contents."
+        }
+    },
+    "profile_summary": "Soorya A P is a skilled and innovative developer with a strong foundation in programming languages such as C, C++, and Python. With a growing professional network of followers and a portfolio of 15 public repositories, Soorya has established herself as a capable and dedicated developer. Her passion for technology and enthusiasm for exploring new ideas drive her to stay up-to-date with the latest industry trends and best practices. As a tech enthusiast, Soorya is always looking for opportunities to learn and grow, making her a valuable asset to any development team.\n\nWith a solid technical skillset and a proven track record of active development, Soorya brings a unique combination of creativity and technical expertise to the table. Her proficiency in languages such as C, C++, and Python enables her to tackle complex projects with ease, and her experience with public repositories demonstrates her ability to collaborate and share knowledge with others. As a skilled developer with a strong online presence, Soorya is well-positioned to make a meaningful contribution to the tech community, and her dedication to her craft makes her a reliable and results-driven professional in the field of software development."
+}

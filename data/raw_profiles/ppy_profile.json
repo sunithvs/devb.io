@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository have focused on addressing critical issues and refining game features. This includes a fix for the slider event generator incorrectly not generating repeats when tick distance is zero, rounding object coordinates to nearest integers on legacy export, and preventing a forced miss on a slider with strict tracking active if tracking is lost before the head was judged. Additionally, a change has been made to pause playback when entering gameplay test from the editor, and other minor issues have been resolved."
+            "summary": "Recent activities include a pull request to populate metadata from ID3 tags when changing beatmap audio track in the editor, a rewrite of the Rhythm Skill within osu!taiko, and a push to implement a bell curve into diffcalcutils. These changes aim to improve the accuracy of rhythm difficulty calculation, introduce new rhythm data classes, and provide bonuses to near-1 ratio's."
         },
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen updates to various articles, including a revision to the 'Tournament drawings' page and further cleanup of the 'Chat console' article to fix typos and improve writing. These updates aim to maintain the accuracy and readability of the wiki's content, with contributors following a self-check process to ensure changes meet the required standards."
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "Recent activity includes a pull request to update the FFmpeg build to use the macos-13 CI image, replacing the deprecated macos-12 image, which had been disabled. This change ensures that macOS jobs can start again and is expected to provide better compatibility with older macOS versions."
         }
     },
     "profile_summary": null

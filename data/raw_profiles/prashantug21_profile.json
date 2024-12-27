@@ -1,0 +1,137 @@
+{
+    "username": "prashantug21",
+    "name": "Prashant Yadav",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/99468316?v=4",
+    "profile_url": "https://github.com/prashantug21",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Qr-code-component",
+            "description": null,
+            "score": 1.1142577017653281,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/prashantug21/Qr-code-component",
+            "updatedAt": "2022-10-01T06:35:46Z"
+        },
+        {
+            "name": "movie-app",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/prashantug21/movie-app",
+            "updatedAt": "2024-12-22T14:33:05Z"
+        },
+        {
+            "name": "ml-model",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/prashantug21/ml-model",
+            "updatedAt": "2024-11-28T17:20:09Z"
+        },
+        {
+            "name": "spyneAI",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/prashantug21/spyneAI",
+            "updatedAt": "2024-11-15T04:20:35Z"
+        },
+        {
+            "name": "CoderBase-Hub",
+            "description": null,
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/prashantug21/CoderBase-Hub",
+            "updatedAt": "2024-10-12T12:18:00Z"
+        },
+        {
+            "name": "dynamic-website-main",
+            "description": null,
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/prashantug21/dynamic-website-main",
+            "updatedAt": "2024-09-24T08:09:02Z"
+        },
+        {
+            "name": "mediawave",
+            "description": "CRUD APIs for User Entity in Spring Boot using Firebase",
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/prashantug21/mediawave",
+            "updatedAt": "2024-06-03T08:21:54Z"
+        },
+        {
+            "name": "LeetCode-POTD",
+            "description": null,
+            "score": 0.27834107156170207,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/prashantug21/LeetCode-POTD",
+            "updatedAt": "2024-05-27T17:12:42Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 25,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 147,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "prashantug21/spyneAI": {
+            "link": "https://github.com/prashantug21/spyneAI",
+            "summary": "Recent activities in the spyneAI repository include multiple push events on November 15, 2024, where several updates were made, including adding a Readme file, updating cookie settings, adding CSS files, adding an index.js file, and deploying Vercel JSON files for backend integration."
+        },
+        "prashantug21/CoderBase-Hub": {
+            "link": "https://github.com/prashantug21/CoderBase-Hub",
+            "summary": "Recent activities in the CoderBase-Hub repository involve several push events, with the most notable ones occurring on October 9 and 11, 2024, which included fixing environment settings, removing console logs, and making changes to the Userdata call."
+        },
+        "prashantug21/ml-model": {
+            "link": "https://github.com/prashantug21/ml-model",
+            "summary": "The ml-model repository saw significant activities on November 28, 2024, with push events adding a Dev Container Folder, including requirements, and providing Health_Data, indicating ongoing development and updates to the machine learning model."
+        },
+        "prashantug21/CampusConnectClient": {
+            "link": "https://github.com/prashantug21/CampusConnectClient",
+            "summary": "Recent activities in the CampusConnectClient repository include a pull request event on December 10, 2024, focused on a security upgrade for axios from version 1.3.5 to 1.7.8 to fix a Cross-site Scripting (XSS) vulnerability, as well as a push event on the same day to fix package.json and package-lock.json to reduce vulnerabilities."
+        },
+        "prashantug21/portfolio": {
+            "link": "https://github.com/prashantug21/portfolio",
+            "summary": "The portfolio repository experienced updates on November 22 and 30, 2024, with push events that updated the portfolio and added GitHub Pages, indicating efforts to enhance the online presence and visibility of the portfolio."
+        }
+    },
+    "profile_summary": "Prashant Yadav is a highly skilled and accomplished developer with a strong foundation in programming languages such as TypeScript, C++, and JavaScript. With a keen eye for detail and a passion for innovative solutions, he has established himself as a reliable and efficient developer, capable of delivering high-quality results in a variety of projects. His extensive experience and technical expertise have allowed him to build a diverse portfolio of 25 public repositories, showcasing his active participation in the development community and his commitment to ongoing learning and growth.\n\nAs a dedicated and results-driven professional, Prashant Yadav is well-equipped to tackle complex challenges and provide effective solutions that meet the needs of his clients and collaborators. With a strong focus on best practices and industry standards, he is able to leverage his technical skills to drive projects forward and achieve exceptional outcomes. Although he is still building his professional network, Prashant Yadav's impressive body of work and dedication to his craft make him an attractive collaborator and a valuable asset to any development team, and his expertise in languages like TypeScript, C++, and JavaScript make him a strong candidate for a wide range of development projects."
+}

@@ -1,0 +1,146 @@
+{
+    "username": "nanda-gopal-sb",
+    "name": "Nandagopal SB ",
+    "bio": "Cochin University,\r\nSchool of Engineering. \r\nInformation Technology, Second Year\r\n",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146068859?u=6260f7b4c9e2381e7d95a11b8a7a42cfdcb535a9&v=4",
+    "profile_url": "https://github.com/nanda-gopal-sb",
+    "top_languages": [
+        [
+            "C++",
+            9
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "E-Vote",
+            "description": "A voting app made possible with GUN.js and Vite",
+            "score": 3.512122273229528,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nanda-gopal-sb/E-Vote",
+            "updatedAt": "2024-12-09T03:36:25Z"
+        },
+        {
+            "name": "colorSwap-cpp",
+            "description": "A simple color swap game using the stack data structure",
+            "score": 2.739880216668762,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/nanda-gopal-sb/colorSwap-cpp",
+            "updatedAt": "2024-11-04T18:52:19Z"
+        },
+        {
+            "name": "PDFReader",
+            "description": "A chatbot that can answer questions about the uploaded pdf. Deployed on Hugging Face. ",
+            "score": 2.7230533045030674,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/nanda-gopal-sb/PDFReader",
+            "updatedAt": "2024-09-24T17:11:03Z"
+        },
+        {
+            "name": "Tetris",
+            "description": "Tetris clone made in Unity and C#",
+            "score": 2.494262749879478,
+            "stars": 2,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/nanda-gopal-sb/Tetris",
+            "updatedAt": "2024-12-23T21:57:53Z"
+        },
+        {
+            "name": "legalChat",
+            "description": "ChatBot showing, hosted on huggingface",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nanda-gopal-sb/legalChat",
+            "updatedAt": "2024-12-26T09:41:27Z"
+        },
+        {
+            "name": "wordle",
+            "description": "The Wordle game in the terminal. Written in C++",
+            "score": 1.7127276313981543,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/nanda-gopal-sb/wordle",
+            "updatedAt": "2024-12-10T17:08:31Z"
+        },
+        {
+            "name": "letter-box-cpp",
+            "description": "C++ implementation of the letter-boxed-game",
+            "score": 1.7120152225473295,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/nanda-gopal-sb/letter-box-cpp",
+            "updatedAt": "2024-12-10T17:46:33Z"
+        },
+        {
+            "name": "llama_chatbot",
+            "description": "A chatbot to talk to llama 3-8B",
+            "score": 1.709937880257558,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nanda-gopal-sb/llama_chatbot",
+            "updatedAt": "2024-09-24T17:00:25Z"
+        }
+    ],
+    "followers": 2,
+    "following": 5,
+    "public_repos": 29,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 309,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nandagopalsb"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/nandagopalsb/"
+        }
+    ],
+    "activity_summary": {
+        "comodoro": {
+            "link": "https://github.com/nanda-gopal-sb/comodoro",
+            "summary": "The comodoro repository has seen significant activities in the past few days, with multiple push events. The updates include bug fixes such as fixing the timer and adding new features. The repository has been updated multiple times, indicating active development and refinement of the codebase."
+        },
+        "wordle": {
+            "link": "https://github.com/nanda-gopal-sb/wordle",
+            "summary": "The wordle repository has witnessed a series of updates, primarily focused on refining the codebase and improving readability. Recent push events include adding comments, updating the README file, and making several commits to enhance the overall quality of the repository."
+        },
+        "graph-visualizer": {
+            "link": "https://github.com/nanda-gopal-sb/graph-visualizer",
+            "summary": "The graph-visualizer repository has received recent updates, including the addition of keyboard inputs and other enhancements. Although the number of push events is relatively lower compared to other repositories, the updates demonstrate ongoing development efforts."
+        },
+        "2048-cpp": {
+            "link": "https://github.com/nanda-gopal-sb/2048-cpp",
+            "summary": "The 2048-cpp repository has seen limited but notable activities, with updates focusing on refining the project. The recent push events involve updating the readme file and making minor adjustments to the codebase, indicating a focus on maintenance and polish."
+        },
+        "Password_Manager": {
+            "link": "https://github.com/nanda-gopal-sb/Password_Manager",
+            "summary": "The Password_Manager repository has undergone updates, with a focus on code refactoring and enhancements. Although the number of recent push events is limited, the activities suggest a drive towards improving the repository's organization and functionality."
+        }
+    },
+    "profile_summary": "Nandagopal SB is a skilled developer with a strong foundation in programming languages, including C++, C, and Python. With a solid educational background in Information Technology from Cochin University, School of Engineering, he has developed a keen interest in coding and software development. As a second-year student, he has already made a significant impact in the developer community, with 2 followers and 29 public repositories that demonstrate his active involvement in development projects. His technical skills and knowledge in programming languages make him a valuable asset to any development team.\n\nAs a budding developer, Nandagopal SB brings a fresh perspective and innovative approach to software development. With his expertise in C++, C, and Python, he is well-equipped to tackle complex coding challenges and deliver high-quality solutions. His public repositories showcase his ability to work on a wide range of projects, from simple scripts to complex applications. With a growing professional network and a strong online presence, Nandagopal SB is poised to make a significant contribution to the world of software development, and his skills and expertise make him an attractive candidate for collaborative projects and professional opportunities."
+}

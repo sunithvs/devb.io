@@ -1,0 +1,111 @@
+{
+    "username": "javaz-t",
+    "name": "Abdul Javaz T",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147338963?u=29be510b9b6a0fd1b06afa2ba436cc5874ce1a4e&v=4",
+    "profile_url": "https://github.com/javaz-t",
+    "top_languages": [
+        [
+            "C++",
+            18
+        ],
+        [
+            "Dart",
+            16
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "spacez-images",
+            "description": null,
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/javaz-t/spacez-images",
+            "updatedAt": "2024-09-02T19:26:36Z"
+        },
+        {
+            "name": "ai_chat_app",
+            "description": null,
+            "score": 0.29308358997247175,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/javaz-t/ai_chat_app",
+            "updatedAt": "2024-07-14T08:47:27Z"
+        },
+        {
+            "name": "spaacez_resorses",
+            "description": null,
+            "score": 0.2734832334157838,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/javaz-t/spaacez_resorses",
+            "updatedAt": "2024-05-01T08:55:44Z"
+        },
+        {
+            "name": "shoe_kart__admin",
+            "description": "admin shoe kart with provider",
+            "score": 0.2657008430326736,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/javaz-t/shoe_kart__admin",
+            "updatedAt": "2024-03-20T16:28:54Z"
+        },
+        {
+            "name": "responsive-layout",
+            "description": null,
+            "score": 0.26471709289857087,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/javaz-t/responsive-layout",
+            "updatedAt": "2024-03-14T08:45:41Z"
+        },
+        {
+            "name": "image-crop",
+            "description": null,
+            "score": 0.2632921512615197,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/javaz-t/image-crop",
+            "updatedAt": "2024-03-05T08:44:13Z"
+        },
+        {
+            "name": "foot",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/javaz-t/foot",
+            "updatedAt": "2024-03-03T19:08:50Z"
+        },
+        {
+            "name": "foot-kart-admin",
+            "description": null,
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/javaz-t/foot-kart-admin",
+            "updatedAt": "2024-03-03T19:12:18Z"
+        }
+    ],
+    "followers": 3,
+    "following": 5,
+    "public_repos": 49,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 95,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Abdul Javaz T is a highly skilled developer with a strong foundation in C++ and Dart, demonstrating expertise in developing efficient and scalable software solutions. With a growing professional network of followers and an impressive portfolio of 49 public repositories, Abdul has established himself as a reliable and innovative presence in the development community. His technical skills and experience have enabled him to deliver high-quality projects, showcasing his ability to work effectively in a fast-paced environment and drive results-driven solutions.\n\nAs a seasoned developer, Abdul brings a unique value proposition to the table, combining technical prowess with a passion for innovation and collaboration. With a focus on leveraging industry-relevant technologies to drive business growth, Abdul is well-versed in developing cutting-edge applications that meet the needs of modern users. His expertise and achievements have earned him recognition within his professional network, and his commitment to ongoing learning and development ensures that he remains at the forefront of industry trends and best practices, delivering exceptional results and exceeding expectations in all aspects of his work."
+}

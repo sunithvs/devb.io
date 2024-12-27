@@ -1,0 +1,71 @@
+{
+    "username": "jagriti2425",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/136254739?v=4",
+    "profile_url": "https://github.com/jagriti2425",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DiamondPricePrediction2",
+            "description": null,
+            "score": 0.28793626779905185,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/jagriti2425/DiamondPricePrediction2",
+            "updatedAt": "2024-07-02T05:37:56Z"
+        },
+        {
+            "name": "DiamondPricePrediction",
+            "description": null,
+            "score": 0.28704032048575395,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jagriti2425/DiamondPricePrediction",
+            "updatedAt": "2024-06-25T10:14:06Z"
+        },
+        {
+            "name": "flask_app_a",
+            "description": null,
+            "score": 0.2765002433508858,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jagriti2425/flask_app_a",
+            "updatedAt": "2024-05-15T06:52:47Z"
+        },
+        {
+            "name": "assignment",
+            "description": null,
+            "score": 0.15776369138997973,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/jagriti2425/assignment",
+            "updatedAt": "2023-06-11T15:43:41Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a skilled professional with a strong foundation in Python and Jupyter Notebook, bringing a unique combination of technical expertise and innovative thinking to the table. With a growing portfolio of public repositories, they demonstrate a commitment to active development and a passion for sharing knowledge with the community. As a proficient programmer, they are well-versed in leveraging Python to drive data-driven insights and build efficient solutions, with a keen eye for detail and a dedication to delivering high-quality results.\n\nAs a rising talent in the development world, this individual is poised to make a significant impact with their expertise in Python and Jupyter Notebook, with a focus on collaboration, continuous learning, and creative problem-solving. With a strong focus on code quality, reliability, and technical excellence, they are an asset to any project or team, bringing a positive and professional attitude to every endeavor. Their growing presence on GitHub is a testament to their dedication to their craft, and their public repositories showcase a range of skills and expertise that are sure to impress, making them a valuable contributor to the development community."
+}

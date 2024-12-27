@@ -1,0 +1,68 @@
+{
+    "username": "torvalds",
+    "name": "Linus Torvalds",
+    "bio": null,
+    "location": "Portland, OR",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+    "profile_url": "https://github.com/torvalds",
+    "top_languages": [
+        [
+            "C",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "linux",
+            "description": "Linux kernel source tree",
+            "score": 40.792072458539636,
+            "stars": 184913,
+            "forks": 54541,
+            "language": "C",
+            "url": "https://github.com/torvalds/linux",
+            "updatedAt": "2024-12-27T17:19:58Z"
+        },
+        {
+            "name": "uemacs",
+            "description": "Random version of microemacs with my private modificatons",
+            "score": 22.662891536743587,
+            "stars": 1242,
+            "forks": 239,
+            "language": "C",
+            "url": "https://github.com/torvalds/uemacs",
+            "updatedAt": "2024-12-27T06:39:53Z"
+        },
+        {
+            "name": "test-tlb",
+            "description": "Stupid memory latency and TLB tester",
+            "score": 21.413489315566085,
+            "stars": 733,
+            "forks": 210,
+            "language": "C",
+            "url": "https://github.com/torvalds/test-tlb",
+            "updatedAt": "2024-12-26T06:33:49Z"
+        },
+        {
+            "name": "pesconvert",
+            "description": "Brother PES file converter",
+            "score": 18.63669969381466,
+            "stars": 413,
+            "forks": 70,
+            "language": "C",
+            "url": "https://github.com/torvalds/pesconvert",
+            "updatedAt": "2024-12-13T08:19:37Z"
+        }
+    ],
+    "followers": 223503,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2868,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {},
+    "profile_summary": "Linus Torvalds is a highly skilled and accomplished software developer with extensive expertise in the C programming language. With a strong online presence and a large network of followers, he has established himself as a prominent figure in the development community. His impressive portfolio of public repositories showcases his active involvement in various projects and his commitment to continuous learning and improvement. As a seasoned developer, he possesses a deep understanding of software development principles and is well-versed in designing and implementing efficient, scalable, and reliable code.\n\nLinus Torvalds brings a unique combination of technical expertise and collaborative spirit to the table, making him a valuable asset to any development team. His proficiency in C and other programming languages enables him to tackle complex projects with ease and deliver high-quality solutions. With a strong reputation for innovation and problem-solving, he is a trusted partner for businesses and organizations seeking to leverage technology to drive growth and success. Through his contributions to the open-source community and his engagement with fellow developers, Linus Torvalds continues to demonstrate his passion for software development and his dedication to advancing the field."
+}

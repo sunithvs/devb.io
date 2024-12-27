@@ -1,0 +1,124 @@
+{
+    "username": "sanjkrsna",
+    "name": "Sanjay Krishna",
+    "bio": "Greetings! I'm Sanjay , a B.Tech student specializing in Artificial Intelligence at Amrita Vishwa Vidyapeetham. ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92753357?u=4f6e725a0866c85b863b6e1c3d1606af669baa30&v=4",
+    "profile_url": "https://github.com/sanjkrsna",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RoboVac-Enhanced-Obstacle-Avoidance",
+            "description": "This GitHub repository contains an advanced robotic vacuum cleaner system with an enhanced obstacle avoidance system. The system leverages the power of YOLO-v5 along with Lidar technology for precise obstacle detection and avoidance. Additionally, the repository implements a complete path coverage functionality.",
+            "score": 2.584541510276869,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/sanjkrsna/RoboVac-Enhanced-Obstacle-Avoidance",
+            "updatedAt": "2023-08-18T12:27:42Z"
+        },
+        {
+            "name": "SaveMoney",
+            "description": null,
+            "score": 1.6510114540184615,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/sanjkrsna/SaveMoney",
+            "updatedAt": "2024-03-13T21:04:56Z"
+        },
+        {
+            "name": "1API-Image_Captioning",
+            "description": "utilizes a intel oneAPI to automatically create succinct and relevant captions for images, benefiting accessibility and content metadata enrichment.",
+            "score": 1.200840204776768,
+            "stars": 0,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sanjkrsna/1API-Image_Captioning",
+            "updatedAt": "2023-09-09T17:41:35Z"
+        },
+        {
+            "name": "DBMS-Project",
+            "description": null,
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sanjkrsna/DBMS-Project",
+            "updatedAt": "2024-11-25T01:51:52Z"
+        },
+        {
+            "name": "sanjkrsna",
+            "description": null,
+            "score": 0.2313160178628083,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sanjkrsna/sanjkrsna",
+            "updatedAt": "2024-09-11T23:03:53Z"
+        },
+        {
+            "name": "Supply_Chain_Management",
+            "description": null,
+            "score": 0.16588483704660195,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sanjkrsna/Supply_Chain_Management",
+            "updatedAt": "2023-11-09T06:43:07Z"
+        },
+        {
+            "name": "AI-ML-Stuff",
+            "description": "Organizing LLM's and other AI related projects into one repository",
+            "score": 0.15745835220560253,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sanjkrsna/AI-ML-Stuff",
+            "updatedAt": "2023-08-18T04:49:14Z"
+        },
+        {
+            "name": "Seam-Carving",
+            "description": "A java implementation of Seam Carving for Content Aware image resizing",
+            "score": 0.15424702165007825,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sanjkrsna/Seam-Carving",
+            "updatedAt": "2023-09-17T16:12:26Z"
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 13,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sanjay-krishna-r/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://github.com/sanjkrsna"
+        }
+    ],
+    "profile_summary": "Sanjay Krishna is a skilled and ambitious artificial intelligence specialist, currently pursuing his B.Tech degree at Amrita Vishwa Vidyapeetham. With a strong foundation in programming languages such as C++ and Python, he has developed a unique ability to leverage these skills to drive innovative solutions. Sanjay's proficiency in utilizing Jupyter Notebook for data analysis and visualization has enabled him to extract valuable insights and make informed decisions. As a talented developer with a growing professional network, he has garnered a notable following of peers who appreciate his technical expertise and collaborative approach.\n\nAs an active contributor to the open-source community, Sanjay has established a impressive portfolio of 13 public repositories, showcasing his dedication to continuous learning and development. With a keen interest in artificial intelligence, he is well-versed in the latest industry trends and technologies. Sanjay's exceptional technical skills, combined with his passion for innovation and problem-solving, make him a valuable asset to any project or organization. His strong work ethic, attention to detail, and ability to work effectively in a team environment have earned him a reputation as a reliable and results-driven developer, poised to make a significant impact in the field of artificial intelligence and beyond."
+}

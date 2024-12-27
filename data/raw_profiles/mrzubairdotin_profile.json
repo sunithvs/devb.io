@@ -1,0 +1,63 @@
+{
+    "username": "mrzubairdotin",
+    "name": "Mr Zubair",
+    "bio": "\ud83d\udc4b Hi There! I'm Mr. Zubair \u2014 Frontend Developer | Aspiring Full Stack Developer \ud83d\ude80",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/156564399?u=684ad548a2280a4951b6e1fec0f604b9b768c5ec&v=4",
+    "profile_url": "https://github.com/mrzubairdotin",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "vanilla-html-css-js-projects",
+            "description": "This repository contains simple web development projects built using vanilla HTML, CSS, and JavaScript. These projects do not rely on any external libraries or frameworks, showcasing basic web development concepts and techniques. Perfect for beginners to explore and learn the fundamentals of frontend development.",
+            "score": 0.40392376209658654,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mrzubairdotin/vanilla-html-css-js-projects",
+            "updatedAt": "2024-11-17T05:48:29Z"
+        },
+        {
+            "name": "mrzubairdotin",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mrzubairdotin/mrzubairdotin",
+            "updatedAt": "2024-11-02T16:09:14Z"
+        },
+        {
+            "name": "JavaScript-30-Days-Challenge-Basic-to-Advanced",
+            "description": "This is my JavaScript chanllage to learn 30 days javascript basic to advanced",
+            "score": 0.2927421047512304,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mrzubairdotin/JavaScript-30-Days-Challenge-Basic-to-Advanced",
+            "updatedAt": "2024-07-23T04:48:08Z"
+        }
+    ],
+    "followers": 0,
+    "following": 15,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 18,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "mrzubairdotin/mrzubairdotin": {
+            "link": "https://github.com/mrzubairdotin/mrzubairdotin",
+            "summary": "Recent activities in this repository include updates to the README.md file, which was modified on November 2, 2024, to provide more accurate information or clarify existing content."
+        }
+    },
+    "profile_summary": "Mr. Zubair is a highly skilled frontend developer with a strong foundation in JavaScript, driving innovation and excellence in the field of web development. With a growing portfolio of three public repositories, he demonstrates his ability to design, develop, and deploy high-quality applications, showcasing his technical expertise and commitment to best practices. As an aspiring full-stack developer, Mr. Zubair is dedicated to expanding his skill set, staying up-to-date with the latest trends and technologies, and delivering exceptional results that meet and exceed client expectations.\n\nAs a dedicated and results-driven professional, Mr. Zubair brings a unique value proposition to the table, combining technical prowess with a passion for collaborative development and continuous learning. With a strong focus on frontend development and a keen interest in full-stack development, he is well-positioned to drive success in a variety of projects, from responsive web applications to complex software systems. With his expertise in JavaScript and his growing network, Mr. Zubair is an emerging talent in the development community, poised to make a significant impact and contribute to the creation of innovative, user-centric solutions that drive business growth and customer engagement."
+}

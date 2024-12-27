@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests and pushes focusing on code cleanups, such as removing unused imports, killing unused functions, and renaming confusingly named variables like RowResult to StepResult. These efforts aim to improve the codebase's clarity and reduce build noise."
+            "summary": "Recent activities in the repository involve significant updates to the core functionality, including fixes to the 'like' function, enhancements to the 'sqlite_version' function to prevent out-of-bounds panics, and the introduction of support for DELETE query planning. These updates aim to improve the overall performance and stability of the repository, with a focus on reusing existing logic to streamline future changes and incorporate new features more efficiently."
         }
     },
     "profile_summary": null

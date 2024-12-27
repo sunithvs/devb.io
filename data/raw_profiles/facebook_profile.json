@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/docusaurus": {
-            "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities include the addition of author social icons for Bluesky, Mastodon, Threads, Twitch, YouTube, and Instagram, as well as updates to the theme-classic feature to add social icons for Mastodon and Bluesky. These changes aim to enhance the blog author experience and provide users with more flexibility in displaying their social media presence."
-        },
-        "facebook/metro": {
-            "link": "https://github.com/facebook/metro",
-            "summary": "The repository has seen recent activity with the merge of 'add' and 'change' events into 'touch' events for watcher backends, simplifying the internal events and reducing the burden on the watcher backends. This change aims to improve the efficiency and performance of the Metro system."
-        },
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent updates to the repository include fixes for a crash that occurred when the RNTester app was sent to the background on iOS devices. The fix ensures that the app no longer crashes when it is backgrounded, providing a more stable user experience."
+            "summary": "Recent activities include a pull request to fix iOS E2E tests, which resolved issues with the tests on the main branch by using preconfigured hermes artifacts, and a push event to implement this fix, ensuring the stability of the repository."
+        },
+        "facebook/winterfell": {
+            "link": "https://github.com/facebook/winterfell",
+            "summary": "A recent pull request added a security estimate in the unique decoding regime, simplifying the estimate in LDR and providing round-by-round soundness error, enhancing the repository's functionality and security."
         }
     },
     "profile_summary": null

@@ -1,0 +1,134 @@
+{
+    "username": "priyansh6570",
+    "name": "Priyansh Mishra",
+    "bio": "Hey there, I'm Priyansh Mishra, your friendly neighborhood tech enthusiast! I'm passionate about all things innovative and love diving into new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92854250?u=22c2f64a0bef8267c30f91ab701765adf699d7fd&v=4",
+    "profile_url": "https://github.com/Priyansh6570",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "videoHub-react-chakra-App",
+            "description": null,
+            "score": 1.1148038060731418,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/videoHub-react-chakra-App",
+            "updatedAt": "2022-11-08T19:30:17Z"
+        },
+        {
+            "name": "django-quiz-app",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/django-quiz-app",
+            "updatedAt": "2024-12-18T16:44:22Z"
+        },
+        {
+            "name": "mindful",
+            "description": null,
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Priyansh6570/mindful",
+            "updatedAt": "2024-12-09T22:57:44Z"
+        },
+        {
+            "name": "Bird-Watch-Dashboard",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/Bird-Watch-Dashboard",
+            "updatedAt": "2024-12-12T18:14:01Z"
+        },
+        {
+            "name": "GeoCountyMapper",
+            "description": "python script to get the county from latitude and longitude using OpenStreetMap's Nominatim API",
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Priyansh6570/GeoCountyMapper",
+            "updatedAt": "2024-12-04T05:41:20Z"
+        },
+        {
+            "name": "gimini",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/gimini",
+            "updatedAt": "2024-10-29T08:27:00Z"
+        },
+        {
+            "name": "social-media-platform-assignment",
+            "description": "This was an assignment that was given to add new features, though it was my first time interatcing with c#, angular, dotnet but the experience was amazing.",
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Priyansh6570/social-media-platform-assignment",
+            "updatedAt": "2024-10-20T14:58:19Z"
+        },
+        {
+            "name": "RPS-Royale",
+            "description": "An original responsive Rock Paper Scissors game where you face off against the computer. sound effects with the option to mute and unmute. Play anytime, anywhere on any device.",
+            "score": 0.29308358997247175,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Priyansh6570/RPS-Royale",
+            "updatedAt": "2024-07-21T09:53:17Z"
+        }
+    ],
+    "followers": 7,
+    "following": 10,
+    "public_repos": 41,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 79,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/priyansh6570/"
+        }
+    ],
+    "activity_summary": {
+        "devb.io": {
+            "link": "https://github.com/Priyansh6570/devb.io",
+            "summary": "Recent activities in devb.io include multiple push events from Priyansh6570, focusing on features like poster releases, 2024 wrapped with Gokul SPL animation, and scroll synchronization between left and right sections on user profile and 404 pages. Additionally, there were pull request events from sunithvs, enhancing the scroll sync feature and ensuring a smooth user experience."
+        },
+        "django-quiz-app": {
+            "link": "https://github.com/Priyansh6570/django-quiz-app",
+            "summary": "In django-quiz-app, recent activities consisted of push events from Priyansh6570, primarily dealing with the addition of static files and updates to the base URL, indicating ongoing development and refinement of the application's core functionalities."
+        },
+        "Tax_Sale": {
+            "link": "https://github.com/Priyansh6570/Tax_Sale",
+            "summary": "Activities in Tax_Sale involved a push event from Priyansh6570 updating dependencies in the requirements.txt file, along with a related pull request event in Ericdroush's repository, indicating collaborative efforts to manage project dependencies efficiently."
+        }
+    },
+    "profile_summary": "Priyansh Mishra is a highly skilled and innovative software developer with a strong proficiency in JavaScript, C++, and TypeScript. With a keen interest in emerging technologies, he has established himself as a trusted and reliable expert in his field, boasting an impressive network of professional connections and a notable influence within the developer community. His extensive experience and dedication to his craft are evident in his numerous public repositories, totaling 41, which demonstrate his commitment to active development and open-source collaboration.\n\nAs a passionate and forward-thinking technologist, Priyansh Mishra brings a unique value proposition to the table, leveraging his technical expertise to drive innovation and deliver high-quality solutions. With a solid foundation in programming languages and a keen eye for innovation, he is well-equipped to tackle complex challenges and develop cutting-edge applications. His strong online presence, coupled with his growing network of followers, underscores his reputation as a knowledgeable and skilled developer, making him an ideal partner for businesses and organizations seeking to harness the power of technology to drive growth and success."
+}

@@ -1,0 +1,120 @@
+{
+    "username": "muhammedmidlajtv",
+    "name": "Muhammed Midlaj",
+    "bio": "I'm a developer passionate about open-source projects and continuous learning. Check out my repositories to see my work in web development, app development etc.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/104316889?u=27f95f5106effd7bfbb59f7a239f76b988e2b116&v=4",
+    "profile_url": "https://github.com/muhammedmidlajtv",
+    "top_languages": [
+        [
+            "Python",
+            7
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Library_management",
+            "description": "library management system",
+            "score": 1.5426193566878168,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedmidlajtv/Library_management",
+            "updatedAt": "2023-05-08T13:25:31Z"
+        },
+        {
+            "name": "espy",
+            "description": "Mini project of 6th semester",
+            "score": 1.3050905844144585,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/muhammedmidlajtv/espy",
+            "updatedAt": "2024-07-14T13:26:21Z"
+        },
+        {
+            "name": "orinson",
+            "description": "orinson web intern",
+            "score": 0.3216510325810537,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muhammedmidlajtv/orinson",
+            "updatedAt": "2024-09-13T03:53:39Z"
+        },
+        {
+            "name": "personal_website",
+            "description": null,
+            "score": 0.21824010545674127,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/muhammedmidlajtv/personal_website",
+            "updatedAt": "2024-08-25T06:44:06Z"
+        },
+        {
+            "name": "dbms_final",
+            "description": null,
+            "score": 0.1677569374670613,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muhammedmidlajtv/dbms_final",
+            "updatedAt": "2023-12-06T16:18:49Z"
+        },
+        {
+            "name": "beweb_final",
+            "description": null,
+            "score": 0.16746879082346372,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedmidlajtv/beweb_final",
+            "updatedAt": "2023-12-03T15:03:55Z"
+        },
+        {
+            "name": "bloodbank",
+            "description": null,
+            "score": 0.16213981778198122,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedmidlajtv/bloodbank",
+            "updatedAt": "2023-09-08T08:17:08Z"
+        },
+        {
+            "name": "django",
+            "description": null,
+            "score": 0.16034970114196456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedmidlajtv/django",
+            "updatedAt": "2023-08-05T16:15:04Z"
+        }
+    ],
+    "followers": 8,
+    "following": 3,
+    "public_repos": 22,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 87,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "http://linkedin.com/in/muhammed-midlaj-t-v"
+        }
+    ],
+    "profile_summary": "Muhammed Midlaj is a highly skilled developer with a strong foundation in programming languages such as Python, JavaScript, and Dart. With a passion for open-source projects and a commitment to continuous learning, he has established himself as a dedicated and innovative professional in the field of web and app development. His active presence on GitHub, with 22 public repositories and a growing network of 8 followers, demonstrates his ability to collaborate and share knowledge with others. As a developer who is always looking to improve and expand his skills, Muhammed Midlaj is well-versed in the latest industry trends and technologies.\n\nMuhammed Midlaj's expertise in web and app development, combined with his proficiency in languages such as Python, JavaScript, and Dart, makes him a valuable resource for any project. His strong work ethic and attention to detail enable him to deliver high-quality solutions that meet the needs of his clients. With a focus on open-source projects and a dedication to sharing knowledge with others, Muhammed Midlaj is a reliable and skilled developer who can bring innovative solutions to the table. His professional online presence and commitment to ongoing learning and growth make him an attractive collaborator for businesses and individuals seeking a skilled and innovative developer."
+}

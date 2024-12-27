@@ -767,6 +767,9 @@ function renderErrorPage(error) {
             modal.classList.remove('hidden');
             loading.classList.remove('hidden');
             svgPreview.classList.add('hidden');
+            // make the download and share buttons disabled
+            downloadBtn.disabled = true;
+            shareBtn.disabled = true;
             const pathParts = window.location.pathname.split('/').filter(part => part);
             const username = pathParts[pathParts.length - 1];
 
@@ -783,6 +786,9 @@ function renderErrorPage(error) {
 
                 loading.classList.add('hidden');
                 svgPreview.classList.remove('hidden');
+                // enable the download and share buttons
+                downloadBtn.disabled = false;
+                shareBtn.disabled = false;
             } catch (error) {
                 console.error('Error:', error);
                 loading.classList.add('hidden');

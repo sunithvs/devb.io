@@ -3,19 +3,23 @@
     "activity_summary": {
         "facebook/react": {
             "link": "https://github.com/facebook/react",
-            "summary": "Recent activities indicate ongoing efforts to refine React's peer dependency requirements, with a focus on relaxing restrictions to accommodate a broader range of experimental features. Additionally, a pull request has been submitted to relax the React peer dependency requirement, aiming to simplify dependency management and improve overall flexibility."
+            "summary": "Recent activities in the facebook/react repository include multiple push events, primarily focused on initializing a basic Language Server Protocol (LSP) extension and adding build scripts. These updates suggest ongoing development to enhance the repository's functionality and maintenance."
         },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "Significant activities involve streamlining the codebase by removing obsolete namespace machinery and introducing new concepts such as maybe_managed_ptr. These changes aim to enhance the parser's reporting capabilities and improve support for literals, ultimately contributing to a more efficient and robust HHVM."
+        "facebook/CacheLib": {
+            "link": "https://github.com/facebook/CacheLib",
+            "summary": "The facebook/CacheLib repository saw recent activities including a pull request to update a build file for Ubuntu 22, adding a fast float library to prevent breaking issues with folly, and a push event migrating the OSS build process from custom to getdeps, indicating efforts to improve build efficiency and dependability."
         },
-        "facebook/redex": {
-            "link": "https://github.com/facebook/redex",
-            "summary": "Recent activities include promoting the 'handle more generics' feature to staging and stable, a move that underscores the ongoing efforts to enhance Redex's functionality and improve its handling of generics, thereby expanding its capabilities and usefulness."
+        "facebook/rocksdb": {
+            "link": "https://github.com/facebook/rocksdb",
+            "summary": "Activities in the facebook/rocksdb repository include a pull request aimed at adding a compiler check to suggest destructor overrides, enhancing code quality and alignment with CI checks, particularly for reducing discrepancies between GitHub CI and fbcode releases."
         },
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Notable activities involve removing namespace_cpp2 incantations and related machinery, aligning with broader efforts to simplify and modernize the Thrift ecosystem. These changes aim to eliminate hacks, reduce reliance on undefined variables, and promote a cleaner, more maintainable codebase."
+        "facebook/sapling": {
+            "link": "https://github.com/facebook/sapling",
+            "summary": "Recent activities in the facebook/sapling repository involve a push event focused on migrating the OSS build from a custom setup to getdeps, a move that likely aims to streamline and standardize the build process, leveraging existing tools for dependency management."
+        },
+        "facebook/fb303": {
+            "link": "https://github.com/facebook/fb303",
+            "summary": "The facebook/fb303 repository experienced a push event centered around migrating the OSS build from a custom configuration to getdeps, indicating an effort to simplify and unify the build process, potentially improving maintainability and reducing manual configuration overhead."
         }
     },
     "profile_summary": null

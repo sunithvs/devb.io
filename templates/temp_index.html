@@ -542,6 +542,10 @@ wrappedBtn.addEventListener('click', async () => {
     modal.classList.remove('hidden');
     loading.classList.remove('hidden');
     svgPreview.classList.add('hidden');
+     // make the do
+    downloadBtn.disabled = true;
+    shareBtn.disabled = true;
+
      const pathParts = window.location.pathname.split('/').filter(part => part);
     const username = pathParts[pathParts.length - 1];
     console.log(username);
@@ -559,6 +563,8 @@ wrappedBtn.addEventListener('click', async () => {
 
         loading.classList.add('hidden');
         svgPreview.classList.remove('hidden');
+        downloadBtn.disabled = false;
+        shareBtn.disabled = false;
     } catch (error) {
         console.error('Error:', error);
         loading.classList.add('hidden');

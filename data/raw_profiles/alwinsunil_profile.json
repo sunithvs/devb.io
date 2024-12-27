@@ -1,0 +1,142 @@
+{
+    "username": "alwinsunil",
+    "name": "Alwin Sunil",
+    "bio": "CS Student at Kalvium, Coimbatore",
+    "location": "Calicut, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64636626?u=391c2a7dcbc6349e0a908b7bfc5be9047e4352a6&v=4",
+    "profile_url": "https://github.com/AlwinSunil",
+    "top_languages": [
+        [
+            "JavaScript",
+            21
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "SCSS",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "git-sample",
+            "description": "Once again visiting git and GitHub from kalvium, Introduction to Git & GitHub",
+            "score": 4.221396123633741,
+            "stars": 0,
+            "forks": 14,
+            "language": "HTML",
+            "url": "https://github.com/AlwinSunil/git-sample",
+            "updatedAt": "2023-07-14T10:14:34Z"
+        },
+        {
+            "name": "kalvium-books",
+            "description": "Kalvium Books, FEWD, CA-5, Kalvium",
+            "score": 1.2086712579783296,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/AlwinSunil/kalvium-books",
+            "updatedAt": "2023-12-22T12:46:58Z"
+        },
+        {
+            "name": "rock-paper-scissors-python",
+            "description": "Game Development - Code submission, Problem Solving using Programming, Kalvium",
+            "score": 1.2021940536881728,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/AlwinSunil/rock-paper-scissors-python",
+            "updatedAt": "2023-09-13T05:03:53Z"
+        },
+        {
+            "name": "color-palette",
+            "description": "Color palette generator using colormind API.",
+            "score": 1.110045451110087,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/AlwinSunil/color-palette",
+            "updatedAt": "2021-12-12T14:55:23Z"
+        },
+        {
+            "name": "echo",
+            "description": "Stream your activity to the world",
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AlwinSunil/echo",
+            "updatedAt": "2024-11-28T09:36:42Z"
+        },
+        {
+            "name": "java-oops-bootcamp",
+            "description": "Java OOPS Bootcamp October 2024",
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AlwinSunil/java-oops-bootcamp",
+            "updatedAt": "2024-10-21T12:00:18Z"
+        },
+        {
+            "name": "simulated-work-instagram-clone",
+            "description": null,
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AlwinSunil/simulated-work-instagram-clone",
+            "updatedAt": "2024-09-19T11:54:20Z"
+        },
+        {
+            "name": "codehost",
+            "description": "Frontend web app deployment platform",
+            "score": 0.299763408375859,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AlwinSunil/codehost",
+            "updatedAt": "2024-12-19T17:35:18Z"
+        }
+    ],
+    "followers": 11,
+    "following": 12,
+    "public_repos": 70,
+    "pull_requests_merged": 55,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 424,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/alwinsunil_"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alwin-sunil/"
+        }
+    ],
+    "activity_summary": {
+        "kalviumcommunity/Squad46_Alwin_OOP_TrafficAtJunctionSimulation": {
+            "link": "https://github.com/kalviumcommunity/Squad46_Alwin_OOP_TrafficAtJunctionSimulation",
+            "summary": "Recent activities in this repository have focused on completing milestones related to object-oriented programming principles. Specifically, the open-closed principle, single responsibility principle, and Liskov substitution principle have been implemented. These updates have been made through a series of push and pull requests, demonstrating active development and adherence to professional coding standards."
+        },
+        "mugilankani/DataMotion-AI": {
+            "link": "https://github.com/mugilankani/DataMotion-AI",
+            "summary": "This repository has seen significant activity with multiple push events aimed at enhancing the project. Recent updates include the completion of a video, improvements to data rendering from a database, bug fixes in code generation of graphs, and the implementation of a basic render container. Additionally, the client app has been improved, and Google authentication has been integrated, showcasing a proactive approach to project development."
+        },
+        "AlwinSunil/echo": {
+            "link": "https://github.com/AlwinSunil/echo",
+            "summary": "The echo repository has experienced a series of updates, primarily centered around improving the user interface and implementing live streaming functionalities. These updates include enhancements to sample apps for streaming both camera and screen feeds, improvements to the .gitignore file, removal of unnecessary executables, and the implementation of a UI for the live streaming dashboard in the client application."
+        },
+        "AlwinSunil/codehost": {
+            "link": "https://github.com/AlwinSunil/codehost",
+            "summary": "Activities in the codehost repository have involved updates to stabilize the environment and improve user experience. Key updates include fixing a bug in the docker environment for the request-handler service, updating the client to use a stable version of React, and enhancing the UI. Additionally, the README file has been updated to provide more detailed information, reflecting a commitment to maintaining a well-documented and stable project."
+        }
+    },
+    "profile_summary": "Alwin Sunil is a highly skilled and innovative developer with a strong foundation in JavaScript, TypeScript, and SCSS. As a Computer Science student at Kalvium in Coimbatore, he has developed a solid understanding of computer science principles and applies this knowledge to create efficient and effective software solutions. With a growing network of 11 followers, Alwin has established himself as a reliable and knowledgeable professional in his field, demonstrating his ability to collaborate and share his expertise with others.\n\nAs an active developer with 70 public repositories, Alwin consistently showcases his technical prowess and commitment to ongoing learning and growth. His expertise in JavaScript, TypeScript, and SCSS enables him to craft high-quality, scalable, and maintainable code, making him a valuable asset to any development team. With a strong online presence and a reputation for delivering high-quality solutions, Alwin Sunil is well-positioned as a talented and dedicated developer, poised to make significant contributions to the world of software development and beyond."
+}

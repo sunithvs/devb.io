@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include multiple pull requests to add lazer mods to the 'Game modifier' section, with updates in Spanish and other languages, as well as updating entry counts in news posts."
+            "summary": "Recent activities include multiple pull requests for adding lazer mods to the 'Game modifier' section in various languages, including Spanish. These changes aim to enhance the wiki's content and provide more comprehensive information. Additionally, there have been updates to entry counts and merges of branches to ensure consistency and accuracy in the wiki's data."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include pull requests related to osu!taiko, such as implementing pooling for 'Hit' and 'KiaiHitExplosion' objects, and fixing issues with the editor and gameplay, with a focus on optimizing performance and improving the overall user experience."
+            "summary": "Recent activities focus on improving the osu!taiko mode, including pull requests for hit error adjustments, pooling of hit and kiai hit explosion objects, and discussions on optimal skin usage. These changes aim to enhance gameplay, performance, and user experience, with contributors actively addressing issues and seeking feedback to refine the game's mechanics."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "Recent activity includes a pull request to preserve upstream Cache-Control headers, which aims to improve the caching behavior and performance of the proxy server."
+            "summary": "A recent pull request aims to preserve upstream Cache-Control headers, which is essential for optimizing content delivery and caching. This change can improve the overall performance and efficiency of the proxy server, ensuring better handling of cached resources and reducing latency."
         }
     },
     "profile_summary": null

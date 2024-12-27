@@ -117,7 +117,7 @@ class GitHubProfileFetcher:
             featured = GitHubProjectRanker().get_featured(username)
             return {
                 'username': username,
-                'name': graphql_data.get('name', username),
+                'name': graphql_data.get('name') or username,
                 'bio': graphql_data.get('bio', ''),
                 'location': graphql_data.get('location', ''),
                 'avatar_url': graphql_data.get('avatarUrl', ''),

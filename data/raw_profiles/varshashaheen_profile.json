@@ -1,0 +1,130 @@
+{
+    "username": "varshashaheen",
+    "name": "Varsha Shaheen",
+    "bio": "Third-year Computer Science student at Cochin University Of Science And Technology.",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97077639?u=06923288c32165746388cafcea4556706b331e8d&v=4",
+    "profile_url": "https://github.com/VarshaShaheen",
+    "top_languages": [
+        [
+            "Python",
+            19
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WIT-Website",
+            "description": null,
+            "score": 4.125144756908394,
+            "stars": 0,
+            "forks": 13,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/WIT-Website",
+            "updatedAt": "2023-11-19T02:40:12Z"
+        },
+        {
+            "name": "Experimenting-with-Assembly-Language",
+            "description": "Here you can discover my experimentation with Assembly language, which was the first language I ever learned.",
+            "score": 3.3837613988733746,
+            "stars": 2,
+            "forks": 1,
+            "language": "Assembly",
+            "url": "https://github.com/VarshaShaheen/Experimenting-with-Assembly-Language",
+            "updatedAt": "2023-10-02T06:28:19Z"
+        },
+        {
+            "name": "graphics-lab",
+            "description": null,
+            "score": 1.6394907205098128,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/graphics-lab",
+            "updatedAt": "2024-11-16T09:37:38Z"
+        },
+        {
+            "name": "DSA-S4-new",
+            "description": null,
+            "score": 1.5447750190153622,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/VarshaShaheen/DSA-S4-new",
+            "updatedAt": "2023-07-13T16:55:16Z"
+        },
+        {
+            "name": "S3_oops_lab",
+            "description": null,
+            "score": 1.5407978370617805,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3_oops_lab",
+            "updatedAt": "2023-03-31T12:10:49Z"
+        },
+        {
+            "name": "Actions-Controlled-Presentation",
+            "description": null,
+            "score": 1.5406508497611722,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VarshaShaheen/Actions-Controlled-Presentation",
+            "updatedAt": "2023-03-21T14:41:46Z"
+        },
+        {
+            "name": "S3-Oop",
+            "description": null,
+            "score": 1.5397233939948751,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/VarshaShaheen/S3-Oop",
+            "updatedAt": "2023-02-27T05:34:21Z"
+        },
+        {
+            "name": "varshashaheen.github.io",
+            "description": null,
+            "score": 1.4599310091173412,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/VarshaShaheen/varshashaheen.github.io",
+            "updatedAt": "2022-07-23T18:44:05Z"
+        }
+    ],
+    "followers": 43,
+    "following": 3,
+    "public_repos": 81,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 437,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/varsha-shaheen-a10295231"
+        }
+    ],
+    "activity_summary": {
+        "VarshaShaheen/IWCMLQC": {
+            "link": "https://github.com/VarshaShaheen/IWCMLQC",
+            "summary": "Recent activities in the IWCMLQC repository include multiple updates to the brochure, changes to dates, and an update to the registration form. These updates were made across several PushEvents between October 3, 2024, and December 5, 2024, indicating ongoing maintenance and preparation for an event."
+        },
+        "VarshaShaheen/Network-Lab-S7": {
+            "link": "https://github.com/VarshaShaheen/Network-Lab-S7",
+            "summary": "The Network-Lab-S7 repository has seen significant activity with the addition of programs through several PushEvents between October 18, 2024, and November 28, 2024. This surge in updates suggests active development and expansion of the repository's content, focusing on adding new programs."
+        }
+    },
+    "profile_summary": "Varsha Shaheen is a highly motivated and skilled developer with a strong foundation in programming languages, including Python, C, and C++. As a third-year Computer Science student at Cochin University Of Science And Technology, she has developed a solid understanding of computer science concepts and principles. With a growing professional network of 43 followers, Varsha has established herself as a credible and reliable developer in her community. Her expertise in programming languages has enabled her to create innovative solutions and contribute to various projects, demonstrating her technical prowess and dedication to the field.\n\nWith 81 public repositories to her credit, Varsha has consistently demonstrated her ability to design, develop, and deploy high-quality software solutions. Her proficiency in programming languages, combined with her experience in software development, makes her a valuable asset to any project or organization. As a talented and ambitious developer, Varsha is committed to staying up-to-date with the latest trends and technologies in the industry, ensuring that her skills remain relevant and in-demand. With her strong technical skills, professional achievements, and passion for innovation, Varsha Shaheen is poised to make a significant impact in the world of software development and technology."
+}

@@ -1,0 +1,134 @@
+{
+    "username": "abhishek-s-lal",
+    "name": "Abhishek S Lal",
+    "bio": "Product Minded Software Engineer ",
+    "location": "Trivandrum, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53397244?u=f1d038c2714c4fe96e3a69db39af51b9198a64ae&v=4",
+    "profile_url": "https://github.com/Abhishek-S-Lal",
+    "top_languages": [
+        [
+            "Kotlin",
+            3
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "HackerRank-Javascript-Solutions",
+            "description": "Explore comprehensive JavaScript solutions to all HackerRank Algorithms domain challenges. Master algorithmic problem-solving with clear, well-documented code. Enhance your skills and build a strong foundation in JavaScript programming. Start your journey towards becoming a proficient developer with this extensive collection of solutions.",
+            "score": 3.4846015295297814,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhishek-S-Lal/HackerRank-Javascript-Solutions",
+            "updatedAt": "2024-12-25T04:20:22Z"
+        },
+        {
+            "name": "RIET-Campus-Connect",
+            "description": "An application for visitors and students of RIET college, Trivandrum to know the activities and events conducted on the college campus. ",
+            "score": 2.492397785809753,
+            "stars": 1,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/Abhishek-S-Lal/RIET-Campus-Connect",
+            "updatedAt": "2021-04-21T08:32:24Z"
+        },
+        {
+            "name": "get-my-token-archieved",
+            "description": "A user-friendly Queue Management System (QMS) that empowers users to create virtual queue booking webpages for efficient event and service queue management.",
+            "score": 1.6345305259318272,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Abhishek-S-Lal/get-my-token-archieved",
+            "updatedAt": "2024-07-10T13:16:28Z"
+        },
+        {
+            "name": "d7-networks-dashboard",
+            "description": null,
+            "score": 0.26671325228802273,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Abhishek-S-Lal/d7-networks-dashboard",
+            "updatedAt": "2024-03-26T05:59:10Z"
+        },
+        {
+            "name": "Abhishek-S-Lal",
+            "description": "Github profile repo.",
+            "score": 0.20340006214610468,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Abhishek-S-Lal/Abhishek-S-Lal",
+            "updatedAt": "2024-11-04T03:48:50Z"
+        },
+        {
+            "name": "katzion-machine-test",
+            "description": "This project is a React JS machine test task for Katzion Technology Solutions. To view the deployed site with data, kindly go to site settings and enable insecure content as the data is loaded using HTTP API request.",
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhishek-S-Lal/katzion-machine-test",
+            "updatedAt": "2023-10-26T15:43:54Z"
+        },
+        {
+            "name": "Whatsapp-Clone",
+            "description": null,
+            "score": 0.15332501866280734,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Abhishek-S-Lal/Whatsapp-Clone",
+            "updatedAt": "2023-02-16T14:07:38Z"
+        },
+        {
+            "name": "RubixChat",
+            "description": null,
+            "score": 0.1359264799549756,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Abhishek-S-Lal/RubixChat",
+            "updatedAt": "2023-02-19T05:00:35Z"
+        }
+    ],
+    "followers": 9,
+    "following": 8,
+    "public_repos": 19,
+    "pull_requests_merged": 2,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 189,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AbhishekslalS"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhishekslal/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/abhishekslal/"
+        }
+    ],
+    "activity_summary": {
+        "RubixCube-Innovations/mantine-theme-builder": {
+            "link": "https://github.com/RubixCube-Innovations/mantine-theme-builder",
+            "summary": "Recent activities in the Mantine Theme Builder repository include the addition of default variant styling for buttons, combobox, and inputs, as well as fixes for theme issues and style problems on mobile devices. The repository also saw updates to navigation components, removal of mixins from styles, and regeneration of themes. Additionally, there were various chore updates, including the removal of the burger icon from the header, updates to package.json, and regeneration of styles."
+        }
+    },
+    "profile_summary": "Abhishek S Lal is a highly skilled software engineer with a strong focus on product development, bringing a unique blend of technical expertise and innovative thinking to the table. With a solid foundation in Kotlin, TypeScript, and JavaScript, he possesses a deep understanding of programming languages and their applications. As a product-minded engineer, Abhishek is dedicated to creating high-quality software solutions that meet the needs of users and drive business results. His expertise in these areas has earned him a reputation as a reliable and talented developer, with a growing network of professional connections and a portfolio of 19 public repositories that demonstrate his active involvement in software development.\n\nAs a seasoned software engineer, Abhishek S Lal offers a distinctive combination of technical skills, product knowledge, and collaborative spirit, making him a valuable asset to any development team. With 9 followers and a consistent stream of public repositories, he has established himself as a credible and influential voice in the software development community. By leveraging his technical prowess and industry expertise, Abhishek delivers cutting-edge solutions that drive innovation and growth, and his commitment to excellence has earned him recognition as a high-performing and innovative professional in the field of software engineering."
+}

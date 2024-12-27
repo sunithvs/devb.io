@@ -1,0 +1,75 @@
+{
+    "username": "aiswaryapraveen",
+    "name": "Aiswarya Praveen",
+    "bio": "MCA Student",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/162799172?v=4",
+    "profile_url": "https://github.com/aiswaryapraveen",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "github-workshop",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aiswaryapraveen/github-workshop",
+            "updatedAt": "2024-09-28T10:31:57Z"
+        },
+        {
+            "name": "Basic-Resume-Builder",
+            "description": "A Basic Resume Builder using HTML, CSS and JavaScript, allowing users to input their personal and professional information and download a simple resume as a PDF.",
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aiswaryapraveen/Basic-Resume-Builder",
+            "updatedAt": "2024-08-10T09:11:41Z"
+        },
+        {
+            "name": "responsive-web-design",
+            "description": "Responsive Web Design projects built with HTML and CSS",
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aiswaryapraveen/responsive-web-design",
+            "updatedAt": "2024-07-21T13:48:35Z"
+        }
+    ],
+    "followers": 4,
+    "following": 6,
+    "public_repos": 5,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "aiswaryapraveen/github-workshop": {
+            "link": "https://github.com/aiswaryapraveen/github-workshop",
+            "summary": "Recent activities on this repository include multiple push events and pull requests, primarily focused on merging branches and updating code with various commit messages such as 'bl', 'branch', and 'new html file', indicating a period of active development and collaboration."
+        },
+        "aiswaryapraveen/FaceBeat": {
+            "link": "https://github.com/aiswaryapraveen/FaceBeat",
+            "summary": "This repository has seen significant activity with push events focused on face detection, validation, and corrections, along with updates to templates and the addition of new features like hashing and password management, showcasing a strong development pace in recent months."
+        },
+        "aiswaryapraveen/NoTime-OpenSource-repo": {
+            "link": "https://github.com/aiswaryapraveen/NoTime-OpenSource-repo",
+            "summary": "Activities in this repository include updates to index.html and the addition of new lines, along with a pull request, indicating minor but active maintenance and potential open-source collaboration."
+        }
+    },
+    "profile_summary": "Aiswarya Praveen is a skilled and ambitious developer with a strong foundation in JavaScript and HTML, currently pursuing a Master of Computer Applications degree. With a growing professional network of like-minded individuals, Aiswarya has established a notable presence in the development community, garnering a following of 4 peers who recognize her technical expertise. Her proficiency in web development is evident in the 5 public repositories she maintains, showcasing her ability to design, develop, and deploy innovative software solutions.\n\nAs a dedicated and results-driven developer, Aiswarya brings a unique value proposition to the table, combining technical prowess with a passion for delivering high-quality products. With a keen eye for detail and a talent for problem-solving, she excels in creating efficient, user-friendly, and scalable applications that meet the needs of diverse users. By leveraging her technical skills and industry knowledge, Aiswarya is poised to make a significant impact in the world of software development, and her ongoing commitment to learning and growth ensures that she remains at the forefront of the latest trends and technologies."
+}

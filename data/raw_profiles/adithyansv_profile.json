@@ -1,0 +1,134 @@
+{
+    "username": "adithyansv",
+    "name": "AdithyanSV",
+    "bio": "Tech Enthusiast | PC Builder | Junior Dev | Designer | Photographer | Ex 3D Modeler and Junior Game Dev",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/62543927?u=ccf107ae83cc04a6fabaab44806429d012b1945e&v=4",
+    "profile_url": "https://github.com/AdithyanSV",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "HTML",
+            12
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Project_Nexus",
+            "description": "smart institutional databases management system",
+            "score": 2.4592980807927036,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/Project_Nexus",
+            "updatedAt": "2024-07-11T06:20:53Z"
+        },
+        {
+            "name": "recallMe",
+            "description": null,
+            "score": 1.6414946722073407,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/recallMe",
+            "updatedAt": "2024-01-08T17:12:45Z"
+        },
+        {
+            "name": "chayakkada",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AdithyanSV/chayakkada",
+            "updatedAt": "2024-10-26T02:15:28Z"
+        },
+        {
+            "name": "crypto_chaya",
+            "description": "Because why not??",
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AdithyanSV/crypto_chaya",
+            "updatedAt": "2024-10-26T06:37:17Z"
+        },
+        {
+            "name": "Unity-Trial",
+            "description": "First unity project",
+            "score": 0.1672552444253863,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/Unity-Trial",
+            "updatedAt": "2023-11-28T16:26:54Z"
+        },
+        {
+            "name": "AdithyanSV",
+            "description": "About me :)",
+            "score": 0.1582988650110531,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdithyanSV/AdithyanSV",
+            "updatedAt": "2023-06-23T10:37:03Z"
+        },
+        {
+            "name": "Toolkit",
+            "description": "A quick, simple and easy toolkit for daily use",
+            "score": 0.1582988650110531,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/Toolkit",
+            "updatedAt": "2023-06-22T16:29:59Z"
+        },
+        {
+            "name": "learning-ajax-type-ahead",
+            "description": "Mind Empowered internship js30 challenge",
+            "score": 0.15690409912200068,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AdithyanSV/learning-ajax-type-ahead",
+            "updatedAt": "2023-05-21T18:20:05Z"
+        }
+    ],
+    "followers": 19,
+    "following": 59,
+    "public_repos": 25,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 90,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/adithyan_sv"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/adithyansv/"
+        }
+    ],
+    "activity_summary": {
+        "AdithyanSV/crypto_chaya": {
+            "link": "https://github.com/AdithyanSV/crypto_chaya",
+            "summary": "Recent activities in the crypto_chaya repository involved significant updates to the project, including the initialization of the project using Next.js, addition of backgrounds, audio, and items, as well as multiple layout changes and improvements to the README.md file, showcasing a high level of development and refinement."
+        },
+        "AdithyanSV/useless": {
+            "link": "https://github.com/AdithyanSV/useless",
+            "summary": "The useless repository has seen a recent clearing of data related to the first idea, indicating a shift or reset in the project's direction, although the current level of activity is relatively low compared to other repositories."
+        }
+    },
+    "profile_summary": "AdithyanSV is a skilled and innovative developer with a strong foundation in programming languages such as TypeScript, HTML, and JavaScript. With a growing professional network of 19 followers and an impressive portfolio of 25 public repositories, AdithyanSV has established himself as a dedicated and proficient developer. His expertise in web development and design is complemented by his experience in other creative fields, including photography and 3D modeling, allowing him to bring a unique perspective to his work. As a tech enthusiast and junior developer, AdithyanSV is constantly seeking to improve his skills and stay up-to-date with the latest industry trends.\n\nWith a background in game development and 3D modeling, AdithyanSV possesses a distinct combination of technical and creative skills. His experience as a junior game developer and designer has given him a keen eye for detail and a talent for crafting engaging user experiences. As a junior dev, AdithyanSV is committed to delivering high-quality solutions that meet the needs of his clients and users. By leveraging his technical expertise and creative vision, AdithyanSV is poised to make a significant impact in the world of web development and beyond, and his strong online presence and professional network are a testament to his growing influence and reputation in the industry."
+}

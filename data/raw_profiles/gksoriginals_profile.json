@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'gksoriginals' not found or query returned no data.",
+    "activity_summary": {
+        "PeoplePlusAI/sunva": {
+            "link": "https://github.com/PeoplePlusAI/sunva",
+            "summary": "Recent activities in the sunva repository include multiple updates to the README.md file, addition of a sunva logo, creation of a .all-contributorsrc file, and the addition of a default Malayalam model for testing. Furthermore, multiple voice modes were added to the repository, along with various frontend changes and issue fixes. These updates suggest ongoing development and refinement of the repository's contents and features."
+        },
+        "PeoplePlusAI/CtAI-engine": {
+            "link": "https://github.com/PeoplePlusAI/CtAI-engine",
+            "summary": "The CtAI-engine repository has seen limited recent activity, with the creation of a .gitkeep file being the primary update. This suggests that the repository may be in a dormant or maintenance phase, with minimal new development or contributions taking place at this time."
+        }
+    },
+    "profile_summary": null
+}

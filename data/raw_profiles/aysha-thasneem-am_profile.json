@@ -1,0 +1,138 @@
+{
+    "username": "aysha-thasneem-am",
+    "name": "Aysha Thasneem AM",
+    "bio": "Learner | Tech Connoisseur | Solvenger | Auditor |  KSUM's IDEA FEST Winner 2021",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92947348?u=fd306793b9d7fde41a9e5d7c47a592f3134da13a&v=4",
+    "profile_url": "https://github.com/aysha-thasneem-am",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "python-programming-lab",
+            "description": "Lab works for Python Programming, MCA S1, KTU",
+            "score": 3.443313800337745,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aysha-thasneem-am/python-programming-lab",
+            "updatedAt": "2024-10-27T07:39:24Z"
+        },
+        {
+            "name": "datastructure-programs",
+            "description": "Lab works for Data Structure Programs, MCA S1, KTU ",
+            "score": 2.6508768536652383,
+            "stars": 1,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/aysha-thasneem-am/datastructure-programs",
+            "updatedAt": "2024-02-28T13:19:06Z"
+        },
+        {
+            "name": "aysha-thasneem-am",
+            "description": "Config files for my GitHub profile.",
+            "score": 2.6446862995206772,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/aysha-thasneem-am/aysha-thasneem-am",
+            "updatedAt": "2024-07-29T17:27:17Z"
+        },
+        {
+            "name": "web-programming-lab",
+            "description": null,
+            "score": 2.4218312198603478,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aysha-thasneem-am/web-programming-lab",
+            "updatedAt": "2024-02-28T13:19:02Z"
+        },
+        {
+            "name": "electric-energy-monitoring-system-using-iot",
+            "description": "Smart electricity billing offers a cost-effective alternative to traditional energy billing by using IoT devices to monitor and manage appliance usage. It eliminates bill production/distribution, reduces billing errors, enables daily budgeting, and adjusts consumption based on income.",
+            "score": 1.6852611416836456,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aysha-thasneem-am/electric-energy-monitoring-system-using-iot",
+            "updatedAt": "2024-09-10T02:28:20Z"
+        },
+        {
+            "name": "OG-Furniture-Trading-LLC.",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aysha-thasneem-am/OG-Furniture-Trading-LLC.",
+            "updatedAt": "2024-12-24T07:31:42Z"
+        },
+        {
+            "name": "og-sample",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/aysha-thasneem-am/og-sample",
+            "updatedAt": "2024-12-24T08:51:42Z"
+        },
+        {
+            "name": "mern-crash-course",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aysha-thasneem-am/mern-crash-course",
+            "updatedAt": "2024-12-12T16:36:26Z"
+        }
+    ],
+    "followers": 14,
+    "following": 39,
+    "public_repos": 27,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 810,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AyshaThasneemA1"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ayshathasneemam/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/ayshathsnmam/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/aysha.thsnm.am/"
+        }
+    ],
+    "activity_summary": {
+        "aysha-thasneem-am/OG-Furniture-Trading-LLC.": {
+            "link": "https://github.com/aysha-thasneem-am/OG-Furniture-Trading-LLC.",
+            "summary": "Recent activities in this repository include a push event on December 24, 2024, where files were added via upload, indicating ongoing development and updates to the project."
+        }
+    },
+    "profile_summary": "Aysha Thasneem AM is a highly skilled and accomplished developer with a strong foundation in programming languages such as C, Python, and TypeScript. With a proven track record of delivering high-quality solutions, she has established herself as a reliable and innovative professional in the field of software development. As a winner of KSUM's IDEA FEST 2021, Aysha has demonstrated her ability to think creatively and develop innovative solutions that meet the needs of users. Her passion for learning and staying up-to-date with the latest technologies has earned her a reputation as a tech connoisseur and solvenger.\n\nAs a seasoned developer with 27 public repositories and a network of 14 followers, Aysha has built a strong professional reputation and is committed to delivering exceptional results. With a unique blend of technical expertise and business acumen, she is well-equipped to handle complex projects and provide effective solutions that meet the needs of clients. Aysha's expertise in programming languages, software development, and auditing makes her a valuable asset to any organization. Her dedication to her craft and her commitment to excellence have earned her a reputation as a high-performing and innovative developer who is capable of driving successful projects and delivering outstanding results."
+}

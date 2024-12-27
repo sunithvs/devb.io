@@ -1,0 +1,47 @@
+{
+    "username": "suchee",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2114564?u=af7ac30f607a8361873de0314500ec4427293d37&v=4",
+    "profile_url": "https://github.com/suchee",
+    "top_languages": [
+        [
+            "Matlab",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SNE-automator",
+            "description": "SNE automator script",
+            "score": 0.061948514654128914,
+            "stars": 0,
+            "forks": 0,
+            "language": "Matlab",
+            "url": "https://github.com/suchee/SNE-automator",
+            "updatedAt": "2016-03-24T10:39:07Z"
+        },
+        {
+            "name": "recep",
+            "description": null,
+            "score": 0.05940095663406819,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/suchee/recep",
+            "updatedAt": "2013-01-11T15:48:24Z"
+        }
+    ],
+    "followers": 3,
+    "following": 5,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a skilled and accomplished professional with a strong foundation in Matlab, a high-level programming language and environment. With a demonstrated track record of creating innovative solutions, they have earned a reputation as a reliable and proficient technologist. Their active participation in the development community is evident through their six public repositories, which showcase their ability to design, develop, and deploy effective software applications. As a respected member of the community, they have attracted a following of three peers who recognize their technical expertise and value their contributions.\n\nAs a seasoned Matlab expert, this developer brings a unique combination of technical skills and industry knowledge to the table. They are well-versed in leveraging Matlab's capabilities to drive business results and solve complex problems. With a strong focus on quality, reliability, and innovation, they deliver high-quality solutions that meet the needs of their clients and stakeholders. By leveraging their technical expertise and collaborative approach, this developer is able to drive projects forward and achieve outstanding results. Their dedication to staying up-to-date with the latest industry trends and technologies ensures that their solutions are always cutting-edge and effective."
+}

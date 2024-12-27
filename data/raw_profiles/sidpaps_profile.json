@@ -1,0 +1,56 @@
+{
+    "username": "sidpaps",
+    "name": "Sidharth Padmanabhan ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/90129241?u=0f7f326e49c7be9fe261955cbcce8e979193a858&v=4",
+    "profile_url": "https://github.com/sidpaps",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quickSave",
+            "description": "Food Waste management web application using Ai",
+            "score": 0.2607529003416843,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sidpaps/quickSave",
+            "updatedAt": "2024-02-16T17:18:41Z"
+        },
+        {
+            "name": "estorecev",
+            "description": "E Store CEV",
+            "score": 0.15763222689705664,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/sidpaps/estorecev",
+            "updatedAt": "2023-06-08T06:26:37Z"
+        }
+    ],
+    "followers": 3,
+    "following": 6,
+    "public_repos": 2,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://Instagram.com/sidharthpadmanabhan_"
+        }
+    ],
+    "profile_summary": "Sidharth Padmanabhan is a highly skilled and accomplished developer with a strong foundation in C++ and JavaScript, bringing a unique combination of technical expertise and innovative problem-solving skills to the table. With a growing professional network of peers and influencers, he has established himself as a reliable and collaborative developer, always looking to push the boundaries of what is possible. His expertise in programming languages and software development enables him to design, develop, and deploy high-quality solutions that meet the needs of modern applications.\n\nAs a dedicated and results-driven developer, Sidharth Padmanabhan has made significant contributions to the open-source community through his public repositories, demonstrating his commitment to active development and continuous learning. With a keen eye for detail and a passion for staying up-to-date with the latest industry trends, he is well-equipped to tackle complex projects and deliver exceptional results. By leveraging his technical skills and industry knowledge, Sidharth Padmanabhan provides valuable solutions and services that cater to the evolving needs of the tech industry, solidifying his position as a talented and forward-thinking developer in the field of software development."
+}

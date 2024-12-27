@@ -1,0 +1,121 @@
+{
+    "username": "malik-l0l",
+    "name": null,
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/154656931?v=4",
+    "profile_url": "https://github.com/malik-l0l",
+    "top_languages": [
+        [
+            "Python",
+            30
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AKSHAR",
+            "description": "File management software that replaces time-consuming manual searches with an efficient digital system. It centralizes records, enables quick retrieval, boosts staff productivity, and ensures compliance with the RTI Act 2005.",
+            "score": 1.8317556676799458,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/AKSHAR",
+            "updatedAt": "2024-11-28T19:08:45Z"
+        },
+        {
+            "name": "mallu-bingo",
+            "description": "Web version of traditional \"BINGO\" game played by the thousands of students in Kerala to cure the boredom in classes.",
+            "score": 1.7606081330637084,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/mallu-bingo",
+            "updatedAt": "2024-11-17T04:42:51Z"
+        },
+        {
+            "name": "Cricket",
+            "description": "Play finger cricket with computer",
+            "score": 1.6514998370419942,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Cricket",
+            "updatedAt": "2024-03-17T16:27:35Z"
+        },
+        {
+            "name": "Hex_Finder",
+            "description": "Want to find hex color codes for your project quickly?",
+            "score": 1.6514998370419942,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Hex_Finder",
+            "updatedAt": "2024-03-17T16:27:23Z"
+        },
+        {
+            "name": "Sub_Trans",
+            "description": "Translate text, subtitles without character limit",
+            "score": 1.6514998370419942,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Sub_Trans",
+            "updatedAt": "2024-03-17T10:08:15Z"
+        },
+        {
+            "name": "Zero_Point_Zero",
+            "description": "Simple basic terminal calculator",
+            "score": 1.6492777421771097,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Zero_Point_Zero",
+            "updatedAt": "2024-10-31T19:13:18Z"
+        },
+        {
+            "name": "Counter_App",
+            "description": "A lovely counter-application that can count on you; its distinguishing feature is the color-changing user interface.",
+            "score": 1.6428608039943717,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Counter_App",
+            "updatedAt": "2024-03-17T16:28:21Z"
+        },
+        {
+            "name": "Golden_Calculator",
+            "description": "If you're tired of ordinary calculators, try this incredible golden one right now!",
+            "score": 1.641011815041222,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Golden_Calculator",
+            "updatedAt": "2024-03-08T19:34:23Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 32,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 145,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "malik-l0l/mallu-bingo": {
+            "link": "https://github.com/malik-l0l/mallu-bingo",
+            "summary": "Recent activities in the mallu-bingo repository have primarily focused on updating the README.md file, with multiple push events occurring between November 3 and November 17, 2024. Additionally, there were commits to change templates and a full commit, indicating ongoing development and refinement of the project."
+        },
+        "malik-l0l/AKSHAR": {
+            "link": "https://github.com/malik-l0l/AKSHAR",
+            "summary": "The AKSHAR repository saw significant activity on November 28, 2024, with the creation of a README.md file and the deletion of the Documentation directory, suggesting a reorganization and improvement of the project's documentation and structure."
+        }
+    },
+    "profile_summary": "This developer is a highly skilled professional with expertise in Python and HTML, possessing a strong foundation in software development. With a portfolio of 32 public repositories, they have consistently demonstrated their ability to design, develop, and deploy high-quality projects. Their proficiency in programming languages and web development frameworks enables them to deliver innovative solutions that meet the evolving needs of the industry. As a dedicated and passionate developer, they stay up-to-date with the latest trends and technologies, ensuring their skills remain relevant and effective.\n\nWith a strong focus on delivering exceptional results, this developer has established themselves as a reliable and accomplished professional in their field. Although they are still building their professional network, their technical expertise and achievements position them for success and growth. By leveraging their technical skills and experience, they are well-equipped to drive projects forward and make meaningful contributions to the development community. As a talented and motivated individual, they are poised to make a positive impact in the industry, and their work is likely to attract attention and recognition from peers and industry leaders alike."
+}

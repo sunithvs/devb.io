@@ -1,0 +1,10 @@
+{
+    "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
+    "activity_summary": {
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests and pushes focusing on code cleanups, such as removing unused imports, killing unused functions, and renaming confusingly named variables like RowResult to StepResult. These efforts aim to improve the codebase's clarity and reduce build noise."
+        }
+    },
+    "profile_summary": null
+}

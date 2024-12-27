@@ -1,0 +1,130 @@
+{
+    "username": "tmsagarofficial",
+    "name": "S A G A R",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/110724849?u=27c63c12df15161053957332b6f6203fc9efadda&v=4",
+    "profile_url": "https://github.com/tmsagarofficial",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            11
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GraphicalPasswordAuthentication",
+            "description": null,
+            "score": 5.462054459751333,
+            "stars": 5,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/tmsagarofficial/GraphicalPasswordAuthentication",
+            "updatedAt": "2023-12-28T07:37:32Z"
+        },
+        {
+            "name": "StudentCommunityWebsite",
+            "description": null,
+            "score": 3.9993536889135894,
+            "stars": 2,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/tmsagarofficial/StudentCommunityWebsite",
+            "updatedAt": "2023-12-12T16:27:37Z"
+        },
+        {
+            "name": "DSA-PROJECT",
+            "description": null,
+            "score": 3.3896920684758993,
+            "stars": 2,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/tmsagarofficial/DSA-PROJECT",
+            "updatedAt": "2023-12-12T16:26:04Z"
+        },
+        {
+            "name": "hashvault",
+            "description": null,
+            "score": 2.8628251462897523,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/tmsagarofficial/hashvault",
+            "updatedAt": "2024-11-29T20:58:13Z"
+        },
+        {
+            "name": "e-karobar-website",
+            "description": "Pakistan's #1 High Profitable Dropshipping Market Place",
+            "score": 1.8114859804449792,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/tmsagarofficial/e-karobar-website",
+            "updatedAt": "2023-10-03T11:27:54Z"
+        },
+        {
+            "name": "Vnft",
+            "description": null,
+            "score": 1.641011815041222,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tmsagarofficial/Vnft",
+            "updatedAt": "2024-01-09T06:19:12Z"
+        },
+        {
+            "name": "vVv",
+            "description": null,
+            "score": 1.1968786497189359,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/tmsagarofficial/vVv",
+            "updatedAt": "2023-05-27T19:24:54Z"
+        },
+        {
+            "name": "RPA-Lab-Programs",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tmsagarofficial/RPA-Lab-Programs",
+            "updatedAt": "2024-12-18T03:35:15Z"
+        }
+    ],
+    "followers": 27,
+    "following": 57,
+    "public_repos": 187,
+    "pull_requests_merged": 11,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 178,
+        "repositories_contributed_to": 17
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/tmsagarofficial"
+        }
+    ],
+    "activity_summary": {
+        "tmsagarofficial/in-time-tec": {
+            "link": "https://github.com/tmsagarofficial/in-time-tec",
+            "summary": "Recent activities include adding submitted solutions for Week-2 HackerRank Assignments, updating crucial logic and string validity, and improving functions with edge cases. Additionally, a PR was submitted for CRUD operations with a simple console app and another PR for a calculator app. Multiple push events occurred with additions of various program files, showcasing significant development and refinement of project components."
+        },
+        "tmsagarofficial/RPA-Lab-Programs": {
+            "link": "https://github.com/tmsagarofficial/RPA-Lab-Programs",
+            "summary": "The repository saw multiple push events in a short span, with the addition of numerous programs, including Programs 11-22, indicating rapid progress and contributions to the project, with a focus on adding a substantial amount of new content to the repository."
+        }
+    },
+    "profile_summary": "S A G A R is a highly skilled developer with a strong foundation in programming languages, including C, Python, and HTML. With a professional network of 27 followers, S A G A R has established a reputation as a reliable and innovative expert in the field of software development. A prolific creator, S A G A R has contributed to 187 public repositories, demonstrating a commitment to active development and a passion for collaboration. This dedication to coding has earned S A G A R a reputation as a talented and accomplished developer, well-versed in the latest technologies and trends.\n\nAs a seasoned developer, S A G A R brings a unique combination of technical expertise and creative problem-solving skills to the table. With proficiency in multiple programming languages, S A G A R is equipped to tackle a wide range of projects, from web development to software engineering. With a strong online presence and a portfolio that showcases a diverse range of projects, S A G A R is an attractive candidate for companies seeking a talented and innovative developer. By leveraging industry-relevant keywords and maintaining a strong professional network, S A G A R continues to establish themselves as a leading voice in the development community, driven by a passion for coding and a commitment to delivering high-quality solutions."
+}

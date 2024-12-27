@@ -1,0 +1,118 @@
+{
+    "username": "dineshdk176",
+    "name": "Dinesh_K",
+    "bio": "Intermediate Developer in C , C++, Python , Java | Free Lancer",
+    "location": "Tirupur,Tamilnadu",
+    "avatar_url": "https://avatars.githubusercontent.com/u/151514446?u=2119c378ce3b2bf7748c97a64b68f07b5cf337a4&v=4",
+    "profile_url": "https://github.com/DineshDK176",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Project_SIH",
+            "description": "Smart Indian Hackathon Project Demo Development going on...",
+            "score": 4.162442977576649,
+            "stars": 2,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/DineshDK176/Project_SIH",
+            "updatedAt": "2024-12-27T02:24:29Z"
+        },
+        {
+            "name": "Dineshdk176",
+            "description": "Config files for my GitHub profile.",
+            "score": 2.4484277635714147,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/DineshDK176/Dineshdk176",
+            "updatedAt": "2024-09-06T06:39:47Z"
+        },
+        {
+            "name": "SDAW",
+            "description": "A basic desktop Assistant which is created by python. It is a GUI based application. It is a Assistant for Windows Operating System.",
+            "score": 1.307831116168715,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/DineshDK176/SDAW",
+            "updatedAt": "2024-11-15T01:13:51Z"
+        },
+        {
+            "name": "Calendar_using_C",
+            "description": "A Calendar that is developed in C programming language. It is only for year 2023. This my first project in all language..",
+            "score": 0.26811034532879713,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/DineshDK176/Calendar_using_C",
+            "updatedAt": "2024-04-02T14:44:24Z"
+        },
+        {
+            "name": "Desktop_Assistant",
+            "description": "A basic desktop Assistant which is created by python. It can be only run in prompt mode. It is a Assistant for Windows Operating System.",
+            "score": 0.26811034532879713,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/DineshDK176/Desktop_Assistant",
+            "updatedAt": "2024-04-02T14:48:33Z"
+        },
+        {
+            "name": "Java_Calculator",
+            "description": "A Simple Calculator Developed using Java. In this application GUI Interfaced Calculator which is designed by Swing package...",
+            "score": 0.26811034532879713,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/DineshDK176/Java_Calculator",
+            "updatedAt": "2024-04-02T14:39:10Z"
+        }
+    ],
+    "followers": 5,
+    "following": 7,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 59,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://Instagram.com/itz_dk176"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dinesh-k-7050a2290"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Dines_DK176"
+        }
+    ],
+    "activity_summary": {
+        "DineshDK176/Project_SIH": {
+            "link": "https://github.com/DineshDK176/Project_SIH",
+            "summary": "Recent activities in the Project_SIH repository include multiple push events with updates to the App.jsx file, a live link addition to the Readme file, and a merge of pull request #1. Additionally, a pull request event was triggered with the title 'Kickstarting Your Project with React:Let's Build Something Fun!', which aims to enhance the project by adding React project files and encourage collaboration to build something fun together."
+        },
+        "DineshDK176/SDAW": {
+            "link": "https://github.com/DineshDK176/SDAW",
+            "summary": "The SDAW repository has seen a recent update to the README.md file through a push event, indicating minor maintenance or documentation adjustments."
+        }
+    },
+    "profile_summary": "Dinesh_K is a highly skilled and accomplished intermediate developer with a strong foundation in programming languages such as C, Python, JavaScript, and Java. With a solid background in software development, Dinesh_K has built a reputation for delivering high-quality solutions that meet the needs of clients. As a freelancer, Dinesh_K has honed his skills in working independently and collaboratively, leveraging his technical expertise to drive innovative projects forward. With a growing professional network of followers and a portfolio of public repositories, Dinesh_K has established himself as a reliable and talented developer in the industry.\n\nDinesh_K's technical expertise and passion for coding have earned him a strong online presence, with seven public repositories showcasing his active development work. As a skilled problem-solver and quick learner, Dinesh_K is well-versed in industry-relevant technologies and is committed to staying up-to-date with the latest trends and advancements. With a strong focus on delivering exceptional results, Dinesh_K is a valuable asset to any project or organization, bringing a unique combination of technical skills, creativity, and dedication to the table. As a seasoned developer with a strong work ethic, Dinesh_K is poised to drive success in a variety of technical endeavors, from coding and software development to collaboration and innovation."
+}

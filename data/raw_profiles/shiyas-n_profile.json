@@ -1,0 +1,124 @@
+{
+    "username": "shiyas-n",
+    "name": "Muhammed Shiyas N",
+    "bio": "React Dev ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114045581?u=fc6793b512c518a76da48bac11496c0581a13329&v=4",
+    "profile_url": "https://github.com/Shiyas-N",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "framesify-backend",
+            "description": null,
+            "score": 1.2076232735386871,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Shiyas-N/framesify-backend",
+            "updatedAt": "2023-12-07T18:35:24Z"
+        },
+        {
+            "name": "test",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Shiyas-N/test",
+            "updatedAt": "2024-11-08T08:06:20Z"
+        },
+        {
+            "name": "javadoc-test",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Shiyas-N/javadoc-test",
+            "updatedAt": "2024-10-24T15:11:05Z"
+        },
+        {
+            "name": "react-shadcn",
+            "description": null,
+            "score": 0.3161267557513874,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Shiyas-N/react-shadcn",
+            "updatedAt": "2024-09-06T02:34:32Z"
+        },
+        {
+            "name": "framesify-frontend",
+            "description": null,
+            "score": 0.27474613157243294,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Shiyas-N/framesify-frontend",
+            "updatedAt": "2024-05-06T16:49:24Z"
+        },
+        {
+            "name": "RecipeRadar_Flutter",
+            "description": null,
+            "score": 0.25556723781402807,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Shiyas-N/RecipeRadar_Flutter",
+            "updatedAt": "2024-04-14T16:09:55Z"
+        },
+        {
+            "name": "SHN-Flet",
+            "description": null,
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Shiyas-N/SHN-Flet",
+            "updatedAt": "2023-10-21T18:37:33Z"
+        },
+        {
+            "name": "airBnbClone",
+            "description": null,
+            "score": 0.162250352577379,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Shiyas-N/airBnbClone",
+            "updatedAt": "2023-09-10T07:57:25Z"
+        }
+    ],
+    "followers": 5,
+    "following": 6,
+    "public_repos": 22,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 113,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/muhammed-shiyas-n"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ShiyasN23"
+        }
+    ],
+    "profile_summary": "Muhammed Shiyas N is a highly skilled and accomplished developer with a strong foundation in programming languages such as Python, JavaScript, and Java. With a proven track record of delivering high-quality solutions, he has established himself as a reputable and reliable expert in his field. As a React Dev, he specializes in building responsive and efficient user interfaces, leveraging his technical expertise to drive innovation and excellence in software development. With a growing professional network of 5 followers, Muhammed Shiyas N is recognized for his exceptional skills and dedication to the field of software development.\n\nMuhammed Shiyas N has an impressive portfolio of 22 public repositories, showcasing his active engagement in development projects and his commitment to collaborative innovation. His technical expertise, combined with his passion for delivering outstanding results, makes him a valuable asset to any development team. As a seasoned developer with a strong online presence, Muhammed Shiyas N continues to expand his skills and knowledge, staying up-to-date with the latest industry trends and technologies to provide cutting-edge solutions that meet the evolving needs of the digital landscape. With his unique blend of technical proficiency and creative vision, he is poised to make a lasting impact in the world of software development."
+}

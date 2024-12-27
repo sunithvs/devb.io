@@ -1,0 +1,62 @@
+{
+    "username": "loganathansaravanan",
+    "name": "Loganathan.s",
+    "bio": "Software developer ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/166622454?u=b714c0d063da0ccaea898323aacd0e2a582021df&v=4",
+    "profile_url": "https://github.com/loganathansaravanan",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "loganathansaravanan",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/loganathansaravanan/loganathansaravanan",
+            "updatedAt": "2024-12-14T09:14:34Z"
+        },
+        {
+            "name": "main",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/loganathansaravanan/main",
+            "updatedAt": "2024-12-14T08:35:13Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/loga_be?igsh=MXdxZnlicGp6aWozeQ=="
+        }
+    ],
+    "activity_summary": {
+        "loganathansaravanan/loganathansaravanan": {
+            "link": "https://github.com/loganathansaravanan/loganathansaravanan",
+            "summary": "Recent activities on this repository include multiple push events on December 14, 2024, with updates related to the user's skills and professional profile."
+        },
+        "loganathansaravanan/main": {
+            "link": "https://github.com/loganathansaravanan/main",
+            "summary": "This repository witnessed significant activities on December 14, 2024, with push events focusing on updates to the main.py file and other code enhancements, indicating ongoing development efforts."
+        }
+    },
+    "profile_summary": "Loganathan.s is a skilled software developer with a strong foundation in JavaScript, delivering innovative solutions and high-quality code. With a growing professional network and influence, Loganathan.s has established a reputation as a reliable and talented developer, currently followed by peers who appreciate his technical expertise. His active participation in development is evident through his public repositories, showcasing a commitment to collaborative and open-source development. As a software developer, Loganathan.s is dedicated to staying up-to-date with the latest industry trends and technologies, ensuring his skills remain relevant and effective.\n\nLoganathan.s brings a unique value proposition to the table, combining technical expertise with a passion for software development. His proficiency in JavaScript enables him to craft efficient, scalable, and user-friendly applications, making him a valuable asset to any development team. With a focus on delivering exceptional results and continuously improving his skills, Loganathan.s is poised to make a significant impact in the software development industry. His professional approach, combined with a strong work ethic and dedication to his craft, makes him an ideal collaborator or team member for projects requiring expertise in JavaScript and software development."
+}

@@ -6,6 +6,7 @@ import requests
 
 from config.settings import Settings
 
+
 class GitHubProjectRanker:
     def __init__(self):
         """

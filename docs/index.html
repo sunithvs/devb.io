@@ -529,9 +529,8 @@
                         <h2 class="text-xl font-bold">Quick Links</h2>
                         <ul class="mt-4">
                             <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
-                            <li><a href="#" class="hover:text-lime-500 transition-colors">Features</a></li>
-                            <li><a href="#" class="hover:text-lime-500 transition-colors">How It Works</a></li>
-                            <li><a href="#" class="hover:text-lime-500 transition-colors">Contribute</a></li>
+                            <li><a href="#how-to" class="hover:text-lime-500 transition-colors">How It Works</a></li>
+                            <li><a href="https://github.com/sunithvs/devb.io" class="hover:text-lime-500 transition-colors">Contribute</a></li>
                         </ul>
                     </div>
                     <div>
@@ -746,6 +745,7 @@
 
         });
     </script>
+    <script src="js/main.js"></script>
     <script>
         document.addEventListener(
             'DOMContentLoaded', () => {
@@ -763,17 +763,6 @@
                 const DEFAULT_OCTOCAT_IMAGE = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png';
 
                 // Debounce function to limit API calls
-                function debounce(func, delay) {
-                    let timeoutId;
-                    return function () {
-                        const context = this;
-                        const args = arguments;
-                        clearTimeout(timeoutId);
-                        timeoutId = setTimeout(() => {
-                            func.apply(context, args);
-                        }, delay);
-                    };
-                }
 
                 // Open modal
                 // openModalButton.addEventListener('click', (e) => {

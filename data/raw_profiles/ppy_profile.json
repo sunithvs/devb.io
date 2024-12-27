@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The repository has seen recent activities including updates to the Midnight Moment Art Contest news post, improvements to the Medals and Unlock Requirements sections, and expansions to the Difficulty Reduction mod articles. These updates demonstrate a commitment to maintaining and improving the osu! wiki, ensuring it remains a valuable resource for the community. Multiple pull requests have been submitted, focusing on translations, content updates, and enhancements, highlighting the collaborative effort to refine the wiki's content."
+            "summary": "Recent activities include multiple updates to the Game modifier section with lazer mods added for various languages, including Spanish and Chinese. There are also updates to news posts, such as the Midnight Moment Art Contest, with entry counts being revised. Additionally, there are numerous pull requests to improve translations and content, with contributors working on testing changes against the contribution checklist and awaiting reviews from fluent speakers."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu! repository has experienced significant activity with a focus on implementing pooling for taiko hit objects and improving the beatmap editing flow. A notable pull request aims to address issues with taiko pooling, including the creation of separate HitCentre and HitRim classes, while another proposal seeks to enhance the editing experience by introducing an audio tab for easier management of samples, banks, and volumes. These developments underscore the ongoing efforts to refine and expand osu!'s functionality and user experience."
+            "summary": "A significant pull request is addressing the osu!taiko pooling issue, aiming to solve problems with the Editor's right-click menu and key down actions. The pull request adds new HitCentre and HitRim classes, corresponding to don and katsu circles, and registers pools for these classes to optimize performance. However, the contributor is seeking help with certain aspects of the solution and is looking for feedback on the approach."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "A recent pull request in the s3-nginx-proxy repository aims to preserve upstream Cache-Control headers, ensuring that caching behavior is properly maintained. This change reflects a focus on optimizing the performance and reliability of the proxy server, which is crucial for efficient data transfer and user experience. By addressing caching, the repository contributors are working towards a more robust and scalable solution."
+            "summary": "A recent pull request aims to preserve upstream Cache-Control headers, although the description is currently empty, indicating that more information may be added as the pull request progresses."
         }
     },
     "profile_summary": null

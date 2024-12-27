@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "The repository has seen significant activity with four recent pull requests. The pull requests include the implementation of json_array_length for JSON support, a fix for the simulator to allow failure assertions, a resolution to the submission queue overflow issue on large blob writes, and corrections to the like function when the pattern contains regex meta characters, addressing issues #406 and #552. These updates aim to enhance the functionality and improve the overall performance of the repository."
+            "summary": "Recent activities in the tursodatabase/limbo repository have focused on improving functionality and addressing issues. Notable updates include the use of Self where possible, implementation of json_array_length, improvements to the simulator for failure assertions, and a fix for submission queue overflow on large blob writes. These updates demonstrate ongoing efforts to enhance the repository's capabilities and resolve existing problems."
         }
     },
     "profile_summary": null

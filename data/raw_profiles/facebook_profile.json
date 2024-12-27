@@ -1,14 +1,5 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
-    "activity_summary": {
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activities in the facebook/fbthrift repository include multiple push events with reverts and fixes for build failures, indicating efforts to stabilize and resolve issues within the codebase. The reverts include changes related to adding support for literals and modifying the parser to accept format strings, suggesting a focus on refining the repository's functionality and robustness."
-        },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "The facebook/hhvm repository has seen recent activities centered around addressing build failures, with push events containing reverts and fixes. These actions imply a concentrated effort to rectify issues and enhance the repository's stability, including reverts of commits related to adding support for literals and adjusting the parser, indicating a proactive approach to maintaining and improving the codebase."
-        }
-    },
+    "activity_summary": {},
     "profile_summary": null
 }

@@ -1,5 +1,10 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
-    "activity_summary": {},
+    "activity_summary": {
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests and push events focused on code cleanup, optimization, and feature implementation. Specifically, efforts have been made to random cleanups, rename RowResult to StepResult for clarity, implement json_array_length for JSON support, and align disk serialization with SQLite standards. Additionally, there have been refactorings and documentation tweaks in the core/btree module, aiming for better code quality and adherence to SQLite specifications."
+        }
+    },
     "profile_summary": null
 }

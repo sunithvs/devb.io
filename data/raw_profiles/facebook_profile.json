@@ -1,9 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/Ax": {
-            "link": "https://github.com/facebook/Ax",
-            "summary": "Recent activities in the facebook/Ax repository include a push event that occurred on December 27, 2024, which involved updating the latest version of the site, indicating ongoing development and maintenance efforts."
+        "facebook/stylex": {
+            "link": "https://github.com/facebook/stylex",
+            "summary": "The repository recently received a pull request and push event that replaced `esm-resolve` with `@dual-bundle/import-meta-resolve` to simplify the resolution of es-based projects, eliminating the need for duplicate code for `cjs` and `esm`."
+        },
+        "facebook/metro": {
+            "link": "https://github.com/facebook/metro",
+            "summary": "The repository witnessed significant activity with a push event that included multiple updates, such as ignoring the `.hg` directory for Flow, utilizing Flow-typed object payloads for watcher backends, and refactoring watcher backends to merge 'add' and 'change' events into 'touch'."
         }
     },
     "profile_summary": null

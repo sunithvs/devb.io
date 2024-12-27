@@ -257,7 +257,7 @@
                         <div class="glow"></div>
                         <button id="generate-btn" disabled
                                 class="px-4 py-2 rounded-lg border-2 border-black bg-white transition-colors flex items-center text-black z-10 cursor-not-allowed ">
-                            Generate 2024 wrapped
+                            Generate 2024 unwrapped
                         </button>
                     </div>
                 </div>
@@ -281,10 +281,10 @@
                         <svg class="w-28 h-28 animate-spin-slow" viewBox="0 0 100 100">
                             <path id="curve" d="M 50,50 m -37,0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0" fill="none"/>
                             <text>
-                                <textPath href="#curve" class="text-[15px]">
-                                    wrapped
+                                <textPath href="#curve" class="text-[13px]">
+                                    unwrapped
                                     <tspan fill="#70CF00">2024</tspan>
-                                    | wrapped
+                                    | unwrapped
                                     <tspan fill="#70CF00">2024</tspan>
                                     |
                                 </textPath>
@@ -292,7 +292,7 @@
                         </svg>
                     </div>
                     <div class="flex-1">
-                        <span class="bg-[#B9FF66] px-4 py-2 rounded-lg text-2xl font-medium">2024 Wrapped</span>
+                        <span class="bg-[#B9FF66] px-4 py-2 rounded-lg text-2xl font-medium">2024 Unwrapped</span>
                         <p class="mt-4 text-lg">Imagine your entire year of coding captured in one beautiful poster.
                             Share your coding journey with the world!</p>
                         <p class="font-medium mt-2">No sign-in required</p>
@@ -362,7 +362,7 @@
 
             <div id="loading" class="hidden flex-1 py-20 text-center">
                 <div class="animate-spin rounded-full h-16 w-16 border-b-2 border-black mx-auto mb-4"></div>
-                <p>Generating your wrapped...</p>
+                <p>Generating your unwrapped...</p>
             </div>
 
             <div id="svg-preview" class="hidden flex-1 overflow-y-auto">
@@ -671,14 +671,14 @@
                             return;
                         }
 
-                        const file = new File([blob], "github-wrapped-2024.png", {
+                        const file = new File([blob], "github-unwrapped-2024.png", {
                             type: "image/png"
                         });
 
                         const shareData = {
                             files: [file],
-                            title: '2024 GitHub Wrapped',
-                            text: 'Check out my 2024 GitHub Wrapped!'
+                            title: '2024 GitHub Unwrapped',
+                            text: 'Check out my 2024 GitHub Unwrapped!'
                         };
 
                         // Check if the data can be shared

@@ -238,7 +238,7 @@
                  <div class="glow"></div>
                         <button id="wrapped-btn"
                                 class="px-4 py-2 rounded-lg border-2 border-black bg-white transition-colors flex items-center text-black z-10 hover:bg-[#191A23] hover:text-white">
-                            2024 Wrapped
+                            2024 UnWrapped
                         </button>
                 </div>
             </div>
@@ -432,7 +432,7 @@
 <div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4 lg:p-0">
   <div class="bg-white rounded-xl p-4 lg:p-6 w-full max-w-4xl h-[90vh] flex flex-col">
     <div class="flex flex-col lg:flex-row justify-between items-center mb-4 gap-4">
-      <h2 class="text-2xl font-bold">2024 Wrapped</h2>
+      <h2 class="text-2xl font-bold">2024 Unwrapped</h2>
       <div class="flex gap-4">
         <button id="download-btn" class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors">
           Download
@@ -446,7 +446,7 @@
 
     <div id="loading" class="hidden flex-1 py-20 text-center">
       <div class="animate-spin rounded-full h-16 w-16 border-b-2 border-black mx-auto mb-4"></div>
-      <p>Generating your wrapped...</p>
+      <p>Generating your unwrapped...</p>
     </div>
 
     <div id="svg-preview" class="hidden flex-1 overflow-y-auto">
@@ -672,8 +672,8 @@ downloadBtn.addEventListener('click', async () => {
 
                 const shareData = {
                     files: [file],
-                    title: '2024 GitHub Wrapped',
-                    text: 'Check out my 2024 GitHub Wrapped!'
+                    title: '2024 GitHub unwrapped',
+                    text: 'Check out my 2024 GitHub Unwrapped!'
                 };
 
                 // Check if the data can be shared

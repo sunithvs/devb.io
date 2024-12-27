@@ -3,11 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include a pull request to populate metadata from ID3 tags when changing beatmap audio track in the editor, a rewrite of the Rhythm Skill within osu!taiko, and a push to implement a bell curve into diffcalcutils. These changes aim to improve the accuracy of rhythm difficulty calculation, introduce new rhythm data classes, and provide bonuses to near-1 ratio's."
+            "summary": "Recent activities include updates to populate track title and artist in the editor on audio file select, resolving issue #21189. Additionally, a push event introduced changes to populate metadata from ID3 tags when changing beatmap audio tracks in the editor, closing related issues and pull requests."
+        },
+        "ppy/s3-nginx-proxy": {
+            "link": "https://github.com/ppy/s3-nginx-proxy",
+            "summary": "The repository saw recent activities focused on preserving upstream Cache-Control headers, with a pull request and push event implementing this feature to improve caching behavior."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recent activity includes a pull request to update the FFmpeg build to use the macos-13 CI image, replacing the deprecated macos-12 image, which had been disabled. This change ensures that macOS jobs can start again and is expected to provide better compatibility with older macOS versions."
+            "summary": "Recently, the osu-framework repository had pull requests aimed at retrieving tags from Bass tracks when available, specifically for use in issue #21189 of the ppy/osu repository, demonstrating inter-repository collaboration to enhance functionality."
         }
     },
     "profile_summary": null

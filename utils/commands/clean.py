@@ -1,8 +1,9 @@
 import json
 import os
 from datetime import datetime
-from utils.base_command import BaseCommand
+
 from config.settings import Settings
+from utils.base_command import BaseCommand
 
 
 class CleanCommand(BaseCommand):
@@ -80,7 +81,8 @@ class CleanCommand(BaseCommand):
         """
         A script to clear the generated html files and data files while tracking analytics
         """
-        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data', '404.html', 'poster']
+        exclude_files = ['index.html', 'CNAME', 'README.md', 'images', 'style', 'data', '404.html', 'poster',
+                         '2024-unwrapped.html', '2024-wrapped.html']
 
         # Load processed users with error handling
         processed_users = {}

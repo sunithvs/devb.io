@@ -1,0 +1,62 @@
+{
+    "username": "loganathansaravanan",
+    "name": "Loganathan.s",
+    "bio": "Software developer ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/166622454?u=b714c0d063da0ccaea898323aacd0e2a582021df&v=4",
+    "profile_url": "https://github.com/loganathansaravanan",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "loganathansaravanan",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/loganathansaravanan/loganathansaravanan",
+            "updatedAt": "2024-12-14T09:14:34Z"
+        },
+        {
+            "name": "main",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/loganathansaravanan/main",
+            "updatedAt": "2024-12-14T08:35:13Z"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/loga_be?igsh=MXdxZnlicGp6aWozeQ=="
+        }
+    ],
+    "activity_summary": {
+        "loganathansaravanan/loganathansaravanan": {
+            "link": "https://github.com/loganathansaravanan/loganathansaravanan",
+            "summary": "The loganathansaravanan/loganathansaravanan repository has recently seen a series of push events on December 14, 2024, with updates related to 'my skill', indicating ongoing development and refinement of skills within the repository."
+        },
+        "loganathansaravanan/main": {
+            "link": "https://github.com/loganathansaravanan/main",
+            "summary": "The loganathansaravanan/main repository experienced push events on December 14, 2024, including updates to the main.py file and a secondary push, suggesting active maintenance and enhancement of the repository's core functionality."
+        }
+    },
+    "profile_summary": "Loganathan.s is a skilled software developer with a strong foundation in JavaScript, demonstrating expertise in developing innovative solutions. With a growing professional network and influence, as evident from having 1 follower, Loganathan.s is committed to delivering high-quality results and contributing to the development community. As a dedicated software developer, Loganathan.s has actively developed and maintained 2 public repositories, showcasing a passion for coding and a willingness to collaborate with others. This dedication to the craft has allowed Loganathan.s to refine technical skills and stay up-to-date with the latest industry trends.\n\nAs a reliable and skilled developer, Loganathan.s brings a unique value proposition to the table, combining technical expertise with a passion for innovation and collaboration. With a focus on JavaScript, Loganathan.s is well-equipped to tackle complex development projects, driving results and delivering exceptional quality. By leveraging industry-relevant skills and expertise, Loganathan.s is poised to make a meaningful impact in the software development community, and is an ideal candidate for collaborations, projects, and opportunities that require a skilled and dedicated developer with a strong work ethic and commitment to excellence."
+}

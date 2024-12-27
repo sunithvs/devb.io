@@ -1,0 +1,56 @@
+{
+    "username": "sakkthi2004",
+    "name": "Sakkthi",
+    "bio": "",
+    "location": "Tamilnadu ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/153458572?u=8bab91182c4abefdf8b904ab7757e0e38087ca39&v=4",
+    "profile_url": "https://github.com/Sakkthi2004",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Single-page-CV",
+            "description": null,
+            "score": 0.344296591686565,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sakkthi2004/Single-page-CV",
+            "updatedAt": "2024-10-11T04:55:40Z"
+        }
+    ],
+    "followers": 4,
+    "following": 4,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 8,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/i_m_sakkthi_?igsh=NGI3cW9kdjl4cHQz"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sakkthivelan-s-ab7847299"
+        }
+    ],
+    "activity_summary": {
+        "DineshDK176/Project_SIH": {
+            "link": "https://github.com/DineshDK176/Project_SIH",
+            "summary": "Multiple push events have occurred recently in the Project_SIH repository, including updates and deletions of the pmsss.html file, as well as file uploads, indicating active development and maintenance of the project."
+        },
+        "Sakkthi2004/Single-page-CV": {
+            "link": "https://github.com/Sakkthi2004/Single-page-CV",
+            "summary": "The Single-page-CV repository has seen recent activity with multiple push events, specifically focusing on the creation and update of the README.md file, suggesting efforts to improve documentation and readability of the project."
+        }
+    },
+    "profile_summary": "Sakkthi is a skilled and accomplished developer with a strong foundation in HTML, bringing a high level of technical expertise to the table. With a growing professional network of followers and a portfolio of public repositories, Sakkthi has established themselves as a dedicated and innovative professional in the field of web development. Their expertise in HTML has enabled them to craft high-quality, user-friendly websites and applications that meet the needs of clients and users alike.\n\nAs a reliable and results-driven developer, Sakkthi is committed to delivering exceptional solutions that drive success. With a keen eye for detail and a passion for staying up-to-date with the latest industry trends and technologies, Sakkthi is well-equipped to tackle complex development challenges and deliver innovative, effective solutions. With a strong online presence and a reputation for excellence, Sakkthi is an ideal collaborator or partner for businesses and individuals seeking to leverage the power of HTML and web development to achieve their goals and thrive in a rapidly evolving digital landscape."
+}

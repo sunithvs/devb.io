@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities in the ppy/osu-wiki repository include several pull requests focused on adding lazer mods to the Game modifier section in various languages, including Spanish, and further cleanup of the Chat console page. These changes aim to improve the wiki's content and accuracy, with contributors testing their changes against the contribution checklist and awaiting review from fluent speakers for translations."
-        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The ppy/osu repository has seen significant activity with multiple pull requests addressing various aspects of the game. These include fixes such as not forcing a miss on sliders with strict tracking active if tracking is lost before the head is judged, pausing playback when entering gameplay test from the editor, and adjusting the position of hit errors in certain game modes. Additionally, there are efforts to improve performance through pooling of hit objects in the taiko mode, aiming to reduce unnecessary object creation and improve overall gameplay experience."
+            "summary": "Recent activities in the osu repository have focused on addressing critical issues and refining game features. This includes a fix for the slider event generator incorrectly not generating repeats when tick distance is zero, rounding object coordinates to nearest integers on legacy export, and preventing a forced miss on a slider with strict tracking active if tracking is lost before the head was judged. Additionally, a change has been made to pause playback when entering gameplay test from the editor, and other minor issues have been resolved."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "The osu-wiki repository has seen updates to various articles, including a revision to the 'Tournament drawings' page and further cleanup of the 'Chat console' article to fix typos and improve writing. These updates aim to maintain the accuracy and readability of the wiki's content, with contributors following a self-check process to ensure changes meet the required standards."
         }
     },
     "profile_summary": null

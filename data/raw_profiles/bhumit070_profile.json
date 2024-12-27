@@ -1,0 +1,125 @@
+{
+    "username": "bhumit070",
+    "name": "Bhoomit Ganatra",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63059063?u=4dacb2ff0f22a35015f3023d87fda0cd82b15609&v=4",
+    "profile_url": "https://github.com/bhumit070",
+    "top_languages": [
+        [
+            "TypeScript",
+            14
+        ],
+        [
+            "JavaScript",
+            16
+        ],
+        [
+            "Go",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "bun-drizzle",
+            "description": null,
+            "score": 4.055602005519959,
+            "stars": 3,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bhumit070/bun-drizzle",
+            "updatedAt": "2024-05-06T05:40:10Z"
+        },
+        {
+            "name": "destiny",
+            "description": null,
+            "score": 3.4744430626822287,
+            "stars": 4,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/bhumit070/destiny",
+            "updatedAt": "2024-02-11T09:51:14Z"
+        },
+        {
+            "name": "jseassy",
+            "description": null,
+            "score": 3.4459235413038023,
+            "stars": 2,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bhumit070/jseassy",
+            "updatedAt": "2024-02-14T08:53:05Z"
+        },
+        {
+            "name": "PackageFlex",
+            "description": null,
+            "score": 3.0303170085803997,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bhumit070/PackageFlex",
+            "updatedAt": "2024-03-31T10:50:57Z"
+        },
+        {
+            "name": "browser_tabs_communication",
+            "description": null,
+            "score": 3.0279108815501528,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bhumit070/browser_tabs_communication",
+            "updatedAt": "2024-08-17T02:48:07Z"
+        },
+        {
+            "name": "thala_for_a_reason",
+            "description": "Thala Checker",
+            "score": 2.594736657353956,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bhumit070/thala_for_a_reason",
+            "updatedAt": "2023-12-23T07:54:07Z"
+        },
+        {
+            "name": "node-boilerplate-ts",
+            "description": null,
+            "score": 2.421039687853605,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bhumit070/node-boilerplate-ts",
+            "updatedAt": "2024-11-13T04:04:49Z"
+        },
+        {
+            "name": "dotfiles",
+            "description": null,
+            "score": 1.6303424648117681,
+            "stars": 1,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/bhumit070/dotfiles",
+            "updatedAt": "2024-12-26T09:48:06Z"
+        }
+    ],
+    "followers": 10,
+    "following": 18,
+    "public_repos": 46,
+    "pull_requests_merged": 8,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 625,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "bhumit070/dotfiles": {
+            "link": "https://github.com/bhumit070/dotfiles",
+            "summary": "The bhumit070/dotfiles repository has seen significant updates recently, with multiple push events occurring between November 5, 2024, and December 26, 2024. The primary focus of these updates has been on the brewfile, with adjustments made to aliases, including setting up trash-cli, and various updates to the brewfile itself."
+        },
+        "bhumit070/video-encoder": {
+            "link": "https://github.com/bhumit070/video-encoder",
+            "summary": "The bhumit070/video-encoder repository underwent notable changes on December 11, 2024, with two push events aimed at enhancing its functionality. These updates included modifications to the job file for filtering jobs by status and adjustments to run generate and push commands directly within a Docker container, along with the addition of job status and data to the job column."
+        }
+    },
+    "profile_summary": "Bhoomit Ganatra is a highly skilled and accomplished developer with a strong proficiency in TypeScript, JavaScript, and Go. With a demonstrated track record of delivering high-quality solutions, Bhoomit has established himself as a reliable and innovative professional in the field of software development. His extensive experience and expertise in programming languages have enabled him to craft efficient, scalable, and maintainable code, making him a valuable asset to any development team. As a seasoned developer, Bhoomit has cultivated a professional network of peers and collaborators, with a notable following of 10 like-minded individuals who appreciate his technical expertise and contributions to the development community.\n\nWith a portfolio of 46 public repositories, Bhoomit has showcased his active engagement in development projects, highlighting his ability to design, develop, and deploy software applications with ease. His proficiency in cutting-edge technologies has empowered him to drive innovation and excellence in his work, resulting in robust, high-performance solutions that meet the evolving needs of the industry. As a dedicated and passionate developer, Bhoomit continues to expand his technical horizons, embracing emerging trends and best practices to stay ahead of the curve. With his technical expertise, collaborative spirit, and dedication to delivering exceptional results, Bhoomit Ganatra is poised to make a significant impact in the world of software development, driving growth, and innovation in the years to come."
+}

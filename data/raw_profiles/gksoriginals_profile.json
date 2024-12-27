@@ -1,0 +1,130 @@
+{
+    "username": "gksoriginals",
+    "name": "Gopi (GKS)",
+    "bio": "Machine learning engineer\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/16781355?u=703c6baa36ab397d4cc270ac1f0ecefc42be1c68&v=4",
+    "profile_url": "https://github.com/gksoriginals",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "How-to-learn-ML-for-humans",
+            "description": "A learning path with tutorials for learning AI/ML",
+            "score": 10.750813863824371,
+            "stars": 68,
+            "forks": 3,
+            "language": null,
+            "url": "https://github.com/gksoriginals/How-to-learn-ML-for-humans",
+            "updatedAt": "2024-11-03T20:22:03Z"
+        },
+        {
+            "name": "joji",
+            "description": "Joji convert a text to corresponding emoji if emoji is available",
+            "score": 9.35541793805377,
+            "stars": 29,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/gksoriginals/joji",
+            "updatedAt": "2023-11-13T09:40:23Z"
+        },
+        {
+            "name": "Machine-Learning-Resources",
+            "description": "Resources to getting started with machine learning",
+            "score": 8.328830881692198,
+            "stars": 9,
+            "forks": 10,
+            "language": null,
+            "url": "https://github.com/gksoriginals/Machine-Learning-Resources",
+            "updatedAt": "2023-08-23T12:59:12Z"
+        },
+        {
+            "name": "Voicebulb",
+            "description": "Turning on and off bulbs using voice recognition and Natural language processing",
+            "score": 6.64236791598595,
+            "stars": 4,
+            "forks": 8,
+            "language": "Python",
+            "url": "https://github.com/gksoriginals/Voicebulb",
+            "updatedAt": "2023-07-28T12:09:55Z"
+        },
+        {
+            "name": "Text_Classifier-pytorch",
+            "description": "This is a pytorch tutorial for text classification using neural nets",
+            "score": 5.696145988614922,
+            "stars": 4,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/gksoriginals/Text_Classifier-pytorch",
+            "updatedAt": "2022-05-22T01:34:18Z"
+        },
+        {
+            "name": "GopikrishnanSasikumar",
+            "description": null,
+            "score": 4.529673692477145,
+            "stars": 8,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/gksoriginals/GopikrishnanSasikumar",
+            "updatedAt": "2023-07-28T12:09:59Z"
+        },
+        {
+            "name": "MNIST-tensorflow",
+            "description": "Digit Recogniser build with Tensorflow and openCV",
+            "score": 4.483480465980191,
+            "stars": 3,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/gksoriginals/MNIST-tensorflow",
+            "updatedAt": "2018-07-09T05:38:12Z"
+        },
+        {
+            "name": "TLF-Orientation-talk",
+            "description": null,
+            "score": 3.359173660631199,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/gksoriginals/TLF-Orientation-talk",
+            "updatedAt": "2023-03-04T17:59:13Z"
+        }
+    ],
+    "followers": 369,
+    "following": 55,
+    "public_repos": 80,
+    "pull_requests_merged": 22,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 383,
+        "repositories_contributed_to": 18
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/gksoriginals"
+        }
+    ],
+    "activity_summary": {
+        "PeoplePlusAI/sunva": {
+            "link": "https://github.com/PeoplePlusAI/sunva",
+            "summary": "Recent activities in the sunva repository include multiple push events and pull requests focused on updating the README.md file, adding a sunva logo, creating a LICENSE file, and implementing multiple voice modes for testing. These changes indicate ongoing development and refinement of the repository's content and functionality."
+        },
+        "PeoplePlusAI/CtAI-engine": {
+            "link": "https://github.com/PeoplePlusAI/CtAI-engine",
+            "summary": "The CtAI-engine repository has seen recent activity with push events creating .gitkeep files, suggesting initialization or housekeeping efforts within the repository. While the activity is not as extensive as in other repositories, it indicates some level of maintenance or preparation for future development."
+        }
+    },
+    "profile_summary": "Gopi, also known as GKS, is a highly skilled machine learning engineer with a strong foundation in programming languages such as Python, Java, and data analysis tools like Jupyter Notebook. With a large following of 369 professionals, Gopi has established a significant presence in the development community, demonstrating influence and a strong network of peers. As a prolific developer, Gopi has created 80 public repositories, showcasing a high level of productivity and commitment to open-source development. This extensive portfolio highlights Gopi's technical expertise and ability to design, develop, and deploy innovative solutions.\n\nAs a seasoned machine learning engineer, Gopi brings a unique combination of technical skills and industry knowledge to drive projects forward. With expertise in machine learning and data analysis, Gopi is well-equipped to tackle complex problems and develop cutting-edge solutions. With a strong focus on innovation and collaboration, Gopi is a valuable asset to any development team, providing reliable and efficient solutions that meet the highest standards of quality. By leveraging Gopi's technical prowess and industry expertise, organizations can unlock new opportunities for growth and success, driving forward with confidence in an increasingly competitive landscape."
+}

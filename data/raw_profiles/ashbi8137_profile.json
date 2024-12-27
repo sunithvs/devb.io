@@ -1,0 +1,76 @@
+{
+    "username": "ashbi8137",
+    "name": "Ashbin P A",
+    "bio": "CUSAT-IT",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/118367952?u=3f27447a6bf5b89d16aa30463cabeb562bd85ad0&v=4",
+    "profile_url": "https://github.com/ashbi8137",
+    "top_languages": [
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EcoCommute-Final",
+            "description": "Green Revolution in Urban Transit!",
+            "score": 1.3352771507017356,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/ashbi8137/EcoCommute-Final",
+            "updatedAt": "2024-10-27T12:42:15Z"
+        },
+        {
+            "name": "EcoCommute",
+            "description": "Green Revolution in Urban Transit!",
+            "score": 0.2951939842332517,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashbi8137/EcoCommute",
+            "updatedAt": "2024-07-20T00:02:49Z"
+        },
+        {
+            "name": "ACRS",
+            "description": " Anonymous crime reporting system",
+            "score": 0.29308358997247175,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashbi8137/ACRS",
+            "updatedAt": "2024-07-14T05:02:04Z"
+        },
+        {
+            "name": "AccelerateMath-Engineers-Academy",
+            "description": " \"AccelerateMath Engineers Academy: Your Highway to Mathematical Success! \ud83d\ude80 Dive into our HTML/CSS powered educational platform tailored to elevate engineering students' math proficiency and ace those exams!\"",
+            "score": 0.26504191422724854,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ashbi8137/AccelerateMath-Engineers-Academy",
+            "updatedAt": "2024-03-15T18:35:50Z"
+        }
+    ],
+    "followers": 1,
+    "following": 5,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ashbinpa"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/___mr__bin___/"
+        }
+    ],
+    "profile_summary": "Ashbin P A is a skilled and accomplished developer with a strong foundation in HTML, demonstrating a keen understanding of web development principles and practices. With a presence on GitHub, Ashbin has established a professional network, currently followed by one peer, and has made significant contributions to the platform through six public repositories. This showcases not only technical expertise but also a commitment to collaborative development and open-source sharing. As a graduate from CUSAT-IT, Ashbin combines academic knowledge with practical experience, making him a versatile and promising talent in the field of web development.\n\nAshbin's technical proficiency and proactive approach to development make him an asset to any project or team. His ability to work with HTML reflects a solid grasp of fundamental web technologies, ensuring the creation of robust, user-friendly, and visually appealing web applications. With a growing portfolio of public repositories, Ashbin continues to demonstrate his capacity for innovation and his willingness to engage with the broader developer community. By leveraging his skills and experience, Ashbin is well-positioned to drive projects forward, enhance team performance, and contribute to the evolution of web development landscapes, marked by his reliability, technical prowess, and collaborative spirit."
+}

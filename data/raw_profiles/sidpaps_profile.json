@@ -1,0 +1,56 @@
+{
+    "username": "sidpaps",
+    "name": "Sidharth Padmanabhan ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/90129241?u=0f7f326e49c7be9fe261955cbcce8e979193a858&v=4",
+    "profile_url": "https://github.com/sidpaps",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quickSave",
+            "description": "Food Waste management web application using Ai",
+            "score": 0.2607529003416843,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sidpaps/quickSave",
+            "updatedAt": "2024-02-16T17:18:41Z"
+        },
+        {
+            "name": "estorecev",
+            "description": "E Store CEV",
+            "score": 0.15763222689705664,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/sidpaps/estorecev",
+            "updatedAt": "2023-06-08T06:26:37Z"
+        }
+    ],
+    "followers": 3,
+    "following": 6,
+    "public_repos": 2,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://Instagram.com/sidharthpadmanabhan_"
+        }
+    ],
+    "profile_summary": "Sidharth Padmanabhan is a skilled developer with a strong foundation in programming languages, particularly C++ and JavaScript. With a growing professional network of followers and a portfolio of public repositories, he has established himself as a credible and innovative force in the development community. His technical expertise and dedication to delivering high-quality solutions have earned him a reputation as a reliable and results-driven professional. As a proficient programmer with a keen eye for detail, Sidharth is well-equipped to tackle complex projects and collaborate with others to drive success.\n\nWith a passion for innovative problem-solving and a commitment to staying up-to-date with the latest industry trends, Sidharth continues to expand his skill set and explore new technologies. His unique blend of technical expertise and creative thinking enables him to develop cutting-edge solutions that meet the needs of a rapidly evolving digital landscape. As a talented and motivated developer, Sidharth is poised to make a lasting impact in the world of software development, and his contributions are sure to be valued by colleagues, clients, and the wider development community."
+}

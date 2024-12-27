@@ -1,0 +1,134 @@
+{
+    "username": "adhilroshan",
+    "name": "Adhil Roshan",
+    "bio": "The best way to predict the future is to invent it.",
+    "location": "Nilambur, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58517896?u=7ff8c8f7ff8a9fc1d91e316cad938e54e0d36d44&v=4",
+    "profile_url": "https://github.com/adhilroshan",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            14
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "code2llm",
+            "description": "Chat with your codebase effortlessly\u2014no API key needed!",
+            "score": 3.896293232024295,
+            "stars": 5,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adhilroshan/code2llm",
+            "updatedAt": "2024-11-12T17:45:43Z"
+        },
+        {
+            "name": "youtubeGPT",
+            "description": null,
+            "score": 1.6215875626984293,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adhilroshan/youtubeGPT",
+            "updatedAt": "2024-02-16T16:58:50Z"
+        },
+        {
+            "name": "spectator",
+            "description": "Like Spectator. Like Never Before",
+            "score": 1.606200000504838,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adhilroshan/spectator",
+            "updatedAt": "2024-02-03T07:38:42Z"
+        },
+        {
+            "name": "ShopOne",
+            "description": "An Ecommerce aggregator made with the help of NodeJs and MongoDB. ",
+            "score": 1.6015378975088703,
+            "stars": 1,
+            "forks": 0,
+            "language": "Handlebars",
+            "url": "https://github.com/adhilroshan/ShopOne",
+            "updatedAt": "2024-02-03T07:36:31Z"
+        },
+        {
+            "name": "iedc-cev",
+            "description": null,
+            "score": 1.206279533325424,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/adhilroshan/iedc-cev",
+            "updatedAt": "2023-11-19T09:57:45Z"
+        },
+        {
+            "name": "Eventify",
+            "description": null,
+            "score": 1.1905048076307971,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/adhilroshan/Eventify",
+            "updatedAt": "2023-03-26T09:00:40Z"
+        },
+        {
+            "name": "sb1-5jdzga",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adhilroshan/sb1-5jdzga",
+            "updatedAt": "2024-10-06T17:35:37Z"
+        },
+        {
+            "name": "canalside-luxury-apartments",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adhilroshan/canalside-luxury-apartments",
+            "updatedAt": "2024-09-29T15:03:19Z"
+        }
+    ],
+    "followers": 21,
+    "following": 57,
+    "public_repos": 84,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 713,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/adhilroshann"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/adhilroshann"
+        }
+    ],
+    "activity_summary": {
+        "adhilroshan/canalside-luxury-apartments": {
+            "link": "https://github.com/adhilroshan/canalside-luxury-apartments",
+            "summary": "Recent activities in the canalside-luxury-apartments repository have focused on optimizing image loading to improve performance. This includes compressing images, updating image file formats to webp, and merging branches to ensure a seamless user experience."
+        },
+        "adhilroshan/webomindapps": {
+            "link": "https://github.com/adhilroshan/webomindapps",
+            "summary": "The webomindapps repository has seen recent activities centered around refactoring the gallery component to utilize AnimatePresence for image transitions, enhancing the overall visual appeal and user interaction. Additionally, the project has been initialized, marking the beginning of its development journey."
+        }
+    },
+    "profile_summary": "Adhil Roshan is a highly skilled and innovative developer with a strong foundation in programming languages such as TypeScript, C, and JavaScript. With a professional network of over 21 followers, he has established himself as a reliable and proficient expert in his field. His extensive collection of 84 public repositories showcases his active involvement in development and his passion for creating high-quality solutions. As a forward-thinking individual, Adhil Roshan believes in shaping the future through technology, and his work reflects this philosophy.\n\nAs a seasoned developer, Adhil Roshan brings a unique combination of technical expertise and creative problem-solving skills to the table. His proficiency in TypeScript, C, and JavaScript enables him to tackle complex projects with ease and deliver results-driven solutions. With a strong online presence and a growing network of peers, Adhil Roshan is well-positioned to collaborate on exciting projects and contribute to the development of innovative technologies. By leveraging his technical expertise and industry knowledge, he is dedicated to making a positive impact in the world of software development and shaping the future of technology."
+}

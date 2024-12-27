@@ -1,0 +1,125 @@
+{
+    "username": "divyeshvora79909",
+    "name": "Divyesh Vora",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135146135?v=4",
+    "profile_url": "https://github.com/DivyeshVora79909",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BoardGames",
+            "description": "open source code for popular board games like ludo, snake n ladders, uno, ...",
+            "score": 1.7370348580996056,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/DivyeshVora79909/BoardGames",
+            "updatedAt": "2024-10-17T08:35:50Z"
+        },
+        {
+            "name": "InternetOfThingsWithAI",
+            "description": null,
+            "score": 1.6562325314834396,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/DivyeshVora79909/InternetOfThingsWithAI",
+            "updatedAt": "2024-08-07T17:06:46Z"
+        },
+        {
+            "name": "book",
+            "description": "first book deployment",
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/DivyeshVora79909/book",
+            "updatedAt": "2024-12-13T07:01:14Z"
+        },
+        {
+            "name": "ComputerVision_FaceRecognition",
+            "description": "The repo offers AI-powered image processing with models like GFPGAN, Real-ESRGAN, Parsing-Parsenet and ResNet50.",
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/DivyeshVora79909/ComputerVision_FaceRecognition",
+            "updatedAt": "2024-09-10T13:39:58Z"
+        },
+        {
+            "name": "PRODIGY_WD_01",
+            "description": null,
+            "score": 0.2844680685709309,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_01",
+            "updatedAt": "2024-06-15T14:16:13Z"
+        },
+        {
+            "name": "PRODIGY_WD_02",
+            "description": null,
+            "score": 0.2844680685709309,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_02",
+            "updatedAt": "2024-06-15T14:22:01Z"
+        },
+        {
+            "name": "PRODIGY_WD_03",
+            "description": null,
+            "score": 0.2844680685709309,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_03",
+            "updatedAt": "2024-06-15T14:25:18Z"
+        },
+        {
+            "name": "PRODIGY_WD_04",
+            "description": null,
+            "score": 0.2844680685709309,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_04",
+            "updatedAt": "2024-06-15T15:27:58Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "TeachBooks": {
+            "link": "https://github.com/TeachBooks/TeachBooks",
+            "summary": "There has been a significant Pull Request event, improving the directory structure and arguments, including the implementation of a 'start' sub-command. The directory structure has been modified to prevent incorrect directory usage and now supports a 'book' folder by default. Additionally, the 'teachbooks serve' command now has a 'start' sub-command to differentiate it from the 'stop' sub-command, and compatibility with existing functionality has been verified through thorough testing."
+        },
+        "DivyeshVora79909/TeachBooks": {
+            "link": "https://github.com/DivyeshVora79909/TeachBooks",
+            "summary": "Recent activities include multiple Push Events that involve various updates, such as renaming directories, modifying the build strategy, adding version options, and enhancing the serve functionality. Moreover, improvements have been made to the build tests, and simple tests have been added for the CLI serve feature. The repository has also seen the merging of multiple pull requests, further refining the build and serve features, including the handling of temporary directories and the addition of a dev setup section."
+        }
+    },
+    "profile_summary": "Divyesh Vora is a highly skilled developer with a strong foundation in programming languages such as Python and JavaScript. With a keen interest in data analysis and visualization, he has also developed expertise in using Jupyter Notebook to create interactive and dynamic documents. As a dedicated professional, he has built a reputation for delivering high-quality solutions and has established a growing network of peers who appreciate his technical expertise. His online presence is marked by a notable collection of public repositories, showcasing his commitment to collaborative development and open-source contributions.\n\nAs a talented and innovative developer, Divyesh Vora brings a unique combination of technical skills and creative problem-solving abilities to the table. With a focus on building efficient and scalable solutions, he has developed a strong portfolio of projects that demonstrate his expertise in Python, JavaScript, and data analysis. His professional achievements and dedication to his craft have earned him a reputation as a reliable and skilled developer, and his growing network of followers is a testament to his influence in the development community. With a strong passion for staying up-to-date with the latest industry trends and technologies, Divyesh Vora is well-positioned to drive innovation and deliver exceptional results in his field."
+}

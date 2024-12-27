@@ -1,0 +1,138 @@
+{
+    "username": "alanandrewvarghese",
+    "name": "Alan Andrew Varghese",
+    "bio": "",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121496531?u=411b591fb2160a650fa29b033795c965a1bf644f&v=4",
+    "profile_url": "https://github.com/alanandrewvarghese",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            6
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SmartCanteen",
+            "description": "SmartCanteen is an online system for institutions offering canteen services, featuring standard and personalized options. It tracks users' eating patterns to provide tailored notifications and maintains a Khatta book for users. Admins receive order notifications, helping them identify popular dishes and consider replacing less favored ones.",
+            "score": 5.627707035110816,
+            "stars": 4,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/SmartCanteen",
+            "updatedAt": "2024-12-04T16:32:56Z"
+        },
+        {
+            "name": "smart_canteen_raw",
+            "description": null,
+            "score": 2.403767772461466,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/smart_canteen_raw",
+            "updatedAt": "2024-11-11T11:03:23Z"
+        },
+        {
+            "name": "git2",
+            "description": null,
+            "score": 2.384320772435699,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/git2",
+            "updatedAt": "2024-08-13T10:36:41Z"
+        },
+        {
+            "name": "javascript-training-projects",
+            "description": "JavaScript projects following the tutorial from freeCodeCamp.org. Link: https://youtu.be/jS4aFq5-91M",
+            "score": 1.1976611811419051,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/javascript-training-projects",
+            "updatedAt": "2023-07-07T03:56:01Z"
+        },
+        {
+            "name": "power-monitor",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alanandrewvarghese/power-monitor",
+            "updatedAt": "2024-11-24T14:04:13Z"
+        },
+        {
+            "name": "flask-portfolio",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alanandrewvarghese/flask-portfolio",
+            "updatedAt": "2024-11-21T17:41:29Z"
+        },
+        {
+            "name": "git-notime",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/git-notime",
+            "updatedAt": "2024-09-28T10:27:21Z"
+        },
+        {
+            "name": "h",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/alanandrewvarghese/h",
+            "updatedAt": "2024-09-28T07:55:02Z"
+        }
+    ],
+    "followers": 5,
+    "following": 5,
+    "public_repos": 18,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 207,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alanandrewvarghese"
+        },
+        {
+            "provider": "generic",
+            "url": "https://freecodecamp.org/alanandrewvarghese"
+        }
+    ],
+    "activity_summary": {
+        "alanandrewvarghese/SmartCanteen": {
+            "link": "https://github.com/alanandrewvarghese/SmartCanteen",
+            "summary": "Recent activities on SmartCanteen include multiple bug fixes related to customer is_active status and Khattabook functionality, updates to the dashboard chart, email validation, and improvements to the accounts page. Additionally, there have been updates to the forgot password feature, minor UI fixes, and enhancements to the overall user experience. The repository has seen significant contributions in the past week, with a focus on refining existing features and resolving outstanding issues."
+        },
+        "alanandrewvarghese/power-monitor": {
+            "link": "https://github.com/alanandrewvarghese/power-monitor",
+            "summary": "Power-monitor has seen recent updates aimed at enhancing its reporting capabilities, with the addition of hourly reports and navigation features. The repository has also undergone code refactoring and bug fixes, specifically addressing issues with graph updates and form functionality. Although the activity is not as recent as SmartCanteen, these updates signify ongoing efforts to improve the repository's functionality and user interface."
+        },
+        "alanandrewvarghese/flask-portfolio": {
+            "link": "https://github.com/alanandrewvarghese/flask-portfolio",
+            "summary": "Flask-portfolio has received updates focusing on its visual and interactive aspects, including the integration of tailwind, updates to the portfolio, and enhancements to the index.html page. The project initialization and subsequent updates indicate a progressive development process, although the activity level is lower compared to SmartCanteen. These updates reflect efforts to refine the repository's appearance and overall user experience."
+        }
+    },
+    "profile_summary": "Alan Andrew Varghese is a highly skilled and accomplished web developer with a strong foundation in JavaScript, HTML, and CSS. With a proven track record of delivering high-quality solutions, he has established himself as a reliable and innovative professional in the field of web development. His technical expertise, combined with a passion for staying up-to-date with the latest industry trends, enables him to craft cutting-edge applications that meet the evolving needs of users. As a dedicated developer, he has built a professional network of like-minded individuals, with a growing number of followers who appreciate his technical insights and contributions.\n\nAs a prolific developer with 18 public repositories, Alan Andrew Varghese demonstrates his commitment to active development and collaboration. His expertise in JavaScript, HTML, and CSS has allowed him to develop a wide range of applications, from responsive web pages to complex web applications. With a strong focus on innovation and customer satisfaction, he continues to push the boundaries of what is possible with web development, leveraging his skills to drive business results and deliver exceptional user experiences. By combining technical prowess with a collaborative mindset, Alan Andrew Varghese has positioned himself as a valuable asset to any organization seeking a skilled and dedicated web developer."
+}

@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities include several pull requests and push events focused on refining the 'like' function to handle regex meta characters correctly. This involved fixing a bug where the function produced incorrect results, adding tests to ensure the function's accuracy, and improving code quality with fmt fixes. Additionally, an unused import was removed from the core codebase, and a pull request addressed the 'Remainder vdbe opcode' with no provided description, demonstrating ongoing efforts to maintain and enhance the repository."
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests to address issues with the like function when patterns contain regex meta characters, as well as a push event to remove an unused import from the core module, demonstrating ongoing efforts to refine and improve the repository's functionality."
         }
     },
     "profile_summary": null

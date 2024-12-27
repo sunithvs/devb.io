@@ -1,0 +1,128 @@
+{
+    "username": "ravinrau",
+    "name": "Ravin Rau",
+    "bio": "Curiosity makes exploring more interesting. A JavaScript avid with so many questions about life.",
+    "location": "Kuala Lumpur, Malaysia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12477629?u=e21d7c724d14f99a2addac1146c539ca0696801d&v=4",
+    "profile_url": "https://github.com/RavinRau",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "SCSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "react-progressbar-fancy",
+            "description": "A fancy progress bar component, with gradient styling and some amazing animation. You are able to add your own custom gradient colors",
+            "score": 7.592377736507183,
+            "stars": 11,
+            "forks": 4,
+            "language": "SCSS",
+            "url": "https://github.com/RavinRau/react-progressbar-fancy",
+            "updatedAt": "2024-12-06T14:09:53Z"
+        },
+        {
+            "name": "Ebooks",
+            "description": "A carefully curated collection of life-changing books focused on web technologies, cloud computing, business growth, and personal development. This repository serves as a reading list and reference for fellow knowledge seekers.",
+            "score": 1.423154098792915,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/RavinRau/Ebooks",
+            "updatedAt": "2024-12-17T09:25:08Z"
+        },
+        {
+            "name": "knowledge-sharing",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RavinRau/knowledge-sharing",
+            "updatedAt": "2024-12-13T17:51:25Z"
+        },
+        {
+            "name": "Memento",
+            "description": "A simple note taking app",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/RavinRau/Memento",
+            "updatedAt": "2024-12-06T08:52:34Z"
+        },
+        {
+            "name": "codecrafters-http-server-javascript",
+            "description": null,
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RavinRau/codecrafters-http-server-javascript",
+            "updatedAt": "2024-06-02T08:48:34Z"
+        },
+        {
+            "name": "ravinrau",
+            "description": null,
+            "score": 0.27929642477188826,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/RavinRau/ravinrau",
+            "updatedAt": "2024-07-20T04:55:26Z"
+        },
+        {
+            "name": "countries-frontend-app",
+            "description": "This is a frontend training test that is use to evaluate junior to mid level engineers and to train interns in their understanding of frontend technologies.",
+            "score": 0.26937988462941476,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/RavinRau/countries-frontend-app",
+            "updatedAt": "2024-06-01T18:46:08Z"
+        }
+    ],
+    "followers": 8,
+    "following": 8,
+    "public_repos": 10,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 121,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/RavinRau"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@ravinrau1"
+        }
+    ],
+    "activity_summary": {
+        "learn-cicd-starter": {
+            "link": "https://github.com/RavinRau/learn-cicd-starter",
+            "summary": "Recent activities on learn-cicd-starter repository indicate a series of solution updates and testing additions. Multiple push and pull requests were made, focusing on editing and refining the existing codebase. The updates include solution enhancements, test additions, and code refinements, showcasing an active effort to improve the repository's content and functionality."
+        },
+        "Ebooks": {
+            "link": "https://github.com/RavinRau/Ebooks",
+            "summary": "The Ebooks repository has seen significant activity with the addition of various books on topics such as clean code, site reliability, database internals, and design systems. Updates were also made to the repository's documentation, including improvements to the README and CONTRIBUTING files. These changes demonstrate a commitment to expanding and organizing the repository's content, making it a more comprehensive resource for users."
+        },
+        "Memento": {
+            "link": "https://github.com/RavinRau/Memento",
+            "summary": "The Memento repository has had a recent update with the addition of node requirements in the README file. While the activity is not as extensive as in other repositories, this update highlights an ongoing effort to maintain and enhance the repository, ensuring that essential information is readily available to users."
+        }
+    },
+    "profile_summary": "Ravin Rau is a highly skilled and innovative developer with a strong passion for coding and a curiosity-driven approach to problem-solving. With a solid foundation in TypeScript, JavaScript, and SCSS, Ravin brings a unique combination of technical expertise and creative thinking to the table. As a seasoned developer with a growing professional network and influence, evidenced by a loyal following of peers, Ravin is well-positioned to collaborate and drive projects forward with ease. A prolific contributor to the open-source community, Ravin's impressive portfolio of public repositories showcases a commitment to active development and a desire to share knowledge with others.\n\nWith a keen eye for detail and a drive to deliver high-quality solutions, Ravin is a reliable and results-oriented professional who consistently pushes the boundaries of what is possible. As a JavaScript enthusiast with a fascination for the intricacies of life, Ravin approaches each project with a sense of wonder and a willingness to explore new ideas. By leveraging industry-relevant keywords and staying up-to-date with the latest trends and technologies, Ravin is able to craft innovative solutions that meet the needs of a rapidly evolving digital landscape. With a strong online presence and a growing reputation as a skilled and dedicated developer, Ravin is an exceptional talent who is poised to make a lasting impact in the world of software development."
+}

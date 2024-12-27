@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu! wiki repository has seen significant activities with multiple pull requests focused on translating and updating game modifier documentation, including additions of lazer mods and updates to the Spanish translation of the wiki. Other updates include entry count changes in news posts and improvements to the contribution guide."
+            "summary": "Recent activities include multiple pull requests to add lazer mods to the 'Game modifier' section, with updates in Spanish and other languages, as well as updating entry counts in news posts."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu! repository has experienced activity with pull requests aimed at improving osu!taiko's performance, particularly through the implementation of pooling for hit objects. The changes introduce new classes for hit centres and rims, allowing for more efficient pooling, but also raise questions about potential performance optimizations and the need for further refinement."
+            "summary": "Recent activities include pull requests related to osu!taiko, such as implementing pooling for 'Hit' and 'KiaiHitExplosion' objects, and fixing issues with the editor and gameplay, with a focus on optimizing performance and improving the overall user experience."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "The s3-nginx-proxy repository has a pull request focused on preserving upstream Cache-Control headers, which could enhance the caching behavior of the proxy server and potentially improve performance by better managing cached resources."
+            "summary": "Recent activity includes a pull request to preserve upstream Cache-Control headers, which aims to improve the caching behavior and performance of the proxy server."
         }
     },
     "profile_summary": null

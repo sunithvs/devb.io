@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities have seen a surge in pull requests, including the implementation of json_array_length, enhancements to the simulator to allow failure assertions, and fixes for submission queue overflows on large blob writes. Furthermore, efforts have been made to optimize code by using Self where possible, along with the addition of tests in rust and tcl for enhanced JSON support. These updates demonstrate ongoing improvements and expansions to the repository's functionality and robustness."
+            "summary": "Recent activities in the limbo repository include two significant pull requests. The first, submitted on December 27, 2024, involves using 'Self' where possible as a retry of a previous pull request #433. The second, from December 26, 2024, focuses on implementing 'json_array_length' for enhanced JSON support, aligning with other work for comprehensive JSON handling, including additions to tests in both Rust and TCL."
         }
     },
     "profile_summary": null

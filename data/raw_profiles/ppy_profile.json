@@ -3,15 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include updates to populate track title and artist in the editor on audio file select, resolving issue #21189. Additionally, a push event introduced changes to populate metadata from ID3 tags when changing beatmap audio tracks in the editor, closing related issues and pull requests."
+            "summary": "Recent activities include the addition of failing assertions and a pull request to pause playback when entering gameplay test from the editor, addressing the issue https://github.com/ppy/osu/issues/312. These updates aim to improve the gameplay experience and test interactions within the osu repository."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "The repository saw recent activities focused on preserving upstream Cache-Control headers, with a pull request and push event implementing this feature to improve caching behavior."
-        },
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recently, the osu-framework repository had pull requests aimed at retrieving tags from Bass tracks when available, specifically for use in issue #21189 of the ppy/osu repository, demonstrating inter-repository collaboration to enhance functionality."
+            "summary": "The repository saw a push event preserving upstream Cache-Control headers through a merge pull request, which ensures that the Cache-Control headers from the upstream server are maintained in the proxy responses, enhancing the caching behavior of the s3-nginx-proxy repository."
         }
     },
     "profile_summary": null

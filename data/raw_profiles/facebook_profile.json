@@ -1,17 +1,21 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/OpenBIC": {
-            "link": "https://github.com/facebook/OpenBIC",
-            "summary": "Recent activities in the OpenBIC repository have primarily focused on version commits for various BICs, including ob-minerva-ag-2024.52.01, oby4-sd-2024.52.01, and oby4-wf-2024.52.01. Additionally, several pull requests have been submitted and merged to modify cpld default values, pdr sensor names, and UBC delayed detection. These updates aim to enhance the functionality and stability of the OpenBIC system."
+        "facebook/react": {
+            "link": "https://github.com/facebook/react",
+            "summary": "Recent activities indicate ongoing efforts to refine React's peer dependency requirements, with a focus on relaxing restrictions to accommodate a broader range of experimental features. Additionally, a pull request has been submitted to relax the React peer dependency requirement, aiming to simplify dependency management and improve overall flexibility."
+        },
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "Significant activities involve streamlining the codebase by removing obsolete namespace machinery and introducing new concepts such as maybe_managed_ptr. These changes aim to enhance the parser's reporting capabilities and improve support for literals, ultimately contributing to a more efficient and robust HHVM."
+        },
+        "facebook/redex": {
+            "link": "https://github.com/facebook/redex",
+            "summary": "Recent activities include promoting the 'handle more generics' feature to staging and stable, a move that underscores the ongoing efforts to enhance Redex's functionality and improve its handling of generics, thereby expanding its capabilities and usefulness."
         },
         "facebook/fbthrift": {
             "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activities in the fbthrift repository have involved updates to the parser and support for literals. A push event introduced `maybe_managed_ptr` to enhance memory management, and another update modified the parser to accept format strings. These changes aim to improve the efficiency and flexibility of the fbthrift library."
-        },
-        "facebook/rocksdb": {
-            "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities in the rocksdb repository have addressed issues with unit test flakiness. A pull request has been submitted to update the `RoundRobinSubcompactionsAgainstPressureToken` test, aiming to reduce flakiness by ensuring sufficient input files for compactions and verifying the number of planned subcompactions. This update seeks to improve the reliability of the rocksdb test suite."
+            "summary": "Notable activities involve removing namespace_cpp2 incantations and related machinery, aligning with broader efforts to simplify and modernize the Thrift ecosystem. These changes aim to eliminate hacks, reduce reliance on undefined variables, and promote a cleaner, more maintainable codebase."
         }
     },
     "profile_summary": null

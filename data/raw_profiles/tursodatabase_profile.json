@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository have been focused on improving the functionality of the database system. This includes fixing issues with the like function, resolving out-of-bound panics in the sqlite_version function, and implementing support for DELETE query planning. These updates aim to enhance the overall performance, stability, and usability of the database."
+            "summary": "Recent activities include the addition of support for DELETE query planning, fixes to the `like` function when patterns have regex meta characters, and a fix for `sqlite_version()` out of bound panics. These updates aim to improve the functionality and reliability of the database system, including enhancements to query planning, optimization, and testing frameworks. The repository has seen a significant number of push events and pull requests, indicating active development and collaboration among contributors."
         }
     },
     "profile_summary": null

@@ -1,0 +1,134 @@
+{
+    "username": "a-nama",
+    "name": "A_Nama",
+    "bio": "Data Science & AI undergrad \ud83d\udcbb | TinkerHub DCS Campus Lead \ud83d\ude80 | Empowering Women in Tech \u2728 |\r\n Lifelong Learner \ud83d\udcda",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145112688?u=c621a6b87e61fd602c5ed4171ac4805a13fffa40&v=4",
+    "profile_url": "https://github.com/A-Nama",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MBTI_Project",
+            "description": null,
+            "score": 2.3446470176019396,
+            "stars": 0,
+            "forks": 3,
+            "language": "Java",
+            "url": "https://github.com/A-Nama/MBTI_Project",
+            "updatedAt": "2024-04-23T12:31:50Z"
+        },
+        {
+            "name": "SappyC",
+            "description": null,
+            "score": 1.4898732135905375,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/A-Nama/SappyC",
+            "updatedAt": "2024-12-01T18:21:15Z"
+        },
+        {
+            "name": "solarpunk",
+            "description": null,
+            "score": 1.3782588030130338,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/A-Nama/solarpunk",
+            "updatedAt": "2024-10-06T18:12:38Z"
+        },
+        {
+            "name": "delulu",
+            "description": null,
+            "score": 1.3706566945335585,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/A-Nama/delulu",
+            "updatedAt": "2024-10-02T16:31:11Z"
+        },
+        {
+            "name": "Sem2_Java",
+            "description": null,
+            "score": 1.299202963035813,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/A-Nama/Sem2_Java",
+            "updatedAt": "2024-02-08T04:30:31Z"
+        },
+        {
+            "name": "A-Nama",
+            "description": null,
+            "score": 0.32501859800329747,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/A-Nama/A-Nama",
+            "updatedAt": "2024-09-18T11:55:03Z"
+        },
+        {
+            "name": "DBMS_S3",
+            "description": null,
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/A-Nama/DBMS_S3",
+            "updatedAt": "2024-11-07T10:14:51Z"
+        },
+        {
+            "name": "Stardust",
+            "description": null,
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/A-Nama/Stardust",
+            "updatedAt": "2024-09-18T06:55:58Z"
+        }
+    ],
+    "followers": 13,
+    "following": 7,
+    "public_repos": 15,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 239,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aisha-nama-06256b253/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/aishanama/"
+        }
+    ],
+    "activity_summary": {
+        "A-Nama/SappyC": {
+            "link": "https://github.com/A-Nama/SappyC",
+            "summary": "Recent activities in the SappyC repository include multiple push events and pull requests, focusing on updates to the repository structure, addition of new files, and modification of existing code. Several commits were made to refine the project, including changes to the .gitignore file, deletion of unnecessary files such as frontend.py and app.py, and updates to the project's overall organization. The repository also saw the addition of user input acceptance and updates to the file structure."
+        },
+        "A-Nama/DAA_Sem3": {
+            "link": "https://github.com/A-Nama/DAA_Sem3",
+            "summary": "The DAA_Sem3 repository has seen a push event updating the LCS.cpp file, indicating ongoing development and refinement of the project's codebase."
+        }
+    },
+    "profile_summary": "A_Nama is a highly skilled and dedicated developer with a strong foundation in programming languages such as C++, Python, and Java. With a background in Data Science and AI, they possess a unique ability to leverage technical expertise to drive innovation and solve complex problems. As a TinkerHub DCS Campus Lead, A_Nama has demonstrated exceptional leadership skills, empowering others to explore the world of technology. Their passion for lifelong learning and commitment to staying up-to-date with industry trends is evident in their active development of 15 public repositories, showcasing their technical prowess and creativity.\n\nAs a respected member of the tech community with 13 followers, A_Nama has established a reputation for reliability, expertise, and collaboration. With a focus on empowering women in tech, they bring a unique perspective and dedication to promoting diversity and inclusion in the industry. By combining technical skills with a passion for social impact, A_Nama is poised to make a significant contribution to the field of Data Science and AI. With their strong work ethic, innovative approach, and commitment to continuous learning, A_Nama is an exceptional developer who is well-positioned to drive success in a variety of technical endeavors, making them a valuable asset to any organization or project."
+}

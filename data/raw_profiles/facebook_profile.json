@@ -1,5 +1,22 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
-    "activity_summary": {},
+    "activity_summary": {
+        "facebook/lexical": {
+            "link": "https://github.com/facebook/lexical",
+            "summary": "Recent activities include a push event on December 27, 2024, with the release of version v0.22.1-nightly.20241227.0, indicating ongoing development and maintenance of the repository."
+        },
+        "facebook/relay": {
+            "link": "https://github.com/facebook/relay",
+            "summary": "The repository saw a push event on December 27, 2024, which included unblocking relay lsp, reviewed by evanyeung, and referenced a differential revision, demonstrating active development and code review."
+        },
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "A recent push event on December 27, 2024, involved backing out a previous commit related to reverting changes to whisker, indicating corrective actions and active maintenance within the repository."
+        },
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "Similar to hhvm, fbthrift experienced a push event on December 27, 2024, that backed out a commit related to whisker, suggesting a coordinated effort across related repositories to address specific issues or maintain consistency."
+        }
+    },
     "profile_summary": null
 }

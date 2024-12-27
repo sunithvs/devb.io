@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include multiple updates to the Game modifier section with lazer mods added for various languages, including Spanish and Chinese. There are also updates to news posts, such as the Midnight Moment Art Contest, with entry counts being revised. Additionally, there are numerous pull requests to improve translations and content, with contributors working on testing changes against the contribution checklist and awaiting reviews from fluent speakers."
+            "summary": "The osu! wiki repository has seen significant activities with multiple pull requests focused on translating and updating game modifier documentation, including additions of lazer mods and updates to the Spanish translation of the wiki. Other updates include entry count changes in news posts and improvements to the contribution guide."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "A significant pull request is addressing the osu!taiko pooling issue, aiming to solve problems with the Editor's right-click menu and key down actions. The pull request adds new HitCentre and HitRim classes, corresponding to don and katsu circles, and registers pools for these classes to optimize performance. However, the contributor is seeking help with certain aspects of the solution and is looking for feedback on the approach."
+            "summary": "The osu! repository has experienced activity with pull requests aimed at improving osu!taiko's performance, particularly through the implementation of pooling for hit objects. The changes introduce new classes for hit centres and rims, allowing for more efficient pooling, but also raise questions about potential performance optimizations and the need for further refinement."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "A recent pull request aims to preserve upstream Cache-Control headers, although the description is currently empty, indicating that more information may be added as the pull request progresses."
+            "summary": "The s3-nginx-proxy repository has a pull request focused on preserving upstream Cache-Control headers, which could enhance the caching behavior of the proxy server and potentially improve performance by better managing cached resources."
         }
     },
     "profile_summary": null

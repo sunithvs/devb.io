@@ -3,15 +3,11 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include multiple pull requests for adding lazer mods to the 'Game modifier' section in various languages, including Spanish. These changes aim to enhance the wiki's content and provide more comprehensive information. Additionally, there have been updates to entry counts and merges of branches to ensure consistency and accuracy in the wiki's data."
+            "summary": "Recent activities include multiple pull requests for adding lazer mods to the 'Game modifier' section in various languages, with a focus on Spanish translations and updates to the wiki's content."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities focus on improving the osu!taiko mode, including pull requests for hit error adjustments, pooling of hit and kiai hit explosion objects, and discussions on optimal skin usage. These changes aim to enhance gameplay, performance, and user experience, with contributors actively addressing issues and seeking feedback to refine the game's mechanics."
-        },
-        "ppy/s3-nginx-proxy": {
-            "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "A recent pull request aims to preserve upstream Cache-Control headers, which is essential for optimizing content delivery and caching. This change can improve the overall performance and efficiency of the proxy server, ensuring better handling of cached resources and reducing latency."
+            "summary": "Recent activities involve several pull requests aimed at enhancing the osu! game, including pauses during gameplay tests, adjustments to hit errors in Triangles and Argon, and improvements to osu!taiko's pooling for 'Hit' and 'KiaiHitExplosion' objects to address performance issues."
         }
     },
     "profile_summary": null

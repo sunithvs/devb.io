@@ -1,10 +1,5 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
-    "activity_summary": {
-        "tursodatabase/limbo": {
-            "link": "https://github.com/tursodatabase/limbo",
-            "summary": "The repository has seen significant activity with two recent pull requests. The first, titled 'RFC: Redesign io_uring async flow', aims to redesign the io_uring asynchronous flow to address issues with submission queue overflows. It presents a detailed analysis of the current implementation and proposes a new design that batches sequential write operations to alleviate pressure on the submission queue. The second pull request, titled 'Use Self where possible', appears to be a retry of a previous pull request (#433) and aims to utilize self where possible in the codebase."
-        }
-    },
+    "activity_summary": {},
     "profile_summary": null
 }

@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/yoga": {
-            "link": "https://github.com/facebook/yoga",
-            "summary": "The facebook/yoga repository has seen a recent Pull Request to fix TypeScript 4 node module resolution. The update involves changing imports from .ts to .js, configuring Jest and Docusaurus/Webpack, adding a tsconfig.load.json for the /load entry point, and updating the just build process to temporarily rewrite load.ts imports and generate artifacts. This change aims to add support for TypeScript 4.x and 'node' module resolution by fixing import extension handling, addressing the TS2691 errors in earlier versions."
+        "facebook/Ax": {
+            "link": "https://github.com/facebook/Ax",
+            "summary": "Recent activities in the facebook/Ax repository include a push event that occurred on December 27, 2024, which involved updating the latest version of the site, indicating ongoing development and maintenance efforts."
         }
     },
     "profile_summary": null

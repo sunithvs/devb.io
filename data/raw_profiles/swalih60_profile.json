@@ -1,0 +1,133 @@
+{
+    "username": "swalih60",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115351635?u=a2077b2d356879453b3668c19d26a7b794ac3c3b&v=4",
+    "profile_url": "https://github.com/Swalih60",
+    "top_languages": [
+        [
+            "Dart",
+            7
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "snap",
+            "description": null,
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Swalih60/snap",
+            "updatedAt": "2024-12-26T15:13:23Z"
+        },
+        {
+            "name": "Recipe_Reach",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Swalih60/Recipe_Reach",
+            "updatedAt": "2024-12-25T20:42:51Z"
+        },
+        {
+            "name": "Blood_Connect",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Swalih60/Blood_Connect",
+            "updatedAt": "2024-12-05T12:41:09Z"
+        },
+        {
+            "name": "IOT",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Swalih60/IOT",
+            "updatedAt": "2024-12-25T17:46:08Z"
+        },
+        {
+            "name": "I-VEND",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Swalih60/I-VEND",
+            "updatedAt": "2024-11-06T07:54:25Z"
+        },
+        {
+            "name": "Musify",
+            "description": null,
+            "score": 0.31170875619621063,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Swalih60/Musify",
+            "updatedAt": "2024-08-27T17:10:09Z"
+        },
+        {
+            "name": "Swalih60",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Swalih60/Swalih60",
+            "updatedAt": "2024-08-11T18:31:09Z"
+        },
+        {
+            "name": "HHG",
+            "description": "Web3 project building for HHGoa",
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Swalih60/HHG",
+            "updatedAt": "2024-08-09T07:38:44Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 17,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 209,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Recipe_Reach": {
+            "link": "https://github.com/Swalih60/Recipe_Reach",
+            "summary": "Recent activities include a series of optimizations and feature enhancements, with the most recent push occurring on December 25, 2024, focusing on code clearance and final optimization. Prior pushes also optimized various screens, including details, account, search, and home screens, and implemented features such as onclick settings for tiles and cards, completing the details, account, search, and home screens."
+        },
+        "snap": {
+            "link": "https://github.com/Swalih60/snap",
+            "summary": "Recent activities on the snap repository involve multiple push events, with the latest on December 26, 2024, focusing on padding additions and final optimizations. Other notable updates include setting up all screens, bottom navigation bar, message screen, and profile screen, showcasing significant progress in application development."
+        },
+        "wishai": {
+            "link": "https://github.com/Salih-13/wishai",
+            "summary": "The wishai repository has seen recent push events, with the most recent occurring on December 21, 2024, addressing signup fixes and connecting the frontend with the backend. Other updates include merging home code with the backend, setting up image uploading and data saving, and resolving conflicts, indicating substantial backend and frontend integration efforts."
+        },
+        "IOT": {
+            "link": "https://github.com/Swalih60/IOT",
+            "summary": "Activities in the IOT repository include recent push events, with the latest on December 25, 2024, focusing on setting up a QR code page. Other updates involve creating an admin panel and enhancing the user interface by updating quantity for cart items, demonstrating progress in admin and user interface functionalities."
+        }
+    },
+    "profile_summary": "This seasoned developer is a highly skilled technical expert with a strong foundation in programming languages such as Dart, C++, and JavaScript. With a portfolio of 17 public repositories, they have consistently demonstrated their ability to design, develop, and deploy high-quality software solutions. Their proficiency in multiple programming languages enables them to tackle complex projects with ease, making them a versatile and valuable asset to any development team. As a respected member of the development community, they have built a network of peers and followers who appreciate their technical expertise and innovative approach to problem-solving.\n\nWith a unique blend of technical expertise and collaborative spirit, this developer is well-equipped to drive projects forward and deliver results-driven solutions. Their commitment to staying up-to-date with the latest industry trends and technologies ensures that their work is always cutting-edge and relevant. As a reliable and skilled developer with a strong online presence, they are poised to make a significant impact in the world of software development. With a growing network of followers and a reputation for excellence, they are an ideal partner for companies and organizations seeking to leverage the latest technologies to drive innovation and growth."
+}

@@ -388,7 +388,7 @@
                 <div>
                     <h2 class="text-xl font-bold">Quick Links</h2>
                     <ul class="mt-4">
-                        <li><a href="#" class="hover:text-lime-500 transition-colors">Home</a></li>
+                        <li><a href="/" class="hover:text-lime-500 transition-colors">Home</a></li>
                         <li><a href="https://devb.io/#how-to" class="hover:text-lime-500 transition-colors">How It Works</a></li>
                         <li><a href="https://github.com/sunithvs/devb.io" class="hover:text-lime-500 transition-colors">Contribute</a>
                         </li>
@@ -634,25 +634,6 @@
                 }, 2000);
             };
         });
-//
-// shareBtn.addEventListener('click', async () => {
-//     const svgElement = document.querySelector("#svg-container svg");
-//     if (!svgElement) return;
-//
-//     const svgData = new XMLSerializer().serializeToString(svgElement);
-//     const blob = new Blob([svgData], {type: "image/png"});
-//     const file = new File([blob], "wrapped-2024.png", { type: "image/png" });
-//
-//     try {
-//         await navigator.share({
-//             files: [file],
-//             title: '2024 GitHub Wrapped',
-//             text: 'Check out my 2024 GitHub Wrapped!'
-//         });
-//     } catch (error) {
-//         console.error('Error sharing:', error);
-//     }
-// });
         shareBtn.addEventListener('click', async () => {
             const svgElement = document.querySelector("#svg-container svg");
             if (!svgElement) return;

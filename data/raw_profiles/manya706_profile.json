@@ -1,0 +1,138 @@
+{
+    "username": "manya706",
+    "name": "Manya Sharma",
+    "bio": "SWE Intern'24 @Microsoft | National Runner Up @Flipkart Grid 5.0 | ex-Research Intern @IIT BHU | Final Year Student | AI & ML | DSA + Dev",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/96016153?u=412008f6b48a9c05bfecfb0aff50cc9de5d5f776&v=4",
+    "profile_url": "https://github.com/manya706",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSA-Codebase",
+            "description": "Dedicated DSA repository to track consistency and add my favorite questions.",
+            "score": 3.0060565165899633,
+            "stars": 3,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/manya706/DSA-Codebase",
+            "updatedAt": "2024-11-28T01:46:38Z"
+        },
+        {
+            "name": "manya706",
+            "description": null,
+            "score": 2.6595418838527216,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/manya706/manya706",
+            "updatedAt": "2024-10-26T08:45:30Z"
+        },
+        {
+            "name": "Dermatological-Manifestation-SIH",
+            "description": "SIH 2023 - one-stop screening for all skin-related issues and dermatological concerns. Our process is exceptionally simple, just capture a photo of your skin problem, choose the corresponding issue, enter your city's pincode, and you're ready for diagnosis.",
+            "score": 1.810673932192466,
+            "stars": 0,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/manya706/Dermatological-Manifestation-SIH",
+            "updatedAt": "2023-09-24T06:42:23Z"
+        },
+        {
+            "name": "carebot-",
+            "description": "CAREBOT is an AI-powered diagnostic system that allows you to input your symptoms in text format and receive a quick and accurate diagnosis of your illness. The system also comes with a prescription checker that verifies whether the prescribed medications are suitable for your body and work well together.",
+            "score": 1.8021654546522425,
+            "stars": 0,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/manya706/carebot-",
+            "updatedAt": "2023-07-14T08:03:35Z"
+        },
+        {
+            "name": "QuickGPT",
+            "description": "Quick GPT is a Chrome extension that explains selected text using the Groq API. Simply right-click and get instant explanations.",
+            "score": 1.720471575855936,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/manya706/QuickGPT",
+            "updatedAt": "2024-10-05T11:25:44Z"
+        },
+        {
+            "name": "discord-trivia-bot",
+            "description": null,
+            "score": 1.7066612896054265,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/manya706/discord-trivia-bot",
+            "updatedAt": "2024-10-05T11:25:46Z"
+        },
+        {
+            "name": "AI_HACKATHON_WEBSITE",
+            "description": null,
+            "score": 1.1150382212116607,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/manya706/AI_HACKATHON_WEBSITE",
+            "updatedAt": "2022-11-27T11:28:31Z"
+        },
+        {
+            "name": "test-cloud-repo",
+            "description": "Cloud Infrastructure and Services Lab-8.",
+            "score": 0.16510412090242932,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/manya706/test-cloud-repo",
+            "updatedAt": "2023-10-28T05:43:13Z"
+        }
+    ],
+    "followers": 71,
+    "following": 4,
+    "public_repos": 37,
+    "pull_requests_merged": 3,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1505,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/manya-sharma-07062003-csestudent/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/manyx.a/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/manya721/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://mail.google.com/sharma.manya721"
+        }
+    ],
+    "activity_summary": {
+        "manya706/DSA-Codebase": {
+            "link": "https://github.com/manya706/DSA-Codebase",
+            "summary": "The DSA-Codebase repository has experienced significant activity, with numerous push events adding README.md files for various coding challenges, including Amount of Time for Binary Tree to Be Infected, Implement Trie (Prefix Tree), LRU Cache, Car Fleet, Longest Substring Without Repeating Characters, Container With Most Water, Search in Rotated Sorted Array, Product of Array Except Self, Find All Anagrams in a String, Serialize and Deserialize Binary Tree, and Surrounded Regions, along with LeetSync performance metrics for each challenge."
+        }
+    },
+    "profile_summary": "Manya Sharma is a highly skilled and accomplished software engineer, currently interning at Microsoft as a Software Engineer Intern. With a strong foundation in programming languages such as C++, TypeScript, and expertise in data science tools like Jupyter Notebook, Manya has established herself as a proficient developer with a keen interest in Artificial Intelligence and Machine Learning. Her involvement in various coding challenges and hackathons, including being a National Runner Up at Flipkart Grid 5.0, demonstrates her exceptional problem-solving skills and ability to work under pressure.\n\nAs a final-year student with research experience at IIT BHU, Manya has developed a unique blend of academic knowledge and industry skills, making her a valuable asset to any organization. With 71 followers and 37 public repositories on GitHub, she has built a strong professional network and showcased her active development skills. Manya's expertise in Data Structures and Algorithms, combined with her passion for AI and ML, enables her to design and develop innovative solutions that drive business growth and improvement. With a strong track record of achievements and a dedication to staying up-to-date with industry trends, Manya is poised to make a significant impact in the tech industry as a skilled and reliable software engineer."
+}

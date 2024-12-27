@@ -1,0 +1,129 @@
+{
+    "username": "maniranjan2023",
+    "name": "Maniranjan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/137239336?u=a917258287724f61dbfc07ed61b5cea040a8dcd9&v=4",
+    "profile_url": "https://github.com/maniranjan2023",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "Jupyter Notebook",
+            3
+        ],
+        [
+            "CSS",
+            10
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ai-video-summarizer",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maniranjan2023/ai-video-summarizer",
+            "updatedAt": "2024-12-27T05:25:38Z"
+        },
+        {
+            "name": "yolov8_project",
+            "description": null,
+            "score": 1.7697276890728877,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/maniranjan2023/yolov8_project",
+            "updatedAt": "2024-11-08T11:12:23Z"
+        },
+        {
+            "name": "python-project",
+            "description": null,
+            "score": 1.5445029765044487,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maniranjan2023/python-project",
+            "updatedAt": "2023-06-29T12:37:30Z"
+        },
+        {
+            "name": "pft",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/maniranjan2023/pft",
+            "updatedAt": "2024-12-21T03:41:15Z"
+        },
+        {
+            "name": "npm-package-published-password-strength-checker-",
+            "description": "npm ",
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/maniranjan2023/npm-package-published-password-strength-checker-",
+            "updatedAt": "2024-12-12T05:02:24Z"
+        },
+        {
+            "name": "ai-mouse-gesture-controller",
+            "description": "computer vision project",
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maniranjan2023/ai-mouse-gesture-controller",
+            "updatedAt": "2024-12-11T05:54:51Z"
+        },
+        {
+            "name": "chatbot_gemini_api",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/maniranjan2023/chatbot_gemini_api",
+            "updatedAt": "2024-11-11T19:09:38Z"
+        },
+        {
+            "name": "flight_price_pred_final",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/maniranjan2023/flight_price_pred_final",
+            "updatedAt": "2024-11-08T11:09:11Z"
+        }
+    ],
+    "followers": 3,
+    "following": 7,
+    "public_repos": 55,
+    "pull_requests_merged": 4,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 185,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "maniranjan2023/maniranjan2023": {
+            "link": "https://github.com/maniranjan2023/maniranjan2023",
+            "summary": "Recent activities in this repository have been focused on updating the README.md file, with multiple push events occurring between November 7th and 11th, indicating ongoing maintenance and refinement of the repository's documentation."
+        },
+        "maniranjan2023/npm-package-published-password-strength-checker-": {
+            "link": "https://github.com/maniranjan2023/npm-package-published-password-strength-checker-",
+            "summary": "This repository saw a series of push events on December 12th, primarily centered around creating and updating the README.md file, suggesting the initialization and setup of the repository, potentially in preparation for public release or collaboration."
+        },
+        "maniranjan2023/ai-video-summarizer": {
+            "link": "https://github.com/maniranjan2023/ai-video-summarizer",
+            "summary": "The ai-video-summarizer repository experienced recent activity on December 27th, marked by the creation of a README.md file and the addition of a Dev Container Folder, indicating initial setup and development of the project, possibly signaling the onset of a new application or feature development."
+        }
+    },
+    "profile_summary": "Maniranjan is a skilled and accomplished developer with a strong foundation in programming languages, particularly Python. With expertise in utilizing Jupyter Notebook for data analysis and CSS for web development, Maniranjan brings a unique combination of technical skills to the table. As a dedicated professional, Maniranjan has built a reputation for delivering high-quality solutions, leveraging a deep understanding of software development principles and best practices. With a growing network of peers and a substantial portfolio of public repositories, Maniranjan demonstrates a commitment to collaboration, continuous learning, and open-source development.\n\nAs a seasoned developer with 55 public repositories, Maniranjan has established a strong track record of innovation and technical excellence. With a keen focus on industry-relevant technologies, Maniranjan stays up-to-date with the latest trends and advancements in the field, ensuring that solutions are always cutting-edge and effective. With a professional network of followers and a strong online presence, Maniranjan is well-positioned to drive projects forward, providing expertise and guidance to colleagues and peers alike. By combining technical prowess with a passion for innovative development, Maniranjan delivers exceptional results, making him a valuable asset to any development team or project."
+}

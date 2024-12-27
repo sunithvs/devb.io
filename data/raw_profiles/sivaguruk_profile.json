@@ -1,0 +1,129 @@
+{
+    "username": "sivaguruk",
+    "name": "SIVA GURU K",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/144508506?v=4",
+    "profile_url": "https://github.com/SivaGuruK",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EventDrivenAPI",
+            "description": null,
+            "score": 2.2234603009467615,
+            "stars": 1,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/SivaGuruK/EventDrivenAPI",
+            "updatedAt": "2024-12-23T10:26:00Z"
+        },
+        {
+            "name": "VConnect",
+            "description": null,
+            "score": 1.9273050014532518,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SivaGuruK/VConnect",
+            "updatedAt": "2024-12-23T10:26:01Z"
+        },
+        {
+            "name": "Automated-API-Testing-Platform",
+            "description": "An Automated API Testing Platform designed to streamline and automate API testing for Quality Assurance (QA) teams. The platform allows users to create, schedule, and manage API tests, with features for collaborative test management, automated execution, and real-time reporting.",
+            "score": 1.7589326087175943,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SivaGuruK/Automated-API-Testing-Platform",
+            "updatedAt": "2024-12-23T10:26:03Z"
+        },
+        {
+            "name": "Curvetopia",
+            "description": "Curvetopia is a project designed to process and analyze curve data using a variety of methods. It provides functionalities for curve regularization, shape detection, symmetry detection, curve completion, and visualization. The project aims to offer a comprehensive toolkit for working with complex curve data and generating insightful visualizations.",
+            "score": 1.6902781333167214,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SivaGuruK/Curvetopia",
+            "updatedAt": "2024-12-23T10:26:04Z"
+        },
+        {
+            "name": "Collaborator.io",
+            "description": null,
+            "score": 1.6848683406912288,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SivaGuruK/Collaborator.io",
+            "updatedAt": "2024-12-23T10:26:05Z"
+        },
+        {
+            "name": "SavoryServe---Restaurant-Website",
+            "description": null,
+            "score": 1.6807728771182655,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SivaGuruK/SavoryServe---Restaurant-Website",
+            "updatedAt": "2024-12-23T10:26:07Z"
+        },
+        {
+            "name": "BrunoStaffaugment",
+            "description": null,
+            "score": 1.6614712861732814,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SivaGuruK/BrunoStaffaugment",
+            "updatedAt": "2024-12-23T10:26:07Z"
+        },
+        {
+            "name": "AI-ARTICLE-SUMMARIZER",
+            "description": "This project is a web application built with React, Redux, and integrated with RapidAPI for AI-powered article summarization. The application allows users to input URLs of lengthy articles and generates concise summaries using advanced natural language processing algorithms.",
+            "score": 1.656799681286571,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SivaGuruK/AI-ARTICLE-SUMMARIZER",
+            "updatedAt": "2024-12-23T10:26:09Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 83,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "EventDrivenAPI": {
+            "link": "https://github.com/SivaGuruK/EventDrivenAPI",
+            "summary": "Recent activities in the EventDrivenAPI repository include a push event on December 22, 2024, where the base setup was completed, indicating progress in the project's initial configuration and setup."
+        },
+        "VConnect": {
+            "link": "https://github.com/SivaGuruK/VConnect",
+            "summary": "The VConnect repository saw a push event on December 14, 2024, where the base setup was completed, signifying a milestone in the project's foundational development."
+        },
+        "Mall-CRM-Application---Naan-mudhalvan": {
+            "link": "https://github.com/samdani-47/Mall-CRM-Application---Naan-mudhalvan",
+            "summary": "Activity in the Mall-CRM-Application---Naan-mudhalvan repository included a push event on December 6, 2024, involving an update to the 'nm id', indicating ongoing development and refinement of the application's core components."
+        }
+    },
+    "profile_summary": "SIVA GURU K is a highly skilled and accomplished developer with a strong foundation in programming languages such as JavaScript, Python, and C#. With a proven track record of delivering high-quality solutions, this innovative professional has established a reputation for expertise and reliability in the development community. As a proficient coder with a keen eye for detail, SIVA GURU K is well-versed in the latest technologies and trends, making them a valuable asset to any project or organization. With a keen focus on innovation and a passion for learning, this developer is dedicated to staying at the forefront of the industry.\n\nAs a seasoned developer with 14 public repositories to their name, SIVA GURU K has demonstrated a commitment to active development and a willingness to share knowledge with the broader community. With a growing network of professional connections, including 1 follower, this developer is building a reputation as a trusted and influential voice in the industry. By leveraging their technical expertise and collaborative approach, SIVA GURU K is poised to drive success in a wide range of projects and applications, from web development to software engineering. With a strong work ethic and a passion for delivering exceptional results, this talented developer is an excellent choice for any organization seeking a skilled and dedicated professional."
+}

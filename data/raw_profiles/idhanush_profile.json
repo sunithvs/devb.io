@@ -1,0 +1,129 @@
+{
+    "username": "idhanush",
+    "name": "Dhanush",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/119786916?u=2626bc9ac6f0d83ec375022c30fab20099670726&v=4",
+    "profile_url": "https://github.com/iDhanush",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "UnFold24_LetHimCode",
+            "description": null,
+            "score": 1.8414139744333093,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/iDhanush/UnFold24_LetHimCode",
+            "updatedAt": "2024-12-24T12:06:39Z"
+        },
+        {
+            "name": "Bgm4RealLife_UseLessProject",
+            "description": null,
+            "score": 1.7589326087175943,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/iDhanush/Bgm4RealLife_UseLessProject",
+            "updatedAt": "2024-11-02T18:13:24Z"
+        },
+        {
+            "name": "AlephiumHackathon2024",
+            "description": null,
+            "score": 1.7541634538346362,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/iDhanush/AlephiumHackathon2024",
+            "updatedAt": "2024-11-02T18:13:25Z"
+        },
+        {
+            "name": "IoT_Animatronics_Robot_V1",
+            "description": null,
+            "score": 1.7066612896054265,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/iDhanush/IoT_Animatronics_Robot_V1",
+            "updatedAt": "2024-12-26T17:24:48Z"
+        },
+        {
+            "name": "iDhanush",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6126507651134043,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/iDhanush/iDhanush",
+            "updatedAt": "2024-08-15T05:32:08Z"
+        },
+        {
+            "name": "FAM_AI_Novathon2024",
+            "description": null,
+            "score": 1.480741926532727,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/iDhanush/FAM_AI_Novathon2024",
+            "updatedAt": "2024-11-29T08:44:36Z"
+        },
+        {
+            "name": "qrpro",
+            "description": null,
+            "score": 1.3047626850671663,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/iDhanush/qrpro",
+            "updatedAt": "2024-03-18T10:35:22Z"
+        },
+        {
+            "name": "iDhanush.github.io",
+            "description": null,
+            "score": 1.2660771748334316,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/iDhanush/iDhanush.github.io",
+            "updatedAt": "2024-12-26T13:56:51Z"
+        }
+    ],
+    "followers": 5,
+    "following": 3,
+    "public_repos": 18,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1594,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "iDhanush.github.io": {
+            "link": "https://github.com/iDhanush/iDhanush.github.io",
+            "summary": "Recent activities include multiple updates to script.js with various modifications and improvements, as well as an icon change. These updates occurred throughout December 26, indicating an intense development period focused on refining this script."
+        },
+        "IEDC-robot": {
+            "link": "https://github.com/iDhanush/IEDC-robot",
+            "summary": "Recent activities involve creating and updating README.md, along with multiple updates to main.py on December 13. Additionally, there were updates to README.md on December 26, suggesting ongoing documentation and refinement of the project."
+        },
+        "IoT_Animatronics_Robot_V1": {
+            "link": "https://github.com/iDhanush/IoT_Animatronics_Robot_V1",
+            "summary": "Recent activities include updating README.md and adding files via upload on December 26, as well as creating a null file earlier in the day. These activities indicate preliminary setup and documentation efforts for the project."
+        }
+    },
+    "profile_summary": "Dhanush is a highly skilled and accomplished developer with a strong foundation in programming languages such as C++, Python, and JavaScript. With a growing professional network of 5 followers and an impressive portfolio of 18 public repositories, Dhanush has established himself as a reliable and innovative problem solver in the development community. His technical expertise and passion for coding have enabled him to deliver high-quality solutions that meet and exceed expectations. As a seasoned developer, Dhanush is well-versed in the latest industry trends and technologies, and is committed to staying up-to-date with the latest advancements in the field.\n\nWith a proven track record of developing innovative solutions, Dhanush brings a unique value proposition to the table. His expertise in C++, Python, and JavaScript has enabled him to tackle complex projects with ease, and his commitment to delivering exceptional results has earned him a reputation as a trusted and skilled developer. As a professional with a strong online presence, Dhanush is dedicated to sharing his knowledge and expertise with others, and is always looking for opportunities to collaborate and learn from like-minded individuals. With his technical prowess, passion for coding, and dedication to excellence, Dhanush is an outstanding developer who is poised to make a significant impact in the development community."
+}

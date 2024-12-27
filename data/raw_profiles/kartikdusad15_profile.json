@@ -1,0 +1,125 @@
+{
+    "username": "kartikdusad15",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/83664929?v=4",
+    "profile_url": "https://github.com/Kartikdusad15",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LGMVIP-WebDev-Task-2",
+            "description": null,
+            "score": 1.4563646957188747,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kartikdusad15/LGMVIP-WebDev-Task-2",
+            "updatedAt": "2021-07-21T07:39:39Z"
+        },
+        {
+            "name": "Single-Page-Static-Website",
+            "description": null,
+            "score": 1.4563646957188747,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kartikdusad15/Single-Page-Static-Website",
+            "updatedAt": "2021-08-13T15:04:05Z"
+        },
+        {
+            "name": "cv",
+            "description": null,
+            "score": 1.4562329254206083,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kartikdusad15/cv",
+            "updatedAt": "2021-07-21T07:39:43Z"
+        },
+        {
+            "name": "Machine_Learning",
+            "description": null,
+            "score": 1.4560132576533393,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Kartikdusad15/Machine_Learning",
+            "updatedAt": "2021-07-21T07:39:42Z"
+        },
+        {
+            "name": "BlockChain-project",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Kartikdusad15/BlockChain-project",
+            "updatedAt": "2024-12-09T04:18:40Z"
+        },
+        {
+            "name": "apnacollege-demo",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Kartikdusad15/apnacollege-demo",
+            "updatedAt": "2024-10-10T07:06:02Z"
+        },
+        {
+            "name": "localrepo",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Kartikdusad15/localrepo",
+            "updatedAt": "2024-10-10T09:45:09Z"
+        },
+        {
+            "name": "js-hindi-youtube",
+            "description": "A code repository to learn javascript",
+            "score": 0.2993632367870326,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Kartikdusad15/js-hindi-youtube",
+            "updatedAt": "2024-07-31T08:37:12Z"
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 15,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Kartikdusad15/Blockchain_Project": {
+            "link": "https://github.com/Kartikdusad15/Blockchain_Project",
+            "summary": "Recent activities in the Blockchain_Project repository include a push event on December 8, 2024, where files were added via upload, indicating ongoing development and updates to the project."
+        },
+        "Kartikdusad15/apnacollege-demo": {
+            "link": "https://github.com/Kartikdusad15/apnacollege-demo",
+            "summary": "The apnacollege-demo repository experienced a push event on October 10, 2024, involving an update to the README.md file, suggesting maintenance and refinement of the project's documentation."
+        }
+    },
+    "profile_summary": "This skilled developer is a highly proficient programmer with expertise in C++, JavaScript, and Jupyter Notebook, leveraging these technologies to drive innovative solutions and push the boundaries of what is possible. With a strong professional network and a growing influence, as evidenced by their 2 followers, they have established themselves as a trusted and reliable presence in the development community. Their technical skills are complemented by a strong work ethic and a commitment to delivering high-quality results, making them a valuable asset to any project or team.\n\nWith 15 public repositories to their name, this developer has demonstrated a consistent ability to design, develop, and deploy complex software systems, showcasing their technical expertise and creative problem-solving skills. As a seasoned technologist with a passion for innovation, they bring a unique perspective and a deep understanding of industry trends and best practices to the table, positioning themselves as a go-to expert in their field. By combining technical prowess with a collaborative mindset and a customer-centric approach, they deliver tailored solutions that meet the needs of their clients and drive meaningful results, solidifying their reputation as a talented and forward-thinking developer."
+}

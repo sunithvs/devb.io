@@ -1,0 +1,96 @@
+{
+    "username": "sharonkynu",
+    "name": "SHARON SHAJI",
+    "bio": "DevOps Engineer/Cyber security enthusiast",
+    "location": "Alappuzha, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/107600686?v=4",
+    "profile_url": "https://github.com/sharonkynu",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DDoS-Attack-detection-using-ML-DL",
+            "description": "ML & DL code to detect DDoS attack ",
+            "score": 1.6213995634611738,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sharonkynu/DDoS-Attack-detection-using-ML-DL",
+            "updatedAt": "2024-05-07T13:28:20Z"
+        },
+        {
+            "name": "Webhooks-for-WhatsApp-cloud-API",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sharonkynu/Webhooks-for-WhatsApp-cloud-API",
+            "updatedAt": "2024-11-12T10:34:34Z"
+        },
+        {
+            "name": "terraform-aws-static-website",
+            "description": "This Repo created with Terraform",
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sharonkynu/terraform-aws-static-website",
+            "updatedAt": "2024-10-28T12:33:40Z"
+        },
+        {
+            "name": "Malware-detection-using-ML-and-Neural-Network",
+            "description": "Malware detection using ML and Neural Network",
+            "score": 0.15673680156085543,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sharonkynu/Malware-detection-using-ML-and-Neural-Network",
+            "updatedAt": "2023-05-18T10:21:19Z"
+        },
+        {
+            "name": "sms-spam-identifier",
+            "description": null,
+            "score": 0.07394729260429699,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sharonkynu/sms-spam-identifier",
+            "updatedAt": "2022-08-16T19:18:38Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sharon-shaji-153801230"
+        }
+    ],
+    "activity_summary": {
+        "sharonkynu/terraform-aws-static-website": {
+            "link": "https://github.com/sharonkynu/terraform-aws-static-website",
+            "summary": "Recent activities in this repository include a series of updates to the README.md file, with multiple push events occurring on 2024-10-28, indicating active development and refinement of the repository's documentation and content."
+        }
+    },
+    "profile_summary": "SHARON SHAJI is a highly skilled DevOps Engineer and cybersecurity enthusiast with a strong foundation in programming languages such as Python and JavaScript. With a keen interest in leveraging technology to drive innovation and security, SHARON brings a unique blend of technical expertise and passion to the field of software development. As a proficient user of Jupyter Notebook, SHARON is well-versed in data analysis and visualization, making her a valuable asset to any team. With a growing portfolio of public repositories, SHARON demonstrates her commitment to active development and collaboration.\n\nAs a dedicated and results-driven professional, SHARON is poised to make a significant impact in the tech industry. With her expertise in DevOps and cybersecurity, she is equipped to design and implement robust solutions that drive efficiency, security, and scalability. SHARON's strong technical skills, combined with her enthusiasm for innovation and security, make her an attractive candidate for companies seeking a skilled and motivated developer. With a strong online presence and a growing network, SHARON is well-positioned to collaborate with other professionals and contribute to cutting-edge projects that push the boundaries of what is possible in the world of software development and cybersecurity."
+}

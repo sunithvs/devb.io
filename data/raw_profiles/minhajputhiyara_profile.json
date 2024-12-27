@@ -1,0 +1,138 @@
+{
+    "username": "minhajputhiyara",
+    "name": "Minhaj",
+    "bio": "\"Innovative Python Django Developer \ud83c\udfaf | Microservices Architecture | Performance Optimization | Cross-Functional Collaboration | Continuous Learner | ",
+    "location": "kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/137104923?u=b3a49b953853b7e02871fe91b36fa4441f69ab02&v=4",
+    "profile_url": "https://github.com/minhajputhiyara",
+    "top_languages": [
+        [
+            "Python",
+            8
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Jupyter Notebook",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "spotmech",
+            "description": " \u2018SPOTMECH\u2019 aims to address the problems faced by drivers during unexpected vehicle breakdowns and emergencies on the road by providing a comprehensive solution that includes a database of resources, a library of educational materials, a dedicated helpline, and GPS tracking. ",
+            "score": 3.0098341982575585,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/minhajputhiyara/spotmech",
+            "updatedAt": "2024-12-26T13:48:13Z"
+        },
+        {
+            "name": "new_portfolio",
+            "description": null,
+            "score": 1.6745338062622224,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/minhajputhiyara/new_portfolio",
+            "updatedAt": "2024-11-19T18:48:21Z"
+        },
+        {
+            "name": "restaurant-chatbot",
+            "description": null,
+            "score": 1.6739297356902074,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/minhajputhiyara/restaurant-chatbot",
+            "updatedAt": "2024-07-05T15:41:24Z"
+        },
+        {
+            "name": "ML_DL",
+            "description": null,
+            "score": 1.6688724234008043,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/minhajputhiyara/ML_DL",
+            "updatedAt": "2024-07-05T15:41:17Z"
+        },
+        {
+            "name": "Noteflix",
+            "description": "Noteflix is College Management System (CMS) is a web-based application developed using Python django. It is designed to manage the activities of a college, such as student enrollment, grading, and financial management. The Noteflix project is an open-source project, meaning it is free to use and modify. ",
+            "score": 1.6244988965329326,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/minhajputhiyara/Noteflix",
+            "updatedAt": "2024-07-24T12:09:12Z"
+        },
+        {
+            "name": "minhajputhiyara.github.io",
+            "description": "This is a simple portfolio website using HTML, CSS, and JavaScript, bootstrap framework and  also utilized FontAwesome for icons.",
+            "score": 1.6237426586364703,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/minhajputhiyara/minhajputhiyara.github.io",
+            "updatedAt": "2024-07-05T15:41:31Z"
+        },
+        {
+            "name": "minhajputhiyara",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6235398371376677,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/minhajputhiyara/minhajputhiyara",
+            "updatedAt": "2024-10-11T15:09:36Z"
+        },
+        {
+            "name": "DebateX-AI",
+            "description": "DebateX AI is a cutting-edge debate platform powered by advanced AI models. It allows users to engage in structured debates with intelligent debaters and a moderator. ",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/minhajputhiyara/DebateX-AI",
+            "updatedAt": "2024-12-05T07:49:44Z"
+        }
+    ],
+    "followers": 6,
+    "following": 10,
+    "public_repos": 70,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 183,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/minhajputhiyara"
+        }
+    ],
+    "activity_summary": {
+        "minhajputhiyara/FastApi": {
+            "link": "https://github.com/minhajputhiyara/FastApi",
+            "summary": "Recent activities include updates to the api.py file and requirements.txt, reflecting ongoing development and maintenance efforts to enhance the API's functionality and dependencies."
+        },
+        "minhajputhiyara/Resume_ranker": {
+            "link": "https://github.com/minhajputhiyara/Resume_ranker",
+            "summary": "Notable activities comprise the creation of a README.md file, establishment of a backend connection, and addition of a reqfile, indicating progress in setting up the project's documentation and core functionality."
+        },
+        "minhajputhiyara/DebateX-AI": {
+            "link": "https://github.com/minhajputhiyara/DebateX-AI",
+            "summary": "Recent updates involve the creation and subsequent update of the README.md file, suggesting efforts to improve the project's documentation and possibly its overall presentation to users and contributors."
+        },
+        "minhajputhiyara/Explainable_AI": {
+            "link": "https://github.com/minhajputhiyara/Explainable_AI",
+            "summary": "A recent update to the README.md file highlights a focus on enhancing the project's documentation, which is crucial for explaining the complexities of AI and making the project more accessible to a broader audience."
+        }
+    },
+    "profile_summary": "Minhaj is a highly skilled and innovative Python Django developer with a strong background in designing and implementing scalable microservices architecture. With a solid foundation in Python, JavaScript, and Jupyter Notebook, Minhaj brings a unique combination of technical expertise and collaborative approach to deliver high-performance solutions. As a continuous learner, Minhaj stays up-to-date with the latest industry trends and technologies, enabling him to drive innovation and excellence in his work. With a growing professional network of 6 followers and an impressive portfolio of 70 public repositories, Minhaj has established himself as a reliable and accomplished developer in the industry.\n\nMinhaj's expertise in performance optimization and cross-functional collaboration enables him to work effectively with teams to drive project success. His proficiency in Python, JavaScript, and other technologies makes him a versatile and valuable asset to any organization. As a skilled developer with a passion for innovation and excellence, Minhaj is committed to delivering high-quality solutions that meet the evolving needs of the industry. With his strong technical skills, collaborative approach, and dedication to continuous learning, Minhaj is well-positioned to drive success in his field and make a lasting impact as a leading Python Django developer."
+}

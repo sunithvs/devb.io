@@ -1,0 +1,130 @@
+{
+    "username": "kiranmurali93",
+    "name": "KIRAN",
+    "bio": "",
+    "location": "Noida - NCR",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44119868?u=c51c33231ecf9ac1e5240993819d79f6bb453fc8&v=4",
+    "profile_url": "https://github.com/kiranmurali93",
+    "top_languages": [
+        [
+            "Go",
+            2
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "Elixir",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSC-CUSAT",
+            "description": "Website for Developer students club cusat",
+            "score": 4.677396369274114,
+            "stars": 2,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/DSC-CUSAT",
+            "updatedAt": "2021-10-07T15:34:45Z"
+        },
+        {
+            "name": "hacktoberfest",
+            "description": "hello",
+            "score": 2.9850753737769335,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/hacktoberfest",
+            "updatedAt": "2020-10-04T16:23:45Z"
+        },
+        {
+            "name": "my_webdevelopment-project",
+            "description": "this project is to learn web development",
+            "score": 2.9839133088485883,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/my_webdevelopment-project",
+            "updatedAt": "2020-10-01T03:44:54Z"
+        },
+        {
+            "name": "pyopengl_lab",
+            "description": null,
+            "score": 2.493769186587476,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/pyopengl_lab",
+            "updatedAt": "2021-10-26T15:05:55Z"
+        },
+        {
+            "name": "greyatom-python-for-data-science",
+            "description": "A collection of projects as part of the Python for Data Science program at GreyAtom EduTech Pvt Ltd",
+            "score": 2.49332498289528,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/greyatom-python-for-data-science",
+            "updatedAt": "2020-06-25T14:54:21Z"
+        },
+        {
+            "name": "coding-challenges-go",
+            "description": "Implementations of probems in codingchallenges.fyi using golang",
+            "score": 2.4642819264639337,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/coding-challenges-go",
+            "updatedAt": "2024-12-27T06:00:12Z"
+        },
+        {
+            "name": "gpt-cli",
+            "description": "Gpt on your cli",
+            "score": 2.4549528636768376,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/gpt-cli",
+            "updatedAt": "2024-12-27T06:00:12Z"
+        },
+        {
+            "name": "elixir-llm-coms",
+            "description": "Elixir server which calls llm api",
+            "score": 2.01184294825626,
+            "stars": 1,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "updatedAt": "2024-12-27T06:00:12Z"
+        }
+    ],
+    "followers": 86,
+    "following": 117,
+    "public_repos": 68,
+    "pull_requests_merged": 2,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1503,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/kiran-p-k"
+        }
+    ],
+    "activity_summary": {
+        "elixir-llm-coms": {
+            "link": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "summary": "Recent activities include a hotfix to allow the frontend production URL for CORS and utilize an environment variable at runtime. Additionally, new files were added from the Fly.io launch, including a merge of pull request #1, which introduced Fly.io launch configuration files."
+        },
+        "react-rust-wasm": {
+            "link": "https://github.com/kiranmurali93/react-rust-wasm",
+            "summary": "The repository has seen significant updates, including the addition of an environment variable in the Docker file and fly.toml. Furthermore, the calculator tab was completed with the integration of UI for two tabs, Rust and Wasm calculations, and a bot, showcasing substantial progress in the project's development."
+        }
+    },
+    "profile_summary": "KIRAN is a highly skilled and accomplished software developer with a strong proficiency in Go, JavaScript, and Elixir. With a significant presence on GitHub, boasting 86 followers and 68 public repositories, KIRAN has established themselves as a respected and influential figure in the development community. Their extensive experience and technical expertise have equipped them with the skills to design, develop, and deploy innovative software solutions that meet the highest standards of quality and reliability. As a seasoned developer, KIRAN is well-versed in the latest industry trends and technologies, allowing them to stay ahead of the curve and drive cutting-edge projects forward.\n\nKIRAN's impressive technical skillset, combined with their passion for innovative problem-solving, makes them a valuable asset to any development team. With a proven track record of delivering high-quality solutions, KIRAN has earned a reputation as a trusted and reliable developer who consistently delivers results. Their expertise in Go, JavaScript, and Elixir enables them to tackle complex projects with ease, and their collaborative approach ensures seamless integration with colleagues and clients alike. As a leading developer in their field, KIRAN continues to push the boundaries of what is possible, driving innovation and excellence in every project they undertake, and cementing their position as a highly sought-after professional in the world of software development."
+}

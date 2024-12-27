@@ -1,0 +1,158 @@
+{
+    "username": "noel6161131110",
+    "name": "NOEL PAUL GEORGE",
+    "bio": "Microsoft Learn Student Ambassador @microsoft | SDE @Qmark-Technolabs",
+    "location": "Alappuzha , Kerala , India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75027970?u=6a6185de592a1a05e6ed35ca66e0ffd1496b9a7c&v=4",
+    "profile_url": "https://github.com/Noel6161131110",
+    "top_languages": [
+        [
+            "Python",
+            8
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Movie-Recommendation-System",
+            "description": "Searching and recommending movies using pandas , numpy  , scikit-learn and jupyter notebook",
+            "score": 14.48601471503834,
+            "stars": 4,
+            "forks": 1,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Noel6161131110/Movie-Recommendation-System",
+            "updatedAt": "2024-09-04T05:36:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "mycloudy",
+            "description": "An open-source, self-hosted service that offers seamless video streaming, photo management, editing, and machine learning-based image classification, enabling you to manage your media collection directly from your own server.",
+            "score": 1.6727484096221965,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Noel6161131110/mycloudy",
+            "updatedAt": "2024-11-14T17:00:22Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Sign-Language-Server",
+            "description": null,
+            "score": 1.6511734831377067,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Noel6161131110/Sign-Language-Server",
+            "updatedAt": "2024-05-12T07:29:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 1.5510817487970538,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Noel6161131110/skills-communicate-using-markdown",
+            "updatedAt": "2023-10-24T16:18:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Color_Identification_Image",
+            "description": null,
+            "score": 1.5402526544934307,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Noel6161131110/Color_Identification_Image",
+            "updatedAt": "2023-03-09T12:57:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "IHRD-CONCLAVE-AI-EDUCATE",
+            "description": null,
+            "score": 1.2842834079759111,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE",
+            "updatedAt": "2024-02-28T16:31:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Social-Distancing-Detector",
+            "description": "To check whether if people are following social distancing precautions within a crowd using computer vision technologies",
+            "score": 1.1940772594811995,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Noel6161131110/Social-Distancing-Detector",
+            "updatedAt": "2023-03-18T14:59:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Telly",
+            "description": "Interactive Note taking app for everyone",
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Noel6161131110/Telly",
+            "updatedAt": "2024-11-10T03:27:30Z",
+            "isPinned": false,
+            "homepage": "https://telly-psi.vercel.app"
+        }
+    ],
+    "followers": 30,
+    "following": 2,
+    "public_repos": 41,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 83,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/NoelGeo62464634"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/noel-paul-george-5708ba205/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/noel_paul_george"
+        }
+    ],
+    "activity_summary": {
+        "Noel6161131110/mycloudy": {
+            "link": "https://github.com/Noel6161131110/mycloudy",
+            "summary": "The mycloudy repository has seen significant development with multiple push events between October and November 2024. Activities include the creation of a new React project using Vite JS, implementation of folder structure modifications for frontend and backend services, and the addition of features such as images display, audio streaming, video current time tracking, and video stream resume options. The database has also been initialized with tables for file upload and video track information."
+        },
+        "Noel6161131110/Telly": {
+            "link": "https://github.com/Noel6161131110/Telly",
+            "summary": "The Telly repository experienced a series of updates in November 2024, primarily focused on adding and updating the README.md file, as well as deploying the web application. Multiple push events occurred on the same day, indicating a flurry of activity aimed at setting up the repository and making the project more accessible and understandable to users."
+        },
+        "V-CEC-PRODUCTION/V-CEC-v1.2-Backend": {
+            "link": "https://github.com/V-CEC-PRODUCTION/V-CEC-v1.2-Backend",
+            "summary": "The V-CEC-v1.2-Backend repository had a notable modification in October 2024, where the entrypoint was removed from the Dockerfile, suggesting adjustments to the project's containerization strategy."
+        }
+    },
+    "profile_summary": "Noel Paul George is a highly skilled and accomplished software developer with a strong foundation in programming languages such as Python, C++, and JavaScript. As a Microsoft Learn Student Ambassador and a Software Development Engineer at Qmark-Technolabs, he has demonstrated exceptional technical expertise and a passion for innovation. With a significant professional network of 30 followers and an impressive portfolio of 41 public repositories, Noel has established himself as a reliable and talented developer who consistently delivers high-quality solutions.\n\nAs a seasoned developer with a unique blend of technical skills and industry experience, Noel brings a distinctive value proposition to the table. His expertise in Python, C++, and JavaScript enables him to tackle complex software development projects with ease, and his experience as a Microsoft Learn Student Ambassador has given him a deep understanding of the latest technologies and trends. With his strong work ethic and dedication to staying up-to-date with the latest industry developments, Noel is an invaluable asset to any team, and his contributions are sure to drive innovation and growth in the software development community."
+}

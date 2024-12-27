@@ -1,0 +1,129 @@
+{
+    "username": "ashif-code-hunter",
+    "name": "Ashif",
+    "bio": "Want to explore the tech world.\r\n\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/71429125?u=97f5ffb2b70a53b80f47915e0f730194bf95fc84&v=4",
+    "profile_url": "https://github.com/Ashif-code-hunter",
+    "top_languages": [
+        [
+            "Dart",
+            19
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "flutterbootcamp",
+            "description": null,
+            "score": 3.4371488223851903,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/flutterbootcamp",
+            "updatedAt": "2024-06-04T07:12:44Z"
+        },
+        {
+            "name": "login-page",
+            "description": "A simple login page........",
+            "score": 3.4299227089282383,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/login-page",
+            "updatedAt": "2024-04-12T04:21:47Z"
+        },
+        {
+            "name": "BMI-CALC",
+            "description": "A simple BMI calculator made using flutter sdk ",
+            "score": 3.2890089616279488,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/BMI-CALC",
+            "updatedAt": "2022-05-08T09:02:13Z"
+        },
+        {
+            "name": "hash_chat",
+            "description": "A group simple chatting app",
+            "score": 3.2890089616279488,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/hash_chat",
+            "updatedAt": "2022-05-08T09:02:17Z"
+        },
+        {
+            "name": "Ticker",
+            "description": "An app to fetch different crypto currency prices in different currencies",
+            "score": 3.2890089616279488,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/Ticker",
+            "updatedAt": "2022-05-08T09:02:16Z"
+        },
+        {
+            "name": "INSTA_CLONE",
+            "description": "simple UI of Instagram",
+            "score": 2.844877373503953,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/INSTA_CLONE",
+            "updatedAt": "2022-05-08T08:52:13Z"
+        },
+        {
+            "name": "Home",
+            "description": null,
+            "score": 2.8430849934133673,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/Home",
+            "updatedAt": "2022-05-08T09:02:22Z"
+        },
+        {
+            "name": "doney",
+            "description": "A Todo flutter app",
+            "score": 2.842753453714999,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Ashif-code-hunter/doney",
+            "updatedAt": "2022-05-08T09:02:19Z"
+        }
+    ],
+    "followers": 14,
+    "following": 2,
+    "public_repos": 49,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 259,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Ashif-code-hunter/Ashif-code-hunter": {
+            "link": "https://github.com/Ashif-code-hunter/Ashif-code-hunter",
+            "summary": "There were multiple updates to the README.md file on October 5, 2024, with a total of 9 push events occurring throughout the day, indicating ongoing repository maintenance and documentation refinement."
+        },
+        "Ashif-code-hunter/flutter_dock_mac": {
+            "link": "https://github.com/Ashif-code-hunter/flutter_dock_mac",
+            "summary": "Recent activities on December 4, 2024, involved updates to the README.md file, a web build, and merging of the main branch, along with deletion and rebuilding of the build directory, suggesting active development and testing of the repository."
+        },
+        "Ashif-code-hunter/flutter_dock": {
+            "link": "https://github.com/Ashif-code-hunter/flutter_dock",
+            "summary": "The repository saw updates to the index.html file on December 1, 2024, and a series of web builds on December 4, 2024, including a web render fix, indicating that the repository is undergoing active development with a focus on web rendering and user interface enhancements."
+        }
+    },
+    "profile_summary": "Ashif is a highly skilled developer with expertise in a range of programming languages, including Dart, Python, and JavaScript. With a strong foundation in software development, Ashif has established a reputation as a reliable and innovative professional in the tech industry. As a dedicated and passionate developer, Ashif is committed to staying up-to-date with the latest trends and advancements in technology, with a keen interest in exploring the tech world and pushing the boundaries of what is possible. With a growing network of 14 followers, Ashif is building a reputation as a trusted and knowledgeable expert in their field.\n\nAs a prolific developer with 49 public repositories, Ashif has demonstrated a impressive track record of active development and collaboration. With a unique blend of technical skills and creative vision, Ashif is well-equipped to tackle complex challenges and deliver high-quality solutions. Whether working on personal projects or contributing to open-source initiatives, Ashif is driven by a passion for innovation and a commitment to excellence. By leveraging industry-relevant keywords and showcasing technical prowess, Ashif is poised to make a lasting impact in the tech industry, and is an exciting talent to watch in the years to come."
+}

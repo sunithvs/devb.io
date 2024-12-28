@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository include multiple pull requests to address issues with the like function when patterns contain regex meta characters, as well as a push event to remove an unused import from the core module, demonstrating ongoing efforts to refine and improve the repository's functionality."
+            "summary": "Recent activities include the implementation of the `json_error_position` function to enhance JSON compatibility, the addition of clippy CI to improve code quality and fix warnings, and the introduction of the remainder vdbe opcode, demonstrating ongoing efforts to enhance the repository's functionality and maintainability."
         }
     },
     "profile_summary": null

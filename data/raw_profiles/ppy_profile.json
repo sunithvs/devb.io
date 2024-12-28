@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include several push events and a pull request focused on enhancing gameplay test functionality, specifically the addition of failing assertions and pausing playback when entering gameplay test from the editor, addressing issues and improving the overall user experience."
+            "summary": "Recent activities include implementing changes to pause playback when entering gameplay test from the editor, addressing an issue reported in https://github.com/ppy/osu/issues/312. There have also been efforts to enhance test reliability with failing assertions. These updates aim to improve the overall gameplay experience and stability."
         },
         "ppy/s3-nginx-proxy": {
             "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "The repository witnessed significant updates with a push event and a pull request aimed at preserving upstream Cache-Control headers, enhancing the efficiency and configuration of the proxy server for better performance and cache management."
+            "summary": "The repository saw significant activity with a push event to preserve upstream Cache-Control headers, which is crucial for efficient caching and request handling. This change was implemented through a pull request, ensuring that the caching mechanism aligns with best practices for web performance and data freshness."
         }
     },
     "profile_summary": null

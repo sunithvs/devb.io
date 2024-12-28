@@ -1,0 +1,142 @@
+{
+    "username": "selmanfariz18",
+    "name": "Selmanul farizy K A",
+    "bio": "Developer <Django, Flutter> ",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92449535?u=c6e9e30cfdcad61b4384b67830236a6ccb79ba89&v=4",
+    "profile_url": "https://github.com/selmanfariz18",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Malayalam-Emotion-Detector",
+            "description": "Malayalam emotion detector using ML and DL. ",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/selmanfariz18/Malayalam-Emotion-Detector",
+            "updatedAt": "2024-12-27T04:12:55Z"
+        },
+        {
+            "name": "Youtube-comments-scrapper",
+            "description": "Youtube vedio comments can be downloaded to .xlsx format. No GUI, and runs in terminal. Need Youtube API. ",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/selmanfariz18/Youtube-comments-scrapper",
+            "updatedAt": "2024-12-27T02:46:58Z"
+        },
+        {
+            "name": "Hacktoberfest_04",
+            "description": null,
+            "score": 2.154268221418447,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_04",
+            "updatedAt": "2022-10-24T15:12:32Z"
+        },
+        {
+            "name": "Hacktoberfest_01",
+            "description": null,
+            "score": 1.8723984722179992,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "updatedAt": "2024-11-14T11:37:10Z"
+        },
+        {
+            "name": "Hacktoberfest_02",
+            "description": null,
+            "score": 1.722745112740776,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_02",
+            "updatedAt": "2022-10-24T15:10:03Z"
+        },
+        {
+            "name": "Hacktoberfest_03",
+            "description": null,
+            "score": 1.722745112740776,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_03",
+            "updatedAt": "2022-10-24T15:11:10Z"
+        },
+        {
+            "name": "ICTACME",
+            "description": "website for International Conference on Technological Advancements in Civil and Mechanical Engineering",
+            "score": 1.6367551498252162,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/ICTACME",
+            "updatedAt": "2024-03-21T16:12:53Z"
+        },
+        {
+            "name": "hack3.0",
+            "description": null,
+            "score": 1.6191793867193427,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/selmanfariz18/hack3.0",
+            "updatedAt": "2024-03-23T07:26:21Z"
+        }
+    ],
+    "followers": 14,
+    "following": 14,
+    "public_repos": 94,
+    "pull_requests_merged": 27,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 354,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Selmanulfarizy"
+        }
+    ],
+    "activity_summary": {
+        "selmanfariz18/mark_it_down": {
+            "link": "https://github.com/selmanfariz18/mark_it_down",
+            "summary": "Recent activities in this repository include implementing project restore and delete functionality, resolving bugs related to reloading, and updating review interviews. Additionally, improvements were made to the username duplication check, resolving test issues, and editing the README file. The repository also saw updates to the profile page alignment, login and signup design, and the addition of test code. Various other enhancements, such as adding icons, implementing gist upload, and markup file download, have also been made."
+        },
+        "selmanfariz18/selmanfariz18": {
+            "link": "https://github.com/selmanfariz18/selmanfariz18",
+            "summary": "A recent update was made to this repository, reflecting a year change, indicating ongoing maintenance and updates to keep the content current."
+        },
+        "selmanfariz18/Malayalam-Emotion-Detector": {
+            "link": "https://github.com/selmanfariz18/Malayalam-Emotion-Detector",
+            "summary": "The repository has seen a recent update with a file upload, suggesting continued development or expansion of the emotion detection capabilities for the Malayalam language."
+        },
+        "selmanfariz18/Youtube-comments-scrapper": {
+            "link": "https://github.com/selmanfariz18/Youtube-comments-scrapper",
+            "summary": "A new file was created in this repository, indicating the start or continuation of a project aimed at scraping comments from YouTube, potentially for analysis or data collection purposes."
+        },
+        "selmanfariz18/Hacktoberfest_01": {
+            "link": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "summary": "This repository saw an update to its README file, which may have been part of the Hacktoberfest event, aiming to encourage contributions to open-source projects."
+        }
+    },
+    "profile_summary": "Selmanul farizy K A is a skilled and accomplished developer with a strong foundation in programming languages such as Python, C, and C++. With a background in developing using Django and Flutter, he has established himself as a versatile and innovative professional in the field of software development. His extensive experience and expertise have earned him a reputable position, with a growing network of 14 followers who recognize his technical capabilities and achievements. As a dedicated developer, he has actively contributed to the open-source community through his 94 public repositories, showcasing his commitment to collaborative development and knowledge sharing.\n\nAs a developer with expertise in Django and Flutter, Selmanul farizy K A brings a unique blend of technical skills and creative vision to his projects. He is well-versed in leveraging his technical expertise to drive innovation and deliver high-quality solutions. With a strong focus on reliability, efficiency, and scalability, he has built a reputation for delivering exceptional results and exceeding expectations. Through his work, he continues to demonstrate his passion for software development, staying up-to-date with industry trends and advancements to ensure his skills remain relevant and effective. With his impressive portfolio and growing influence, Selmanul farizy K A is an invaluable asset to any development team, poised to make significant contributions to the world of software development."
+}

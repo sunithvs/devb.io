@@ -1,0 +1,121 @@
+{
+    "username": "salih-13",
+    "name": "Mohammad Salih V S",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/97404688?u=96b7ed8b2ddbfb6059def3ca34260ab4443e9f26&v=4",
+    "profile_url": "https://github.com/Salih-13",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "notechain",
+            "description": null,
+            "score": 1.679036465871121,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Salih-13/notechain",
+            "updatedAt": "2024-07-14T07:04:48Z"
+        },
+        {
+            "name": "wishai",
+            "description": "WishAI is a simple but effective web app which focuses on generating a wish card in a few clicks with the help of AI and placing o images.",
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Salih-13/wishai",
+            "updatedAt": "2024-12-24T16:11:01Z"
+        },
+        {
+            "name": "hyprthon",
+            "description": "a project on next js which focusses on resseling used educational materials",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Salih-13/hyprthon",
+            "updatedAt": "2024-12-05T12:43:12Z"
+        },
+        {
+            "name": "HHGOA_project",
+            "description": "A project being building the hacker hose goa during a hackaton conducted n the time period of Aug04-Aug09 of 2024.",
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Salih-13/HHGOA_project",
+            "updatedAt": "2024-08-04T14:04:25Z"
+        },
+        {
+            "name": "token-chaser",
+            "description": "a web3 project which focuses on a simple game which lets us generate tokens in blockchain on base of the score from the gameplay on the game.",
+            "score": 0.2927421047512304,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Salih-13/token-chaser",
+            "updatedAt": "2024-07-13T20:27:24Z"
+        },
+        {
+            "name": "Salih-13",
+            "description": null,
+            "score": 0.280029093733181,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Salih-13/Salih-13",
+            "updatedAt": "2024-08-01T08:02:37Z"
+        },
+        {
+            "name": "mini-project-1",
+            "description": "edugear switch",
+            "score": 0.27496089932767337,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Salih-13/mini-project-1",
+            "updatedAt": "2024-05-09T04:01:42Z"
+        },
+        {
+            "name": "mini-project",
+            "description": "edugear switch website which helps students to resell their used educational purpose good online",
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Salih-13/mini-project",
+            "updatedAt": "2024-05-09T04:11:43Z"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 17,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 74,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Salih-13/wishai": {
+            "link": "https://github.com/Salih-13/wishai",
+            "summary": "Recent activities in the wishai repository include significant updates to the login and signup features, improvements to the README documentation, and deployments. The repository has seen a high volume of push events, with updates to the home page, landing page, and resolution of the sign-up issue. These activities suggest active development and maintenance of the repository."
+        },
+        "Salih-13/hyprthon": {
+            "link": "https://github.com/Salih-13/hyprthon",
+            "summary": "The hyprthon repository has seen limited recent activity, with only one push event recorded on December 5, 2024, which was the initial commit. There are no other notable updates or changes in the repository, indicating a relatively quiet period."
+        }
+    },
+    "profile_summary": "Mohammad Salih V S is a skilled and innovative developer with a strong foundation in JavaScript and HTML. With a diverse portfolio of 17 public repositories, he has consistently demonstrated his ability to design and develop high-quality solutions. As a dedicated professional, he is committed to staying up-to-date with the latest industry trends and advancements, ensuring his skills remain relevant and effective. His expertise in JavaScript and HTML has allowed him to build a wide range of applications, from simple web pages to complex web applications.\n\nAs a developer, Mohammad Salih V S brings a unique combination of technical expertise and creative problem-solving skills to the table. With a focus on delivering reliable and efficient solutions, he has established himself as a trusted and skilled professional in his field. Although he is still building his professional network, his passion for coding and commitment to excellence make him an exciting prospect for collaborative projects and opportunities. With his strong technical skills and dedication to innovation, Mohammad Salih V S is well-positioned to make a significant impact in the world of web development, and his future projects are sure to be highly anticipated."
+}

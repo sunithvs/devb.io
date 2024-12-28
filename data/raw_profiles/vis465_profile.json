@@ -1,0 +1,134 @@
+{
+    "username": "vis465",
+    "name": "Vishal V",
+    "bio": "",
+    "location": "Bengaluru,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109803822?u=7a4dc8ac4569cb06d197bdac3b1418ccb0ff75db&v=4",
+    "profile_url": "https://github.com/vis465",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "innov8_IBM-hackchallenge2023",
+            "description": null,
+            "score": 1.809839011321665,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/vis465/innov8_IBM-hackchallenge2023",
+            "updatedAt": "2023-09-04T14:55:45Z"
+        },
+        {
+            "name": "lsquare-23",
+            "description": null,
+            "score": 1.6179391122313622,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vis465/lsquare-23",
+            "updatedAt": "2024-04-14T05:33:55Z"
+        },
+        {
+            "name": "sonaquiz",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vis465/sonaquiz",
+            "updatedAt": "2024-12-27T19:10:35Z"
+        },
+        {
+            "name": "AudioStegnography-Java",
+            "description": null,
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vis465/AudioStegnography-Java",
+            "updatedAt": "2024-10-21T17:04:17Z"
+        },
+        {
+            "name": "PACE-V02",
+            "description": null,
+            "score": 0.31729996723826526,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vis465/PACE-V02",
+            "updatedAt": "2024-10-16T10:35:13Z"
+        },
+        {
+            "name": "Voting-app",
+            "description": null,
+            "score": 0.3014025016476837,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/vis465/Voting-app",
+            "updatedAt": "2024-08-05T17:42:00Z"
+        },
+        {
+            "name": "61781921106123",
+            "description": null,
+            "score": 0.28128241112100894,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vis465/61781921106123",
+            "updatedAt": "2024-06-04T13:42:53Z"
+        },
+        {
+            "name": "Lsquare-24",
+            "description": null,
+            "score": 0.2701262231536975,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vis465/Lsquare-24",
+            "updatedAt": "2024-04-14T05:50:35Z"
+        }
+    ],
+    "followers": 5,
+    "following": 11,
+    "public_repos": 26,
+    "pull_requests_merged": 25,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 400,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/vishal-v46/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_vis.ig/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://vis46.notion.site/vis46/Design-Portfolio-bdb7d3c887c8400a80e30a11ba64d7cf"
+        }
+    ],
+    "activity_summary": {
+        "sonaquiz": {
+            "link": "https://github.com/vis465/sonaquiz",
+            "summary": "Recent activities in the sonaquiz repository have focused on significant enhancements to the quiz system, including the addition of end time handling, department report functionality, and email functionality using Nodemailer. The repository has also seen improvements to the user management system, including the implementation of user analytics, deletion functionality, and role-based access control. Additionally, various bug fixes and UI enhancements have been made to the dashboard and history components, including the implementation of CSV export functionality for user analytics and quiz scores."
+        }
+    },
+    "profile_summary": "Vishal V is a highly skilled developer with a strong foundation in programming languages such as C++, JavaScript, and HTML. With a proven track record of delivering high-quality solutions, Vishal has established himself as a reliable and innovative professional in the field of software development. As a dedicated and passionate coder, he has built a significant presence on GitHub, with 26 public repositories that demonstrate his active involvement in various development projects. His expertise in programming languages and commitment to staying up-to-date with the latest industry trends make him a valuable asset to any development team.\n\nAs a seasoned developer with a growing professional network of 5 followers, Vishal is well-respected for his technical expertise and collaborative approach. His proficiency in C++, JavaScript, and HTML enables him to develop scalable, efficient, and user-friendly solutions that meet the needs of diverse clients. With a strong focus on innovation and continuous improvement, Vishal is always looking for opportunities to expand his skill set and take on new challenges. By leveraging his technical expertise and industry knowledge, Vishal delivers high-quality results that exceed expectations, making him a trusted and sought-after developer in the industry."
+}

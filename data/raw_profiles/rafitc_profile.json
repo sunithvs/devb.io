@@ -1,0 +1,142 @@
+{
+    "username": "rafitc",
+    "name": "Rafi Rasheed T C ",
+    "bio": "Maker | Developer | Python | Go | IoT |\r\nBuilding @MakerGram & @HeedLabs ",
+    "location": "kerala, India ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/15951192?u=50217390df9ac8ef9f688cdda3a717ae2f8368c2&v=4",
+    "profile_url": "https://github.com/rafitc",
+    "top_languages": [
+        [
+            "C++",
+            21
+        ],
+        [
+            "Go",
+            5
+        ],
+        [
+            "Python",
+            17
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "arduDino",
+            "description": "Arduino playing Dino game. ",
+            "score": 3.8793758890073966,
+            "stars": 3,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rafitc/arduDino",
+            "updatedAt": "2021-07-26T07:43:56Z"
+        },
+        {
+            "name": "Gy521_arduino_library-",
+            "description": null,
+            "score": 2.5603787164799865,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/rafitc/Gy521_arduino_library-",
+            "updatedAt": "2023-05-14T20:56:09Z"
+        },
+        {
+            "name": "c_code",
+            "description": null,
+            "score": 2.4953696057678743,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/rafitc/c_code",
+            "updatedAt": "2021-05-12T12:22:58Z"
+        },
+        {
+            "name": "Minnal-Murali",
+            "description": "Minnal-Murali is python Bot to send instant email for type form responses. ",
+            "score": 2.494181626200269,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rafitc/Minnal-Murali",
+            "updatedAt": "2020-10-23T15:14:59Z"
+        },
+        {
+            "name": "instaMouse",
+            "description": "Are you a person who lazy to mouse and Love keyboards. ",
+            "score": 2.4933627705255574,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rafitc/instaMouse",
+            "updatedAt": "2020-05-28T04:57:02Z"
+        },
+        {
+            "name": "rafitc.github.io",
+            "description": null,
+            "score": 1.4586349688243698,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rafitc/rafitc.github.io",
+            "updatedAt": "2022-03-31T08:53:58Z"
+        },
+        {
+            "name": "landmark",
+            "description": null,
+            "score": 1.458449464648834,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/rafitc/landmark",
+            "updatedAt": "2022-08-11T12:14:37Z"
+        },
+        {
+            "name": "timer-circuit",
+            "description": null,
+            "score": 1.4564987694385731,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/rafitc/timer-circuit",
+            "updatedAt": "2022-03-18T09:39:28Z"
+        }
+    ],
+    "followers": 59,
+    "following": 40,
+    "public_repos": 119,
+    "pull_requests_merged": 37,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 199,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/iamRafiRasheed"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rafitc/"
+        }
+    ],
+    "activity_summary": {
+        "rafitc/prate": {
+            "link": "https://github.com/rafitc/prate",
+            "summary": "Recent activities include the implementation of a node scan base, TCP connection write functionality, and the addition of features to find possible IP addresses from CIDR. Multiple pull requests were merged to incorporate these changes, demonstrating active development and collaboration."
+        },
+        "rafitc/fundhive": {
+            "link": "https://github.com/rafitc/fundhive",
+            "summary": "The repository has seen significant updates with the implementation of basic API calls, fetching fund data, and updates to SQL scripts. Additionally, the README file was updated, indicating efforts to improve documentation and usability."
+        },
+        "rafitc/diary": {
+            "link": "https://github.com/rafitc/diary",
+            "summary": "Activities include fixes for build issues, updates to the project's lock file, and modifications to the template to focus on the timeline feature. These changes indicate maintenance and refinement of the project's core functionality."
+        },
+        "rafitc/diary-writer": {
+            "link": "https://github.com/rafitc/diary-writer",
+            "summary": "The project has seen the initial implementation of a logger and cloud job functionality, marking the beginning of new feature development aimed at enhancing the diary writer's capabilities."
+        }
+    },
+    "profile_summary": "Rafi Rasheed T C is a highly skilled developer with a strong proficiency in programming languages such as C++, Go, and Python. With a solid background in building innovative solutions, he has established himself as a reputable figure in the development community. His extensive experience in developing cutting-edge technologies has earned him a significant following of 59 professionals, who admire his technical expertise and vision. As a dedicated maker and developer, Rafi has created a substantial portfolio of 119 public repositories, demonstrating his commitment to active development and collaborative growth.\n\nAs the founder of MakerGram and HeedLabs, Rafi is driven to create impactful solutions that combine his passion for IoT and programming. With a unique blend of technical skills and entrepreneurial spirit, he brings a distinctive value proposition to the table. His expertise in Python, Go, and C++ has enabled him to develop innovative projects that have garnered attention and acclaim. With a strong online presence and a growing network of peers, Rafi Rasheed T C is an accomplished developer who consistently delivers high-quality solutions, making him a valuable asset to the development community and a sought-after professional in the industry."
+}

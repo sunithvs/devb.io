@@ -1,0 +1,126 @@
+{
+    "username": "aswin110",
+    "name": "Aswin",
+    "bio": "",
+    "location": "Kochi kerala India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/117816692?u=49c73cf31413d5310bee951c788234a1e0f8233b&v=4",
+    "profile_url": "https://github.com/Aswin110",
+    "top_languages": [
+        [
+            "JavaScript",
+            27
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Vue",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Resturant-page",
+            "description": null,
+            "score": 1.5488237687212867,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aswin110/Resturant-page",
+            "updatedAt": "2023-09-19T08:47:51Z"
+        },
+        {
+            "name": "sample",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Aswin110/sample",
+            "updatedAt": "2024-10-25T19:31:01Z"
+        },
+        {
+            "name": "voguify",
+            "description": null,
+            "score": 0.2959219468663434,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Aswin110/voguify",
+            "updatedAt": "2024-07-23T04:24:17Z"
+        },
+        {
+            "name": "my-first-next-app",
+            "description": null,
+            "score": 0.2616275444903631,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aswin110/my-first-next-app",
+            "updatedAt": "2024-02-23T11:17:11Z"
+        },
+        {
+            "name": "login-signin-jwt",
+            "description": null,
+            "score": 0.2604663282857313,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aswin110/login-signin-jwt",
+            "updatedAt": "2024-02-15T11:53:03Z"
+        },
+        {
+            "name": "my-astro-site",
+            "description": null,
+            "score": 0.26032395415333026,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Aswin110/my-astro-site",
+            "updatedAt": "2024-02-14T07:32:24Z"
+        },
+        {
+            "name": "Hospital-management-Software",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Aswin110/Hospital-management-Software",
+            "updatedAt": "2024-02-09T05:04:40Z"
+        },
+        {
+            "name": "Bank-vendor",
+            "description": null,
+            "score": 0.2566935224498611,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Aswin110/Bank-vendor",
+            "updatedAt": "2024-01-22T11:17:47Z"
+        }
+    ],
+    "followers": 5,
+    "following": 12,
+    "public_repos": 47,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 494,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aswin-ashok-/"
+        }
+    ],
+    "activity_summary": {
+        "Aswin110/sample": {
+            "link": "https://github.com/Aswin110/sample",
+            "summary": "Recent activity in the Aswin110/sample repository includes a push event that occurred on October 25, 2024, with a commit message indicating it was the third commit, suggesting ongoing development and updates to the repository's content."
+        }
+    },
+    "profile_summary": "Aswin is a highly skilled and innovative developer with a strong foundation in JavaScript, TypeScript, and Vue. With a solid track record of delivering high-quality solutions, Aswin has established himself as a reliable and proficient expert in his field. His extensive experience and in-depth knowledge of modern web development frameworks and technologies have enabled him to drive complex projects forward with ease and precision. Aswin's commitment to staying up-to-date with the latest industry trends and advancements has allowed him to consistently push the boundaries of what is possible, making him a valuable asset to any development team.\n\nAswin's impressive portfolio, comprising 47 public repositories, showcases his dedication to active development and his passion for creating innovative solutions. With a growing network of 5 followers, Aswin is building a reputation as a trusted and respected figure in the development community. By leveraging his technical expertise and collaborative approach, Aswin delivers exceptional results that meet and exceed client expectations. As a talented and driven developer, Aswin is poised to make a lasting impact in the world of web development, and his unique blend of technical prowess and creative vision makes him an exciting and valuable partner for any project."
+}

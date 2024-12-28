@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-wiki": {
+        "osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities in the osu-wiki repository have focused on adding a news post for the 3 Digit World Cup 2025, including registration links, forum thread links, and a banner image. Multiple commits have been made to refine the content, with contributions from users such as Walavouchey. Additionally, a pull request was merged to finalize the news post, ensuring a polished introduction to the 3 Digit World Cup 2025."
+            "summary": "Recent activities in the osu-wiki repository include updates to the `MWC 7K 2025` team listing and rules, as well as the addition of a news post for the `3 Digit World Cup 2025: Registrations Now Open!` event, complete with a registration link, banner image, and forum thread link."
         },
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "The osu-framework repository has seen updates related to the FFmpeg build process, specifically switching to use the `macos-13` CI image. This change was made in response to the deprecation of the `macos-12` image, ensuring that macOS jobs can continue to run without issues. A pull request was merged to implement this update, which includes a detailed explanation of the reasoning behind choosing version 13 for better compatibility with older macOS versions."
-        },
-        "ppy/osu": {
+        "osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "In the osu repository, a pull request was submitted to address issues with angle bonuses, specifically fixing the calculation of repetition and applying distance scaling to wide bonuses. This change aims to correct inaccuracies in the angle bonus system, ensuring that stacked patterns do not award excessive difficulty points. The pull request provides a detailed breakdown of the fixes and their implications for the game's mechanics."
+            "summary": "The osu repository has seen a recent pull request aimed at fixing issues with angle bonuses, specifically addressing the calculation of repetition and the application of distance scaling to wide bonuses, marking the third round of angle bonuses fixes."
         }
     },
     "profile_summary": null

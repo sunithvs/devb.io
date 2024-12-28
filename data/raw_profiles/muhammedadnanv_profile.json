@@ -1,0 +1,154 @@
+{
+    "username": "muhammedadnanv",
+    "name": "Muhammed Adnan",
+    "bio": "Front-End Developer & PWA Specialist | Business Automation Enthusiast | Founder of Ad Web Comic Agency | Where Innovation Meets Modern Web Solutions\r\n",
+    "location": "calicut",
+    "avatar_url": "https://avatars.githubusercontent.com/u/147593005?u=0179f318c2f0a77f3a6522998514f74f29ae0c43&v=4",
+    "profile_url": "https://github.com/muhammedadnanv",
+    "top_languages": [
+        [
+            "JavaScript",
+            42
+        ],
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "Python",
+            12
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ZoXach",
+            "description": "ZoXach: The ultimate app merging social media, messaging, video streaming, games, and movies into one platform",
+            "score": 2.7127612329998465,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/muhammedadnanv/ZoXach",
+            "updatedAt": "2024-06-27T08:54:31Z"
+        },
+        {
+            "name": "instagram-unban",
+            "description": null,
+            "score": 2.6808526258242256,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedadnanv/instagram-unban",
+            "updatedAt": "2024-10-10T19:45:45Z"
+        },
+        {
+            "name": "camera-caputure",
+            "description": null,
+            "score": 2.6766862503741478,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/muhammedadnanv/camera-caputure",
+            "updatedAt": "2024-07-30T14:47:54Z"
+        },
+        {
+            "name": "QrcodeAI",
+            "description": "The Custom QR Code Generator PWA allows users to generate QR codes with custom colors and logos. By integrating machine learning (ML) using TensorFlow.js, the app's capabilities can be enhanced to optimize logos, suggest color schemes, and ensure QR code readability. This write-up will explain the concepts and methodologies without diving into the ",
+            "score": 2.4775010649765483,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/muhammedadnanv/QrcodeAI",
+            "updatedAt": "2024-09-04T19:06:51Z"
+        },
+        {
+            "name": "Automation-charging-alert-",
+            "description": null,
+            "score": 1.6414946722073407,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedadnanv/Automation-charging-alert-",
+            "updatedAt": "2024-01-07T10:38:42Z"
+        },
+        {
+            "name": "termux-todo-list",
+            "description": null,
+            "score": 1.6414946722073407,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedadnanv/termux-todo-list",
+            "updatedAt": "2024-01-07T10:38:41Z"
+        },
+        {
+            "name": "Gmail-automation-tool",
+            "description": null,
+            "score": 1.6413732805764933,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedadnanv/Gmail-automation-tool",
+            "updatedAt": "2024-01-07T10:38:44Z"
+        },
+        {
+            "name": "termux-sce",
+            "description": null,
+            "score": 1.6406543513232865,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/muhammedadnanv/termux-sce",
+            "updatedAt": "2024-08-21T15:27:51Z"
+        }
+    ],
+    "followers": 71,
+    "following": 310,
+    "public_repos": 174,
+    "pull_requests_merged": 4,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 1183,
+        "repositories_contributed_to": 24
+    },
+    "social_accounts": [
+        {
+            "provider": "youtube",
+            "url": "https://youtube.com/@hacker_adnan"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ai.adnanvv/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://github.com/muhammedadnanv/muhammedadnanv.git"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/muhammedadnanvv/"
+        }
+    ],
+    "activity_summary": {
+        "muhammedadnanv/refferal-erifeel": {
+            "link": "https://github.com/muhammedadnanv/refferal-erifeel",
+            "summary": "There were multiple updates to the index.html file on December 14, 2024, with a series of push events made throughout the day, indicating active development and refinement of the repository's content."
+        },
+        "muhammedadnanv/40004": {
+            "link": "https://github.com/muhammedadnanv/40004",
+            "summary": "Recent activities include updates to CategoryTopper.tsx on December 21 and 27, 2024, as well as the deletion of README.md on December 27, 2024, suggesting ongoing development and potential restructuring of the repository."
+        },
+        "muhammedadnanv/fcr": {
+            "link": "https://github.com/muhammedadnanv/fcr",
+            "summary": "The repository saw significant activity on December 27, 2024, with updates including the deletion of README.md, an update to DynamicAdDisplay.tsx, and a bump in the nanoid dependency from 3.3.7 to 3.3.8, indicating maintenance and dependency updates."
+        },
+        "muhammedadnanv/comicfixh": {
+            "link": "https://github.com/muhammedadnanv/comicfixh",
+            "summary": "Updates were made on December 24, 2024, to both the Footer.jsx and Header.jsx files, indicating recent development and refinement of the repository's frontend components."
+        },
+        "muhammedadnanv/Portfolio": {
+            "link": "https://github.com/muhammedadnanv/Portfolio",
+            "summary": "There was an update to Skills.tsx on December 23, 2024, suggesting ongoing maintenance and potential expansion of the portfolio's skill showcase."
+        }
+    },
+    "profile_summary": "Muhammed Adnan is a highly skilled Front-End Developer and Progressive Web Apps Specialist with a strong foundation in JavaScript, TypeScript, and Python. With a proven track record of delivering innovative web solutions, he has established himself as a reputable figure in the development community, boasting a network of 71 followers and an impressive portfolio of 174 public repositories. His expertise in business automation and passion for modern web development have enabled him to drive growth and improvement in various projects, cementing his position as a trusted and reliable developer.\n\nAs the founder of Ad Web Comic Agency, Muhammed Adnan brings a unique blend of technical expertise and entrepreneurial spirit to the table, consistently pushing the boundaries of what is possible in web development. With a keen eye for innovation and a commitment to staying up-to-date with the latest industry trends, he is well-equipped to tackle complex challenges and deliver tailored solutions that meet the evolving needs of his clients. By leveraging his technical prowess and business acumen, Muhammed Adnan is dedicated to creating cutting-edge web applications that drive real results and exceed expectations, making him an invaluable asset to any project or organization."
+}

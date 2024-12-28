@@ -1,13 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/CacheLib": {
-            "link": "https://github.com/facebook/CacheLib",
-            "summary": "Recent activities in the CacheLib repository include a pull request to update the build-cachelib-ubuntu-22.yml file, which adds the fast float library to prevent folly from breaking."
+        "facebook/watchman": {
+            "link": "https://github.com/facebook/watchman",
+            "summary": "Recent activities in the facebook/watchman repository include updates to submodules, with a focus on synchronizing GitHub commits, as seen in the buck2-prelude repository."
         },
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "The zstd repository has seen recent activity with a pull request to fix the ZSTD_readSkippableFrame function when a NULL destination is provided, ensuring that the function behaves correctly even when the destination capacity is irrelevant."
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "The facebook/hhvm repository has experienced recent activity, specifically a push event involving submodule updates, aligning with the buck2-prelude repository's commits."
+        },
+        "facebook/wangle": {
+            "link": "https://github.com/facebook/wangle",
+            "summary": "Activity in the facebook/wangle repository centers around updating hashes, supplemented by a summary of commits in the buck2-prelude repository, indicating a push for synchronization."
+        },
+        "facebook/sapling": {
+            "link": "https://github.com/facebook/sapling",
+            "summary": "The facebook/sapling repository has seen recent submodule updates, mirroring the commit history of the buck2-prelude repository, indicating a unified development effort."
+        },
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "Recent activity in the facebook/fbthrift repository includes submodule updates, consistent with the buck2-prelude repository's commit history, suggesting a coordinated update across related projects."
         }
     },
     "profile_summary": null

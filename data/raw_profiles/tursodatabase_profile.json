@@ -3,7 +3,7 @@
     "activity_summary": {
         "limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository have focused on enhancing database functionality, including the addition of an in-memory mode and improvements to uncorrelated subqueries. These updates, committed through a series of push events and a pull request, aim to expand the repository's capabilities, particularly in Python bindings, and introduce immediate statement execution for DDL/DML operations."
+            "summary": "Recent activities in the limbo repository include a pull request to add in-memory mode for the Python bindings with immediate statement execution for DDL/DML operations, as well as a push event focused on work-in-progress for uncorrelated subqueries, demonstrating ongoing efforts to enhance the repository's functionality and performance."
         }
     },
     "profile_summary": null

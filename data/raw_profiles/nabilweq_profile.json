@@ -1,0 +1,128 @@
+{
+    "username": "nabilweq",
+    "name": "Muhammed Nabeel T K",
+    "bio": "Dreaming and designing for life day by day | Tinkerer, Maker",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/62200954?u=8d4171ad7036bab4ff76b55cbf95fb06e2f66272&v=4",
+    "profile_url": "https://github.com/nabilweq",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "threejs",
+            "description": null,
+            "score": 2.487928788312696,
+            "stars": 0,
+            "forks": 4,
+            "language": "JavaScript",
+            "url": "https://github.com/nabilweq/threejs",
+            "updatedAt": "2022-08-04T14:12:56Z"
+        },
+        {
+            "name": "Python-Login-System",
+            "description": null,
+            "score": 2.26455599671876,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nabilweq/Python-Login-System",
+            "updatedAt": "2022-02-13T16:17:22Z"
+        },
+        {
+            "name": "qt-practices",
+            "description": null,
+            "score": 1.665590785891779,
+            "stars": 1,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/nabilweq/qt-practices",
+            "updatedAt": "2024-09-06T14:36:24Z"
+        },
+        {
+            "name": "mkuttan",
+            "description": null,
+            "score": 1.4565948364406416,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nabilweq/mkuttan",
+            "updatedAt": "2022-06-10T05:53:17Z"
+        },
+        {
+            "name": "Nabeel-website",
+            "description": null,
+            "score": 1.453789651059251,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nabilweq/Nabeel-website",
+            "updatedAt": "2021-09-15T06:36:51Z"
+        },
+        {
+            "name": "synctime-js",
+            "description": "Sync time",
+            "score": 1.2066946299768015,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/nabilweq/synctime-js",
+            "updatedAt": "2023-12-03T05:30:43Z"
+        },
+        {
+            "name": "bf4-practices",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nabilweq/bf4-practices",
+            "updatedAt": "2024-09-24T02:33:28Z"
+        },
+        {
+            "name": "solid-D",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/nabilweq/solid-D",
+            "updatedAt": "2024-09-01T18:19:43Z"
+        }
+    ],
+    "followers": 13,
+    "following": 3,
+    "public_repos": 57,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 346,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/nabeeltki"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nabilweq/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/nabilweq/"
+        }
+    ],
+    "profile_summary": "Muhammed Nabeel T K is a highly skilled and innovative developer with a strong proficiency in languages such as TypeScript, C++, and Go. With a keen eye for detail and a passion for designing and developing cutting-edge solutions, he brings a unique perspective to the world of software development. As a prolific developer with 57 public repositories, he has consistently demonstrated his ability to create high-quality code and collaborate with others to drive projects forward. His professional network and influence are reflected in his 13 followers, who appreciate his technical expertise and creative approach to problem-solving.\n\nAs a tinkerer and maker, Muhammed Nabeel T K is always dreaming and designing for life, bringing new ideas and perspectives to the table. With his technical expertise and creative flair, he is well-equipped to tackle complex challenges and develop innovative solutions that drive results. With a strong focus on reliability, efficiency, and scalability, he crafts software solutions that meet the needs of users and exceed expectations. Whether working on personal projects or collaborating with others, Muhammed Nabeel T K is a dedicated and skilled developer who consistently delivers high-quality work and pushes the boundaries of what is possible with technology."
+}

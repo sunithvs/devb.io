@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "osu-wiki": {
+        "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities in the osu-wiki repository include updates to the `MWC 7K 2025` team listing and rules, as well as the addition of a news post for the `3 Digit World Cup 2025: Registrations Now Open!` event, complete with a registration link, banner image, and forum thread link."
+            "summary": "Recent activities on osu-wiki include updates to the MWC 7K 2025 team listing and rules, as well as the addition of a news post for the 3 Digit World Cup 2025, including registration links, banner images, and forum thread links. These activities demonstrate the ongoing effort to maintain and update the osu-wiki with relevant information for the community."
         },
-        "osu": {
+        "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen a recent pull request aimed at fixing issues with angle bonuses, specifically addressing the calculation of repetition and the application of distance scaling to wide bonuses, marking the third round of angle bonuses fixes."
+            "summary": "The osu repository has seen recent activity with a pull request aimed at fixing angle bonuses, specifically addressing issues with repetition calculations and distance scaling for wide bonuses, which is a critical aspect of the game's mechanics and overall player experience."
         }
     },
     "profile_summary": null

@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "limbo": {
+        "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include a pull request to add in-memory mode for the Python bindings with immediate statement execution for DDL/DML operations, as well as a push event focused on work-in-progress for uncorrelated subqueries, demonstrating ongoing efforts to enhance the repository's functionality and performance."
+            "summary": "Recent activities in the limbo repository include the introduction of an in-memory mode for the Python bindings, allowing for immediate statement execution for DDL/DML operations, enhancing the database's performance and functionality."
         }
     },
     "profile_summary": null

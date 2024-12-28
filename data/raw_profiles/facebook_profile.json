@@ -1,25 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/watchman": {
-            "link": "https://github.com/facebook/watchman",
-            "summary": "Recent activities in the facebook/watchman repository include updates to submodules, with a focus on synchronizing GitHub commits, as seen in the buck2-prelude repository."
-        },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "The facebook/hhvm repository has experienced recent activity, specifically a push event involving submodule updates, aligning with the buck2-prelude repository's commits."
-        },
-        "facebook/wangle": {
-            "link": "https://github.com/facebook/wangle",
-            "summary": "Activity in the facebook/wangle repository centers around updating hashes, supplemented by a summary of commits in the buck2-prelude repository, indicating a push for synchronization."
-        },
-        "facebook/sapling": {
-            "link": "https://github.com/facebook/sapling",
-            "summary": "The facebook/sapling repository has seen recent submodule updates, mirroring the commit history of the buck2-prelude repository, indicating a unified development effort."
-        },
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activity in the facebook/fbthrift repository includes submodule updates, consistent with the buck2-prelude repository's commit history, suggesting a coordinated update across related projects."
+        "facebook/react-native": {
+            "link": "https://github.com/facebook/react-native",
+            "summary": "Recent activities in the react-native repository have focused on updating and refining documentation, as evidenced by a pull request to update and rename the README.md file on December 28, 2024, further emphasizing the community's commitment to maintaining accurate and accessible resources for developers."
         }
     },
     "profile_summary": null

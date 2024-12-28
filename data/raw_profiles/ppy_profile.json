@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities include multiple push events and pull requests focused on creating and refining news posts, specifically for the 3 Digit World Cup 2025. Contributions involve adding base content, rewording introductions, incorporating match links, and adjusting schedules. Additionally, there have been efforts to add banner images, registration links, and forum thread links, with collaborative reviews and merges to finalize these updates."
+            "summary": "Recent activities in the osu-wiki repository have focused on preparing for the 3 Digit World Cup 2025, including adding a base for the news post, rewording the introduction, adding a short 2024 recap, and adjusting the schedule. Additionally, contributions have included adding a banner image, registration link, and forum thread links. Collaborative efforts have been made through pull requests and code reviews, such as applying suggestions from Wala and merging branches to integrate changes."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "Activities center around updates to FFmpeg build configurations, specifically transitioning to use the `macos-13` CI image. This change aims to address the deprecation and disabling of the `macos-12` image, ensuring compatibility and functionality of macOS jobs. The updates have been thoroughly discussed and reviewed through pull requests, reflecting a focus on maintaining and improving the framework's build processes."
+            "summary": "The osu-framework repository has seen updates to its FFmpeg build, including switching to the `macos-13` CI image to replace the deprecated `macos-12` image. This change aims to improve the compatibility of resulting binaries with older macOS versions. The updates have been made through pull requests, which have undergone code reviews and have been merged to integrate the changes."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities involve addressing issues with angle bonuses in gameplay. A pull request aims to fix the calculation of repetition in angle bonuses and applies distance scaling to wide bonuses. This update targets specific flaws in how bonuses are awarded, particularly in scenarios involving acute angles and stacked patterns, to provide a more accurate and fair gaming experience."
+            "summary": "Recent activities in the osu repository have centered around fixing angle bonuses, specifically addressing issues with repetition calculation and distance scaling for wide bonuses. A pull request has been submitted to address these concerns, proposing changes to correctly calculate acute angle bonuses and apply velocity and bpm/distance multipliers. This update aims to provide a more accurate and fair experience for players."
         }
     },
     "profile_summary": null

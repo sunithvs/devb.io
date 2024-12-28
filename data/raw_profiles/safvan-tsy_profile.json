@@ -1,0 +1,106 @@
+{
+    "username": "safvan-tsy",
+    "name": "Safvan",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90437519?u=31f821c4602a591e955075bbe31c3b476b9bd320&v=4",
+    "profile_url": "https://github.com/Safvan-tsy",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "blogx",
+            "description": "\ud83d\udcdaBlogx is an open-source, self-hosting blogging platform where a single admin can manage blogs, offering visitors access to blog lists, individual posts, and the admin's profile, with support for both dark and light themes. Designed for ease of self-hosting, enabling users to fork the repository and set up their personal blogging site .",
+            "score": 2.332523829771057,
+            "stars": 0,
+            "forks": 3,
+            "language": "TypeScript",
+            "url": "https://github.com/Safvan-tsy/blogx",
+            "updatedAt": "2024-07-01T14:34:46Z"
+        },
+        {
+            "name": "aix",
+            "description": "Won the title of Most Valuable to Business at the Instil AI hackathon \ud83c\udf1f. This project integrates Instil Core with a REST API to create pipelines for resume generation and search, addressing real-world business needs.",
+            "score": 0.27496089932767337,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Safvan-tsy/aix",
+            "updatedAt": "2024-08-23T12:01:34Z"
+        },
+        {
+            "name": "lmsx",
+            "description": null,
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Safvan-tsy/lmsx",
+            "updatedAt": "2024-05-07T16:58:56Z"
+        },
+        {
+            "name": "shorpe-seller",
+            "description": "Administration portal of shopee",
+            "score": 0.24404810369187757,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Safvan-tsy/shorpe-seller",
+            "updatedAt": "2024-07-13T11:37:21Z"
+        },
+        {
+            "name": "shopee-frontend",
+            "description": "An ecommerce website to promote cottage industries",
+            "score": 0.23618752830840378,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Safvan-tsy/shopee-frontend",
+            "updatedAt": "2024-07-13T12:00:52Z"
+        },
+        {
+            "name": "Safvan-tsy",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.21151361339087185,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Safvan-tsy/Safvan-tsy",
+            "updatedAt": "2024-08-07T10:12:17Z"
+        },
+        {
+            "name": "Express-Typescript-Template",
+            "description": null,
+            "score": 0.15728606625990224,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Safvan-tsy/Express-Typescript-Template",
+            "updatedAt": "2023-06-01T10:30:21Z"
+        }
+    ],
+    "followers": 7,
+    "following": 43,
+    "public_repos": 21,
+    "pull_requests_merged": 58,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 1861,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/muhammed-safvan-8b912a21b/"
+        }
+    ],
+    "profile_summary": "Safvan is a highly skilled developer with expertise in TypeScript and CSS, possessing a strong foundation in programming languages and web development. With a growing professional network of 7 followers, Safvan has established themselves as a reliable and innovative expert in their field. Their impressive portfolio of 21 public repositories showcases a consistent track record of delivering high-quality code and actively contributing to the development community. As a seasoned developer, Safvan brings a unique combination of technical skills and creativity to every project, making them a valuable asset to any team.\n\nSafvan's technical expertise and dedication to their craft have earned them recognition as a talented and forward-thinking developer. With a strong focus on best practices and industry trends, Safvan stays up-to-date with the latest developments in TypeScript and CSS, ensuring that their skills remain current and relevant. As a collaborative and driven professional, Safvan is committed to delivering exceptional results and pushing the boundaries of what is possible with code. With their expertise and passion for development, Safvan is an ideal partner for businesses and organizations seeking to leverage the latest technologies and innovate in their respective fields."
+}

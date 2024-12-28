@@ -1,0 +1,137 @@
+{
+    "username": "nadeemohc",
+    "name": "Nadeem",
+    "bio": "If you're coding open source then you're coding communism \ud83e\udd78",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108587101?u=e67058752c5ea938df1180435f436bd31b0b11fc&v=4",
+    "profile_url": "https://github.com/nadeemohc",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "dotfiles-hyprland-",
+            "description": "Config Files of my Hyprland Waybar Setup",
+            "score": 2.480601418396581,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nadeemohc/dotfiles-hyprland-",
+            "updatedAt": "2024-09-28T18:16:37Z"
+        },
+        {
+            "name": "grid7",
+            "description": "An e-commerce platform with user and admin handles",
+            "score": 1.6500549554625064,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nadeemohc/grid7",
+            "updatedAt": "2024-11-01T15:24:18Z"
+        },
+        {
+            "name": "gandalf_bot",
+            "description": null,
+            "score": 1.4123590184376216,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nadeemohc/gandalf_bot",
+            "updatedAt": "2024-11-17T08:31:16Z"
+        },
+        {
+            "name": "social_network",
+            "description": null,
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/social_network",
+            "updatedAt": "2024-11-20T05:10:08Z"
+        },
+        {
+            "name": "FFmagic",
+            "description": "Media Format Alchemist",
+            "score": 0.28947561885626205,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/FFmagic",
+            "updatedAt": "2024-09-08T10:45:20Z"
+        },
+        {
+            "name": "learnitt",
+            "description": null,
+            "score": 0.2864540485023059,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/learnitt",
+            "updatedAt": "2024-12-16T13:59:19Z"
+        },
+        {
+            "name": "blog_hackathon",
+            "description": null,
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/blog_hackathon",
+            "updatedAt": "2024-04-06T10:20:00Z"
+        },
+        {
+            "name": "travel_blog",
+            "description": null,
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nadeemohc/travel_blog",
+            "updatedAt": "2024-04-06T12:52:08Z"
+        }
+    ],
+    "followers": 23,
+    "following": 50,
+    "public_repos": 28,
+    "pull_requests_merged": 42,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 157,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "nadeemohc/gandalf_bot": {
+            "link": "https://github.com/nadeemohc/gandalf_bot",
+            "summary": "Recent activities in the gandalf_bot repository have focused on updating the README.md file, improving video presentation, and making other minor adjustments to enhance the project's documentation and overall presentation."
+        },
+        "nadeemohc/learnitt": {
+            "link": "https://github.com/nadeemohc/learnitt",
+            "summary": "The learnitt repository has seen recent updates with corrections to insertion sort, the addition of new workouts, and continued learning and development, indicating ongoing efforts to expand and refine the project's capabilities and content."
+        },
+        "donjoo/home_brows": {
+            "link": "https://github.com/donjoo/home_brows",
+            "summary": "Activities in the home_brows repository have involved several pull requests, including solving a problem with images and adding scripts and images, suggesting collaborative efforts to address specific issues and enhance the project's functionality."
+        },
+        "nadeemohc/home_brows": {
+            "link": "https://github.com/nadeemohc/home_brows",
+            "summary": "The home_brows repository has experienced significant activity with the addition of finishing touches, merges of branches, and solutions to image-related problems, indicating a period of intense development and finalization of project components."
+        },
+        "nadeemohc/grid7": {
+            "link": "https://github.com/nadeemohc/grid7",
+            "summary": "Recent activities in the grid7 repository include changes to the README file, the addition of licensing, and the dockerization of the project, which collectively contribute to making the project more accessible, legally compliant, and deployment-ready."
+        }
+    },
+    "profile_summary": "Nadeem is a highly skilled and accomplished developer with a strong proficiency in key programming languages, including Python, JavaScript, and HTML. With a substantial following of 23 professionals and a portfolio of 28 public repositories, Nadeem has established himself as a prominent figure in the development community. His dedication to open-source coding is reflected in his personal philosophy, which emphasizes the importance of collaboration and community-driven innovation. As a passionate advocate for open-source development, Nadeem brings a unique perspective to his work, leveraging his technical expertise to drive meaningful contributions to the coding community.\n\nAs a talented and reliable developer, Nadeem has built a reputation for delivering high-quality solutions that meet the evolving needs of the industry. With his expertise in Python, JavaScript, and HTML, he is well-equipped to tackle complex projects and drive innovation in the field. Nadeem's commitment to open-source development and his active engagement with the coding community have earned him recognition as a forward-thinking and collaborative professional. With his strong technical skills, passion for innovation, and dedication to community-driven development, Nadeem is an exceptional developer who is poised to make a lasting impact in the world of coding and beyond."
+}

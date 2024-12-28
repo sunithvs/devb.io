@@ -1,0 +1,121 @@
+{
+    "username": "gokulgoky1",
+    "name": "GOKUL G R",
+    "bio": "Cyber Security Enthusiast\r\nML\r\nExplore More in Information Technology",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/99113503?v=4",
+    "profile_url": "https://github.com/Gokulgoky1",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Node-JS-App-Practice-",
+            "description": null,
+            "score": 1.459761946093504,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Gokulgoky1/Node-JS-App-Practice-",
+            "updatedAt": "2022-07-18T14:10:02Z"
+        },
+        {
+            "name": "sample-express-nodejs-web-application-Signup-login-",
+            "description": null,
+            "score": 1.459761946093504,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Gokulgoky1/sample-express-nodejs-web-application-Signup-login-",
+            "updatedAt": "2022-07-13T14:28:32Z"
+        },
+        {
+            "name": "Diffrent-Cryptographic-Algorithms-Implimentation-Using-Python-",
+            "description": null,
+            "score": 1.4597380711633745,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Gokulgoky1/Diffrent-Cryptographic-Algorithms-Implimentation-Using-Python-",
+            "updatedAt": "2022-07-07T22:00:12Z"
+        },
+        {
+            "name": "NeenOpal-Datasets-",
+            "description": null,
+            "score": 1.1131287961885366,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Gokulgoky1/NeenOpal-Datasets-",
+            "updatedAt": "2022-07-04T22:33:53Z"
+        },
+        {
+            "name": "Password-Strength-Report",
+            "description": "This a sample webpage repository to display the csv report",
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Gokulgoky1/Password-Strength-Report",
+            "updatedAt": "2024-10-24T09:08:59Z"
+        },
+        {
+            "name": "Secure-Mobile-Sensor-Data-Transfer-using-Asymmetric-Cryptography-Algorithm",
+            "description": "The Aim of this project is to Transfer Mobile Sensor Data using Asymmetric Cryptography Algorithms Securely",
+            "score": 0.15476358819804817,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Gokulgoky1/Secure-Mobile-Sensor-Data-Transfer-using-Asymmetric-Cryptography-Algorithm",
+            "updatedAt": "2023-03-30T09:53:10Z"
+        },
+        {
+            "name": "Data_sets",
+            "description": null,
+            "score": 0.14600530331201603,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Gokulgoky1/Data_sets",
+            "updatedAt": "2023-06-29T16:59:39Z"
+        },
+        {
+            "name": "Various-ML-Algorithms",
+            "description": "This repo includes various ML algorithms such as decision tree, KNN , Ensemble Learning etc.. , which also includes Exploratory data analysis of the dataset.",
+            "score": 0.07436235278030412,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Gokulgoky1/Various-ML-Algorithms",
+            "updatedAt": "2022-09-18T17:42:51Z"
+        }
+    ],
+    "followers": 4,
+    "following": 6,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 54,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Gokulgoky1/Password-Strength-Report": {
+            "link": "https://github.com/Gokulgoky1/Password-Strength-Report",
+            "summary": "The repository has seen significant activity in recent days, with multiple push events updating the CSV file with new data and modifying the index.html file. These updates occurred on October 20 and 24, indicating a focused effort on data updates and HTML modifications. Additionally, there were events related to creating, updating, and deleting a CNAME file on October 20, suggesting configuration changes."
+        }
+    },
+    "profile_summary": "GOKUL G R is a highly skilled and accomplished developer with a strong background in programming languages such as Python and JavaScript. With a keen interest in Cyber Security and Machine Learning, GOKUL has established himself as a proficient technologist with a passion for exploring the latest advancements in Information Technology. His proficiency in utilizing tools like Jupyter Notebook has enabled him to deliver high-quality solutions with precision and accuracy. As a dedicated professional, GOKUL has built a reputation for reliability and technical expertise, earning the respect of his peers and followers.\n\nWith a substantial portfolio of 17 public repositories, GOKUL showcases his active engagement in software development and his commitment to innovation. His professional network, comprising 4 followers, is a testament to his influence and credibility within the development community. By combining his technical skills with a keen sense of curiosity and a drive to explore new technologies, GOKUL is poised to make significant contributions to the field of Information Technology. As a Cyber Security enthusiast and ML expert, he is well-equipped to tackle complex challenges and develop cutting-edge solutions that meet the evolving needs of the industry, making him a valuable asset to any organization."
+}

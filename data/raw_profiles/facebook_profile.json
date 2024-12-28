@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/fresco": {
-            "link": "https://github.com/facebook/fresco",
-            "summary": "Recent activities in the facebook/fresco repository involved a PushEvent on December 28, 2024, which included updates to the fbandroid/libraries/fresco/drawee/src/main/java/com/facebook/drawee/drawable/InstrumentedDrawable.java file, indicating ongoing development and maintenance efforts."
+        "facebook/zstd": {
+            "link": "https://github.com/facebook/zstd",
+            "summary": "Recent activities in the facebook/zstd repository involve improvements to the ZSTD_readSkippableFrame function, including a pull request that addresses an issue where the function asserts when the frame size exceeds the destination capacity, even when the destination is NULL. This update enhances the functionality and business logic of the library."
         }
     },
     "profile_summary": null

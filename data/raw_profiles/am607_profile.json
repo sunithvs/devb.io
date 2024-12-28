@@ -1,0 +1,115 @@
+{
+    "username": "am607",
+    "name": "AkbarMasterpadi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/62100210?u=0d84059a4ec73fc08e8a24f484ace73f965ea675&v=4",
+    "profile_url": "https://github.com/Am607",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Dart",
+            13
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "90-days",
+            "description": null,
+            "score": 2.9090068288929043,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Am607/90-days",
+            "updatedAt": "2023-12-09T13:23:45Z"
+        },
+        {
+            "name": "projectHub",
+            "description": "live website of projectHub",
+            "score": 2.3478001788543237,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Am607/projectHub",
+            "updatedAt": "2023-02-04T08:59:04Z"
+        },
+        {
+            "name": "Yt_player",
+            "description": null,
+            "score": 1.6380387528472398,
+            "stars": 1,
+            "forks": 0,
+            "language": "Objective-C",
+            "url": "https://github.com/Am607/Yt_player",
+            "updatedAt": "2024-04-01T03:04:55Z"
+        },
+        {
+            "name": "better_player_clone",
+            "description": null,
+            "score": 1.62975313821998,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Am607/better_player_clone",
+            "updatedAt": "2024-02-29T07:08:36Z"
+        },
+        {
+            "name": "node_shoping_card",
+            "description": "this is a node js intermediate project",
+            "score": 1.4585211010531216,
+            "stars": 1,
+            "forks": 0,
+            "language": "Handlebars",
+            "url": "https://github.com/Am607/node_shoping_card",
+            "updatedAt": "2022-03-19T17:16:47Z"
+        },
+        {
+            "name": "dart",
+            "description": null,
+            "score": 1.4544004838132005,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Am607/dart",
+            "updatedAt": "2022-04-12T07:02:26Z"
+        },
+        {
+            "name": "niyas_app",
+            "description": null,
+            "score": 1.112871684864001,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Am607/niyas_app",
+            "updatedAt": "2022-06-12T16:05:54Z"
+        },
+        {
+            "name": "aptus_sea_food",
+            "description": null,
+            "score": 1.109728813331709,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/Am607/aptus_sea_food",
+            "updatedAt": "2022-05-29T05:59:56Z"
+        }
+    ],
+    "followers": 23,
+    "following": 25,
+    "public_repos": 63,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "AkbarMasterpadi is a highly skilled and accomplished developer with a strong proficiency in programming languages such as C++, Dart, and JavaScript. With a significant presence on GitHub, boasting 23 followers and an impressive 63 public repositories, AkbarMasterpadi has established themselves as a reputable and influential figure in the development community. Their extensive portfolio showcases a deep understanding of software development principles, as well as a passion for creating innovative and effective solutions. As a seasoned developer, AkbarMasterpadi brings a unique blend of technical expertise and creativity to the table, making them an invaluable asset to any project or team.\n\nWith a proven track record of delivering high-quality code and collaborating with others, AkbarMasterpadi is a reliable and results-driven professional who consistently pushes the boundaries of what is possible. Their expertise in C++, Dart, and JavaScript enables them to tackle complex challenges and develop cutting-edge applications that meet the demands of an ever-evolving tech landscape. As a forward-thinking developer, AkbarMasterpadi stays up-to-date with the latest industry trends and advancements, ensuring that their skills and knowledge remain relevant and in high demand. With their strong technical foundation, collaborative spirit, and dedication to excellence, AkbarMasterpadi is an exceptional developer who is well-equipped to drive innovation and success in the world of software development."
+}

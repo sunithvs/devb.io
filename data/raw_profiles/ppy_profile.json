@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities on osu-wiki include updates to the MWC 7K 2025 team listing and rules, as well as the addition of a news post for the 3 Digit World Cup 2025, including registration links, banner images, and forum thread links. These activities demonstrate the ongoing effort to maintain and update the osu-wiki with relevant information for the community."
+            "summary": "The osu-wiki repository has seen significant updates, primarily focused on the Multiplayer World Cup 7K 2025 and the 3 Digit World Cup 2025. Activities include updates to team listings, rules, and news posts, as well as adjustments to registration links, schedules, and introductory texts. These changes indicate active preparation for upcoming events, reflecting a strong community engagement and continuous improvement of the wiki's content."
         },
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen recent activity with a pull request aimed at fixing angle bonuses, specifically addressing issues with repetition calculations and distance scaling for wide bonuses, which is a critical aspect of the game's mechanics and overall player experience."
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "The osu-framework repository has experienced notable updates, particularly in enhancing the performance and compatibility of the framework. Recent activities include the addition of native macOS image loading support, aimed at significantly improving texture loading times, and a cleanup of Objective-C interop code. These efforts are geared towards optimizing the framework's efficiency, interoperability, and overall user experience, showcasing a commitment to technological advancement and maintenance."
         }
     },
     "profile_summary": null

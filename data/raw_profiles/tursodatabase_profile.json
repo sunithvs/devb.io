@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include the introduction of an in-memory mode for the Python bindings, allowing for immediate statement execution for DDL/DML operations, enhancing the database's performance and functionality."
+            "summary": "Recent activities in the limbo repository include improvements to the unified table reference interface and the addition of an in-memory mode for the Python bindings, enabling immediate statement execution for DDL/DML operations."
         }
     },
     "profile_summary": null

@@ -1,0 +1,132 @@
+{
+    "username": "ashiqu-ali",
+    "name": "Ashiqu Ali",
+    "bio": "FLUTTER DEVELOPER ",
+    "location": "Calicut",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85464603?u=5e5cd62d4caaf7bafd5db7875c8f929d1e86c083&v=4",
+    "profile_url": "https://github.com/ashiqu-ali",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "Dart",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gemini-chatbot",
+            "description": "Flutter application for a chat bot like chat GPT using the Gemini Generative AI model. It allows users to send messages, and the app responds with generated content from the Gemini Generative AI model.",
+            "score": 5.128127728075738,
+            "stars": 4,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/ashiqu-ali/gemini-chatbot",
+            "updatedAt": "2024-11-01T07:15:43Z"
+        },
+        {
+            "name": "expense-tracker",
+            "description": null,
+            "score": 2.455349445036536,
+            "stars": 2,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ashiqu-ali/expense-tracker",
+            "updatedAt": "2024-02-22T01:11:56Z"
+        },
+        {
+            "name": "Binary-to-decimal-converter",
+            "description": "Binary to Decimal converter using Python library Tkinter",
+            "score": 2.34840242815579,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ashiqu-ali/Binary-to-decimal-converter",
+            "updatedAt": "2023-03-21T09:11:47Z"
+        },
+        {
+            "name": "genie",
+            "description": null,
+            "score": 1.6500549554625064,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ashiqu-ali/genie",
+            "updatedAt": "2024-03-16T01:27:27Z"
+        },
+        {
+            "name": "duetai-gemini-calling",
+            "description": null,
+            "score": 1.647191468636544,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ashiqu-ali/duetai-gemini-calling",
+            "updatedAt": "2024-03-16T01:29:04Z"
+        },
+        {
+            "name": "ad-app",
+            "description": null,
+            "score": 1.646760689405622,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ashiqu-ali/ad-app",
+            "updatedAt": "2024-03-16T01:29:02Z"
+        },
+        {
+            "name": "chat_gemini",
+            "description": null,
+            "score": 1.6459153829613937,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ashiqu-ali/chat_gemini",
+            "updatedAt": "2024-03-16T01:29:05Z"
+        },
+        {
+            "name": "ashiqu-ali.github.io",
+            "description": null,
+            "score": 1.6455006164148032,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ashiqu-ali/ashiqu-ali.github.io",
+            "updatedAt": "2024-03-16T01:29:07Z"
+        }
+    ],
+    "followers": 7,
+    "following": 10,
+    "public_repos": 37,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 113,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AshiquAli007"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/ashiqu-ali"
+        },
+        {
+            "provider": "generic",
+            "url": "https://huggingface.co/spaces/ashiqu-ali"
+        },
+        {
+            "provider": "generic",
+            "url": "https://devfolio.co/@ashiquali"
+        }
+    ],
+    "profile_summary": "Ashiqu Ali is a highly skilled and accomplished Flutter developer with a strong background in programming languages such as C++, Python, and Dart. With a notable presence on GitHub, boasting 7 followers and an impressive 37 public repositories, Ashiqu has established himself as a reliable and innovative professional in the field of mobile app development. His expertise in creating high-quality, user-centered applications has earned him recognition and respect within the developer community.\n\nAs a seasoned developer with a passion for building innovative solutions, Ashiqu brings a unique combination of technical expertise and creative vision to the table. With a solid foundation in computer science and a keen eye for detail, he is well-equipped to tackle complex development challenges and deliver exceptional results. By leveraging his expertise in Flutter and other programming languages, Ashiqu helps businesses and organizations build cutting-edge mobile applications that drive engagement, productivity, and growth, making him a valuable asset to any development team and a sought-after professional in the industry."
+}

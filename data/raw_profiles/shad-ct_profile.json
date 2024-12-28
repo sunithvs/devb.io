@@ -1,0 +1,138 @@
+{
+    "username": "shad-ct",
+    "name": "Shad CT",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/88387228?u=b12bad205f847aa81b5d438d4bff0b91d1e8b651&v=4",
+    "profile_url": "https://github.com/shad-ct",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FYIMP-Projects",
+            "description": null,
+            "score": 6.888608439286058,
+            "stars": 6,
+            "forks": 5,
+            "language": "C",
+            "url": "https://github.com/shad-ct/FYIMP-Projects",
+            "updatedAt": "2024-12-28T03:12:18Z"
+        },
+        {
+            "name": "FYIMP-Resource",
+            "description": null,
+            "score": 6.347288714670024,
+            "stars": 5,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/shad-ct/FYIMP-Resource",
+            "updatedAt": "2024-12-10T05:34:31Z"
+        },
+        {
+            "name": "Code-Notes",
+            "description": "Personal notes ",
+            "score": 3.868264646238552,
+            "stars": 5,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shad-ct/Code-Notes",
+            "updatedAt": "2024-12-27T15:17:59Z"
+        },
+        {
+            "name": "GHSS-Cherukunnu",
+            "description": null,
+            "score": 3.2846735828273808,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/shad-ct/GHSS-Cherukunnu",
+            "updatedAt": "2024-05-20T15:07:02Z"
+        },
+        {
+            "name": "Luma-notes",
+            "description": null,
+            "score": 2.4461514546540326,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/shad-ct/Luma-notes",
+            "updatedAt": "2024-11-03T02:26:49Z"
+        },
+        {
+            "name": "YearBook",
+            "description": null,
+            "score": 1.6286886691464195,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/shad-ct/YearBook",
+            "updatedAt": "2024-12-22T01:02:00Z"
+        },
+        {
+            "name": "flipkart-clone",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shad-ct/flipkart-clone",
+            "updatedAt": "2024-12-07T13:20:25Z"
+        },
+        {
+            "name": "Reader",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shad-ct/Reader",
+            "updatedAt": "2024-11-27T08:54:44Z"
+        }
+    ],
+    "followers": 24,
+    "following": 30,
+    "public_repos": 15,
+    "pull_requests_merged": 6,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 441,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shadct/"
+        }
+    ],
+    "activity_summary": {
+        "shad-ct/Code-Notes": {
+            "link": "https://github.com/shad-ct/Code-Notes",
+            "summary": "The Code-Notes repository has experienced significant activity over the past week, with multiple push events focused on updating and refining documents such as README.md, BASICS.md, and other programming-related files, indicating ongoing efforts to enhance the repository's content and documentation."
+        },
+        "shad-ct/FYIMP-Projects": {
+            "link": "https://github.com/shad-ct/FYIMP-Projects",
+            "summary": "The FYIMP-Projects repository has seen recent activity with updates to its README.md file, suggesting maintenance and potential expansion of project documentation, although the overall activity level is relatively low compared to other repositories."
+        },
+        "shad-ct/Shahid-web": {
+            "link": "https://github.com/shad-ct/Shahid-web",
+            "summary": "The Shahid-web repository experienced brief activity with the creation and subsequent deletion of a CNAME file, which could be related to domain configuration adjustments, but the repository's overall activity remains limited."
+        },
+        "shad-ct/YearBook": {
+            "link": "https://github.com/shad-ct/YearBook",
+            "summary": "Similar to the Shahid-web repository, the YearBook repository had activity involving the creation and deletion of a CNAME file, likely for domain setup purposes, but its activity is also relatively low and focused on specific configuration changes."
+        }
+    },
+    "profile_summary": "Shad CT is a highly skilled developer with a strong foundation in programming languages, including C, JavaScript, and HTML. With a growing professional network of 24 followers, Shad has established a reputation as a reliable and innovative expert in the field. Through active participation in development projects, Shad has honed expertise in creating efficient, scalable, and high-quality solutions. With 15 public repositories to their credit, Shad's dedication to ongoing learning and improvement is evident, making them a valuable asset to any development team.\n\nAs a seasoned developer, Shad brings a unique combination of technical expertise and collaborative spirit to the table. With a solid understanding of industry trends and best practices, Shad is well-equipped to drive projects forward with creativity and precision. Shad's proficiency in C, JavaScript, and HTML enables them to tackle complex development challenges with ease, delivering effective solutions that meet and exceed expectations. With a strong online presence and a commitment to continuous growth, Shad CT is an exceptional developer who consistently delivers high-quality results, making them an attractive collaborator for businesses and organizations seeking innovative, reliable, and skilled development expertise."
+}

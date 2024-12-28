@@ -1,13 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include fixes to angle bonuses calculation and distance scaling application. Additionally, there have been updates to pause playback when entering gameplay test from the editor, addressing issues such as #312. These changes aim to improve gameplay and editor functionality, with multiple pull requests and push events in the last 48 hours."
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "Recent activities include adding a base for the 3WC2025 news post, rewording the introduction, and adding match links and registration information. Several commits were made to refine the content and fix minor issues, culminating in the successful merge of the '3wc25-news-open' branch. Additionally, a pull request was opened and merged to create a news post titled '3 Digit World Cup 2025: Registrations Now Open!' with accompanying registration links and banner images."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "The osu-framework repository has seen updates to the FFmpeg build configuration, specifically using the `macos-13` CI image. This change is in response to the deprecation of the `macos-12` image, which had disabled the macOS jobs. The update aims to ensure compatibility with older macOS versions and has been deployed through a recent pull request and push event."
+            "summary": "Notable activities involve updating the FFmpeg build to use the 'macos-13' CI image, addressing the deprecation of the 'macos-12' image. A pull request was opened and merged to implement this change, ensuring the macOS jobs can start and run smoothly. This update aims to improve the compatibility of the resulting binaries with older macOS versions."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "A significant pull request was opened to fix angle bonuses, specifically addressing issues with the acute angle bonus and the wide angle bonus. The proposed changes aim to accurately calculate repetition and apply distance scaling, providing a more accurate representation of difficulty in gameplay patterns."
         }
     },
     "profile_summary": null

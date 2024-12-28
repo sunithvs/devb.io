@@ -1,0 +1,146 @@
+{
+    "username": "sameemul-haque",
+    "name": "Sameemul Haque",
+    "bio": "a developer ",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110324374?u=23a40d205b9137172cc44156151daa82f938eb61&v=4",
+    "profile_url": "https://github.com/sameemul-haque",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "dotfiles",
+            "description": "\u2728 Hyprland + Waybar with Catppuccin theme \u2022 Arch Linux",
+            "score": 16.497818350557093,
+            "stars": 404,
+            "forks": 16,
+            "language": "CSS",
+            "url": "https://github.com/sameemul-haque/dotfiles",
+            "updatedAt": "2024-12-28T09:21:50Z"
+        },
+        {
+            "name": "KTUGPT-Python",
+            "description": "\ud83d\udcda Flask web service that is designed for answering questions based on the context from the textbook PDFs \u2022 Python, Flask, LLM, Embeddings",
+            "score": 4.680548162164721,
+            "stars": 3,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/sameemul-haque/KTUGPT-Python",
+            "updatedAt": "2024-09-30T08:51:41Z"
+        },
+        {
+            "name": "GitArt",
+            "description": "\ud83d\udcca GitHub contribution graph customizer \u2022 JavaScript, Git, Express.js, HTML",
+            "score": 4.427531958015647,
+            "stars": 7,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sameemul-haque/GitArt",
+            "updatedAt": "2024-12-13T06:18:13Z"
+        },
+        {
+            "name": "MiniStudyMate",
+            "description": "\ud83c\udf93 Web based Study Material Retrieval System \u2022 React, Youtubei npm, SerpAPI, Firebase",
+            "score": 4.079999491100836,
+            "stars": 2,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/sameemul-haque/MiniStudyMate",
+            "updatedAt": "2024-03-03T06:21:50Z"
+        },
+        {
+            "name": "Portfolio",
+            "description": "\u2728 Personal Portfolio Website \u2022 Next.js, Tailwind CSS, Vercel",
+            "score": 4.057928353131907,
+            "stars": 3,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/sameemul-haque/Portfolio",
+            "updatedAt": "2024-11-01T12:12:16Z"
+        },
+        {
+            "name": "TranscribeTool",
+            "description": "\ud83d\udcfc A streamlit web interface designed to extract words from video/audio files into text \u2022 Python, FFmpeg, Whisper, YT-DLP",
+            "score": 2.6894627201906496,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/sameemul-haque/TranscribeTool",
+            "updatedAt": "2024-07-13T12:04:29Z"
+        },
+        {
+            "name": "gitart-api",
+            "description": "api for gitart",
+            "score": 2.4741766071378604,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sameemul-haque/gitart-api",
+            "updatedAt": "2024-11-02T14:26:25Z"
+        },
+        {
+            "name": "Job-Portal",
+            "description": "\ud83d\udcbc Created a responsive job portal web page for job openings \u2022 HTML, CSS, JavaScript, Firebase",
+            "score": 1.882589811461866,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/sameemul-haque/Job-Portal",
+            "updatedAt": "2024-06-16T12:39:41Z"
+        }
+    ],
+    "followers": 31,
+    "following": 17,
+    "public_repos": 30,
+    "pull_requests_merged": 18,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1856,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sameemul-haque/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/sameemul_haque"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sameemul_haque/"
+        }
+    ],
+    "activity_summary": {
+        "sameemul-haque/dotfiles": {
+            "link": "https://github.com/sameemul-haque/dotfiles",
+            "summary": "Recent activities in the dotfiles repository include multiple push events, which have introduced various updates such as enhancements to Hyprland window configuration, updates to the .bashrc file, and a pull request that fixes an issue. Specifically, the updates to Hyprland configuration include adding an auto gaps feature and modifying shadow variables, while the .bashrc update appears to be part of afix for an identified problem."
+        },
+        "sameemul-haque/gitart-api": {
+            "link": "https://github.com/sameemul-haque/gitart-api",
+            "summary": "The gitart-api repository has seen a significant update with a push event and a corresponding pull request, both focused on bumping the versions of dependencies cookie and express to 0.7.1 and 4.21.1, respectively. This change aims to incorporate recent fixes and improvements, including security patches and performance enhancements, into the project, ensuring the dependencies are up-to-date and secure."
+        },
+        "sameemul-haque/GitArt": {
+            "link": "https://github.com/sameemul-haque/GitArt",
+            "summary": "In the GitArt repository, a recent push event has introduced updates to structured data and the h1 font, reflecting ongoing development and refinement of the project. These changes suggest efforts to improve the project's content organization and visual presentation."
+        },
+        "sameemul-haque/sameemul-haque": {
+            "link": "https://github.com/sameemul-haque/sameemul-haque",
+            "summary": "The sameemul-haque repository, which appears to be a personal or profile repository, has seen a push event that updated the README.md file, specifically to update the Hacktoberfest badge image. This action indicates maintenance and personalization of the repository, keeping the information and appearance current."
+        }
+    },
+    "profile_summary": "Sameemul Haque is a highly skilled developer with a strong proficiency in TypeScript, Kotlin, and Python. With a solid foundation in programming languages, he brings a unique perspective to software development, leveraging his technical expertise to drive innovation and deliver high-quality solutions. As an active member of the development community, he has built a professional network of 31 followers who appreciate his technical insights and contributions. His extensive portfolio of 30 public repositories showcases his dedication to continuous learning and improvement, making him a reliable and knowledgeable resource in the field.\n\nAs a seasoned developer, Sameemul Haque possesses a deep understanding of software development principles and practices, enabling him to design and implement efficient, scalable, and reliable systems. His expertise in TypeScript, Kotlin, and Python has allowed him to tackle complex projects with ease, delivering results that exceed expectations. With a strong online presence and a growing network of peers, Sameemul Haque is well-positioned to collaborate on exciting projects, share his knowledge, and learn from others in the development community, further solidifying his reputation as a talented and innovative developer."
+}

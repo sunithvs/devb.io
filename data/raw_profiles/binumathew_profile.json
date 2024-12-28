@@ -1,0 +1,82 @@
+{
+    "username": "binumathew",
+    "name": "Binu Mathew",
+    "bio": "PHP | Laravel  | Vue | React | Nuxt",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/876584?u=1dd851b9de5385b1c2bc09fea12124466648dd11&v=4",
+    "profile_url": "https://github.com/binumathew",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "remote-work-visa",
+            "description": null,
+            "score": 1.5368995870347408,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/binumathew/remote-work-visa",
+            "updatedAt": "2023-01-30T14:55:46Z"
+        },
+        {
+            "name": "lijo-test-react",
+            "description": null,
+            "score": 0.1672552444253863,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/binumathew/lijo-test-react",
+            "updatedAt": "2023-12-04T10:38:55Z"
+        },
+        {
+            "name": "sqlwrap-backend",
+            "description": null,
+            "score": 0.06995394945732195,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/binumathew/sqlwrap-backend",
+            "updatedAt": "2021-07-08T06:31:53Z"
+        },
+        {
+            "name": "sqlwrap-frontend",
+            "description": null,
+            "score": 0.06995394945732195,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/binumathew/sqlwrap-frontend",
+            "updatedAt": "2021-07-08T06:33:58Z"
+        },
+        {
+            "name": "assignment1",
+            "description": null,
+            "score": 0.06974882154704454,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/binumathew/assignment1",
+            "updatedAt": "2021-06-09T19:07:20Z"
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 12,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/binumathew"
+        }
+    ],
+    "profile_summary": "Binu Mathew is a highly skilled JavaScript developer with a strong background in PHP, Laravel, Vue, React, and Nuxt. With a notable presence on GitHub, he has built a professional network of 3 followers and actively contributes to the development community through his 12 public repositories. His expertise in JavaScript and related technologies makes him a valuable asset for projects that require innovative and efficient solutions. Binu's technical skills are complemented by his ability to work with various frameworks and libraries, allowing him to tackle complex projects with confidence.\n\nAs a dedicated and passionate developer, Binu Mathew brings a high level of expertise and reliability to his work. His proficiency in PHP, Laravel, Vue, React, and Nuxt enables him to develop scalable and user-friendly applications that meet the needs of clients and users. With a strong focus on innovation and quality, Binu is well-equipped to handle a wide range of projects, from front-end development to back-end integration. His commitment to staying up-to-date with the latest industry trends and technologies makes him a reliable partner for businesses and individuals seeking to leverage the power of JavaScript and related technologies to drive their online presence and success."
+}

@@ -1,17 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/react-native": {
-            "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities in the facebook/react-native repository involve a pull request to optimize the roundLayoutResultsToPixelGrid function by avoiding redundant fmod calls, which was found to be expensive during UI performance profiling and resulted in a ~1% layout operation efficiency improvement."
-        },
-        "facebook/litho": {
-            "link": "https://github.com/facebook/litho",
-            "summary": "The facebook/litho repository has seen recent activity with a pull request aimed at improving performance by eliminating duplicate fmod function calls in the roundLayoutResultsToPixelGrid function, leading to a reduction in instructions from ~50 to ~30 and a ~1% increase in efficiency for a specific benchmark."
-        },
-        "facebook/yoga": {
-            "link": "https://github.com/facebook/yoga",
-            "summary": "The facebook/yoga repository has undergone a recent optimization through a pull request that replaces duplicate fmod calls with a single round operation in the roundLayoutResultsToPixelGrid function, which enhances performance by reducing the number of instructions and resulting in a ~1% increase in efficiency for a particular benchmark."
+        "facebook/fresco": {
+            "link": "https://github.com/facebook/fresco",
+            "summary": "Recent activities in the facebook/fresco repository include a push event that occurred on December 28, 2024, which involved updates to the fbandroid/libraries/fresco/drawee/src/main/java/com/facebook/drawee/drawable/InstrumentedDrawable.java file, indicating ongoing development and maintenance of the Fresco library."
         }
     },
     "profile_summary": null

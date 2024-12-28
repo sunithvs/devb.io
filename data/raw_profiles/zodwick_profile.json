@@ -1,0 +1,142 @@
+{
+    "username": "zodwick",
+    "name": "Anand",
+    "bio": "I make (try to) computers think.\r\n",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/115868723?u=f6524679726102da0ad6617c19917bf20f3d0291&v=4",
+    "profile_url": "https://github.com/zodwick",
+    "top_languages": [
+        [
+            "Python",
+            10
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Knight-moves-visualiser",
+            "description": null,
+            "score": 3.389558670775671,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/zodwick/Knight-moves-visualiser",
+            "updatedAt": "2023-12-12T19:46:03Z"
+        },
+        {
+            "name": "chat-for-pocketpg",
+            "description": null,
+            "score": 2.577315957987996,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/zodwick/chat-for-pocketpg",
+            "updatedAt": "2023-04-03T02:43:53Z"
+        },
+        {
+            "name": "ethglobal_team420",
+            "description": null,
+            "score": 1.8158940966610788,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/zodwick/ethglobal_team420",
+            "updatedAt": "2023-12-10T03:25:01Z"
+        },
+        {
+            "name": "fire-detection_OpenCV",
+            "description": null,
+            "score": 1.541705468504105,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/zodwick/fire-detection_OpenCV",
+            "updatedAt": "2023-04-22T16:39:47Z"
+        },
+        {
+            "name": "ventricular-fibrillation-prediction-model",
+            "description": null,
+            "score": 1.5398280123146477,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/zodwick/ventricular-fibrillation-prediction-model",
+            "updatedAt": "2023-09-07T09:43:54Z"
+        },
+        {
+            "name": "game-helper-cli-tools-for-wordle-and-sudoku",
+            "description": "very basic sorting algorithm for wordle. has some minor issues",
+            "score": 1.5367813905057943,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/zodwick/game-helper-cli-tools-for-wordle-and-sudoku",
+            "updatedAt": "2023-04-17T18:35:38Z"
+        },
+        {
+            "name": "lazel",
+            "description": "Chrome extension that helps auto create Google Tasks and Calendar events.",
+            "score": 0.3710069204250771,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/zodwick/lazel",
+            "updatedAt": "2024-11-01T18:57:56Z"
+        },
+        {
+            "name": "llm_workshop",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/zodwick/llm_workshop",
+            "updatedAt": "2024-10-10T14:23:04Z"
+        }
+    ],
+    "followers": 32,
+    "following": 99,
+    "public_repos": 63,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 925,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/anand2002/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.tosto.in/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.zyadha.com/"
+        }
+    ],
+    "activity_summary": {
+        "zodwick/ragas": {
+            "link": "https://github.com/zodwick/ragas",
+            "summary": "Recent activities in the zodwick/ragas repository include numerous push events that introduced several features and fixes. Notable changes include the resolution of attribute errors for the faithfulness metric, language adaptation documentation updates, data export fixes, the addition of a save and load functionality for prompts, and modifications to the context recall and precision prompts. Additionally, there have been efforts to improve documentation, including the redoing of the README and the implementation of a new build process with RTD and API documentation."
+        },
+        "zodwick/lazel": {
+            "link": "https://github.com/zodwick/lazel",
+            "summary": "The zodwick/lazel repository has seen recent activities involving the creation of a LICENSE file and an update to the README.md, suggesting efforts to establish a foundation for the project's legal and informational aspects."
+        },
+        "explodinggradients/ragas": {
+            "link": "https://github.com/explodinggradients/ragas",
+            "summary": "In the explodinggradients/ragas repository, a significant pull request event has been recorded. This event, titled 'Feature/ci with mike,' aims to introduce a new workflow for deploying documentation using GitHub Actions, update versioning information, and make adjustments to documentation and configuration files, thereby enhancing the project's deployment and version management capabilities."
+        }
+    },
+    "profile_summary": "Anand is a highly skilled and accomplished developer with a strong proficiency in programming languages such as Python, C++, and TypeScript. With a professional network of 32 followers, he has established himself as a reputable figure in the development community. His impressive collection of 63 public repositories is a testament to his active engagement in software development and his commitment to sharing knowledge with others. Anand's passion for making computers think is evident in his work, as he continually strives to push the boundaries of what is possible with technology.\n\nAs a seasoned developer, Anand brings a unique combination of technical expertise and innovative thinking to the table. His expertise in languages such as Python, C++, and TypeScript enables him to tackle complex projects with ease, and his dedication to his craft has earned him a reputation as a reliable and skilled professional. With a strong foundation in computer science and a keen interest in artificial intelligence, Anand is well-equipped to drive projects forward and deliver high-quality results. His professional achievements and dedication to his work make him an invaluable asset to any development team, and his commitment to ongoing learning and growth ensures that he remains at the forefront of the latest technologies and trends."
+}

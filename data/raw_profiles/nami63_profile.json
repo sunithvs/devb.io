@@ -1,0 +1,134 @@
+{
+    "username": "nami63",
+    "name": "Namitha Manoj",
+    "bio": "Software enthusiast | Final-year BTech IT student at CUSAT | Passionate about Full Stack Development and Data Analytics. ",
+    "location": "kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/128203391?u=3889e14f90b01c3a3756b2369b70e04731e852de&v=4",
+    "profile_url": "https://github.com/nami63",
+    "top_languages": [
+        [
+            "C++",
+            5
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nami63/portfolio",
+            "updatedAt": "2024-11-24T10:26:57Z"
+        },
+        {
+            "name": "PowerBI_project",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nami63/PowerBI_project",
+            "updatedAt": "2024-10-30T11:32:16Z"
+        },
+        {
+            "name": "nami63",
+            "description": "My personal repository.",
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nami63/nami63",
+            "updatedAt": "2024-09-29T13:13:57Z"
+        },
+        {
+            "name": "Garbom",
+            "description": null,
+            "score": 0.290428298011447,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/nami63/Garbom",
+            "updatedAt": "2024-07-08T07:45:56Z"
+        },
+        {
+            "name": "skills-communicate-using-markdown1",
+            "description": "My clone repository",
+            "score": 0.2864540485023059,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nami63/skills-communicate-using-markdown1",
+            "updatedAt": "2024-06-23T09:37:10Z"
+        },
+        {
+            "name": "GarboMange",
+            "description": null,
+            "score": 0.28419238626746335,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/nami63/GarboMange",
+            "updatedAt": "2024-10-04T16:32:10Z"
+        },
+        {
+            "name": "garbo",
+            "description": "Developed as a part of learning Flutter and Firebase.",
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/nami63/garbo",
+            "updatedAt": "2024-06-03T13:54:11Z"
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nami63/skills-communicate-using-markdown",
+            "updatedAt": "2024-06-01T18:06:25Z"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 113,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/namithamanoj/"
+        }
+    ],
+    "activity_summary": {
+        "nami63/PowerBI_project": {
+            "link": "https://github.com/nami63/PowerBI_project",
+            "summary": "The PowerBI_project repository has seen significant activity with multiple push events, including updates to the README.md file and the addition of new files via upload, primarily taking place between October 28th and October 30th, indicating a focused period of development and documentation refinement."
+        },
+        "nami63/Hospitality_using_powerBI": {
+            "link": "https://github.com/nami63/Hospitality_using_powerBI",
+            "summary": "The Hospitality_using_powerBI repository experienced activity with push events, notably including an update to the README.md file and the addition of files via upload on October 28th, suggesting a brief yet targeted effort towards repository initialization and setup."
+        },
+        "nami63/portfolio": {
+            "link": "https://github.com/nami63/portfolio",
+            "summary": "The portfolio repository saw a notable event with an initial commit on November 24th, marking the establishment of the repository and potentially signaling the beginning of active development or curation of portfolio items."
+        }
+    },
+    "profile_summary": "Namitha Manoj is a highly skilled software developer with a strong foundation in programming languages such as C++, Python, and TypeScript. With a solid educational background as a final-year BTech IT student at CUSAT, she has developed a passion for Full Stack Development and Data Analytics. Her technical expertise is complemented by a keen interest in innovative technologies, making her a valuable asset in the industry. As a prolific developer, Namitha has created 31 public repositories, showcasing her active involvement in development and commitment to sharing knowledge with the community.\n\nAs a dedicated software enthusiast, Namitha Manoj brings a unique blend of technical skills and enthusiasm to the table. With a growing professional network of followers, she has established herself as a reliable and collaborative developer. Her expertise in Full Stack Development and Data Analytics enables her to deliver high-quality solutions that meet the needs of clients. By leveraging her technical prowess and passion for innovation, Namitha is well-positioned to drive projects forward and make meaningful contributions to the software development community. With her strong work ethic and dedication to staying up-to-date with industry trends, she is an ideal candidate for collaborative projects and professional opportunities."
+}

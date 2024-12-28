@@ -1,0 +1,120 @@
+{
+    "username": "sarinmsari",
+    "name": "Sarin M",
+    "bio": "Software Engineer | Front-end\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/55913487?v=4",
+    "profile_url": "https://github.com/sarinmsari",
+    "top_languages": [
+        [
+            "C",
+            8
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "React-ToDo",
+            "description": null,
+            "score": 2.2186275704565315,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/sarinmsari/React-ToDo",
+            "updatedAt": "2023-11-13T14:19:48Z"
+        },
+        {
+            "name": "basic-login",
+            "description": "Basic login page with register and dashboard",
+            "score": 1.4539800105501017,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sarinmsari/basic-login",
+            "updatedAt": "2022-01-28T00:06:50Z"
+        },
+        {
+            "name": "giphy-gif-picker",
+            "description": null,
+            "score": 0.2847457077824421,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/sarinmsari/giphy-gif-picker",
+            "updatedAt": "2024-06-17T07:12:12Z"
+        },
+        {
+            "name": "sarinmsari",
+            "description": null,
+            "score": 0.2029550657603011,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sarinmsari/sarinmsari",
+            "updatedAt": "2024-07-03T16:34:23Z"
+        },
+        {
+            "name": "nextjs-authentication",
+            "description": null,
+            "score": 0.15965773819182738,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sarinmsari/nextjs-authentication",
+            "updatedAt": "2023-07-30T10:40:28Z"
+        },
+        {
+            "name": "Charlie-Chat-with-GPT",
+            "description": "Chrome extension build with ReactJs to interact with chat GPT engine.",
+            "score": 0.15889613510436407,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sarinmsari/Charlie-Chat-with-GPT",
+            "updatedAt": "2023-07-06T21:12:13Z"
+        },
+        {
+            "name": "chrome-extension",
+            "description": null,
+            "score": 0.15880302360869467,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sarinmsari/chrome-extension",
+            "updatedAt": "2023-07-04T19:14:08Z"
+        },
+        {
+            "name": "Going-with-Golang",
+            "description": "Trying golang following video tutorial",
+            "score": 0.1587566371485117,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/sarinmsari/Going-with-Golang",
+            "updatedAt": "2023-07-03T13:10:37Z"
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 52,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 5,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Sarinmsari"
+        }
+    ],
+    "profile_summary": "Sarin M is a highly skilled software engineer with a strong foundation in programming languages such as C, Go, and C++. With a focus on front-end development, Sarin has established a reputation for delivering high-quality solutions that meet the needs of users. As a dedicated professional with a growing network of followers, Sarin has built a reputation for technical expertise and collaborative spirit, with a notable presence on GitHub where they have shared 52 public repositories. This impressive body of work demonstrates Sarin's commitment to active development and continuous learning.\n\nAs a seasoned software engineer, Sarin brings a unique combination of technical skills and innovative thinking to the table. With a keen eye for detail and a passion for staying up-to-date with the latest industry trends, Sarin is well-equipped to tackle complex challenges and drive projects forward. With a strong online presence and a growing professional network, Sarin is an attractive collaborator for businesses and individuals seeking reliable and skilled software engineering expertise. By leveraging industry-relevant keywords and showcasing expertise in languages such as C, Go, and C++, Sarin is poised to make a lasting impact in the software development community."
+}

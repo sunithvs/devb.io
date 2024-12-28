@@ -1,0 +1,120 @@
+{
+    "username": "abelkuruvilla",
+    "name": "Abel Kuruvilla",
+    "bio": "Golang and Infrastructure Engineer. Looking for more aspiring adventures in the Game of Codes... ",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12940253?u=6c2ddd93000645823734585b38b11089f187fce9&v=4",
+    "profile_url": "https://github.com/abelkuruvilla",
+    "top_languages": [
+        [
+            "Go",
+            2
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tut-it",
+            "description": "An android Game by Karela",
+            "score": 3.405947987592999,
+            "stars": 4,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/abelkuruvilla/tut-it",
+            "updatedAt": "2024-02-19T15:03:12Z"
+        },
+        {
+            "name": "bankreader",
+            "description": "A public project to read credit card statements in pdf and convert them to csv or other formats",
+            "score": 1.6189496797879541,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abelkuruvilla/bankreader",
+            "updatedAt": "2024-09-24T04:37:11Z"
+        },
+        {
+            "name": "abelkuruvilla",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07096449831246904,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abelkuruvilla/abelkuruvilla",
+            "updatedAt": "2021-11-06T21:55:59Z"
+        },
+        {
+            "name": "delighted-golang",
+            "description": "A Golang client library for delighted api",
+            "score": 0.06597030203722766,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abelkuruvilla/delighted-golang",
+            "updatedAt": "2019-08-20T20:14:25Z"
+        },
+        {
+            "name": "yelp-golang",
+            "description": "A client library to use the YELP v3 Fusion API",
+            "score": 0.06591713541216655,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/abelkuruvilla/yelp-golang",
+            "updatedAt": "2020-07-15T12:33:02Z"
+        },
+        {
+            "name": "cv_latex",
+            "description": "This is my CV is a latex format",
+            "score": 0.06558124816754196,
+            "stars": 0,
+            "forks": 0,
+            "language": "TeX",
+            "url": "https://github.com/abelkuruvilla/cv_latex",
+            "updatedAt": "2020-03-10T10:26:44Z"
+        },
+        {
+            "name": "pizza-order-golang",
+            "description": "This is a demo golang project which recieves pizza order and notifies customer when it is finished.",
+            "score": 0.06471845611539735,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/abelkuruvilla/pizza-order-golang",
+            "updatedAt": "2018-10-15T15:20:15Z"
+        },
+        {
+            "name": "go-automation-cu",
+            "description": "A go cron job to automate calicut university notifications regarding B.Tech 2014 Batch CSE",
+            "score": 0.06464858519672168,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abelkuruvilla/go-automation-cu",
+            "updatedAt": "2018-09-26T06:04:45Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 436,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/abelkuruvilla"
+        }
+    ],
+    "profile_summary": "Abel Kuruvilla is a highly skilled and accomplished Golang and Infrastructure Engineer with a strong foundation in programming languages such as Go, Python, and JavaScript. He has established a notable presence in the developer community, with a growing network of professional connections and a portfolio of 24 public repositories that demonstrate his active engagement in various coding projects. As a seasoned engineer, Abel possesses a deep understanding of software development principles and is well-versed in designing and implementing scalable infrastructure solutions.\n\nWith a passion for innovation and a drive to push the boundaries of coding excellence, Abel brings a unique value proposition to the table, combining technical expertise with a collaborative mindset and a keen eye for detail. His expertise in Golang and infrastructure engineering enables him to craft efficient, reliable, and high-performance solutions that meet the evolving needs of the tech industry. As a dedicated and forward-thinking professional, Abel is poised to make a lasting impact in the world of coding, and his contributions are likely to inspire and influence the next generation of developers, earning him a reputation as a trusted authority in his field."
+}

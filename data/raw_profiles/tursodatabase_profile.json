@@ -3,7 +3,11 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the tursodatabase/limbo repository have focused on improving code compatibility and implementing new features. Notably, a pull request was submitted to implement the json_error_position function, which enhances JSON compatibility as outlined in issue #127. Additionally, another pull request added Clippy CI and addressed various warnings, resulting in non-semantic changes that improve code quality. A third pull request introduced a new vdbe opcode for calculating remainders, further expanding the repository's functionality."
+            "summary": "Recent activities in the repository include multiple pull requests focused on enhancing the project's functionality and code quality. Notably, there are additions such as implementing the `json_error_position` function for JSON compatibility, incorporating clippy CI to address or ignore warnings, and introducing a new opcode for the vdbe. These efforts aim to improve the project's robustness, compatibility, and maintainability."
+        },
+        "tursodatabase/libsql-php": {
+            "link": "https://github.com/tursodatabase/libsql-php",
+            "summary": "The repository has seen a push event that introduces small fixes to address bugs in the PDO section, ensuring the library's reliability and performance. This maintenance work reflects ongoing efforts to refine the project and provide a more stable experience for users."
         }
     },
     "profile_summary": null

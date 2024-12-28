@@ -1,0 +1,142 @@
+{
+    "username": "cyberianzed",
+    "name": "Jose K James",
+    "bio": "I'm a \ud83e\udd8b waiting for its Butterfly effect\u2728",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/74711019?u=c672e65689ed0ea80b8bd852ddecec6f120522b6&v=4",
+    "profile_url": "https://github.com/cyberianzed",
+    "top_languages": [
+        [
+            "Dart",
+            16
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "flutterfire_init",
+            "description": null,
+            "score": 3.4388871590131718,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/cyberianzed/flutterfire_init",
+            "updatedAt": "2024-06-16T00:07:23Z"
+        },
+        {
+            "name": "pro_agro",
+            "description": "ProAgro is an innovative Agricultural Marketplace app connecting farmers and buyers for efficient and transparent trade.",
+            "score": 2.4276301805460396,
+            "stars": 2,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/cyberianzed/pro_agro",
+            "updatedAt": "2024-10-06T13:02:31Z"
+        },
+        {
+            "name": "cyberianweb",
+            "description": null,
+            "score": 1.7175926617755768,
+            "stars": 0,
+            "forks": 2,
+            "language": "CSS",
+            "url": "https://github.com/cyberianzed/cyberianweb",
+            "updatedAt": "2021-09-03T17:36:31Z"
+        },
+        {
+            "name": "skillversity",
+            "description": null,
+            "score": 1.6015088590929236,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/cyberianzed/skillversity",
+            "updatedAt": "2024-05-11T12:44:04Z"
+        },
+        {
+            "name": "lms",
+            "description": null,
+            "score": 1.113212299260632,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/cyberianzed/lms",
+            "updatedAt": "2022-08-02T15:44:41Z"
+        },
+        {
+            "name": "flips",
+            "description": null,
+            "score": 1.111468616302911,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/cyberianzed/flips",
+            "updatedAt": "2022-01-30T20:46:31Z"
+        },
+        {
+            "name": "cyberianzed",
+            "description": null,
+            "score": 0.210257961083975,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/cyberianzed/cyberianzed",
+            "updatedAt": "2024-11-14T07:45:46Z"
+        },
+        {
+            "name": "syllabusweb",
+            "description": null,
+            "score": 0.1620847802817817,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/cyberianzed/syllabusweb",
+            "updatedAt": "2023-09-07T17:26:56Z"
+        }
+    ],
+    "followers": 42,
+    "following": 33,
+    "public_repos": 52,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 22,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/the.josekjames"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/joseK_James"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://youtube.com/@decoding20swithjose"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/josekjames"
+        }
+    ],
+    "activity_summary": {
+        "cyberianzed/blog": {
+            "link": "https://github.com/cyberianzed/blog",
+            "summary": "The cyberianzed/blog repository has seen significant activity recently, with multiple push events throughout November and December 2024. Updates include improvements to the blog's SEO, the addition of a transparent navigation bar, and the integration of Giscus for comments. Furthermore, there have been updates to the blog's configuration, social media links, and the introduction of a new blog post. The repository has also undergone various code fixes, including a revert of a previous commit and several modifications to the Tina CMS setup. These activities demonstrate ongoing development and refinement of the blog's features and infrastructure."
+        },
+        "cyberianzed/cyberianzed": {
+            "link": "https://github.com/cyberianzed/cyberianzed",
+            "summary": "The cyberianzed/cyberianzed repository has experienced a notable update, with a push event on November 14, 2024, focused on updating the README.md file, indicating a possible improvement in documentation or repository information."
+        }
+    },
+    "profile_summary": "Jose K James is a highly skilled developer with expertise in a range of programming languages, including Dart, C, and Python. With a strong online presence, he has built a network of 42 followers who value his technical insights and contributions to the development community. His portfolio boasts an impressive 52 public repositories, showcasing his active engagement in software development and commitment to collaborative innovation. As a seasoned developer, Jose brings a unique perspective to his work, combining technical proficiency with a passion for creative problem-solving.\n\nAs a dedicated professional, Jose is driven by a desire to create meaningful impact through his work, much like the transformative power of the butterfly effect. With his strong technical foundation and collaborative mindset, he is well-equipped to tackle complex development challenges and deliver high-quality solutions. By leveraging his expertise in languages like Dart, C, and Python, Jose is poised to make a lasting impression in the development community, and his growing network of followers and impressive repository portfolio are testaments to his emerging influence as a skilled and innovative developer."
+}

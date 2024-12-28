@@ -1,25 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/react-native": {
-            "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities include a pull request that adds a flag to JS Error's prototype to specify the jsEngine, which was reviewed by fkgozali. Additionally, a push event was made to resolve the pull request, which included the changes to the JS runtime Error prototype."
-        },
         "facebook/rocksdb": {
             "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities involve two significant pull requests: one to support KNN search for FAISS IVF indices and another to add a new interface method SecondaryIndex::NewIterator to enable querying the index, allowing applications to provide query parameters and iterate through matching index entries."
+            "summary": "Recent activities include the introduction of a new interface method SecondaryIndex::NewIterator to enable querying the index, and support for KNN search for FAISS IVF indices, both of which expand the functionality of the database and enhance its performance."
         },
-        "facebook/react": {
-            "link": "https://github.com/facebook/react",
-            "summary": "A recent pull request was made to enable version updates for GitHub Actions using Dependabot, following the guidelines outlined in the GitHub documentation, which aims to keep the repository's dependencies up-to-date."
+        "facebook/react-native": {
+            "link": "https://github.com/facebook/react-native",
+            "summary": "A recent update has added a JS Engine identifier, specifically 'hermes', to the JS runtime Error prototype, which will enhance error reporting and debugging capabilities within the framework."
         },
         "facebook/openbmc": {
             "link": "https://github.com/facebook/openbmc",
-            "summary": "Recent activities include a push event that addresses a fw-util test failure and fixes test_restendpoint failures by updating related configurations to resolve issues in the Continuous Integration Testing (CIT) process."
-        },
-        "facebook/buck2": {
-            "link": "https://github.com/facebook/buck2",
-            "summary": "A recent push event was made to fix a trivial typo in a comment, which improves the overall code quality and readability, as reviewed by mattpaynem."
+            "summary": "Recent activities include addressing a fw-util test failure and fixing test_restendpoint failures for the javaisland component, which contributes to the overall stability and reliability of the open-source BMC firmware stack."
         }
     },
     "profile_summary": null

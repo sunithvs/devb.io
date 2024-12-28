@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen significant updates, primarily focused on the Multiplayer World Cup 7K 2025 and the 3 Digit World Cup 2025. Activities include updates to team listings, rules, and news posts, as well as adjustments to registration links, schedules, and introductory texts. These changes indicate active preparation for upcoming events, reflecting a strong community engagement and continuous improvement of the wiki's content."
+            "summary": "Recent activities in the osu-wiki repository have focused on updating the MWC 7K 2025 team listing and rules. Multiple pull requests and push events have been made to adjust the team listings, add full player list links, and update the tournament listing. Additionally, a news post for the 3 Digit World Cup 2025 registrations has been added, including a registration link, banner image, and forum thread links. These updates demonstrate ongoing efforts to maintain and improve the osu-wiki content."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "The osu-framework repository has experienced notable updates, particularly in enhancing the performance and compatibility of the framework. Recent activities include the addition of native macOS image loading support, aimed at significantly improving texture loading times, and a cleanup of Objective-C interop code. These efforts are geared towards optimizing the framework's efficiency, interoperability, and overall user experience, showcasing a commitment to technological advancement and maintenance."
+            "summary": "The osu-framework repository has seen significant activity recently, with multiple pull requests targeting various aspects of the framework. These include adding linux-arm64 build support for FFmpeg, implementing native macOS image loading support to improve texture loading times, and cleaning up Objective-C interop code by moving NSString/NSImage conversion methods and using convenient constructors. These updates aim to enhance the framework's functionality, performance, and code quality."
         }
     },
     "profile_summary": null

@@ -3,7 +3,11 @@
     "activity_summary": {
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities in react-native include the implementation of URL accessors, addressing a previously reported issue. A pull request was submitted on December 28, 2024, introducing new methods that provide outputs identical to those of window.url, and including a test plan with visual aids to demonstrate the solidity of the code."
+            "summary": "Recent activities include the implementation of URL accessors, providing identical outputs to those of window.url, with fixes to https://github.com/facebook/react-native/issues/45030 and additions of URL accessors for unimplemented methods."
+        },
+        "facebook/react-native-website": {
+            "link": "https://github.com/facebook/react-native-website",
+            "summary": "Recent activities involve a pull request that corrects the indentation of the Codegen specification in the Fabric Native Components Introduction, enhancing the overall documentation quality and accuracy."
         }
     },
     "profile_summary": null

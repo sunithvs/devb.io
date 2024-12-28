@@ -1,0 +1,105 @@
+{
+    "username": "gkrbros",
+    "name": "GOKUL KIRAN R",
+    "bio": "",
+    "location": "INDIA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95577552?u=fb84d246b5f3debdd7346c6786556b2d1a10787f&v=4",
+    "profile_url": "https://github.com/GKRBROS",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Prayag24",
+            "description": null,
+            "score": 1.9829390182638098,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/GKRBROS/Prayag24",
+            "updatedAt": "2024-10-16T15:09:09Z"
+        },
+        {
+            "name": "Portfolio",
+            "description": "My portfolio",
+            "score": 1.3535858555488713,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/GKRBROS/Portfolio",
+            "updatedAt": "2024-10-26T05:10:45Z"
+        },
+        {
+            "name": "Voice_Emotion_Recognition",
+            "description": "A project for identifying emotion based on voice.",
+            "score": 0.30487923075586354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/GKRBROS/Voice_Emotion_Recognition",
+            "updatedAt": "2024-08-14T17:23:34Z"
+        },
+        {
+            "name": "BASIC_C_PROGRAMMING",
+            "description": "Trying Basic C programs.",
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/GKRBROS/BASIC_C_PROGRAMMING",
+            "updatedAt": "2023-10-22T09:51:38Z"
+        },
+        {
+            "name": "Blender_Design",
+            "description": "A small design project using Blender.\ud83d\ude0a ",
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/GKRBROS/Blender_Design",
+            "updatedAt": "2023-10-22T09:41:05Z"
+        },
+        {
+            "name": "Game_Development",
+            "description": "My game developed during project using unity and blender",
+            "score": 0.1646620561375694,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/GKRBROS/Game_Development",
+            "updatedAt": "2023-10-22T09:36:31Z"
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 138,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "GKRBROS/Prayag24": {
+            "link": "https://github.com/GKRBROS/Prayag24",
+            "summary": "Recent activities in the Prayag24 repository involved multiple push events, with updates including the removal of counters, event details, and VR pages, as well as the addition of a team banner, Instagram link, and updates to CSS locations and phone optimization. Other changes included fixes for errors, scrollbar removal, and sizing adjustments for phone displays."
+        },
+        "GKRBROS/Portfolio": {
+            "link": "https://github.com/GKRBROS/Portfolio",
+            "summary": "The Portfolio repository saw significant updates with push events focused on fixing issues, changing resume information, and modifying statistics. These recent activities aim to enhance and refine the portfolio's content and overall presentation, ensuring it accurately reflects the user's professional journey and accomplishments."
+        }
+    },
+    "profile_summary": "GOKUL KIRAN R is a highly skilled developer with strong expertise in programming languages such as C, JavaScript, and C#. With a solid foundation in software development, he has built a reputation for delivering high-quality solutions that meet and exceed expectations. His technical skills are complemented by a strong work ethic and a passion for innovation, making him a valuable asset to any development team. As a seasoned professional, he has established a network of peers and collaborators, with a growing following of like-minded individuals who appreciate his expertise and contributions to the development community.\n\nWith a portfolio of 12 public repositories, GOKUL KIRAN R has consistently demonstrated his ability to design, develop, and deploy effective software solutions. His experience and expertise have equipped him with a unique understanding of the needs and challenges of the development landscape, allowing him to craft tailored solutions that drive results. As a reliable and results-driven developer, he is dedicated to staying at the forefront of industry trends and technologies, ensuring that his skills and knowledge remain up-to-date and relevant. By leveraging his technical prowess and collaborative spirit, GOKUL KIRAN R is poised to make a lasting impact in the world of software development, and his profile serves as a testament to his skills and achievements as a developer."
+}

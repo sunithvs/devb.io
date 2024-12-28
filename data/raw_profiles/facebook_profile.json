@@ -1,9 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/CacheLib": {
+            "link": "https://github.com/facebook/CacheLib",
+            "summary": "Recent activities in the CacheLib repository include a pull request to update the build-cachelib-ubuntu-22.yml file, which adds the fast float library to prevent folly from breaking."
+        },
         "facebook/zstd": {
             "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities in the facebook/zstd repository involve improvements to the ZSTD_readSkippableFrame function, including a pull request that addresses an issue where the function asserts when the frame size exceeds the destination capacity, even when the destination is NULL. This update enhances the functionality and business logic of the library."
+            "summary": "The zstd repository has seen recent activity with a pull request to fix the ZSTD_readSkippableFrame function when a NULL destination is provided, ensuring that the function behaves correctly even when the destination capacity is irrelevant."
         }
     },
     "profile_summary": null

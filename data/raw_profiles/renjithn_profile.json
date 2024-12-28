@@ -1,0 +1,67 @@
+{
+    "username": "renjithn",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/3293040?u=e23b38dd53c0e24ef44dbe89976b784034955651&v=4",
+    "profile_url": "https://github.com/renjithn",
+    "top_languages": [
+        [
+            "Objective-C",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AVAssetResourceLoader-Video-Example",
+            "description": "Implementation of AVAssetResourceLoader custom class which can be useful while caching Videos while streaming",
+            "score": 10.109541442107048,
+            "stars": 30,
+            "forks": 7,
+            "language": "Objective-C",
+            "url": "https://github.com/renjithn/AVAssetResourceLoader-Video-Example",
+            "updatedAt": "2023-03-05T10:13:01Z"
+        },
+        {
+            "name": "ALAsset-CustomVideoAlbum-Category",
+            "description": "A Simple category to save Video files to a custom album in gallery.",
+            "score": 2.8335296118236535,
+            "stars": 3,
+            "forks": 0,
+            "language": "Objective-C",
+            "url": "https://github.com/renjithn/ALAsset-CustomVideoAlbum-Category",
+            "updatedAt": "2018-01-30T16:27:49Z"
+        },
+        {
+            "name": "BabyMindAI",
+            "description": "Baby wellness app featuring AI to detect and classify cries. Lullabies & Learn",
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/renjithn/BabyMindAI",
+            "updatedAt": "2024-11-24T10:45:04Z"
+        },
+        {
+            "name": "NSString-RemoveEmoji",
+            "description": null,
+            "score": 0.0615673831134996,
+            "stars": 0,
+            "forks": 0,
+            "language": "Objective-C",
+            "url": "https://github.com/renjithn/NSString-RemoveEmoji",
+            "updatedAt": "2015-10-12T06:50:35Z"
+        }
+    ],
+    "followers": 8,
+    "following": 35,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 568,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "This developer is a highly skilled and accomplished professional with a strong foundation in Objective-C, a powerful programming language used for developing innovative mobile applications. With a notable presence on GitHub, they have built a network of 8 followers who appreciate their technical expertise and active contributions to the development community. Their portfolio boasts an impressive 13 public repositories, showcasing a wide range of projects and a consistent commitment to delivering high-quality solutions. As a seasoned developer, they possess a deep understanding of software development principles, patterns, and best practices.\n\nWith a proven track record of creating efficient, scalable, and reliable code, this developer is well-equipped to tackle complex challenges and drive projects forward with precision and expertise. Their expertise in Objective-C enables them to craft seamless user experiences, optimize performance, and leverage the latest technologies to drive innovation. By combining technical prowess with a collaborative mindset, they deliver exceptional results that meet and exceed expectations. As a trusted and reliable partner, they bring significant value to any project, and their contributions are poised to make a lasting impact in the world of mobile application development."
+}

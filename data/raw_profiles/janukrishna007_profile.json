@@ -1,0 +1,117 @@
+{
+    "username": "janukrishna007",
+    "name": "Janukrishna A.S",
+    "bio": "Everything has it'own rules",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/127822118?u=2ebf84259714c9d308d9131e77a6a023ebc39b19&v=4",
+    "profile_url": "https://github.com/Janukrishna007",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "abc",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Janukrishna007/abc",
+            "updatedAt": "2024-11-07T14:40:39Z"
+        },
+        {
+            "name": "VR-Genix",
+            "description": null,
+            "score": 0.3178977130047066,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Janukrishna007/VR-Genix",
+            "updatedAt": "2024-09-08T09:43:24Z"
+        },
+        {
+            "name": "Blind-Help",
+            "description": null,
+            "score": 0.2985739795713382,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Janukrishna007/Blind-Help",
+            "updatedAt": "2024-07-29T16:53:03Z"
+        },
+        {
+            "name": "Web-tasks",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Janukrishna007/Web-tasks",
+            "updatedAt": "2024-08-23T15:12:34Z"
+        },
+        {
+            "name": "Mu-learn",
+            "description": null,
+            "score": 0.27147095749867983,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Janukrishna007/Mu-learn",
+            "updatedAt": "2024-04-21T17:05:54Z"
+        },
+        {
+            "name": "skills-communicate-using-markdo",
+            "description": "My clone repository",
+            "score": 0.27147095749867983,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Janukrishna007/skills-communicate-using-markdo",
+            "updatedAt": "2024-04-21T16:53:41Z"
+        },
+        {
+            "name": "skills-communicate-using-markdow",
+            "description": "My clone repository",
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Janukrishna007/skills-communicate-using-markdow",
+            "updatedAt": "2024-04-20T06:56:13Z"
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.2697511023888739,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Janukrishna007/skills-communicate-using-markdown",
+            "updatedAt": "2024-04-12T14:13:27Z"
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 15,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "abc": {
+            "link": "https://github.com/Janukrishna007/abc",
+            "summary": "Recent activities in the abc repository include a commit on November 7, 2024, where a new index.html file was created, indicating the initiation of a project or a new feature addition."
+        }
+    },
+    "profile_summary": "Janukrishna A.S is a skilled developer with a strong foundation in programming languages, particularly Python and HTML. With a keen understanding of the rules that govern various technologies, Janukrishna navigates complex development projects with ease, creating innovative solutions that showcase technical expertise. As a seasoned professional, Janukrishna has established a reputation for delivering high-quality work, leveraging industry-relevant skills to drive success in various projects. With a growing network of peers and a portfolio of 15 public repositories, Janukrishna demonstrates a commitment to active development and community engagement.\n\nAs a reliable and results-driven developer, Janukrishna A.S brings a unique value proposition to the table, combining technical prowess with a deep understanding of the ever-evolving tech landscape. With a bio that reflects a philosophical approach to development, \"Everything has its own rules,\" Janukrishna embodies a problem-solving mindset that enables the creation of tailored solutions for diverse challenges. With a strong online presence and a growing influence, Janukrishna is well-positioned to collaborate with like-minded professionals, driving innovation and excellence in the field of software development, with a focus on Python and HTML expertise."
+}

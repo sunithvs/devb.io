@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/rocksdb": {
-            "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities include the introduction of a new interface method SecondaryIndex::NewIterator to enable querying the index, and support for KNN search for FAISS IVF indices, both of which expand the functionality of the database and enhance its performance."
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "Recent activities include a push event on December 28, 2024, implementing user-defined functions (native_function), focusing on the lowest-level implementation."
         },
-        "facebook/react-native": {
-            "link": "https://github.com/facebook/react-native",
-            "summary": "A recent update has added a JS Engine identifier, specifically 'hermes', to the JS runtime Error prototype, which will enhance error reporting and debugging capabilities within the framework."
-        },
-        "facebook/openbmc": {
-            "link": "https://github.com/facebook/openbmc",
-            "summary": "Recent activities include addressing a fw-util test failure and fixing test_restendpoint failures for the javaisland component, which contributes to the overall stability and reliability of the open-source BMC firmware stack."
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "Recent activities include a push event on December 28, 2024, implementing user-defined functions (native_function), with a focus on the lowest-level implementation, similar to the updates made in the fbthrift repository."
         }
     },
     "profile_summary": null

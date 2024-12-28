@@ -1,0 +1,138 @@
+{
+    "username": "xenomech",
+    "name": "Gokul Suresh",
+    "bio": "Software Engineer, crafting epicness and a gallery full of dumb ideas!",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/50659225?u=996ba8e7f8a74aa0c6ed0b1fa646efe8873e4678&v=4",
+    "profile_url": "https://github.com/xenomech",
+    "top_languages": [
+        [
+            "C",
+            5
+        ],
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Python",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AestheticScore",
+            "description": "Calculating aesthetic score of videos",
+            "score": 4.4678205834492815,
+            "stars": 4,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/xenomech/AestheticScore",
+            "updatedAt": "2024-07-30T18:24:33Z"
+        },
+        {
+            "name": "Prefixed",
+            "description": "Prefix Ticket ID to your commit message right from vscode \ud83d\ude80",
+            "score": 2.847832236932733,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/xenomech/Prefixed",
+            "updatedAt": "2022-12-23T05:27:51Z"
+        },
+        {
+            "name": "Rocket",
+            "description": "A script \ud83d\udcc3 called Rocket \ud83d\ude80  to style \ud83c\udfa8 the bash prompt \u2728 ",
+            "score": 2.842159737421421,
+            "stars": 3,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/xenomech/Rocket",
+            "updatedAt": "2021-05-17T18:13:13Z"
+        },
+        {
+            "name": "DocSpot",
+            "description": "A cloud firestore based booking system !",
+            "score": 2.5612284421575433,
+            "stars": 1,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/xenomech/DocSpot",
+            "updatedAt": "2023-06-07T20:17:27Z"
+        },
+        {
+            "name": "justgokul.dev",
+            "description": "My personal sketchbook on anything and everything!",
+            "score": 2.4345375004130565,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/xenomech/justgokul.dev",
+            "updatedAt": "2024-11-10T07:50:34Z"
+        },
+        {
+            "name": "Pokedroid",
+            "description": "Get your Pok\u00e9mon Polaroid! \ud83d\udcf8",
+            "score": 2.348556282144463,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/xenomech/Pokedroid",
+            "updatedAt": "2023-06-20T06:21:47Z"
+        },
+        {
+            "name": "TuxBeing",
+            "description": null,
+            "score": 1.7146993065895384,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/xenomech/TuxBeing",
+            "updatedAt": "2020-04-02T21:18:25Z"
+        },
+        {
+            "name": "testing-sse",
+            "description": null,
+            "score": 1.7035943283581558,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/xenomech/testing-sse",
+            "updatedAt": "2024-09-07T02:48:57Z"
+        }
+    ],
+    "followers": 31,
+    "following": 46,
+    "public_repos": 48,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1492,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/justgokuldotdev"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/justgokul.dev/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/justgokuldotdev"
+        }
+    ],
+    "activity_summary": {
+        "penny": {
+            "link": "https://github.com/xenomech/penny",
+            "summary": "Recent activities include multiple feature updates and fixes, such as updating balance on transactions, improving UI, resolving styles and framework issues, and refining profile creation and settings. Additionally, the repository has seen updates to statics and the removal of Tailwind. The general focus has been on enhancing the user interface, fixing bugs, and optimizing the codebase."
+        },
+        "kochifoss.github.io": {
+            "link": "https://github.com/xenomech/kochifoss.github.io",
+            "summary": "Significant activities involve powering the KochiFoss website with Hugo, using the timeline theme with various fixes and tweaks, including CSS updates, deprecation fixes, and dummy content addition. Dark mode styles have been refined, and mobile dark mode issues have been addressed. The overall effort seems to be directed towards establishing a robust and visually appealing website powered by Hugo."
+        }
+    },
+    "profile_summary": "Gokul Suresh is a highly skilled software engineer with a strong foundation in programming languages such as C, TypeScript, and Python. With a notable presence on GitHub, boasting 31 followers and an impressive 48 public repositories, he has established himself as a dedicated and active developer. His technical expertise, coupled with a passion for innovative problem-solving, enables him to deliver high-quality solutions that meet the evolving needs of the industry. As a seasoned professional, Gokul Suresh brings a unique blend of creativity and technical acumen to the table, making him a valuable asset to any development team.\n\nWith a portfolio that showcases his technical prowess and a bio that hints at his creative approach to software development, Gokul Suresh is a developer who is not afraid to think outside the box. His ability to craft innovative solutions and his dedication to his craft have earned him a reputation as a reliable and skilled software engineer. By leveraging his expertise in C, TypeScript, and Python, he is able to drive projects forward with precision and accuracy, delivering results that exceed expectations. As a professional with a strong online presence and a commitment to ongoing learning and growth, Gokul Suresh is an exceptional developer who is well-equipped to tackle complex challenges and drive success in the ever-evolving tech landscape."
+}

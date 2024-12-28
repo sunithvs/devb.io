@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activities include a push event on December 28, 2024, implementing user-defined functions (native_function), focusing on the lowest-level implementation."
+        "facebook/react": {
+            "link": "https://github.com/facebook/react",
+            "summary": "Recent activities in the facebook/react repository include several pull requests and push events related to improvements in Fiber, Flight, and Profiler mode. Notably, there have been efforts to refactor the Commit Phase into separate functions, mark errored Server Components, and add Profiler mode to fixtures even when React DevTools is not installed. These changes aim to enhance the overall performance and usability of the React framework."
         },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "Recent activities include a push event on December 28, 2024, implementing user-defined functions (native_function), with a focus on the lowest-level implementation, similar to the updates made in the fbthrift repository."
+        "facebook/Ax": {
+            "link": "https://github.com/facebook/Ax",
+            "summary": "The facebook/Ax repository has seen a recent push event focused on updating the latest version of the site, indicating ongoing maintenance and improvement efforts."
         }
     },
     "profile_summary": null

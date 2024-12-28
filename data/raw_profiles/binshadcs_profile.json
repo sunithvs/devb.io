@@ -1,0 +1,130 @@
+{
+    "username": "binshadcs",
+    "name": "Binshad k",
+    "bio": "Full stack developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/68679199?u=20263e573c27501a8c36b500676ed62687716c4f&v=4",
+    "profile_url": "https://github.com/binshadcs",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "loficlub",
+            "description": "Enjoy Hip hop beats to Relax or Study! \ud83c\udfa7 \ud83c\udfb6",
+            "score": 10.441879498095538,
+            "stars": 16,
+            "forks": 20,
+            "language": null,
+            "url": "https://github.com/binshadcs/loficlub",
+            "updatedAt": "2024-11-11T21:00:39Z"
+        },
+        {
+            "name": "meeting_scheduler",
+            "description": null,
+            "score": 3.1077403669588963,
+            "stars": 1,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/binshadcs/meeting_scheduler",
+            "updatedAt": "2022-07-16T08:22:16Z"
+        },
+        {
+            "name": "Green-clean-earth",
+            "description": null,
+            "score": 2.359718029320165,
+            "stars": 0,
+            "forks": 3,
+            "language": "TypeScript",
+            "url": "https://github.com/binshadcs/Green-clean-earth",
+            "updatedAt": "2024-06-01T14:18:54Z"
+        },
+        {
+            "name": "ms-api",
+            "description": null,
+            "score": 1.114589651681294,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/binshadcs/ms-api",
+            "updatedAt": "2022-10-25T19:13:36Z"
+        },
+        {
+            "name": "Event-Gateway",
+            "description": "Event portal for your college , it feature helps you to organize, manage, and process the events",
+            "score": 1.1092917860215576,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/binshadcs/Event-Gateway",
+            "updatedAt": "2021-05-26T06:28:49Z"
+        },
+        {
+            "name": "github-notifier",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/binshadcs/github-notifier",
+            "updatedAt": "2024-11-25T06:54:54Z"
+        },
+        {
+            "name": "inflow",
+            "description": null,
+            "score": 0.3385380321731159,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/binshadcs/inflow",
+            "updatedAt": "2024-10-06T16:46:45Z"
+        },
+        {
+            "name": "portfolio-cms",
+            "description": null,
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/binshadcs/portfolio-cms",
+            "updatedAt": "2024-09-17T10:06:59Z"
+        }
+    ],
+    "followers": 16,
+    "following": 16,
+    "public_repos": 73,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 872,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/binshadcs"
+        }
+    ],
+    "activity_summary": {
+        "zwenie-tech/green-clean-earth": {
+            "link": "https://github.com/zwenie-tech/green-clean-earth",
+            "summary": "The zwenie-tech/green-clean-earth repository has experienced significant activities recently, including numerous pull requests and push events. These events involved various fixes such as changes to participant list links, earnings additions in activity lists, and improvements to admin table styles. Additionally, there were fixes to the register and participant features, enhancements to pagination, and the addition of a has earning checkbox. These updates indicate ongoing development and maintenance to improve the repository's functionality and user experience."
+        },
+        "binshadcs/github-notifier": {
+            "link": "https://github.com/binshadcs/github-notifier",
+            "summary": "The binshadcs/github-notifier repository has shown limited recent activity, with a single push event stopping the tracking of wrangler.toml, suggesting minor maintenance or housekeeping efforts."
+        }
+    },
+    "profile_summary": "Binshad k is a highly skilled full stack developer with expertise in TypeScript, JavaScript, and Python, leveraging these technologies to deliver innovative solutions. As a seasoned professional, Binshad has established a strong reputation for technical excellence, with a network of 16 followers who appreciate his expertise and contributions to the development community. With 73 public repositories, Binshad demonstrates a consistent commitment to active development, constantly pushing the boundaries of what is possible with code. His proficiency in multiple programming languages enables him to tackle complex projects with ease, making him a valuable asset to any development team.\n\nAs a full stack developer, Binshad k brings a unique value proposition to the table, combining technical expertise with a passion for creative problem-solving. His strong technical foundation, combined with a keen eye for detail and a commitment to best practices, makes him a reliable and results-driven professional. With a focus on delivering high-quality solutions, Binshad k has established himself as a talented and innovative developer, well-versed in the latest industry trends and technologies. His expertise in TypeScript, JavaScript, and Python, along with his extensive experience in full stack development, positions him as a leading expert in his field, capable of driving projects forward with precision and expertise."
+}

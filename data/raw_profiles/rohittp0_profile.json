@@ -1,0 +1,121 @@
+{
+    "username": "rohittp0",
+    "name": "Rohit",
+    "bio": "dig -t txt +trace me.rohittp.com | sed -n 's/.*\"\\(.*\\)\".*/\\1/p' | sort -tZ -k1,1n | cut -dZ -f2-",
+    "location": "Payyanur, Kannur, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/45072928?u=aefa3cd0f599858c730de4ce32b74e622e868f60&v=4",
+    "profile_url": "https://github.com/rohittp0",
+    "top_languages": [
+        [
+            "Python",
+            39
+        ],
+        [
+            "C",
+            4
+        ],
+        [
+            "TypeScript",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GramUp",
+            "description": "Unlimited Cloud Storage for ALL!",
+            "score": 14.750449109462297,
+            "stars": 124,
+            "forks": 25,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/GramUp",
+            "updatedAt": "2024-12-20T00:03:23Z"
+        },
+        {
+            "name": "chipon",
+            "description": "PyTorch to Verilog transpiler",
+            "score": 7.625182011910446,
+            "stars": 11,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/chipon",
+            "updatedAt": "2024-10-16T09:11:15Z"
+        },
+        {
+            "name": "connect-a-ton",
+            "description": null,
+            "score": 6.932653348985266,
+            "stars": 9,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/connect-a-ton",
+            "updatedAt": "2024-03-22T07:34:32Z"
+        },
+        {
+            "name": "qFind",
+            "description": "A barebones but faster implementation of unix find in c.",
+            "score": 6.477005441927627,
+            "stars": 4,
+            "forks": 7,
+            "language": "C",
+            "url": "https://github.com/rohittp0/qFind",
+            "updatedAt": "2023-11-21T18:31:03Z"
+        },
+        {
+            "name": "WatchPost",
+            "description": "WatchPost is an automated LinkedIn post creation tool that creates LinkedIn posts for you based on your activity on GitHub. It goes through your repos checks what happened in the last 24 hours and based on that writes you a LinkedIn post talking about what you have been up to since the last post.",
+            "score": 6.050123400421744,
+            "stars": 17,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/WatchPost",
+            "updatedAt": "2024-11-18T06:47:33Z"
+        },
+        {
+            "name": "not-python",
+            "description": "!Python is a tiny language that I made to learn how compilers do their magic. The compiler of !Python is written in pure python ( no dependencies )",
+            "score": 5.686811523151504,
+            "stars": 3,
+            "forks": 5,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/not-python",
+            "updatedAt": "2024-07-01T15:08:41Z"
+        },
+        {
+            "name": "folllow-the-tree",
+            "description": null,
+            "score": 5.124229277475808,
+            "stars": 1,
+            "forks": 10,
+            "language": "JavaScript",
+            "url": "https://github.com/rohittp0/folllow-the-tree",
+            "updatedAt": "2023-11-21T18:31:23Z"
+        },
+        {
+            "name": "Punarjani",
+            "description": "Find Cowin vaccination slots near you ASAP !! ",
+            "score": 4.559634547821629,
+            "stars": 3,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/rohittp0/Punarjani",
+            "updatedAt": "2023-06-04T17:17:43Z"
+        }
+    ],
+    "followers": 248,
+    "following": 6,
+    "public_repos": 165,
+    "pull_requests_merged": 23,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 1337,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "rohittp0/catchup": {
+            "link": "https://github.com/rohittp0/catchup",
+            "summary": "Recent activities in the catchup repository include the addition of a start game button and a joystick, allowing for gameplay with both touch and mouse inputs. These updates, which were merged through a pull request, also introduced a neo-brutalist styling for the game interface, improved the overall UI, and enhanced the responsive design for better mobile device support."
+        }
+    },
+    "profile_summary": "Rohit is a highly skilled and accomplished developer with a strong proficiency in programming languages such as Python, C, and TypeScript. With a robust professional network of 248 followers, Rohit has established himself as a credible and influential figure in the development community. His extensive portfolio of 165 public repositories is a testament to his active engagement in development projects and his commitment to delivering high-quality solutions. Rohit's unique blend of technical expertise and collaborative approach enables him to drive innovative projects forward, making him a valuable asset to any development team.\n\nAs a seasoned developer, Rohit brings a wealth of experience and expertise to the table, with a strong focus on delivering reliable and efficient solutions. His bio, which can be decoded using a combination of dig, sed, and sort commands, offers a glimpse into his technical prowess and attention to detail. With a keen eye for innovation and a passion for staying up-to-date with the latest industry trends, Rohit is well-equipped to tackle complex development challenges and drive projects forward with confidence and precision. Whether working on personal projects or collaborating with others, Rohit consistently demonstrates his ability to produce high-quality code and deliver exceptional results, solidifying his position as a trusted and respected developer in his field."
+}

@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recent activities in osu-framework include updates to the FFmpeg build process, specifically using the `macos-13` CI image to replace the deprecated `macos-12` image, ensuring compatibility with older macOS versions. These changes were made through a series of push and pull requests, including the merge of pull request #6473, which addressed the deprecation issue and enhanced the build process."
-        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen activities focused on enhancing gameplay and editor interactions, including the addition of failing assertions and the implementation of a feature to pause playback when entering gameplay test from the editor. These updates were facilitated through push and pull requests, such as the merge of pull request #31303, which directly addressed and resolved issue #312, improving the overall user experience."
+            "summary": "Recent activities in the osu repository include fixes to angle bonuses calculation and distance scaling application. Additionally, there have been updates to pause playback when entering gameplay test from the editor, addressing issues such as #312. These changes aim to improve gameplay and editor functionality, with multiple pull requests and push events in the last 48 hours."
         },
-        "ppy/s3-nginx-proxy": {
-            "link": "https://github.com/ppy/s3-nginx-proxy",
-            "summary": "Recent activities in the s3-nginx-proxy repository involve preserving upstream Cache-Control headers, as seen in the merge of pull request #6. This update aims to enhance the proxy's functionality by maintaining the original caching instructions provided by the upstream server, ensuring better cache management and potentially improving performance."
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "The osu-framework repository has seen updates to the FFmpeg build configuration, specifically using the `macos-13` CI image. This change is in response to the deprecation of the `macos-12` image, which had disabled the macOS jobs. The update aims to ensure compatibility with older macOS versions and has been deployed through a recent pull request and push event."
         }
     },
     "profile_summary": null

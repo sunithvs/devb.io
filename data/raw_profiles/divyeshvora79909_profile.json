@@ -1,0 +1,134 @@
+{
+    "username": "divyeshvora79909",
+    "name": "divy.r.vora14@gmail.com",
+    "bio": "hey there, i am final year student and currently pursuing computer engineering in B. Tech. my main skills are python web development and artificial intelligence",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135146135?v=4",
+    "profile_url": "https://github.com/DivyeshVora79909",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DivyeshVora79909",
+            "description": "README.md",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/DivyeshVora79909/DivyeshVora79909",
+            "updatedAt": "2024-12-28T05:30:20Z"
+        },
+        {
+            "name": "BoardGames",
+            "description": "open source code for popular board games like ludo, snake n ladders, uno, ...",
+            "score": 1.7359072686826544,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/DivyeshVora79909/BoardGames",
+            "updatedAt": "2024-10-17T08:35:50Z"
+        },
+        {
+            "name": "InternetOfThingsWithAI",
+            "description": null,
+            "score": 1.6560454635087645,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/DivyeshVora79909/InternetOfThingsWithAI",
+            "updatedAt": "2024-08-07T17:06:46Z"
+        },
+        {
+            "name": "book",
+            "description": "first book deployment",
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/DivyeshVora79909/book",
+            "updatedAt": "2024-12-13T07:01:14Z"
+        },
+        {
+            "name": "ComputerVision_FaceRecognition",
+            "description": "The repo offers AI-powered image processing with models like GFPGAN, Real-ESRGAN, Parsing-Parsenet and ResNet50.",
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/DivyeshVora79909/ComputerVision_FaceRecognition",
+            "updatedAt": "2024-09-10T13:39:58Z"
+        },
+        {
+            "name": "PRODIGY_WD_01",
+            "description": null,
+            "score": 0.28419238626746335,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_01",
+            "updatedAt": "2024-06-15T14:16:13Z"
+        },
+        {
+            "name": "PRODIGY_WD_02",
+            "description": null,
+            "score": 0.28419238626746335,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_02",
+            "updatedAt": "2024-06-15T14:22:01Z"
+        },
+        {
+            "name": "PRODIGY_WD_03",
+            "description": null,
+            "score": 0.28419238626746335,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DivyeshVora79909/PRODIGY_WD_03",
+            "updatedAt": "2024-06-15T14:25:18Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 32,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://in.com/in/divyesh-vora-46850a270/"
+        }
+    ],
+    "activity_summary": {
+        "devb.io": {
+            "link": "https://github.com/DivyeshVora79909/devb.io",
+            "summary": "Recent activities on devb.io include several push events with fixes, such as handling null values and adding profile links to usernames, as well as a new feature addition titled '2024 Unwrapped'. Additionally, a pull request event was submitted with improvements including direct links to GitHub profiles and handling for cases where the name is null, enhancing the usability for HR and recruiters."
+        },
+        "DivyeshVora79909": {
+            "link": "https://github.com/DivyeshVora79909/DivyeshVora79909",
+            "summary": "There has been a recent push event on DivyeshVora79909's repository, updating the README.md file, indicating maintenance or informational updates to the repository's main page."
+        },
+        "TeachBooks": {
+            "link": "https://github.com/TeachBooks/TeachBooks",
+            "summary": "TeachBooks has seen significant activity, including a pull request aimed at improving the directory structure and command-line arguments, featuring a new 'start' sub-command for better differentiation and control over the build and serve processes, alongside improvements in compatibility and verification of new commands."
+        }
+    },
+    "profile_summary": "Divy Vora is a skilled and ambitious final year computer engineering student with a strong foundation in Python, Jupyter Notebook, and JavaScript. With a keen interest in artificial intelligence and web development, Divy has developed a solid technical skill set that enables him to design, develop, and deploy innovative solutions. As a talented developer, he has already made a notable impact in the industry, with a growing professional network and an impressive portfolio of public repositories that demonstrate his active involvement in various development projects.\n\nAs a proficient Python developer with expertise in web development and artificial intelligence, Divy brings a unique combination of technical skills and creative problem-solving abilities to the table. With a strong online presence and a track record of delivering high-quality solutions, he is well-positioned to make significant contributions to the field of computer science. With his skills in Python, JavaScript, and Jupyter Notebook, Divy is an ideal candidate for collaborative development projects, and his passion for innovation and excellence makes him a valuable asset to any team, as evidenced by his growing network of followers and public repositories that showcase his technical prowess and dedication to the craft."
+}

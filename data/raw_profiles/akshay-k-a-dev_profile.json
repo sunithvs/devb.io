@@ -1,0 +1,133 @@
+{
+    "username": "akshay-k-a-dev",
+    "name": "Akshay K.a",
+    "bio": "Student ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/106895549?v=4",
+    "profile_url": "https://github.com/akshay-k-a-dev",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "coldfetch",
+            "description": null,
+            "score": 3.5293487821145972,
+            "stars": 2,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/akshay-k-a-dev/coldfetch",
+            "updatedAt": "2024-12-03T14:36:59Z"
+        },
+        {
+            "name": "LinkedIn_Automater_AI",
+            "description": "LinkedIn automater using gemini api",
+            "score": 3.0887154779911685,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI",
+            "updatedAt": "2024-10-07T12:12:03Z"
+        },
+        {
+            "name": "kunnapan-AI-Assistant",
+            "description": null,
+            "score": 1.7012765563394574,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/akshay-k-a-dev/kunnapan-AI-Assistant",
+            "updatedAt": "2024-09-05T14:59:49Z"
+        },
+        {
+            "name": "odin-recipes",
+            "description": null,
+            "score": 1.7012765563394574,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/akshay-k-a-dev/odin-recipes",
+            "updatedAt": "2024-09-05T14:59:41Z"
+        },
+        {
+            "name": "optiflam",
+            "description": null,
+            "score": 1.7012765563394574,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/akshay-k-a-dev/optiflam",
+            "updatedAt": "2024-09-05T14:59:39Z"
+        },
+        {
+            "name": "flappybird",
+            "description": null,
+            "score": 1.6990686546880753,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/akshay-k-a-dev/flappybird",
+            "updatedAt": "2024-11-28T08:13:05Z"
+        },
+        {
+            "name": "singlepage-app-using-jquery",
+            "description": null,
+            "score": 1.6911735918757542,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/akshay-k-a-dev/singlepage-app-using-jquery",
+            "updatedAt": "2024-09-05T14:59:45Z"
+        },
+        {
+            "name": "Reactjs-portfolio-project",
+            "description": null,
+            "score": 1.6894006005065372,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akshay-k-a-dev/Reactjs-portfolio-project",
+            "updatedAt": "2024-09-05T14:59:53Z"
+        }
+    ],
+    "followers": 9,
+    "following": 17,
+    "public_repos": 46,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 432,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "akshay-k-a-dev/SANTA-PORTFOLIO": {
+            "link": "https://github.com/akshay-k-a-dev/SANTA-PORTFOLIO",
+            "summary": "Recent activities include multiple updates to the README.md file, fixes to the Santa image, and modifications to the App.tsx file, indicating ongoing development and debugging of the repository."
+        },
+        "akshay-k-a-dev/memex": {
+            "link": "https://github.com/akshay-k-a-dev/memex",
+            "summary": "The repository has seen updates to the index.html file, addition and removal of files via upload, and renaming of files, suggesting active development and refinement of the repository's content."
+        },
+        "akshay-k-a-dev/code-a-snowman": {
+            "link": "https://github.com/akshay-k-a-dev/code-a-snowman",
+            "summary": "Activities include updates to the index.html file, addition of new files via upload, and creation of a jekyll-docker.yml file, indicating ongoing work on the repository's structure and functionality."
+        },
+        "akshay-k-a-dev/muwishes": {
+            "link": "https://github.com/akshay-k-a-dev/muwishes",
+            "summary": "The repository has seen an initial commit, updates to the index.html and README.md files, indicating the start of a new project with initial setup and documentation in progress."
+        }
+    },
+    "profile_summary": "Akshay K.a is a highly skilled and innovative developer with a strong foundation in programming languages, including C, C++, and TypeScript. With a growing professional network of 9 followers and an impressive portfolio of 46 public repositories, Akshay has established himself as a talented and dedicated developer. As a student, Akshay has already demonstrated a keen interest in software development and a natural ability to create high-quality code. His technical expertise and passion for coding have earned him a reputation as a reliable and results-driven developer.\n\nAkshay's technical skills and expertise make him a valuable asset to any development team. His proficiency in C, C++, and TypeScript enables him to tackle complex projects with ease and deliver efficient solutions. With a strong focus on innovation and continuous learning, Akshay stays up-to-date with the latest industry trends and technologies. As a rising star in the development community, Akshay is committed to delivering exceptional results and exceeding expectations. With his unique blend of technical skills, creativity, and passion for coding, Akshay is poised to make a significant impact in the world of software development and is an exciting talent to watch in the years to come."
+}

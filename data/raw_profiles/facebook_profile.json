@@ -1,13 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/react": {
-            "link": "https://github.com/facebook/react",
-            "summary": "Recent activities in the facebook/react repository include several pull requests and push events related to improvements in Fiber, Flight, and Profiler mode. Notably, there have been efforts to refactor the Commit Phase into separate functions, mark errored Server Components, and add Profiler mode to fixtures even when React DevTools is not installed. These changes aim to enhance the overall performance and usability of the React framework."
+        "facebook/react-native": {
+            "link": "https://github.com/facebook/react-native",
+            "summary": "Recent activities in the facebook/react-native repository involve a pull request to optimize the roundLayoutResultsToPixelGrid function by avoiding redundant fmod calls, which was found to be expensive during UI performance profiling and resulted in a ~1% layout operation efficiency improvement."
         },
-        "facebook/Ax": {
-            "link": "https://github.com/facebook/Ax",
-            "summary": "The facebook/Ax repository has seen a recent push event focused on updating the latest version of the site, indicating ongoing maintenance and improvement efforts."
+        "facebook/litho": {
+            "link": "https://github.com/facebook/litho",
+            "summary": "The facebook/litho repository has seen recent activity with a pull request aimed at improving performance by eliminating duplicate fmod function calls in the roundLayoutResultsToPixelGrid function, leading to a reduction in instructions from ~50 to ~30 and a ~1% increase in efficiency for a specific benchmark."
+        },
+        "facebook/yoga": {
+            "link": "https://github.com/facebook/yoga",
+            "summary": "The facebook/yoga repository has undergone a recent optimization through a pull request that replaces duplicate fmod calls with a single round operation in the roundLayoutResultsToPixelGrid function, which enhances performance by reducing the number of instructions and resulting in a ~1% increase in efficiency for a particular benchmark."
         }
     },
     "profile_summary": null

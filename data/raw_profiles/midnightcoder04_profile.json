@@ -1,0 +1,125 @@
+{
+    "username": "midnightcoder04",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/125803010?v=4",
+    "profile_url": "https://github.com/midnightcoder04",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SHN1_Github-API",
+            "description": "A repo for TinkerHub's Saturday Hacknight makes",
+            "score": 3.334380151005243,
+            "stars": 1,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/SHN1_Github-API",
+            "updatedAt": "2024-08-04T16:14:16Z"
+        },
+        {
+            "name": "Hack_For_Tomorrow_2024",
+            "description": null,
+            "score": 2.1076418815643723,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/Hack_For_Tomorrow_2024",
+            "updatedAt": "2024-12-22T08:39:32Z"
+        },
+        {
+            "name": "3DPortfolio",
+            "description": null,
+            "score": 1.6786977950583506,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/3DPortfolio",
+            "updatedAt": "2024-09-21T19:12:32Z"
+        },
+        {
+            "name": "SHN2_Godot",
+            "description": "Trying out making a little game in godot",
+            "score": 1.3459782356134766,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/SHN2_Godot",
+            "updatedAt": "2024-08-26T16:39:46Z"
+        },
+        {
+            "name": "simple_projects",
+            "description": "A repository for uploading simple project items",
+            "score": 1.2703909892244318,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/midnightcoder04/simple_projects",
+            "updatedAt": "2024-05-15T21:06:14Z"
+        },
+        {
+            "name": "ProjectObsidian",
+            "description": "Portfolio with less like a portfolio and more like an art exhibition sort of like website",
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/ProjectObsidian",
+            "updatedAt": "2024-12-10T06:55:53Z"
+        },
+        {
+            "name": "SHN3_P5js",
+            "description": null,
+            "score": 0.31729996723826526,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midnightcoder04/SHN3_P5js",
+            "updatedAt": "2024-09-08T09:59:32Z"
+        },
+        {
+            "name": "midnightcoder04",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2677558345262757,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/midnightcoder04/midnightcoder04",
+            "updatedAt": "2024-10-05T14:31:59Z"
+        }
+    ],
+    "followers": 10,
+    "following": 6,
+    "public_repos": 18,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 122,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "midnightcoder04/Hack_For_Tomorrow_2024": {
+            "link": "https://github.com/midnightcoder04/Hack_For_Tomorrow_2024",
+            "summary": "Recent activities include multiple push events with updates to the README.md file, addition of new files via upload, and renaming of existing files. The repository also saw updates to the .env file and the creation of a demo video."
+        },
+        "midnightcoder04/ProjectObsidian": {
+            "link": "https://github.com/midnightcoder04/ProjectObsidian",
+            "summary": "Recent activities include push events that added animations, an About Section, and Title Animation, as well as adding colors to the project, indicating ongoing development and enhancement."
+        }
+    },
+    "profile_summary": "This skilled developer is a highly proficient professional with a strong foundation in JavaScript, TypeScript, and Dart. With a notable presence on GitHub, they have built a network of 10 followers who appreciate their technical expertise and innovative approach to software development. Their portfolio comprises 18 public repositories, showcasing a diverse range of projects that demonstrate their ability to design, develop, and deploy high-quality solutions. As a seasoned expert in their field, they possess a unique blend of technical skills, attention to detail, and collaborative spirit.\n\nWith a focus on delivering cutting-edge solutions, this developer is committed to staying up-to-date with the latest trends and advancements in the industry. Their expertise in JavaScript, TypeScript, and Dart enables them to craft efficient, scalable, and user-friendly applications that meet the evolving needs of businesses and organizations. By leveraging their technical prowess and creative problem-solving skills, they consistently deliver high-quality results that exceed expectations. As a reliable and innovative developer, they are well-equipped to drive projects forward, foster collaboration, and contribute to the success of their clients and partners."
+}

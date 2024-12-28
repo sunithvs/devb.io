@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include the addition of support for uncorrelated subqueries and the introduction of a Remainder vdbe opcode. Furthermore, compatibility tests for the mod operator have been added and the COMPAT.md file has been updated. A pull request has also been submitted to add a guide on how to start contributing SQL functions, aiming to simplify the contribution process for new contributors."
+            "summary": "Recent activities in the tursodatabase/limbo repository include multiple push events and pull requests focusing on the implementation of generic functions, support for uncorrelated subqueries, and the addition of a remainder vdbe opcode. These changes also include updates to the COMPAT.md file and the introduction of column aliases. Notably, a pull request added support for like functions with escape and another worked on the handling of subqueries, allowing them to be treated as wrappers of a SelectPlan that yield from a subroutine, enhancing query capabilities."
         }
     },
     "profile_summary": null

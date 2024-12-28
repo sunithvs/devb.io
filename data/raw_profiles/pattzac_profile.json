@@ -1,0 +1,111 @@
+{
+    "username": "pattzac",
+    "name": "Pat",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/113007904?u=78fb7da66cf14c4f3052ff2504e7c4e2dfebefdf&v=4",
+    "profile_url": "https://github.com/PattZac",
+    "top_languages": [
+        [
+            "C#",
+            102
+        ],
+        [
+            "PLSQL",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AplikacijaZaBiblioteku",
+            "description": null,
+            "score": 0.1660847238049714,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/AplikacijaZaBiblioteku",
+            "updatedAt": "2023-11-13T10:30:03Z"
+        },
+        {
+            "name": "AplikacijaZaBiblioteku-KorisnickoSucelje",
+            "description": null,
+            "score": 0.1656212948674457,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/AplikacijaZaBiblioteku-KorisnickoSucelje",
+            "updatedAt": "2023-11-13T09:48:42Z"
+        },
+        {
+            "name": "KolekcijeKategorijeVozilaXML-main",
+            "description": null,
+            "score": 0.16429062103753578,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/KolekcijeKategorijeVozilaXML-main",
+            "updatedAt": "2023-10-16T09:26:43Z"
+        },
+        {
+            "name": "KolekcijeKategorijeVozila-main",
+            "description": null,
+            "score": 0.16386569411765275,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/KolekcijeKategorijeVozila-main",
+            "updatedAt": "2023-10-08T18:46:45Z"
+        },
+        {
+            "name": "KombinatorikaPomocuLINQa",
+            "description": null,
+            "score": 0.16386569411765275,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/KombinatorikaPomocuLINQa",
+            "updatedAt": "2023-10-09T08:55:05Z"
+        },
+        {
+            "name": "KolekcijeKategorijeVozila",
+            "description": null,
+            "score": 0.1634495117730625,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/KolekcijeKategorijeVozila",
+            "updatedAt": "2023-10-02T09:28:32Z"
+        },
+        {
+            "name": "UsporediDvaXMLdokumenti",
+            "description": null,
+            "score": 0.1634495117730625,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/UsporediDvaXMLdokumenti",
+            "updatedAt": "2023-10-01T19:00:50Z"
+        },
+        {
+            "name": "LINQmethodSintaksa",
+            "description": null,
+            "score": 0.16304175809066213,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/PattZac/LINQmethodSintaksa",
+            "updatedAt": "2023-09-24T17:00:14Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 106,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "profile_summary": "Pat is a highly skilled developer with a strong foundation in C# and PLSQL, delivering high-quality solutions that meet and exceed expectations. With a notable presence on GitHub, featuring 106 public repositories, Pat demonstrates a consistent commitment to active development and a passion for sharing knowledge with the broader developer community. This dedication to craftsmanship and collaboration underscores Pat's reputation as a reliable and innovative professional, well-versed in the latest technologies and trends.\n\nAs a seasoned expert in software development, Pat brings a unique combination of technical expertise and creative problem-solving skills to the table, driving projects forward with precision and flair. With a keen eye for detail and a talent for optimizing code, Pat consistently delivers efficient, scalable, and maintainable solutions that drive business value and growth. By leveraging industry-relevant keywords and staying up-to-date with the latest advancements in C# and PLSQL, Pat remains at the forefront of the development community, poised to tackle complex challenges and capitalize on emerging opportunities, ultimately making a lasting impact in the world of software development."
+}

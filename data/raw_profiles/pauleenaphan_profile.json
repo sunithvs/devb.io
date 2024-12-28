@@ -1,0 +1,146 @@
+{
+    "username": "pauleenaphan",
+    "name": "Pauleena Phan",
+    "bio": "let's build a cool website together! \r\npauleena2002@gmail.com",
+    "location": "California",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77126730?u=40c40bae64634189b39f8bb2c977f9d6e8f7c1c9&v=4",
+    "profile_url": "https://github.com/pauleenaphan",
+    "top_languages": [
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "JavaScript",
+            26
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MentalMe",
+            "description": "MentalMe is a health app that focuses on daily journaling. ",
+            "score": 1.6474817487891174,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/pauleenaphan/MentalMe",
+            "updatedAt": "2024-12-20T20:16:04Z"
+        },
+        {
+            "name": "remember-when",
+            "description": null,
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/pauleenaphan/remember-when",
+            "updatedAt": "2024-12-23T21:24:18Z"
+        },
+        {
+            "name": "cat-jokes-page",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/pauleenaphan/cat-jokes-page",
+            "updatedAt": "2024-12-17T18:25:21Z"
+        },
+        {
+            "name": "react-fullstack-template",
+            "description": "React+vite fullstack template for anyone who likes to have their front and backend folders in the same repo.",
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/pauleenaphan/react-fullstack-template",
+            "updatedAt": "2024-12-20T03:21:46Z"
+        },
+        {
+            "name": "typeAlgo",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/pauleenaphan/typeAlgo",
+            "updatedAt": "2024-12-18T01:47:54Z"
+        },
+        {
+            "name": "cat-jokes",
+            "description": "A fun and easy-to-use npm package that generates random cat jokes for your development.",
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/pauleenaphan/cat-jokes",
+            "updatedAt": "2024-12-17T17:49:30Z"
+        },
+        {
+            "name": "first-landing",
+            "description": "A landing page that showcases my other landing pages. ",
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/pauleenaphan/first-landing",
+            "updatedAt": "2024-12-27T21:40:53Z"
+        },
+        {
+            "name": "Old-Mac-s-Chat",
+            "description": "Old Mac's Farm is a webpage where users can send real-time messages using only the letters \"e,\" \"i,\" and \"o,\" inspired by the \"Old MacDonald Had a Farm\" song.",
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/pauleenaphan/Old-Mac-s-Chat",
+            "updatedAt": "2024-12-17T06:12:12Z"
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 63,
+    "pull_requests_merged": 20,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 997,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/pauleena-phan "
+        },
+        {
+            "provider": "generic",
+            "url": "https://ko-fi.com/pauleenaphan"
+        }
+    ],
+    "activity_summary": {
+        "pauleenaphan/first-landing": {
+            "link": "https://github.com/pauleenaphan/first-landing",
+            "summary": "Recent activities include multiple push events with updates such as adding a basic layout for the Beelift landing page, making the explore page responsive, adjusting the main site to be responsive on mobile, and several other minor styling changes and updates."
+        },
+        "pauleenaphan/react-fullstack-template": {
+            "link": "https://github.com/pauleenaphan/react-fullstack-template",
+            "summary": "The repository experienced a series of push events, including updates to the README.md file, the addition of a .env and gitignore file, and modifications to remove boilerplate from cmd and add routing boilerplate, indicating ongoing development and configuration of the template."
+        },
+        "pauleenaphan/past-deserts": {
+            "link": "https://github.com/pauleenaphan/past-deserts",
+            "summary": "Activities include push events that focused on styling adjustments, such as reducing the width size, changing the container size, modifying the header styling, and altering the background, suggesting a refinement of the project's appearance."
+        },
+        "pauleenaphan/website-portfolio": {
+            "link": "https://github.com/pauleenaphan/website-portfolio",
+            "summary": "The repository saw push events that involved changing the README title and updating the past deserts image, indicating minor updates and maintenance of the portfolio."
+        },
+        "pauleenaphan/remember-when": {
+            "link": "https://github.com/pauleenaphan/remember-when",
+            "summary": "Recent push events included changing the font, adding a form with tomb styling, and establishing a basic layout and styling, pointing to the initial development and design phase of the project."
+        }
+    },
+    "profile_summary": "Pauleena Phan is a highly skilled and innovative developer with a strong foundation in programming languages such as TypeScript, JavaScript, and Python. With a growing professional network of followers and an impressive portfolio of 63 public repositories, Pauleena has established herself as a capable and reliable developer who consistently delivers high-quality work. Her technical expertise and passion for building cutting-edge solutions make her a valuable asset to any project, and her collaborations often result in impressive and effective outcomes.\n\nAs a dedicated and forward-thinking developer, Pauleena is committed to staying up-to-date with the latest industry trends and technologies. Her enthusiasm for web development is evident in her work, and her ability to bring creative ideas to life is unparalleled. With a strong online presence and a keen interest in collaborating with like-minded professionals, Pauleena is an excellent choice for businesses and individuals seeking a skilled and innovative developer to bring their vision to life, and can be reached at pauleena2002@gmail.com to discuss exciting new projects and opportunities."
+}

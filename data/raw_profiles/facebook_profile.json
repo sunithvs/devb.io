@@ -1,25 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/rocksdb": {
-            "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities in the facebook/rocksdb repository include two significant pull requests. The first added support for KNN search for FAISS IVF indices. The second introduced a new interface method, SecondaryIndex::NewIterator, which enables querying the index by providing an iterator that can be used by applications to read secondary index entries based on a search target. These changes aim to enhance the functionality of RocksDB, a key-value and column-family NoSQL database."
-        },
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "The facebook/react-native repository saw the addition of a flag to the JS Error prototype to specify the JavaScript engine, specifically 'hermes', to improve error identification and handling. This change was implemented through a pull request and a subsequent push event to resolve the pull request, indicating active development and maintenance of the React Native framework for building native mobile applications."
+            "summary": "Recent activities include a pull request that adds a flag to JS Error's prototype to specify the jsEngine, which was reviewed by fkgozali. Additionally, a push event was made to resolve the pull request, which included the changes to the JS runtime Error prototype."
+        },
+        "facebook/rocksdb": {
+            "link": "https://github.com/facebook/rocksdb",
+            "summary": "Recent activities involve two significant pull requests: one to support KNN search for FAISS IVF indices and another to add a new interface method SecondaryIndex::NewIterator to enable querying the index, allowing applications to provide query parameters and iterate through matching index entries."
         },
         "facebook/react": {
             "link": "https://github.com/facebook/react",
-            "summary": "A recent pull request in the facebook/react repository focused on enabling version updates for GitHub Actions through Dependabot. This change aims to keep the GitHub Actions used in the React project up-to-date automatically, ensuring that the project benefits from the latest security patches and features without manual intervention."
+            "summary": "A recent pull request was made to enable version updates for GitHub Actions using Dependabot, following the guidelines outlined in the GitHub documentation, which aims to keep the repository's dependencies up-to-date."
+        },
+        "facebook/openbmc": {
+            "link": "https://github.com/facebook/openbmc",
+            "summary": "Recent activities include a push event that addresses a fw-util test failure and fixes test_restendpoint failures by updating related configurations to resolve issues in the Continuous Integration Testing (CIT) process."
         },
         "facebook/buck2": {
             "link": "https://github.com/facebook/buck2",
-            "summary": "The facebook/buck2 repository had a minor update with a push event that fixed a comment typo, specifically correcting 'improces' to 'improves'. This change, although small, contributes to the overall quality and readability of the project's documentation and code comments, reflecting the project's attention to detail."
-        },
-        "facebook/buck2-prelude": {
-            "link": "https://github.com/facebook/buck2-prelude",
-            "summary": "Similar to facebook/buck2, the facebook/buck2-prelude repository also received a minor update through a push event that corrected a comment typo from 'improces' to 'improves'. This adjustment enhances the clarity and professionalism of the project's documentation, showcasing the project's commitment to precision and quality."
+            "summary": "A recent push event was made to fix a trivial typo in a comment, which improves the overall code quality and readability, as reviewed by mattpaynem."
         }
     },
     "profile_summary": null

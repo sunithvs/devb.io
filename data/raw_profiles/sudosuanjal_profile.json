@@ -1,0 +1,146 @@
+{
+    "username": "sudosuanjal",
+    "name": "Anjal K Biju",
+    "bio": "engineer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/129784615?u=e4c14e86d6d96efc57aa59a42fa02abd94d730bf&v=4",
+    "profile_url": "https://github.com/sudosuanjal",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LinkUP",
+            "description": null,
+            "score": 1.3432635753814015,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/sudosuanjal/LinkUP",
+            "updatedAt": "2024-08-21T13:29:50Z"
+        },
+        {
+            "name": "buttons",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/sudosuanjal/buttons",
+            "updatedAt": "2024-09-29T17:42:28Z"
+        },
+        {
+            "name": "ktu-lab",
+            "description": null,
+            "score": 0.3086538893258005,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/sudosuanjal/ktu-lab",
+            "updatedAt": "2024-08-23T08:05:45Z"
+        },
+        {
+            "name": "learning-solidity",
+            "description": null,
+            "score": 0.29896678056375503,
+            "stars": 0,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/sudosuanjal/learning-solidity",
+            "updatedAt": "2024-08-01T11:55:20Z"
+        },
+        {
+            "name": "garden-village-swapper",
+            "description": null,
+            "score": 0.2962907343396846,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sudosuanjal/garden-village-swapper",
+            "updatedAt": "2024-07-24T14:24:15Z"
+        },
+        {
+            "name": "sudosuanjal",
+            "description": null,
+            "score": 0.2888527756094989,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sudosuanjal/sudosuanjal",
+            "updatedAt": "2024-07-30T07:52:02Z"
+        },
+        {
+            "name": "IMTCKelakam",
+            "description": null,
+            "score": 0.16628655898262212,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sudosuanjal/IMTCKelakam",
+            "updatedAt": "2023-11-16T13:50:42Z"
+        },
+        {
+            "name": "hello_test",
+            "description": null,
+            "score": 0.16621906201169442,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sudosuanjal/hello_test",
+            "updatedAt": "2023-11-16T10:23:47Z"
+        }
+    ],
+    "followers": 7,
+    "following": 17,
+    "public_repos": 21,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 99,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/sudosuanjal"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sudosuanjal"
+        },
+        {
+            "provider": "reddit",
+            "url": "https://www.reddit.com/user/sudosuanjal/"
+        }
+    ],
+    "activity_summary": {
+        "aoctolabs/aoctolabs-web": {
+            "link": "https://github.com/aoctolabs/aoctolabs-web",
+            "summary": "Recent activities include multiple push events and pull requests focusing on changes to the website's social links, discuss section, and hero section, indicating ongoing development and refinement of the project's web presence."
+        },
+        "sudosuanjal/Time-Managment-Tool": {
+            "link": "https://github.com/sudosuanjal/Time-Managment-Tool",
+            "summary": "The repository has seen significant activity with push events and pull requests focused on implementing Progressive Web App (PWA) functionality, improving the project's README, and enhancing the overall user experience through fixes and feature additions, demonstrating active development and collaboration."
+        },
+        "AthenaFoss/Time-Managment-Tool": {
+            "link": "https://github.com/AthenaFoss/Time-Managment-Tool",
+            "summary": "Activity is centered around pull requests aimed at improving the project's README and installation setup, addressing specific issues and enhancing project documentation, which suggests a focus on onboarding and user experience."
+        },
+        "sudosuanjal/aoctolabs-web": {
+            "link": "https://github.com/sudosuanjal/aoctolabs-web",
+            "summary": "Similar to aoctolabs/aoctolabs-web, this repository has been active with push events updating the website's social links, discuss section, and hero section, mirroring the ongoing refinement and development observed in the similarly named repository."
+        }
+    },
+    "profile_summary": "Anjal K Biju is a skilled engineer with a strong foundation in programming languages, including C, TypeScript, and JavaScript. With a growing professional network of 7 followers, Anjal has established a reputation as a knowledgeable and reliable developer. Their extensive experience in software development is evident in the 21 public repositories they have created, showcasing their ability to design, develop, and deploy innovative solutions. As a seasoned engineer, Anjal possesses a unique blend of technical expertise and creative problem-solving skills, enabling them to tackle complex challenges and deliver high-quality results.\n\nAnjal's expertise in C, TypeScript, and JavaScript has equipped them to navigate a wide range of development projects, from building scalable applications to crafting efficient algorithms. With a strong focus on innovation and continuous learning, Anjal stays up-to-date with the latest industry trends and best practices, ensuring their skills remain relevant and in-demand. As a dedicated and results-driven engineer, Anjal is committed to delivering exceptional solutions that exceed expectations, making them a valuable asset to any development team. With their technical prowess, collaborative approach, and passion for software development, Anjal is well-positioned to drive success in their future endeavors."
+}

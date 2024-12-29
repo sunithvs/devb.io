@@ -1,21 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/tsl": {
-            "link": "https://github.com/google/tsl",
-            "summary": "Recent activities in the google/tsl repository have focused on dependency removal. A pull request was submitted to remove the //third_party/libdoubleconversion dependency from TensorFlow, which is no longer needed as the code is now utilized in absl. Subsequent push events reinforced this removal, ensuring proper compliance with the new dependency adjustments."
-        },
-        "google/Xee": {
-            "link": "https://github.com/google/Xee",
-            "summary": "Notable activity in the google/Xee repository includes a push event that added an argument to generate ee credentials on-demand, marking a step forward in streamlining operations. This adjustment, tracked by PiperOrigin-RevId: 710437577, showcases the ongoing efforts to fine-tune functionalities within the repository."
-        },
-        "google/oss-fuzz": {
-            "link": "https://github.com/google/oss-fuzz",
-            "summary": "The google/oss-fuzz repository witnessed the submission of a pull request aimed at adding Apache Doris to oss fuzz. This integration is set to enhance the fuzz testing capabilities, expanding the repository's coverage and robustness in identifying vulnerabilities and bugs within supported projects."
-        },
         "google/it-cert-automation-practice": {
             "link": "https://github.com/google/it-cert-automation-practice",
-            "summary": "Recent activities in the google/it-cert-automation-practice repository involve a pull request that updates the validations.py Python script. Specifically, the behavior of the validate_user function was fixed, addressing an existing issue and improving the overall validation process within the repository, laying groundwork for more efficient automation practices."
+            "summary": "Recent activities in the google/it-cert-automation-practice repository involve the resolution of issue #1 through two pull requests submitted on December 29, 2024, both of which provided fixes and included discussion on best practices such as running tests and updating the README."
+        },
+        "google/flax": {
+            "link": "https://github.com/google/flax",
+            "summary": "Activity in the google/flax repository includes a push event that occurred on December 29, 2024, where the cache was optimized through flattening, improving the repository's overall efficiency."
         }
     },
     "profile_summary": null

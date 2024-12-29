@@ -3,19 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository have focused on enhancing the osu!taiko game mode, including changes to rhythm considerations, star rating and performance points rebalancing, and stamina balancing. These updates aim to improve the overall gaming experience by introducing more nuanced penalty systems, adjusting difficulty multipliers, and refining the stamina skill mechanics. The changes are designed to provide a more engaging and challenging experience for players, while also addressing feedback from the community."
-        },
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "The osu-framework repository has seen significant activity with the addition of a linux-arm64 build for FFmpeg, which supports Ubuntu and non-Ubuntu build hosts. This update enables cross-compiling from x86 to arm64/aarch64, allowing for the creation of ARM binaries without the need for emulation. The changes have been tested and are available in a fork of the repository, demonstrating the project's ongoing commitment to expanding its compatibility and reach."
+            "summary": "The osu repository has seen significant activities recently, with multiple pull requests focused on osu!taiko mode. These include a rebalance of star rating and performance points, further considerations for rhythm, and stamina balancing. The changes aim to improve the overall gameplay experience, with adjustments to rhythm penalties, stamina buffs, and performance point scaling. These updates demonstrate a commitment to refining the game's mechanics and enhancing player engagement."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has undergone updates, including the translation and retranslation of the 'Game mode' section in Indonesian. The changes are part of an ongoing effort to maintain and improve the accuracy and accessibility of the osu! wiki, ensuring that players from diverse linguistic backgrounds can access vital information and engage with the game community."
+            "summary": "The osu-wiki repository has experienced recent activity, with a pull request focused on updating and retranslating the 'Game mode' section. This contribution adheres to the wiki's contribution guide, ensuring that changes are thoroughly tested and reviewed to maintain the accuracy and quality of the wiki's content."
         },
         "ppy/SDL3-CS": {
             "link": "https://github.com/ppy/SDL3-CS",
-            "summary": "The SDL3-CS repository has received updates to its bindings, incorporating pen support for iOS and Android, as well as removing obsolete files. These changes reflect the project's commitment to staying up-to-date with the latest developments in the SDL library, ensuring compatibility and facilitating the creation of high-quality, cross-platform applications."
+            "summary": "The SDL3-CS repository has seen a recent update, with a pull request focused on updating bindings to include pen support for iOS and Android, as well as removing unnecessary files. This change aims to enhance the library's functionality and compatibility, with plans to integrate the updated package into the osu!framework in the future."
         }
     },
     "profile_summary": null

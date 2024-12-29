@@ -1,5 +1,26 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
-    "activity_summary": {},
+    "activity_summary": {
+        "google/highway": {
+            "link": "https://github.com/google/highway",
+            "summary": "Recent activities on the google/highway repository include a push event that updated documentation for a commit and added MinMagnitude and MaxMagnitude ops. Additionally, a pull request event introduced the MinMagnitude and MaxMagnitude ops, which will utilize the upcoming AVX10.2 instruction set. These changes enhance the functionality of the repository."
+        },
+        "google/xls": {
+            "link": "https://github.com/google/xls",
+            "summary": "The google/xls repository has seen a push event with a fix to enable XLScc to handle asm declarations on ARM, improving compatibility and addressing a potential issue with invalid IR."
+        },
+        "google/bumble": {
+            "link": "https://github.com/google/bumble",
+            "summary": "A pull request event on the google/bumble repository aimed to avoid cancelling futures, as this can lead to information loss and potential errors, such as asyncio.CancelledError, providing a more robust asynchronous handling mechanism."
+        },
+        "google/flax": {
+            "link": "https://github.com/google/flax",
+            "summary": "The google/flax repository experienced a push event related to caching and flattening, indicated by the [nnx] cache flatten message, suggesting optimizations to neural network processing or model handling."
+        },
+        "google/it-cert-automation-practice": {
+            "link": "https://github.com/google/it-cert-automation-practice",
+            "summary": "A pull request on the google/it-cert-automation-practice repository proposed changing the isnumeric function to isalpha for checking if a username's first character is an alphabet, enhancing validation rules for user input and improving the validate_user function's behavior."
+        }
+    },
     "profile_summary": null
 }

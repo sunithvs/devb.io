@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "tursodatabase/limbo": {
+        "limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities on the limbo repository include multiple pull requests focused on refactoring and cleaning up repetitive code, addressing Clippy warnings, and adding support for the like function with escape. The repository saw a significant amount of push events, including the addition of Clippy CI, the fixation or ignoring of warnings, and the reworking of termination labels. The activities aim to improve the overall quality and maintainability of the codebase, making it more efficient and easier to review."
+            "summary": "Recent activities in the limbo repository have focused on code cleanup and improvement, with multiple pull requests addressing issues such as repetitive code, Clippy warnings, and support for like functions with escape. Additionally, there have been updates to the Clippy CI and fixes for various warnings and errors, demonstrating a concerted effort to enhance the repository's code quality and maintainability."
         }
     },
     "profile_summary": null

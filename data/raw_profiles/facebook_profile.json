@@ -3,15 +3,11 @@
     "activity_summary": {
         "facebook/zstd": {
             "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities in the zstd repository include a push event and a pull request event, both of which aim to clarify documentation for Frame-level methods invoked on a skippable frame, with discussions and fixes related to issue #4226 and pull request #4227."
-        },
-        "facebook/react-native-website": {
-            "link": "https://github.com/facebook/react-native-website",
-            "summary": "The react-native-website repository saw a push event and a pull request event focused on fixing typos in the Fabric Native Components Introduction, as detailed in issue #4408, demonstrating ongoing efforts to refine and polish the documentation."
+            "summary": "The facebook/zstd repository has seen recent activities including a pull request to enhance ZSTD_getFrameHeader() for skippable frames, providing complete information by filling in additional fields such as header size and magic variant. Additionally, there was a push event to update type names, following the convention of starting type names with a capital letter."
         },
         "facebook/docusaurus": {
             "link": "https://github.com/facebook/docusaurus",
-            "summary": "In the docusaurus repository, a significant pull request event was initiated, adding support for Bun by enabling the passing of 'bun' to the npm-to-yarn converter, with thorough documentation of the change, including a test plan and links to relevant deploy previews, enhancing the platform's compatibility and functionality."
+            "summary": "The facebook/docusaurus repository has experienced significant activities, notably a pull request to add support for Bun in the npm-to-yarn converter, allowing the option to be passed and updating tab labels for consistency. This change includes updates to the documentation and tests to ensure the new functionality works as expected."
         }
     },
     "profile_summary": null

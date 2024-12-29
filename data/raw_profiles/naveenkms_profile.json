@@ -1,0 +1,125 @@
+{
+    "username": "naveenkms",
+    "name": "Naveen Krishna M S",
+    "bio": "Frontend Developer",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89766436?u=b23e8fa8a4bfca560aa361c96a7cbe626896c6a5&v=4",
+    "profile_url": "https://github.com/Naveenkms",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BreezeWorks",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Naveenkms/BreezeWorks",
+            "updatedAt": "2024-12-04T11:43:17Z"
+        },
+        {
+            "name": "storyblok-asset-copy",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Naveenkms/storyblok-asset-copy",
+            "updatedAt": "2024-07-12T04:56:26Z"
+        },
+        {
+            "name": "my-portfolio",
+            "description": null,
+            "score": 0.22277000899328342,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Naveenkms/my-portfolio",
+            "updatedAt": "2024-10-31T12:20:06Z"
+        },
+        {
+            "name": "random-quote-generator",
+            "description": null,
+            "score": 0.15241507789284944,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Naveenkms/random-quote-generator",
+            "updatedAt": "2023-01-23T12:19:23Z"
+        },
+        {
+            "name": "linkedin-clone",
+            "description": "LinkedIn clone built for learning purpose",
+            "score": 0.15231677694108572,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Naveenkms/linkedin-clone",
+            "updatedAt": "2023-01-26T08:43:03Z"
+        },
+        {
+            "name": "stripe-webhook-nextjs",
+            "description": null,
+            "score": 0.15192892444166686,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Naveenkms/stripe-webhook-nextjs",
+            "updatedAt": "2023-01-07T16:57:31Z"
+        },
+        {
+            "name": "Shelter-app",
+            "description": "App, where users can book beautiful apartments they wish to stay. Users can Login, Wishlist and make secure payments. It uses Static Generation and Server-side rendering in Next.js to pre-render the page and also uses other features of Next.js.",
+            "score": 0.1479452927810211,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Naveenkms/Shelter-app",
+            "updatedAt": "2023-01-26T08:46:35Z"
+        },
+        {
+            "name": "nextjs13-mesenger",
+            "description": null,
+            "score": 0.07574345856864012,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Naveenkms/nextjs13-mesenger",
+            "updatedAt": "2022-12-25T14:38:21Z"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1363,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "Naveenkms/BreezeWorks": {
+            "link": "https://github.com/Naveenkms/BreezeWorks",
+            "summary": "Recent activities in the BreezeWorks repository involved the addition and completion of various pages, including the index page, team, about, and specials pages, which significantly enhanced the repository's content and functionality over the past month."
+        },
+        "Naveenkms/my-portfolio": {
+            "link": "https://github.com/Naveenkms/my-portfolio",
+            "summary": "The my-portfolio repository saw an update to the resume around a month ago, indicating periodic maintenance and refresh of the portfolio's content to reflect the latest information and updates."
+        }
+    },
+    "profile_summary": "Naveen Krishna M S is a highly skilled frontend developer with expertise in TypeScript, JavaScript, and HTML. With a strong foundation in these core technologies, he delivers high-quality solutions that meet the evolving needs of the digital landscape. As a dedicated professional with a growing network of peers, Naveen has established himself as a reliable and innovative developer, leveraging his technical skills to drive projects forward and achieve exceptional results. His proficiency in frontend development enables him to craft engaging user experiences, ensuring seamless interactions and intuitive interfaces.\n\nWith a portfolio of 12 public repositories, Naveen demonstrates his commitment to active development and continuous learning. As a frontend expert, he stays up-to-date with the latest trends and advancements in the field, incorporating best practices and industry-leading techniques into his work. With a strong online presence and a growing influence, Naveen Krishna M S is a talented developer who brings value to his collaborations and contributions, making him an asset to any project or team. His technical expertise, combined with his passion for innovation and excellence, positions him as a high-performing professional in the field of frontend development."
+}

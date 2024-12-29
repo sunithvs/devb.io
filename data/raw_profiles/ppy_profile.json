@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activities recently, with multiple pull requests focused on osu!taiko mode. These include a rebalance of star rating and performance points, further considerations for rhythm, and stamina balancing. The changes aim to improve the overall gameplay experience, with adjustments to rhythm penalties, stamina buffs, and performance point scaling. These updates demonstrate a commitment to refining the game's mechanics and enhancing player engagement."
+            "summary": "Recent activities include significant updates to osu!taiko, focusing on rhythm penalty considerations, star rating and performance points rebalancing, and stamina balancing. These changes aim to enhance gameplay experience by introducing more nuanced difficulty calculations and rewards for players."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has experienced recent activity, with a pull request focused on updating and retranslating the 'Game mode' section. This contribution adheres to the wiki's contribution guide, ensuring that changes are thoroughly tested and reviewed to maintain the accuracy and quality of the wiki's content."
+            "summary": "The repository has seen notable updates with the addition of tournament articles, such as the ANZT6W tournament, and retranslations of game mode text. These contributions improve the wiki's coverage of osu! community events and enhance its multilingual support."
         },
         "ppy/SDL3-CS": {
             "link": "https://github.com/ppy/SDL3-CS",
-            "summary": "The SDL3-CS repository has seen a recent update, with a pull request focused on updating bindings to include pen support for iOS and Android, as well as removing unnecessary files. This change aims to enhance the library's functionality and compatibility, with plans to integrate the updated package into the osu!framework in the future."
+            "summary": "Recent activity involves updating bindings to include pen support for iOS and Android, leveraging developments from the SDL library. This update also removes unnecessary files, positioning the project for future compatibility and framework integration."
         }
     },
     "profile_summary": null

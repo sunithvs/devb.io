@@ -1,4 +1,10 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
+    "activity_summary": {
+        "facebook/rocksdb": {
+            "link": "https://github.com/facebook/rocksdb",
+            "summary": "Recent activities in the facebook/rocksdb repository include a pull request to remove an unused variable `number_of_files_to_sort_` which has been replaced by `kNumberFilesToSort`, improving code quality and reducing unnecessary complexity."
+        }
+    },
     "profile_summary": null
 }

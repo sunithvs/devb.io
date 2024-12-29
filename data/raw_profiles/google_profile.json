@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/it-cert-automation-practice": {
-            "link": "https://github.com/google/it-cert-automation-practice",
-            "summary": "Recent activities in the google/it-cert-automation-practice repository involve the resolution of issue #1 through two pull requests submitted on December 29, 2024, both of which provided fixes and included discussion on best practices such as running tests and updating the README."
+        "google/XNNPACK": {
+            "link": "https://github.com/google/XNNPACK",
+            "summary": "Recent activities include a pull request to clean up logging, redirecting 'INFO' level logs from 'stdout' to 'stderr' for better output management."
         },
         "google/flax": {
             "link": "https://github.com/google/flax",
-            "summary": "Activity in the google/flax repository includes a push event that occurred on December 29, 2024, where the cache was optimized through flattening, improving the repository's overall efficiency."
+            "summary": "The repository has seen recent updates with a push event introducing caching for the flatten operation in 'nnx', aiming to enhance performance."
         }
     },
     "profile_summary": null

@@ -1,0 +1,138 @@
+{
+    "username": "shivanshthakur4u",
+    "name": "Saurabh Singh",
+    "bio": "MERN stack dev.",
+    "location": "Prayagraj, Uttar Pradesh , India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68112187?u=b7b9498451cf3bb6c6c49e1ba20218f8daccd585&v=4",
+    "profile_url": "https://github.com/shivanshthakur4u",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            17
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Portfolio-webapp",
+            "description": "Portfolio made using NextJs , TailwindCSS and framer motion.",
+            "score": 1.6187218728295683,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/Portfolio-webapp",
+            "updatedAt": "2024-08-10T08:14:33Z"
+        },
+        {
+            "name": "Travelmate",
+            "description": "React-native app created using rapid api and tailwindcss",
+            "score": 1.5401455555890398,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/Travelmate",
+            "updatedAt": "2023-04-01T10:01:53Z"
+        },
+        {
+            "name": "socialchat-Backend",
+            "description": "nodejs and mongodb used",
+            "score": 1.5400037358482441,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/socialchat-Backend",
+            "updatedAt": "2023-03-01T07:55:38Z"
+        },
+        {
+            "name": "SocialChatApp",
+            "description": "SocialChatApp using react-native and nodejs",
+            "score": 1.5395848415461046,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/SocialChatApp",
+            "updatedAt": "2023-03-01T07:55:39Z"
+        },
+        {
+            "name": "UI-Task",
+            "description": "Created using React js",
+            "score": 0.3161267557513874,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shivanshthakur4u/UI-Task",
+            "updatedAt": "2024-09-05T16:33:31Z"
+        },
+        {
+            "name": "dashboard-cnn",
+            "description": "Created using ReactJs, Tailwindcss, ShadcnUI, Redux toolkit",
+            "score": 0.3096494774516637,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/dashboard-cnn",
+            "updatedAt": "2024-08-24T13:35:47Z"
+        },
+        {
+            "name": "BlogApp-Backend",
+            "description": "Created using Nodejs, ExpressJs and MongoDB",
+            "score": 0.30914893733334936,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shivanshthakur4u/BlogApp-Backend",
+            "updatedAt": "2024-08-24T05:31:24Z"
+        },
+        {
+            "name": "BlogApp-Frontend",
+            "description": "Created using ReactJs, Tailwindcss, ShadcnUI",
+            "score": 0.30914893733334936,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shivanshthakur4u/BlogApp-Frontend",
+            "updatedAt": "2024-08-24T05:37:20Z"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 28,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 195,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/shivanshthakur4u"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=100043718719795"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/saurabh-singh-7669b9211"
+        }
+    ],
+    "activity_summary": {
+        "shivanshthakur4u/ResumeXpress-Backend-": {
+            "link": "https://github.com/shivanshthakur4u/ResumeXpress-Backend-",
+            "summary": "Recently, the ResumeXpress-Backend- repository experienced significant activity, with multiple push events occurring on October 26, 2024. The updates included fixes for the nodemailer port, additional fixes for the forgot password functionality, and the implementation of a forgot-password route. These changes demonstrate ongoing efforts to enhance the repository's functionality and reliability."
+        },
+        "shivanshthakur4u/ResumeXpress-Frontend-": {
+            "link": "https://github.com/shivanshthakur4u/ResumeXpress-Frontend-",
+            "summary": "The ResumeXpress-Frontend- repository saw notable activity on October 26, 2024, with push events focused on improving the frontend functionality. Specifically, the updates involved bug fixes for the rich text editor and the addition of a forgot and reset password form, highlighting the repository's active development and refinement of its user interface and experience."
+        }
+    },
+    "profile_summary": "Saurabh Singh is a highly skilled MERN stack developer with a strong proficiency in TypeScript, JavaScript, and CSS. With a solid foundation in full-stack development, he has established himself as a proficient programmer capable of delivering high-quality solutions. His expertise spans a wide range of technologies, enabling him to tackle complex projects with ease and precision. As a dedicated and innovative developer, Saurabh consistently strives to expand his technical knowledge and stay up-to-date with the latest industry trends.\n\nWith 28 public repositories to his credit, Saurabh has demonstrated his ability to design, develop, and deploy scalable and efficient software applications. As a MERN stack expert, he brings a unique value proposition to the table, combining his technical skills with a passion for creating innovative and user-friendly solutions. Despite being a new face in the professional network with zero followers, Saurabh is poised to make a significant impact in the development community, leveraging his technical prowess and dedication to deliver exceptional results and build a strong reputation as a reliable and skilled developer."
+}

@@ -1,0 +1,126 @@
+{
+    "username": "mans22r",
+    "name": "Mansoor Majeed",
+    "bio": "",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/83159118?u=d6fc6ffa5c87986b0037b5634d8e12dbbf3317e3&v=4",
+    "profile_url": "https://github.com/Mans22r",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Dart",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Tinker_Repo",
+            "description": null,
+            "score": 6.313582876742652,
+            "stars": 0,
+            "forks": 63,
+            "language": "HTML",
+            "url": "https://github.com/Mans22r/Tinker_Repo",
+            "updatedAt": "2022-11-23T10:38:14Z"
+        },
+        {
+            "name": "Mans22r",
+            "description": "Config files for my GitHub profile.",
+            "score": 3.4451801887122926,
+            "stars": 2,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Mans22r/Mans22r",
+            "updatedAt": "2024-09-04T21:54:49Z"
+        },
+        {
+            "name": "supermarket-billing-software",
+            "description": "software made for supermarket owners and small shops with multiple employees",
+            "score": 2.4065611715597264,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mans22r/supermarket-billing-software",
+            "updatedAt": "2024-03-26T11:54:01Z"
+        },
+        {
+            "name": "ProtoWeb",
+            "description": null,
+            "score": 2.270934739419482,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mans22r/ProtoWeb",
+            "updatedAt": "2022-11-22T18:08:59Z"
+        },
+        {
+            "name": "drum_pad",
+            "description": null,
+            "score": 1.4596079681941885,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mans22r/drum_pad",
+            "updatedAt": "2022-10-01T16:37:28Z"
+        },
+        {
+            "name": "S4_IV",
+            "description": null,
+            "score": 1.4593083235734945,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Mans22r/S4_IV",
+            "updatedAt": "2022-10-01T16:37:28Z"
+        },
+        {
+            "name": "3_in_1_website",
+            "description": null,
+            "score": 1.4566190413900597,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mans22r/3_in_1_website",
+            "updatedAt": "2022-10-31T17:13:11Z"
+        },
+        {
+            "name": "ShapeAI_Bootcamp_BWD",
+            "description": null,
+            "score": 1.4560132576533393,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Mans22r/ShapeAI_Bootcamp_BWD",
+            "updatedAt": "2021-09-08T08:05:36Z"
+        }
+    ],
+    "followers": 19,
+    "following": 37,
+    "public_repos": 83,
+    "pull_requests_merged": 16,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 492,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Mans22r"
+        }
+    ],
+    "activity_summary": {
+        "selmanfariz18/Hacktoberfest_01": {
+            "link": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "summary": "The Hacktoberfest_01 repository has recently experienced significant activity, with multiple pull requests and push events occurring over the past two weeks. Updates to the README.md and index.html files have been made, along with other changes to the repository. The activity suggests ongoing development and contributions to the project, with a focus on refining and improving the existing codebase."
+        }
+    },
+    "profile_summary": "Mansoor Majeed is a highly skilled developer with a strong foundation in programming languages such as C, Python, and Dart. With a professional network of 19 followers and an impressive collection of 83 public repositories, Mansoor has established himself as a reliable and innovative developer in the industry. His expertise in these technical areas enables him to design, develop, and deploy efficient software solutions that cater to the needs of various clients and projects. As a dedicated professional, Mansoor continuously updates his skills to stay abreast of the latest developments in the field, ensuring that his work remains relevant and effective.\n\nAs a seasoned developer, Mansoor brings a unique value proposition to the table, combining technical expertise with a passion for innovation and collaboration. His extensive experience in developing software applications using C, Python, and Dart has equipped him with the skills to tackle complex projects and deliver high-quality results. With his strong online presence and active engagement in the development community, Mansoor is well-positioned to collaborate with other professionals and contribute to the advancement of the field. His work is characterized by attention to detail, creativity, and a commitment to excellence, making him a valuable asset to any project or organization."
+}

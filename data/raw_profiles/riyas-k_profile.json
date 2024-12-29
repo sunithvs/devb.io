@@ -1,0 +1,134 @@
+{
+    "username": "riyas-k",
+    "name": "Riyaz k",
+    "bio": "Mernstack-Developer | Next-js|docker|\r\nMysql|Typescript|Angular|Mysql|Graphql|\r\nTypeom|Nest-js",
+    "location": "Kerala Trivandrum,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104595619?u=2b5715528a9ba5ffb8d5668eac1681d4c16af124&v=4",
+    "profile_url": "https://github.com/Riyas-k",
+    "top_languages": [
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "JavaScript",
+            38
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Pet-shop-mern",
+            "description": null,
+            "score": 4.667035242133794,
+            "stars": 3,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/Riyas-k/Pet-shop-mern",
+            "updatedAt": "2024-07-04T05:19:04Z"
+        },
+        {
+            "name": "Mtm-Ecommerce-shop",
+            "description": null,
+            "score": 4.056019417352081,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Riyas-k/Mtm-Ecommerce-shop",
+            "updatedAt": "2024-07-04T05:19:34Z"
+        },
+        {
+            "name": "Riyas-k",
+            "description": null,
+            "score": 3.4590254182580527,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Riyas-k/Riyas-k",
+            "updatedAt": "2024-07-04T05:18:55Z"
+        },
+        {
+            "name": "Personal",
+            "description": null,
+            "score": 3.444518170855,
+            "stars": 4,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Riyas-k/Personal",
+            "updatedAt": "2024-07-04T05:19:07Z"
+        },
+        {
+            "name": "Mern-pdfUploader",
+            "description": null,
+            "score": 3.0243331139671303,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Riyas-k/Mern-pdfUploader",
+            "updatedAt": "2024-07-04T05:18:58Z"
+        },
+        {
+            "name": "codeme-task",
+            "description": null,
+            "score": 3.0242241284403732,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Riyas-k/codeme-task",
+            "updatedAt": "2024-07-04T05:18:59Z"
+        },
+        {
+            "name": "Mean-todo-Angular",
+            "description": null,
+            "score": 3.0232598406541205,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Riyas-k/Mean-todo-Angular",
+            "updatedAt": "2024-07-04T05:19:02Z"
+        },
+        {
+            "name": "Weather-app-Angular",
+            "description": null,
+            "score": 3.0232598406541205,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Riyas-k/Weather-app-Angular",
+            "updatedAt": "2024-07-04T05:19:00Z"
+        }
+    ],
+    "followers": 26,
+    "following": 20,
+    "public_repos": 82,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 52,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/riyas-k-8100b0227/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://stackoverflow.com/users/18284931/riyaz"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.foundit.in/seeker/profile?application_source=organic&apop=my-profile"
+        }
+    ],
+    "activity_summary": {
+        "Next-client": {
+            "link": "https://github.com/Riyas-k/Next-client",
+            "summary": "Recent activities in the Next-client repository have been marked by a significant initial commit, laying the foundation for future development with a 'first commit' push event on December 14, 2024."
+        }
+    },
+    "profile_summary": "Riyaz k is a highly skilled and accomplished Mernstack developer with a strong proficiency in a range of cutting-edge technologies, including TypeScript, JavaScript, and CSS. With a solid foundation in full-stack development, Riyaz has built a reputation for delivering high-quality solutions that combine technical expertise with innovative thinking. As a seasoned developer with a keen interest in Next-js, Docker, and Graphql, Riyaz brings a unique blend of skills and expertise to the table, making him a valuable asset to any project or team.\n\nAs a prominent figure in the development community, Riyaz has established a strong professional network with 26 followers and an impressive portfolio of 82 public repositories, showcasing his active involvement in ongoing development projects. With expertise in Angular, MySQL, and TypeORM, Riyaz is well-equipped to tackle complex challenges and drive projects forward with confidence and precision. By leveraging his technical prowess and staying up-to-date with the latest industry trends, Riyaz consistently delivers reliable, efficient, and scalable solutions that meet the highest standards of quality and performance, solidifying his position as a high-performing and innovative professional in the field of software development."
+}

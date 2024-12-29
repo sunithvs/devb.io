@@ -1,21 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities include a pull request to fix ZSTD_readSkippableFrame with NULL dst, addressing a business logic inconsistency where the function asserts if the frame size is greater than dst capacity, even when dst is NULL."
-        },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "Recent activities involve a push event to back out a previous change that removed implicit disabling of schema const for file-relative includes, indicating a review of recent modifications to refine the repository."
-        },
         "facebook/dotslash": {
             "link": "https://github.com/facebook/dotslash",
-            "summary": "Recent activities include a push event that updates the code to use the now stable io::ErrorKind instead of raw_os_error, reflecting efforts to maintain the repository up-to-date with the latest stable features, such as those introduced in Rust 1.83.0."
-        },
-        "facebook/fbthrift": {
-            "link": "https://github.com/facebook/fbthrift",
-            "summary": "Recent activities involve a push event to back out a change related to removing implicit disabling of schema const for file-relative includes, similar to the facebook/hhvm repository, indicating a coordinated review of recent changes across related projects."
+            "summary": "Recently, the facebook/dotslash repository experienced a significant push event on December 29, 2024, which involved updating the code to utilize the stable io::ErrorKind in place of raw_os_error, aligning with Rust version 1.83.0's stable features."
         }
     },
     "profile_summary": null

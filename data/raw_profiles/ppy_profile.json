@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recent activities include the addition of native macOS image loading support, cleanup of Objective-C interop code, and enhancement of FFmpeg build to include linux-arm64 build, which improves texture loading time and adds support for Ubuntu and non-Ubuntu build hosts."
+            "summary": "The osu-framework repository has seen recent activity with multiple pull requests. These include adding native macOS image loading support, which improves texture loading time significantly, cleaning up Objective-C interop code by reorganizing methods and using more convenient constructors, and adding linux-arm64 build support for FFmpeg, enhancing cross-compiling capabilities."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities involve updates to the `MWC 7K 2025` team listing and rules, including adjustments to Round of 24-related rules to mention Round of 32, addition of initial team listings for eligible countries, and refinement of tournament-related information and links."
+            "summary": "The osu-wiki repository has experienced updates related to the MWC 7K 2025 tournament. Changes include updating team listings, rules, and adding a full player list link. These adjustments aim to reflect the latest information and preparations for the tournament, ensuring the wiki remains a current and reliable source for osu! community events."
         }
     },
     "profile_summary": null

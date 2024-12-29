@@ -1,0 +1,138 @@
+{
+    "username": "manu-madhu",
+    "name": "Manu M",
+    "bio": "Full Stack Developer ",
+    "location": "Trivandrum",
+    "avatar_url": "https://avatars.githubusercontent.com/u/103505842?u=5b507bb91e73190f82a99f9a46d38c326c94898e&v=4",
+    "profile_url": "https://github.com/Manu-Madhu",
+    "top_languages": [
+        [
+            "JavaScript",
+            19
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "E-Commerce-App",
+            "description": "E commerce using js, node js, mongoose, ejs, html, css, bootstrap. Feature rich awesome web app design also did by my self.  if u really interested with this  don't hesitate to push a start for me.",
+            "score": 3.4727461146525473,
+            "stars": 2,
+            "forks": 1,
+            "language": "EJS",
+            "url": "https://github.com/Manu-Madhu/E-Commerce-App",
+            "updatedAt": "2024-12-02T04:32:07Z"
+        },
+        {
+            "name": "leet_code",
+            "description": "Leet code Practice ",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/leet_code",
+            "updatedAt": "2024-12-27T18:49:26Z"
+        },
+        {
+            "name": "M.div_Website",
+            "description": "M.div_Website usong react.js",
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/M.div_Website",
+            "updatedAt": "2024-12-09T10:02:53Z"
+        },
+        {
+            "name": "react-speaker-",
+            "description": "react-speaker ",
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/react-speaker-",
+            "updatedAt": "2024-09-27T22:34:46Z"
+        },
+        {
+            "name": "Flutter-Learning",
+            "description": "Flutter Learning app",
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Manu-Madhu/Flutter-Learning",
+            "updatedAt": "2024-09-09T19:50:41Z"
+        },
+        {
+            "name": "YFLY_Development-",
+            "description": "YFLY_Development ",
+            "score": 0.294478515998375,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/YFLY_Development-",
+            "updatedAt": "2024-08-22T17:51:11Z"
+        },
+        {
+            "name": "KMA-Development-",
+            "description": "KMA-Development ",
+            "score": 0.2941253503849037,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/KMA-Development-",
+            "updatedAt": "2024-09-13T17:02:05Z"
+        },
+        {
+            "name": "WSO_Development",
+            "description": "WSO Development server",
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manu-Madhu/WSO_Development",
+            "updatedAt": "2024-10-31T07:16:29Z"
+        }
+    ],
+    "followers": 14,
+    "following": 8,
+    "public_repos": 50,
+    "pull_requests_merged": 73,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 675,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/manu-m-madhu/"
+        }
+    ],
+    "activity_summary": {
+        "SP_medifort_admin_side": {
+            "link": "https://github.com/QMARK-TECHNOLABS-DEV/SP_medifort_admin_side",
+            "summary": "Recent activities in the SP_medifort_admin_side repository include the addition of modal UI, preventive health CRUD, and updates to the base URL for production. Features such as health talk articles, video testimonials, and enquiry pagination have also been implemented. Furthermore, the repository has seen updates to doctor card skeleton sizes, banner management, and logo changes. The majority of the activities are focused on feature enhancements and bug fixes."
+        },
+        "Bristro_Salads": {
+            "link": "https://github.com/Manu-Madhu/Bristro_Salads",
+            "summary": "The Bristro_Salads repository has seen recent updates to its home content, subscription plans, and button components. Additionally, there have been improvements to image quality and size. These activities suggest ongoing development and refinement of the repository's content and features."
+        },
+        "leet_code": {
+            "link": "https://github.com/Manu-Madhu/leet_code",
+            "summary": "Recent activities in the leet_code repository include the removal of elements and changes to problem names. These updates indicate that the repository is being actively maintained and updated with new content and improvements."
+        },
+        "Velammal_Hospital_Frontend": {
+            "link": "https://github.com/akashmn/Velammal_Hospital_Frontend",
+            "summary": "The Velammal_Hospital_Frontend repository has seen recent activities focused on UI bug fixes and completing the UI. Although the activity level appears to be lower compared to other repositories, these updates are crucial for ensuring the stability and user experience of the frontend application."
+        }
+    },
+    "profile_summary": "Manu M is a highly skilled full stack developer with a strong foundation in JavaScript, TypeScript, and C++, bringing a unique combination of technical expertise and innovative problem-solving skills to the table. With a professional network of 14 followers and an impressive portfolio of 50 public repositories, Manu has demonstrated a consistent ability to deliver high-quality solutions and collaborate effectively with others in the development community. As a seasoned developer, Manu is well-versed in the latest industry trends and technologies, leveraging expertise in JavaScript, TypeScript, and C++ to drive projects forward and achieve exceptional results.\n\nManu's extensive experience as a full stack developer has equipped them with a deep understanding of software development principles, allowing them to design, develop, and deploy scalable, efficient, and reliable applications. With a strong focus on quality, reliability, and innovation, Manu is committed to delivering exceptional results and exceeding expectations. By combining technical prowess with a passion for learning and growth, Manu has established themselves as a trusted and influential voice in the development community, poised to make a lasting impact in the tech industry and drive success through cutting-edge solutions and collaborative partnerships."
+}

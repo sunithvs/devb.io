@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu": {
-            "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities have focused on osu!taiko gameplay balance, including changes to rhythm and stamina mechanics. Pull requests have introduced new penalties for repeated rhythm patterns, rebalanced star ratings and performance points, and modified stamina bonuses for consecutive notes."
-        },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities have included updates to the wiki, such as the addition of a new article for the ANZT6W tournament and translations for the 'Game mode' section. The contributions aim to improve the documentation and accessibility of the osu! wiki."
+            "summary": "The osu! wiki repository has seen significant activity, with multiple pull requests focused on adding new tournament articles, updating existing game mode documentation, and retranslating content. One notable contribution includes the addition of an article for the ANZT6W tournament, while another aims to update and retranslate the 'Game mode' section. These changes are being tested against the contribution checklist and are awaiting review."
+        },
+        "ppy/osu": {
+            "link": "https://github.com/ppy/osu",
+            "summary": "The osu! repository has experienced substantial activity, centered around enhancements to the osu!taiko game mode. Recent pull requests have introduced considerations for rhythm changes, rebalanced star ratings and performance points, and implemented stamina balancing. These updates are designed to improve the gameplay experience and provide a more nuanced difficulty assessment, with changes including increased multipliers for rhythm and stamina, as well as bonuses for consecutive notes."
         },
         "ppy/SDL3-CS": {
             "link": "https://github.com/ppy/SDL3-CS",
-            "summary": "Recent activities have included updates to the bindings, such as adding pen support for iOS and Android, and removing outdated files. These changes aim to improve the functionality and compatibility of the SDL3-CS project."
+            "summary": "The SDL3-CS repository has seen activity with a recent pull request focused on updating bindings. This update incorporates pen support for both iOS and Android, leveraging changes from the SDL library, and removes an outdated file. The update is awaiting integration with the osu!framework, pending the release of a new package."
         }
     },
     "profile_summary": null

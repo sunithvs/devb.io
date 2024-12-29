@@ -1,0 +1,121 @@
+{
+    "username": "tahir-kali",
+    "name": "Tahir Rahimi",
+    "bio": "Coding is life",
+    "location": "Dushanbe, Tajikistan",
+    "avatar_url": "https://avatars.githubusercontent.com/u/32597047?u=3b3709e8fc2257986672309158a71a4fa038912e&v=4",
+    "profile_url": "https://github.com/tahir-kali",
+    "top_languages": [
+        [
+            "Go",
+            5
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Kotlin",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "laravel_notes",
+            "description": null,
+            "score": 1.5434522399989086,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tahir-kali/laravel_notes",
+            "updatedAt": "2023-05-31T06:38:01Z"
+        },
+        {
+            "name": "category_package",
+            "description": null,
+            "score": 1.5432826726644133,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tahir-kali/category_package",
+            "updatedAt": "2023-05-31T06:38:07Z"
+        },
+        {
+            "name": "file_module",
+            "description": null,
+            "score": 1.5432826726644133,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/file_module",
+            "updatedAt": "2023-05-31T06:38:07Z"
+        },
+        {
+            "name": "advertisement_package",
+            "description": null,
+            "score": 1.5432405191684933,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/advertisement_package",
+            "updatedAt": "2023-05-31T06:38:09Z"
+        },
+        {
+            "name": "index",
+            "description": null,
+            "score": 1.5431984602418913,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/index",
+            "updatedAt": "2023-05-31T06:38:11Z"
+        },
+        {
+            "name": "modular_app",
+            "description": null,
+            "score": 1.543114624582722,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/modular_app",
+            "updatedAt": "2023-05-31T06:38:04Z"
+        },
+        {
+            "name": "acm_project",
+            "description": null,
+            "score": 1.5429895709586807,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/acm_project",
+            "updatedAt": "2023-05-31T06:38:13Z"
+        },
+        {
+            "name": "onion_architecture",
+            "description": null,
+            "score": 1.54294807156413,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/tahir-kali/onion_architecture",
+            "updatedAt": "2023-05-31T06:38:14Z"
+        }
+    ],
+    "followers": 7,
+    "following": 52,
+    "public_repos": 45,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3611,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "tahir-kali/proto-buffs": {
+            "link": "https://github.com/tahir-kali/proto-buffs",
+            "summary": "Recent activities in the tahir-kali/proto-buffs repository include a push event that occurred on November 30, 2024, where a file named 'default.json' was deleted, indicating repository maintenance and cleanup."
+        }
+    },
+    "profile_summary": "Tahir Rahimi is a highly skilled developer with a strong foundation in programming languages such as Go, TypeScript, and Kotlin. With a passion for coding that drives his professional pursuit, he has established himself as a reliable and innovative expert in his field. His extensive experience and dedication to staying up-to-date with the latest technologies have enabled him to deliver high-quality solutions that meet the evolving needs of the industry. As a consistent contributor to open-source development, Tahir has built a network of like-minded professionals, with 7 followers who value his technical insights and expertise.\n\nWith a portfolio of 45 public repositories, Tahir demonstrates his commitment to active development and collaboration. His expertise in Go, TypeScript, and Kotlin has allowed him to tackle complex projects with ease, making him a valuable asset to any development team. As a seasoned developer who embodies the mantra \"coding is life,\" Tahir brings a unique perspective and energy to his work, consistently pushing the boundaries of what is possible. With his technical prowess, professional achievements, and passion for innovation, Tahir is well-positioned to drive success in his field, and his online presence is a testament to his skills and dedication to the craft of software development."
+}

@@ -1,25 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/create-react-app": {
-            "link": "https://github.com/facebook/create-react-app",
-            "summary": "Recent activities include two pull requests titled 'test ci', submitted on 2024-12-29, indicating ongoing development and testing efforts in the repository, with contributors providing clear instructions and documentation for their changes."
-        },
         "facebook/zstd": {
             "link": "https://github.com/facebook/zstd",
-            "summary": "A recent pull request, submitted on 2024-12-29, aims to clarify documentation for Frame-level methods invoked on a skippable frame, following a discussion at issue #4226, demonstrating the community's focus on improving documentation and collaboration."
+            "summary": "Recent activities in the zstd repository include a push event and a pull request event, both of which aim to clarify documentation for Frame-level methods invoked on a skippable frame, with discussions and fixes related to issue #4226 and pull request #4227."
         },
-        "facebook/lexical": {
-            "link": "https://github.com/facebook/lexical",
-            "summary": "A recent pull request, submitted on 2024-12-29, fixes a typo in the README.md file, titled 'Documentation: Fix typo \"nest an\"->\"a\" in README.md', showcasing the community's attention to detail and commitment to maintaining high-quality documentation."
+        "facebook/react-native-website": {
+            "link": "https://github.com/facebook/react-native-website",
+            "summary": "The react-native-website repository saw a push event and a pull request event focused on fixing typos in the Fabric Native Components Introduction, as detailed in issue #4408, demonstrating ongoing efforts to refine and polish the documentation."
         },
-        "facebook/hhvm": {
-            "link": "https://github.com/facebook/hhvm",
-            "summary": "A push event occurred on 2024-12-29, updating submodules and referencing a commit in the fb303 repository, indicating ongoing maintenance and updates to the repository's dependencies and subprojects."
-        },
-        "facebook/openr": {
-            "link": "https://github.com/facebook/openr",
-            "summary": "A push event took place on 2024-12-29, updating submodules and referencing a commit in the fb303 repository, highlighting the repository's ongoing maintenance and updates to its dependencies and subprojects."
+        "facebook/docusaurus": {
+            "link": "https://github.com/facebook/docusaurus",
+            "summary": "In the docusaurus repository, a significant pull request event was initiated, adding support for Bun by enabling the passing of 'bun' to the npm-to-yarn converter, with thorough documentation of the change, including a test plan and links to relevant deploy previews, enhancing the platform's compatibility and functionality."
         }
     },
     "profile_summary": null

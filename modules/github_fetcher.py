@@ -37,6 +37,16 @@ class GitHubProfileFetcher:
                         following {{
                           totalCount
                         }}
+                        repository(name: "{username}") {{
+                          object(expression: "HEAD:README.md") {{
+                            ... on Blob {{
+                              text
+                            }}
+                          }}
+                          defaultBranchRef {{
+                            name
+                          }}
+                        }}
                         repositories(first: 100, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
                           totalCount
                           nodes {{
@@ -133,7 +143,8 @@ class GitHubProfileFetcher:
                     'total_contributions': graphql_data['contributionsCollection']['contributionCalendar']['totalContributions'],
                     'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
                 },
-                'social_accounts': GitHubProfileFetcher.social_accounts(username)
+                'social_accounts': GitHubProfileFetcher.social_accounts(username),
+                'readme_content' : graphql_data.get('repository', {}).get('object', {}).get('text') or '',    # empty string if flasy values
             }
 
         except requests.exceptions.HTTPError as e:

@@ -3,23 +3,23 @@
     "activity_summary": {
         "FOSSEE/scilab_case_study_hackathon": {
             "link": "https://github.com/FOSSEE/scilab_case_study_hackathon",
-            "summary": "Recent activities in the scilab_case_study_hackathon repository include multiple push events with content updates, addition of meta keywords, and new logos. Additionally, there were pull request events for adding new logos, and updates to various pages such as Home, problem-statement, evaluation, and resources. These updates indicate ongoing development and maintenance efforts to enhance the repository's content and functionality."
+            "summary": "Recent activities on this repository include multiple push events with updates to the content, including date content updates, added meta keywords, new logos, and updated home page, problem statement, evaluation, and resources page content."
         },
         "FOSSEE/Common-Interface-Project": {
             "link": "https://github.com/FOSSEE/Common-Interface-Project",
-            "summary": "The Common-Interface-Project repository has seen recent activities including push events for code cleanup, updates to ExplicitLink, and xsl files to resolve geometry point value differences. There were also pull request events related to these updates, demonstrating active collaboration and refinement of the project's codebase to improve its functionality and accuracy."
+            "summary": "The repository has seen significant activity with push events focused on code cleanup and updates to xsl files for geometry point values, as well as pull requests for updating xsl files and xmlparser files, indicating ongoing development and refinement of the project."
         },
         "FOSSEE/fossee-banners": {
             "link": "https://github.com/FOSSEE/fossee-banners",
-            "summary": "Activities in the fossee-banners repository include push events for updating banner links and adding a new banner for the scilab hackathon, accompanied by pull request events. These actions suggest efforts to keep the repository's content fresh and relevant, particularly in relation to promoting events like the scilab hackathon."
+            "summary": "Recent updates to this repository include the addition of a new banner for the scilab hackathon and updates to the link of an existing banner, highlighting the repository's role in maintaining visual and promotional content for FOSSEE projects."
         },
         "FOSSEE/certificate-generator": {
             "link": "https://github.com/FOSSEE/certificate-generator",
-            "summary": "The certificate-generator repository has seen a recent push event for adding Arduino Workshop Certificates, indicating an update to the types of certificates the repository can generate, likely in response to specific workshop or event needs."
+            "summary": "A recent push event added Arduino Workshop Certificates, demonstrating the repository's functionality in generating certificates for various workshops and events, contributing to the organizational and administrative aspects of FOSSEE's activities."
         },
         "FOSSEE/scilab_case_study_portal": {
             "link": "https://github.com/FOSSEE/scilab_case_study_portal",
-            "summary": "In the scilab_case_study_portal repository, there was a push event to add descriptions under project titles, directly added from GitHub, showing a minor but notable update to enhance the portal's informational content and user experience."
+            "summary": "The repository saw a push event that added a description under the project title, directly from GitHub, indicating ongoing efforts to enhance and detail project descriptions within the portal."
         }
     },
     "profile_summary": null

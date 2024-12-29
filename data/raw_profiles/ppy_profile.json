@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-framework": {
-            "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recent activities include the submission of three significant pull requests. The first pull request focuses on adding linux-arm64 build support for FFmpeg, allowing for the creation of ARM binaries without the need for emulation. The second pull request aims to enhance texture loading times by a magnitude through native macOS image loading support. The third pull request involves cleanup and optimization of Objective-C interop code, including the relocation of NSString and NSImage conversion methods and the utilization of LibraryImport instead of DllImport."
-        },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities involve updates to the MWC 7K 2025 team listing and rules. A push event incorporated changes including the update of team listings, the addition of a full player list link, the removal of duplicated headings, and the modification of the sign-up link. Associated pull requests also adjusted Round of 24-related rules to reference the Round of 32 and added initial team listings for eligible countries, contributing to the ongoing maintenance and improvement of the osu-wiki repository."
+            "summary": "Recent activities in the osu-wiki repository include updates to the `MWC 7K 2025` team listing and rules, as well as translations and testing of game mode documentation. These changes aim to improve the accuracy and completeness of the wiki content, with multiple pull requests being submitted and merged to implement the updates."
+        },
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "The osu-framework repository has seen significant activity with multiple pull requests focused on improving the build and functionality of the framework. These include adding linux-arm64 build support, native macOS image loading, and cleanup of Objective-C interop code. These changes aim to enhance the performance, compatibility, and maintainability of the framework."
         }
     },
     "profile_summary": null

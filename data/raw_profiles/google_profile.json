@@ -1,13 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/Xee": {
-            "link": "https://github.com/google/Xee",
-            "summary": "Recent activities in the google/Xee repository involved internal changes, with a push event and a pull request event recorded on December 29, 2024, indicating ongoing development and collaborative efforts."
-        },
         "google/or-tools": {
             "link": "https://github.com/google/or-tools",
-            "summary": "The google/or-tools repository witnessed significant activity on December 29, 2024, with multiple push events focused on working on pdlp and fixing issues related to CP-SAT, demonstrating active maintenance and enhancement of the project."
+            "summary": "Recent activities in the google/or-tools repository involve multiple push events focused on improving memory management of the python layer in CP-SAT, ensuring the system properly fails with None arguments and enhancing overall performance and reliability."
+        },
+        "google/fonts": {
+            "link": "https://github.com/google/fonts",
+            "summary": "The google/fonts repository saw a significant pull request event introducing the Stone Harmony Sans typeface, designed to blend geometric precision with elegant curves, ideal for corporate branding, wordmarks, logos, and typography design requiring a modern and professional aesthetic."
+        },
+        "google/tsl": {
+            "link": "https://github.com/google/tsl",
+            "summary": "Activities in the google/tsl repository include push events implementing automated code changes, integrating LLVM updates, and removing dependencies such as libdoubleconversion from TensorFlow, enhancing the repository's efficiency and compatibility."
+        },
+        "google/Xee": {
+            "link": "https://github.com/google/Xee",
+            "summary": "A pull request event in the google/Xee repository aimed to add an argument for generating ee credentials on-demand, enhancing flexibility and usability."
+        },
+        "google/oss-fuzz": {
+            "link": "https://github.com/google/oss-fuzz",
+            "summary": "The google/oss-fuzz repository witnessed a pull request event focused on the initial integration of grass-addons, marking a collaborative effort to expand the repository's capabilities and test coverage."
         }
     },
     "profile_summary": null

@@ -1,18 +1,4 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
-    "activity_summary": {
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities include a push event with three commits: a portability fix for the -z noexecstack option, a merge pull request for ZSTD_compressSequencesAndLiterals, and an initial implementation for sequence and literal compression, which remains incomplete and requires handling of long lengths greater than 65535."
-        },
-        "facebook/react": {
-            "link": "https://github.com/facebook/react",
-            "summary": "A recent pull request aims to fix the scroll event type, which is currently identified as an Event instead of UIEvent, with references to relevant documentation from Mozilla and the CSS Working Group, as well as a specific line of code in the react-dom-bindings package that requires updating."
-        },
-        "facebook/Ax": {
-            "link": "https://github.com/facebook/Ax",
-            "summary": "A push event updated the site to its latest version, indicating ongoing maintenance and development efforts to ensure the project remains current and functional."
-        }
-    },
     "profile_summary": null
 }

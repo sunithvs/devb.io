@@ -1,0 +1,142 @@
+{
+    "username": "adil9645",
+    "name": "A S Adil Mohammad",
+    "bio": "",
+    "location": "kochi,Ernakulam,Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100154531?u=cdcd5785f25030da5bb0067a156e2cc4e521f30a&v=4",
+    "profile_url": "https://github.com/Adil9645",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "Shell",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Adil9645",
+            "description": null,
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Adil9645/Adil9645",
+            "updatedAt": "2024-09-04T11:04:54Z"
+        },
+        {
+            "name": "project",
+            "description": null,
+            "score": 0.28854493731138137,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/project",
+            "updatedAt": "2024-07-01T17:07:40Z"
+        },
+        {
+            "name": "Vessel",
+            "description": null,
+            "score": 0.2730717679880512,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/Vessel",
+            "updatedAt": "2024-05-01T06:19:27Z"
+        },
+        {
+            "name": "gpt3",
+            "description": null,
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Adil9645/gpt3",
+            "updatedAt": "2024-03-30T06:36:44Z"
+        },
+        {
+            "name": "socket",
+            "description": null,
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/socket",
+            "updatedAt": "2024-03-23T10:06:36Z"
+        },
+        {
+            "name": "currency-converter",
+            "description": null,
+            "score": 0.2642355212587587,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/currency-converter",
+            "updatedAt": "2024-03-13T12:33:32Z"
+        },
+        {
+            "name": "rock-paper-scissor-game",
+            "description": null,
+            "score": 0.2642355212587587,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/rock-paper-scissor-game",
+            "updatedAt": "2024-03-13T12:47:50Z"
+        },
+        {
+            "name": "igbc-cusat-website",
+            "description": null,
+            "score": 0.25435999020339595,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil9645/igbc-cusat-website",
+            "updatedAt": "2023-12-31T15:07:15Z"
+        }
+    ],
+    "followers": 4,
+    "following": 4,
+    "public_repos": 27,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 64,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/a.d.i.l_m.o.h.d/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/a-s-adil-mohammad-a6a654271/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/AdilMohd07"
+        }
+    ],
+    "activity_summary": {
+        "sindhupr11/rockett": {
+            "link": "https://github.com/sindhupr11/rockett",
+            "summary": "Recent activities in this repository include a series of push events that involved updates to the frontend, translations, and general code changes, indicating ongoing development and maintenance efforts."
+        },
+        "IEDC-CUSAT/iedc-site": {
+            "link": "https://github.com/IEDC-CUSAT/iedc-site",
+            "summary": "This repository has seen updates related to events and general code modifications, suggesting that the project is being actively worked on, with a focus on incorporating new features and improving existing functionalities."
+        },
+        "Adil9645/iedc-site": {
+            "link": "https://github.com/Adil9645/iedc-site",
+            "summary": "The repository has experienced a push event related to code changes, indicating some level of activity, although the scope of these changes is currently limited compared to other repositories listed."
+        }
+    },
+    "profile_summary": "A S Adil Mohammad is a proficient developer with a strong foundation in JavaScript, Shell, and CSS, bringing a unique combination of technical skills and expertise to the table. With a notable presence on GitHub, Adil has built a professional network of followers and actively contributes to the development community through his 27 public repositories. His technical proficiencies are complemented by a keen eye for innovation, allowing him to craft creative solutions to complex problems. As a skilled programmer, Adil is well-versed in leveraging his expertise to drive projects forward and deliver high-quality results.\n\nAdil's professional achievements and dedication to his craft have earned him a reputation as a reliable and skilled developer. With a focus on delivering exceptional work, he consistently applies his expertise to drive innovation and excellence in his projects. His passion for coding and commitment to staying up-to-date with industry trends make him an invaluable asset to any development team. By combining technical prowess with a collaborative mindset, Adil is poised to make significant contributions to the development community, and his work is a testament to his ability to drive progress and achieve outstanding results."
+}

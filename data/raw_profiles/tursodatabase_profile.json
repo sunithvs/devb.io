@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "There have been significant updates to the repository recently, including improvements to subquery coroutines, code cleanup to utilize 'Self' where possible, and the introduction of generic functions. Multiple pull requests have been merged, addressing issues such as commit cargo lock changes and enhancements to the uuid4 function. The repository has seen a flurry of push events, indicating active development and refinement of its core functionalities."
+            "summary": "Recent activities in the tursodatabase/limbo repository involve multiple push events, addressing various code improvements and bug fixes, including handling LIMIT in subquery coroutines, reworking termination_label_stack, and introducing generic functions. Additionally, there were efforts to clean up code, commit cargo lock changes, and merge pull requests, demonstrating active development and maintenance of the repository."
         }
     },
     "profile_summary": null

@@ -1,9 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/react": {
+            "link": "https://github.com/facebook/react",
+            "summary": "Recent activities in the facebook/react repository include a push event and a pull request event, both focused on fixing issues related to Compiler integration tests and version compatibility, specifically addressing a TypeError with an invalid version."
+        },
+        "facebook/react-native-website": {
+            "link": "https://github.com/facebook/react-native-website",
+            "summary": "The facebook/react-native-website repository saw a pull request event aimed at improving the quality of the documentation by fixing typos in the Fabric Native Components Introduction, enhancing the overall readability and accuracy of the content."
+        },
         "facebook/rocksdb": {
             "link": "https://github.com/facebook/rocksdb",
-            "summary": "Recent activities in the facebook/rocksdb repository include a pull request to remove an unused variable `number_of_files_to_sort_` which has been replaced by `kNumberFilesToSort`, improving code quality and reducing unnecessary complexity."
+            "summary": "In the facebook/rocksdb repository, a pull request event was initiated to remove an unused variable named `number_of_files_to_sort_`, which is not utilized in the code, with the actual variable in use being `kNumberFilesToSort`, thus refining the codebase by eliminating redundant elements."
         }
     },
     "profile_summary": null

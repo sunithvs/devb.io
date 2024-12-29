@@ -3,15 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities include significant updates to osu!taiko, focusing on rhythm penalty considerations, star rating and performance points rebalancing, and stamina balancing. These changes aim to enhance gameplay experience by introducing more nuanced difficulty calculations and rewards for players."
+            "summary": "Recent activities have focused on osu!taiko gameplay balance, including changes to rhythm and stamina mechanics. Pull requests have introduced new penalties for repeated rhythm patterns, rebalanced star ratings and performance points, and modified stamina bonuses for consecutive notes."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The repository has seen notable updates with the addition of tournament articles, such as the ANZT6W tournament, and retranslations of game mode text. These contributions improve the wiki's coverage of osu! community events and enhance its multilingual support."
+            "summary": "Recent activities have included updates to the wiki, such as the addition of a new article for the ANZT6W tournament and translations for the 'Game mode' section. The contributions aim to improve the documentation and accessibility of the osu! wiki."
         },
         "ppy/SDL3-CS": {
             "link": "https://github.com/ppy/SDL3-CS",
-            "summary": "Recent activity involves updating bindings to include pen support for iOS and Android, leveraging developments from the SDL library. This update also removes unnecessary files, positioning the project for future compatibility and framework integration."
+            "summary": "Recent activities have included updates to the bindings, such as adding pen support for iOS and Android, and removing outdated files. These changes aim to improve the functionality and compatibility of the SDL3-CS project."
         }
     },
     "profile_summary": null

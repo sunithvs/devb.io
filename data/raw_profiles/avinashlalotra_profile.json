@@ -1,0 +1,138 @@
+{
+    "username": "avinashlalotra",
+    "name": "Abinash Singh",
+    "bio": "",
+    "location": "KOCHI ,INDIA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/162575828?v=4",
+    "profile_url": "https://github.com/avinashlalotra",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Makefile",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PerformanceOptimization",
+            "description": "A Guide to Performance Optimization",
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/avinashlalotra/PerformanceOptimization",
+            "updatedAt": "2024-12-19T15:07:43Z"
+        },
+        {
+            "name": "Rootfs",
+            "description": "This project demonstrates the manual build process of the Linux kernel and root filesystem (rootfs) using BusyBox. The objective is to create a minimal, efficient Linux system suitable for embedded or resource-constrained environments by compiling the Linux kernel and constructing a root filesystem with essential utilities provided by BusyBox",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/avinashlalotra/Rootfs",
+            "updatedAt": "2024-12-07T14:16:40Z"
+        },
+        {
+            "name": "SLANG",
+            "description": "This project is about building a compiler  . The study of the pratice and principles of compiler building embodies many important computer-science concepts such as software engineering , algorithims , computer architecture , data structures and the theory of languages and grammers ",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/avinashlalotra/SLANG",
+            "updatedAt": "2024-12-07T14:02:59Z"
+        },
+        {
+            "name": "esim_ubuntu_installation",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/avinashlalotra/esim_ubuntu_installation",
+            "updatedAt": "2024-12-01T11:24:21Z"
+        },
+        {
+            "name": "RaazOS",
+            "description": "A custom os written from scratch for educational purpose",
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/avinashlalotra/RaazOS",
+            "updatedAt": "2024-12-07T13:51:06Z"
+        },
+        {
+            "name": "avinashlalotra",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/avinashlalotra/avinashlalotra",
+            "updatedAt": "2024-11-30T15:47:11Z"
+        },
+        {
+            "name": "tinyserver",
+            "description": "TiNySeRvEr is a tiny but functional Web server that can server both static and dynamic content with text and graphics to real Web browsers.",
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/avinashlalotra/tinyserver",
+            "updatedAt": "2024-12-07T14:01:48Z"
+        },
+        {
+            "name": "Signal-processing-toolkit-devlopment-",
+            "description": null,
+            "score": 0.26344758823084113,
+            "stars": 0,
+            "forks": 0,
+            "language": "Scilab",
+            "url": "https://github.com/avinashlalotra/Signal-processing-toolkit-devlopment-",
+            "updatedAt": "2024-09-19T18:07:10Z"
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 20,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 426,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abinash-singh-809b89280"
+        }
+    ],
+    "activity_summary": {
+        "cu-ecen-aeld/assignment-4-avinashlalotra": {
+            "link": "https://github.com/cu-ecen-aeld/assignment-4-avinashlalotra",
+            "summary": "This repository has experienced significant activity in the last few days, with multiple push events occurring on December 26, 2024. Changes include running the build as a non-root user, modifying the root password, adding a config file, and cleaning the repository. These updates suggest ongoing development and maintenance efforts."
+        },
+        "cu-ecen-aeld/assignments-3-and-later-avinashlalotra": {
+            "link": "https://github.com/cu-ecen-aeld/assignments-3-and-later-avinashlalotra",
+            "summary": "Recent activity in this repository includes push events on December 26, 2024, where updates were made to add assignment 4 results, remove a make command, and record todos. These changes indicate active development and progress on the assignments."
+        },
+        "avinashlalotra/Rootfs": {
+            "link": "https://github.com/avinashlalotra/Rootfs",
+            "summary": "Although the most recent activities in this repository date back to December 7, 2024, they are significant, including the creation of build.sh, Readme.md, and c-cpp.yml files. These additions suggest initial setup and configuration of the Rootfs project."
+        },
+        "avinashlalotra/PerformanceOptimization": {
+            "link": "https://github.com/avinashlalotra/PerformanceOptimization",
+            "summary": "This repository saw a notable push event on December 19, 2024, with the creation of a Readme.md file, indicating initial documentation and potentially the beginning of performance optimization efforts."
+        }
+    },
+    "profile_summary": "Abinash Singh is a highly skilled developer with expertise in C, Python, and Makefile, bringing a strong technical foundation to the table. With a growing professional network of 2 followers, Abinash has established himself as a reliable and innovative presence in the development community. His impressive portfolio of 20 public repositories showcases his active engagement in various projects, demonstrating a high level of proficiency and dedication to his craft. As a seasoned developer, Abinash possesses a unique ability to craft efficient, scalable solutions that meet the needs of complex projects, leveraging his technical expertise to drive success.\n\nWith a strong focus on delivering high-quality results, Abinash has built a reputation as a meticulous and results-driven professional, consistently pushing the boundaries of what is possible with code. His expertise in C, Python, and Makefile enables him to tackle a wide range of challenges, from systems programming to data analysis and automation. As a forward-thinking developer, Abinash stays up-to-date with the latest industry trends and best practices, ensuring that his skills remain relevant and in-demand. With his technical prowess, collaborative mindset, and passion for innovation, Abinash is an invaluable asset to any development team, poised to drive success and deliver exceptional results in his future endeavors."
+}

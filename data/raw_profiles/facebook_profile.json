@@ -1,9 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/dotslash": {
-            "link": "https://github.com/facebook/dotslash",
-            "summary": "Recently, the facebook/dotslash repository experienced a significant push event on December 29, 2024, which involved updating the code to utilize the stable io::ErrorKind in place of raw_os_error, aligning with Rust version 1.83.0's stable features."
+        "facebook/react": {
+            "link": "https://github.com/facebook/react",
+            "summary": "Recent activities in the facebook/react repository include a pull request to fix the scroll event type, updating it from UIEvent to Event, ensuring consistency with the official documentation from Mozilla and CSS Working Group."
+        },
+        "facebook/Ax": {
+            "link": "https://github.com/facebook/Ax",
+            "summary": "The facebook/Ax repository has seen a recent push event aimed at updating the latest version of the site, suggesting ongoing development and maintenance efforts to keep the project up to date."
         }
     },
     "profile_summary": null

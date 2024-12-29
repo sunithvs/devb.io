@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "The osu-framework repository has seen recent activity with multiple pull requests. These include adding native macOS image loading support, which improves texture loading time significantly, cleaning up Objective-C interop code by reorganizing methods and using more convenient constructors, and adding linux-arm64 build support for FFmpeg, enhancing cross-compiling capabilities."
+            "summary": "Recent activities include the submission of three significant pull requests. The first pull request focuses on adding linux-arm64 build support for FFmpeg, allowing for the creation of ARM binaries without the need for emulation. The second pull request aims to enhance texture loading times by a magnitude through native macOS image loading support. The third pull request involves cleanup and optimization of Objective-C interop code, including the relocation of NSString and NSImage conversion methods and the utilization of LibraryImport instead of DllImport."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has experienced updates related to the MWC 7K 2025 tournament. Changes include updating team listings, rules, and adding a full player list link. These adjustments aim to reflect the latest information and preparations for the tournament, ensuring the wiki remains a current and reliable source for osu! community events."
+            "summary": "Recent activities involve updates to the MWC 7K 2025 team listing and rules. A push event incorporated changes including the update of team listings, the addition of a full player list link, the removal of duplicated headings, and the modification of the sign-up link. Associated pull requests also adjusted Round of 24-related rules to reference the Round of 32 and added initial team listings for eligible countries, contributing to the ongoing maintenance and improvement of the osu-wiki repository."
         }
     },
     "profile_summary": null

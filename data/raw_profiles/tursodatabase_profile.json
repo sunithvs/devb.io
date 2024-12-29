@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository have focused on improvements to the table reference interface. On December 28, 2024, a push event introduced a better unified table reference interface, increasing the repository's overall functionality and usability. Another push event occurred on the same day, marking the removal of unused code, which contributed to codebase optimization."
+            "summary": "Recently, there have been significant activities in the repository, including multiple push events and pull requests. These activities involved code cleanups, commits of cargo lock changes, improvements to the unified table reference interface, and work on uncorrelated subqueries. Additionally, there were retries and closures of various issues, showcasing an active effort to refine and enhance the repository's codebase."
         }
     },
     "profile_summary": null

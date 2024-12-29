@@ -1,0 +1,134 @@
+{
+    "username": "abhinav-k-e",
+    "name": "Abhinav K E",
+    "bio": "I am a frontend developer with 3+ years of experience in building and delivering high-quality web applications. I am proficient in HTML, CSS, JavaScript, React,",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/109943270?u=689b6cd0b969a417841e5da9e50d4f7a9f13f8d9&v=4",
+    "profile_url": "https://github.com/Abhinav-K-E",
+    "top_languages": [
+        [
+            "JavaScript",
+            19
+        ],
+        [
+            "C++",
+            3
+        ],
+        [
+            "HTML",
+            14
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Abhinav-K-E",
+            "description": "Config files for my GitHub profile.",
+            "score": 3.4432718049355886,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Abhinav-K-E/Abhinav-K-E",
+            "updatedAt": "2024-06-19T17:41:54Z"
+        },
+        {
+            "name": "simple-calculator-using-js",
+            "description": null,
+            "score": 3.368698403656132,
+            "stars": 4,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abhinav-K-E/simple-calculator-using-js",
+            "updatedAt": "2023-04-04T16:24:10Z"
+        },
+        {
+            "name": "abhinav-k-e.github.io",
+            "description": null,
+            "score": 2.996199515016012,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abhinav-K-E/abhinav-k-e.github.io",
+            "updatedAt": "2024-01-12T18:39:57Z"
+        },
+        {
+            "name": "weather-app",
+            "description": null,
+            "score": 2.9261223734345383,
+            "stars": 3,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abhinav-K-E/weather-app",
+            "updatedAt": "2023-06-14T09:54:36Z"
+        },
+        {
+            "name": "todo_app-using-js",
+            "description": null,
+            "score": 2.9260874331500957,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/todo_app-using-js",
+            "updatedAt": "2023-04-04T16:24:00Z"
+        },
+        {
+            "name": "form-validation-using-js",
+            "description": null,
+            "score": 2.9253354425395433,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abhinav-K-E/form-validation-using-js",
+            "updatedAt": "2023-04-04T16:24:02Z"
+        },
+        {
+            "name": "Spotwatch",
+            "description": null,
+            "score": 2.9251688505922817,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abhinav-K-E/Spotwatch",
+            "updatedAt": "2023-04-04T16:24:03Z"
+        },
+        {
+            "name": "QR-code-generator",
+            "description": null,
+            "score": 2.925135718002782,
+            "stars": 3,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abhinav-K-E/QR-code-generator",
+            "updatedAt": "2023-04-04T16:24:01Z"
+        }
+    ],
+    "followers": 29,
+    "following": 36,
+    "public_repos": 56,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1339,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/abhinav.k.e/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhinavke/"
+        }
+    ],
+    "activity_summary": {
+        "merrycraft": {
+            "link": "https://github.com/Abhinav-K-E/merrycraft",
+            "summary": "The merrycraft repository has seen significant activity recently, with numerous push events focused on fixing various issues such as content, mobile responsiveness, and design. The commits include updates to the about section, hero section, and contact information, as well as the addition of new features like rules and a link. The repository has received a substantial amount of updates within a short timeframe, indicating active development and maintenance."
+        },
+        "tic-tac-game": {
+            "link": "https://github.com/Abhinav-K-E/tic-tac-game",
+            "summary": "The tic-tac-game repository has experienced recent activity, with push events focused on fixing existing issues and adding new game features. Although the number of commits is relatively low compared to other repositories, the updates demonstrate ongoing development and refinement of the game, ensuring a better user experience and functionality."
+        }
+    },
+    "profile_summary": "Abhinav K E is a highly skilled frontend developer with a strong proficiency in JavaScript, C++, and HTML, bringing over 3 years of experience in crafting and delivering top-notch web applications. With a solid foundation in React and CSS, Abhinav has established himself as a reliable and innovative developer, capable of tackling complex projects with ease. His extensive experience in building high-quality web applications has earned him a strong professional network, with 29 followers who value his technical expertise and insights. As a dedicated developer, Abhinav continues to expand his skill set, staying up-to-date with the latest industry trends and best practices.\n\nAbhinav's impressive portfolio, comprising 56 public repositories, showcases his active development efforts and commitment to collaboration and knowledge sharing. As a seasoned frontend developer, he possesses a unique ability to merge technical expertise with creative vision, resulting in engaging and user-friendly web applications. With his strong technical skills, professional achievements, and passion for innovation, Abhinav is well-positioned to drive success in his field, delivering high-quality solutions that meet and exceed client expectations. His expertise in JavaScript, HTML, and other related technologies makes him an asset to any development team, and his dedication to ongoing learning and growth ensures that he remains at the forefront of industry developments."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "aazimanish",
+    "name": "Aazim Anish",
+    "bio": "\ud83d\ude80 BTech Student @CUSAT | \ud83c\udf10 Web Development Enthusiast | \ud83c\udf1f Innovating & Collaborating | Let's create amazing things together! \ud83d\udca1\u2728 ",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/55126957?u=de42dc18429f85558f1200aa1bae7466a775640b&v=4",
+    "profile_url": "https://github.com/AazimAnish",
+    "top_languages": [
+        [
+            "TypeScript",
+            16
+        ],
+        [
+            "JavaScript",
+            21
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ProoForm",
+            "description": "A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions.",
+            "score": 4.981264437432573,
+            "stars": 5,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/AazimAnish/ProoForm",
+            "updatedAt": "2024-12-06T02:23:12Z"
+        },
+        {
+            "name": "tribespace",
+            "description": null,
+            "score": 2.582097343921689,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/AazimAnish/tribespace",
+            "updatedAt": "2023-05-05T09:43:26Z"
+        },
+        {
+            "name": "RDBMS_miniProject",
+            "description": "SAIT Academic Website - An all-in-one academic guide developed with React, CSS, HTML, JavaScript, Node.js, Express, and MySQL. Explore note sharing, learning circles, achievement gallery, events display, and connect with seniors for placement advice. Unlock your academic potential! \ud83c\udf93\ud83d\udcbb",
+            "score": 1.8037213532133591,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/AazimAnish/RDBMS_miniProject",
+            "updatedAt": "2023-07-21T14:49:54Z"
+        },
+        {
+            "name": "AISAT-ONAM",
+            "description": null,
+            "score": 1.694948250445691,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AazimAnish/AISAT-ONAM",
+            "updatedAt": "2024-10-04T08:30:33Z"
+        },
+        {
+            "name": "nextjs-supabase-shadcn-starter",
+            "description": "Nextjs, shadcn, supabase starter template with auth.",
+            "score": 1.6673228011238144,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AazimAnish/nextjs-supabase-shadcn-starter",
+            "updatedAt": "2024-12-08T15:27:27Z"
+        },
+        {
+            "name": "Meddy",
+            "description": "\ud83d\udc68\u200d\u2695\ufe0f\ud83d\udc69\u200d\u2695\ufe0f",
+            "score": 1.6547628134313512,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AazimAnish/Meddy",
+            "updatedAt": "2024-04-12T20:22:00Z"
+        },
+        {
+            "name": "Eventure",
+            "description": "A decentralized platform to create events, fund bounties, and get NFT tickets.",
+            "score": 1.3904612678196329,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/AazimAnish/Eventure",
+            "updatedAt": "2024-12-18T17:19:26Z"
+        },
+        {
+            "name": "The-HURR-project",
+            "description": "Surprise!",
+            "score": 1.3006178783565714,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/AazimAnish/The-HURR-project",
+            "updatedAt": "2024-02-27T06:00:21Z"
+        }
+    ],
+    "followers": 46,
+    "following": 43,
+    "public_repos": 79,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 642,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aazim-anish-b5871022a/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/aazim_anish"
+        }
+    ],
+    "activity_summary": {
+        "festos": {
+            "link": "https://github.com/AazimAnish/festos",
+            "summary": "Recent activities in the festos repository include several push events, with the most recent featuring the 'coming soon' and 'deploy package' updates, indicating ongoing development and deployment efforts. Multiple 'init' feature additions were also implemented, showcasing the repository's active development."
+        },
+        "Masterlist-Management-System": {
+            "link": "https://github.com/AazimAnish/Masterlist-Management-System",
+            "summary": "The Masterlist-Management-System repository has seen significant activity, with multiple push events introducing new features such as 'bom upload', 'edit option for all items', and 'item list fields'. Additionally, bug fixes like 'item list edit' were implemented, demonstrating the repository's active maintenance and enhancement."
+        },
+        "LisaAI": {
+            "link": "https://github.com/AB7zz/LisaAI",
+            "summary": "In the LisaAI repository, several push events have introduced new features and updates, including 'okto', 'zkemial UI fix', and 'zkemail integration'. A bug fix for the 'circuit' was also applied, highlighting the repository's focus on both feature development and issue resolution."
+        },
+        "devb.io": {
+            "link": "https://github.com/sunithvs/devb.io",
+            "summary": "Recent activity in the devb.io repository includes a pull request event, focusing on a bug fix that ensures a fallback to the username if the name is null, enhancing the repository's functionality and user experience. Additionally, a corresponding push event in AazimAnish's devb.io repository implemented this fix, demonstrating collaboration and issue resolution."
+        }
+    },
+    "profile_summary": "Aazim Anish is a skilled and innovative developer with a strong foundation in programming languages, including TypeScript, JavaScript, and C. As a BTech student at CUSAT, he has developed a solid understanding of computer science fundamentals and applies this knowledge to create cutting-edge solutions. With a passion for web development, Aazim is committed to delivering high-quality results and is always looking for opportunities to collaborate and innovate. His professional network is growing, with 46 followers who appreciate his technical expertise and enthusiasm for innovation.\n\nAs an active developer with 79 public repositories, Aazim has demonstrated his ability to design, develop, and deploy a wide range of projects, showcasing his technical skills and creativity. He is a team player who values collaboration and is eager to work with like-minded professionals to create amazing things. With a strong online presence and a commitment to staying up-to-date with the latest industry trends, Aazim is a reliable and skilled developer who can bring value to any project. His expertise in programming languages, combined with his passion for web development and innovation, make him a valuable asset to any team, and he is excited to contribute to new and exciting projects."
+}

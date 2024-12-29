@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
+    "activity_summary": {
+        "facebook/zstd": {
+            "link": "https://github.com/facebook/zstd",
+            "summary": "Recent activities in the facebook/zstd repository include a pull request to fix the ZSTD_readSkippableFrame function when handling a NULL destination, allowing it to correctly retrieve the frame size without asserting an error due to destination capacity."
+        },
+        "facebook/react-native-website": {
+            "link": "https://github.com/facebook/react-native-website",
+            "summary": "The facebook/react-native-website repository has seen activity with a pull request aimed at improving the documentation by fixing the indentation of the Codegen specification in the Fabric Native Components Introduction, enhancing the readability and maintainability of the site's content."
+        }
+    },
+    "profile_summary": null
+}

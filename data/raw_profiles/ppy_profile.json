@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
+    "activity_summary": {
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "Recent activities involve updates to the `MWC 7K 2025` team listing and rules, including adjustments to Round of 24-related rules, adding initial team listings for eligible countries, and creating a news post for the 3 Digit World Cup 2025 registrations. These updates demonstrate a focus on maintaining accurate and up-to-date information on the osu-wiki, reflecting ongoing efforts to support the osu! community's events and activities."
+        },
+        "ppy/osu-framework": {
+            "link": "https://github.com/ppy/osu-framework",
+            "summary": "Recent activities center around enhancements and improvements to the osu-framework, including the addition of Linux ARM64 build support for FFmpeg, native macOS image loading support to significantly improve texture loading times, and cleanup of Objective-C interop code for better organization and efficiency. These contributions highlight the ongoing development and refinement of the osu-framework to enhance performance and functionality across different platforms."
+        }
+    },
+    "profile_summary": null
+}

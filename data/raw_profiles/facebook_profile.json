@@ -1,13 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/hhvm": {
+            "link": "https://github.com/facebook/hhvm",
+            "summary": "Recent activities on the hhvm repository involve a push event that occurred on December 29, 2024, which included a change that backed out a previous diff related to the removal of implicit disabling of schema const for file-relative includes."
+        },
+        "facebook/fbthrift": {
+            "link": "https://github.com/facebook/fbthrift",
+            "summary": "The fbthrift repository saw a recent push event on December 29, 2024, that involved backing out a previous diff related to the removal of implicit disabling of schema const for file-relative includes, indicating ongoing development and refinement of the repository's codebase."
+        },
         "facebook/zstd": {
             "link": "https://github.com/facebook/zstd",
-            "summary": "Recent activities in the facebook/zstd repository include a pull request to fix the ZSTD_readSkippableFrame function when handling a NULL destination, allowing it to correctly retrieve the frame size without asserting an error due to destination capacity."
-        },
-        "facebook/react-native-website": {
-            "link": "https://github.com/facebook/react-native-website",
-            "summary": "The facebook/react-native-website repository has seen activity with a pull request aimed at improving the documentation by fixing the indentation of the Codegen specification in the Fabric Native Components Introduction, enhancing the readability and maintainability of the site's content."
+            "summary": "A recent pull request event on the zstd repository, which occurred on December 29, 2024, aimed to fix the ZSTD_readSkippableFrame function when handling a NULL destination, including a test plan to verify the functionality of reading a skippable frame with a NULL destination."
         }
     },
     "profile_summary": null

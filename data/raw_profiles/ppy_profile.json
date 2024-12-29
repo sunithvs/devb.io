@@ -3,11 +3,11 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities involve updates to the `MWC 7K 2025` team listing and rules, including adjustments to Round of 24-related rules, adding initial team listings for eligible countries, and creating a news post for the 3 Digit World Cup 2025 registrations. These updates demonstrate a focus on maintaining accurate and up-to-date information on the osu-wiki, reflecting ongoing efforts to support the osu! community's events and activities."
+            "summary": "The osu-wiki repository has seen significant updates, focusing on the MWC 7K 2025 tournament. Recent activities include updating team listings and rules, adding a full player list link, and removing duplicated headings. Additionally, a news post for the 3 Digit World Cup 2025 has been added, including registration links, banner images, and forum thread links. These updates aim to enhance the overall organization and accessibility of information related to osu-wiki tournaments."
         },
         "ppy/osu-framework": {
             "link": "https://github.com/ppy/osu-framework",
-            "summary": "Recent activities center around enhancements and improvements to the osu-framework, including the addition of Linux ARM64 build support for FFmpeg, native macOS image loading support to significantly improve texture loading times, and cleanup of Objective-C interop code for better organization and efficiency. These contributions highlight the ongoing development and refinement of the osu-framework to enhance performance and functionality across different platforms."
+            "summary": "The osu-framework repository has experienced notable activities, including the addition of native macOS image loading support, which significantly improves texture loading times. Other updates involve cleaning up Objective-C interop code, enhancing maintainability, and introducing linux-arm64 build support for FFmpeg. These developments contribute to the overall performance and compatibility of the osu-framework, particularly in terms of cross-platform support and efficiency."
         }
     },
     "profile_summary": null

@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
+    "activity_summary": {
+        "google/Xee": {
+            "link": "https://github.com/google/Xee",
+            "summary": "Recent activities in the google/Xee repository involved internal changes, with a push event and a pull request event recorded on December 29, 2024, indicating ongoing development and collaborative efforts."
+        },
+        "google/or-tools": {
+            "link": "https://github.com/google/or-tools",
+            "summary": "The google/or-tools repository witnessed significant activity on December 29, 2024, with multiple push events focused on working on pdlp and fixing issues related to CP-SAT, demonstrating active maintenance and enhancement of the project."
+        }
+    },
+    "profile_summary": null
+}

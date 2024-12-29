@@ -1,17 +1,21 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/zstd": {
+            "link": "https://github.com/facebook/zstd",
+            "summary": "Recent activities include a pull request to fix ZSTD_readSkippableFrame with NULL dst, addressing a business logic inconsistency where the function asserts if the frame size is greater than dst capacity, even when dst is NULL."
+        },
         "facebook/hhvm": {
             "link": "https://github.com/facebook/hhvm",
-            "summary": "Recent activities on the hhvm repository involve a push event that occurred on December 29, 2024, which included a change that backed out a previous diff related to the removal of implicit disabling of schema const for file-relative includes."
+            "summary": "Recent activities involve a push event to back out a previous change that removed implicit disabling of schema const for file-relative includes, indicating a review of recent modifications to refine the repository."
+        },
+        "facebook/dotslash": {
+            "link": "https://github.com/facebook/dotslash",
+            "summary": "Recent activities include a push event that updates the code to use the now stable io::ErrorKind instead of raw_os_error, reflecting efforts to maintain the repository up-to-date with the latest stable features, such as those introduced in Rust 1.83.0."
         },
         "facebook/fbthrift": {
             "link": "https://github.com/facebook/fbthrift",
-            "summary": "The fbthrift repository saw a recent push event on December 29, 2024, that involved backing out a previous diff related to the removal of implicit disabling of schema const for file-relative includes, indicating ongoing development and refinement of the repository's codebase."
-        },
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "A recent pull request event on the zstd repository, which occurred on December 29, 2024, aimed to fix the ZSTD_readSkippableFrame function when handling a NULL destination, including a test plan to verify the functionality of reading a skippable frame with a NULL destination."
+            "summary": "Recent activities involve a push event to back out a change related to removing implicit disabling of schema const for file-relative includes, similar to the facebook/hhvm repository, indicating a coordinated review of recent changes across related projects."
         }
     },
     "profile_summary": null

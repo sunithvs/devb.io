@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities in the osu-wiki repository include updates to the MWC 7K 2025 team listing, addition of new tournament articles such as ANZT6W, and other contributions to the osu! wiki. These changes aim to improve the accuracy and comprehensiveness of the wiki's content, providing valuable information to the osu! community."
-        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activity, including a pull request to speed up the metronome in the timing screen when pressing the control key, and the addition of basic difficulty and performance calculation for the Autopilot mod on the osu! ruleset. Other contributions focus on improving the game's mechanics, such as osu!taiko rhythm considerations, demonstrating the community's ongoing efforts to enhance the gaming experience."
+            "summary": "The osu repository has seen significant activities recently, including fixes to volume adjust key repeat issues, improvements to the metronome in the timing screen, and additions of difficulty and performance calculations for the Autopilot mod on the osu ruleset. These changes were made through a combination of push and pull requests, with contributors addressing issues such as duplicated blocks and key repeat functionality. The repository continues to be actively updated and refined, reflecting the ongoing development and maintenance of the osu platform."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "The osu-wiki repository has experienced recent activity, primarily centered around updates to the MWC 7K 2025 team listing. Multiple pull requests have been submitted and merged, ensuring that the team information is current and accurate. Additionally, other community-driven contributions, such as the addition of event information, have been added to the wiki, highlighting the collaborative effort to maintain and improve the osu community's knowledge base."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "In the osu-web repository, a notable pull request aims to replace ts-loader and terser with swc, a tool for compiling TypeScript and optimizing JavaScript. This change seeks to improve the development process and performance of the osu web application, contributing to a more efficient and streamlined user experience."
+            "summary": "The osu-web repository has seen a recent update with a pull request aimed at replacing ts-loader and terser with swc, a Rust-based JavaScript/TypeScript compiler. This change is part of ongoing efforts to optimize and modernize the osu web platform, potentially leading to improvements in performance and development efficiency. While the details of this specific change are currently minimal, it represents a step in the continuous evolution and refinement of the osu web infrastructure."
         }
     },
     "profile_summary": null

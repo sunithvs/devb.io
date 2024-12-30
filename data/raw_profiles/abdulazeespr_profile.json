@@ -1,0 +1,127 @@
+{
+    "username": "abdulazeespr",
+    "name": null,
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/177513808?v=4",
+    "profile_url": "https://github.com/abdulazeespr",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Brainly-frontend-",
+            "description": "Brainly Frontend",
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "updatedAt": "2024-12-07T12:22:56Z"
+        },
+        {
+            "name": "Brainly",
+            "description": "this project where add content",
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly",
+            "updatedAt": "2024-11-29T10:15:51Z"
+        },
+        {
+            "name": "referralplatform",
+            "description": "An open-source referral program platform",
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/referralplatform",
+            "updatedAt": "2024-11-07T07:50:51Z"
+        },
+        {
+            "name": "wd301",
+            "description": "This part of the pupilfirst wd301 project",
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd301",
+            "updatedAt": "2024-09-27T15:29:48Z"
+        },
+        {
+            "name": "wd201",
+            "description": "This part of the pupilfirst wd201 project",
+            "score": 0.307200665474766,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd201",
+            "updatedAt": "2024-10-27T08:17:39Z"
+        },
+        {
+            "name": "Vscode-landingpage",
+            "description": "This part of the 100xdevs cohort project",
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abdulazeespr/Vscode-landingpage",
+            "updatedAt": "2024-08-26T06:33:15Z"
+        },
+        {
+            "name": "registration_form",
+            "description": "This part of the pupilfirst wd101 project",
+            "score": 0.3001673568831879,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/registration_form",
+            "updatedAt": "2024-08-19T11:44:10Z"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "activity_summary": {
+        "abdulazeespr/wd201": {
+            "link": "https://github.com/abdulazeespr/wd201",
+            "summary": "Recent activities on this repository include multiple push events, with the latest updates focusing on fixing the delete method, rendering todos, and adding flash messages and validation. Earlier updates were centered around implementing passport authentication for signup, adding signin and signout functionality, and fixing tests."
+        },
+        "abdulazeespr/Brainly": {
+            "link": "https://github.com/abdulazeespr/Brainly",
+            "summary": "This repository has seen recent push events that introduced new features such as adding link routes and routes features, indicating ongoing development and enhancement of the project's functionality."
+        },
+        "abdulazeespr/referralplatform": {
+            "link": "https://github.com/abdulazeespr/referralplatform",
+            "summary": "The latest activities involve integrating basic clerk integration and editing the Readme.md file, suggesting that the project is in the process of refining its documentation and possibly expanding its capabilities."
+        },
+        "abdulazeespr/SportEcom": {
+            "link": "https://github.com/abdulazeespr/SportEcom",
+            "summary": "Recent updates to this repository include the addition of routes for registration and the implementation of signup and signin UI components, indicating a focus on user interface and experience improvements."
+        },
+        "abdulazeespr/Brainly-frontend-": {
+            "link": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "summary": "A recent push event added a sidebar and card, suggesting that the project is actively enhancing its frontend with new design elements and possibly preparing for increased user interaction."
+        }
+    },
+    "profile_summary": "This highly skilled developer is a proficient expert in TypeScript, JavaScript, and HTML, possessing a strong foundation in web development. With a growing professional network of connections and a notable presence on GitHub, this individual has demonstrated their ability to collaborate and share knowledge with others. Their active participation in open-source development is evident through their seven public repositories, showcasing a consistent track record of creating and contributing to innovative projects. As a tech-savvy professional, they remain up-to-date with industry trends and advancements, applying their expertise to craft high-quality solutions.\n\nWith a focus on delivering exceptional results, this developer leverages their technical expertise to drive projects forward, utilizing their knowledge of cutting-edge technologies to create efficient and effective solutions. Their technical prowess, combined with a passion for innovation and a commitment to excellence, makes them a valuable asset to any development team. By incorporating industry-relevant keywords and best practices into their work, this developer ensures that their projects are optimized for performance and scalability, meeting the evolving needs of users and stakeholders. With their strong technical skills and collaborative mindset, this developer is well-positioned to make meaningful contributions to the technology community."
+}

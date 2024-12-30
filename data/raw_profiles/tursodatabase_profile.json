@@ -1,10 +1,4 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
-    "activity_summary": {
-        "tursodatabase/limbo": {
-            "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include a pull request to refactor out repetitive agg_func code in vdbe, aiming to reduce code duplication and improve maintainability, specifically targeting the binary math operators."
-        }
-    },
     "profile_summary": null
 }

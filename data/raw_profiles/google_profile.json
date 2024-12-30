@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/heir": {
-            "link": "https://github.com/google/heir",
-            "summary": "Recent activities in the google/heir repository include updates to the template generator for DialectTransforms, the addition of graphviz output for a dot-product example, and notes on running pre-commit. These changes have been made through a series of push and pull requests, showcasing active development and collaboration on the project."
+        "google/scaaml": {
+            "link": "https://github.com/google/scaaml",
+            "summary": "Recent activities include a dependabot update that bumped the markdownlint-cli2-action from version 18 to 19. The update includes various changes to the markdownlint version, including updates to version 0.37.0. The dependabot update also includes commits that freshen the generated index.js file and bump eslint from 9.16.0 to 9.17.0."
         },
-        "google/device-infra": {
-            "link": "https://github.com/google/device-infra",
-            "summary": "The google/device-infra repository has seen internal changes, with multiple push events and a pull request event reflecting ongoing maintenance and updates to the project. While the specifics of these changes are not detailed, the activity indicates that the repository is being actively managed and refined."
+        "google/gvisor": {
+            "link": "https://github.com/google/gvisor",
+            "summary": "Recent activities include a push event that added a machine-readable list of PyTorch GPU tests, simplified the KubernetesContext interface, and made internal changes. Other updates include a Go benchstat parser to support alternate syntax for parameters, adding utility functions to validate benchmark runtime, and updating the handler for NV_ESC_RM_UNMAP_MEMORY_DMA. The build for the runsc-metric-server binary has also been modified to use nocgo instead of static."
         }
     },
     "profile_summary": null

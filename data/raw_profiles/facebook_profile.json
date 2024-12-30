@@ -1,13 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/react-native": {
+            "link": "https://github.com/facebook/react-native",
+            "summary": "Recent activities include the submission of multiple pull requests adding support for linear gradient transition hint syntax, simplifying color stops parsing, and putting the processColorTransitionHint into native code to support platform colors, with added test cases and examples to demonstrate the changes."
+        },
         "facebook/lexical": {
             "link": "https://github.com/facebook/lexical",
-            "summary": "Recent activities include a pull request to upgrade the astro package to version 4.16.17 due to a moderate severity security vulnerability, as well as documentation updates to fix typos in the README.md file."
-        },
-        "facebook/hermes": {
-            "link": "https://github.com/facebook/hermes",
-            "summary": "A recent pull request was made to enable compilation with wasi-sdk, which requires significant changes due to its less Unix-like environment and lack of support for C++ exceptions, with the author attempting to find workarounds and alternatives for exception handling."
+            "summary": "Recent activities involve the submission of pull requests with updates, including a description of changes and a test plan, although the specifics of these updates are not detailed in the provided information."
         }
     },
     "profile_summary": null

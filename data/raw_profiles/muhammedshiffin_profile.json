@@ -1,0 +1,81 @@
+{
+    "username": "muhammedshiffin",
+    "name": "Muhammed Shiffin",
+    "bio": "",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19385127?u=9a5eab50a46f449ff5757d5683bcbc8940c01abe&v=4",
+    "profile_url": "https://github.com/muhammedshiffin",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "hrm-basic",
+            "description": null,
+            "score": 0.1683453148833088,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/muhammedshiffin/hrm-basic",
+            "updatedAt": "2023-12-16T12:19:28Z"
+        },
+        {
+            "name": "laravel-coding-challenge",
+            "description": "Laravel Coding Challenge for Jr Laravel Developer Candidates",
+            "score": 0.16746879082346372,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/muhammedshiffin/laravel-coding-challenge",
+            "updatedAt": "2023-12-05T06:02:56Z"
+        },
+        {
+            "name": "expense",
+            "description": "Expense Module",
+            "score": 0.16422936937652555,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/muhammedshiffin/expense",
+            "updatedAt": "2023-10-17T14:40:42Z"
+        },
+        {
+            "name": "muhammedshiffin",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07475680064596225,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/muhammedshiffin/muhammedshiffin",
+            "updatedAt": "2022-10-20T11:37:35Z"
+        },
+        {
+            "name": "breakeven",
+            "description": null,
+            "score": 0.062069585120825874,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/muhammedshiffin/breakeven",
+            "updatedAt": "2016-05-16T08:34:52Z"
+        }
+    ],
+    "followers": 4,
+    "following": 43,
+    "public_repos": 39,
+    "pull_requests_merged": 0,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 988,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "profile_summary": "Muhammed Shiffin is a skilled and accomplished developer with a strong foundation in JavaScript and PHP. With a proven track record of delivering high-quality solutions, he has established himself as a reliable and innovative professional in the field of software development. His extensive experience and expertise in programming have enabled him to develop a unique ability to design, implement, and maintain complex systems with ease. As a dedicated and passionate developer, Muhammed Shiffin is committed to staying up-to-date with the latest industry trends and technologies, ensuring that his skills remain relevant and in-demand.\n\nWith a notable presence on GitHub, Muhammed Shiffin has built a professional network of like-minded individuals and has actively contributed to the development community through his 39 public repositories. His work showcases his technical prowess and ability to collaborate with others, demonstrating his value as a team player. As a result, he has garnered a following of 4 peers who recognize his expertise and contributions to the field. By leveraging his technical skills and industry knowledge, Muhammed Shiffin is well-positioned to drive innovation and deliver exceptional results in his future endeavors, making him a valuable asset to any organization seeking a skilled and dedicated developer."
+}

@@ -1,21 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/gvisor": {
-            "link": "https://github.com/google/gvisor",
-            "summary": "Recent activities in the google/gvisor repository include multiple pull requests and push events focused on cleaning up struct field tags for nvproxy, which aimed to remove awkward metadata and standardize driver struct name definitions. Additionally, some camel-cased struct names were renamed to follow kernel source naming conventions, enhancing readability for gVisor purposes."
+        "google/device-infra": {
+            "link": "https://github.com/google/device-infra",
+            "summary": "Recent activities in the google/device-infra repository include a pull request and multiple push events related to internal changes, with commits made on December 30, 2024, indicating ongoing development and updates to the repository's codebase."
         },
-        "google/tsl": {
-            "link": "https://github.com/google/tsl",
-            "summary": "The google/tsl repository has seen a recent pull request event integrating LLVM at a specific commit, updating LLVM usage to match recent developments in the llvm/llvm-project."
-        },
-        "google/heir": {
-            "link": "https://github.com/google/heir",
-            "summary": "In the google/heir repository, a pull request was submitted to correct the generation of Enum documentation, addressing an issue where Enum attributes were not properly documented due to the incorrect use of doc generation flags."
+        "google/gematria": {
+            "link": "https://github.com/google/gematria",
+            "summary": "The google/gematria repository has seen recent activity with multiple push events on December 30, 2024, including updates to bump the LLVM version and introduce changes through rebase, demonstrating ongoing maintenance and development of the project."
         },
         "google/angle": {
             "link": "https://github.com/google/angle",
-            "summary": "Activity in the google/angle repository includes a push event rolling Chromium from one revision to another, incorporating 853 revisions and updating the project with the latest changes from the Chromium source."
+            "summary": "A recent push event in the google/angle repository on December 30, 2024, involved rolling SwiftShader from one revision to another, indicating updates and synchronization of dependencies within the project."
+        },
+        "google/tree-math": {
+            "link": "https://github.com/google/tree-math",
+            "summary": "Activity in the google/tree-math repository includes a pull request from December 30, 2024, aimed at adding support for both static and non-static fields, showing efforts to enhance the functionality of the repository."
+        },
+        "google/it-cert-automation-practice": {
+            "link": "https://github.com/google/it-cert-automation-practice",
+            "summary": "The google/it-cert-automation-practice repository saw a pull request on December 30, 2024, focusing on updating validations and fixing the behavior of the validate_user function, indicating active development and issue resolution within the project."
         }
     },
     "profile_summary": null

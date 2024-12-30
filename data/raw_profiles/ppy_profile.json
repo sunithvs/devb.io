@@ -3,11 +3,7 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include several pull requests and a push event that addressed various issues, such as fixing the quick-deleting of unselected slider path control points, resolving volume adjust key repeat issues, and enhancing the metronome in the timing screen. Additionally, a pull request was merged to remove duplicated blocks, further improving the repository's codebase."
-        },
-        "ppy/osu-web": {
-            "link": "https://github.com/ppy/osu-web",
-            "summary": "The osu-web repository saw a notable pull request to replace ts-loader and terser with swc, aiming to enhance the project's build and optimization process, although the details of the change were not extensively documented."
+            "summary": "Recent activities in the ppy/osu repository include several pull requests focusing on bug fixes and improvements, such as addressing issues with slider end drag markers, quick-deleting unselected slider path control points, and fixing volume adjust key repeat functionality. Additionally, there have been efforts to refactor score-independent bonuses into star rating and enhancements to the overall user experience. These contributions demonstrate the community's ongoing efforts to maintain and enhance the osu! project."
         }
     },
     "profile_summary": null

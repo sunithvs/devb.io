@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/docusaurus": {
+            "link": "https://github.com/facebook/docusaurus",
+            "summary": "Recent activities include a push event that upgraded the devcontainer to Ubuntu Noble and Node 22, as well as a pull request that made the same changes, which include a workaround for an issue where the `start` or `serve` commands default to `127.0.0.1` instead of `localhost` when run within Remote Containers."
+        },
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities in the facebook/react-native repository include a refactor of the Build HermesC apple job to use the same code in all jobs, as well as a synchronization of renderers between React and React Native in preparation for the 0.76 branch cut, aiming to address internal issues and improve overall performance."
+            "summary": "A recent pull request improved the typing of BackHandler, following up on a previous discussion and differential revision, aiming to enhance the code's clarity and accuracy."
         },
-        "facebook/hermes": {
-            "link": "https://github.com/facebook/hermes",
-            "summary": "The facebook/hermes repository has seen a recent addition of iOS e2e tests, currently a work-in-progress, that depend on a related pull request in the react-native repository, focusing on ensuring the new job in CircleCI is successfully green."
-        },
-        "facebook/stetho": {
-            "link": "https://github.com/facebook/stetho",
-            "summary": "In the facebook/stetho repository, a recent pull request added null checks before using element info to resolve an existing issue, demonstrating ongoing efforts to enhance the repository's stability and fix known problems."
+        "facebook/yoga": {
+            "link": "https://github.com/facebook/yoga",
+            "summary": "Recent activities include the addition of more unit tests for rounding values to the pixel grid, covering extra corner cases to ensure the rounding function's correctness, especially for halfway values, and preparing for potential modifications to the rounding logic."
         }
     },
     "profile_summary": null

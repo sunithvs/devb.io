@@ -1,4 +1,18 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
+    "activity_summary": {
+        "tursodatabase/libsql-js": {
+            "link": "https://github.com/tursodatabase/libsql-js",
+            "summary": "Recent activities include a push event adding a test for named parameters, merged from pull request #158, further solidifying the library's functionality and robustness."
+        },
+        "tursodatabase/limbo": {
+            "link": "https://github.com/tursodatabase/limbo",
+            "summary": "Recent activities involve push events enhancing the library, including adding a test for a subquery with a join and refactoring the parsing of FROM clause tables to improve code reusability and maintainability."
+        },
+        "tursodatabase/libsql": {
+            "link": "https://github.com/tursodatabase/libsql",
+            "summary": "A recent pull request bumping the pprof version aims to address Dependabot warnings about unsound usage in older versions, enhancing the library's security and reliability."
+        }
+    },
     "profile_summary": null
 }

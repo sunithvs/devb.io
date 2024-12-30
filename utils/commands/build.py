@@ -33,11 +33,11 @@ class BuildCommand(BaseCommand):
                 json.dump(profile_data, f, indent=4)
 
             # Generate HTML profile
-            html_generator = HTMLProfileGenerator()
-            html_generator.generate_profile_html(
-                profile_data,
-                Settings.HTML_OUTPUT_DIR
-            )
+            # html_generator = HTMLProfileGenerator()
+            # html_generator.generate_profile_html(
+            #     profile_data,
+            #     Settings.HTML_OUTPUT_DIR
+            # )
             processed_users = {}
             with open(Settings.PROCESSED_USERS_FILE, 'r') as f:
                 processed_users = json.load(f)

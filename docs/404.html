@@ -304,7 +304,7 @@
 </script>
 
 <script>
-    function isValidGitHubUsername(username) {
+    async  function isValidGitHubUsername(username) {
         // GitHub username rules:
         // 1. 1-39 characters long
         // 2. Can only contain alphanumeric characters and hyphens
@@ -312,10 +312,30 @@
         // 4. Cannot have consecutive hyphens
         const githubUsernameRegex = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d]))*$/i;
 
-        return username
+       let valid =  username
             && username.length >= 1
             && username.length <= 39
             && githubUsernameRegex.test(username);
+       if (!valid) {
+
+           return false;
+       }
+        fetch(`https://api.github.com/users/${username}`)
+            .then(response => response.json())
+            .then(data => {
+
+                if (data.message === 'Not Found') {
+
+                    return false;
+                }
+
+                return data.type === 'User';
+            })
+            .catch(error => {
+
+
+                return false;
+            });
     }
 
     let profile_url = ''
@@ -323,9 +343,11 @@
     async function resolveProfileUrl() {
         const pathParts = window.location.pathname.split('/').filter(part => part);
         const username = pathParts[0];
-        // const username = 'sunithvs'
+        // const username = 'sunithvs';
 
-        if (!username || !isValidGitHubUsername(username)) {
+        const valid_username = await isValidGitHubUsername(username);
+        if (valid_username) {
+
             return '';
         }
 
@@ -333,11 +355,16 @@
             const response = await fetch('data/processed_users.json');
             const data = await response.json();
 
+
             if (username in data) {
+
                 return `https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/data/raw_profiles/${username}_profile.json`;
             }
+
             return `https://user.devb.io/user/${username}`;
         } catch (error) {
+
+
             return `https://user.devb.io/user/${username}`;
         }
     }
@@ -346,6 +373,7 @@
     async function fetchUserProfile() {
         profile_url = await resolveProfileUrl();
         // If no username or invalid username, render 404
+
         if (!profile_url) {
             renderNotFoundPage();
             return null;
@@ -367,7 +395,7 @@
 
             return await response.json();
         } catch (error) {
-            console.error('Error fetching profile:', error);
+
             renderErrorPage(error);
             return null;
         }
@@ -413,12 +441,16 @@
 
     document.addEventListener('DOMContentLoaded', async () => {
         const profile = await fetchUserProfile();
-        if ('error' in profile) {
-           renderErrorPage(new Error(profile.error));
-        }
-        if (!profile) {
+
+         if (!profile) {
             renderErrorPage(new Error('Failed to fetch profile data'));
+            return
         }
+        if (profile.error) {
+            renderErrorPage(new Error(profile.error));
+            return;
+        }
+
         renderProfile(profile);
         document.title = profile.name + ' - devb.io Developer Profile';
 
@@ -821,7 +853,7 @@
                 downloadBtn.disabled = false;
                 shareBtn.disabled = false;
             } catch (error) {
-                console.error('Error:', error);
+
                 loading.classList.add('hidden');
             }
         });
@@ -921,7 +953,7 @@
                         const pathParts = window.location.pathname.split('/').filter(part => part);
                         await navigator.share(shareData);
                     } catch (error) {
-                        console.error('Error sharing:', error);
+
                         alert("Failed to share: " + error.message);
                     }
                 }, 'image/png');

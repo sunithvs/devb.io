@@ -1,13 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/zstd": {
-            "link": "https://github.com/facebook/zstd",
-            "summary": "The facebook/zstd repository has seen recent activities including a pull request to enhance ZSTD_getFrameHeader() for skippable frames, providing complete information by filling in additional fields such as header size and magic variant. Additionally, there was a push event to update type names, following the convention of starting type names with a capital letter."
-        },
-        "facebook/docusaurus": {
-            "link": "https://github.com/facebook/docusaurus",
-            "summary": "The facebook/docusaurus repository has experienced significant activities, notably a pull request to add support for Bun in the npm-to-yarn converter, allowing the option to be passed and updating tab labels for consistency. This change includes updates to the documentation and tests to ensure the new functionality works as expected."
+        "facebook/sapling": {
+            "link": "https://github.com/facebook/sapling",
+            "summary": "Recent activities in the facebook/sapling repository include a significant PushEvent that occurred on December 30, 2024, involving a deployment commit with the hash 5fc7ff5530c39f4a5ea989c061cef76799c617c1, indicating ongoing development and updates to the project."
         }
     },
     "profile_summary": null

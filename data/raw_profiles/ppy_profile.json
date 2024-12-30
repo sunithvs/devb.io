@@ -3,19 +3,19 @@
     "activity_summary": {
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities on the osu-wiki repository include multiple pull requests focused on updating event listings, such as MWC 7K 2025 team listings and additions of new tournament pages like ANZT6W. These updates contribute to maintaining a comprehensive and accurate record of osu! community events and tournaments."
+            "summary": "The osu! wiki repository has seen recent activity with multiple pull requests focused on updating tournament listings and event information, including the addition of team submissions for MWC 7K 2025 and the creation of articles for the ANZT6W tournament, as well as updates to community events."
         },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activity with multiple pull requests addressing various aspects of the game. Notably, these include the addition of basic difficulty and performance calculations for the Autopilot mod, rebalancing of osu!taiko's star rating and performance points, and adjustments to stamina calculation to enhance game balance and player experience."
+            "summary": "The osu! repository has experienced significant activity, with several pull requests addressing various aspects of the game, including the addition of basic difficulty and performance calculation for the Autopilot mod, adjustments to rhythm considerations in osu!taiko, and rebalancing of star rating and performance points, showcasing ongoing efforts to enhance gameplay and address player feedback."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "Activity on the osu-web repository involves replacing ts-loader and terser with swc, indicating efforts to optimize and modernize the development workflow for the web component of osu!, potentially leading to improved performance and efficiency."
+            "summary": "The osu-web repository has seen a recent pull request aimed at replacing ts-loader and terser with swc, indicating efforts to optimize and modernize the web application's build process."
         },
         "ppy/SDL3-CS": {
             "link": "https://github.com/ppy/SDL3-CS",
-            "summary": "The SDL3-CS repository has updates focusing on bindings, particularly the inclusion of pen support for iOS and Android, reflecting ongoing efforts to ensure cross-platform compatibility and enhance user interaction with osu! across different devices."
+            "summary": "The SDL3-CS repository has a pull request focused on updating bindings, including the addition of pen support for iOS and Android, as well as the removal of certain files, demonstrating the ongoing evolution of the project to incorporate new features and improve compatibility."
         }
     },
     "profile_summary": null

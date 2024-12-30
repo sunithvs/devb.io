@@ -1,25 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/mesop": {
-            "link": "https://github.com/google/mesop",
-            "summary": "The repository has seen recent activities including a pull request to bump marked from 15.0.1 to 15.0.2, and a push event to bump angular to v19, indicating efforts to keep dependencies up-to-date."
-        },
-        "google/mug": {
-            "link": "https://github.com/google/mug",
-            "summary": "Recent push events in the repository have focused on improving error messages and handling duplicate placeholder names, suggesting ongoing development and refinement of the project."
-        },
-        "google/or-tools": {
-            "link": "https://github.com/google/or-tools",
-            "summary": "The repository has experienced push events related to enhancements of the python layer for CP-SAT, indicating active development and expansion of the project's capabilities."
-        },
         "google/jni-bind": {
             "link": "https://github.com/google/jni-bind",
-            "summary": "A recent pull request with a temporary commit for backporting changes indicates that the repository is undergoing maintenance and updates to ensure compatibility or fix issues."
+            "summary": "Recent activities include multiple push events for temporary commits related to backporting, with the most recent event occurring on December 30, 2024, at 01:13:10."
         },
-        "google/it-cert-automation-practice": {
-            "link": "https://github.com/google/it-cert-automation-practice",
-            "summary": "A pull request has been made to update the validations.py script, fixing the behavior of the validate_user function, which suggests that the repository is being actively maintained and improved."
+        "google/gematria": {
+            "link": "https://github.com/google/gematria",
+            "summary": "The repository has seen recent pull requests, including one that allows the use of the benchmark scheduler within the benchmarking pipeline and another that enables setting the benchmarking core from the Python wrapper, both of which were submitted on December 30, 2024."
+        },
+        "google/minja": {
+            "link": "https://github.com/google/minja",
+            "summary": "Recent activities include push events for compatibility adjustments and improvements to chat template handling, as well as a pull request for chat_template.hpp improvements, all of which occurred on December 30, 2024."
+        },
+        "google/open-dice": {
+            "link": "https://github.com/google/open-dice",
+            "summary": "The repository had recent push events for rolling updates to third-party dependencies, specifically Pigweed, with 22 commits rolled out on December 30, 2024."
+        },
+        "google/go-containerregistry": {
+            "link": "https://github.com/google/go-containerregistry",
+            "summary": "A recent pull request was submitted on December 30, 2024, to add support for gzip compression when saving Docker images to tarballs using the tarball.ImageFromPath method."
         }
     },
     "profile_summary": null

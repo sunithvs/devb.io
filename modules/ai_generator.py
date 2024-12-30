@@ -36,7 +36,7 @@ class AIDescriptionGenerator:
             f"\n- Public Repositories: {profile_data['public_repos']} (demonstrating active development)"
             f"\n- Bio: {profile_data['bio']}"
             "\n\nGenerate a short, engaging summary."
-            f"\n- README: {profile_data["readme_content"]}"
+            f"\n- README: {profile_data['readme_content']}"
         )
 
         response = self.client.chat.completions.create(

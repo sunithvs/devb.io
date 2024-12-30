@@ -322,8 +322,8 @@
 
     async function resolveProfileUrl() {
         const pathParts = window.location.pathname.split('/').filter(part => part);
-        // const username = pathParts[0];
         const username = pathParts[0];
+        // const username = 'sunithvs'
 
         if (!username || !isValidGitHubUsername(username)) {
             return '';
@@ -363,6 +363,7 @@
 
                 throw new Error('Failed to fetch profile data');
             }
+            // if error in response
 
             return await response.json();
         } catch (error) {
@@ -412,9 +413,11 @@
 
     document.addEventListener('DOMContentLoaded', async () => {
         const profile = await fetchUserProfile();
-        console.log(profile)
+        if ('error' in profile) {
+           renderErrorPage(new Error(profile.error));
+        }
         if (!profile) {
-            return;
+            renderErrorPage(new Error('Failed to fetch profile data'));
         }
         renderProfile(profile);
         document.title = profile.name + ' - devb.io Developer Profile';

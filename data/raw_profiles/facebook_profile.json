@@ -3,15 +3,7 @@
     "activity_summary": {
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities include bug fixes, such as resolving issues with external inputAccessoryView on Fabric and fixing Numeric TextInput not triggering onSubmitEditing, as well as the addition of a Changelog for version 0.77.0-rc.5."
-        },
-        "facebook/ThreatExchange": {
-            "link": "https://github.com/facebook/ThreatExchange",
-            "summary": "Ongoing activities involve enhancements to the lookup endpoint, including a check for the hasher role, with corresponding unit tests and a detailed test plan to ensure the endpoint's proper functioning and error handling."
-        },
-        "facebook/sapling": {
-            "link": "https://github.com/facebook/sapling",
-            "summary": "Recent updates include increasing the timeout for sparse-profile-size to address potential issues, demonstrating the repository's focus on improving performance and reliability."
+            "summary": "Recent activities on React Native include the addition of a changelog for version 0.77.0-rc.5 and several code fixes. A notable fix was made to prevent overwriting external inputAccessoryView on Fabric, addressing issues with numeric text input not triggering onSubmitEditing, as outlined in issues #48339 and #48276."
         }
     },
     "profile_summary": null

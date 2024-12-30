@@ -1,9 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/earthengine-community": {
-            "link": "https://github.com/google/earthengine-community",
-            "summary": "Recent activities in the google/earthengine-community repository include a push event and a pull request, both dated December 30, 2024, focused on converting API code snippets from JavaScript to Python, indicating efforts to enhance the repository's compatibility and usability."
+        "google/zx": {
+            "link": "https://github.com/google/zx",
+            "summary": "Recent activities in the google/zx repository include the addition of pre-push test git hooks and the introduction of lefthooks for pre-commit and pre-push hooks, enhancing the repository's build process and test automation. These updates aim to improve the efficiency and reliability of the repository's code management."
+        },
+        "google/flax": {
+            "link": "https://github.com/google/flax",
+            "summary": "The google/flax repository has seen a recent push event related to caching and flattening, specifically with the update [nnx] cache flatten, which suggests optimizations to the repository's data handling and processing capabilities."
+        },
+        "google/dagger": {
+            "link": "https://github.com/google/dagger",
+            "summary": "Significant activities in the google/dagger repository include migrations such as renaming ClassName to XClassName as part of the migration to XPoet, support for injecting jakarta.inject.Provider type, and fixes to LazyClassKey proguard file issues, along with the initial setup of Gradle as a build system, all of which contribute to the repository's evolution and enhancement."
         }
     },
     "profile_summary": null

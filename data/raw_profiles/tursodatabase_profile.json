@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
-        "tursodatabase/libsql": {
-            "link": "https://github.com/tursodatabase/libsql",
-            "summary": "Recently, the libsql repository has been active with a pull request to bump the pprof version, addressing Dependabot warnings about unsound usage in older versions. This upgrade was successfully merged, demonstrating the repository's focus on maintaining security and stability."
-        },
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "The limbo repository has seen significant activity with fixes to issues such as glob giving wrong results in certain cases. Enhancements to the FROM clause tables parsing have been made to improve code reusability. Additionally, tests have been added for subqueries containing joins, further increasing the repository's functionality and robustness."
+            "summary": "Recent activities in the limbo repository include a pull request that fixes an issue with glob giving wrong results in some cases, and several push events that introduce test cases for subqueries and refactor the parsing of FROM clause tables to improve code reusability."
+        },
+        "tursodatabase/libsql": {
+            "link": "https://github.com/tursodatabase/libsql",
+            "summary": "The libsql repository has seen significant activities, including multiple pull requests and push events focused on bumping the pprof version to address unsound usage warnings from Dependabot, ensuring the project's security and stability."
         },
         "tursodatabase/libsql-js": {
             "link": "https://github.com/tursodatabase/libsql-js",
-            "summary": "In the libsql-js repository, efforts have been focused on expanding functionality, particularly with the addition of tests for named parameters. A pull request for this feature was successfully merged, indicating the repository's ongoing development and refinement of its capabilities, especially in areas related to parameter handling."
+            "summary": "In the libsql-js repository, recent activities involve the addition of test cases for named parameters, with both push events and pull requests contributing to the enhancement of the project's testing capabilities and overall functionality."
         }
     },
     "profile_summary": null

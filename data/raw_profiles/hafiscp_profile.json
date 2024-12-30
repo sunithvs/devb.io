@@ -1,0 +1,124 @@
+{
+    "username": "hafiscp",
+    "name": "Hafis C P",
+    "bio": "",
+    "location": "Kuttippuram, Malappuram, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/62180011?u=88a33c50bdc5d784ee694471f367abda0fd258e7&v=4",
+    "profile_url": "https://github.com/hafiscp",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "foodbay",
+            "description": null,
+            "score": 1.7216040187108455,
+            "stars": 0,
+            "forks": 2,
+            "language": "EJS",
+            "url": "https://github.com/hafiscp/foodbay",
+            "updatedAt": "2022-08-04T21:07:40Z"
+        },
+        {
+            "name": "calculator_new",
+            "description": "As a beginning  Done a calculator using HTML, CSS, JS !",
+            "score": 1.4545462227505481,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hafiscp/calculator_new",
+            "updatedAt": "2022-09-07T18:53:09Z"
+        },
+        {
+            "name": "sample-1",
+            "description": null,
+            "score": 1.4543286917773859,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hafiscp/sample-1",
+            "updatedAt": "2020-10-13T18:37:58Z"
+        },
+        {
+            "name": "telegram-bot-sample",
+            "description": null,
+            "score": 1.2863412924132134,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/hafiscp/telegram-bot-sample",
+            "updatedAt": "2024-07-23T05:51:24Z"
+        },
+        {
+            "name": "work-with-unsplash-api",
+            "description": null,
+            "score": 1.2031702826129804,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/hafiscp/work-with-unsplash-api",
+            "updatedAt": "2023-10-04T11:33:02Z"
+        },
+        {
+            "name": "foodbay-final",
+            "description": null,
+            "score": 1.1140565796188193,
+            "stars": 0,
+            "forks": 1,
+            "language": "EJS",
+            "url": "https://github.com/hafiscp/foodbay-final",
+            "updatedAt": "2022-09-19T13:23:48Z"
+        },
+        {
+            "name": "ieee-launchpad-newsletter",
+            "description": null,
+            "score": 0.27810596618122624,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hafiscp/ieee-launchpad-newsletter",
+            "updatedAt": "2024-05-25T11:11:08Z"
+        },
+        {
+            "name": "mulearn-task-markup-letter",
+            "description": null,
+            "score": 0.2668848781142239,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hafiscp/mulearn-task-markup-letter",
+            "updatedAt": "2024-03-29T20:47:18Z"
+        }
+    ],
+    "followers": 26,
+    "following": 34,
+    "public_repos": 42,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 173,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/HafisCP"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/hafiz_cp"
+        }
+    ],
+    "profile_summary": "Hafis C P is a highly skilled and accomplished developer with a strong foundation in programming languages such as C++, Python, and JavaScript. With a growing professional network of 26 followers, Hafis has established himself as a reputable and influential figure in the development community. His impressive portfolio of 42 public repositories showcases his active involvement in various projects and his ability to consistently deliver high-quality work. As a seasoned developer, Hafis possesses a unique blend of technical expertise and innovative thinking, making him a valuable asset to any team or organization.\n\nWith a proven track record of developing innovative solutions, Hafis is well-versed in leveraging his technical skills to drive success in a wide range of applications. His expertise in C++, Python, and JavaScript enables him to tackle complex projects with ease, and his passion for staying up-to-date with the latest industry trends ensures that his work is always cutting-edge. As a reliable and results-driven developer, Hafis is dedicated to delivering exceptional results and exceeding expectations. His strong work ethic, combined with his technical prowess, makes him an ideal collaborator for businesses and individuals seeking to bring their visions to life through innovative and effective software solutions."
+}

@@ -1,25 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'fossee' not found or query returned no data.",
     "activity_summary": {
-        "FOSSEE/scilab_case_study_hackathon": {
-            "link": "https://github.com/FOSSEE/scilab_case_study_hackathon",
-            "summary": "The repository has seen significant activity with multiple push events and pull requests. Recent updates include content updates, addition of meta keywords, new logos, and updates to the Home page, problem-statement, evaluation, and resources page. These changes indicate ongoing development and refinement of the project's content and structure."
-        },
         "FOSSEE/Common-Interface-Project": {
             "link": "https://github.com/FOSSEE/Common-Interface-Project",
-            "summary": "This repository has experienced a series of updates, including code cleanup for simplicity, updates to ExplicitLink for resolving differences, and modifications to xsl files for geometry point values. Additionally, there have been updates to xmlparser files, indicating active maintenance and enhancement of the project's codebase and functionality."
+            "summary": "The repository has seen significant activity with multiple push and pull requests. Updates were made to the XmlParser file for geometry of Splitblock, and to the xsl file for geometry point values. Other changes include code cleanup for simplicity and updates to the ExplicitLink and xmlparser files. These updates indicate ongoing efforts to refine and improve the project's functionality."
+        },
+        "FOSSEE/scilab_case_study_hackathon": {
+            "link": "https://github.com/FOSSEE/scilab_case_study_hackathon",
+            "summary": "Recent activities in the repository include updates to content, such as adding meta keywords and new logos. These changes suggest that the project is being actively maintained and improved, with a focus on enhancing its user experience and visual appeal."
         },
         "FOSSEE/fossee-banners": {
             "link": "https://github.com/FOSSEE/fossee-banners",
-            "summary": "Recent activities in this repository include adjustments to the first image of a banner, updates to banner links, and the addition of a new banner for a Scilab hackathon. These changes suggest ongoing efforts to update and expand the collection of banners, possibly for promotional or informational purposes."
+            "summary": "The repository has seen activity with updates to banners, including adding a new banner for the Scilab hackathon and adjusting the first image of a banner. These changes indicate that the project is being regularly updated to reflect new events and initiatives."
         },
         "FOSSEE/certificate-generator": {
             "link": "https://github.com/FOSSEE/certificate-generator",
-            "summary": "A notable update in this repository is the addition of Arduino Workshop Certificates, indicating the project's capability to generate certificates for specific workshops or events. This update highlights the repository's potential for customization and application in various educational or training contexts."
+            "summary": "The repository has had a recent update with the addition of Arduino Workshop Certificates. This suggests that the project is being used to generate certificates for various workshops and events, and is being actively maintained to support these activities."
         },
         "FOSSEE/scilab_case_study_portal": {
             "link": "https://github.com/FOSSEE/scilab_case_study_portal",
-            "summary": "The repository has seen an update with the addition of a description under the project title, directly added from GitHub. This change, although minor, suggests ongoing attention to detail and possibly an effort to enhance the project's documentation or user experience."
+            "summary": "The repository has seen a recent update with the addition of descriptions under project titles. This change indicates that the project is being refined to provide more detailed information and context, potentially improving the user experience and usability of the portal."
         }
     },
     "profile_summary": null

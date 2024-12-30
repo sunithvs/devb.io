@@ -1,25 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/device-infra": {
-            "link": "https://github.com/google/device-infra",
-            "summary": "Recent activities in the google/device-infra repository include a pull request and multiple push events related to internal changes, with commits made on December 30, 2024, indicating ongoing development and updates to the repository's codebase."
+        "google/zerocopy": {
+            "link": "https://github.com/google/zerocopy",
+            "summary": "Recent activities include automated pull requests to roll pinned nightly toolchains, with multiple updates made on the same day, indicating ongoing efforts to maintain and update the repository."
         },
-        "google/gematria": {
-            "link": "https://github.com/google/gematria",
-            "summary": "The google/gematria repository has seen recent activity with multiple push events on December 30, 2024, including updates to bump the LLVM version and introduce changes through rebase, demonstrating ongoing maintenance and development of the project."
+        "google/deps.dev": {
+            "link": "https://github.com/google/deps.dev",
+            "summary": "The repository has seen recent activities involving pull requests to bump dependencies such as golang.org/x/sync and golang.org/x/time, reflecting efforts to keep the project's dependencies up to date and secure."
         },
-        "google/angle": {
-            "link": "https://github.com/google/angle",
-            "summary": "A recent push event in the google/angle repository on December 30, 2024, involved rolling SwiftShader from one revision to another, indicating updates and synchronization of dependencies within the project."
-        },
-        "google/tree-math": {
-            "link": "https://github.com/google/tree-math",
-            "summary": "Activity in the google/tree-math repository includes a pull request from December 30, 2024, aimed at adding support for both static and non-static fields, showing efforts to enhance the functionality of the repository."
-        },
-        "google/it-cert-automation-practice": {
-            "link": "https://github.com/google/it-cert-automation-practice",
-            "summary": "The google/it-cert-automation-practice repository saw a pull request on December 30, 2024, focusing on updating validations and fixing the behavior of the validate_user function, indicating active development and issue resolution within the project."
+        "google/budoux": {
+            "link": "https://github.com/google/budoux",
+            "summary": "Recent activities in this repository include a pull request to bump the commander dependency from 12.1.0 to 13.0.0 in the javascript directory, indicating updates to the project's dependencies and potentially improving its functionality and security."
         }
     },
     "profile_summary": null

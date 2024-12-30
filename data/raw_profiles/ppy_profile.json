@@ -3,7 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the ppy/osu repository include several pull requests focusing on bug fixes and improvements, such as addressing issues with slider end drag markers, quick-deleting unselected slider path control points, and fixing volume adjust key repeat functionality. Additionally, there have been efforts to refactor score-independent bonuses into star rating and enhancements to the overall user experience. These contributions demonstrate the community's ongoing efforts to maintain and enhance the osu! project."
+            "summary": "Recent activities in the osu repository include multiple pull requests and push events focused on fixing issues with slider path control points, improving sample point indicators, and modifying star rating calculations. Notable changes include fixes for quick-deleting unselected slider path control points and taking custom bank name length into account when collapsing sample point indicators. Additionally, there are proposed changes to move score-independent bonuses into star rating and to fix issues with slider end drag markers blocking context menus."
+        },
+        "ppy/osu-wiki": {
+            "link": "https://github.com/ppy/osu-wiki",
+            "summary": "The osu-wiki repository has seen a recent pull request event focused on translating the 'Gameplay/Score' section into German, with the contributor following the self-check guidelines from the contribution checklist but awaiting review from a fluent speaker."
         }
     },
     "profile_summary": null

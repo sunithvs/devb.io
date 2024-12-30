@@ -1,17 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/docusaurus": {
-            "link": "https://github.com/facebook/docusaurus",
-            "summary": "Recent activities include a push event that upgraded the devcontainer to Ubuntu Noble and Node 22, as well as a pull request that made the same changes, which include a workaround for an issue where the `start` or `serve` commands default to `127.0.0.1` instead of `localhost` when run within Remote Containers."
-        },
-        "facebook/react-native": {
-            "link": "https://github.com/facebook/react-native",
-            "summary": "A recent pull request improved the typing of BackHandler, following up on a previous discussion and differential revision, aiming to enhance the code's clarity and accuracy."
-        },
-        "facebook/yoga": {
-            "link": "https://github.com/facebook/yoga",
-            "summary": "Recent activities include the addition of more unit tests for rounding values to the pixel grid, covering extra corner cases to ensure the rounding function's correctness, especially for halfway values, and preparing for potential modifications to the rounding logic."
+        "facebook/ThreatExchange": {
+            "link": "https://github.com/facebook/ThreatExchange",
+            "summary": "Recent activities in the ThreatExchange repository include a push event and a pull request event, both occurring on December 30, 2024. The push event involved a commit to check for the hasher role in the /lookup endpoint, while the pull request event aimed to resolve issue #1703 with a fix that includes a unit test and a detailed test plan to verify the correction, specifically ensuring a 403 error is returned when hashing is disabled due to a missing role."
         }
     },
     "profile_summary": null

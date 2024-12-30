@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'ppy' not found or query returned no data.",
     "activity_summary": {
-        "ppy/osu-server-beatmap-submission": {
-            "link": "https://github.com/ppy/osu-server-beatmap-submission",
-            "summary": "Recent activities include implementing required interactions with beatmap mirrors, enhancing test coverage, and addressing pending purge updates on osu_mirrors. These changes aim to improve the handling of cached packages and ensure seamless beatmap submission processes. The updates were thoroughly tested in a full-stack local environment and are part of ongoing efforts to enhance the osu-server-beatmap-submission repository."
-        },
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The repository has seen significant activities focused on resolving issues and enhancing test coverage. Notably, fixes were implemented to address the slider end drag marker blocking the open of control point piece context menus, along with the addition of a failing test case and extra test coverage to prevent future regressions. These updates contribute to improving the overall user experience and stability of the osu application."
+            "summary": "Recent activities include addressing the issue of slider end drag markers blocking the opening of control point piece context menus, with a failing test case added to prevent future regressions. Furthermore, a pull request was merged that fixes this issue and includes extended test coverage to prevent regression of related problems."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Significant activities involve implementing required interactions with beatmap mirrors, including the ability to purge outdated cached packages. A pull request was merged that implements these interactions, which were tested in a full-stack local environment to ensure functionality."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "Recent activities in the osu-wiki repository include updates to fix the incorrect display of profile pictures in Twitter profiles, specifically addressing the issue of a white box appearing behind osu!support's profile picture. These changes were tested against the contribution checklist to ensure they meet the required standards, reflecting the community's commitment to maintaining a high-quality osu! wiki."
+            "summary": "Recent activities focus on fixing the display of incorrect profile pictures in Twitter, specifically addressing the issue of osu!support's profile picture having a white box behind it. A pull request was merged that resolves this problem, with changes tested against the contribution checklist to ensure quality and accuracy."
         }
     },
     "profile_summary": null

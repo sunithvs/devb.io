@@ -1,17 +1,25 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/zx": {
-            "link": "https://github.com/google/zx",
-            "summary": "Recent activities in the google/zx repository include the addition of pre-push test git hooks and the introduction of lefthooks for pre-commit and pre-push hooks, enhancing the repository's build process and test automation. These updates aim to improve the efficiency and reliability of the repository's code management."
-        },
-        "google/flax": {
-            "link": "https://github.com/google/flax",
-            "summary": "The google/flax repository has seen a recent push event related to caching and flattening, specifically with the update [nnx] cache flatten, which suggests optimizations to the repository's data handling and processing capabilities."
+        "google/clusterfuzz": {
+            "link": "https://github.com/google/clusterfuzz",
+            "summary": "Recent activities in the google/clusterfuzz repository include logging exceptions in cron jobs, fixing issues with previous commits, and implementing fixes to address congestion caused by parallelism APIs. These activities indicate efforts to enhance the reliability and performance of the clusterfuzz tool."
         },
         "google/dagger": {
             "link": "https://github.com/google/dagger",
-            "summary": "Significant activities in the google/dagger repository include migrations such as renaming ClassName to XClassName as part of the migration to XPoet, support for injecting jakarta.inject.Provider type, and fixes to LazyClassKey proguard file issues, along with the initial setup of Gradle as a build system, all of which contribute to the repository's evolution and enhancement."
+            "summary": "The google/dagger repository has seen significant activity with the initial setup of Gradle as a build system, adding a GitHub CI step for building with Gradle, and configuring projects to use JDK. These changes aim to streamline the development process and improve the overall efficiency of the Dagger project."
+        },
+        "google/testrun": {
+            "link": "https://github.com/google/testrun",
+            "summary": "Recent activity in the google/testrun repository involves disabling general settings when testing is in progress. This change, implemented through a feature update, enhances the testing workflow by preventing unnecessary settings adjustments during active tests, thus improving the testrun experience."
+        },
+        "google/prompt-to-prompt": {
+            "link": "https://github.com/google/prompt-to-prompt",
+            "summary": "The google/prompt-to-prompt repository has seen activity with the addition of a Replicate demo and API. This integration allows for easier model deployment within a Docker environment and facilitates running the model via a web page or through Replicate's API, enhancing the project's accessibility and usability."
+        },
+        "google/guava": {
+            "link": "https://github.com/google/guava",
+            "summary": "Recent activities in the google/guava repository include adding test scenarios for parsing strings to Long, addressing warnings related to coding standards, and updating dependencies. These efforts focus on improving code quality, enhancing test coverage, and maintaining the library's stability and performance."
         }
     },
     "profile_summary": null

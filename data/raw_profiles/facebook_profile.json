@@ -3,7 +3,7 @@
     "activity_summary": {
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities on React Native include the addition of a changelog for version 0.77.0-rc.5 and several code fixes. A notable fix was made to prevent overwriting external inputAccessoryView on Fabric, addressing issues with numeric text input not triggering onSubmitEditing, as outlined in issues #48339 and #48276."
+            "summary": "Recent activities in the facebook/react-native repository include improvements to the typing of BackHandler, with a resolved pull request and associated discussion. Additionally, a new pull request has been submitted implementing URL methods, fixing issue #45030 and providing URL accessors with test plans and demonstrations of the code's solidity."
         }
     },
     "profile_summary": null

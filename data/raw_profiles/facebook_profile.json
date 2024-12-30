@@ -3,11 +3,15 @@
     "activity_summary": {
         "facebook/react-native": {
             "link": "https://github.com/facebook/react-native",
-            "summary": "Recent activities include the submission of multiple pull requests adding support for linear gradient transition hint syntax, simplifying color stops parsing, and putting the processColorTransitionHint into native code to support platform colors, with added test cases and examples to demonstrate the changes."
+            "summary": "Recent activities in the facebook/react-native repository include a refactor of the Build HermesC apple job to use the same code in all jobs, as well as a synchronization of renderers between React and React Native in preparation for the 0.76 branch cut, aiming to address internal issues and improve overall performance."
         },
-        "facebook/lexical": {
-            "link": "https://github.com/facebook/lexical",
-            "summary": "Recent activities involve the submission of pull requests with updates, including a description of changes and a test plan, although the specifics of these updates are not detailed in the provided information."
+        "facebook/hermes": {
+            "link": "https://github.com/facebook/hermes",
+            "summary": "The facebook/hermes repository has seen a recent addition of iOS e2e tests, currently a work-in-progress, that depend on a related pull request in the react-native repository, focusing on ensuring the new job in CircleCI is successfully green."
+        },
+        "facebook/stetho": {
+            "link": "https://github.com/facebook/stetho",
+            "summary": "In the facebook/stetho repository, a recent pull request added null checks before using element info to resolve an existing issue, demonstrating ongoing efforts to enhance the repository's stability and fix known problems."
         }
     },
     "profile_summary": null

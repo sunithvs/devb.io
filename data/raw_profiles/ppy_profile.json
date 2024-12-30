@@ -3,15 +3,11 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "The osu repository has seen significant activities recently, including fixes to volume adjust key repeat issues, improvements to the metronome in the timing screen, and additions of difficulty and performance calculations for the Autopilot mod on the osu ruleset. These changes were made through a combination of push and pull requests, with contributors addressing issues such as duplicated blocks and key repeat functionality. The repository continues to be actively updated and refined, reflecting the ongoing development and maintenance of the osu platform."
-        },
-        "ppy/osu-wiki": {
-            "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has experienced recent activity, primarily centered around updates to the MWC 7K 2025 team listing. Multiple pull requests have been submitted and merged, ensuring that the team information is current and accurate. Additionally, other community-driven contributions, such as the addition of event information, have been added to the wiki, highlighting the collaborative effort to maintain and improve the osu community's knowledge base."
+            "summary": "Recent activities in the osu repository include several pull requests and a push event that addressed various issues, such as fixing the quick-deleting of unselected slider path control points, resolving volume adjust key repeat issues, and enhancing the metronome in the timing screen. Additionally, a pull request was merged to remove duplicated blocks, further improving the repository's codebase."
         },
         "ppy/osu-web": {
             "link": "https://github.com/ppy/osu-web",
-            "summary": "The osu-web repository has seen a recent update with a pull request aimed at replacing ts-loader and terser with swc, a Rust-based JavaScript/TypeScript compiler. This change is part of ongoing efforts to optimize and modernize the osu web platform, potentially leading to improvements in performance and development efficiency. While the details of this specific change are currently minimal, it represents a step in the continuous evolution and refinement of the osu web infrastructure."
+            "summary": "The osu-web repository saw a notable pull request to replace ts-loader and terser with swc, aiming to enhance the project's build and optimization process, although the details of the change were not extensively documented."
         }
     },
     "profile_summary": null

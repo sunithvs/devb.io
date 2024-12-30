@@ -1,13 +1,21 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/scaaml": {
-            "link": "https://github.com/google/scaaml",
-            "summary": "Recent activities include a dependabot update that bumped the markdownlint-cli2-action from version 18 to 19. The update includes various changes to the markdownlint version, including updates to version 0.37.0. The dependabot update also includes commits that freshen the generated index.js file and bump eslint from 9.16.0 to 9.17.0."
-        },
         "google/gvisor": {
             "link": "https://github.com/google/gvisor",
-            "summary": "Recent activities include a push event that added a machine-readable list of PyTorch GPU tests, simplified the KubernetesContext interface, and made internal changes. Other updates include a Go benchstat parser to support alternate syntax for parameters, adding utility functions to validate benchmark runtime, and updating the handler for NV_ESC_RM_UNMAP_MEMORY_DMA. The build for the runsc-metric-server binary has also been modified to use nocgo instead of static."
+            "summary": "Recent activities in the google/gvisor repository include multiple pull requests and push events focused on cleaning up struct field tags for nvproxy, which aimed to remove awkward metadata and standardize driver struct name definitions. Additionally, some camel-cased struct names were renamed to follow kernel source naming conventions, enhancing readability for gVisor purposes."
+        },
+        "google/tsl": {
+            "link": "https://github.com/google/tsl",
+            "summary": "The google/tsl repository has seen a recent pull request event integrating LLVM at a specific commit, updating LLVM usage to match recent developments in the llvm/llvm-project."
+        },
+        "google/heir": {
+            "link": "https://github.com/google/heir",
+            "summary": "In the google/heir repository, a pull request was submitted to correct the generation of Enum documentation, addressing an issue where Enum attributes were not properly documented due to the incorrect use of doc generation flags."
+        },
+        "google/angle": {
+            "link": "https://github.com/google/angle",
+            "summary": "Activity in the google/angle repository includes a push event rolling Chromium from one revision to another, incorporating 853 revisions and updating the project with the latest changes from the Chromium source."
         }
     },
     "profile_summary": null

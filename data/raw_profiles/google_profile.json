@@ -1,17 +1,13 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
+        "google/heir": {
+            "link": "https://github.com/google/heir",
+            "summary": "Recent activities in the google/heir repository include updates to the template generator for DialectTransforms, the addition of graphviz output for a dot-product example, and notes on running pre-commit. These changes have been made through a series of push and pull requests, showcasing active development and collaboration on the project."
+        },
         "google/device-infra": {
             "link": "https://github.com/google/device-infra",
-            "summary": "Recent activities in the google/device-infra repository include multiple internal changes through push events and pull requests, with a focus on updating code and resolving issues. These changes were made on December 30, 2024, and involved various PiperOrigin-RevId updates, indicating a series of internal modifications and improvements to the repository's codebase."
-        },
-        "google/tsl": {
-            "link": "https://github.com/google/tsl",
-            "summary": "The google/tsl repository saw significant activity on December 30, 2024, with a push event that included automated code changes, integration of LLVM, removal of dependencies, and other updates. These changes reflect efforts to maintain and improve the repository, including updating LLVM usage and removing unnecessary dependencies."
-        },
-        "google/jni-bind": {
-            "link": "https://github.com/google/jni-bind",
-            "summary": "The google/jni-bind repository had a push event on December 30, 2024, with an update to existing usages, indicating ongoing maintenance and refinement of the repository's content to ensure it remains current and effective."
+            "summary": "The google/device-infra repository has seen internal changes, with multiple push events and a pull request event reflecting ongoing maintenance and updates to the project. While the specifics of these changes are not detailed, the activity indicates that the repository is being actively managed and refined."
         }
     },
     "profile_summary": null

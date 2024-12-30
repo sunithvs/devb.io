@@ -1,9 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
-        "facebook/sapling": {
-            "link": "https://github.com/facebook/sapling",
-            "summary": "Recent activities in the facebook/sapling repository include a significant PushEvent that occurred on December 30, 2024, involving a deployment commit with the hash 5fc7ff5530c39f4a5ea989c061cef76799c617c1, indicating ongoing development and updates to the project."
+        "facebook/lexical": {
+            "link": "https://github.com/facebook/lexical",
+            "summary": "Recent activities in the facebook/lexical repository include a push event that occurred on December 30, 2024, involving an npm upgrade to the next version, as referenced in pull request #6996, alongside the release of version v0.22.1-nightly.20241230.0."
         }
     },
     "profile_summary": null

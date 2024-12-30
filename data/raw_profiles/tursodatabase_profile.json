@@ -3,7 +3,7 @@
     "activity_summary": {
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities in the limbo repository include a pull request aiming to refactor out repetitive agg_func code in vdbe, focusing on reducing repetition caused by binary math operators, thereby enhancing code cleanliness and maintainability."
+            "summary": "Recent activities in the limbo repository have focused on refactoring efforts, with a notable pull request aimed at eliminating repetitive code in the vdbe agg_func, specifically targeting binary math operators to enhance maintainability and reduce duplication."
         }
     },
     "profile_summary": null

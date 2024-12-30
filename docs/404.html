@@ -318,10 +318,10 @@
                 && githubUsernameRegex.test(username);
         }
     // Function to fetch user profile data
-    const custom_username = '';
+    const custom_username = 'suni';
     let profile_url = ''
     const pathParts = window.location.pathname.split('/').filter(part => part);
-    const username = custom_username || pathParts[0];
+    const username = pathParts[0];
     if (!username || !isValidGitHubUsername(username)) {
         profile_url = '';
     }

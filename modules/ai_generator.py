@@ -23,18 +23,20 @@ class AIDescriptionGenerator:
             str: AI-generated profile summary
         """
         prompt = (
-            "Craft a professional, SEO-optimized third-person profile description that:"
+            "Craft a Concise, SEO-optimized first-person profile description that:"
             "\n- Highlights the developer's strongest technical skills and expertise"
-            "\n- Emphasizes professional achievements and unique value proposition"
-            "\n- Uses industry-relevant keywords for search optimization"
-            "\n- Maintains a formal, positive tone"
+            "\n- Concise and on to the point"
+            "\n- Uses simple, direct language without excessive superlatives"
+            "\n- Incorporates unique details from the profile, bio and readme.md (if available)"
+            "\n- Limits the bio to 2-3 sentences"
             "\n\nProfile Details:"
             f"\nName: {profile_data['name']}"
             f"\nCore Technical Skills: {', '.join([lang[0] for lang in profile_data['top_languages']])}"
             f"\n- Followers: {profile_data['followers']} (indicating professional network and influence)"
             f"\n- Public Repositories: {profile_data['public_repos']} (demonstrating active development)"
             f"\n- Bio: {profile_data['bio']}"
-            "\n\nGenerate a concise, compelling description that positions the developer as a high-performing, innovative professional in their field. Use clear, professional language that showcases expertise, reliability, and technical prowess with 2 paragraphs only in simple english"
+            "\n\nGenerate a short, engaging summary."
+            f"\n- README: {profile_data['readme_content']}"
         )
 
         response = self.client.chat.completions.create(

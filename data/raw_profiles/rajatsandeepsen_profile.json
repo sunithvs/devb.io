@@ -1,0 +1,167 @@
+{
+    "username": "rajatsandeepsen",
+    "name": "Rajat Sandeep",
+    "bio": "ex-FOSS Lead \r\n@nexussjcet\r\n | CTO \r\n@IEDC-SJCET\r\n | AI Engineering - DevOps - GenAI -  Full Stack Dev",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/93584596?u=fc10e137e5f7c8b7100f12ee3847cfbc7cddf7c7&v=4",
+    "profile_url": "https://github.com/rajatsandeepsen",
+    "top_languages": [
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "t3-biome-bun-starter-kit",
+            "description": "T3 Biome Bun Starter Kit with Next.js, TailwindCSS, Drizzle ORM (postgres), tRPC, Shadcn-UI and NextAuth",
+            "score": 19.745655161488386,
+            "stars": 49,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/rajatsandeepsen/t3-biome-bun-starter-kit",
+            "updatedAt": "2024-12-30T06:08:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "t3-turbo-biome",
+            "description": "A full stack turborepo template with biome and shadcn native and web ui.",
+            "score": 16.84161479265894,
+            "stars": 26,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/rajatsandeepsen/t3-turbo-biome",
+            "updatedAt": "2024-12-18T13:43:18Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "insight",
+            "description": "General AI bot for users at SJCET Palai. Talk, Register event, Get latest campus news, Verify certificates etc",
+            "score": 11.343263575381402,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/rajatsandeepsen/insight",
+            "updatedAt": "2024-11-27T08:56:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "scriptw",
+            "description": "In-Browser Jupyter Notebook Alternative for Javascript REPL without Nodejs Kernel",
+            "score": 5.875882158064282,
+            "stars": 9,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/rajatsandeepsen/scriptw",
+            "updatedAt": "2024-12-18T10:48:33Z",
+            "isPinned": false,
+            "homepage": "https://scriptw.vercel.app"
+        },
+        {
+            "name": "docker-intro",
+            "description": null,
+            "score": 2.3421189203480184,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/rajatsandeepsen/docker-intro",
+            "updatedAt": "2024-03-04T06:26:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "code-demo",
+            "description": "\"Java valare simple ann\"",
+            "score": 2.152778653061493,
+            "stars": 0,
+            "forks": 3,
+            "language": "Java",
+            "url": "https://github.com/rajatsandeepsen/code-demo",
+            "updatedAt": "2022-10-14T14:40:29Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "abcd",
+            "description": null,
+            "score": 1.6797222921130974,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rajatsandeepsen/abcd",
+            "updatedAt": "2024-07-18T19:30:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test-template",
+            "description": null,
+            "score": 1.6797222921130974,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rajatsandeepsen/test-template",
+            "updatedAt": "2024-07-18T19:30:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 148,
+    "following": 247,
+    "public_repos": 94,
+    "pull_requests_merged": 21,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 420,
+        "repositories_contributed_to": 22
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/rajatsandeepsen"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rajatsandeepsen"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/rajatsandeepsen"
+        },
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/rajat.club"
+        }
+    ],
+    "readme_content": "![Rajat Sandeep](https://github.com/user-attachments/assets/e0c349ce-2099-42c2-affd-79e143d442da)\n",
+    "activity_summary": {
+        "rajatsandeepsen/radar": {
+            "link": "https://github.com/rajatsandeepsen/radar",
+            "summary": "Recent activities include multiple pushes with various feature additions such as adding a canvas to the main branch, initializing FastAPI, integrating Supabase and text LLM, identifying anomalies, implementing environment examples, and managing global state and drawing canvas."
+        },
+        "rajatsandeepsen/ai": {
+            "link": "https://github.com/rajatsandeepsen/ai",
+            "summary": "The repository saw several push events with fixes and feature additions including updates to the openai-compatible provider, improvements to documentation, addition of new providers like DeepInfra, and various code formatting fixes."
+        },
+        "vercel/ai": {
+            "link": "https://github.com/vercel/ai",
+            "summary": "A pull request event proposed the addition of an experimental generate code feature with tools for the AI core, demonstrating the potential for LLM to write custom logic within a safe environment using provided tools."
+        },
+        "rajatsandeepsen/t3-biome-bun-starter-kit": {
+            "link": "https://github.com/rajatsandeepsen/t3-biome-bun-starter-kit",
+            "summary": "A push event added the tailwindcss-motion feature to the repository."
+        }
+    },
+    "profile_summary": "As a seasoned developer with expertise in TypeScript, C, and C++, I leverage my technical skills to drive innovation in AI engineering, DevOps, and full-stack development. With a strong background as a former FOSS Lead and CTO, I have cultivated a professional network of 148 followers and actively contribute to the development community through my 94 public repositories. I'm passionate about exploring the intersections of technology, particularly in GenAI, and collaborating with like-minded individuals to push the boundaries of what's possible."
+}

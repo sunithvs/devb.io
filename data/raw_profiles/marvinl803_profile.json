@@ -1,0 +1,110 @@
+{
+    "username": "marvinl803",
+    "name": "Marvin Lopez",
+    "bio": "",
+    "location": "NYC",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27875562?u=16c399ab5cbb51def08822e33009bdc8583ed1b4&v=4",
+    "profile_url": "https://github.com/marvinl803",
+    "top_languages": [
+        [
+            "HTML",
+            3
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Portfolio_V2",
+            "description": "Portfolio Website",
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/marvinl803/Portfolio_V2",
+            "updatedAt": "2024-10-02T01:48:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 0.23657965237365802,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/marvinl803/Portfolio",
+            "updatedAt": "2024-06-20T03:38:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "real-madrid-tracker",
+            "description": null,
+            "score": 0.15763222689705664,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/marvinl803/real-madrid-tracker",
+            "updatedAt": "2023-06-11T03:25:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Habit_Tracker",
+            "description": null,
+            "score": 0.14856593535655163,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/marvinl803/Habit_Tracker",
+            "updatedAt": "2023-03-16T02:32:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "python-web-microblog",
+            "description": null,
+            "score": 0.14804716683185115,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/marvinl803/python-web-microblog",
+            "updatedAt": "2023-03-16T02:31:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 16,
+    "pull_requests_merged": 9,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 104,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "marvinl803/narwhals": {
+            "link": "https://github.com/marvinl803/narwhals",
+            "summary": "Recent activities include multiple push events that added new features such as pyarrow-stubs, improved error messages for unsupported group-by aggregations, and bumped the version to 1.19.0. Additional commits include enhancements to read_parquet, scan_parquet, and improvements to DataFrame and Series docstrings."
+        },
+        "narwhals-dev/narwhals": {
+            "link": "https://github.com/narwhals-dev/narwhals",
+            "summary": "Recent activities include two pull requests: one for adding tests for not-so-old-versions, pretty-old-versions, and nightlies; and another for adding utility functions to narwhals/dependencies, including is_narwhals_dataframe, is_narwhals_lazyframe, and is_narwhals_series, along with test cases."
+        },
+        "marvinl803/youtube": {
+            "link": "https://github.com/marvinl803/youtube",
+            "summary": "Recent activities include two push events: one added an autoplay message in English and another added a feature to filter videos under 2 minutes, along with a merge from the code-charity:master branch."
+        },
+        "code-charity/youtube": {
+            "link": "https://github.com/code-charity/youtube",
+            "summary": "Recent activity includes a pull request that added support for an English autoplay message, previously only available in Spanish, with before and after visual comparisons provided."
+        }
+    },
+    "profile_summary": "I'm Marvin Lopez, a detail-oriented developer with a strong foundation in HTML and CSS, actively building and maintaining a portfolio of 16 public repositories. With a focus on creating robust and scalable solutions, I continue to expand my skill set and contribute to the developer community. As I grow my professional network, I'm excited to collaborate and learn from like-minded individuals and share my own experiences and expertise."
+}

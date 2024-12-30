@@ -1,0 +1,138 @@
+{
+    "username": "malik-l0l",
+    "name": "malik-l0l",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/154656931?v=4",
+    "profile_url": "https://github.com/malik-l0l",
+    "top_languages": [
+        [
+            "Python",
+            30
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AKSHAR",
+            "description": "File management software that replaces time-consuming manual searches with an efficient digital system. It centralizes records, enables quick retrieval, boosts staff productivity, and ensures compliance with the RTI Act 2005.",
+            "score": 11.815293862373903,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/AKSHAR",
+            "updatedAt": "2024-11-28T19:08:45Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "mallu-bingo",
+            "description": "Web version of traditional \"BINGO\" game played by the thousands of students in Kerala to cure the boredom in classes.",
+            "score": 11.755712179841632,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/mallu-bingo",
+            "updatedAt": "2024-11-17T04:42:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Cricket",
+            "description": "Play finger cricket with computer",
+            "score": 11.651011454018462,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Cricket",
+            "updatedAt": "2024-03-17T16:27:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Zero_Point_Zero",
+            "description": "Simple basic terminal calculator",
+            "score": 11.648819762824647,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Zero_Point_Zero",
+            "updatedAt": "2024-10-31T19:13:18Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Golden_Calculator",
+            "description": "If you're tired of ordinary calculators, try this incredible golden one right now!",
+            "score": 11.640536072475967,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Golden_Calculator",
+            "updatedAt": "2024-03-08T19:34:23Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Sink_It",
+            "description": "simple terminal game where you are riding a jet trying to shoot down a enemy ship.",
+            "score": 10.266884878114224,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Sink_It",
+            "updatedAt": "2024-03-30T10:35:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Hex_Finder",
+            "description": "Want to find hex color codes for your project quickly?",
+            "score": 1.6510114540184615,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Hex_Finder",
+            "updatedAt": "2024-03-17T16:27:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sub_Trans",
+            "description": "Translate text, subtitles without character limit",
+            "score": 1.6510114540184615,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/malik-l0l/Sub_Trans",
+            "updatedAt": "2024-03-17T10:08:15Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 32,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 136,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**malik-l0l/malik-l0l** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {
+        "malik-l0l/mallu-bingo": {
+            "link": "https://github.com/malik-l0l/mallu-bingo",
+            "summary": "Recent activities in the mallu-bingo repository have been focused on updating the README.md file with multiple commits made between November 3rd and November 17th, indicating ongoing maintenance and documentation efforts. Additionally, changes were made to templates, suggesting improvements to the project's structure or user interface."
+        },
+        "malik-l0l/AKSHAR": {
+            "link": "https://github.com/malik-l0l/AKSHAR",
+            "summary": "The AKSHAR repository saw significant activity on November 28th, with the deletion of the Documentation directory and the creation of a README.md file, suggesting a restructuring of the project's documentation and potentially a shift in the approach to guiding users or contributors."
+        }
+    },
+    "profile_summary": "I'm a Python and HTML developer with a strong presence on GitHub, where I've built and shared 32 public repositories to showcase my skills and projects. As a detail-driven developer, I'm excited to collaborate and contribute to innovative projects, and I'm always looking to expand my knowledge and expertise in programming. With a focus on delivering high-quality code, I'm eager to connect with like-minded professionals and build meaningful relationships within the development community."
+}

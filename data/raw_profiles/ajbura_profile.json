@@ -1,0 +1,106 @@
+{
+    "username": "ajbura",
+    "name": "Ajay Bura",
+    "bio": "Web Designer & Developer in love with music, cycling and discovering new worlds and cultures.",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/32841439?u=791158091f4a13c8b6460cdbf29cdfba9effedfa&v=4",
+    "profile_url": "https://github.com/ajbura",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "arewemojiyet",
+            "description": null,
+            "score": 2.569902995899854,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/ajbura/arewemojiyet",
+            "updatedAt": "2023-07-03T06:45:45Z"
+        },
+        {
+            "name": "walla",
+            "description": null,
+            "score": 0.06910258683492354,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajbura/walla",
+            "updatedAt": "2021-03-13T08:24:48Z"
+        },
+        {
+            "name": "react-setup-from-scratch",
+            "description": null,
+            "score": 0.06825186163065759,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajbura/react-setup-from-scratch",
+            "updatedAt": "2020-11-02T06:20:00Z"
+        },
+        {
+            "name": "chat-app",
+            "description": null,
+            "score": 0.06586875779593473,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajbura/chat-app",
+            "updatedAt": "2019-07-31T03:58:56Z"
+        },
+        {
+            "name": "task-manager-api",
+            "description": null,
+            "score": 0.06585125006026166,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajbura/task-manager-api",
+            "updatedAt": "2019-07-26T08:09:25Z"
+        },
+        {
+            "name": "ajbura.github.io",
+            "description": null,
+            "score": 0.06501708761620267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajbura/ajbura.github.io",
+            "updatedAt": "2020-08-02T09:00:23Z"
+        }
+    ],
+    "followers": 60,
+    "following": 2,
+    "public_repos": 19,
+    "pull_requests_merged": 45,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 257,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ajbura_"
+        }
+    ],
+    "activity_summary": {
+        "cinnyapp/cinny": {
+            "link": "https://github.com/cinnyapp/cinny",
+            "summary": "Recent activities in cinnyapp/cinny include improvements to the custom emoji plugin, enhancements to the emoji ordering in the emoji board, and various bug fixes such as resolving issues with pinned message edits and adding account data editor functionality in the developer tools."
+        },
+        "cinnyapp/cla": {
+            "link": "https://github.com/cinnyapp/cla",
+            "summary": "The cinnyapp/cla repository has seen recent activities including the signing of the CLA by multiple contributors, specifically @lyon93, @Rajnish2105, and @Vishawdeep-Singh, in relation to issues in the cinnyapp/cinny repository."
+        },
+        "cinnyapp/folds": {
+            "link": "https://github.com/cinnyapp/folds",
+            "summary": "Activities in cinnyapp/folds involve the development of a text area component, with recent pushes focusing on resizing variants and fixing typos in the textarea storybook resize options, alongside a pull request for the new text area component feature."
+        }
+    },
+    "profile_summary": "Ajay Bura is a skilled web designer and developer with a strong passion for creating innovative solutions using JavaScript. With a professional network of 60 followers and 19 public repositories, he has established himself as a reliable and active developer in the industry. His technical expertise in JavaScript enables him to build dynamic and interactive web applications that meet the needs of his clients. As a web designer and developer, Ajay Bura is dedicated to staying up-to-date with the latest trends and technologies, ensuring that his skills remain current and relevant in the ever-evolving tech landscape.\n\nAjay Bura's unique blend of technical skills and creative flair makes him a valuable asset to any project. When he's not coding, he enjoys exploring new cultures, listening to music, and cycling. This diverse range of interests brings a fresh perspective to his work, allowing him to approach problems from unique angles and find innovative solutions. With his strong technical foundation and passion for web development, Ajay Bura is a high-performing professional who consistently delivers high-quality results and exceeds expectations. His expertise in JavaScript and web development makes him an ideal candidate for companies seeking a skilled and dedicated developer to drive their projects forward."
+}

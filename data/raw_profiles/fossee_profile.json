@@ -3,23 +3,23 @@
     "activity_summary": {
         "FOSSEE/scilab_case_study_hackathon": {
             "link": "https://github.com/FOSSEE/scilab_case_study_hackathon",
-            "summary": "Recent activities include multiple updates to the repository's content, including date content updates, new logos additions, and changes to the Home page, problem-statement page, evaluation, and resources page, with the latest push event occurring on December 27, 2024."
+            "summary": "Recent activities include multiple updates to the content of various pages, such as the Home page, problem-statement page, evaluation page, and resources page. Additionally, new logos were added and meta keywords were updated. There were also several push events with content updates."
         },
         "FOSSEE/Common-Interface-Project": {
             "link": "https://github.com/FOSSEE/Common-Interface-Project",
-            "summary": "The repository has seen significant activity with multiple push and pull requests, focusing on code cleanup, simplification, and updates to ExplicitLink, xsl files for geometry, and xmlparser files, with the most recent push event happening on December 27, 2024."
+            "summary": "Recent activities involve cleanup of the code for simplicity, updates to xsl files for geometry point values, and changes to the exit code. There were also updates to the xmlparser file and ExplicitLink to resolve differences between y values. Multiple pull requests were merged, including those for geometry and xcosblocks."
         },
         "FOSSEE/fossee-banners": {
             "link": "https://github.com/FOSSEE/fossee-banners",
-            "summary": "Recent updates involve the addition of a new banner for the Scilab hackathon and an update to an existing banner link, demonstrating ongoing maintenance and updates to the repository's content, with the latest activity on December 27, 2024."
+            "summary": "Recent activities include the addition of a new banner for the Scilab hackathon and an update to the link of an existing banner. These changes were made through push events and pull requests."
         },
         "FOSSEE/certificate-generator": {
             "link": "https://github.com/FOSSEE/certificate-generator",
-            "summary": "A recent push event on December 27, 2024, added Arduino Workshop Certificates, indicating the repository's ongoing activity and updates to its certificate generation capabilities."
+            "summary": "Recent activity includes the generation of Arduino Workshop Certificates through a push event."
         },
         "FOSSEE/scilab_case_study_portal": {
             "link": "https://github.com/FOSSEE/scilab_case_study_portal",
-            "summary": "The repository saw a recent update on December 24, 2024, where a description was added under the project title, demonstrating minor but ongoing maintenance and updates to the portal's content."
+            "summary": "Recent activity involves adding a description under the project title, which was directly added from GitHub through a push event."
         }
     },
     "profile_summary": null

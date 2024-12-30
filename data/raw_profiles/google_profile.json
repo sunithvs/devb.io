@@ -1,21 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/android-cuttlefish": {
-            "link": "https://github.com/google/android-cuttlefish",
-            "summary": "Recent activities include a pull request to update documentation for downloading docker images from AR, accompanied by a corresponding push event with the same update, indicating ongoing efforts to refine the repository's documentation and codebase."
+        "google/device-infra": {
+            "link": "https://github.com/google/device-infra",
+            "summary": "Recent activities in the google/device-infra repository include multiple internal changes through push events and pull requests, with a focus on updating code and resolving issues. These changes were made on December 30, 2024, and involved various PiperOrigin-RevId updates, indicating a series of internal modifications and improvements to the repository's codebase."
+        },
+        "google/tsl": {
+            "link": "https://github.com/google/tsl",
+            "summary": "The google/tsl repository saw significant activity on December 30, 2024, with a push event that included automated code changes, integration of LLVM, removal of dependencies, and other updates. These changes reflect efforts to maintain and improve the repository, including updating LLVM usage and removing unnecessary dependencies."
         },
         "google/jni-bind": {
             "link": "https://github.com/google/jni-bind",
-            "summary": "A recent push event with a temp commit for backport suggests that the repository is undergoing maintenance or updates, potentially addressing issues or incorporating new features in preparation for a release."
-        },
-        "google/minja": {
-            "link": "https://github.com/google/minja",
-            "summary": "A pull request focusing on the implementation of list and object pop() method has been submitted, indicating active development and a focus on enhancing the functionality of the repository, likely to improve its usability and efficiency."
-        },
-        "google/it-cert-automation-practice": {
-            "link": "https://github.com/google/it-cert-automation-practice",
-            "summary": "The repository saw a pull request that updates the validations.py Python script, fixing a specific issue and including a checklist for tests and README updates, showcasing a structured approach to contributing and maintaining the repository, with an emphasis on collaboration and thoroughness."
+            "summary": "The google/jni-bind repository had a push event on December 30, 2024, with an update to existing usages, indicating ongoing maintenance and refinement of the repository's content to ensure it remains current and effective."
         }
     },
     "profile_summary": null

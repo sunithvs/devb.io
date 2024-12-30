@@ -3,7 +3,15 @@
     "activity_summary": {
         "facebook/lexical": {
             "link": "https://github.com/facebook/lexical",
-            "summary": "Recent activities in the facebook/lexical repository include a push event that occurred on December 30, 2024, involving an npm upgrade to the next version, as referenced in pull request #6996, alongside the release of version v0.22.1-nightly.20241230.0."
+            "summary": "Recent activities in the facebook/lexical repository include a push event fixing a typo in README.md and a pull request event focused on the same documentation update, as well as another push event upgrading npm dependencies for the next version, highlighting ongoing maintenance and improvement efforts."
+        },
+        "facebook/pyre-check": {
+            "link": "https://github.com/facebook/pyre-check",
+            "summary": "The facebook/pyre-check repository has seen significant activity, including a push event containing multiple commits that enhance the project by dropping Never from unions, making improvements to lookup_name, allowing BoundMethod to match Callable, bumping tracing crates, and modeling control flow for try/except, showcasing active development and refinement of the project."
+        },
+        "facebook/OpenBIC": {
+            "link": "https://github.com/facebook/OpenBIC",
+            "summary": "In the facebook/OpenBIC repository, a pull request event was initiated to modify CONFIG_MINIMAL_LIBC_MALLOC_ARENA_SIZE to 170k, accompanied by a successful build test, indicating focused updates aimed at optimizing performance."
         }
     },
     "profile_summary": null

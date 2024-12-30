@@ -321,7 +321,7 @@
     const custom_username = '';
     let profile_url = ''
     const pathParts = window.location.pathname.split('/').filter(part => part);
-    const username = custom_username || pathParts[1];
+    const username = custom_username || pathParts[0];
     if (!username || !isValidGitHubUsername(username)) {
         profile_url = '';
     }

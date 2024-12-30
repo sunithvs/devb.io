@@ -305,47 +305,46 @@
 
 <script>
     function isValidGitHubUsername(username) {
-            // GitHub username rules:
-            // 1. 1-39 characters long
-            // 2. Can only contain alphanumeric characters and hyphens
-            // 3. Cannot start or end with a hyphen
-            // 4. Cannot have consecutive hyphens
-            const githubUsernameRegex = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d]))*$/i;
+        // GitHub username rules:
+        // 1. 1-39 characters long
+        // 2. Can only contain alphanumeric characters and hyphens
+        // 3. Cannot start or end with a hyphen
+        // 4. Cannot have consecutive hyphens
+        const githubUsernameRegex = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d]))*$/i;
 
-            return username
-                && username.length >= 1
-                && username.length <= 39
-                && githubUsernameRegex.test(username);
-        }
-    // Function to fetch user profile data
-    const custom_username = 'suni';
+        return username
+            && username.length >= 1
+            && username.length <= 39
+            && githubUsernameRegex.test(username);
+    }
+
     let profile_url = ''
-    const pathParts = window.location.pathname.split('/').filter(part => part);
-    const username = pathParts[0];
-    if (!username || !isValidGitHubUsername(username)) {
-        profile_url = '';
-    }
-    else {
-    //     first check username in data/processed_users.json
-        const processed_users = fetch('data/processed_users.json')
-            .then(response => response.json())
-            .then(data => {
-               if (username in data ){
-                   profile_url = `https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/data/raw_profiles/${username}_profile.json`
-               }
-               else {
-                   profile_url = `https://user.devb.io/user/${username}`
-               }
-            })
-            .catch((error) => {
-                profile_url = `https://user.devb.io/user/${username}`
-            });
 
+    async function resolveProfileUrl() {
+        const pathParts = window.location.pathname.split('/').filter(part => part);
+        // const username = pathParts[0];
+        const username = pathParts[0];
+
+        if (!username || !isValidGitHubUsername(username)) {
+            return '';
+        }
+
+        try {
+            const response = await fetch('data/processed_users.json');
+            const data = await response.json();
+
+            if (username in data) {
+                return `https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/data/raw_profiles/${username}_profile.json`;
+            }
+            return `https://user.devb.io/user/${username}`;
+        } catch (error) {
+            return `https://user.devb.io/user/${username}`;
+        }
     }
-    console.log(profile_url)
+
 
     async function fetchUserProfile() {
-
+        profile_url = await resolveProfileUrl();
         // If no username or invalid username, render 404
         if (!profile_url) {
             renderNotFoundPage();

@@ -1,17 +1,9 @@
 {
     "error": "An unexpected error occurred: User 'google' not found or query returned no data.",
     "activity_summary": {
-        "google/zerocopy": {
-            "link": "https://github.com/google/zerocopy",
-            "summary": "Recent activities include automated pull requests to roll pinned nightly toolchains, with multiple updates made on the same day, indicating ongoing efforts to maintain and update the repository."
-        },
-        "google/deps.dev": {
-            "link": "https://github.com/google/deps.dev",
-            "summary": "The repository has seen recent activities involving pull requests to bump dependencies such as golang.org/x/sync and golang.org/x/time, reflecting efforts to keep the project's dependencies up to date and secure."
-        },
-        "google/budoux": {
-            "link": "https://github.com/google/budoux",
-            "summary": "Recent activities in this repository include a pull request to bump the commander dependency from 12.1.0 to 13.0.0 in the javascript directory, indicating updates to the project's dependencies and potentially improving its functionality and security."
+        "google/earthengine-community": {
+            "link": "https://github.com/google/earthengine-community",
+            "summary": "Recent activities in the google/earthengine-community repository include a push event and a pull request, both dated December 30, 2024, focused on converting API code snippets from JavaScript to Python, indicating efforts to enhance the repository's compatibility and usability."
         }
     },
     "profile_summary": null

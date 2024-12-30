@@ -3,11 +3,15 @@
     "activity_summary": {
         "ppy/osu": {
             "link": "https://github.com/ppy/osu",
-            "summary": "Recent activities in the osu repository include multiple pull requests and push events focused on fixing issues with slider path control points, improving sample point indicators, and modifying star rating calculations. Notable changes include fixes for quick-deleting unselected slider path control points and taking custom bank name length into account when collapsing sample point indicators. Additionally, there are proposed changes to move score-independent bonuses into star rating and to fix issues with slider end drag markers blocking context menus."
+            "summary": "Recent activities include fixing the slider end drag marker blocking open of control point piece context menus, removing fetching logic from the leaderboard, and fixing slider repeats not properly respecting the 'show hit markers' setting. These updates aim to improve the overall user experience and resolve existing issues, such as those related to test coverage, merge conflicts, and skin compatibility. Additionally, there have been efforts to refactor code, add test cases, and resolve merge conflicts, demonstrating a focus on code quality and maintenance."
+        },
+        "ppy/osu-server-beatmap-submission": {
+            "link": "https://github.com/ppy/osu-server-beatmap-submission",
+            "summary": "Recent activities have focused on implementing required interactions with beatmap mirrors, including the implementation of a mirror service and the update of `pending_purge` on `osu_mirrors`. These changes aim to enhance the functionality and efficiency of the beatmap submission process, with a focus on testing and validation to ensure seamless integration with other components."
         },
         "ppy/osu-wiki": {
             "link": "https://github.com/ppy/osu-wiki",
-            "summary": "The osu-wiki repository has seen a recent pull request event focused on translating the 'Gameplay/Score' section into German, with the contributor following the self-check guidelines from the contribution checklist but awaiting review from a fluent speaker."
+            "summary": "Recent activities have centered around fixing incorrect profile picture display in the `Twitter` section, specifically addressing an issue where the osu!support profile picture had a white box behind it. This update ensures accurate and proper display of images, contributing to a more polished and professional appearance of the wiki."
         }
     },
     "profile_summary": null

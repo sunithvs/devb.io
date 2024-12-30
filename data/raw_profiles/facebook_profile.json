@@ -1,9 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'facebook' not found or query returned no data.",
     "activity_summary": {
+        "facebook/react-native": {
+            "link": "https://github.com/facebook/react-native",
+            "summary": "Recent activities include bug fixes, such as resolving issues with external inputAccessoryView on Fabric and fixing Numeric TextInput not triggering onSubmitEditing, as well as the addition of a Changelog for version 0.77.0-rc.5."
+        },
         "facebook/ThreatExchange": {
             "link": "https://github.com/facebook/ThreatExchange",
-            "summary": "Recent activities in the ThreatExchange repository include a push event and a pull request event, both occurring on December 30, 2024. The push event involved a commit to check for the hasher role in the /lookup endpoint, while the pull request event aimed to resolve issue #1703 with a fix that includes a unit test and a detailed test plan to verify the correction, specifically ensuring a 403 error is returned when hashing is disabled due to a missing role."
+            "summary": "Ongoing activities involve enhancements to the lookup endpoint, including a check for the hasher role, with corresponding unit tests and a detailed test plan to ensure the endpoint's proper functioning and error handling."
+        },
+        "facebook/sapling": {
+            "link": "https://github.com/facebook/sapling",
+            "summary": "Recent updates include increasing the timeout for sparse-profile-size to address potential issues, demonstrating the repository's focus on improving performance and reliability."
         }
     },
     "profile_summary": null

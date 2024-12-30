@@ -1,17 +1,17 @@
 {
     "error": "An unexpected error occurred: User 'tursodatabase' not found or query returned no data.",
     "activity_summary": {
+        "tursodatabase/libsql": {
+            "link": "https://github.com/tursodatabase/libsql",
+            "summary": "Recently, the libsql repository has been active with a pull request to bump the pprof version, addressing Dependabot warnings about unsound usage in older versions. This upgrade was successfully merged, demonstrating the repository's focus on maintaining security and stability."
+        },
         "tursodatabase/limbo": {
             "link": "https://github.com/tursodatabase/limbo",
-            "summary": "Recent activities include fixes to glob patterns to ensure accurate regex translations, test additions for subqueries and joins, as well as refactorings to improve code reuse in the FROM clause parsing."
+            "summary": "The limbo repository has seen significant activity with fixes to issues such as glob giving wrong results in certain cases. Enhancements to the FROM clause tables parsing have been made to improve code reusability. Additionally, tests have been added for subqueries containing joins, further increasing the repository's functionality and robustness."
         },
         "tursodatabase/libsql-js": {
             "link": "https://github.com/tursodatabase/libsql-js",
-            "summary": "Notable activities involve adding tests for named parameters, demonstrating enhanced functionality and robustness through increased test coverage, facilitated by merged pull requests."
-        },
-        "tursodatabase/libsql": {
-            "link": "https://github.com/tursodatabase/libsql",
-            "summary": "A significant update includes bumping the pprof version to address security concerns, as suggested by Dependabot, to ensure the library's dependency on pprof aligns with maintainable and secure practices."
+            "summary": "In the libsql-js repository, efforts have been focused on expanding functionality, particularly with the addition of tests for named parameters. A pull request for this feature was successfully merged, indicating the repository's ongoing development and refinement of its capabilities, especially in areas related to parameter handling."
         }
     },
     "profile_summary": null

@@ -37,6 +37,16 @@ class GitHubProfileFetcher:
                         following {{
                           totalCount
                         }}
+                        repository(name: "{username}") {{
+                          object(expression: "HEAD:README.md") {{
+                            ... on Blob {{
+                              text
+                            }}
+                          }}
+                          defaultBranchRef {{
+                            name
+                          }}
+                        }}
                         repositories(first: 100, orderBy: {{field: UPDATED_AT, direction: DESC}}) {{
                           totalCount
                           nodes {{
@@ -117,7 +127,7 @@ class GitHubProfileFetcher:
             featured = GitHubProjectRanker().get_featured(username)
             return {
                 'username': username,
-                'name': graphql_data.get('name', username),
+                'name': graphql_data.get('name') or username,
                 'bio': graphql_data.get('bio', ''),
                 'location': graphql_data.get('location', ''),
                 'avatar_url': graphql_data.get('avatarUrl', ''),
@@ -133,7 +143,9 @@ class GitHubProfileFetcher:
                     'total_contributions': graphql_data['contributionsCollection']['contributionCalendar']['totalContributions'],
                     'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
                 },
-                'social_accounts': GitHubProfileFetcher.social_accounts(username)
+                'social_accounts': GitHubProfileFetcher.social_accounts(username),
+                'readme_content' :( graphql_data.get('repository', {}).get('object', {}).get('text', '') 
+                                  if ( graphql_data.get('repository') and graphql_data.get('repository', {}).get('object') ) else '' )    # empty string if falsy values
             }
 
         except requests.exceptions.HTTPError as e:

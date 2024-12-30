@@ -144,7 +144,8 @@ class GitHubProfileFetcher:
                     'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
                 },
                 'social_accounts': GitHubProfileFetcher.social_accounts(username),
-                'readme_content' : graphql_data.get('repository', {}).get('object', {}).get('text') or '',    # empty string if flasy values
+                'readme_content' :( graphql_data.get('repository', {}).get('object', {}).get('text', '') 
+                                  if ( graphql_data.get('repository') and graphql_data.get('repository', {}).get('object') ) else '' )    # empty string if falsy values
             }
 
         except requests.exceptions.HTTPError as e:

@@ -1,0 +1,159 @@
+{
+    "username": "pratheesh18",
+    "name": "Pratheesh Balachandran",
+    "bio": "",
+    "location": "Colombo , Sri Lanka",
+    "avatar_url": "https://avatars.githubusercontent.com/u/84024670?u=04b004c1934d1c04ece49171ea8674a773e9d001&v=4",
+    "profile_url": "https://github.com/Pratheesh18",
+    "top_languages": [
+        [
+            "JavaScript",
+            22
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Online-Book-Store",
+            "description": null,
+            "score": 10.383433327952996,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Pratheesh18/Online-Book-Store",
+            "updatedAt": "2024-11-24T17:01:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Rooms-Management",
+            "description": null,
+            "score": 10.381502167216063,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pratheesh18/Rooms-Management",
+            "updatedAt": "2024-11-11T16:14:37Z",
+            "isPinned": true,
+            "homepage": "https://rooms-management.vercel.app"
+        },
+        {
+            "name": "Recipe-Application",
+            "description": null,
+            "score": 10.360673760222241,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pratheesh18/Recipe-Application",
+            "updatedAt": "2024-11-25T15:50:50Z",
+            "isPinned": true,
+            "homepage": "https://recipe-application-client.vercel.app/"
+        },
+        {
+            "name": "Books-App",
+            "description": null,
+            "score": 10.287040320485755,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Pratheesh18/Books-App",
+            "updatedAt": "2024-08-14T04:39:51Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Machine-Learning-Projects",
+            "description": null,
+            "score": 10.156653710444239,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Pratheesh18/Machine-Learning-Projects",
+            "updatedAt": "2023-05-19T17:08:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "User-Management-System",
+            "description": null,
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Pratheesh18/User-Management-System",
+            "updatedAt": "2024-12-19T10:35:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "E-Commerce-Store",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Pratheesh18/E-Commerce-Store",
+            "updatedAt": "2024-12-03T15:07:39Z",
+            "isPinned": false,
+            "homepage": "https://e-commerce-store-gamma-gray.vercel.app"
+        },
+        {
+            "name": "items-app",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Pratheesh18/items-app",
+            "updatedAt": "2024-10-23T11:58:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 22,
+    "public_repos": 53,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 186,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/18Pratheesh"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/pratheesh-balachandran/"
+        }
+    ],
+    "readme_content": "\n## \ud83c\udf10 Socials:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratheesh-balachandran) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Pratheesh18) \n\n# \ud83d\udcbb Tech Stack:\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) \t![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=Pratheesh18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=Pratheesh18&theme=dark&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratheesh18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)\n\n## \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=Pratheesh18&theme=radical&no-frame=false&no-bg=true&margin-w=4)\n\n### \ud83d\ude02 Random Dev Meme\n<img src=\"https://rm.up.railway.app/\" width=\"512px\"/>\n\n---\n[![](https://visitcount.itsvg.in/api?id=Pratheesh18&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {
+        "E-Commerce-Store": {
+            "link": "https://github.com/Pratheesh18/E-Commerce-Store",
+            "summary": "The E-Commerce-Store repository has seen significant activities recently, with numerous push events occurring between November 29th and December 3rd. The updates include the implementation of logout functionality, addition of debounce functionality to search, adjustment of styles, creation of a password component, addition of toast functionality, and development of cart functionality. These updates suggest active development and refinement of the e-commerce store's features."
+        },
+        "User-Management-System": {
+            "link": "https://github.com/Pratheesh18/User-Management-System",
+            "summary": "The User-Management-System repository has experienced substantial activities from December 14th to December 18th, with multiple push events focused on implementing essential features. These include the creation of a login page, implementation of user and company modules, initialization of a React project, implementation of sign-up and sign-in APIs, and user CRUD operations. These updates indicate progress in building a comprehensive user management system."
+        },
+        "JavaScript-Projects": {
+            "link": "https://github.com/Pratheesh18/JavaScript-Projects",
+            "summary": "The JavaScript-Projects repository has seen activity with several push events from November 26th to December 7th. The updates include the implementation of a button, a navbar, and the creation of a new project, suggesting ongoing development and experimentation with JavaScript projects. While the activities are less intense compared to other repositories, they indicate a continuous effort to explore and build JavaScript-based projects."
+        },
+        "Recipe-Application": {
+            "link": "https://github.com/Pratheesh18/Recipe-Application",
+            "summary": "The Recipe-Application repository had a notable update on November 25th, where the modal styles were adjusted. Although there have been no recent activities beyond this point, this update shows that the repository is not entirely dormant and may be subject to intermittent refinement and development focused on user interface enhancements."
+        }
+    },
+    "profile_summary": "I'm Pratheesh Balachandran, a skilled developer with expertise in JavaScript, TypeScript, and Python, passionate about building innovative solutions with a strong foundation in web development and data science. With a network of 9 followers and 53 public repositories, I'm committed to continuous learning and collaboration. You can find me on LinkedIn and Medium, where I share my knowledge and experiences with the community."
+}

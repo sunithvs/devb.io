@@ -1,0 +1,155 @@
+{
+    "username": "aswinpradeepc",
+    "name": "Aswin Pradeep",
+    "bio": "CSE Student at CUSAT | Ex-Intern @ Agua India & Lascade | Backend Developer | Linux Enthusiast",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100145929?u=5e2e2ab1abe4ec0a56862a313e1c4df5bc59398e&v=4",
+    "profile_url": "https://github.com/aswinpradeepc",
+    "top_languages": [
+        [
+            "Python",
+            9
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "take-rest",
+            "description": "Eye monitoring system for people with high screen time",
+            "score": 12.998363477349217,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/take-rest",
+            "updatedAt": "2024-06-03T14:26:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Fidget-a-Ton",
+            "description": "Design files of swag made for Make-A-Ton 6.0",
+            "score": 12.445754875502097,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpradeepc/Fidget-a-Ton",
+            "updatedAt": "2024-05-16T20:14:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "tasks-cli",
+            "description": "CLI todo list app",
+            "score": 12.037736083974767,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/tasks-cli",
+            "updatedAt": "2024-12-24T12:38:40Z",
+            "isPinned": true,
+            "homepage": "https://aswinpradeepc.github.io/tasks-cli/"
+        },
+        {
+            "name": "Bibliobazaar",
+            "description": "An e-commerce book-selling website developed using Django",
+            "score": 11.62280828145768,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aswinpradeepc/Bibliobazaar",
+            "updatedAt": "2024-03-30T12:28:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "SOE-Project-Hub",
+            "description": "Complete academic Project Submission streamlining solution",
+            "score": 10.288852775609499,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/SOE-Project-Hub",
+            "updatedAt": "2024-12-30T18:29:53Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Web_Scrapping",
+            "description": "Code to web scrap and post that data to another django project",
+            "score": 10.073243490466398,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/Web_Scrapping",
+            "updatedAt": "2022-06-23T12:21:53Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "team4xplor",
+            "description": "Repo for Xplor Hackathon",
+            "score": 3.805330120711064,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/team4xplor",
+            "updatedAt": "2024-12-17T15:25:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bored_af",
+            "description": "lazy and bored.",
+            "score": 1.6495865123814104,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aswinpradeepc/bored_af",
+            "updatedAt": "2024-09-11T02:09:06Z",
+            "isPinned": false,
+            "homepage": "https://aswinpradeepc.github.io/bored_af/"
+        }
+    ],
+    "followers": 14,
+    "following": 13,
+    "public_repos": 46,
+    "pull_requests_merged": 2,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 251,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/aswinpradeepc"
+        }
+    ],
+    "readme_content": "# Hi, I'm Aswin \ud83d\udc4b\n\nI'm an engineering student at Cochin University of Science and Technology.\n\n- \ud83c\udf31 Exploring life at full throttle. \n- \ud83d\udcac Let's talk about computers and tech communities.\n- \ud83d\udceb How to reach me: [matrix] : <a href=\"https://matrix.to/#/@aswinpradeepc:matrix.org\" target=\"_blank\">@aswinpradeepc:matrix.org</a> or on LinkedIn: <a href=\"https://linkedin.com/in/aswinpradeepc\" target=\"_blank\">Aswin Pradeep</a>\n\n![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)\n",
+    "activity_summary": {
+        "aswinpradeepc/test": {
+            "link": "https://github.com/aswinpradeepc/test",
+            "summary": "Recent activities in the aswinpradeepc/test repository include multiple push events, primarily focused on adding new questions or modifying existing ones, with commits occurring from December 24 to December 29, 2024."
+        },
+        "aswinpradeepc/tasks-cli": {
+            "link": "https://github.com/aswinpradeepc/tasks-cli",
+            "summary": "The aswinpradeepc/tasks-cli repository experienced significant activity, particularly around solving issue #3, implementing bug fixes, and enhancing user experience through the addition of messages, with a mix of push and pull request events between December 22 and December 24, 2024."
+        },
+        "aswinpradeepc/SOE-Project-Hub": {
+            "link": "https://github.com/aswinpradeepc/SOE-Project-Hub",
+            "summary": "Activity in the aswinpradeepc/SOE-Project-Hub repository involved creating and updating the README.md file, with push events on December 28 and December 30, 2024, suggesting initialization and documentation efforts."
+        },
+        "aswinpradeepc/gcc": {
+            "link": "https://github.com/aswinpradeepc/gcc",
+            "summary": "The aswinpradeepc/gcc repository saw a single but extensive push event on December 24, 2024, incorporating various patches and updates, including those related to GCC's handling of bool and enum null pointer constants, CodeView information, and RISC-V optimizations, among others."
+        }
+    },
+    "profile_summary": "I'm Aswin Pradeep, a computer science engineering student with a strong foundation in Python, C++, and JavaScript, and a passion for backend development and Linux. With experience as an intern at Agua India and Lascade, I've developed a solid technical skillset, which I continuously expand through personal projects and collaborations. As an active developer with 46 public repositories, I'm excited to connect with like-minded individuals and contribute to the tech community."
+}

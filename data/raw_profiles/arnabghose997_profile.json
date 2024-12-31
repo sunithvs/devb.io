@@ -1,0 +1,138 @@
+{
+    "username": "arnabghose997",
+    "name": "Arnab Ghose",
+    "bio": "Senior Software Engineer at @rubixchain | Blockchain Protocol Development | Codes in Golang, Rust | Familiar with Python, JS",
+    "location": "Hyderabad, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/32813269?u=9ca903214109622895f5f438fd6f730171cc39c7&v=4",
+    "profile_url": "https://github.com/arnabghose997",
+    "top_languages": [
+        [
+            "Rust",
+            2
+        ],
+        [
+            "Go",
+            3
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "arnabghose997.github.io",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/arnabghose997/arnabghose997.github.io",
+            "updatedAt": "2024-11-09T11:52:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bytr-bd2-assignment",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arnabghose997/bytr-bd2-assignment",
+            "updatedAt": "2024-10-28T18:51:33Z",
+            "isPinned": false,
+            "homepage": "https://bytr-bd2-assignment.vercel.app"
+        },
+        {
+            "name": "bytr-bd3-assignment",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arnabghose997/bytr-bd3-assignment",
+            "updatedAt": "2024-11-14T11:48:24Z",
+            "isPinned": false,
+            "homepage": "https://bytr-bd3-assignment-six.vercel.app"
+        },
+        {
+            "name": "bytr-bd4-assignment",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arnabghose997/bytr-bd4-assignment",
+            "updatedAt": "2024-10-29T04:28:29Z",
+            "isPinned": false,
+            "homepage": "https://stackblitz.com/edit/stackblitz-starters-tfpui2"
+        },
+        {
+            "name": "bytr-bd1-assignment",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arnabghose997/bytr-bd1-assignment",
+            "updatedAt": "2024-10-28T18:42:07Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "exp-android-go-bindings",
+            "description": "Experimentation repo to test Go bindings for Android",
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/arnabghose997/exp-android-go-bindings",
+            "updatedAt": "2024-08-20T11:16:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "libp2p-exp",
+            "description": "Experimentation of libp2p module",
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/arnabghose997/libp2p-exp",
+            "updatedAt": "2024-08-19T05:46:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rubix-benchmark",
+            "description": "Temp repo holding scripts benchmark Rubix Blockchain",
+            "score": 0.29896678056375503,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arnabghose997/rubix-benchmark",
+            "updatedAt": "2024-08-07T11:03:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 20,
+    "following": 9,
+    "public_repos": 27,
+    "pull_requests_merged": 42,
+    "issues_closed": 12,
+    "achievements": {
+        "total_contributions": 416,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [],
+    "readme_content": "### Namaste \ud83d\ude4f\ufe0f! Welcome to my Github Profile \ud83d\udc4b\n\n- \ud83d\udc68\u200d\ud83d\udcbc\ufe0f I\u2019m currently working as a Senior Blockchain Engineer at [Rubix](https://github.com/rubixchain)\n- \ud83d\udd2d I've previously worked as a Blockchain Protocol Developer at [Hypersign](https://github.com/hypersign-protocol), where we developed [Hypersign Identity Network](https://github.com/hypersign-protocol/hid-node), a Layer-1 Public Blockchain Network that supports Self-Sovereign Identity (SSI) Infrastructure. \n- \ud83d\udceb Connect with me on LinkedIn: https://www.linkedin.com/in/arnabghose997/\n",
+    "activity_summary": {
+        "rubixchain/rubixgoplatform": {
+            "link": "https://github.com/rubixchain/rubixgoplatform",
+            "summary": "Recent activities in the rubixgoplatform repository have focused on resolving issues related to token transfers and NFT deployments. Updates include fixes for transferring RBT tokens between DIDs on the same node, improvements to the NFT deployment flow with the addition of NFT Subscription, and various code refinements to enhance the overall functionality and stability of the platform. Multiple pull requests have been merged, addressing issues such as multi-node NFT transfers, FT transfer scenarios, and enhancements to the token chain validation and smart contract functionalities."
+        }
+    },
+    "profile_summary": "As a seasoned software engineer with expertise in Rust, Go, and JavaScript, I leverage my technical skills to drive innovation in blockchain protocol development, currently working as a Senior Blockchain Engineer at Rubix. With a strong background in developing scalable and secure blockchain solutions, I've had the opportunity to work on notable projects such as the Hypersign Identity Network, a Layer-1 Public Blockchain Network. I'm passionate about collaborating with like-minded professionals, and you can find my work showcased across my 27 public repositories on GitHub."
+}

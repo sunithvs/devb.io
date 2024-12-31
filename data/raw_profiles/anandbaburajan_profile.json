@@ -1,0 +1,150 @@
+{
+    "username": "anandbaburajan",
+    "name": "Anand Baburajan",
+    "bio": "Founder of CQ2.co, Wordamour.com & Samay.app. Prev: Product Engineer @ Frappe, SWE Intern @ HackerRank, GSoC @ LiberTEM",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2698932?u=771f33949276b089fcc50dc92a8c63489b665cbd&v=4",
+    "profile_url": "https://github.com/anandbaburajan",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "wordamour",
+            "description": "Personalised word search puzzle for your special someone",
+            "score": 17.703940574373004,
+            "stars": 16,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/anandbaburajan/wordamour",
+            "updatedAt": "2024-12-25T16:09:01Z",
+            "isPinned": true,
+            "homepage": "https://wordamour.com"
+        },
+        {
+            "name": "Multiple-Face-Recognition",
+            "description": "Train multiple images per person and get started with recognizing faces with the face_recognition API ",
+            "score": 5.737266269834741,
+            "stars": 6,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/Multiple-Face-Recognition",
+            "updatedAt": "2024-04-01T10:07:59Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "life",
+            "description": "Conway's Game of Life",
+            "score": 3.7303587450130333,
+            "stars": 5,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/anandbaburajan/life",
+            "updatedAt": "2023-03-04T08:14:09Z",
+            "isPinned": false,
+            "homepage": "https://anandbaburajan.github.io/life/"
+        },
+        {
+            "name": "roo",
+            "description": "Simple CLI to-do list app",
+            "score": 3.368085898546458,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/roo",
+            "updatedAt": "2023-03-04T08:14:09Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "anandbaburajan.github.io",
+            "description": ":D",
+            "score": 2.404429364793554,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/anandbaburajan/anandbaburajan.github.io",
+            "updatedAt": "2024-12-10T16:49:11Z",
+            "isPinned": false,
+            "homepage": "https://anandbaburajan.github.io"
+        },
+        {
+            "name": "dotfiles-macos",
+            "description": ":D",
+            "score": 1.5353953788256653,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/anandbaburajan/dotfiles-macos",
+            "updatedAt": "2023-03-04T08:14:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "acc",
+            "description": "Double-entry accounting app",
+            "score": 1.5342905141658083,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/acc",
+            "updatedAt": "2023-03-04T08:14:09Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ugit",
+            "description": "(WIP) DIY Git in Python",
+            "score": 1.5333977393859524,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anandbaburajan/ugit",
+            "updatedAt": "2023-03-04T08:14:09Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 148,
+    "following": 108,
+    "public_repos": 18,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 349,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "readme_content": "![image](https://raw.githubusercontent.com/AnandBaburajan/anandbaburajan/main/meow.gif)\n",
+    "activity_summary": {
+        "anandbaburajan/wordamour": {
+            "link": "https://github.com/anandbaburajan/wordamour",
+            "summary": "Recent activities in the wordamour repository include multiple push events with various updates such as a refactor to replace textarea with a TagInput component for improved word list management, rearrangement of home elements on mobile, and several design and wording changes, indicating active development and maintenance of the project."
+        },
+        "anandbaburajan/samay": {
+            "link": "https://github.com/anandbaburajan/samay",
+            "summary": "The samay repository has seen recent activity with push events including updates such as ignoring build errors, showing creator's default votes, and a README.md update, suggesting ongoing refinement and enhancement of the project's functionality and documentation."
+        },
+        "samay-app/samay": {
+            "link": "https://github.com/samay-app/samay",
+            "summary": "Activities in the samay repository under the samay-app organization include push events for ignoring build errors and displaying creator's default votes, similar to updates in the anandbaburajan/samay repository, indicating synchronized development efforts across related projects."
+        },
+        "anandbaburajan/anandbaburajan.github.io": {
+            "link": "https://github.com/anandbaburajan/anandbaburajan.github.io",
+            "summary": "The anandbaburajan.github.io repository has had a recent push event with a brief update, but the specifics of the change are not detailed, suggesting a minor adjustment or update to the repository's content."
+        }
+    },
+    "profile_summary": "As a seasoned developer with expertise in Python, TypeScript, and JavaScript, I leverage my technical skills to drive innovative projects and collaborations, with a professional network of 148 followers and a portfolio of 18 public repositories. With a background as the founder of CQ2.co, Wordamour.com, and Samay.app, as well as experience as a Product Engineer and Software Engineer intern, I bring a unique blend of entrepreneurial spirit and technical acumen to the table. I'm excited to continue exploring new ideas and technologies, and to connect with like-minded developers and professionals."
+}

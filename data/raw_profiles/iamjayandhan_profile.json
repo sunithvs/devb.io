@@ -1,0 +1,163 @@
+{
+    "username": "iamjayandhan",
+    "name": "Jayandhan R",
+    "bio": "\ud83e\uddd1\u200d\ud83c\udf93 Passionate about network design and malware handling, I'm an aspiring cyber security professional with a thirst for knowledge. ",
+    "location": "coimbatore, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91819695?u=fa775b92de782866208053436c3a5602fe038440&v=4",
+    "profile_url": "https://github.com/iamjayandhan",
+    "top_languages": [
+        [
+            "JavaScript",
+            26
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            10
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Hall-Booking_System_React_Firebase",
+            "description": "Efficient Hall Booking System developed with React and Firebase, providing seamless reservation and management of event venues. Streamlining the process for booking and monitoring halls and event spaces.",
+            "score": 12.442487242083029,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/iamjayandhan/Hall-Booking_System_React_Firebase",
+            "updatedAt": "2024-06-20T03:02:59Z",
+            "isPinned": true,
+            "homepage": "https://hallbook1.vercel.app"
+        },
+        {
+            "name": "AR_VR_Blender",
+            "description": "AR stands for Augmented Reality, while VR stands for Virtual Reality. Both of these technologies offer immersive experiences, but they differ in their approach. In Augmented Reality, virtual objects are overlaid onto the real world. This can be done through the camera of a mobile device or specialized glasses, such as Microsoft HoloLens.",
+            "score": 11.540650849761173,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/iamjayandhan/AR_VR_Blender",
+            "updatedAt": "2023-10-28T13:23:47Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "FMTC-Cycle-Proj",
+            "description": "Pedals \ud83d\udeb4\u200d\u2642\ufe0f - Anytime Mobility! Pedals is a college cycle-sharing system designed to make mobility simple, efficient, and accessible. This project focuses on enabling students to find, book, and manage cycles on campus seamlessly. \ud83c\udf1f",
+            "score": 11.410727691264995,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/iamjayandhan/FMTC-Cycle-Proj",
+            "updatedAt": "2024-12-02T13:05:13Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "JusticePortal",
+            "description": "The Justice Portal project is a web application developed using React.js and Firebase. It provides a platform for legal professionals and clients to manage case-related activities efficiently. Features include user authentication, case management, and document sharing, fostering collaboration and transparency in legal proceedings.",
+            "score": 11.311388002087977,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/iamjayandhan/JusticePortal",
+            "updatedAt": "2024-06-26T13:52:16Z",
+            "isPinned": true,
+            "homepage": "https://justice-portal.vercel.app"
+        },
+        {
+            "name": "Django-BA-INFY",
+            "description": "The Django Blog App is a simple yet powerful blogging platform built using the Django web framework. It provides an easy way to create, manage, and display blog posts, making it suitable for personal blogs, company news portals, or learning Django fundamentals.",
+            "score": 10.379627303915976,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/iamjayandhan/Django-BA-INFY",
+            "updatedAt": "2024-11-25T15:54:36Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "JobHUB",
+            "description": "\"JobHub\" is a React Native app connecting job seekers with employers. Employers can easily search and access detailed profiles of potential candidates, streamlining the recruitment process.",
+            "score": 10.261627544490363,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/iamjayandhan/JobHUB",
+            "updatedAt": "2024-05-10T14:23:45Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "User_CRUD_FireBase",
+            "description": "React-based User CRUD application integrated with Firebase, enabling users to manage name, age, role, and descriptions securely in a Firebase database. Minimalist and efficient data entry and storage.",
+            "score": 2.6715445494009766,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/iamjayandhan/User_CRUD_FireBase",
+            "updatedAt": "2024-05-18T15:09:44Z",
+            "isPinned": false,
+            "homepage": "https://jdusercrudfirestore.vercel.app"
+        },
+        {
+            "name": "Tic_Tac_Toe-Project",
+            "description": "Tic Tac Toe is a simple two-player game where players take turns marking X or O on a 3x3 grid. The goal is to get three of your marks in a row, either horizontally, vertically, or diagonally.",
+            "score": 2.350933952064573,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/iamjayandhan/Tic_Tac_Toe-Project",
+            "updatedAt": "2023-06-22T13:31:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 10,
+    "following": 22,
+    "public_repos": 67,
+    "pull_requests_merged": 16,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 385,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/iamjayandhan/"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@iamjayandhan"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@iamjayandhan"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/iamjayandhan/"
+        }
+    ],
+    "readme_content": "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=35&duration=3000&pause=1000&color=C23BEE&multiline=true&width=1000&lines=Hello+Visitor!,+%F0%9F%91%8B+It's+me+Jayandhan...)](https://git.io/typing-svg)\n\n<a href=\"https://giphy.com/gifs/disneyplus-disney-wolverine-plus-nmyCWzSzjzrdooHV7D\" align=\"right\">\n  <img align=\"right\" src=\"https://media.giphy.com/media/nmyCWzSzjzrdooHV7D/giphy.gif\" alt=\"Disney Wolverine GIF\" width=\"370\" height=\"200\" style=\"margin-top:50px;\">\n</a>\n\n###### Computer Science Engineering Student\n![](https://komarev.com/ghpvc/?username=iamjayandhan&color=C23BEE&style=plasticabbreviated=true)\n\n- \ud83c\udf31 I'm Currently learning DSA\n- \ud83d\udc6f I'm looking to collaborate on **Fullstack | Any** projects\n- \ud83d\udcac Ask me about anything related to ***Web* | *OOPs* | *Coding***\n- \ud83d\udcd9 Check out my [Resume](https://drive.google.com/file/d/1F0tOLXKAQuFpUiApjYS94tWGhomv78F_/view?usp=sharing)\n- \u26a1 Fun fact: ***`0s, 1s, and endless possibilities.`***\n- \ud83d\udceb How to reach me :\n<br /><a href=\"mailto:jayandhanrajendran03@gmail.com\"><img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black\" /></a><a href=\"https://www.linkedin.com/in/iamjayandhan/\"><img src=\"https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black\" /></a> \n- \ud83e\uddd1\u200d\ud83d\udcbb Lets crack the system together!\n</br><a href=\"https://tryhackme.com/p/iamjayandhan\"><img src=\"https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white&color=black\" alt=\"TryHackMe Profile\" /></a>\n\n<br />\n\n<!-- Profile Trophies -->\n<div align=\"center\">\n    <a href=\"https://github.com/ryo-ma/github-profile-trophy\">\n        <img src=\"https://github-profile-trophy.vercel.app/?username=iamjayandhan&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=false\" alt=\"TROPHY\" width=\"84%\" />\n    </a>\n</div>\n\n<br />\n<br />\n\n<img src=\"https://media.giphy.com/media/eoNi8UexSeHwzW98B3/giphy.gif?cid=ecf05e47odylb1e9zd5cdsu53wxudns166oqpomcd95xld2g&ep=v1_stickers_search&rid=giphy.gif&ct=s\" width=\"35\">&nbsp;***Blogs***\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n### Check out my blogs at:   \n\n<a href=\"https://medium.com/@iamjayandhan\"><img src=\"https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=violet&color=black\" /></a>\n\n**Some of my writings may sound interesting to you:**\n<p align=\"center\">\n  <a target=\"_blank\" href=\"https://medium.com/@iamjayandhan/all-you-need-to-know-about-tor-browser-gate-way-of-darkweb-complete-guide-ef26f5fb2266\">\n    <img src=\"https://img.shields.io/badge/Tor_Browser-Read_Now-1abc9c?style=for-the-badge&logo=medium&logoColor=white\" alt=\"Tor Browser Article\" style=\"width: auto; height: auto;\" />\n  </a>\n  <a target=\"_blank\" href=\"https://medium.com/@iamjayandhan/all-you-need-to-know-about-man-in-the-middle-attack-mitm-a-concluded-guide-a2b530009c18\">\n    <img src=\"https://img.shields.io/badge/MITM_Attack-Read_Now-e74c3c?style=for-the-badge&logo=medium&logoColor=white\" alt=\"MITM Article\" style=\"width: auto; height: auto;\" />\n  </a>\n</p>\n\n<br />\n\n<img src=\"https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47n1wwem44emsvkmngwgdgdpkd10zwczugi3xrfair&ep=v1_gifs_related&rid=giphy.gif&ct=s\" width =\"30\"/> ***My Toolbox***\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\" />\n\n<img src=\"https://img.icons8.com/color/48/python.png\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/c-programming.png\" width=\"70\"/><img src=\"https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000\" width=\"70\"/><img src=\"https://img.icons8.com/?size=100&id=20909&format=png&color=000000\" width=\"70\"/><img src=\"https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000\" width=\"70\" /><img src=\"https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/git.png\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/firebase.png\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/mongodb.png\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/nodejs.png\" width=\"70\"/><img src=\"https://img.icons8.com/color/48/react-native.png\" width=\"70\"/>\n\n<br />\n\n<img src = \"https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true\" width = 35>&nbsp;***Leetcode stats***\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n\n![LeetCode Stats](https://leetcard.jacoblin.cool/iamjayandhan?theme=dark&font=Source%20Code%20Pro&ext=activity)\n\n<br />\n\n<img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"35\">&nbsp;***Github Stats***\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n<p align=\"center\">\n<table align=\"center\">\n<tr>\n<td width=\"50%\" align=\"center\">\n    <img src=\"https://github-readme-stats.vercel.app/api?username=iamjayandhan&show=prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true&theme=aura&border_color=dadada&rank_icon=percentile&count_private=true\" />\n    <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=iamjayandhan&theme=aura&hide_border=false\" alt=\"AAL1X streak\" />\n</td>\n<td width=\"50%\" align=\"center\">\n    <img src=\"https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamjayandhan&theme=nightowl&hide_border=false&langs_count=9\"/>\n</td>\n</tr>\n</table>\n</p>\n \n[![Jayandhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamjayandhan&bg_color=000000&color=9b979b&line=c232d2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)\n",
+    "activity_summary": {
+        "iamjayandhan/Java-Tutorial": {
+            "link": "https://github.com/iamjayandhan/Java-Tutorial",
+            "summary": "Recent activities in the Java-Tutorial repository have focused on updates to various Java concepts, including object-oriented programming principles such as inheritance, polymorphism, abstraction, and encapsulation. The repository has seen a high volume of push events, with multiple commits made to the repository in recent days, including updates to the README file and additions of new code examples. The commits suggest a thorough review and expansion of Java fundamentals, indicating active development and maintenance of the repository."
+        },
+        "iamjayandhan/iamjayandhan": {
+            "link": "https://github.com/iamjayandhan/iamjayandhan",
+            "summary": "The iamjayandhan repository has seen recent activity, primarily centered around updates to the README file, with multiple push events occurring on the same day. These updates suggest efforts to refine and improve the presentation and content of the repository, although the nature of the changes is not highly descriptive. The commits indicate a focus on repository maintenance and potentially preparing the repository for viewers or collaborators."
+        },
+        "iamjayandhan/Stock-Mgmt": {
+            "link": "https://github.com/iamjayandhan/Stock-Mgmt",
+            "summary": "The Stock-Mgmt repository has experienced a single recent push event, which involved adding a README file to the repository's documentation. This update suggests an initial step towards making the repository more accessible and understandable to potential users or collaborators, providing them with necessary information about the project. However, the repository appears to have limited recent activity compared to others."
+        }
+    },
+    "profile_summary": "I'm Jayandhan R, a passionate and aspiring cyber security professional with a strong foundation in programming languages such as JavaScript, C, and Python, and a keen interest in network design and malware handling. With a growing professional network of 10 followers and an active portfolio of 67 public repositories, I'm excited to collaborate on full-stack projects and share my knowledge of web development, object-oriented programming, and coding. I'm currently learning data structures and algorithms, and I'm always looking to expand my skill set and take on new challenges."
+}

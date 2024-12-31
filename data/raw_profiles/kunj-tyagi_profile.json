@@ -1,0 +1,155 @@
+{
+    "username": "kunj-tyagi",
+    "name": "Kunj Tyagi",
+    "bio": "Hi! I'm Kunj, currently studying Computer Science And Engineering at AKGEC, Ghaziabad. Passionate about Technology.\r\n ",
+    "location": "Ghaziabad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110375352?u=66f32f851d5a6ce63b6a623452577f78fe09264f&v=4",
+    "profile_url": "https://github.com/Kunj-Tyagi",
+    "top_languages": [
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "WanderLust",
+            "description": "WanderLust is a fullstack web application designed for users to list and rent spaces, featuring user authentication, listing management, and a clean, responsive interface. Built with Node.js, Express.js, MongoDB, and JavaScript, it allows users to create, manage, and view rental listings, complete with image uploads.",
+            "score": 12.551490583250654,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/WanderLust",
+            "updatedAt": "2024-12-20T11:02:49Z",
+            "isPinned": true,
+            "homepage": "https://wanderlust-3-6a75.onrender.com"
+        },
+        {
+            "name": "GrowTrades",
+            "description": "Built a full-featured stock trading platform mimicking Zerodha\u2019s functionality, enabling users to execute buy and sell orders, track their portfolios, and view stock data via a user-friendly interface. ",
+            "score": 11.804877331033326,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/GrowTrades",
+            "updatedAt": "2024-12-29T05:11:32Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "QuickReach",
+            "description": "A comprehensive backend API for managing contacts, designed to streamline the process of adding, updating, and organizing contact information. Built with Node.js and Express.js, this backend offers secure contact storage, along with features for efficient data retrieval and management, making it ideal for CRM and personal contact applications.",
+            "score": 11.7060318944804,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/QuickReach",
+            "updatedAt": "2024-11-29T20:27:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CommitVault",
+            "description": "\ud83d\ude80 CommitVault is a GitHub-inspired platform that allows users to manage repositories, track code changes, and collaborate on projects seamlessly. ",
+            "score": 10.4783934833557,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kunj-Tyagi/CommitVault",
+            "updatedAt": "2024-12-29T05:10:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Weather-App",
+            "description": "This project is a comprehensive weather application built with React, showcasing the implementation of key React concepts. The app provides real-time weather updates for various locations while demonstrating \ud83c\udf1f state management, \ud83d\udd04 component lifecycle, \u2693 hooks, and \ud83e\udde9 conditional rendering.",
+            "score": 10.396386054904669,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/Weather-App",
+            "updatedAt": "2024-12-09T17:56:22Z",
+            "isPinned": true,
+            "homepage": "https://weather-app-coral-two-86.vercel.app/"
+        },
+        {
+            "name": "Registration",
+            "description": "Building a scalable and secure backend system for a registration form involves incorporating best practices for architecture, authentication, data validation, error handling, and deployment. Below is a complete plan and implementation guide for creating a scalable and secure backend using Node.js, Express.js, and MongoDB.",
+            "score": 10.376035597658495,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/Registration",
+            "updatedAt": "2024-12-16T14:47:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ComiCartel",
+            "description": "Comic Management App Backend is a powerful RESTful API built with Node.js and Express.js that provides core functionalities for managing a comic collection, including pagination, searching, and sorting. This backend is ideal for applications where users can explore extensive comic collections and filter them based on various criteria.",
+            "score": 1.7381856697023064,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/ComiCartel",
+            "updatedAt": "2024-11-29T20:27:38Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "RegistrationForm",
+            "description": "A registration platform built with Node.js, Express.js, and MongoDB Atlas for the MLCoE Society at AKGEC to streamline recruitment for 2nd-year students. This platform collects and stores applicant information securely in the database, allowing administrators to manage applicants effectively.",
+            "score": 1.345054655447865,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Kunj-Tyagi/RegistrationForm",
+            "updatedAt": "2024-10-26T02:24:06Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 4,
+    "following": 13,
+    "public_repos": 16,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 95,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/KunjTyagi6"
+        }
+    ],
+    "readme_content": "<img src=\"https://i.imgur.com/1ZvVkDc.gif\" alt=\"gif for github\"></img>\n\n# Hi there, I'm Kunj Tyagi \ud83d\udc4b\n\nWelcome to my GitHub profile!\n\n![Profile Views](https://komarev.com/ghpvc/?username=Kunj-Tyagi&color=blueviolet)\n\n## \ud83d\ude80 About Me\n\n- \ud83c\udf31 I\u2019m currently learning new technologies and improving my coding skills.\n- \ud83d\udc6f I\u2019m looking to collaborate on exciting projects.\n- \ud83d\udcac Ask me about anything related to software development.\n- \u26a1 Fun fact: I love solving puzzles and coding challenges.\n\n## \ud83d\udee0 My Skills\n\n<!-- - **Languages**: JavaScript, C++, TypeScript\n- **Frameworks**: Reactjs, Expressjs, Bootstrap\n- **Tools**: Git, Github, Docker, Kubernetes, AWS, Postman -->\n\n### Programming Languages  \n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)\n![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)\n![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\n![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n\n### Frameworks\n\n![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\n![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)\n![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)\n![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)\n![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)\n\n### Tools  \n![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)\n![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)\n![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![Postman](https://img.shields.io/badge/Postman-FD602F?style=for-the-badge&logo=postman&logoColor=white)\n![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)\n![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)\n\n\n## \ud83d\udcc8 GitHub Stats\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical\" alt=\"Kunj's GitHub stats\" />\n</p>\n\n## \ud83c\udfc6 GitHub Trophies\n\n<p align=\"center\">\n  <img src=\"https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15\" alt=\"GitHub Trophies\" />\n</p>\n\n# WanderLust\n\n[Check out the live project here](https://wanderlust-4-vmpt.onrender.com/)\n\n## Connect with Me\n\n\n<span>\n<a href=\"https://www.linkedin.com/in/kunj-tyagi-07688423b/\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"Kunj Tyagi\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://github.com/Kunj-Tyagi\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg\" alt=\"Kunj Tyagi\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://twitter.com/KunjTyagi\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"Kunj Tyagi\" height=\"30\" width=\"40\" /></a></span>\n\n<br><br>\nThanks for visiting my profile!\n",
+    "activity_summary": {
+        "Kunj-Tyagi/kunj-tyagi": {
+            "link": "https://github.com/Kunj-Tyagi/kunj-tyagi",
+            "summary": "The repository witnessed significant updates with multiple push events, primarily focusing on the ConnectSection, including several iterations and refinements. Additional updates included modifications to the README.md file and improvements to other sections such as Picture."
+        },
+        "Kunj-Tyagi/Portfolio": {
+            "link": "https://github.com/Kunj-Tyagi/Portfolio",
+            "summary": "Recent activities in the Portfolio repository revolved around the HeroPage, with several push events indicating continuous development and refinement of this aspect, suggesting an ongoing effort to enhance the portfolio's presentation and functionality."
+        },
+        "Kunj-Tyagi/WanderLust": {
+            "link": "https://github.com/Kunj-Tyagi/WanderLust",
+            "summary": "Updates in the WanderLust repository were centered on the Scroll feature, with multiple push events in a short span indicating rapid development and possibly the resolution of issues related to scrolling functionality, enhancing the user experience."
+        },
+        "Kunj-Tyagi/CommitVault": {
+            "link": "https://github.com/Kunj-Tyagi/CommitVault",
+            "summary": "CommitVault saw updates with push events related to achieving milestones such as Almost-Done and SignupDone, suggesting progress towards completing key features or fixing significant issues, pointing towards nearing the completion of major development tasks."
+        },
+        "Kunj-Tyagi/Registration": {
+            "link": "https://github.com/Kunj-Tyagi/Registration",
+            "summary": "The Registration repository had a notable update with a push event concerning IP-address, which could imply enhancements or fixes related to user registration, possibly focusing on security or functionality aspects tied to IP address handling."
+        }
+    },
+    "profile_summary": "As a Computer Science and Engineering student at AKGEC, Ghaziabad, I'm passionate about technology and proficient in JavaScript and HTML, with a strong foundation in programming languages and frameworks. With 16 public repositories and a growing network of 4 followers, I'm excited to collaborate on exciting projects and continue learning new technologies to improve my coding skills."
+}

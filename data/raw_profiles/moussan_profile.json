@@ -1,0 +1,163 @@
+{
+    "username": "moussan",
+    "name": "Moussa El Najmi",
+    "bio": "\ud83d\udd2d I\u2019m currently learning Google Compute Platform Security on Coursera, and Google Cloud Boost.\r\n\ud83d\udc6f I\u2019m studying for a Master's in Engineering Management.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/34472361?u=451f7bb2eb989e066b97506aa42bac5ff8a14148&v=4",
+    "profile_url": "https://github.com/moussan",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "HCL",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Active-Directory-Maintenance-Scripts",
+            "description": "Professional PowerShell scripts designed for common maintenance, addition, removal, and reporting tasks in Active Directory Server 2022. .",
+            "score": 11.785103239632168,
+            "stars": 1,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/moussan/Active-Directory-Maintenance-Scripts",
+            "updatedAt": "2024-11-19T15:10:46Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "WP-Security-Scripts",
+            "description": "Python scripts tailored for performing cool security-related tasks on a WordPress hosting server. These scripts cover tasks like scanning vulnerabilities, managing backups, monitoring file integrity, detecting malware, and more.",
+            "score": 11.785103239632168,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/moussan/WP-Security-Scripts",
+            "updatedAt": "2024-11-19T15:10:41Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AWS-Playbooks",
+            "description": "Creating playbooks for a professional, standards-based security response to a DDoS attack in an AWS cloud environment involves structuring each playbook with clear objectives, steps, roles, tools, and outcomes.",
+            "score": 10.4783934833557,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/moussan/AWS-Playbooks",
+            "updatedAt": "2024-12-10T07:31:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "multi-cloud-infra-management",
+            "description": "This project demonstrates how to manage and deploy infrastructure across AWS, Azure, and GCP using Terraform. The goal is to show how a cloud architect can create, deploy, and maintain scalable, secure, and efficient infrastructure across multiple cloud providers.",
+            "score": 10.406627546022726,
+            "stars": 0,
+            "forks": 0,
+            "language": "HCL",
+            "url": "https://github.com/moussan/multi-cloud-infra-management",
+            "updatedAt": "2024-11-22T09:34:19Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "cloud-audit-playbooks",
+            "description": "Comprehensive Terraform playbooks for scanning and auditing Azure, AWS, and GCP tenants. Each playbook is modular, professionally documented, and extensively commented. The purpose is to query infrastructure resources, network configurations, IAM setups, and security policies.",
+            "score": 10.398808878512279,
+            "stars": 0,
+            "forks": 0,
+            "language": "HCL",
+            "url": "https://github.com/moussan/cloud-audit-playbooks",
+            "updatedAt": "2024-11-19T15:40:46Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Security-Tool-Set",
+            "description": "Security Guides and Tools",
+            "score": 10.214983447929795,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/moussan/Security-Tool-Set",
+            "updatedAt": "2024-11-19T15:10:53Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AES",
+            "description": "A comprehensive C program using the Advanced Encryption Standard (AES) for encryption and decryption. The program includes a menu-driven interface, detailed comments, and instructions for compiling and running it on Linux, Windows, or macOS.",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/moussan/AES",
+            "updatedAt": "2024-12-10T07:19:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Countdown",
+            "description": "n the Numbers Round, contestants aim to reach a target number using six given numbers and basic arithmetic operations (+, -, \u00d7, \u00f7). Let\u2019s create a website to solve these problems interactively.",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moussan/Countdown",
+            "updatedAt": "2024-12-10T07:30:18Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 9,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 111,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/moussan"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/moussano"
+        }
+    ],
+    "readme_content": "<h1 align=\"left\">Hi\ud83d\udc4b I am Moussa, an experienced IT Professional.</h1>>\n\n<p align=\"left\"> <a href=\"https://github.com/ryo-ma/github-profile-trophy\"><img src=\"https://github-profile-trophy.vercel.app/?username=moussan\" alt=\"moussan\" /></a> </p>\n\n- \ud83d\udd2d I\u2019m currently learning Google Compute Platform Security on Coursera, and Google Cloud Boost.\n- \ud83d\udc6f I\u2019m studying for a Master's in Engineering Management.\n\n- \u26a1 Fun fact **I am always exploring Mathematics and Physics. **\n- I studied Applied Mathematics at The Open University and Astrophysics at The Australian National University.\n- Computer Engineering background with a Master's in International Business.\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" alt=\"aws\" width=\"40\" height=\"40\"/> </a> <a href=\"https://azure.microsoft.com/en-in/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg\" alt=\"azure\" width=\"40\" height=\"40\"/> </a> <a href=\"https://cloud.google.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg\" alt=\"gcp\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> </p>\n",
+    "activity_summary": {
+        "moussan/AWS-DDOS-Playbooks": {
+            "link": "https://github.com/moussan/AWS-DDOS-Playbooks",
+            "summary": "Recent activities include multiple updates to the README.md file, with the last update occurring on December 10, 2024, as well as the addition of new files via upload, indicating ongoing development and maintenance of the repository."
+        },
+        "moussan/Countdown": {
+            "link": "https://github.com/moussan/Countdown",
+            "summary": "Recent activities involve the creation of new files, including script.js, styles.css, and index.html, in addition to an update to the README.md file, all of which occurred on December 10, 2024, suggesting active development of the project."
+        },
+        "moussan/AES": {
+            "link": "https://github.com/moussan/AES",
+            "summary": "The repository experienced updates to the README.md file on December 10, 2024, along with the creation of a new file named aes-encryptor.c, indicating efforts to enhance the project's documentation and functionality."
+        },
+        "moussan/AWS-Playbooks": {
+            "link": "https://github.com/moussan/AWS-Playbooks",
+            "summary": "A recent push event on December 10, 2024, added a LICENSE file to the repository, which is a crucial step in defining the project's legal and licensing framework, potentially paving the way for further development and collaboration."
+        },
+        "moussan/moussan": {
+            "link": "https://github.com/moussan/moussan",
+            "summary": "An update to the README.md file occurred on December 10, 2024, suggesting maintenance or informational updates to the repository, which could be related to user profile or personal project management."
+        }
+    },
+    "profile_summary": "I'm Moussa El Najmi, an experienced IT professional with a strong background in Computer Engineering and a Master's in International Business, currently pursuing a Master's in Engineering Management. My technical expertise includes proficiency in C, Python, and HCL, with a strong interest in cloud computing, having explored Amazon Web Services, Microsoft Azure, and Google Cloud Platform. I'm passionate about continuously learning and exploring new technologies, including Mathematics and Physics, and I'm excited to collaborate on projects that leverage my skills and expertise."
+}

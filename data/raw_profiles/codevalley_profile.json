@@ -1,0 +1,133 @@
+{
+    "username": "codevalley",
+    "name": "Narayan Babu",
+    "bio": null,
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2727327?u=3904eb65a4c6410fda921bb4f6d68eb23adc62ff&v=4",
+    "profile_url": "https://github.com/codevalley",
+    "top_languages": [
+        [
+            "Go",
+            3
+        ],
+        [
+            "Kotlin",
+            2
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "friday-api",
+            "description": "A flexible and extensible life logger",
+            "score": 11.8715675408429,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/codevalley/friday-api",
+            "updatedAt": "2024-12-31T18:04:50Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Bioscope",
+            "description": "Your personal health oracle",
+            "score": 10.31973753336051,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/codevalley/Bioscope",
+            "updatedAt": "2024-10-07T16:17:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "foxhole",
+            "description": null,
+            "score": 10.313865084708954,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/codevalley/foxhole",
+            "updatedAt": "2024-12-08T15:47:02Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "tinyAPI",
+            "description": "A simple single API service to store, retrieve and collaborate on a single payload.  ",
+            "score": 10.310155617240584,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/codevalley/tinyAPI",
+            "updatedAt": "2024-12-28T03:26:31Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "percept",
+            "description": "A simple tool to calibrate one's self awareness",
+            "score": 10.285590615292445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/codevalley/percept",
+            "updatedAt": "2024-08-27T10:37:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "xspends",
+            "description": "A simple expense tracker written in Golang using TiKV",
+            "score": 10.246161126664,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/codevalley/xspends",
+            "updatedAt": "2024-07-20T06:23:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "surmaker",
+            "description": "A new way to make Indian classical music sheets",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/codevalley/surmaker",
+            "updatedAt": "2024-12-05T17:01:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "flywall",
+            "description": "Fastest invisible assistant",
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/codevalley/flywall",
+            "updatedAt": "2024-11-15T10:36:33Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 3,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1348,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": "I'm Narayan Babu, a developer with expertise in Go, Kotlin, and Python, actively contributing to the open-source community through my 31 public repositories. With a strong foundation in these programming languages, I'm committed to delivering high-quality solutions and continuously expanding my technical capabilities. As I grow my professional network, I'm excited to collaborate and learn from like-minded individuals in the industry."
+}

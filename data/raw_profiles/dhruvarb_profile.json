@@ -1,0 +1,98 @@
+{
+    "username": "dhruvarb",
+    "name": "dhruvarb",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145486949?v=4",
+    "profile_url": "https://github.com/dhruvarb",
+    "top_languages": [
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "trial_web",
+            "description": "a trial website built using chatgpt",
+            "score": 1.5488237687212867,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dhruvarb/trial_web",
+            "updatedAt": "2023-10-16T11:36:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "birthday",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dhruvarb/birthday",
+            "updatedAt": "2024-10-22T09:11:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mahesh.github.io",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dhruvarb/mahesh.github.io",
+            "updatedAt": "2024-10-22T10:05:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "html-portfolio",
+            "description": null,
+            "score": 0.2583919250855886,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dhruvarb/html-portfolio",
+            "updatedAt": "2024-02-05T05:48:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "html-portfolio-new",
+            "description": null,
+            "score": 0.2583919250855886,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dhruvarb/html-portfolio-new",
+            "updatedAt": "2024-02-05T08:20:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 16,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "dhruvarb/birthday": {
+            "link": "https://github.com/dhruvarb/birthday",
+            "summary": "Recent activities in the dhruvarb/birthday repository include two push events on October 22, 2024, where files were uploaded and an index.html file was created, indicating initial setup and content addition to the repository."
+        },
+        "such3/sdmConnect": {
+            "link": "https://github.com/such3/sdmConnect",
+            "summary": "The such3/sdmConnect repository saw a significant improvement on December 17, 2024, with a pull request that enhanced mobile responsiveness, added images, and updated the HTML structure using Tailwind CSS for better typography and layout, ensuring visual consistency across the dashboard."
+        }
+    },
+    "profile_summary": "As a detail-oriented developer with a strong foundation in HTML, I build and maintain a range of projects across my six public repositories, continually refining my skills and exploring new ways to apply my expertise. With a focus on writing clean, efficient code, I strive to deliver high-quality solutions that meet the needs of users. Through my ongoing development work, I aim to establish a strong presence in the coding community and collaborate with like-minded professionals to drive innovation and growth."
+}

@@ -1,0 +1,155 @@
+{
+    "username": "alanandrewvarghese",
+    "name": "Alan Andrew Varghese",
+    "bio": "",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121496531?u=411b591fb2160a650fa29b033795c965a1bf644f&v=4",
+    "profile_url": "https://github.com/alanandrewvarghese",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            6
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SmartCanteen",
+            "description": "SmartCanteen is an online system for institutions offering canteen services, featuring standard and personalized options. It tracks users' eating patterns to provide tailored notifications and maintains a Khatta book for users. Admins receive order notifications, helping them identify popular dishes and consider replacing less favored ones.",
+            "score": 15.623335964551334,
+            "stars": 4,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/SmartCanteen",
+            "updatedAt": "2024-12-04T16:32:56Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "smart_canteen_raw",
+            "description": null,
+            "score": 12.40044623779401,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/smart_canteen_raw",
+            "updatedAt": "2024-11-11T11:03:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "freeCodeCamp-Responsive-Web-Design",
+            "description": "This repository contains a collection of projects I built while completing the Responsive Web Design certification from freeCodeCamp. Each project demonstrates key concepts of responsive design, including flexible layouts, media queries, and accessible web development practices. ",
+            "score": 10.281028440003924,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/freeCodeCamp-Responsive-Web-Design",
+            "updatedAt": "2024-09-24T12:24:13Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "git2",
+            "description": null,
+            "score": 2.3821155419154363,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/git2",
+            "updatedAt": "2024-08-13T10:36:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "javascript-training-projects",
+            "description": "JavaScript projects following the tutorial from freeCodeCamp.org. Link: https://youtu.be/jS4aFq5-91M",
+            "score": 1.1974405390890233,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/javascript-training-projects",
+            "updatedAt": "2023-07-07T03:56:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "power-monitor",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alanandrewvarghese/power-monitor",
+            "updatedAt": "2024-11-24T14:04:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "flask-portfolio",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alanandrewvarghese/flask-portfolio",
+            "updatedAt": "2024-11-21T17:41:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-notime",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/alanandrewvarghese/git-notime",
+            "updatedAt": "2024-09-28T10:27:21Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 5,
+    "public_repos": 18,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 207,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alanandrewvarghese"
+        },
+        {
+            "provider": "generic",
+            "url": "https://freecodecamp.org/alanandrewvarghese"
+        }
+    ],
+    "readme_content": "# Hi there, I'm Alan \ud83d\udc4b\n\n### \ud83d\udcbb About Me\n\n- \ud83c\udf93 I'm currently pursuing a Master's in Computer Applications (MCA).\n- \ud83d\udca1 Passionate about building full-stack applications, with a focus on **Django**, **React**.\n- \ud83c\udf31 I\u2019m constantly learning and improving my skills in web development.\n- \ud83d\udcdc Recently, I earned a certification in **Responsive Web Design** from freeCodeCamp.\n\n---\n\n### \ud83d\udcc2 Projects\n\n#### SmartCanteen \ud83c\udf7d\ufe0f \n> A smart canteen management system built with Django  \n- \ud83d\udcdc Offers a user-friendly interface with features such as order placement, feedback, and personalized recommendations.\n- \ud83d\udcbc Designed with separate staff and customer modules for efficient canteen management.\n- \ud83d\udd0d Integrated Apriori algorithm for personalized food recommendations.\n\n[GitHub Repository: SmartCanteen](https://github.com/alanandrewvarghese/smartcanteen)\n  \n---\n\n### \ud83c\udf10 Connect with Me\n\n- LinkedIn: [Alan Andrew Varghese](https://www.linkedin.com/in/alanandrewvarghese/)\n- Email: [alanandrewvarghese@gmail.com](mailto:alanandrewvarghese@gmail.com)\n\n---\n\n### \ud83d\udee0\ufe0f Skills & Tools\n\n- **Languages:** Python, JavaScript\n- **Frontend:** HTML, CSS, Bootstrap, Responsive Design\n- **Backend:** Django\n- **Database:** MySQL\n- **Tools:** Git, GitHub, VS Code\n\n---\n\n### \ud83c\udfaf Currently Working On\n\n- Building a **smart canteen project** in Django, with machine learning for personalized recommendations.\n---\n\n### \ud83d\udcca GitHub Stats\n\n![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alanandrewvarghese&show_icons=true&theme=radical)\n\n![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)\n![Django](https://img.shields.io/badge/Django-Intermediate-blue?logo=django&logoColor=white)\n![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow?logo=javascript&logoColor=white)\n\n---\n\nThanks for visiting my profile! \ud83d\ude0a Let's build something amazing together!\n\n\n<!--\n**alanandrewvarghese/alanandrewvarghese** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {
+        "alanandrewvarghese/SmartCanteen": {
+            "link": "https://github.com/alanandrewvarghese/SmartCanteen",
+            "summary": "The repository has witnessed significant activities recently, with multiple push events focused on bug fixes, updates, and enhancements. These include updates to the dashboard, item quantity validation, and improvements to the khattabook and user management systems. Additionally, minor UI fixes and updates to the accounts page have been implemented, along with the completion of forgot password HTML pages and the addition of manage_khattabook.html."
+        },
+        "alanandrewvarghese/power-monitor": {
+            "link": "https://github.com/alanandrewvarghese/power-monitor",
+            "summary": "Recent activities in this repository have centered around enhancing the power monitoring system, with push events aimed at adding navigation, refining graph updates, and incorporating hourly reports. Code refactoring and the addition of charts have also been undertaken, alongside bug fixes to ensure the stability and accuracy of the system."
+        },
+        "alanandrewvarghese/flask-portfolio": {
+            "link": "https://github.com/alanandrewvarghese/flask-portfolio",
+            "summary": "This repository has seen updates focused on enhancing the portfolio, including the integration of Tailwind and updates to the index.html file. Initial project setup and subsequent refinements suggest ongoing development, with the goal of creating a robust and visually appealing portfolio."
+        }
+    },
+    "profile_summary": "I'm Alan Andrew Varghese, a detail-driven developer pursuing a Master's in Computer Applications, with a strong passion for building full-stack applications using Django and React. With a solid foundation in JavaScript, HTML, and CSS, I'm constantly learning and improving my skills in web development, recently earning a certification in Responsive Web Design from freeCodeCamp. I'm excited to collaborate on innovative projects, leveraging my skills and experience to deliver high-quality solutions."
+}

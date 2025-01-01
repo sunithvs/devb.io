@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'docs' not found or query returned no data.",
+    "activity_summary": {
+        "docs/open-reusables": {
+            "link": "https://github.com/docs/open-reusables",
+            "summary": "The repository has seen significant updates with the bumping of braces from 3.0.2 to 3.0.3 and word-wrap from 1.2.3 to 1.2.4. These updates addressed various issues including a security vulnerability in the braces package and improved the overall functionality of the repository."
+        },
+        "docs/python-factorial": {
+            "link": "https://github.com/docs/python-factorial",
+            "summary": "There was a recent push event that simplified a variable name, contributing to the overall code quality and readability of the python-factorial repository."
+        }
+    },
+    "profile_summary": null
+}

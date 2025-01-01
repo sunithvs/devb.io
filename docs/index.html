@@ -622,10 +622,10 @@
             selectedProfiles.forEach(profile => {
                 // Create the main container div
                 var div = `<a href="/${profile.username}" target="_blank">
-  <div class="bg-[#F3F3F3] p-4 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black min-h-[120px]">
+  <div class="bg-[#F3F3F3] p-4 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black min-h-[120px] h-full">
     <div class="flex flex-row">
-      <div class="flex flex-row">
-        <div class="flex justify-center items-center flex-row">
+      <div class="flex flex-row w-full">
+        <div class="flex justify-center items-center flex-row w-full">
           <div class="flex flex-col mr-2">
             <div class="min-h-[112px] min-w-[112px]">
               <img class="rounded-full w-28 h-28 object-cover"
@@ -633,7 +633,7 @@
                 alt="${profile.name}">
             </div>
           </div>
-          <div class="flex flex-col ">
+          <div class="flex flex-col min-w-0">
             <span class="md:text-2xl font-bold break-words max-w-[200px]">
               ${profile.name}
             </span>

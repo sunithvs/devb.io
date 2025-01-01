@@ -1,0 +1,171 @@
+{
+    "username": "arjunvaradiyill",
+    "name": "ARJUN V",
+    "bio": "Web Developer & Cybersecurity Enthusiast | Building Secure and Scalable Web Solutions",
+    "location": "MALAPPURAM",
+    "avatar_url": "https://avatars.githubusercontent.com/u/83506541?u=66ac04f9200de2e47a8f26183d7eaec9eb1005bd&v=4",
+    "profile_url": "https://github.com/arjunvaradiyill",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "JavaScript",
+            12
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "-Weather-Dashboard-using-html-and-css-and-js",
+            "description": null,
+            "score": 10.35306618332858,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/-Weather-Dashboard-using-html-and-css-and-js",
+            "updatedAt": "2024-10-26T13:38:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DataStructHub",
+            "description": null,
+            "score": 10.33587793571801,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arjunvaradiyill/DataStructHub",
+            "updatedAt": "2024-10-07T07:17:24Z",
+            "isPinned": true,
+            "homepage": "https://data-struct-hub.vercel.app"
+        },
+        {
+            "name": "personalbudgettracker",
+            "description": null,
+            "score": 10.33093592369364,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/personalbudgettracker",
+            "updatedAt": "2024-10-02T03:42:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "productgrid",
+            "description": null,
+            "score": 10.298966780563756,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arjunvaradiyill/productgrid",
+            "updatedAt": "2024-08-08T16:43:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DSLAB-CUSAT",
+            "description": "thi",
+            "score": 2.9926371432445156,
+            "stars": 0,
+            "forks": 6,
+            "language": "Java",
+            "url": "https://github.com/arjunvaradiyill/DSLAB-CUSAT",
+            "updatedAt": "2022-10-25T17:41:20Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "c-prgms-cusat",
+            "description": null,
+            "score": 1.1110076293422306,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/arjunvaradiyill/c-prgms-cusat",
+            "updatedAt": "2022-10-29T14:23:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "arjunvaradiyil",
+            "description": null,
+            "score": 1.109240701775795,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/arjunvaradiyill/arjunvaradiyil",
+            "updatedAt": "2022-02-07T06:22:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Books-API---Node-and-Express-",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/Books-API---Node-and-Express-",
+            "updatedAt": "2024-12-24T04:58:58Z",
+            "isPinned": false,
+            "homepage": "https://books-api-s9sd.onrender.com/"
+        }
+    ],
+    "followers": 8,
+    "following": 9,
+    "public_repos": 82,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 151,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/VaradiyilArjun"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/arjunvaradiyill/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_arjuoo__/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.threads.net/@_arjuoo__"
+        }
+    ],
+    "readme_content": "<a href=\"#\"><img width=\"100%\" height=\"auto\" src=\"https://i.imgur.com/iXuL1HG.png\" alt=\"Profile Banner\"/></a>\n\n<h1 align=\"center\">Hi <img src=\"https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif\" width=\"30px\" alt=\"wave\">, I'm Arjun</h1>\n<h3 align=\"center\">Web Developer & Cybersecurity Enthusiast | Building Secure Digital Experiences</h3>\n\n---\n\n### \ud83c\udf1f About Me\n\n- \ud83c\udf93 **B.Tech Graduate** in Computer Science Engineering from **Cochin University of Science and Technology**.\n- \ud83c\udf31 Currently learning **MERN Stack Development** and advancing in **Cybersecurity**.\n- \ud83d\udd0d Exploring opportunities in **Full-Stack Development** and **Digital Security**.\n- \ud83e\uddd1\u200d\ud83c\udfeb Aspiring **Tech Educator** \u2013 sharing knowledge through blogs and tutorials.\n- \u2728 **Personal Goal:** Build a collaborative tech community and mentor aspiring developers.\n\n---\n\n### \ud83d\ude80 Skills & Tools\n\n<p align=\"center\">\n    <img src=\"https://img.icons8.com/color/48/000000/html-5.png\" alt=\"HTML5\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/css3.png\" alt=\"CSS3\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/javascript.png\" alt=\"JavaScript\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/react-native.png\" alt=\"React\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/nodejs.png\" alt=\"Node.js\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/mongodb.png\" alt=\"MongoDB\"/>\n    <img src=\"https://img.icons8.com/fluent/48/000000/python.png\" alt=\"Python\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/git.png\" alt=\"Git\"/>\n</p>\n\n---\n\n### \ud83d\udcc8 GitHub Stats\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=arjunvaradiyill&show_icons=true&theme=radical\" alt=\"GitHub Stats\" width=\"50%\"/>\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=arjunvaradiyill&theme=radical\" alt=\"Streak Stats\" width=\"50%\"/>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvaradiyill&layout=compact&theme=radical\" alt=\"Top Languages\" width=\"50%\"/>\n</p>\n\n---\n\n### \ud83c\udf0d Connect with Me\n\n<p align=\"center\">\n    <a href=\"https://www.linkedin.com/in/arjunvaradiyill/\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/linkedin.png\" alt=\"LinkedIn\"/></a>\n    <a href=\"https://twitter.com/VaradiyilArjun\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/twitter.png\" alt=\"Twitter\"/></a>\n    <a href=\"https://www.instagram.com/_arjuoo__/\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/instagram-new.png\" alt=\"Instagram\"/></a>\n    <a href=\"https://github.com/arjunvaradiyill\" target=\"_blank\"><img src=\"https://img.icons8.com/ios-glyphs/50/000000/github.png\" alt=\"GitHub\"/></a>\n</p>\n\n---\n\n### \ud83d\udd25 My Contributions\n\n<p align=\"center\">\n  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=arjunvaradiyill&theme=dracula\" alt=\"Contribution Graph\" width=\"100%\"/>\n</p>\n\n---\n\n### \ud83d\udcc8 Current Projects\n\n- \ud83c\udf10 **Portfolio Website**: A visually engaging personal website showcasing my journey and projects.\n- \ud83d\udd12 **Cybersecurity Blog**: A platform sharing cybersecurity tips, tools, and best practices.\n\n---\n\n### \u2728 Fun Fact\n\n> **\"The only way to do great work is to love what you do.\" \u2013 Steve Jobs**\n",
+    "activity_summary": {
+        "ifort-e-commerce-website": {
+            "link": "https://github.com/arjunvaradiyill/ifort-e-commerce-website",
+            "summary": "Recent activities in the ifort-e-commerce-website repository include multiple updates to the README.md file, removal of test credentials, and updates to the login page and header with a responsive layout, indicating ongoing development and refinement of the e-commerce website."
+        },
+        "resultwebsite": {
+            "link": "https://github.com/arjunvaradiyill/resultwebsite",
+            "summary": "The resultwebsite repository has seen a series of updates, with multiple push events occurring over the span of a few days, suggesting active maintenance and enhancement of the website's functionality and content."
+        },
+        "Books-API---Node-and-Express-": {
+            "link": "https://github.com/arjunvaradiyill/Books-API---Node-and-Express-",
+            "summary": "Recent activities in the Books-API---Node-and-Express- repository include the creation of a README.md file and the resolution of merge conflicts, indicating progress in the development and documentation of the Books API project."
+        },
+        "reportcardwebsite": {
+            "link": "https://github.com/arjunvaradiyill/reportcardwebsite",
+            "summary": "The reportcardwebsite repository has been updated, with recent push events suggesting ongoing development and refinement of the website's features and content, albeit at a slower pace compared to other repositories."
+        },
+        "arjunportfolio": {
+            "link": "https://github.com/arjunvaradiyill/arjunportfolio",
+            "summary": "The arjunportfolio repository has seen updates, with push events indicating maintenance and enhancement of the portfolio website, although the activity level appears to be lower compared to other repositories like ifort-e-commerce-website and resultwebsite."
+        }
+    },
+    "profile_summary": "I'm a Web Developer and Cybersecurity Enthusiast with a strong foundation in C, Python, and JavaScript, leveraging my skills to build secure and scalable web solutions. With a network of 8 followers and 82 public repositories, I'm actively developing and sharing my knowledge through blogs and tutorials. I'm currently advancing my skills in MERN Stack Development and Cybersecurity, with a goal to build a collaborative tech community and mentor aspiring developers."
+}

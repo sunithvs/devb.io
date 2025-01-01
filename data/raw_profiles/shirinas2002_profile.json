@@ -1,0 +1,146 @@
+{
+    "username": "shirinas2002",
+    "name": "Shirin A S",
+    "bio": "Enthusiastic IT aspirant with a basic foundation in programming languages and has a passion for coding.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/83756732?u=0a867c2e71915ddf4b5bb0503650af2239679a61&v=4",
+    "profile_url": "https://github.com/shirinas2002",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "x-mas_tree",
+            "description": "x-mas created using python",
+            "score": 1.1111273495073857,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/shirinas2002/x-mas_tree",
+            "updatedAt": "2021-12-30T07:00:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "game-website",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shirinas2002/game-website",
+            "updatedAt": "2024-12-03T10:23:14Z",
+            "isPinned": false,
+            "homepage": "https://game-website--six.vercel.app"
+        },
+        {
+            "name": "shopping-cart",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shirinas2002/shopping-cart",
+            "updatedAt": "2024-11-29T04:52:09Z",
+            "isPinned": false,
+            "homepage": "https://shopping-cart-eight-ochre.vercel.app"
+        },
+        {
+            "name": "quiz-app",
+            "description": null,
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shirinas2002/quiz-app",
+            "updatedAt": "2024-11-28T06:26:29Z",
+            "isPinned": false,
+            "homepage": "https://quiz-app-nu-henna.vercel.app"
+        },
+        {
+            "name": "To_Do",
+            "description": null,
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/shirinas2002/To_Do",
+            "updatedAt": "2024-11-28T06:45:52Z",
+            "isPinned": false,
+            "homepage": "https://to-do-xi-flame.vercel.app"
+        },
+        {
+            "name": "Newsletter",
+            "description": null,
+            "score": 0.28793626779905185,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shirinas2002/Newsletter",
+            "updatedAt": "2024-07-02T18:12:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-secure-code-game",
+            "description": "My clone repository",
+            "score": 0.28793626779905185,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shirinas2002/skills-secure-code-game",
+            "updatedAt": "2024-07-02T14:20:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "shirinas",
+            "description": "My personal repository.",
+            "score": 0.2876353745703169,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shirinas2002/shirinas",
+            "updatedAt": "2024-07-01T18:59:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 9,
+    "public_repos": 36,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 48,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "## \ud83d\udc4b Hello there!\n\nI'm Shirin A S, a budding enthusiast in the world of IT, particularly interested in web development.\n\n### \ud83c\udf10 About Me\n\nI'm a passionate in web development. Currently honing my skills through projects and learning experiences, I aim to become a proficient web developer. My journey began with HTML and CSS, and I've since delved into JavaScript and various frameworks like React and Node.js. I love turning ideas into beautifully functional websites. Also, I'm diving into the basics of programming languages like C, Python, and Java, eager to expand my skills and knowledge in these areas. From crafting simple web pages to exploring the fundamentals of coding, I'm on a journey of continuous learning and growth. \n\n## \ud83d\udee0\ufe0f Skills\n\n- **Languages:** HTML, CSS, JavaScript\n- **Frameworks/Libraries:** React.js, Node.js, Bootstrap\n- **Tools/Technologies:** Git, VS Code, MongoDB\n- **Additional:** Design, UI/UX\n\n  \n### \ud83d\udcac Let's Connect\n\nI'm always open to collaborations, discussions, and sharing insights with fellow data enthusiasts. Feel free to reach out if you share a passion for Python, data science, or just want to connect!\n\n### \ud83d\udceb Contact Me\n\n- GitHub: https://github.com/shirinas2002/shirinas2002/\n- LinkedIn: https://www.linkedin.com/in/shirin-a-s-884323214\n- Twitter: https://twitter.com/ShirinAS6\n\n Let's connect and explore the fascinating realm of technology together! \ud83d\udcc8\u2728\n",
+    "activity_summary": {
+        "shirinas2002/game-website": {
+            "link": "https://github.com/shirinas2002/game-website",
+            "summary": "Recent activities include installing axios and changing the icon, indicating ongoing development and refinement of the game website's functionality and user interface."
+        },
+        "shirinas2002/To_Do": {
+            "link": "https://github.com/shirinas2002/To_Do",
+            "summary": "A recent update addressed an import error, suggesting that the repository is undergoing maintenance and bug fixing to ensure the To-Do application's stability and performance."
+        },
+        "shirinas2002/quiz-app": {
+            "link": "https://github.com/shirinas2002/quiz-app",
+            "summary": "The quiz-app repository has seen a recent update with a favicon change, which may be part of broader efforts to enhance the application's visual appeal and user experience."
+        }
+    },
+    "profile_summary": "I'm Shirin A S, a budding web development enthusiast with a strong foundation in programming languages, including TypeScript, Python, and JavaScript, and a passion for turning ideas into functional websites. With 36 public repositories and a growing professional network of 7 followers, I'm committed to continuous learning and growth in the tech industry. I'm excited to collaborate and share insights with fellow developers and enthusiasts, and can be reached through my GitHub, LinkedIn, or Twitter profiles."
+}

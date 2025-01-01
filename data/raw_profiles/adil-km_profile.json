@@ -1,0 +1,103 @@
+{
+    "username": "adil-km",
+    "name": "Adil",
+    "bio": ".",
+    "location": "Milky Way galaxy ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104283105?u=68e37340957db32ad937939be32614296d30d7f9&v=4",
+    "profile_url": "https://github.com/Adil-km",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ragging-alert-system",
+            "description": "it's a simple demo website designed to combat the issue of ragging in college",
+            "score": 2.7524484022380724,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Adil-km/ragging-alert-system",
+            "updatedAt": "2024-10-24T10:41:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "qr-code-genrator",
+            "description": "Simple QR code generator using javascript API ",
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Adil-km/qr-code-genrator",
+            "updatedAt": "2024-12-19T02:08:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "img-to-pdf-converter",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Adil-km/img-to-pdf-converter",
+            "updatedAt": "2024-09-28T11:06:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "to-do-list",
+            "description": "Convert image to pdf (single image at a time)",
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Adil-km/to-do-list",
+            "updatedAt": "2024-09-28T10:58:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/adil-km"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "Adil-km/ragging-alert-system": {
+            "link": "https://github.com/Adil-km/ragging-alert-system",
+            "summary": "The ragging-alert-system repository has seen significant activities recently, with multiple push events and pull requests. The updates include adding a sample navbar, responsive updates, and minor fixes. These changes indicate ongoing development and maintenance of the project, with a focus on enhancing its user interface and responsiveness."
+        },
+        "adilkm123/test": {
+            "link": "https://github.com/adilkm123/test",
+            "summary": "The test repository has witnessed recent activities, primarily consisting of push events with updates to files such as contact.html. These updates suggest that the repository is being used for experimental or testing purposes, with ongoing modifications to its content."
+        },
+        "Adil-km/qr-code-genrator": {
+            "link": "https://github.com/Adil-km/qr-code-genrator",
+            "summary": "The qr-code-genrator repository has experienced recent activity, with push events involving the upload of new files. This suggests that the project is in the process of being populated with content or updated with new features, potentially expanding its QR code generation capabilities."
+        }
+    },
+    "profile_summary": "I'm Adil, a developer with a strong foundation in JavaScript, CSS, and HTML, leveraging these skills to build and maintain a range of projects across my 5 public repositories. With a growing professional network, I'm focused on continuing to learn and contribute to the development community. My GitHub presence showcases my active development efforts and commitment to coding excellence."
+}

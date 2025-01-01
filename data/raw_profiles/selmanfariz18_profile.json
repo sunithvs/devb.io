@@ -1,0 +1,159 @@
+{
+    "username": "selmanfariz18",
+    "name": "Selmanul farizy K A",
+    "bio": "Developer <Django, Flutter> ",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92449535?u=c6e9e30cfdcad61b4384b67830236a6ccb79ba89&v=4",
+    "profile_url": "https://github.com/selmanfariz18",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ICTACME",
+            "description": "website for International Conference on Technological Advancements in Civil and Mechanical Engineering",
+            "score": 11.636338678893647,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/ICTACME",
+            "updatedAt": "2024-03-21T16:12:53Z",
+            "isPinned": true,
+            "homepage": "https://ictacme.vercel.app"
+        },
+        {
+            "name": "Fluid-simulator",
+            "description": "html project created using js-webgl and css",
+            "score": 11.612425522330888,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/selmanfariz18/Fluid-simulator",
+            "updatedAt": "2024-03-21T16:13:31Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "selmanfariz18.github.io",
+            "description": "my personal portfolio",
+            "score": 11.60537022744742,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/selmanfariz18.github.io",
+            "updatedAt": "2024-01-12T04:20:28Z",
+            "isPinned": true,
+            "homepage": "https://selmanfariz18.vercel.app"
+        },
+        {
+            "name": "Dot_connect",
+            "description": "A React Game",
+            "score": 10.24953141433922,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/selmanfariz18/Dot_connect",
+            "updatedAt": "2024-02-17T14:00:54Z",
+            "isPinned": true,
+            "homepage": "https://dot-connect-omega.vercel.app"
+        },
+        {
+            "name": "Burn_out",
+            "description": null,
+            "score": 10.160859476013043,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Burn_out",
+            "updatedAt": "2023-08-20T07:08:32Z",
+            "isPinned": true,
+            "homepage": "https://burn-out.vercel.app"
+        },
+        {
+            "name": "Hacktoberfest_04",
+            "description": null,
+            "score": 2.1542122728463395,
+            "stars": 0,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_04",
+            "updatedAt": "2022-10-24T15:12:32Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Hacktoberfest_01",
+            "description": null,
+            "score": 1.8722306265016755,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "updatedAt": "2024-11-14T11:37:10Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Hacktoberfest_02",
+            "description": null,
+            "score": 1.7226891641686681,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/selmanfariz18/Hacktoberfest_02",
+            "updatedAt": "2022-10-24T15:10:03Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 14,
+    "following": 14,
+    "public_repos": 94,
+    "pull_requests_merged": 27,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 354,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Selmanulfarizy"
+        }
+    ],
+    "readme_content": "### Hello Folks \ud83d\udc4b\n\n <p align=\"center\">\n <img src = \"giphy.gif\">\n  <br /><br />\n <samp>\n    I'm <a href=\"https://www.linkedin.com/in/selman-fariz-bb8390229/\">Selmanul Farizy</a>, a final-year Computer Science and Engineering student at <a href=\"http://www.kmeacollege.ac.in/\">KMEA Engineering College, Ernakulam</a>, and a developer.\n</samp>\n\n</p>\n\n<br>\n<div align=\"center\">\n\n## Skills\n\n![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)\n![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)\n![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)\n![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)\n![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)\n![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)\n![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)\n![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)\n![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)\n![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)\n\n</div>\n<br>\n\n- \ud83c\udf31 \"I am currently focusing on projects utilizing Django and Flutter, with a strong foundation in HTML, CSS, and JavaScript, demonstrating my comprehensive skills in web development.\"\n\n<div align=\"center\">\n\n[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)\n\n</div>\n\n<div align=\"center\">\n\n[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmanfariz18)](https://github.com/anuraghazra/github-readme-stats)\n\n</div>\n\n### Connect with me:\n\n[<img align=\"left\" alt=\"codeSTACKr | Twitter\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg\" />][twitter]\n[<img align=\"left\" alt=\"codeSTACKr | LinkedIn\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg\" />][linkedin]\n[<img align=\"left\" alt=\"codeSTACKr | Instagram\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg\" />][instagram]\n\n[twitter]: https://twitter.com/Selmanulfarizy\n[instagram]: https://www.instagram.com/fariz.deb/\n[linkedin]: https://www.linkedin.com/in/selmanfariz18/\n",
+    "activity_summary": {
+        "selmanfariz18/mark_it_down": {
+            "link": "https://github.com/selmanfariz18/mark_it_down",
+            "summary": "Recent activities include resolving the restore error, fixing the reload bug, and implementing the restore and actual delete project features. Additionally, deleted projects are now listed in the recycle area, and various other improvements have been made, such as stopping username duplication, editing the README, and updating the .md file format. The repository has also seen the addition of test code, alignment of the profile page, and design updates for the login and signup pages."
+        },
+        "selmanfariz18/selmanfariz18": {
+            "link": "https://github.com/selmanfariz18/selmanfariz18",
+            "summary": "A recent update was made to reflect the change in year, indicating that the repository is being maintained and updated periodically."
+        },
+        "selmanfariz18/Malayalam-Emotion-Detector": {
+            "link": "https://github.com/selmanfariz18/Malayalam-Emotion-Detector",
+            "summary": "A recent push event involved uploading a file, suggesting that the repository is being updated with new content or data related to the Malayalam Emotion Detector project."
+        },
+        "selmanfariz18/Youtube-comments-scrapper": {
+            "link": "https://github.com/selmanfariz18/Youtube-comments-scrapper",
+            "summary": "A new file was created in the repository, indicating that development or updates are being made to the YouTube comments scrapper project."
+        },
+        "selmanfariz18/Hacktoberfest_01": {
+            "link": "https://github.com/selmanfariz18/Hacktoberfest_01",
+            "summary": "An update was made to the README.md file, suggesting that the repository is being maintained and updated, possibly in preparation for or as part of the Hacktoberfest event."
+        }
+    },
+    "profile_summary": "I'm a developer with a strong foundation in programming languages such as Python, C, and C++, and expertise in frameworks like Django and Flutter, with a comprehensive understanding of web development technologies including HTML, CSS, and JavaScript. With 94 public repositories and a growing network of 14 followers, I'm actively developing and contributing to various projects, focusing on utilizing my skills to build innovative solutions. As a final-year Computer Science and Engineering student, I'm committed to continually expanding my skills and knowledge in the field."
+}

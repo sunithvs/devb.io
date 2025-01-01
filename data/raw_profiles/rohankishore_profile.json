@@ -1,0 +1,159 @@
+{
+    "username": "rohankishore",
+    "name": "Rohan Kishore",
+    "bio": "The more I learn, the more I realize how much I don't know                                           ",
+    "location": "Thrissur, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109947257?u=8116bba56c63127b8abb2ca1844c43296b9edad5&v=4",
+    "profile_url": "https://github.com/rohankishore",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Aura-Text",
+            "description": "Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.",
+            "score": 26.28715666543522,
+            "stars": 292,
+            "forks": 22,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/Aura-Text",
+            "updatedAt": "2024-12-25T05:30:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Youtility",
+            "description": "YouTube downloader tools built with PyQt6 and PyTube",
+            "score": 25.194415839320797,
+            "stars": 199,
+            "forks": 17,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/Youtility",
+            "updatedAt": "2024-12-25T15:47:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Spotifyte",
+            "description": "Spotify track and playlist downloader made with PySide6 and SpotDL",
+            "score": 22.093332866240623,
+            "stars": 77,
+            "forks": 7,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/Spotifyte",
+            "updatedAt": "2024-12-31T00:32:53Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CashFlow",
+            "description": " Cashflow: Seamlessly track and manage your expenses with ease, empowering you to take control of your financial flow.",
+            "score": 19.644013131455708,
+            "stars": 38,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/CashFlow",
+            "updatedAt": "2024-12-27T18:49:33Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AnimeSnap",
+            "description": "Unlock a world of anime information from a single scene screenshot \u2013 Including episode, timestamps, and much more!",
+            "score": 19.168176881007348,
+            "stars": 37,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/AnimeSnap",
+            "updatedAt": "2024-12-25T06:04:51Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Tempus",
+            "description": "Desktop calendar with TODOs, Horoscopes etc made with PyQt6",
+            "score": 16.866952776280172,
+            "stars": 15,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/Tempus",
+            "updatedAt": "2024-12-23T13:05:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ZenNotes",
+            "description": "Windows Notepad Replacement with Translation, TTS, and much more!",
+            "score": 12.68901163435496,
+            "stars": 116,
+            "forks": 6,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/ZenNotes",
+            "updatedAt": "2024-12-30T12:52:01Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "PhysiPy",
+            "description": "Python Library to calculate all types of Physics Formulae, both for calculations and research",
+            "score": 9.369883577755367,
+            "stars": 33,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/rohankishore/PhysiPy",
+            "updatedAt": "2024-12-09T18:27:10Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 77,
+    "following": 36,
+    "public_repos": 29,
+    "pull_requests_merged": 0,
+    "issues_closed": 45,
+    "achievements": {
+        "total_contributions": 916,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Aura_Text"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_.j0ps/"
+        },
+        {
+            "provider": "reddit",
+            "url": "https://www.reddit.com/user/Specialist-Arachnid6"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.fiverr.com/rohancodespy/"
+        }
+    ],
+    "readme_content": "![WELCOME!](https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897)\n\n<div align=\"center\">\n\n[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan+)\n\n</div>\n\n<p align =\"center\">Aspiring Python dev from Kerala, India burdened by the exams of life (& school) </p>\n\n<div align=\"center\">  \n    \n  <a href=\"https://www.hackerrank.com/profile/rohankishore7461\">![Demo](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)</a>\n    <a href=\"https://rohankishore.github.io/\">![Demo](https://img.shields.io/badge/Portfolio-acb6ca?style=for-the-badge&logo=portfolio&logoColor=white)</a>\n  <a href=\"https://www.fiverr.com/rohancodespy/\">![Demo](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>\n  <a href=\"https://twitter.com/Aura_Text\">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>\n  <a href=\"https://www.linkedin.com/in/rohankishore/\">![Demo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)</a>\n  <a href=\"https://ko-fi.com/rohankishore\">![Demo](https://img.shields.io/badge/Kofi-ff5d5b?style=for-the-badge&logo=kofi&logoColor=white)</a>\n    <a href=\"https://codipy.hashnode.dev/\">![Demo](https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white)</a>\n  \n \n</div> \n\n\n<p align=\"center\"> \n  Viewer Count<br>\n  <img src=\"https://profile-counter.glitch.me/rohankishore/count.svg\" />\n</p>\n\n<br>\n\n# \ud83d\udcc3 Table of Contents\n- [\ud83d\udc4b\ud83c\udffb More About Me](#-more-about-me)\n- [\u26cf\ufe0f Languages, Frameworks & Tools](#-languages-frameworks--tools)\n- [\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb Featured Projects](#-featured-projects)  \n  * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)\n  * [Other Projects](#other-projects)\n- [\ud83d\udcd6 GitHub Statistics](#-github-statistics)\n- [\ud83d\udcdf Certifications](#-certifications)\n\n<br>\n\n## \ud83d\udc4b\ud83c\udffb More About Me\n\n<br>\n\n- \ud83d\ude4b\u200d\u2642\ufe0f Currently 18 years old\n- \ud83c\udf31 I\u2019m currently learning web development \n- \ud83d\udcac Ask me about Python(Tkinter & PyQt6)\n- \ud83d\udceb How to reach me: rohankishore746@gmail.com\n- \ud83e\uddd1\ud83c\udffc\u200d\ud83d\udcbb Hire me via Fiverr by clicking on the button at the top of this page\n- \ud83d\uddc3\ufe0f Carrd: https://rohankishore.carrd.co/\n\n\n<br>\n\n## \u26cf\ufe0f Languages, Frameworks & Tools\n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\n![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)\n![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)\n![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)\n![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\n![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)\n![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)\n![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Gitb&logoColor=white)\n![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)\n![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)\n![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)\n![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)\n![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)\n![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)\n![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)\n![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)\n![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)\n\n\n<br>\n\n## \ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb Featured Projects\n### GUI Based (PyQT6 and Tk)\n1. [Aura Text](https://github.com/rohankishore/Aura-Text) : IDE made with PyQt6 and QScintilla\n2. [Youtility](https://github.com/rohankishore/Youtility): Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles\n3. [ZenNotes](https://github.com/rohankishore/ZenNotes): Notepad alternative with TTS, Translations, etc\n4. [Spotifyte](https://github.com/rohankishore/Spotifyte): Spotify track/playlist downloader with a modern fluent design\n5. [CashFlow](https://github.com/rohankishore/CashFlow): Finance manager app with Expense and Income tracking\n6. [AnimeSnap](https://github.com/rohankishore/AnimeSnap): Get details of an Anime like the episode, timestamp, etc from just its Screenshot\n7. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily\n8. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib\n9. [Tempus](https://github.com/rohankishore/Tempus): Calendar with Horoscopes, TODOs, Reminders and much more\n10. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support\n11. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer\n12. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk\n\n### Other Projects\n1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations\n2. [Dash](https://github.com/rohankishore/Dash): An endless runner with Cyberpunk theme\n3. [PasteCMD](https://github.com/rohankishore/PasteCMD): CLI App for Pastebin\n4. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc\n5. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu\n<br>\n\n<br>\n\n## \ud83d\udcd6 GitHub Statistics\n\n![rohankishore's Stats](https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) \n\n\n[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)\n\n<br>\n\n## \ud83d\udcdf Certifications\n![image](https://github.com/rohankishore/rohankishore/assets/109947257/ee6695eb-e93b-465b-b50d-f5215b1ae5f9) ![Python Basic](https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6)\n ![Python for Beginners](https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11) ![Python DS](https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0) ![image 4](https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55)\n",
+    "activity_summary": {
+        "rohankishore/Veridian": {
+            "link": "https://github.com/rohankishore/Veridian",
+            "summary": "Recent activities in the Veridian repository have focused on updates to the README.md file, project completion, and study projects. Multiple push events have occurred, including updates to the repository's master branch, with commits addressing various aspects such as templating, theming consistency, and cleanup. The repository has seen significant activity, with numerous push events in a short span, indicating ongoing development and refinement."
+        },
+        "rohankishore/Aura-Text": {
+            "link": "https://github.com/rohankishore/Aura-Text",
+            "summary": "The Aura-Text repository has seen recent activity centered around fixes, updates to the About section, and the integration of the StrGenie plugin. Several push events have been logged, including merges with the main branch, resolving conflicts and updating the plugin. These activities suggest that the repository is being actively maintained and improved, with a focus on enhancing its functionality and user experience."
+        },
+        "rohankishore/AuraText-Plugins": {
+            "link": "https://github.com/rohankishore/AuraText-Plugins",
+            "summary": "Activity in the AuraText-Plugins repository has been centered around the addition of the StrGenie plugin and string manipulation capabilities. Although the number of push events is fewer compared to other repositories, the focus on specific plugin development indicates targeted efforts to expand the functionality of related projects, such as Aura-Text, by providing additional tools and features."
+        }
+    },
+    "profile_summary": "I'm Rohan Kishore, an 18-year-old aspiring Python developer from Kerala, India, with a strong foundation in Python, HTML, and GUI development using PyQt6 and Tkinter. With 77 followers and 29 public repositories, I'm actively engaged in the development community, constantly learning and exploring new technologies. My projects, such as Aura Text, Youtility, and ZenNotes, showcase my skills in building user-friendly and functional applications, demonstrating my passion for coding and problem-solving."
+}

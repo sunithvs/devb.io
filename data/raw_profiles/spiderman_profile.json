@@ -1,0 +1,40 @@
+{
+    "username": "spiderman",
+    "name": "spiderman",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/30366054?v=4",
+    "profile_url": "https://github.com/spiderman",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Self-Learning-Web",
+            "description": null,
+            "score": 0.06321814082747935,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/spiderman/Self-Learning-Web",
+            "updatedAt": "2017-07-22T11:05:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm spiderman, a developer with a strong foundation in HTML, actively building and maintaining projects in my public repository, with a growing network of 2 followers who share my interest in web development. Through my work, I aim to create efficient and effective solutions that showcase my technical skills. With a focus on continuous learning and improvement, I'm committed to delivering high-quality code and collaborating with like-minded professionals."
+}

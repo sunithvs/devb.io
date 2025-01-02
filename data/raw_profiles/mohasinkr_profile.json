@@ -1,0 +1,155 @@
+{
+    "username": "mohasinkr",
+    "name": "Mohasin K R",
+    "bio": "Chasing dreams and WiFi signals \ud83d\udce1",
+    "location": "Trivandrum, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/30471994?u=640d6a27c2d9ced0665e76f7b6bc6528bd73ff79&v=4",
+    "profile_url": "https://github.com/mohasinkr",
+    "top_languages": [
+        [
+            "TypeScript",
+            10
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quikbills-invoicing",
+            "description": "Invoicing web app made using Next JS and Supabase",
+            "score": 12.525858576557392,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohasinkr/quikbills-invoicing",
+            "updatedAt": "2024-12-28T12:12:46Z",
+            "isPinned": true,
+            "homepage": "https://quikbills-invoicing.vercel.app"
+        },
+        {
+            "name": "QuoteGen",
+            "description": null,
+            "score": 11.532851310669994,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mohasinkr/QuoteGen",
+            "updatedAt": "2023-09-30T07:18:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "crypto-drip-react",
+            "description": "CryptoDrip: An ethereum faucet made using react, ethers, hardhat library",
+            "score": 10.553904059603283,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohasinkr/crypto-drip-react",
+            "updatedAt": "2024-12-25T14:25:36Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "express-ts-starter-v1",
+            "description": "Backend starter project using express, typescript, mongodb, docker, swagger, biome etc",
+            "score": 10.260041006922776,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohasinkr/express-ts-starter-v1",
+            "updatedAt": "2024-12-27T15:50:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "sanity-ecommerce-app",
+            "description": "Ecommerce application using sanity cms and next.js 15 \u26a1",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohasinkr/sanity-ecommerce-app",
+            "updatedAt": "2025-01-01T19:07:48Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "meeting-slots-finder",
+            "description": "Find the 30min meeting slots where all participants are available",
+            "score": 1.7737710113308838,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohasinkr/meeting-slots-finder",
+            "updatedAt": "2024-12-13T09:02:39Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "mohasinkr",
+            "description": "Public Profile readme :)",
+            "score": 1.5904331019843017,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mohasinkr/mohasinkr",
+            "updatedAt": "2024-12-23T06:19:34Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "react-task-tracker",
+            "description": "A project for learning react basics",
+            "score": 1.5339876266154626,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mohasinkr/react-task-tracker",
+            "updatedAt": "2023-03-07T11:01:17Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16,
+    "following": 65,
+    "public_repos": 29,
+    "pull_requests_merged": 6,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 1881,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mohasinkr"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/mohasinkr"
+        }
+    ],
+    "readme_content": "## Hey there \ud83d\udc4b\n\n<!--\n**MohasinKR/MohasinKR** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n\nI'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendly, and scalable web apps. My tech journey started when I was a kid, and I'm still just as excited to dive into new tech and learn something cool every day. Open source = \u2764\ufe0f\n\n## Skills & Abilities\n\\- Proficient in Javascript, JAVA, C, Python\n\n\\- Experienced in Blogging and Technical Content writing.\n\n\ud83d\udcbb I'm currenty working on full stack web app development using Next.js \n\n#### \ud83d\udcdd Future Plans:\n- Devops (Cloud deployment, CI/CD)\n- Build DApps using Ethereum\n\n#### \ud83d\udcee How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)\n\n#### Technologies Used:\n![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![htmx Badge](https://img.shields.io/badge/htmx-36C?logo=htmx&logoColor=fff&style=for-the-badge)\n![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)\n![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)\n![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)\n![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)\n![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)\n![Storyblok Badge](https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=fff&style=for-the-badge)\n![Strapi Badge](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=for-the-badge)\n![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)\n![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge)\n![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=for-the-badge)\n![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)\n![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)\n![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)\n![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)\n![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge)\n![Zod Badge](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge)\n![React Table Badge](https://img.shields.io/badge/React%20Table-FF4154?logo=reacttable&logoColor=fff&style=for-the-badge)\n![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)\n![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)\n![Radix UI Badge](https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&logoColor=fff&style=for-the-badge)\n![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)\n![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)\n![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\n![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge)\n![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=for-the-badge)\n![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)\n![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge)\n![Alchemy Badge](https://img.shields.io/badge/Alchemy-0C0C0E?logo=alchemy&logoColor=fff&style=for-the-badge)\n![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)\n![OpenZeppelin Badge](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge)\n\n#### Follow me:\n[![Linkedin](https://img.shields.io/badge/mohasinkr-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/mohasinkr/)\u2002\n[![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/mohasinkr)\n\n<!-- ![](https://github-readme-stats.vercel.app/api?username=mohasinkr) -->\n![](https://github-readme-streak-stats.herokuapp.com/?user=mohasinkr)\n",
+    "activity_summary": {
+        "mohasinkr/micro-blog-backend": {
+            "link": "https://github.com/mohasinkr/micro-blog-backend",
+            "summary": "The micro-blog-backend repository has seen significant activity, with multiple push events in recent days. The updates include refactoring code, adding new features such as CRUD operations for posts and likes API, improving type checking, and migrating to Bun. Additional changes include code formatting using Biome, and updating configuration files."
+        },
+        "mohasinkr/sanity-ecommerce-app": {
+            "link": "https://github.com/mohasinkr/sanity-ecommerce-app",
+            "summary": "The sanity-ecommerce-app repository has experienced substantial development, with a series of push events focused on enhancing the application's frontend. Notable updates include setting up Shadcn, adding fonts and a brand schema, implementing a navbar, and fixing font issues. Furthermore, the repository's README.md file has been updated, and a products page has been added, along with a product schema."
+        },
+        "mohasinkr/sanity-store-ecommerce": {
+            "link": "https://github.com/mohasinkr/sanity-store-ecommerce",
+            "summary": "The sanity-store-ecommerce repository has had recent activity, marked by the installation of Sanity and the addition of Sanity Studio, indicating the initial steps in setting up a backend for an e-commerce application using Sanity's content management system."
+        }
+    },
+    "profile_summary": "I'm Mohasin, a front-end developer with a strong foundation in TypeScript, JavaScript, and C, passionate about building fast, user-friendly, and scalable web applications, currently focusing on full-stack development with Next.js and exploring emerging technologies like DevOps and blockchain development. With a growing network of 16 followers and 29 public repositories, I'm committed to open-source and continually learning and expanding my skill set."
+}

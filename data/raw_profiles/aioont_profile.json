@@ -1,0 +1,154 @@
+{
+    "username": "aioont",
+    "name": "aioont",
+    "bio": "https://www.instagram.com/aioon_t",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/97335084?u=f112897c19af72982442150ad19c43c9c3cf2f1d&v=4",
+    "profile_url": "https://github.com/aioont",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kex",
+            "description": "Kex not working , fix kex , kex error , win kex , win-kex , fix error in kex , no matching vnc server , Kali linux rootless nethunter program and kex client program for managing vnc connection.",
+            "score": 21.834583034182902,
+            "stars": 86,
+            "forks": 5,
+            "language": "Shell",
+            "url": "https://github.com/aioont/kex",
+            "updatedAt": "2024-12-25T16:43:43Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "digital_product_ecommerce",
+            "description": null,
+            "score": 15.524946638941989,
+            "stars": 4,
+            "forks": 3,
+            "language": "SCSS",
+            "url": "https://github.com/aioont/digital_product_ecommerce",
+            "updatedAt": "2024-04-25T22:49:13Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Disaster-Management-and-Detection",
+            "description": null,
+            "score": 14.573320949742824,
+            "stars": 3,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/aioont/Disaster-Management-and-Detection",
+            "updatedAt": "2023-06-01T08:38:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "polls",
+            "description": null,
+            "score": 11.542376573081771,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aioont/polls",
+            "updatedAt": "2023-05-21T08:12:16Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "wifi-bruteforce",
+            "description": "Create password for brutefore from accepting string. From input store all possible combination of string to a file. ",
+            "score": 3.9612482183541493,
+            "stars": 3,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/aioont/wifi-bruteforce",
+            "updatedAt": "2023-05-21T08:12:14Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "shell-lab",
+            "description": "Lab practical shell program",
+            "score": 3.3737520328396284,
+            "stars": 4,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/aioont/shell-lab",
+            "updatedAt": "2023-08-17T16:40:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cleaner",
+            "description": "Linux cleaner , Free space , Termux cleaner , Debian free space , Ubuntu cleaner ",
+            "score": 2.991972514232211,
+            "stars": 3,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/aioont/cleaner",
+            "updatedAt": "2024-07-06T07:45:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "radar",
+            "description": null,
+            "score": 2.6932458046916334,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/aioont/radar",
+            "updatedAt": "2024-04-04T16:23:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 62,
+    "following": 41,
+    "public_repos": 45,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 164,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "# Hi there! I'm @aioont aka [ A b h i n a n d ] \ud83d\udc4b\n\n<div align=\"center\">\n  <img src=\"https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif\" width=\"480\" height=\"360\" alt=\"Tech Innovation Animation\"/>\n</div>\n\n## \ud83d\ude80 About Me\n\nA passionate technologist exploring the exciting worlds of AI, Software Development, and Cybersecurity. Always curious, always learning.\n\n## \ud83d\udd2c My Tech Interests\n\n\ud83e\udd16 AI & Machine Learning\n\ud83d\udcbb Software Development\n\ud83d\udee1\ufe0f Cybersecurity\n\ud83c\udf10 Web Technologies\n\n## \ud83d\udee0\ufe0f Technologies I Work With\n\n<div align=\"center\">\n     <img src=\"https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white\" alt=\"Django\"/>\n   <img src=\"https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black\" alt=\"React\"/>\n  <img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python\"/>\n  <img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white\" alt=\"TensorFlow\"/>\n  <img src=\"https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white\" alt=\"Keras\"/>\n\n  <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\"/>\n  <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\"/>\n  <img src=\"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black\" alt=\"Linux\"/>\n  <img src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\" alt=\"Git\"/>\n  <img src=\"https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white\" alt=\"Shell\"/>\n</div>\n\n## \ud83d\udd17 Connect With Me\n\n<div align=\"center\">\n  <a href=\"https://www.linkedin.com/in/abhinand-i-687984249\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn Badge\"/>\n  </a>\n  <a href=\"https://aioont.github.io/abhinand.github.io/\">\n    <img src=\"https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=googlechrome&logoColor=white\" alt=\"Portfolio Badge\"/>\n  </a>\n</div>\n\n## \ud83d\udd25 My GitHub Stats\n\n<div align=\"center\">\n  <img src=\"https://komarev.com/ghpvc/?username=aioont&color=orange\" alt=\"Profile Views\"/>\n  \n  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aioont&theme=vue&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)\n  \n  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aioont&layout=compact&theme=vision-friendly-dark)](https://github.com/aioont/github-readme-stats)\n</div>\n\n## \ud83d\udcec Let's Connect\n\nAlways open to interesting conversations and collaborative opportunities. Feel free to reach out!\n\n*Exploring the endless possibilities of technology* \ud83c\udf1f\n",
+    "activity_summary": {
+        "aioont/RBACUI": {
+            "link": "https://github.com/aioont/RBACUI",
+            "summary": "Recent activities in the RBACUI repository have been focused on initializing the project using Create React App and completing core features, along with multiple updates to the README.md file to refine the project's documentation and overview."
+        },
+        "aioont/ap": {
+            "link": "https://github.com/aioont/ap",
+            "summary": "The ap repository has seen various updates, including deleting a Sample Cyber Security Risk Assessment.pdf, adding files via upload, and multiple updates to the README.md file, indicating ongoing development and refinement of the project's content and documentation."
+        },
+        "Eco-bins/Ecobins": {
+            "link": "https://github.com/Eco-bins/Ecobins",
+            "summary": "Significant activities in the Ecobins repository include resolving an issue, merging a pull request that added comprehensive documentation for Energy Efficiency and Waste Management Metrics Models, highlighting a strong focus on enhancing the project's documentation and metrics tracking capabilities."
+        },
+        "aioont/aioont": {
+            "link": "https://github.com/aioont/aioont",
+            "summary": "The aioont repository has had a recent update to its README.md file, suggesting ongoing maintenance and refinement of the project's documentation to ensure it remains accurate and up-to-date."
+        },
+        "aioont/KH012-FinWise": {
+            "link": "https://github.com/aioont/KH012-FinWise",
+            "summary": "Activity in the KH012-FinWise repository includes an update to the article_list.html file, indicating development or enhancement of the project's content or user interface."
+        }
+    },
+    "profile_summary": "I'm a passionate technologist with expertise in TypeScript, Python, and JavaScript, exploring the exciting worlds of AI, software development, and cybersecurity, with a strong presence on GitHub through my 45 public repositories and 62 followers. As a continuous learner, I'm always looking to expand my skill set and collaborate on innovative projects. You can find more about me through my social media profiles, including my Instagram at https://www.instagram.com/aioon_t."
+}

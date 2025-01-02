@@ -1,0 +1,10 @@
+{
+    "error": "An unexpected error occurred: User 'darkphoenix2704' not found or query returned no data.",
+    "activity_summary": {
+        "nocodb/nocodb": {
+            "link": "https://github.com/nocodb/nocodb",
+            "summary": "The repository has seen significant activities in recent days, with multiple bug fixes and improvements. Fixes include missing columns data in tables, issues with new record visibility, and deprecation warnings. Several pull requests have been merged, addressing issues such as user profile save issues and sign out functionality. The contributions demonstrate a focus on resolving problems and enhancing the overall user experience."
+        }
+    },
+    "profile_summary": null
+}

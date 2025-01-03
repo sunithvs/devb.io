@@ -1,0 +1,138 @@
+{
+    "username": "manasvi10ag",
+    "name": "Manasvi Agarwal",
+    "bio": "Python Developer",
+    "location": "Ghaziabad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146832960?v=4",
+    "profile_url": "https://github.com/Manasvi10ag",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "currency-converter",
+            "description": "Seamless currency conversion",
+            "score": 2.5890084621825555,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/currency-converter",
+            "updatedAt": "2024-11-29T21:24:01Z",
+            "isPinned": false,
+            "homepage": "https://currency-converter-nu-henna.vercel.app"
+        },
+        {
+            "name": "WeatherApp",
+            "description": "A React-based weather application that allows users to search for weather information by city. It uses the OpenWeatherMap API to fetch real-time weather data.",
+            "score": 1.8789824692494672,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/WeatherApp",
+            "updatedAt": "2024-12-16T16:57:28Z",
+            "isPinned": false,
+            "homepage": "https://weather-app-donut.netlify.app/"
+        },
+        {
+            "name": "django-todo-list",
+            "description": null,
+            "score": 1.8273155168126998,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Manasvi10ag/django-todo-list",
+            "updatedAt": "2024-12-16T18:19:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tic-tac-toe",
+            "description": null,
+            "score": 1.767796528335954,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Manasvi10ag/tic-tac-toe",
+            "updatedAt": "2024-11-29T21:23:58Z",
+            "isPinned": false,
+            "homepage": "https://tic-tac-toe-rho-coral-73.vercel.app"
+        },
+        {
+            "name": "Manasvi10ag",
+            "description": null,
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Manasvi10ag/Manasvi10ag",
+            "updatedAt": "2024-12-22T16:37:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio",
+            "description": "Personal Portfolio",
+            "score": 0.1634495117730625,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Manasvi10ag/Portfolio",
+            "updatedAt": "2023-10-08T13:10:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Demo",
+            "description": null,
+            "score": 0.16321549717314204,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Manasvi10ag/Demo",
+            "updatedAt": "2023-10-03T12:13:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 41,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<img src=\"https://i.imgur.com/1ZvVkDc.gif\" alt=\"gif for github\"></img>\n\n# Hi there, I'm Manasvi Agarwal \ud83d\udc4b\n\nWelcome to my GitHub profile!\n\n![Profile Views](https://komarev.com/ghpvc/?username=Manasvi10ag&color=blueviolet)\n\n## \ud83d\ude80 About Me\n\n\u2022\u2060  \u2060\ud83c\udf31 I\u2019m currently learning new technologies and improving my coding skills. <br>\n\u2022\u2060  \u2060\ud83d\udc6f I\u2019m looking to collaborate on exciting projects. <br>\n\u2022\u2060  \u2060\ud83d\udcac Ask me about anything related to software development. <br>\n\u2022\u2060  \u2060\u26a1 Fun fact: I write code like I\u2019m on a diet \u2013 I leave out all the unnecessary bytes.\n\n## \ud83d\udee0 My Skills\n\n\n### Programming Languages  \n![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)\n![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n\n### Frameworks\n![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)\n![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)\n![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)\n![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)\n\n### Tools  \n![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)\n![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)\n![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![Postman](https://img.shields.io/badge/Postman-FD602F?style=for-the-badge&logo=postman&logoColor=white)\n![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/Manasvi10ag/Manasvi10ag/output/github-snake-dark.svg\" />\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/Manasvi10ag/Manasvi10ag/output/github-snake.svg\" />\n  <img alt=\"github-snake\" src=\"https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg\" />\n</picture>\n\n## \ud83d\udcc8 GitHub Stats\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Manasvi10ag&show_icons=true&theme=radical\" alt=\"Manasvi's GitHub stats\" />\n</p>\n\n## \ud83c\udfc6 GitHub Trophies\n\n<p align=\"center\">\n  <img src=\"https://github-profile-trophy.vercel.app/?username=Manasvi10ag&theme=radical&no-frame=false&column=8&margin-w=15&margin-h=15\" alt=\"GitHub Trophies\" />\n</p>\n\n<!-- # WanderLust\n\n[Check out the live project here](https://wanderlust-3-6a75.onrender.com) -->\n\n## Connect with Me\n\n\n<span>\n<a href=\"https://www.linkedin.com/in/manasvi-agarwal-399b27280/\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"Manasvi Agarwal\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://github.com/Manasvi10ag\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg\" alt=\"Manasvi Agarwal\" height=\"30\" width=\"40\" /></a>\n\n<br><br>\nThanks for visiting my profile!\n",
+    "activity_summary": {
+        "Manasvi10ag/Manasvi10ag": {
+            "link": "https://github.com/Manasvi10ag/Manasvi10ag",
+            "summary": "Recent activities in the Manasvi10ag repository have primarily focused on updating the README.md file, with multiple push events occurring between December 16 and December 22, 2024, indicating ongoing maintenance and documentation efforts."
+        },
+        "Manasvi10ag/Manasvi-Agarwal": {
+            "link": "https://github.com/Manasvi10ag/Manasvi-Agarwal",
+            "summary": "The Manasvi-Agarwal repository has seen a series of updates to its README.md file on December 16, 2024, suggesting a concentrated effort to refine and enhance the repository's documentation and presentation."
+        },
+        "Manasvi10ag/django-todo-list": {
+            "link": "https://github.com/Manasvi10ag/django-todo-list",
+            "summary": "Activities in the django-todo-list repository have been centered around enhancing the project's functionality, with push events on December 4 and 5, 2024, introducing changes such as validation updates, modifications to static directories, and the addition of gunicorn, indicating development and refinement of the todo list application."
+        },
+        "Manasvi10ag/WeatherApp": {
+            "link": "https://github.com/Manasvi10ag/WeatherApp",
+            "summary": "The WeatherApp repository has experienced recent development, with push events on December 13 and 15, 2024, focusing on initializing the project, making API changes, and refining the user interface with title case adjustments in cities, demonstrating the ongoing development and polishing of the WeatherApp's features."
+        }
+    },
+    "profile_summary": "I'm Manasvi Agarwal, a Python developer with strong skills in JavaScript and HTML, and a passion for collaborative software development. With a growing network of 3 followers and 9 public repositories, I'm committed to continuously learning and improving my coding skills. I'm excited to collaborate on exciting projects and share my knowledge with others, so feel free to reach out and ask me about anything related to software development."
+}

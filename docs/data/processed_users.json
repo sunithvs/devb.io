@@ -523,5 +523,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/134324568?u=5d6a1a13037a6fafa24ed36567d9a7b85f995a5e&v=4",
         "updated": "2025-01-03T12:40:44.699786",
         "name": "Akash Kottil"
+    },
+    "geohot": {
+        "created": "2025-01-03T13:25:01.253679",
+        "username": "geohot",
+        "avatar_url": "https://avatars.githubusercontent.com/u/72895?u=64c16e3f87c708f1f3920331f1f6285f6529960e&v=4",
+        "updated": "2025-01-03T13:25:01.253691",
+        "name": "George Hotz"
+    },
+    "midhungraj": {
+        "created": "2025-01-03T13:25:01.734047",
+        "username": "midhungraj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80905310?u=62dd5373945390e7da78be3ef5a2e89abc852c21&v=4",
+        "updated": "2025-01-03T13:25:01.734057",
+        "name": "Midhun G Raj"
     }
 }

@@ -1,0 +1,155 @@
+{
+    "username": "damantha126",
+    "name": "Damantha Jasinghe",
+    "bio": "Programmer from Sri Lanka \ud83c\uddf1\ud83c\uddf0",
+    "location": "Matara, Sri Lanka",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77870723?u=a55c7d550149d29eb62c474a14c18e39365c85b9&v=4",
+    "profile_url": "https://github.com/Damantha126",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PySDbots",
+            "description": "A Project Made To Centralize Various APIs \ud83d\udcd6 No Authorization Needed :)",
+            "score": 16.47338401347693,
+            "stars": 9,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/PySDbots",
+            "updatedAt": "2024-10-27T14:30:12Z",
+            "isPinned": true,
+            "homepage": "https://docs.sdbots.tech"
+        },
+        {
+            "name": "Youtube-DL-Bot",
+            "description": "Youtube Video and Audio downloading telegram bot",
+            "score": 11.810846647756136,
+            "stars": 23,
+            "forks": 32,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/Youtube-DL-Bot",
+            "updatedAt": "2024-11-20T12:55:34Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Anki-Vector-Music",
+            "description": "Anki vector Music \u2764 is the best and only Telegram VC player with playlists, Multi Playback, Channel play and more",
+            "score": 10.329928407246246,
+            "stars": 11,
+            "forks": 30,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/Anki-Vector-Music",
+            "updatedAt": "2024-02-01T22:42:00Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TelegramScraper",
+            "description": "Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. Time saver. But this tool is only for educational purpose. You could be banned from Telegram. So be careful. Recommanded to use this tool only on Termux.",
+            "score": 9.3300969775571,
+            "stars": 16,
+            "forks": 9,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/TelegramScraper",
+            "updatedAt": "2024-10-21T10:15:37Z",
+            "isPinned": false,
+            "homepage": "https://damantha.ga"
+        },
+        {
+            "name": "DT-Songbot",
+            "description": "A telegram bot that can download songs for you \u2764",
+            "score": 8.6676489202473,
+            "stars": 6,
+            "forks": 20,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/DT-Songbot",
+            "updatedAt": "2024-02-01T22:42:00Z",
+            "isPinned": false,
+            "homepage": "https://t.me/TheSongdobot"
+        },
+        {
+            "name": "Damantha126",
+            "description": "About Me",
+            "score": 7.994045386582461,
+            "stars": 4,
+            "forks": 20,
+            "language": null,
+            "url": "https://github.com/Damantha126/Damantha126",
+            "updatedAt": "2024-09-16T17:45:55Z",
+            "isPinned": false,
+            "homepage": "https://damantha.tk"
+        },
+        {
+            "name": "Image-Editor",
+            "description": "A Image Editer Bot\u2764",
+            "score": 7.024786000656548,
+            "stars": 4,
+            "forks": 10,
+            "language": "Python",
+            "url": "https://github.com/Damantha126/Image-Editor",
+            "updatedAt": "2024-02-14T09:37:59Z",
+            "isPinned": false,
+            "homepage": "https://damantha.tk/web"
+        },
+        {
+            "name": "Happy-BirthDay",
+            "description": "Wish your friend/loved-ones happy birthday in a nerdy way.",
+            "score": 7.020686396103086,
+            "stars": 6,
+            "forks": 6,
+            "language": "JavaScript",
+            "url": "https://github.com/Damantha126/Happy-BirthDay",
+            "updatedAt": "2024-07-08T18:02:44Z",
+            "isPinned": false,
+            "homepage": "http://damantha.tk/Happy-BirthDay/"
+        }
+    ],
+    "followers": 207,
+    "following": 15,
+    "public_repos": 52,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1892,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://t.me/MrItzMe"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/damanthajasinghe/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/DamanthaJasinghe/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/DamanthaJ"
+        }
+    ],
+    "readme_content": "# Hello Developers </> <img src=\"https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif\" width=\"30px\" height=\"30px\">\n\n<!-- <p align=\"center\"><a href=\"https://github.com/Damantha126\">\n    <img align=\"center\" alt=\"Damantha Jasinghe's github stats\" src=\"https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple\" />\n  </a></p>\n\n<p align=\"center\"><a href=\"https://github.com/Damantha126\"><img src=\"https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true\" alt=\"Damantha126\" /></a> </p>\n\n\n# Contribution Graph <img src=\"https://octodex.github.com/images/daftpunktocat-thomas.gif\" width=50px height=\"80px\">\n-->\n[![Damantha Jasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Damantha126&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/Damantha126)\n\n<!--# MOST USED LANGUAGES\n![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=midnight-purple&show_icons=true&count_private=true)\n\n                                                              \n### Social media-->\n\n[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Damantha126)\n[![Telegram](https://img.shields.io/badge/-Telegram-30A3E6?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrItzMe)\n[![Facebook](https://img.shields.io/badge/-facebook-lk?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/DamanthaJasinghe)\n[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damantha-jasinghe-3b9376212/)\n[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/DamanthaJasinghe/)\n[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:damanthaja@gmail.com)\n[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              \n\n#### **Visitors Count**  \n![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)\n",
+    "activity_summary": {
+        "Damantha126/Helakuru-Esana-API": {
+            "link": "https://github.com/Damantha126/Helakuru-Esana-API",
+            "summary": "The repository has experienced significant activity in recent days, with a high volume of push events occurring on November 28, 2024. These events were primarily focused on updating news content, with multiple updates made throughout the day. Additionally, several outdated news files were deleted, indicating efforts to maintain the repository's content and remove unnecessary files. A single push event occurred on December 7, 2024, involving the update of the cleanup-news.yml file, further demonstrating ongoing repository maintenance and updates."
+        }
+    },
+    "profile_summary": "I'm Damantha Jasinghe, a programmer from Sri Lanka, skilled in Python, JavaScript, and HTML, with a strong presence on GitHub, boasting 207 followers and 52 public repositories. As an active developer, I leverage my technical expertise to drive innovative solutions, and I'm excited to collaborate with like-minded professionals. With a growing network and a passion for coding, I'm committed to delivering high-quality projects and contributions to the developer community."
+}

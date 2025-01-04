@@ -1,0 +1,92 @@
+{
+    "username": "sidharthsuresh",
+    "name": "Sidharth",
+    "bio": null,
+    "location": "Trivandrum, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14114258?u=4996ca76966c9888e27b050d5e5680ebf4634cc6&v=4",
+    "profile_url": "https://github.com/sidharthsuresh",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "random",
+            "description": "Random files for tripod project",
+            "score": 1.4513385638427985,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sidharthsuresh/random",
+            "updatedAt": "2019-01-17T10:34:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "btc-block-reader",
+            "description": null,
+            "score": 0.07175753666116964,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sidharthsuresh/btc-block-reader",
+            "updatedAt": "2022-02-08T06:20:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CarContract-KBA",
+            "description": "Code base for developing chaincode as per KBA CHD program",
+            "score": 0.06649687834593333,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sidharthsuresh/CarContract-KBA",
+            "updatedAt": "2019-12-26T10:09:30Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "election",
+            "description": "to build and run an ethereum voting app",
+            "score": 0.06425105624721945,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sidharthsuresh/election",
+            "updatedAt": "2018-06-27T09:09:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "json_test",
+            "description": "test",
+            "score": 0.06376336812602958,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sidharthsuresh/json_test",
+            "updatedAt": "2018-01-18T06:27:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 2,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a proficient developer with a strong foundation in TypeScript and JavaScript, I leverage my skills to build innovative solutions, with a portfolio of 9 public repositories showcasing my active development endeavors, and I'm connected with a growing network of 6 fellow professionals who share my passion for coding. My expertise spans a range of applications, from front-end to back-end development, utilizing my proficiency in TypeScript and JavaScript to drive projects forward. With a dedication to continuous learning and growth, I strive to deliver high-quality code and collaborative approaches to software development."
+}

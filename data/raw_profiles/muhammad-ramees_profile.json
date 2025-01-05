@@ -1,0 +1,159 @@
+{
+    "username": "muhammad-ramees",
+    "name": "Muhammad Ramees",
+    "bio": "UI Web Developer ",
+    "location": "kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/72731491?u=d230d2d7511038e1c5cfcb51dd0b943661be0553&v=4",
+    "profile_url": "https://github.com/Muhammad-Ramees",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "CSS",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "muhammad-ramees.github.io",
+            "description": null,
+            "score": 1.767796528335954,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Muhammad-Ramees/muhammad-ramees.github.io",
+            "updatedAt": "2024-12-30T08:43:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ecommerce-Web-Application-Using-Node.js",
+            "description": null,
+            "score": 1.4581986905138486,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Muhammad-Ramees/Ecommerce-Web-Application-Using-Node.js",
+            "updatedAt": "2022-03-08T03:18:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "travels",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Muhammad-Ramees/travels",
+            "updatedAt": "2024-12-30T08:49:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "fineway_travels",
+            "description": null,
+            "score": 0.2500443177737561,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Muhammad-Ramees/fineway_travels",
+            "updatedAt": "2024-04-26T10:43:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Instagram-clone-using-flutter",
+            "description": null,
+            "score": 0.24239430802652906,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Muhammad-Ramees/Instagram-clone-using-flutter",
+            "updatedAt": "2024-11-23T19:32:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Muhammad-Ramees",
+            "description": null,
+            "score": 0.23394299984359251,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Muhammad-Ramees/Muhammad-Ramees",
+            "updatedAt": "2024-12-17T18:36:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "playlist_bot",
+            "description": null,
+            "score": 0.23040560320982031,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Muhammad-Ramees/playlist_bot",
+            "updatedAt": "2024-04-24T07:01:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "brototype-coding-session",
+            "description": null,
+            "score": 0.15698831154452283,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Muhammad-Ramees/brototype-coding-session",
+            "updatedAt": "2023-06-02T06:04:48Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 31,
+    "following": 31,
+    "public_repos": 27,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 88,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/muhammad-ramees/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/u/Muhammad_Ramees/"
+        }
+    ],
+    "readme_content": "# Hey, I'm Muhammad Ramees! \ud83d\udcbb  \n\nI\u2019m a **UI/Web Designer and Developer** with experience in creating and coding user-friendly web projects.  \n\n## My Skills \ud83d\udee0\ufe0f  \n\n- **Frontend**: HTML, CSS, JavaScript, jQuery , Bootstrap , Tailwind CSS   \n- **Frameworks**: React , Next (basic knowledge), Flutter (basic knowledge)\n- **Backend**: Node.js (basic knowledge)  \n- **Design**: Figma (UI/UX design)\n- **Animation**: Gsap snd spline ( basic knowledge )\n- **No-Code**: Webflow anf WordPress ( Basic Knowledge )\n- **Others**: Git, experience with ERP/CRM systems, web-to-leads, Google Apps Script, and functional invoice designs etc\n## Portfolio \ud83c\udf10  \n\n- \ud83c\udf0d [muhammad-ramees.github.io](https://muhammad-ramees.github.io)  \n\n## GitHub Stats \ud83d\udc40  \n\n[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ramees&layout=compact&theme=vision-friendly-dark)](https://github.com/muhammad-ramees/github-readme-stats)\n",
+    "activity_summary": {
+        "muhammad-ramees.github.io": {
+            "link": "https://github.com/Muhammad-Ramees/muhammad-ramees.github.io",
+            "summary": "Recent activities include multiple push events from December 24 to 28, with updates to the repository's content, including resume files, portfolio PDFs, and index.html. These updates reflect changes to the user's portfolio and resume, as well as minor file management actions."
+        },
+        "Instagram-clone-using-flutter": {
+            "link": "https://github.com/Muhammad-Ramees/Instagram-clone-using-flutter",
+            "summary": "The repository saw a pull request event and a push event on November 23, where a new feature was added and then reverted, indicating a collaborative development effort to implement and refine the feature."
+        },
+        "Muhammad-Ramees": {
+            "link": "https://github.com/Muhammad-Ramees/Muhammad-Ramees",
+            "summary": "The repository experienced two push events, on November 24 and December 17, both of which updated the README.md file, suggesting that the user is actively managing their profile's content."
+        },
+        "botso": {
+            "link": "https://github.com/Muhammad-Ramees/botso",
+            "summary": "On December 30, a push event created a README.md file, marking the initial setup or re-initiation of the repository, indicating the start of a new project or repository organization."
+        }
+    },
+    "profile_summary": "As a UI/Web Developer with a strong foundation in C++, JavaScript, and CSS, I design and develop user-friendly web projects, leveraging my skills in frontend technologies like HTML, CSS, and JavaScript, as well as experience with frameworks like React and Node.js. With a network of 31 followers and 27 public repositories, I'm actively engaged in the development community, showcasing my work on platforms like GitHub and my personal portfolio at muhammad-ramees.github.io. I bring a unique combination of technical expertise and design skills, with proficiency in tools like Figma, Webflow, and WordPress, to deliver high-quality web solutions."
+}

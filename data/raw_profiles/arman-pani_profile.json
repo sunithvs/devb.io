@@ -1,0 +1,163 @@
+{
+    "username": "arman-pani",
+    "name": "Arman Pani",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115100034?u=d58241133e423d9aec4d171616c2aac8af592501&v=4",
+    "profile_url": "https://github.com/arman-pani",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Dart",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "furnify",
+            "description": "Furnify is a Flutter-based app that lets you explore, visualize, and purchase furniture from local stores with features like AR, secure payments, and real-time tracking.",
+            "score": 11.90525874551168,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/arman-pani/furnify",
+            "updatedAt": "2025-01-03T18:31:36Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "reminderfy",
+            "description": "Reminderfy is a simple and intuitive Flutter-based reminder app designed to help you manage your tasks effectively.",
+            "score": 10.436810014329943,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/arman-pani/reminderfy",
+            "updatedAt": "2024-12-05T13:48:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "pacman",
+            "description": "Trained an AI agent to play Pacman using Deep Convolutional Q-Learning",
+            "score": 10.339455557042134,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/arman-pani/pacman",
+            "updatedAt": "2024-10-18T12:17:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "blog_explorer",
+            "description": "A blog application with BLoC Architecture for state management and Hive for persisting user's data on the device.",
+            "score": 10.302246012469151,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/arman-pani/blog_explorer",
+            "updatedAt": "2024-08-15T18:46:26Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "styled_app",
+            "description": "Styled : A social networking application made with Flutter and Firebase",
+            "score": 10.254597858606123,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/arman-pani/styled_app",
+            "updatedAt": "2024-10-30T17:51:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "notes_bloc_app",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/arman-pani/notes_bloc_app",
+            "updatedAt": "2024-11-14T07:45:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "google_genai_exchange",
+            "description": null,
+            "score": 0.3106674672798059,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arman-pani/google_genai_exchange",
+            "updatedAt": "2024-09-03T06:17:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test-demo-edenx",
+            "description": null,
+            "score": 0.2724631550724521,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/arman-pani/test-demo-edenx",
+            "updatedAt": "2024-05-04T16:25:17Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 40,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/arman-pani-a09a8524a/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/h2oarman"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "arman-pani/pacman": {
+            "link": "https://github.com/arman-pani/pacman",
+            "summary": "Recent activities in the pacman repository include a series of commits to update the README.md file, add a thumbnail, and include a pacman video, with the initial commit introducing the pacman agent. These updates indicate ongoing development and refinement of the project."
+        },
+        "arman-pani/furnify": {
+            "link": "https://github.com/arman-pani/furnify",
+            "summary": "The furnify repository has seen significant updates, including the integration of cloud_firestore, firebase authentication, and an augmented reality feature, in addition to the introduction of a payment gateway and modifications to the user interface, demonstrating substantial advancement of the project's functionality."
+        },
+        "arman-pani/notes_bloc_app": {
+            "link": "https://github.com/arman-pani/notes_bloc_app",
+            "summary": "The notes_bloc_app repository has been updated with the addition of UI components such as views and dialogs, as well as the implementation of the Bloc architecture, indicating progress in the development of the application's user interface and underlying structure."
+        },
+        "arman-pani/reminderfy": {
+            "link": "https://github.com/arman-pani/reminderfy",
+            "summary": "Recent activity in the reminderfy repository includes an update to the README.md file, suggesting ongoing maintenance and documentation efforts for the project."
+        },
+        "google/it-cert-automation-practice": {
+            "link": "https://github.com/google/it-cert-automation-practice",
+            "summary": "The it-cert-automation-practice repository has seen a pull request event aimed at updating the validations.py python script, specifically fixing the validate_user function and including appropriate changes to the README, underscoring collaborative development and issue resolution within the project."
+        }
+    },
+    "profile_summary": "I'm Arman Pani, a developer with a strong foundation in C++, Python, and Dart, actively contributing to the open-source community through my 13 public repositories. With a focus on building scalable and efficient solutions, I'm passionate about collaborating and learning from others. As a growing professional, I'm excited to expand my network and explore new opportunities in the world of software development."
+}

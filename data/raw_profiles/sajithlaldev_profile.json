@@ -1,0 +1,146 @@
+{
+    "username": "sajithlaldev",
+    "name": "Sajith Lal",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/28499651?u=60b10cd561cc2f0498fedbb120bb21f5f817527f&v=4",
+    "profile_url": "https://github.com/sajithlaldev",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "eatsafeai",
+            "description": "Analyze Food Ingredients for Safety and Health",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/sajithlaldev/eatsafeai",
+            "updatedAt": "2025-01-05T12:07:06Z",
+            "isPinned": true,
+            "homepage": "https://eatsafe-ai.web.app/"
+        },
+        {
+            "name": "FoodHubClone_Live",
+            "description": null,
+            "score": 11.458572660920495,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sajithlaldev/FoodHubClone_Live",
+            "updatedAt": "2022-05-29T17:04:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "WeatherApp-SwiftUI",
+            "description": "My first project in SwiftUI - WeatherApp",
+            "score": 10.075558342398704,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/sajithlaldev/WeatherApp-SwiftUI",
+            "updatedAt": "2022-12-20T04:50:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ShockRelief-App",
+            "description": null,
+            "score": 10.072823759443123,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sajithlaldev/ShockRelief-App",
+            "updatedAt": "2022-05-23T06:40:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Cloud-Video-Rendering",
+            "description": null,
+            "score": 10.071547000295844,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/sajithlaldev/Cloud-Video-Rendering",
+            "updatedAt": "2022-03-10T11:21:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "www.sajithlal.dev",
+            "description": null,
+            "score": 10.071471800061438,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sajithlaldev/www.sajithlal.dev",
+            "updatedAt": "2022-04-16T14:24:50Z",
+            "isPinned": true,
+            "homepage": "https://sajithlal.dev"
+        },
+        {
+            "name": "whatsapp-node-api",
+            "description": null,
+            "score": 1.5512711997537372,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sajithlaldev/whatsapp-node-api",
+            "updatedAt": "2023-11-05T13:04:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Admin-Dashbord-Demo",
+            "description": null,
+            "score": 1.5300635633001436,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sajithlaldev/Admin-Dashbord-Demo",
+            "updatedAt": "2023-01-29T09:49:18Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 15,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 132,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "[![wakatime](https://wakatime.com/badge/user/7cddb0e5-af46-437f-a5e1-0b4d04c21ce8.svg)](https://wakatime.com/@7cddb0e5-af46-437f-a5e1-0b4d04c21ce8)\n\n## \ud83c\udf10 Socials:\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajithlal.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajithlal-mk) \n[![Assistant](<elevenlabs-convai agent-id=\"5MJvxMcmxE3EWIVHkL7w\"></elevenlabs-convai><script src=\"https://elevenlabs.io/convai-widget/index.js\" async type=\"text/javascript\"></script>)]\n# \ud83d\udcbb Tech Stack:\n![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) \t![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=sajithlaldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=sajithlaldev&theme=dark&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithlaldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)\n\n---\n[![](https://visitcount.itsvg.in/api?id=sajithlaldev&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {
+        "sajithlaldev/eatsafeai": {
+            "link": "https://github.com/sajithlaldev/eatsafeai",
+            "summary": "The eatsafeai repository has seen significant recent activity, with multiple push events occurring on January 5, 2025. These updates included changes to the README file, incremental size increases, logo modifications, the addition of a demo URL, and improvements to Firebase integration. These changes suggest a focus on refining the repository's content, user interface, and backend functionality."
+        },
+        "sajithlaldev/sajithlaldev": {
+            "link": "https://github.com/sajithlaldev/sajithlaldev",
+            "summary": "The sajithlaldev repository experienced recent activity, with two push events on December 31, 2024, focused on updating the README.md file. This indicates maintenance efforts to keep the repository's information up-to-date."
+        },
+        "sajithlaldev/sajithlal.com": {
+            "link": "https://github.com/sajithlaldev/sajithlal.com",
+            "summary": "The sajithlal.com repository had a notable update on December 10, 2024, with a push event aimed at increasing the parallax effect, suggesting efforts to enhance the user experience through visual effects."
+        }
+    },
+    "profile_summary": "I'm Sajith Lal, a skilled developer with expertise in C++, TypeScript, and JavaScript, and a strong foundation in a range of technologies including React, NodeJS, and Flutter. With 31 public repositories and a growing professional network of 7 followers, I'm committed to continuously learning and expanding my technical skills. You can find me on Instagram and LinkedIn, or track my coding activity on Wakatime."
+}

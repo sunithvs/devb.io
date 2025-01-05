@@ -1,0 +1,28 @@
+{
+    "username": "sajithlascade",
+    "name": "sajithlascade",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/171406480?v=4",
+    "profile_url": "https://github.com/sajithlascade",
+    "top_languages": [],
+    "top_projects": [],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Lascade-Co/flutter-adapty-ui-clone": {
+            "link": "https://github.com/Lascade-Co/flutter-adapty-ui-clone",
+            "summary": "The repository has witnessed a series of push events on October 5, 2024, with the primary focus on resolving issues and bugs. The commits include fixing log issues, addressing missing plugin exceptions, and fine-tuning the code for better functionality. These activities demonstrate active maintenance and improvement of the repository, enhancing its overall quality and stability."
+        }
+    },
+    "profile_summary": "As a skilled developer with a growing professional network, I bring technical expertise to the table, currently focusing on projects showcased in my public repository, and I am committed to continually expanding my skill set and sharing knowledge through collaborative development. With a foundation in programming, I am dedicated to delivering high-quality code and contributing to the open-source community. I look forward to connecting with like-minded professionals and exploring new opportunities for growth and innovation."
+}

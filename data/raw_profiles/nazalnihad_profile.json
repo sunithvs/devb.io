@@ -1,0 +1,18 @@
+{
+    "error": "An unexpected error occurred: User 'nazalnihad' not found or query returned no data.",
+    "activity_summary": {
+        "jeslinpjames/AISamasya": {
+            "link": "https://github.com/jeslinpjames/AISamasya",
+            "summary": "The AISamasya repository has seen significant activities, with numerous push and pull requests made in recent times. The updates include design changes, bug fixes, and the addition of new features such as conversational changes, nod detection, and scene description. These changes indicate an ongoing effort to enhance the functionality and user experience of the project, with multiple contributors working together to achieve these goals."
+        },
+        "nazalnihad/DiscordBot": {
+            "link": "https://github.com/nazalnihad/DiscordBot",
+            "summary": "The DiscordBot repository has witnessed recent activity, primarily focused on updating the README.md file and making minor refactors. Additionally, there were updates related to user role selection and requirements, indicating maintenance and possible preparation for new features or improvements to the Discord bot's functionality."
+        },
+        "nazalnihad/R": {
+            "link": "https://github.com/nazalnihad/R",
+            "summary": "The R repository has experienced a recent update, with a push event focusing on updating questions and adding data along with outputs. This activity suggests that the repository is actively being used for data analysis or educational purposes, with efforts to expand or refine its content."
+        }
+    },
+    "profile_summary": null
+}

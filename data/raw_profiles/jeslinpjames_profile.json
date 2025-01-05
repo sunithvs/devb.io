@@ -1,0 +1,151 @@
+{
+    "username": "jeslinpjames",
+    "name": "Jeslin P James",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114094231?u=10a7e1147cf1f3f124ccfcba09223d07400af14a&v=4",
+    "profile_url": "https://github.com/jeslinpjames",
+    "top_languages": [
+        [
+            "C++",
+            7
+        ],
+        [
+            "Python",
+            12
+        ],
+        [
+            "R",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ViT-Video-Feature-Extraction",
+            "description": null,
+            "score": 11.631645682284113,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jeslinpjames/ViT-Video-Feature-Extraction",
+            "updatedAt": "2024-03-02T03:58:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FileShare",
+            "description": null,
+            "score": 10.305793266993602,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jeslinpjames/FileShare",
+            "updatedAt": "2024-11-07T02:02:45Z",
+            "isPinned": true,
+            "homepage": "https://sharemore.online/"
+        },
+        {
+            "name": "Malayalam_Language_Model",
+            "description": null,
+            "score": 10.166151784040068,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jeslinpjames/Malayalam_Language_Model",
+            "updatedAt": "2023-11-23T02:07:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Block_Truncation_Coding",
+            "description": null,
+            "score": 10.165040380880386,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jeslinpjames/Block_Truncation_Coding",
+            "updatedAt": "2023-11-08T03:08:22Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "MLP_with_numpy",
+            "description": null,
+            "score": 10.160963045876006,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jeslinpjames/MLP_with_numpy",
+            "updatedAt": "2023-10-05T08:47:07Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "HackForTomorrow",
+            "description": null,
+            "score": 2.9551675089845117,
+            "stars": 0,
+            "forks": 4,
+            "language": "JavaScript",
+            "url": "https://github.com/jeslinpjames/HackForTomorrow",
+            "updatedAt": "2025-01-01T15:34:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AISamasya",
+            "description": null,
+            "score": 2.5295939844304556,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/jeslinpjames/AISamasya",
+            "updatedAt": "2024-12-10T04:34:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Design_and_Algorithm_Analysis",
+            "description": null,
+            "score": 1.54860021251995,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/jeslinpjames/Design_and_Algorithm_Analysis",
+            "updatedAt": "2023-12-21T06:14:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 25,
+    "following": 34,
+    "public_repos": 48,
+    "pull_requests_merged": 20,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 520,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jeslin-p-james-059463256/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "jeslinpjames/AISamasya": {
+            "link": "https://github.com/jeslinpjames/AISamasya",
+            "summary": "Recent activities in the AISamasya repository include various updates to the project, such as the addition of node detection, scene description features, and completion of containerization. There have also been updates to the requirements.txt file, backend code additions, and multiple pull requests related to the backend, indicating significant progress and collaboration."
+        },
+        "jeslinpjames/R4DS": {
+            "link": "https://github.com/jeslinpjames/R4DS",
+            "summary": "The R4DS repository has seen a series of pushes, primarily focused on adding questions from cycle 3, including Q2, Q3, Q4, Q5, and Q6, as well as questions 8 and 9, indicating an effort to expand or complete a set of tasks or assignments within the project."
+        },
+        "LejitAI/lejit-backend-node": {
+            "link": "https://github.com/LejitAI/lejit-backend-node",
+            "summary": "Activities in the lejit-backend-node repository include updates to database and application files, such as db.js and app.js, along with model updates and the addition of a .env format. There has also been a pull request related to login functionality, suggesting ongoing development and refinement of the backend capabilities."
+        }
+    },
+    "profile_summary": "I'm Jeslin P James, a developer with expertise in C++, Python, and R, leveraging my skills to build innovative solutions across 48 public repositories, with a growing network of 25 followers who value my technical contributions, and I'm committed to continuously delivering high-quality code and collaborative projects. My work showcases a strong foundation in programming languages and a passion for development. With a portfolio that demonstrates my ability to design, develop, and deploy scalable solutions, I'm excited to explore new opportunities and collaborations."
+}

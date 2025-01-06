@@ -1,0 +1,145 @@
+{
+    "username": "jojosuk",
+    "name": "Joel J George",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/91320759?u=591759b30ba33298bdc8858f92719fe5a4a00fb8&v=4",
+    "profile_url": "https://github.com/JoJosuk",
+    "top_languages": [
+        [
+            "Rust",
+            2
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "JavaScript",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Web-scraping-Project",
+            "description": "An Online Store Webscraper used to compare prices of a product from 3 different Websites Flipkart,Amazon,Myntra.  ",
+            "score": 11.801627807730519,
+            "stars": 0,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/JoJosuk/Web-scraping-Project",
+            "updatedAt": "2023-05-17T16:59:26Z",
+            "isPinned": true,
+            "homepage": "https://radon-3wyr.onrender.com/"
+        },
+        {
+            "name": "project-todo",
+            "description": "A todo list application ",
+            "score": 10.269751102388874,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JoJosuk/project-todo",
+            "updatedAt": "2024-04-25T07:04:47Z",
+            "isPinned": true,
+            "homepage": "https://cute-chimera-e2b29a.netlify.app/"
+        },
+        {
+            "name": "SpinRent",
+            "description": "A fullstack mern app created for lending vehicles for rent",
+            "score": 10.155922101736138,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JoJosuk/SpinRent",
+            "updatedAt": "2023-05-18T05:58:40Z",
+            "isPinned": true,
+            "homepage": "https://drive.google.com/file/d/1K4HOYy5eAh2eAhIoRWol26PTbFeL9mJd/view?usp=sharing"
+        },
+        {
+            "name": "Tito-anime",
+            "description": "A short webapp to search anime and open them in gogo anime. Created using react and API call.",
+            "score": 10.155566836195009,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JoJosuk/Tito-anime",
+            "updatedAt": "2023-09-08T10:08:34Z",
+            "isPinned": true,
+            "homepage": "https://admirable-meringue-666b60.netlify.app/"
+        },
+        {
+            "name": "TNP-MACE",
+            "description": null,
+            "score": 2.233292736148985,
+            "stars": 0,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/JoJosuk/TNP-MACE",
+            "updatedAt": "2023-03-22T14:25:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pottasweb",
+            "description": null,
+            "score": 1.456815458645524,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JoJosuk/pottasweb",
+            "updatedAt": "2021-11-12T13:17:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CS-Department-Conference",
+            "description": null,
+            "score": 1.1142985003070396,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/JoJosuk/CS-Department-Conference",
+            "updatedAt": "2022-10-22T03:31:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "KV-training",
+            "description": null,
+            "score": 0.28616413491350695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JoJosuk/KV-training",
+            "updatedAt": "2024-07-18T09:15:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 20,
+    "following": 47,
+    "public_repos": 60,
+    "pull_requests_merged": 38,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 229,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/JoJo111/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://wellfound.com/u/joel-george-26"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/joeljgeorge/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\" style=\"font-size: 32px;\">Hey there, I'm Joel J George <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"25\"></h1>\n\n><h4 align=\"left\"> Hi there! \ud83d\udc4b I'm a Computer Science student with a focus on Data Science, constantly exploring the fascinating world of technology and programming. I'm passionate about leveraging the power of programming languages to solve complex problems. Here's a bit about me:</h4>\n\n- Studying Computer Science with a focus on Data Science \ud83d\udcda\ud83d\udcbb\n- Proficient in Python, Rust, R, and JavaScript (JS) programming languages \ud83d\udc0d\ud83d\udcca\ud83c\udf10\ud83d\udcbb\n- Experienced in full-stack development, building both frontend and backend components using React, a popular JavaScript library for building user interfaces \ud83c\udf10\ud83d\udcaa\ud83d\udcbb\n- Currently working on a project using Tauri, a powerful framework for building modern desktop applications with Rust\u2699\ufe0f\n- Passionate about exploring cutting-edge technologies and embracing innovation \ud83d\udd0d\ud83d\ude80\n- Actively keeping up with the latest industry trends and advancements, including Python libraries and frameworks for data analysis and machine learning \ud83d\udc0d\ud83d\udcc8\ud83e\udde0\n- Values quality time spent with loved ones, striking a balance between work and personal life \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\u2764\ufe0f\n\nThanks for taking the time to read my profile! \ud83d\ude0a\ud83d\udc4b\n\n___\n\n<p align=\"center\">\n  <a href=\"https://dev.to/joeljgeorge\" target=\"blank\"><img align=\"center\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg\" alt=\"joel j george\" height=\"40\" width=\"40\" /></a>\n  <a href=\"https://www.linkedin.com/in/joeljgeorge/\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"joel j george\" height=\"25\" width=\"40\" /></a>\n</p>\n\nHey Visit my [Portfolio website](https://joeljgeorge.tech/)\n\nHey, I've got my [Resume](https://drive.google.com/file/d/1J3zi1_EQJktHyhd23nxor_GqABLZ9Byi/view?usp=sharing) right here.\n\n___\n\n<h3 align=\"center\">My Technical Stack</h3>\n\n<p align=\"center\">\n  <a href=\"https://drive.google.com/file/d/1J3zi1_EQJktHyhd23nxor_GqABLZ9Byi/view?usp=sharing\">\n    <img src=\"https://skillicons.dev/icons?i=tauri,flask,django,react,express,nodejs,tailwind,sass,mongodb,firebase,mysql,rust,python,js,ts,c,r,selenium,wordpress,netlify&perline=6\" style=\"max-width: 100%;\">\n  </a>\n\n <p align=\"center\">\n    <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=JoJosuk&show_icons=true&theme=gruvbox&layout=compact\" alt=\"GitHub stats\" />\n</p>\n\n </p>\n",
+    "profile_summary": "I'm Joel J George, a Computer Science student with a focus on Data Science, proficient in programming languages such as Rust, Python, and JavaScript, and experienced in full-stack development with a passion for leveraging technology to solve complex problems. With a strong online presence, including 20 followers and 60 public repositories, I'm committed to staying up-to-date with the latest industry trends and advancements. I'm excited to collaborate and explore new opportunities, and you can find more about my work and experience on my portfolio website and resume."
+}

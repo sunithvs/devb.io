@@ -1,0 +1,35 @@
+{
+    "username": "alysajad",
+    "name": "alysajad",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145906173?v=4",
+    "profile_url": "https://github.com/alysajad",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "Resume",
+            "description": "Resume",
+            "score": 0.27226252867810646,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/alysajad/Resume",
+            "updatedAt": "2024-05-05T08:36:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 14,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a skilled developer, I bring technical expertise in a range of areas, with a focus on actively developing and maintaining projects across my 5 public repositories. With a strong foundation in coding, I am committed to continually improving and expanding my skills. I am excited to connect with like-minded professionals and contribute to the developer community through my work on GitHub."
+}

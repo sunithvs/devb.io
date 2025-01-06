@@ -1,0 +1,142 @@
+{
+    "username": "shilpabalaji2003",
+    "name": "shilpabalaji2003",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115817942?u=ae9ee7889cc436a98a537e08ee497d28bdafd390&v=4",
+    "profile_url": "https://github.com/shilpabalaji2003",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kiranlab",
+            "description": "just for lab",
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shilpabalaji2003/kiranlab",
+            "updatedAt": "2024-10-07T05:57:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shilpa-CCL-exp9",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shilpabalaji2003/Shilpa-CCL-exp9",
+            "updatedAt": "2024-10-07T05:49:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Campus-Thrift",
+            "description": null,
+            "score": 0.2604663282857313,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shilpabalaji2003/Campus-Thrift",
+            "updatedAt": "2024-02-24T15:10:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "diet-app",
+            "description": null,
+            "score": 0.26032395415333026,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shilpabalaji2003/diet-app",
+            "updatedAt": "2024-02-23T14:55:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Diet-Recommendation-app",
+            "description": null,
+            "score": 0.26032395415333026,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shilpabalaji2003/Diet-Recommendation-app",
+            "updatedAt": "2024-06-16T10:46:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Stock-Trend-Predictor",
+            "description": "A website that analyzes and predicts future stock trends of companies",
+            "score": 0.16143599536382075,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/shilpabalaji2003/Stock-Trend-Predictor",
+            "updatedAt": "2023-09-04T17:05:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Online-payment-fraud-detection",
+            "description": "Detecting online payment fraud using Machine Learning.",
+            "score": 0.16065396627924597,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shilpabalaji2003/Online-payment-fraud-detection",
+            "updatedAt": "2023-08-20T12:52:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Student-Information-Management-System",
+            "description": "A desktop application that stores and performs database operations on student database records.",
+            "score": 0.16065396627924597,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shilpabalaji2003/Student-Information-Management-System",
+            "updatedAt": "2023-08-20T14:27:28Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 79,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Shilpa-CCL-exp9": {
+            "link": "https://github.com/shilpabalaji2003/Shilpa-CCL-exp9",
+            "summary": "Recent activities in the Shilpa-CCL-exp9 repository include multiple push events, with files being added via upload on October 7, 2024, and a file named page.html being deleted, indicating ongoing development and refinement of the repository's content."
+        },
+        "kiranlab": {
+            "link": "https://github.com/shilpabalaji2003/kiranlab",
+            "summary": "The kiranlab repository has seen significant activity with push events on October 7, 2024, including the addition of files via upload and the deletion of a file named kran.html, suggesting active maintenance and updates to the repository."
+        }
+    },
+    "profile_summary": "As a Python developer with a strong foundation in data analysis and web development, I leverage tools like Jupyter Notebook and HTML to build innovative solutions. With a portfolio of 11 public repositories, I continually strive to expand my skill set and explore new technologies. I'm excited to collaborate and contribute to the open-source community, driving growth and learning through shared knowledge and experience."
+}

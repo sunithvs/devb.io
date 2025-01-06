@@ -1,0 +1,146 @@
+{
+    "username": "deoxicit",
+    "name": "deoxic",
+    "bio": "OnFire Bath",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/51228280?u=f8f7cae2912c5308fb76972d05c466d24bddd4c8&v=4",
+    "profile_url": "https://github.com/deoxicit",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Prism",
+            "description": "Learn and Earn : MLM based article publisher",
+            "score": 3.5413745689647036,
+            "stars": 2,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/deoxicit/Prism",
+            "updatedAt": "2024-10-27T19:00:49Z",
+            "isPinned": false,
+            "homepage": "https://prism-edu.vercel.app"
+        },
+        {
+            "name": "LearnGo",
+            "description": "Exercism Learning path",
+            "score": 1.645638299208247,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/deoxicit/LearnGo",
+            "updatedAt": "2024-06-05T18:30:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "scaleitup",
+            "description": "web3 for small business",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/deoxicit/scaleitup",
+            "updatedAt": "2024-10-28T19:08:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "OnChain.xyz",
+            "description": "OnChain Is A bot that gets all of the on chain data right in your chat",
+            "score": 0.3096494774516637,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/deoxicit/OnChain.xyz",
+            "updatedAt": "2024-09-09T18:50:19Z",
+            "isPinned": false,
+            "homepage": "https://converse.xyz/dm/onchainxyz.converse.xyz"
+        },
+        {
+            "name": "quickticket",
+            "description": "Quick Ticket : An app that helps users sell and buy event tickets.",
+            "score": 0.3018222032863835,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/deoxicit/quickticket",
+            "updatedAt": "2024-08-18T17:39:51Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "frontend-template",
+            "description": "a frontend-template-for-freelancers",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/deoxicit/frontend-template",
+            "updatedAt": "2024-08-04T18:24:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "deoxicit",
+            "description": null,
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deoxicit/deoxicit",
+            "updatedAt": "2024-09-21T18:28:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LearnRust",
+            "description": "Learn to do rust programming for start building on solana.",
+            "score": 0.2688302205985168,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/deoxicit/LearnRust",
+            "updatedAt": "2024-04-16T18:34:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 51,
+    "following": 88,
+    "public_repos": 20,
+    "pull_requests_merged": 11,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 174,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "# Hi there, I'm deo \n\n![Profile Views](https://komarev.com/ghpvc/?username=deoxicit)\n\n## \ud83d\udd25 GitHub Stats\n[![GitHub Streak](https://streak-stats.demolab.com/?user=deoxicit)](https://git.io/streak-stats)\n\n## \ud83d\udceb How to reach me\n- [LinkedIn](https://www.linkedin.com/in/deosaju/)\n\n## \u2615 Support My Work\n<a href=\"https://www.buymeacoffee.com/deosaju\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-red.png\" alt=\"Buy Me A Coffee\" width=\"150\" ></a>\n\n<!-- Optional: Add a footer with a favorite quote or your personal tagline -->\n",
+    "activity_summary": {
+        "deoxicit/Prism": {
+            "link": "https://github.com/deoxicit/Prism",
+            "summary": "Recent activities in the deoxicit/Prism repository have focused on code enhancements and feature additions, including ESLint fixes, the introduction of new contracts, and improvements to upgradable contracts. Additionally, maintenance pages have been added, and certain features such as Linea support have been removed. The repository has also seen updates to article sorting, the introduction of a project logo, and metadata adjustments. Furthermore, pagination issues have been addressed, showcasing ongoing development and refinement."
+        },
+        "BasedHardware/omi": {
+            "link": "https://github.com/BasedHardware/omi",
+            "summary": "The BasedHardware/omi repository has witnessed significant activity with the submission of a pull request titled 'Kidwise-App-Integration'. This integration aims to revolutionize childhood development by transforming the Omi into an AI-powered tracker, providing real-time insights and creating a development diary for children's growth journeys, highlighting innovative applications of the technology."
+        },
+        "deoxicit/omi": {
+            "link": "https://github.com/deoxicit/omi",
+            "summary": "In the deoxicit/omi repository, a notable push event has occurred with the 'Kidwise-App-Integration', mirroring activities seen in other related repositories and underscoring the development of integrated solutions for enhanced functionality and user experience."
+        }
+    },
+    "profile_summary": "I'm deo, a skilled developer with expertise in TypeScript, Go, and CSS, passionate about creating innovative solutions, with a strong presence on GitHub through my 20 public repositories and professional network of 51 followers. As a active open-source contributor, I'm always looking to collaborate and push the boundaries of what's possible with code. You can find more about my work and reach me through my LinkedIn profile."
+}

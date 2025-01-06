@@ -1,0 +1,145 @@
+{
+    "username": "ashminjayson",
+    "name": "Ashmin Jayson",
+    "bio": "SDE @TryPolymathAI  |  Ex SDE Intern @Carestack   \ud83c\udfe2 | Software Engineer | Full stack Developer  \ud83d\udcda ",
+    "location": "Kothamangalam, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/50941574?u=e20b746633cb5c7c17ab3a60334259609c93ec34&v=4",
+    "profile_url": "https://github.com/AshminJayson",
+    "top_languages": [
+        [
+            "TypeScript",
+            16
+        ],
+        [
+            "Python",
+            12
+        ],
+        [
+            "Go",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "zfetch",
+            "description": "\ud83d\udd87\ufe0f Persistent clipboard with fuzzy search based retrieval",
+            "score": 13.404485806466315,
+            "stars": 2,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/AshminJayson/zfetch",
+            "updatedAt": "2023-12-13T11:16:43Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "TypeForces",
+            "description": "\u2328 Typing test with authentication and global scoreboard made using \ud83d\udca2 Angular and  \ud83d\udd25 Firebase ",
+            "score": 11.541132952120748,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AshminJayson/TypeForces",
+            "updatedAt": "2023-06-15T20:51:29Z",
+            "isPinned": true,
+            "homepage": "https://typeforces-speed.netlify.app/"
+        },
+        {
+            "name": "parse_end",
+            "description": "Asynchronous parser for pdf document mcqs questions",
+            "score": 10.248333898436341,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AshminJayson/parse_end",
+            "updatedAt": "2024-01-10T07:25:05Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "cli_kan",
+            "description": "\ud83d\udcda Kanban board using Charmbracelet\ud83e\uddff and Lipgloss\ud83d\udc84",
+            "score": 10.16298417794481,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/AshminJayson/cli_kan",
+            "updatedAt": "2023-10-03T05:39:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "FrendZy",
+            "description": "\ud83c\udf10Mini Social Network built on the MERN Stack",
+            "score": 10.153780145589677,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshminJayson/FrendZy",
+            "updatedAt": "2023-05-23T10:15:22Z",
+            "isPinned": true,
+            "homepage": "https://drive.google.com/file/d/1ReDzQ1O4p57taIZ4nM5dvsOr1P0vKks7/view?usp=sharing"
+        },
+        {
+            "name": "R_Programming_Notes_KTU",
+            "description": "\ud83d\udcda AIT 362 Notes KTU S6",
+            "score": 6.0452860683402685,
+            "stars": 7,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/AshminJayson/R_Programming_Notes_KTU",
+            "updatedAt": "2024-12-16T04:17:59Z",
+            "isPinned": false,
+            "homepage": "https://ashminjayson.github.io/R_Programming_Notes_KTU/"
+        },
+        {
+            "name": "Competitive_Coding",
+            "description": "\u2694\ufe0f Let there be WAR \ud83e\ude96 | Solutions and Approaches for DSA and Competitive Coding",
+            "score": 2.9120265153066787,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AshminJayson/Competitive_Coding",
+            "updatedAt": "2023-12-03T08:46:13Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "sockets",
+            "description": "\ud83d\udd0c Everything to do with sockets in python",
+            "score": 2.666843156368073,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/AshminJayson/sockets",
+            "updatedAt": "2024-09-17T11:40:34Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 31,
+    "following": 34,
+    "public_repos": 68,
+    "pull_requests_merged": 8,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 456,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ashmin-jayson/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/AshminJ/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/JaysonAshmin"
+        }
+    ],
+    "readme_content": "![](./assets/Banner%20Image.png)\n\n<h1 align = \"center\">\n\nHey there, I'm [Ashmin Jayson](https://www.ashminjayson.tech) <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"25\"></h1>\n\n<h5 align = \"center\">  &gt; \nI'm a final-year data science student pursuing opportunities to be adept in web technologies as well as the potential integrations between machine learning and web applications.\n\n</h5>\n\n---\n\n<p align=\"center\">\n<a href=\"https://dev.to/ashminjayson\" target=\"blank\"><img align=\"center\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg\" alt=\"ashmin-jayson\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/ashmin-jayson-2b6102216/\" target=\"blank\"><img align=\"center\" src=\"https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png\" alt=\"ashminjayson\" height=\"40\" width=\"40\" /></a>\n<a href=\"https://www.instagram.com/_ashmin.j._/\" target=\"blank\"><img align=\"center\" src=\"https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png\" alt=\"ashminjayson\" height=\"40\" width=\"40\" /></a>\n<a href=\"https://www.codechef.com/users/ashminj\" target=\"blank\"><img align=\"center\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg\" alt=\"ashminjayson\" height=\"30\" width=\"40\" /></a>\n</p>\n\n-   \u2699\ufe0f Currently diving into **Next JS**\n-   \ud83d\udcda **Tech agnostic Full Stack developer** with experience doing projects in _Angular and React_ with backend in _Flask, Node.js and ASP.NET_\n-   \ud83e\uddf9 Striving to write clean code that explains itself without the need for comments\n-   \ud83d\udcd6 I'm currently reading upon _Clean architecture_ and _Agile practices_\n-   \ud83c\udfeb Soon to get my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)\n-   \ud83d\udcbb Proficient with DSA implementation using _Python \ud83d\udc0d_\n-   \ud83e\udde9 I wanna dip my toes \ud83d\udc3e in everything\n-   \ud83d\udcc4 Here's my [Resume](https://drive.google.com/file/d/1qaWf4eXmRl9YJiCwlsRqGALJmXvC8ADg/view?usp=share_link)\n\n---\n\n<h3 align = \"center\"> \u2699\ufe0f My Technical Stack</h3>\n  \n<p align=\"center\">\n    <a href=\"https://skillicons.dev\">\n      <img src=\"https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,scss\" /> \n    </a> ~\n    <a href=\"https://skillicons.dev\">\n      <img src=\"https://skillicons.dev/icons?i=fastapi,flask,nodejs,express\" />\n    </a> ~\n    <a href=\"https://skillicons.dev\">\n      <img src=\"https://skillicons.dev/icons?i=azure,mongodb,firebase,mysql,supabase\" />\n    </a>\n</p>\n\n\n",
+    "profile_summary": "I'm Ashmin Jayson, a software engineer with expertise in TypeScript, Python, and Go, currently working at TryPolymathAI and previously interned at Carestack. With a strong foundation in full-stack development and a growing network of 31 followers, I'm passionate about exploring the intersection of machine learning and web applications. I'm actively developing and contributing to 68 public repositories, and I'm excited to continues learning and growing as a professional in the tech industry."
+}

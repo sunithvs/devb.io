@@ -1,0 +1,142 @@
+{
+    "username": "sureshg",
+    "name": "Suresh",
+    "bio": "\u2615\ufe0f  Backend Developer | Kotlin | Java | Kotlin Multiplatform JVM/Wasm/JS",
+    "location": "San Jose, CA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/356994?v=4",
+    "profile_url": "https://github.com/sureshg",
+    "top_languages": [
+        [
+            "Kotlin",
+            20
+        ],
+        [
+            "Scala",
+            1
+        ],
+        [
+            "Elm",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "InstallCerts",
+            "description": "\ud83c\udffaCreate a PKCS12 TrustStore by retrieving server certificates.",
+            "score": 18.589871169677927,
+            "stars": 15,
+            "forks": 6,
+            "language": "Kotlin",
+            "url": "https://github.com/sureshg/InstallCerts",
+            "updatedAt": "2023-02-10T19:41:02Z",
+            "isPinned": true,
+            "homepage": "https://sureshg.github.io/InstallCerts/"
+        },
+        {
+            "name": "kts-exec",
+            "description": ":bullettrain_side: A composite Github Action to execute the Kotlin Script with compiler plugin and dependency caching!",
+            "score": 16.22082543164004,
+            "stars": 11,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/sureshg/kts-exec",
+            "updatedAt": "2024-07-05T17:43:40Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "native-image-playground",
+            "description": "GraalVM Native Image Playground!",
+            "score": 14.83502787923392,
+            "stars": 5,
+            "forks": 1,
+            "language": "Kotlin",
+            "url": "https://github.com/sureshg/native-image-playground",
+            "updatedAt": "2025-01-04T23:20:40Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "kotlin-mpp-playground",
+            "description": "\ud83c\udfa8 Kotlin Multiplatform playground! ",
+            "score": 14.626933441538926,
+            "stars": 8,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/sureshg/kotlin-mpp-playground",
+            "updatedAt": "2024-12-23T04:59:54Z",
+            "isPinned": true,
+            "homepage": "https://suresh.dev/kotlin-mpp-playground/app"
+        },
+        {
+            "name": "build-commons",
+            "description": "\u2728 Gradle plugin and catalog containing conventional plugins for Kotlin JVM and Multiplatform development!",
+            "score": 11.712015222547329,
+            "stars": 1,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/sureshg/build-commons",
+            "updatedAt": "2024-12-30T07:58:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "infoblox-java",
+            "description": "A pure jvm client library for interacting with Infoblox API.",
+            "score": 11.577488810592515,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sureshg/infoblox-java",
+            "updatedAt": "2024-02-14T00:38:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "java-rust-ffi",
+            "description": "\ud83c\udf4b FFI example for accessing Rust lang dynamic libraries from java ",
+            "score": 10.29804007386326,
+            "stars": 46,
+            "forks": 4,
+            "language": "Java",
+            "url": "https://github.com/sureshg/java-rust-ffi",
+            "updatedAt": "2025-01-03T00:44:58Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "kotlin-starter",
+            "description": "\ud83d\udc20 A starter template for kotlin projects using Gradle Kotlin DSL!",
+            "score": 8.143389567542817,
+            "stars": 16,
+            "forks": 4,
+            "language": "Kotlin",
+            "url": "https://github.com/sureshg/kotlin-starter",
+            "updatedAt": "2022-11-12T14:30:39Z",
+            "isPinned": false,
+            "homepage": "https://sureshg.github.io/kotlin-starter/"
+        }
+    ],
+    "followers": 132,
+    "following": 789,
+    "public_repos": 159,
+    "pull_requests_merged": 1,
+    "issues_closed": 20,
+    "achievements": {
+        "total_contributions": 2321,
+        "repositories_contributed_to": 28
+    },
+    "social_accounts": [
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/suresh.dev"
+        },
+        {
+            "provider": "mastodon",
+            "url": "https://mastodon.social/@sureshg"
+        }
+    ],
+    "readme_content": "<div align=\"center\">\n\t<!--img src=\"https://github.com/sureshg/sureshg/blob/master/splash.gif\" width=\"10%\"--> \n\t<p align=\"center\">\t\n\t<a href=\"https://bsky.app/profile/suresh.dev\"><img src=\"https://img.shields.io/badge/bluesky-%40suresh.dev-00acee?style=flat-square&logo=bluesky\" alt=\"Bluesky\" /></a> \n\t<a href=\"https://www.reddit.com/user/sureshg/\"><img src=\"https://img.shields.io/badge/Reddit-sureshg-orange?style=flat-square&logo=reddit\" alt=\"Reddit\" /></a> \n\t</p>\n</div>\n\n\n\n<!--\nhttps://simonwillison.net/2020/Jul/10/self-updating-profile-readme/\nhttps://github.com/sindresorhus/sindresorhus/blob/master/readme.md\n\n<img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=sureshg&layout=compact\" width=\"28%\"> \n\n<a href=\"https://suresh.dev\"> <img src=\"https://html-to-svg.as-a-service.dev/?url=https://suresh.dev\" alt=\"suresh.dev\" width=\"400\" height=\"400\"/> </a>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshg&layout=compact)\n[![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshg)](https://github.com/anuraghazra/github-readme-stats)\n\n-LinkedIn-%233781da\n-Dribbble-%23ff5798\n-Twitter-%231DA1F2\n-YouTube-%23FF0000\n-Instagram-%23eb13a5\n-Twitch-%239146FF\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": "I'm a backend developer specializing in Kotlin, Scala, and Elm, with a strong presence on GitHub through my 159 public repositories and 132 followers. As a Kotlin Multiplatform expert, I leverage my skills in JVM, Wasm, and JS to deliver high-quality solutions. You can find me on various platforms, including Bluesky (@suresh.dev) and Reddit (u/sureshg), and visit my personal website at suresh.dev for more information."
+}

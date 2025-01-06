@@ -1,0 +1,138 @@
+{
+    "username": "kevinpaulson2002",
+    "name": "kevinpaulson2002",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/158198235?v=4",
+    "profile_url": "https://github.com/Kevinpaulson2002",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "PHP",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Project-Management",
+            "description": "Project Management System",
+            "score": 11.6433721083846,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/Kevinpaulson2002/Project-Management",
+            "updatedAt": "2024-04-06T01:51:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Volume_control_using_gesture",
+            "description": null,
+            "score": 10.300167356883188,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Kevinpaulson2002/Volume_control_using_gesture",
+            "updatedAt": "2024-08-17T14:35:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Youtube-video-Summarizer-using-AI-models",
+            "description": "Youtube video Summarizer using AI models",
+            "score": 10.296662792464195,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Kevinpaulson2002/Youtube-video-Summarizer-using-AI-models",
+            "updatedAt": "2024-08-31T17:34:38Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Clustering-batsman-bowlers-allrounders-Using-Kmeans-",
+            "description": null,
+            "score": 10.295921946866343,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Kevinpaulson2002/Clustering-batsman-bowlers-allrounders-Using-Kmeans-",
+            "updatedAt": "2024-08-01T06:01:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AI-Driven-Story-Generator",
+            "description": "This project is a Flask-based web application that generates AI-driven stories and accompanying visuals. Google Generative AI for story creation and Hugging Face's text-to-image models for image genreation.users can input keywords and a theme to create engaging, unique stories with custom visuals.",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Kevinpaulson2002/AI-Driven-Story-Generator",
+            "updatedAt": "2025-01-04T15:20:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "S23ultra.github.io",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kevinpaulson2002/S23ultra.github.io",
+            "updatedAt": "2024-10-07T06:05:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todo",
+            "description": null,
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Kevinpaulson2002/todo",
+            "updatedAt": "2024-09-14T16:58:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "loginapp",
+            "description": null,
+            "score": 0.2619241974141833,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Kevinpaulson2002/loginapp",
+            "updatedAt": "2024-03-05T14:17:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 41,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Kevinpaulson2002/AI-Driven-Story-Generator": {
+            "link": "https://github.com/Kevinpaulson2002/AI-Driven-Story-Generator",
+            "summary": "Recent activities in the AI-Driven-Story-Generator repository indicate significant development efforts, with multiple push events occurring on January 4, 2025. The events involved creating new files such as index.html and style.css, updating existing files including app.py and the LICENSE, and managing the static directory. These activities suggest the repository is actively being maintained and expanded, with a focus on building and refining the story generator application."
+        }
+    },
+    "profile_summary": "I'm a developer with a strong foundation in Python, PHP, and data analysis using Jupyter Notebook, where I actively contribute to open-source projects and personal repositories. With a portfolio of 10 public repositories, I demonstrate my commitment to collaborative development and continuous learning. As I continue to grow my professional network, I'm excited to share my skills and experience with the community."
+}

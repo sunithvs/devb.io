@@ -1,0 +1,51 @@
+{
+    "username": "rosnajoby",
+    "name": "Rosna Joby",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/171563031?v=4",
+    "profile_url": "https://github.com/rosnajoby",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "demos",
+            "description": null,
+            "score": 0.278815728521821,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rosnajoby/demos",
+            "updatedAt": "2024-08-20T08:12:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 153,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rosna-joby"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "rosnajoby/generative-ai-amazon-bedrock-langchain-agent-example": {
+            "link": "https://github.com/rosnajoby/generative-ai-amazon-bedrock-langchain-agent-example",
+            "summary": "The repository has experienced significant activity, with multiple push events occurring on October 15, primarily focused on updating the lambda_function.py and tools.py files. These updates suggest ongoing development and refinement of the repository's core functionality. Earlier updates on October 11 also included changes to HTML files, such as index.html, contact.html, and about.html, indicating work on the repository's web presence or documentation."
+        }
+    },
+    "profile_summary": "I'm Rosna Joby, a Python developer with a strong foundation in software development, currently maintaining 2 public repositories and collaborating with a network of 4 peers. With a focus on building efficient and scalable solutions, I leverage my technical skills to drive innovative projects. As an active member of the development community, I continue to refine my expertise and explore new opportunities in the field of Python development."
+}

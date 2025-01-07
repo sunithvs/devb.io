@@ -1,0 +1,151 @@
+{
+    "username": "ranork",
+    "name": "Emir O\u011eUZ",
+    "bio": "Co-Founder of DEBI Assistant by Akatron",
+    "location": "\u0130zmir",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16599966?u=0e02b9580ea3be8ed9a05129e436b2035d21bebd&v=4",
+    "profile_url": "https://github.com/Ranork",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "C#",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Auto-Linkedin",
+            "description": "Unoffical Linkedin Client NPM Package (Developed with Puppeteer)",
+            "score": 18.791302439560134,
+            "stars": 24,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Auto-Linkedin",
+            "updatedAt": "2025-01-03T12:39:40Z",
+            "isPinned": true,
+            "homepage": "https://www.npmjs.com/package/auto-linkedin"
+        },
+        {
+            "name": "Pomotro",
+            "description": "Pomodoro timer mini for desktop!",
+            "score": 13.821653894178878,
+            "stars": 5,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Pomotro",
+            "updatedAt": "2024-08-27T15:11:13Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Auto-Linkedin-App",
+            "description": "(WIP) Auto Linkedin desktop app",
+            "score": 13.539242753353737,
+            "stars": 4,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ranork/Auto-Linkedin-App",
+            "updatedAt": "2025-01-02T22:29:11Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Swagger-GPT",
+            "description": "Swagger auto configuration with Chat GPT (NodeJS)",
+            "score": 11.625204113697391,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Swagger-GPT",
+            "updatedAt": "2024-07-12T09:58:14Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "3dprinter",
+            "description": "Ranork's 3d Printer Host Software with Raspberry pi UI",
+            "score": 11.451583620062896,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Ranork/3dprinter",
+            "updatedAt": "2019-04-06T14:41:56Z",
+            "isPinned": true,
+            "homepage": "http://ranork.net/"
+        },
+        {
+            "name": "5-Axis-Robotic-Arm-Kinematics",
+            "description": "5 Axis Robotic Arm Forward and Inverse Kinematics",
+            "score": 2.4948540841115756,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Ranork/5-Axis-Robotic-Arm-Kinematics",
+            "updatedAt": "2021-04-04T20:21:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Trina-n-Muhasebe",
+            "description": "Trina \u00d6n Muhasebe Program\u0131",
+            "score": 2.3348626852101924,
+            "stars": 2,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Ranork/Trina-n-Muhasebe",
+            "updatedAt": "2023-11-26T05:50:35Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Auto-Instagram",
+            "description": "Instagram Automation with NodeJS and Puppeteer",
+            "score": 1.6639344817447095,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Ranork/Auto-Instagram",
+            "updatedAt": "2024-06-02T17:33:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 6,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 307,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/EmirrOguz"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/emir-oguzz/"
+        },
+        {
+            "provider": "npm",
+            "url": "https://www.npmjs.com/~ranork"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n- \ud83d\udd2d I\u2019m currently working on [Akatron Network](https://github.com/Akatron-Network)\n- \ud83c\udf31 I\u2019m currently learning NLP LLMs & Transformers\n- \ud83d\udcac Ask me about NodeJS (Express and REST APIs)\n- \ud83d\udceb How to reach me: emir@akatron.net\n- \ud83d\udccc My NPM packages: [npmjs/~ranork](https://www.npmjs.com/~ranork)\n- \u26a1 Fun fact: I'm actually a mechanical engineer\n\n### Interests:\n\n![NodeJS](https://badges.aleen42.com/src/node.svg)\n![Python](https://badges.aleen42.com/src/python.svg)\n![Java](https://badges.aleen42.com/src/java.svg)\n\n### Fav IDE:\n\n![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)\n\n\n![Emir Oguz's Stats](https://github-readme-stats.vercel.app/api?username=Ranork&hide=contribs,prs&theme=one_dark_pro&show_icons=true)\n",
+    "activity_summary": {
+        "Ranork/Auto-Linkedin": {
+            "link": "https://github.com/Ranork/Auto-Linkedin",
+            "summary": "Recent activities in the Auto-Linkedin repository include the addition of support for custom cookies, allowing for more flexible login management. This feature was introduced through a pull request that added the functionality to utilize external cookies, which can be obtained from sources like chrome extensions, and can be used by calling the login method with the custom cookies as an argument."
+        }
+    },
+    "profile_summary": "I'm Emir O\u011eUZ, a skilled developer and Co-Founder of DEBI Assistant by Akatron, with a strong background in JavaScript, Python, and C#. As a mechanical engineer turned developer, I bring a unique perspective to my work, currently focusing on projects like the Akatron Network and exploring NLP LLMs and Transformers. With a portfolio of 17 public repositories and a growing professional network, I'm excited to collaborate and share my expertise in NodeJS, Express, and REST APIs."
+}

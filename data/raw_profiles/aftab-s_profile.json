@@ -1,0 +1,155 @@
+{
+    "username": "aftab-s",
+    "name": "Aftab S",
+    "bio": "I'm just a passionate, optimistic and artistic minded guy trying out new stuff.\r\n\r\n",
+    "location": "Ernakulam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90192423?u=b7202ce53fd6020f7f4e77fe1708302f75d53080&v=4",
+    "profile_url": "https://github.com/aftab-s",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "HomeLab-Setup",
+            "description": null,
+            "score": 12.687202519629036,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aftab-s/HomeLab-Setup",
+            "updatedAt": "2024-03-01T09:42:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "my-talks",
+            "description": "This repository serves as a collection of all the presentation materials and resources I\u2019ve used for my talks and sessions in 2024. It includes slides, references, and other supporting content to help you revisit the topics or explore them further.",
+            "score": 11.971101228996812,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aftab-s/my-talks",
+            "updatedAt": "2024-12-25T18:51:36Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AWS-Architecture-Diagrams",
+            "description": "AWS-Architecture Diagrams made using draw.io",
+            "score": 11.628052123300671,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aftab-s/AWS-Architecture-Diagrams",
+            "updatedAt": "2024-05-21T16:18:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Portainer-Test",
+            "description": "Testing GitOps using Portainer Community Edition",
+            "score": 10.252073618393984,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aftab-s/Portainer-Test",
+            "updatedAt": "2024-01-23T18:30:10Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ArgoCD-Test",
+            "description": null,
+            "score": 10.25077681414834,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/aftab-s/ArgoCD-Test",
+            "updatedAt": "2024-01-23T18:31:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CI-CD-Testing",
+            "description": "Testing various approaches for automatic the deployment process.",
+            "score": 10.160400083343045,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aftab-s/CI-CD-Testing",
+            "updatedAt": "2023-08-16T12:19:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "GHW-BeginnersWeek-Jan2023",
+            "description": "Challenges of MLH GHW January - Beginners Week",
+            "score": 2.9242952600109207,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aftab-s/GHW-BeginnersWeek-Jan2023",
+            "updatedAt": "2023-09-05T10:52:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Fabricon",
+            "description": "Fabricon is an Online platform to share Fabrication tools like 3D Printers, Laser Cutters, etc. among manufacturers and hobbyists. ",
+            "score": 2.3382833586661875,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aftab-s/Fabricon",
+            "updatedAt": "2023-07-14T04:30:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 10,
+    "following": 19,
+    "public_repos": 43,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 66,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/aftab_mehrab"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aftab-s/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://hashnode.com/@aftabs"
+        }
+    ],
+    "readme_content": "![Linkedin Banner 2024 10](https://github.com/user-attachments/assets/d5fe85c8-c589-4248-ac5a-248c71f001fa)\n\n\n<p align=\"center\">\n    <img src=\"https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge\" alt=\"aftab-s\" />\n    <img src=\"https://img.shields.io/github/followers/aftab-s?logo=GitHub&style=for-the-badge\" alt=\"aftab-s\" />\n    <img src=\"https://img.shields.io/github/stars/aftab-s?style=for-the-badge&logo=star&label=Stars&color=%23C900FF\" alt=\"aftab-s\" />\n</p>\n\n<h3 align=\"center\">I'm just a passionate, optimistic and artistic minded guy trying out new stuff, who also happens to get his hands on Cloud, Networking, DevOps and Cybersecurity.</h3>\n\n- \ud83c\udf31 I\u2019m currently learning **CI/CD Pipelines, Advanced Networking, Penetration Testing, and more.**\n\n- \ud83d\udc68\u200d\ud83d\udcbb Find my portfolio at <a href=\"https://portfolio.aftabs.co\"> portfolio.aftabs.co </a>\n\n- \ud83d\udcd6 Fan of technical blogs? Here's mine <a href=\"https://blogs.aftabs.co\"> blogs.aftabs.co </a>\n\n- \ud83d\udcac Ask me about **DevOps, Observability, Kubernetes, Networking, Design (could be websites, 3D designs or just random posters)**\n\n- \ud83d\udceb Reach me through <a href=\"https://www.linkedin.com/in/aftab-s/\"> my LinkedIn </a>\n\n- \u26a1 Fun fact about me is that **I make serious things funny. (I know not too creative)**\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"aws-logo.png\" alt=\"aws\" width=\"40\" height=\"28\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.gnu.org/software/bash/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"bash.png\" alt=\"bash\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"30\" height=\"40\"/> </a> <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg\" alt=\"docker\" width=\"40\" height=\"40\"/> </a> <a href=\"https://kubernetes.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg\" alt=\"kubernetes\" width=\"40\" height=\"40\"/> </a> <a href=\"https://grafana.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"grafana-original.svg\" alt=\"prometheus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://prometheus.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"prometheus-original.svg\" alt=\"prometheus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.nginx.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg\" alt=\"nginx\" width=\"40\" height=\"40\"/> </a>  <a href=\"https://firebase.google.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" alt=\"firebase\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://opencv.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg\" alt=\"opencv\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg\" alt=\"tailwind\" width=\"40\" height=\"40\"/> </a> <a href=\"https://code.visualstudio.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg\" alt=\"vscode\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.blender.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://download.blender.org/branding/community/blender_community_badge_white.svg\" alt=\"blender\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/figma/figma-icon.svg\" alt=\"figma\" width=\"30\" height=\"40\"/> </a> </p>\n\n\n\n<details>\n<summary>Click to see profile status</summary>\n<div style=\"background-color: black; padding: 10px;\">\n  <table style=\"width: 100%;\">\n    <tr>\n      <td align=\"left\">\n        <img src=\"https://github-readme-stats.vercel.app/api?username=aftab-s&show_icons=true&count_private=true&theme=radical&hide=stars\" alt=\"aftab-s\" />\n      </td>\n      <td align=\"right\">\n        <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=aftab-s&theme=dark&count_private=true&theme=radical\" alt=\"aftab-s\"  hight=\"50px\" />\n      </td>\n    </tr>\n  </table>\n</div>\n</details>\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/aftab_mehrab\" target=\"blank\"><img align=\"center\" src=\"twitterX.png\" alt=\"aftab_mehrab\" height=\"30\" width=\"30\" /></a> <a href=\"https://www.linkedin.com/in/aftab-s/\" target=\"blank\"><img align=\"center\" src=\"linkedin.png\" alt=\"https://www.linkedin.com/in/aftab-s/\" height=\"30\" width=\"30\" /></a>\n<a href=\"https://www.instagram.com/devon_clive__/\" target=\"blank\"><img align=\"center\" src=\"instagram.png\" alt=\"https://www.instagram.com/devon_clive__/\" height=\"30\" width=\"30\" /></a>\n<a href=\"https://hashnode.com/@aftabs\" target=\"blank\"><img align=\"center\" src=\"hashnode-icon-svgrepo-com.svg\" alt=\"https://hashnode.com/@aftabs\" height=\"25\" width=\"25\" /></a>\n</p>\n\n![GitHub GIF](https://github.com/aftab-s/aftab-s/blob/bdd229b271652936e0a6fd884d0d231de3521723/Github%20GIF.gif)\n",
+    "activity_summary": {
+        "aftab-s/brainwave": {
+            "link": "https://github.com/aftab-s/brainwave",
+            "summary": "The brainwave repository has seen significant recent activity, with multiple push events occurring between January 4th and 6th, 2025. These updates include the addition of a new WorkExperience component, patch updates, and text modifications, indicating ongoing development and refinement of the project's features and components."
+        },
+        "aftab-s/my-talks": {
+            "link": "https://github.com/aftab-s/my-talks",
+            "summary": "The my-talks repository experienced a series of updates on December 25th, 2024, primarily focused on refining the README.md file, along with the creation of a LICENSE file. These activities suggest efforts to enhance the project's documentation and licensing clarity."
+        }
+    },
+    "profile_summary": "I'm a passionate and artistic-minded developer with expertise in C++, Python, and JavaScript, and a strong interest in Cloud, Networking, DevOps, and Cybersecurity. With a track record of active development through 43 public repositories and a growing professional network of 10 followers, I'm committed to continually learning and expanding my skill set, currently focusing on CI/CD Pipelines, Advanced Networking, and Penetration Testing. You can find my portfolio and technical blog at portfolio.aftabs.co and blogs.aftabs.co, and connect with me on LinkedIn at linkedin.com/in/aftab-s."
+}

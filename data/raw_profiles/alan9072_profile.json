@@ -1,0 +1,151 @@
+{
+    "username": "alan9072",
+    "name": "Alan Joy",
+    "bio": "",
+    "location": "kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/147591098?u=0bae8afcaed6850b12baf6144f0b57b3fd8f1db5&v=4",
+    "profile_url": "https://github.com/Alan9072",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Crypt",
+            "description": "This project is a cryptocurrency tracker that displays a list of cryptocurrencies along with their 24-hour price changes, insights, and graphs. Users can switch between currencies (EUR, INR, USD) and search for specific cryptocurrencies.",
+            "score": 12.51572768399047,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alan9072/Crypt",
+            "updatedAt": "2024-12-11T11:39:59Z",
+            "isPinned": true,
+            "homepage": "https://crypto-cyan-five.vercel.app"
+        },
+        {
+            "name": "newportfolio",
+            "description": "This is my personal portfolio website built using HTML, CSS, and JavaScript. It serves as a showcase for my skills, projects, and services. The website is designed to be responsive, ensuring it looks great on mobile, tablet, and desktop devices.",
+            "score": 11.673334681605645,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Alan9072/newportfolio",
+            "updatedAt": "2024-12-16T18:01:09Z",
+            "isPinned": true,
+            "homepage": "https://alan9072.github.io/newportfolio/"
+        },
+        {
+            "name": "MERN-Stack-Project",
+            "description": "A small to do list made on basic knowledge of react",
+            "score": 10.308164228783138,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alan9072/MERN-Stack-Project",
+            "updatedAt": "2024-09-20T14:37:18Z",
+            "isPinned": true,
+            "homepage": "https://react-project-frontend-2zvg.onrender.com"
+        },
+        {
+            "name": "Docs.React",
+            "description": "A small react web app based on small notes and framer support",
+            "score": 10.279296424771887,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Alan9072/Docs.React",
+            "updatedAt": "2024-09-03T10:56:56Z",
+            "isPinned": true,
+            "homepage": "https://flourishing-beijinho-b6d020.netlify.app/"
+        },
+        {
+            "name": "Portfolio-Website",
+            "description": null,
+            "score": 1.6469036699348552,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Alan9072/Portfolio-Website",
+            "updatedAt": "2024-05-19T16:13:05Z",
+            "isPinned": false,
+            "homepage": "https://alan9072.github.io/Portfolio-Website/"
+        },
+        {
+            "name": "SSMP-LAB-S5-main",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Alan9072/SSMP-LAB-S5-main",
+            "updatedAt": "2024-11-02T11:59:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Password_Generator",
+            "description": null,
+            "score": 0.320366928485536,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alan9072/Password_Generator",
+            "updatedAt": "2024-09-22T06:23:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "backend-Auth---jwt---cookies-",
+            "description": null,
+            "score": 0.3122384323533469,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Alan9072/backend-Auth---jwt---cookies-",
+            "updatedAt": "2024-09-07T17:22:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 6,
+    "public_repos": 25,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 648,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alan-joy-83b378266/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://alan9072.github.io/newportfolio/"
+        }
+    ],
+    "readme_content": "Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Joy.\n================================================================================================================================\n\nWeb Developer\n-------------\n\nHi! I'm on a journey to master web development & sharpen my skills in data structures and algorithms(DSA). Currently exploring the endless possibilities of the web and diving deep into the intricacies of efficient problem-solving. Excited about building dynamic web applications and optimizing code for performance and scalability. Let's connect, learn, and code our way through the digital landscape! \ud83d\udcbb\u2728\n\n* \ud83c\udf0d\u00a0 I'm based in India.\n* \ud83d\udda5\ufe0f\u00a0 See my portfolio at [My Portfolio](https://alan9072.github.io/newportfolio/)\n* \u2709\ufe0f\u00a0 You can contact me at [alanjoy456@gmail.com](mailto:alanjoy456@gmail.com)\n* \ud83e\udd1d\u00a0 I'm open to collaborating on Projects\n\n<a href=\"https://www.github.com/Alan9072\" target=\"_blank\" rel=\"noreferrer\"><img\nsrc=\"https://img.shields.io/github/followers/Alan9072?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e\" /></a>\n\n### Skills\n\n\n<p align=\"left\">\n<a href=\"https://docs.microsoft.com/en-us/cpp/?view=msvc-170\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg\" width=\"36\" height=\"36\" alt=\"C\" /></a><a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg\" width=\"36\" height=\"36\" alt=\"Git\" /></a><a href=\"https://www.oracle.com/java/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg\" width=\"36\" height=\"36\" alt=\"Java\" /></a><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg\" width=\"36\" height=\"36\" alt=\"JavaScript\" /></a><a href=\"https://www.python.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg\" width=\"36\" height=\"36\" alt=\"Python\" /></a><a href=\"https://code.visualstudio.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg\" width=\"36\" height=\"36\" alt=\"VS Code\" /></a><a href=\"https://developer.mozilla.org/en-US/docs/Glossary/HTML5\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg\" width=\"36\" height=\"36\" alt=\"HTML5\" /></a><a href=\"https://getbootstrap.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg\" width=\"36\" height=\"36\" alt=\"Bootstrap\" /></a><a href=\"https://www.w3.org/TR/CSS/#css\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg\" width=\"36\" height=\"36\" alt=\"CSS3\" /></a><a href=\"https://nodejs.org/en/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg\" width=\"36\" height=\"36\" alt=\"NodeJS\" /></a><a href=\"https://expressjs.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg\" width=\"36\" height=\"36\" alt=\"Express\" /></a><a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg\" width=\"36\" height=\"36\" alt=\"MongoDB\" /></a><a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg\" width=\"36\" height=\"36\" alt=\"Figma\" /></a>\n</p>\n\n\n### Socials\n\n<p align=\"left\"> <a href=\"https://www.github.com/Alan9072\" target=\"_blank\" rel=\"noreferrer\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg\" /> <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg\" width=\"32\" height=\"32\" /> </picture> </a> <a href=\"https://www.linkedin.com/in/alan-joy-83b378266\" target=\"_blank\" rel=\"noreferrer\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg\" /> <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg\" width=\"32\" height=\"32\" /> </picture> </a></p>\n\n### Badges\n\n<b>My GitHub Stats</b>\n\n<a href=\"http://www.github.com/Alan9072\"><img src=\"https://github-readme-stats.vercel.app/api?username=Alan9072&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true\" alt=\"Alan9072's GitHub stats\" /></a>\n\n<a href=\"http://www.github.com/Alan9072\"><img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Alan9072&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true\" /></a>\n\n<a href=\"https://github.com/Alan9072\" align=\"left\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Alan9072&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages\" alt=\"Top Languages\" /></a>\n\n<b>Top Repositories</b>\n\n<div width=\"100%\" align=\"center\"><a href=\"https://github.com/Alan9072/OpenTalk\" align=\"left\"><img align=\"left\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=Alan9072&repo=OpenTalk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en\" /></a><a href=\"https://github.com/Alan9072/Portfolio-Website\" align=\"right\"><img align=\"right\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=Alan9072&repo=Portfolio-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en\" /></a></div><br /><br /><br /><br /><br /><br /><br />\n",
+    "activity_summary": {
+        "Alan9072/Leet-Code": {
+            "link": "https://github.com/Alan9072/Leet-Code",
+            "summary": "The repository has seen significant activity with multiple push events in the past week, including the addition of new Java solutions for various LeetCode problems such as Minimum Number of Operations to Move All Balls to Each Box, Find K Pairs with the Smallest Sums, and Partition Labels, demonstrating a steady effort to expand the repository's collection of coding challenges and solutions."
+        },
+        "Alan9072/Alan9072": {
+            "link": "https://github.com/Alan9072/Alan9072",
+            "summary": "The repository experienced a recent push event involving an update to the README.md file, indicating a minor but notable adjustment to the repository's content or presentation."
+        }
+    },
+    "profile_summary": "I'm Alan Joy, a web developer with a strong foundation in programming languages such as C, JavaScript, and Java, and a passion for building dynamic web applications and optimizing code for performance and scalability. With a network of 11 followers and 25 public repositories, I'm excited to collaborate on projects and continue learning and growing as a developer. I'm based in India and can be reached through my portfolio or email, and I'm open to connecting and exploring new opportunities in the digital landscape."
+}

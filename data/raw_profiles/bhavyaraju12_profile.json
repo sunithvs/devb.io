@@ -1,0 +1,68 @@
+{
+    "username": "bhavyaraju12",
+    "name": "bhavyaraju12",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147969525?v=4",
+    "profile_url": "https://github.com/bhavyaraju12",
+    "top_languages": [
+        [
+            "CSS",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "calender",
+            "description": null,
+            "score": 0.2966627924641947,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/bhavyaraju12/calender",
+            "updatedAt": "2024-08-04T06:10:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my-family-potrait-v2",
+            "description": null,
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/bhavyaraju12/my-family-potrait-v2",
+            "updatedAt": "2024-07-02T15:02:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MY-FAMILY-POTRAIT",
+            "description": null,
+            "score": 0.27166723124805847,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/bhavyaraju12/MY-FAMILY-POTRAIT",
+            "updatedAt": "2024-07-11T04:30:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm a frontend developer with a strong foundation in CSS and HTML, passionate about building visually appealing and functional web applications. With a portfolio of 3 public repositories, I'm actively engaged in developing and improving my skills. As I continue to grow and learn, I'm excited to collaborate and contribute to the developer community, sharing my knowledge and expertise in web development."
+}

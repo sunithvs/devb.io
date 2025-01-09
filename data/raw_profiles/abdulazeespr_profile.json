@@ -1,0 +1,121 @@
+{
+    "username": "abdulazeespr",
+    "name": "abdulazeespr",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/177513808?v=4",
+    "profile_url": "https://github.com/abdulazeespr",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Brainly-frontend-",
+            "description": "Brainly Frontend",
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "updatedAt": "2024-12-07T12:22:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Brainly",
+            "description": "this project where add content",
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly",
+            "updatedAt": "2024-11-29T10:15:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "referralplatform",
+            "description": "An open-source referral program platform",
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/referralplatform",
+            "updatedAt": "2024-11-07T07:50:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wd301",
+            "description": "This part of the pupilfirst wd301 project",
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd301",
+            "updatedAt": "2024-09-27T15:29:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wd201",
+            "description": "This part of the pupilfirst wd201 project",
+            "score": 0.30267400023560065,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd201",
+            "updatedAt": "2024-10-27T08:17:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Vscode-landingpage",
+            "description": "This part of the 100xdevs cohort project",
+            "score": 0.29896678056375503,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abdulazeespr/Vscode-landingpage",
+            "updatedAt": "2024-08-26T06:33:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "registration_form",
+            "description": "This part of the pupilfirst wd101 project",
+            "score": 0.2962907343396846,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/registration_form",
+            "updatedAt": "2024-08-19T11:44:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,80 @@
+{
+    "username": "user",
+    "name": "Ilya Solovyov",
+    "bio": "~/.local/bin",
+    "location": "Saint Petersburg, Russia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14959?v=4",
+    "profile_url": "https://github.com/user",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Shell",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "configs",
+            "description": ":wrench: My stuff",
+            "score": 7.662102180671812,
+            "stars": 10,
+            "forks": 5,
+            "language": "Shell",
+            "url": "https://github.com/user/configs",
+            "updatedAt": "2024-12-25T16:55:12Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "st",
+            "description": "simple terminal",
+            "score": 5.476970574411456,
+            "stars": 4,
+            "forks": 3,
+            "language": "C",
+            "url": "https://github.com/user/st",
+            "updatedAt": "2024-08-13T19:06:14Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "dwm",
+            "description": "My dwm setup with some patches",
+            "score": 4.480053423386921,
+            "stars": 3,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/user/dwm",
+            "updatedAt": "2022-02-26T18:14:39Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "crux-ports",
+            "description": "Personal ports collection",
+            "score": 3.874165199336217,
+            "stars": 3,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/user/crux-ports",
+            "updatedAt": "2021-04-07T22:54:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 114,
+    "following": 8,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm Ilya Solovyov, a skilled developer with expertise in C and Shell programming, building on a strong foundation of technical skills to create innovative solutions. With a network of 114 followers and 10 public repositories, I actively engage in development and collaboration within the GitHub community. As indicated by my bio, ~/.local/bin, I'm passionate about leveraging my skills to drive progress and deliver results in my projects."
+}

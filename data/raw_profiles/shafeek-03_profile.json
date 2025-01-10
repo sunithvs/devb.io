@@ -1,0 +1,48 @@
+{
+    "username": "shafeek-03",
+    "name": "shafeek-03",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/193064189?v=4",
+    "profile_url": "https://github.com/Shafeek-03",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "Blind-aid",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Shafeek-03/Blind-aid",
+            "updatedAt": "2025-01-03T12:55:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shafeek-03",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Shafeek-03/Shafeek-03",
+            "updatedAt": "2025-01-03T12:58:11Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Shafeek-03"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m Shafeek T\n- \ud83d\udc40 I\u2019m interested in exploring new things. \n-  I'm currently doing a deep learning powered blind aid. \n",
+    "activity_summary": {},
+    "profile_summary": null
+}

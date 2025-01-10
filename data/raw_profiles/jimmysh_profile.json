@@ -1,0 +1,121 @@
+{
+    "username": "jimmysh",
+    "name": "Jimmy",
+    "bio": "",
+    "location": "Shanghai, China",
+    "avatar_url": "https://avatars.githubusercontent.com/u/230652?u=c2aa166f20db0cbd6b0f2c8d177ae319df838684&v=4",
+    "profile_url": "https://github.com/Jimmysh",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Dockerfile",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "soundcloud",
+            "description": null,
+            "score": 3.1037984683405524,
+            "stars": 1,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/Jimmysh/soundcloud",
+            "updatedAt": "2021-10-11T10:22:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vue-next-isCustomElement-bug",
+            "description": null,
+            "score": 1.1066226009316664,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Jimmysh/vue-next-isCustomElement-bug",
+            "updatedAt": "2020-03-17T06:21:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "amp-demo",
+            "description": null,
+            "score": 0.276725452414084,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Jimmysh/amp-demo",
+            "updatedAt": "2024-05-29T13:22:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wx-demo",
+            "description": null,
+            "score": 0.07014102326915213,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Jimmysh/wx-demo",
+            "updatedAt": "2021-08-22T14:19:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "node-docker",
+            "description": null,
+            "score": 0.06761788708841501,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/Jimmysh/node-docker",
+            "updatedAt": "2021-11-26T08:31:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ao-db",
+            "description": null,
+            "score": 0.06690691523255536,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Jimmysh/ao-db",
+            "updatedAt": "2020-03-18T03:24:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ncov-docker",
+            "description": null,
+            "score": 0.06671621266112411,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/Jimmysh/ncov-docker",
+            "updatedAt": "2020-02-09T12:37:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 45,
+    "following": 95,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 423,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

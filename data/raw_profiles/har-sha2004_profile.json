@@ -1,0 +1,40 @@
+{
+    "username": "har-sha2004",
+    "name": "har-sha2004",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118581228?v=4",
+    "profile_url": "https://github.com/har-sha2004",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Netflix",
+            "description": null,
+            "score": 0.25990042486762954,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/har-sha2004/Netflix",
+            "updatedAt": "2024-02-25T12:04:21Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 19,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,106 @@
+{
+    "username": "adithyankoonoth",
+    "name": "ADITHYAN K",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146529699?u=e35021c2976f0f0d0962a3a031086819f92b2b8e&v=4",
+    "profile_url": "https://github.com/adithyankoonoth",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Flames",
+            "description": "Here's the web version for your childhood game, FLAMES. Just enter your and your Crush's name and hint enter. You can see the result",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/adithyankoonoth/Flames",
+            "updatedAt": "2025-01-11T14:45:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python-Roxy-Assistant",
+            "description": "Roxy can :  1.Playing songs on YouTube using pywhatkit.   2. Answer basic questions about the current time and providing jokes using pyjokes.   3.Perform simple mathematical calculations.    4. Retrieve information from Wikipedia using Wikipedia.",
+            "score": 2.1076418815643723,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adithyankoonoth/Python-Roxy-Assistant",
+            "updatedAt": "2025-01-07T05:54:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "OSM-API",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adithyankoonoth/OSM-API",
+            "updatedAt": "2024-12-09T18:39:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clockinit",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adithyankoonoth/clockinit",
+            "updatedAt": "2024-10-25T13:57:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "My-Portfolio",
+            "description": "This is my first self build website with only the knowledge of HTML 5 and not with CSS or JavaScript.",
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adithyankoonoth/My-Portfolio",
+            "updatedAt": "2024-06-29T14:03:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 7,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 25,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "adithyankoonoth/Python-Roxy-Assistant": {
+            "link": "https://github.com/adithyankoonoth/Python-Roxy-Assistant",
+            "summary": "Recent activities on Python-Roxy-Assistant include a push event on January 4, 2025, where files were added via upload and README.md was deleted, indicating potential updates to the repository's documentation and content."
+        },
+        "adithyankoonoth/Flames": {
+            "link": "https://github.com/adithyankoonoth/Flames",
+            "summary": "A push event occurred on January 11, 2025, in the Flames repository, where files were added via upload, suggesting new additions or updates to the project."
+        }
+    },
+    "profile_summary": "I'm a detail-oriented developer with a strong foundation in Python, HTML, and CSS, passionate about building and contributing to projects that showcase my technical skills. With a portfolio of 7 public repositories, I'm actively engaged in developing and refining my expertise, and I'm excited to collaborate and learn from like-minded professionals. As I continue to grow my professional network, I'm looking forward to sharing my knowledge and experience with others in the development community."
+}

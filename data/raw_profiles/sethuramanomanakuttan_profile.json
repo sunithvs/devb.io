@@ -1,0 +1,142 @@
+{
+    "username": "sethuramanomanakuttan",
+    "name": "Sethu Raman Omanakuttan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/44131280?u=7afcb901d4339edf1e579197aa3419f575df9a15&v=4",
+    "profile_url": "https://github.com/SethuRamanOmanakuttan",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "brownie-tutorial-series",
+            "description": "The code snippets for a four-part tutorials series that shows you how to use the python-based brownie framework for smart contract development",
+            "score": 2.416711866363515,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SethuRamanOmanakuttan/brownie-tutorial-series",
+            "updatedAt": "2024-01-22T20:32:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mailchain-newsletter-app",
+            "description": "A demo newsletter application built using the mailchain sdk",
+            "score": 2.3562142786551736,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/mailchain-newsletter-app",
+            "updatedAt": "2023-08-15T22:37:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "about_me",
+            "description": null,
+            "score": 1.801312727659362,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/SethuRamanOmanakuttan/about_me",
+            "updatedAt": "2023-03-07T03:22:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sample-Hardhat-Project",
+            "description": null,
+            "score": 1.5399332410610629,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/Sample-Hardhat-Project",
+            "updatedAt": "2023-03-21T07:17:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "basic-project-fdp",
+            "description": "Sample Solidity dapp with baremetal frontend",
+            "score": 1.5349130555824395,
+            "stars": 1,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/SethuRamanOmanakuttan/basic-project-fdp",
+            "updatedAt": "2023-05-25T11:10:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "compass-game",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SethuRamanOmanakuttan/compass-game",
+            "updatedAt": "2025-01-10T23:27:15Z",
+            "isPinned": false,
+            "homepage": "https://compass-game.vercel.app"
+        },
+        {
+            "name": "lava-rpc",
+            "description": null,
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/lava-rpc",
+            "updatedAt": "2024-10-08T09:12:38Z",
+            "isPinned": false,
+            "homepage": "https://lava-rpc.vercel.app"
+        },
+        {
+            "name": "web3compass-beta",
+            "description": null,
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SethuRamanOmanakuttan/web3compass-beta",
+            "updatedAt": "2024-10-07T19:11:48Z",
+            "isPinned": false,
+            "homepage": "https://web3compass-beta.vercel.app"
+        }
+    ],
+    "followers": 24,
+    "following": 3,
+    "public_repos": 50,
+    "pull_requests_merged": 18,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 324,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "web3-compass-data-repository": {
+            "link": "https://github.com/The-Web3-Compass/web3-compass-data-repository",
+            "summary": "The repository has seen significant activity with multiple push events, including file uploads and updates to the index.json file. A pull request event for reorganizing the file structure has also been initiated, suggesting efforts to improve the repository's organization and maintainability."
+        },
+        "compass-game": {
+            "link": "https://github.com/SethuRamanOmanakuttan/compass-game",
+            "summary": "Recent activity in the compass-game repository includes push events with new builds and uploads, indicating ongoing development and updates to the game. The frequency of these updates suggests a focus on iteratively improving the game."
+        }
+    },
+    "profile_summary": "As a skilled developer with expertise in JavaScript, Python, and TypeScript, I leverage my technical skills to deliver high-quality solutions, with a portfolio of 50 public repositories showcasing my active development endeavors and a professional network of 24 followers. With a strong foundation in programming languages, I continuously strive to expand my capabilities and contribute to the open-source community. My work is a testament to my passion for coding and collaborative spirit, driven by a desire to innovate and improve through continuous learning and experimentation."
+}

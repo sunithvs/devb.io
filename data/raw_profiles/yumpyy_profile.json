@@ -1,0 +1,138 @@
+{
+    "username": "yumpyy",
+    "name": "yump",
+    "bio": "18, human",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121102787?u=a93d46bede535880b1e6a5ee563ac307e54bb9d0&v=4",
+    "profile_url": "https://github.com/yumpyy",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "rss-reader",
+            "description": "simple rss reader written using flask",
+            "score": 13.46568205990803,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/yumpyy/rss-reader",
+            "updatedAt": "2024-11-17T08:46:57Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "dataviz-ai",
+            "description": "AI-Powered Dynamic Infographic Generation for Data Storytelling",
+            "score": 12.807517299175872,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/yumpyy/dataviz-ai",
+            "updatedAt": "2024-12-15T03:51:07Z",
+            "isPinned": true,
+            "homepage": "https://twerpt-dataviz.hf.space"
+        },
+        {
+            "name": "static-site-generator",
+            "description": "for personal site :3",
+            "score": 12.503951144432143,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/yumpyy/static-site-generator",
+            "updatedAt": "2024-09-26T16:32:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "video-summarize",
+            "description": "python script to summarize youtube videos",
+            "score": 11.669403109846524,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/yumpyy/video-summarize",
+            "updatedAt": "2024-11-21T06:20:30Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ciki",
+            "description": "wikipedia for terminal",
+            "score": 11.622611995103657,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/yumpyy/ciki",
+            "updatedAt": "2024-02-19T11:58:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "feh-vim-bindings",
+            "description": "vim-like keybindings for feh",
+            "score": 10.299363236787032,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/yumpyy/feh-vim-bindings",
+            "updatedAt": "2024-08-25T16:48:39Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "patient-insight",
+            "description": null,
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/yumpyy/patient-insight",
+            "updatedAt": "2024-11-16T06:48:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "st",
+            "description": "my suckless terminal build",
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/yumpyy/st",
+            "updatedAt": "2024-10-03T05:08:25Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 40,
+    "public_repos": 16,
+    "pull_requests_merged": 4,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 172,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [
+        {
+            "provider": "mastodon",
+            "url": "https://social.linux.pizza/@hasp"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,147 @@
+{
+    "username": "rabeeh-ta",
+    "name": "Rabeeh T A",
+    "bio": "\ud83d\udcbb \ud83d\udee0\ufe0f",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43750842?u=9ff941d6c1a9bc9663391630c8918079ec8f8952&v=4",
+    "profile_url": "https://github.com/rabeeh-ta",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pace-lab",
+            "description": "A site to share code files and other VTU CSE laboratory resources. ",
+            "score": 16.650668543608163,
+            "stars": 10,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/rabeeh-ta/pace-lab",
+            "updatedAt": "2024-10-07T02:18:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "the-github-showoff",
+            "description": "Print text on your GitHub contribution timeline",
+            "score": 14.397262911037858,
+            "stars": 4,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rabeeh-ta/the-github-showoff",
+            "updatedAt": "2023-03-04T07:58:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "stock-trading-application-dbms-mini-project",
+            "description": null,
+            "score": 13.809560541927823,
+            "stars": 5,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/rabeeh-ta/stock-trading-application-dbms-mini-project",
+            "updatedAt": "2024-10-20T15:40:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "daily-quotes",
+            "description": "inspirational quotes by people around the world",
+            "score": 13.600528938987797,
+            "stars": 1,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/rabeeh-ta/daily-quotes",
+            "updatedAt": "2023-07-07T10:59:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "dallalstreet-extension",
+            "description": "Chrome Extension. Search helper tool for investors & traders analysing companies.",
+            "score": 12.338333224112933,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/rabeeh-ta/dallalstreet-extension",
+            "updatedAt": "2023-03-04T07:58:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "shopping-app-vue",
+            "description": "Basic crud shopping web-app with vue-2",
+            "score": 12.333777450199031,
+            "stars": 2,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/rabeeh-ta/shopping-app-vue",
+            "updatedAt": "2023-03-04T07:58:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Kerala-Syllabus-CS-practicals",
+            "description": "Source Codes for every Computer Science practicals, Kerala Syllabus.",
+            "score": 5.3629316351227025,
+            "stars": 5,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/rabeeh-ta/Kerala-Syllabus-CS-practicals",
+            "updatedAt": "2023-07-07T10:59:43Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "glug-github101",
+            "description": null,
+            "score": 4.4096239663510985,
+            "stars": 0,
+            "forks": 16,
+            "language": "HTML",
+            "url": "https://github.com/rabeeh-ta/glug-github101",
+            "updatedAt": "2023-08-11T05:05:07Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 50,
+    "following": 17,
+    "public_repos": 53,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 915,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rabeeh-t-a-93a55817b/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "rabeeh-ta/hasura-cloud": {
+            "link": "https://github.com/rabeeh-ta/hasura-cloud",
+            "summary": "Recent activity includes a push event on November 12, 2024, that added 2 new tables, indicating ongoing development and updates to the repository's database schema."
+        },
+        "rabeeh-ta/shabeer-app": {
+            "link": "https://github.com/rabeeh-ta/shabeer-app",
+            "summary": "Notable activity involves a push event on November 5, 2024, which updated the form.html file, suggesting maintenance and refinement of the application's user interface."
+        }
+    },
+    "profile_summary": "I'm Rabeeh T A, a skilled developer with expertise in C, Python, and C++, building on a strong foundation of 53 public repositories and a network of 50 followers. With a passion for coding, as evident from my \ud83d\udcbb \ud83d\udee0\ufe0f bio, I continue to develop and share my projects, driving innovation and collaboration. Through my work, I aim to leverage my technical skills to deliver high-quality solutions and contribute to the open-source community."
+}

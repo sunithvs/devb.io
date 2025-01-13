@@ -1,0 +1,159 @@
+{
+    "username": "anir0y",
+    "name": "Animesh Roy",
+    "bio": "I break security for a living!\r\nworking on @autohackos\r\n",
+    "location": "INDIA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29829469?u=a7fa00b6d3f95a22b442cb5fae490e9acf42ba08&v=4",
+    "profile_url": "https://github.com/anir0y",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "vwa_docker",
+            "description": "vulnerable web application",
+            "score": 14.056830966704045,
+            "stars": 2,
+            "forks": 2,
+            "language": "PHP",
+            "url": "https://github.com/anir0y/vwa_docker",
+            "updatedAt": "2024-07-30T15:48:16Z",
+            "isPinned": true,
+            "homepage": "https://hub.docker.com/r/anir0y/vwa"
+        },
+        {
+            "name": "Resurrected-Dump1090",
+            "description": "\"Dump1090\" offers a thrilling journey into the fascinating realm of SDR. This project aims to provide beginners with an accessible and fun platform to explore SDR concepts and experiment with radio signals.",
+            "score": 11.545519993650334,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/anir0y/Resurrected-Dump1090",
+            "updatedAt": "2023-07-30T04:02:24Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ProjectZero",
+            "description": "A simple Vulnerable Web-App for Classroom Training.",
+            "score": 5.4950233266483455,
+            "stars": 4,
+            "forks": 3,
+            "language": "PHP",
+            "url": "https://github.com/anir0y/ProjectZero",
+            "updatedAt": "2024-05-22T04:48:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "py_mailer",
+            "description": "A simple Python Script for send emails. ",
+            "score": 4.689126019572823,
+            "stars": 5,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/anir0y/py_mailer",
+            "updatedAt": "2022-09-05T12:52:13Z",
+            "isPinned": false,
+            "homepage": "https://anir0y.in"
+        },
+        {
+            "name": "arishti-01",
+            "description": "SQLi Code",
+            "score": 3.9121938147367383,
+            "stars": 2,
+            "forks": 2,
+            "language": "PHP",
+            "url": "https://github.com/anir0y/arishti-01",
+            "updatedAt": "2021-09-17T13:20:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "flippertools",
+            "description": "random things that just worked with flipper ",
+            "score": 2.933708156176631,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anir0y/flippertools",
+            "updatedAt": "2023-09-14T10:33:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Amass-Log-to-CSV",
+            "description": "This Python script is designed to transform the output from your Amass scan into a more manageable CSV file format. This conversion allows for easier data manipulation and analysis.",
+            "score": 1.6384784862517145,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/anir0y/Amass-Log-to-CSV",
+            "updatedAt": "2024-12-19T13:21:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "phishme",
+            "description": "I created this for my classroom training. A lazy way to start a phishing server with the help of ngrok (I hate port forwarding). ",
+            "score": 1.5893003081362684,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/anir0y/phishme",
+            "updatedAt": "2024-07-23T03:41:56Z",
+            "isPinned": false,
+            "homepage": "https://anir0y.in/"
+        }
+    ],
+    "followers": 54,
+    "following": 31,
+    "public_repos": 159,
+    "pull_requests_merged": 4,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 249,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/anir0y"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/anir0y/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/0xanir0y"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://facebook.com/0xanir0y"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">AniR0y</h1>\n\n\n<p align=\"center\"><em>10+ years in Infosec Domain<br>\n  Scripting in my square time, pwning \u26a1 at work!<img src=\"https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif\" width=\"30\"> <br>\n  Find me here: https://anir0y.in\n</em></p>\n\n<h2 align=\"center\">\ud83c\udf0dSocial Connect</h2>\n<div align=center>\n<table>\n  <tr>\n    <td align=\"center\" width=\"96\">\n      <a href=\"https://twitter.com/anir0y\">\n        <img src=\"https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png\" width=\"48\" height=\"48\" alt=\"Python\" />\n      </a>\n      <br>Twitter\n    </td>\n    <td align=\"center\" width=\"96\">\n      <a href=\"https://www.instagram.com/anir0y/\">\n        <img src=https://i.imgur.com/UbEJT65.png width=\"48\" height=\"48\" alt=\"Golang\" />\n      </a>\n      <br>Instagram\n    </td>\n     <td align=\"center\" width=\"96\">\n      <a href=\"https://www.linkedin.com/in/anir0y/\">\n        <img src=\"https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg\" width=\"48\" height=\"48\" alt=\"Python\" />\n      </a>\n      <br>LinkedIn\n    </td>\n     \n  </tr>\n</table>\n</div>\n\n<br/><br/>\n\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n\n<h2 align=center>\n  <a href=\"https://google.com/search?q=@anir0y\">\ud83d\udd0d Google @anir0y</a> \n</h2>\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n# Some NEWS: \n\n<!-- THREAT:START -->\n- [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)\n- [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)\n- [Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms](https://threatpost.com/0ktapus-victimize-130-firms/180487/)\n- [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)\n- [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)\n<!-- THREAT:END -->\n\n\n",
+    "activity_summary": {
+        "anir0y/anir0y.github.io": {
+            "link": "https://github.com/anir0y/anir0y.github.io",
+            "summary": "Recent activities in this repository include multiple push events from December 3 to December 18, 2024, with updates to deploy.yml, addition of Clarity, creation and updates to 404.html, and various code fixes and improvements, demonstrating ongoing development and maintenance of the repository."
+        },
+        "anir0y/justiceshasbeendenied.com": {
+            "link": "https://github.com/anir0y/justiceshasbeendenied.com",
+            "summary": "This repository had a push event on December 10, 2024, with a single commit message 'push1', indicating minimal recent activity."
+        }
+    },
+    "profile_summary": "I'm Animesh Roy, a seasoned infosec professional with 10+ years of experience, skilled in C, TypeScript, and Go, and passionate about breaking security for a living. With a strong network of 54 followers and 159 public repositories, I'm committed to staying up-to-date with the latest threats and trends, as seen in my work at @autohackos and shared on my personal website, https://anir0y.in. I leverage my technical expertise to stay ahead of emerging threats, as highlighted in my shared news updates on recent breaches and cybersecurity incidents."
+}

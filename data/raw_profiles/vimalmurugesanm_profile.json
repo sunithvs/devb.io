@@ -1,0 +1,146 @@
+{
+    "username": "vimalmurugesanm",
+    "name": "vimalmurugesanm",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/132368713?v=4",
+    "profile_url": "https://github.com/VIMALMURUGESANM",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Chess-Game-Next",
+            "description": "Demo",
+            "score": 12.164042561333446,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/Chess-Game-Next",
+            "updatedAt": "2025-01-12T12:47:14Z",
+            "isPinned": true,
+            "homepage": "https://chess-game-next.vercel.app/"
+        },
+        {
+            "name": "Churn_Track",
+            "description": null,
+            "score": 10.265205475922103,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/VIMALMURUGESANM/Churn_Track",
+            "updatedAt": "2024-07-08T16:25:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "VIEW_LIMITLESS_AR_VR",
+            "description": "An Interesting Website that enables the user to communicate, order, share their ideas about architecture with designers and architects , it also used to allow users to create \"Floor plan\" on their own and render in 2D and visualize it in 3D.",
+            "score": 10.264235521258758,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/VIEW_LIMITLESS_AR_VR",
+            "updatedAt": "2024-05-26T13:02:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DIABETES_PREDICTION_MACHINE_LEARNING",
+            "description": "Diabetes Prediction using machine learning algorithms and data mining techniques.",
+            "score": 10.161277077725538,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VIMALMURUGESANM/DIABETES_PREDICTION_MACHINE_LEARNING",
+            "updatedAt": "2023-09-09T07:47:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "view_limitless_front_end_new",
+            "description": null,
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/view_limitless_front_end_new",
+            "updatedAt": "2024-12-09T14:42:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "view_limitless_back_end",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VIMALMURUGESANM/view_limitless_back_end",
+            "updatedAt": "2024-11-29T10:58:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-with-supabase",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/VIMALMURUGESANM/nextjs-with-supabase",
+            "updatedAt": "2024-11-11T14:16:51Z",
+            "isPinned": false,
+            "homepage": "https://nextjs-with-supabase-five-dun.vercel.app"
+        },
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 0.2753942218332271,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/VIMALMURUGESANM/Portfolio",
+            "updatedAt": "2024-05-26T12:15:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 11,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 36,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "VIMALMURUGESANM/Chess-Game-Next": {
+            "link": "https://github.com/VIMALMURUGESANM/Chess-Game-Next",
+            "summary": "The Chess-Game-Next repository experienced a recent PushEvent on January 12, 2025, where the components/ui directory was deleted, indicating ongoing refactoring efforts to optimize the codebase."
+        },
+        "VIMALMURUGESANM/view_limitless_front_end_new": {
+            "link": "https://github.com/VIMALMURUGESANM/view_limitless_front_end_new",
+            "summary": "The view_limitless_front_end_new repository had a PushEvent on December 9, 2024, with an update to README.md, suggesting improvements to documentation and repository visibility."
+        },
+        "VIMALMURUGESANM/view_limitless_back_end": {
+            "link": "https://github.com/VIMALMURUGESANM/view_limitless_back_end",
+            "summary": "The view_limitless_back_end repository underwent a PushEvent on November 29, 2024, where index.js was updated to utilize process.env.PORT, enhancing the application's flexibility and environment adaptability."
+        }
+    },
+    "profile_summary": "I'm a developer with a strong foundation in JavaScript, TypeScript, and Python, actively building and maintaining a portfolio of 11 public repositories that showcase my technical capabilities. With a focus on continuous learning and improvement, I'm committed to delivering high-quality solutions and contributing to the developer community. Through my work, I aim to establish a professional network and expand my influence in the tech industry."
+}

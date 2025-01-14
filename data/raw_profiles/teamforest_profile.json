@@ -1,0 +1,35 @@
+{
+    "username": "teamforest",
+    "name": "teamforest",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10552657?v=4",
+    "profile_url": "https://github.com/TeamForest",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "HabboCrack",
+            "description": "En curso...",
+            "score": 0.060953085051101065,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/TeamForest/HabboCrack",
+            "updatedAt": "2015-01-15T20:55:02Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a dedicated developer, I leverage my technical expertise to build innovative solutions, with a current focus on managing a public repository that showcases my active development efforts. With a strong foundation in programming, I continue to expand my skill set and explore new technologies. I'm committed to delivering high-quality code and collaborating with others to drive growth and improvement in the developer community."
+}

@@ -1,0 +1,52 @@
+{
+    "username": "arathixxs",
+    "name": "arathixxs",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/158206477?v=4",
+    "profile_url": "https://github.com/ArathixxS",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ArathixxS",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2600410069227756,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ArathixxS/ArathixxS",
+            "updatedAt": "2024-03-01T16:02:35Z",
+            "isPinned": false,
+            "homepage": "https://github.com/ArathixxS"
+        },
+        {
+            "name": "Speed-box",
+            "description": null,
+            "score": 0.25606301069720333,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ArathixxS/Speed-box",
+            "updatedAt": "2024-01-30T17:54:17Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

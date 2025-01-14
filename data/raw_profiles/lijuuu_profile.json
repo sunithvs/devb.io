@@ -1,0 +1,163 @@
+{
+    "username": "lijuuu",
+    "name": "Liju Thomas",
+    "bio": "just a dev\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/111126175?u=5fcd3da917f792c0ca112daa2bb9c147ba2e8160&v=4",
+    "profile_url": "https://github.com/lijuuu",
+    "top_languages": [
+        [
+            "Go",
+            19
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FoodBuddyMonolithBackend",
+            "description": "FoodBuddy is a restaurant aggregator platform built using Go, Gin, MySQL, Jenkins, AWS, and Cloudinary. The platform allows users to search for restaurants, manage their profiles, order food, and more. The API is structured with different routes for users, restaurants, and administrators.",
+            "score": 11.313830018983818,
+            "stars": 0,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/lijuuu/FoodBuddyMonolithBackend",
+            "updatedAt": "2024-11-18T16:08:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CentralisedFoodbuddyMicroserviceProto",
+            "description": "A Centralised proto file management repo consisting of User, Restauruant + Product, Order + Cart and Admin Auth Services.",
+            "score": 10.371006920425078,
+            "stars": 0,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/lijuuu/CentralisedFoodbuddyMicroserviceProto",
+            "updatedAt": "2024-11-23T03:52:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "AskMe-gRPCApiGateway",
+            "description": "AskMe is a microservices-based backend that uses Go, Gin, MongoDB, and SQLite for different services, with gRPC for communication between the services and an API Gateway for routing and managing requests. ",
+            "score": 10.358024728136545,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/lijuuu/AskMe-gRPCApiGateway",
+            "updatedAt": "2024-11-18T16:06:46Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "SandboxedCodeExecution",
+            "description": "SCE is a service that allows you to execute code snippets in Python, Go, and Node.js through a RESTful API. The service runs Docker containers for executing the provided code safely, ensuring isolation and security.",
+            "score": 10.347424233849575,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/lijuuu/SandboxedCodeExecution",
+            "updatedAt": "2024-11-02T08:09:06Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ivdepaste",
+            "description": "ivdepaste means pastehere in malayalam :)  trying make a better pastebin using nextjs,shacn/ui and typescript. feel free to post issues and pr's. I'll change the whole backend to Go + MongoDB feels more flexible.",
+            "score": 10.33587793571801,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lijuuu/ivdepaste",
+            "updatedAt": "2024-10-31T09:11:40Z",
+            "isPinned": true,
+            "homepage": "https://lijuu.me"
+        },
+        {
+            "name": "personalweb",
+            "description": "A fork of littledivy.com personal website. Its clean and minimal.",
+            "score": 10.332530861986047,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/lijuuu/personalweb",
+            "updatedAt": "2024-11-08T19:04:08Z",
+            "isPinned": true,
+            "homepage": "https://personalweb-seven-iota.vercel.app"
+        },
+        {
+            "name": "DSA-Basics3",
+            "description": "DSA basics of  topics like Graph, Trees, Trie and Heap",
+            "score": 2.4935153116759037,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/lijuuu/DSA-Basics3",
+            "updatedAt": "2024-11-28T06:29:23Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "UserManagementBackend",
+            "description": "A CleanArchitecture Backend written for UserManagement React application",
+            "score": 1.3647393688432152,
+            "stars": 0,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/lijuuu/UserManagementBackend",
+            "updatedAt": "2024-11-15T07:22:02Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 9,
+    "following": 17,
+    "public_repos": 44,
+    "pull_requests_merged": 1,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 429,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/liju-thomas-13ba6524b/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/lijuthomas__/#"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@lijuthomasliju03"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/LijuThomas_"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "DSA-Tracker": {
+            "link": "https://github.com/liju-github/DSA-Tracker",
+            "summary": "Recent activities in the DSA-Tracker repository include multiple push events, primarily focused on adding and enhancing features such as Vercel analytics, blind75list, and tutorials. Specifically, updates were made to vercel.json, adding a DSA tutorial URL, modifying 'a' tag targets, and adjusting titles, all occurring between January 7th and January 13th, indicating an active period of development and refinement."
+        },
+        "Blind75WorkoutsWithExplanation": {
+            "link": "https://github.com/liju-github/Blind75WorkoutsWithExplanation",
+            "summary": "The Blind75WorkoutsWithExplanation repository saw recent activity with push events on January 8th and 9th, involving the creation of new files such as 'h.md' and '143ReorderList.go', suggesting ongoing development and content addition to the repository, aimed at enhancing its educational or workout resources."
+        },
+        "ReactWorkouts": {
+            "link": "https://github.com/liju-github/ReactWorkouts",
+            "summary": "Recent activities in the ReactWorkouts repository include push events from January 3rd, where new components like 'TrackMousePointer' and 'ImageSlider' were added, indicating an effort to expand the repository's collection of React workouts and exercises, likely for learning or demonstration purposes."
+        }
+    },
+    "profile_summary": "I'm Liju Thomas, a developer with a strong foundation in Go, TypeScript, and JavaScript, having built and contributed to numerous projects across 44 public repositories. With a growing professional network of 9 followers, I continue to expand my expertise and collaborate with like-minded individuals. As a passionate developer, I bring a straightforward approach to coding, always looking to create efficient and effective solutions."
+}

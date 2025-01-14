@@ -1,0 +1,40 @@
+{
+    "username": "asar-eduport",
+    "name": "Ashar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/158561839?v=4",
+    "profile_url": "https://github.com/asar-eduport",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "python3.11",
+            "description": "Sample Codes",
+            "score": 0.28559061529244567,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/asar-eduport/python3.11",
+            "updatedAt": "2024-07-07T17:56:28Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

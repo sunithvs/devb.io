@@ -1,0 +1,14 @@
+{
+    "error": "An unexpected error occurred: User 'eduport-tech' not found or query returned no data.",
+    "activity_summary": {
+        "eduport-tech/flutter-quill": {
+            "link": "https://github.com/eduport-tech/flutter-quill",
+            "summary": "Recent activities in the flutter-quill repository include multiple push events, focusing on enhancements such as adding toast messages and modifying snackbar messages. Additionally, there were adjustments made to iOS features, including the removal of a slider."
+        },
+        "eduport-tech/sink-shortner": {
+            "link": "https://github.com/eduport-tech/sink-shortner",
+            "summary": "The sink-shortner repository experienced significant activity, with multiple push events and pull requests. These activities introduced new features such as removing leading and trailing slashes from slugs, deploying documentation updates, and enhancing community standards by adding a Contributor Covenant Code of Conduct. Other changes involved updating social links, fixing GitHub URLs, and standardizing the .node-version format for better compatibility."
+        }
+    },
+    "profile_summary": null
+}

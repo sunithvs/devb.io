@@ -1,0 +1,142 @@
+{
+    "username": "aman-zishan",
+    "name": "Zishan",
+    "bio": "developer \r\n \u30fb Blockchain \ud83d\ude80\u30fb5+ \ud83c\udfc6 hackathons #BTC #STX #ETH\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/55238388?u=49c68fe75a988952d92929e8851cd67c30177f3a&v=4",
+    "profile_url": "https://github.com/Aman-zishan",
+    "top_languages": [
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "Python",
+            13
+        ],
+        [
+            "JavaScript",
+            14
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "friend.tech",
+            "description": "A friend.tech clone build on stacks",
+            "score": 15.447831530259691,
+            "stars": 7,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/Aman-zishan/friend.tech",
+            "updatedAt": "2024-10-17T01:49:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "SuperPay",
+            "description": "A payment gateway system for streaming subscription payments of users to vendors using superfluid",
+            "score": 13.99745978727947,
+            "stars": 2,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/Aman-zishan/SuperPay",
+            "updatedAt": "2023-11-13T07:07:09Z",
+            "isPinned": true,
+            "homepage": "https://super-pay-two.vercel.app"
+        },
+        {
+            "name": "sDAO",
+            "description": "Decentralized grants program with milestone based funding",
+            "score": 13.833770799131502,
+            "stars": 5,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aman-zishan/sDAO",
+            "updatedAt": "2024-08-01T08:32:06Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "sDAO-with-chainhook",
+            "description": "A grants program integrated with chainhooks to listen to blockchain events",
+            "score": 13.02336553638812,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aman-zishan/sDAO-with-chainhook",
+            "updatedAt": "2024-06-26T22:22:05Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CSM",
+            "description": "Code Snippet Manager : A CLI tool to quickly save your code snippets",
+            "score": 12.449078331384374,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Aman-zishan/CSM",
+            "updatedAt": "2024-03-24T13:54:42Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "textextractor2.0",
+            "description": ":fire: This web app extracts text in an image.",
+            "score": 9.683165225497115,
+            "stars": 18,
+            "forks": 11,
+            "language": "JavaScript",
+            "url": "https://github.com/Aman-zishan/textextractor2.0",
+            "updatedAt": "2022-12-15T09:56:37Z",
+            "isPinned": false,
+            "homepage": "https://textextractor2.herokuapp.com"
+        },
+        {
+            "name": "amancodelab",
+            "description": "For hacktoberfest",
+            "score": 6.966162585932618,
+            "stars": 2,
+            "forks": 21,
+            "language": "Dart",
+            "url": "https://github.com/Aman-zishan/amancodelab",
+            "updatedAt": "2023-10-20T02:57:37Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "BMI-App",
+            "description": ":smiley: A simple Flutter App that calculates the BMI of a person.",
+            "score": 5.7298116592856845,
+            "stars": 5,
+            "forks": 3,
+            "language": "Dart",
+            "url": "https://github.com/Aman-zishan/BMI-App",
+            "updatedAt": "2021-04-14T16:20:30Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 103,
+    "following": 93,
+    "public_repos": 123,
+    "pull_requests_merged": 25,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1079,
+        "repositories_contributed_to": 12
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Aman</h1>\n<h3 align=\"center\">A passionate web2/web3 developer from India.</h3>\n\n- \ud83d\udcac Ask me about **react, clarity, solidity**\n\n- \ud83d\udceb How to reach me **amanzishan.az@gmail.com**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/aman_zishan\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"aman_zishan\" height=\"30\" width=\"40\" /></a>\n <a href=\"https://linkedin.com/in/aman-zishan\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"aman-zishan\" height=\"30\" width=\"40\" /></a>\n</p>\n\n\n\n \n",
+    "activity_summary": {
+        "Mind-Empowered/volunteer-management-system": {
+            "link": "https://github.com/Mind-Empowered/volunteer-management-system",
+            "summary": "Recent activities in the volunteer-management-system repository have focused on enhancing the folder structure, with multiple push events and pull requests aimed at improving and fixing the structure. Additionally, there have been updates to the DB client, cache DB connection client, and lock file, indicating efforts to refine the system's functionality and stability."
+        },
+        "Aman-zishan/Aman-zishan": {
+            "link": "https://github.com/Aman-zishan/Aman-zishan",
+            "summary": "The Aman-zishan repository has seen updates with Dev Metrics on two separate occasions, suggesting ongoing efforts to monitor and improve development performance, with the most recent update occurring on January 13, 2025."
+        }
+    },
+    "profile_summary": "As a seasoned web2 and web3 developer with a strong background in TypeScript, Python, and JavaScript, I leverage my expertise to build innovative solutions, with a focus on blockchain technology and a proven track record of participating in over 5 hackathons. With a network of 103 followers and 123 public repositories, I'm committed to delivering high-quality developments and collaborations. I'm excited to connect and explore opportunities, and can be reached at amanzishan.az@gmail.com or through my social media profiles on Twitter and LinkedIn."
+}

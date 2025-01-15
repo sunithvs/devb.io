@@ -1,0 +1,132 @@
+{
+    "username": "am607",
+    "name": "AkbarMasterpadi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/62100210?u=0d84059a4ec73fc08e8a24f484ace73f965ea675&v=4",
+    "profile_url": "https://github.com/Am607",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Dart",
+            13
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "90-days",
+            "description": null,
+            "score": 2.908800967626401,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Am607/90-days",
+            "updatedAt": "2023-12-09T13:23:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "projectHub",
+            "description": "live website of projectHub",
+            "score": 2.3472753915864257,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Am607/projectHub",
+            "updatedAt": "2023-02-04T08:59:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Yt_player",
+            "description": null,
+            "score": 1.6362354217701738,
+            "stars": 1,
+            "forks": 0,
+            "language": "Objective-C",
+            "url": "https://github.com/Am607/Yt_player",
+            "updatedAt": "2024-04-01T03:04:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "better_player_clone",
+            "description": null,
+            "score": 1.6283686813371359,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Am607/better_player_clone",
+            "updatedAt": "2024-02-29T07:08:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "node_shoping_card",
+            "description": "this is a node js intermediate project",
+            "score": 1.458338161188943,
+            "stars": 1,
+            "forks": 0,
+            "language": "Handlebars",
+            "url": "https://github.com/Am607/node_shoping_card",
+            "updatedAt": "2022-03-19T17:16:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "dart",
+            "description": null,
+            "score": 1.4542989861393871,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Am607/dart",
+            "updatedAt": "2022-04-12T07:02:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "niyas_app",
+            "description": null,
+            "score": 1.1126671000435657,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Am607/niyas_app",
+            "updatedAt": "2022-06-12T16:05:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aptus_sea_food",
+            "description": null,
+            "score": 1.1095981024235593,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/Am607/aptus_sea_food",
+            "updatedAt": "2022-05-29T05:59:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 23,
+    "following": 25,
+    "public_repos": 63,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 38,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm AkbarMasterpadi, a skilled developer proficient in C++, Dart, and JavaScript, with a strong presence on GitHub where I've built a network of 23 followers and contributed to 63 public repositories. My technical expertise spans multiple programming languages, enabling me to tackle complex projects and collaborate effectively with others. With a passion for continuous learning and development, I'm committed to delivering high-quality solutions and expanding my expertise in the ever-evolving tech landscape."
+}

@@ -1,0 +1,150 @@
+{
+    "username": "harisanker10",
+    "name": "Harisanker",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/127232494?u=be90c0b08787e8a3d1e498e13acc060fe755eb43&v=4",
+    "profile_url": "https://github.com/harisanker10",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "JavaScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "servel",
+            "description": null,
+            "score": 11.686869506443761,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/harisanker10/servel",
+            "updatedAt": "2024-11-26T05:53:33Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "sort-visualizer",
+            "description": "Visualize sorting algorithms",
+            "score": 10.27517692505339,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/harisanker10/sort-visualizer",
+            "updatedAt": "2024-07-09T14:49:57Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "netflix-react",
+            "description": null,
+            "score": 10.25893258697495,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harisanker10/netflix-react",
+            "updatedAt": "2024-02-24T08:25:36Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "TweetBot",
+            "description": "Logs into a Twitter account and tweets something.",
+            "score": 10.248431942301169,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harisanker10/TweetBot",
+            "updatedAt": "2024-05-30T12:37:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "instaSell",
+            "description": "An OLX like platform using Node, Socket.io and Ejs(templating view engine)",
+            "score": 10.161277077725538,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/harisanker10/instaSell",
+            "updatedAt": "2024-01-08T16:33:57Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "portfolio",
+            "description": "Personal Webpage",
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/harisanker10/portfolio",
+            "updatedAt": "2025-01-10T20:40:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "express-sample-server",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/harisanker10/express-sample-server",
+            "updatedAt": "2024-10-20T13:50:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "dotfiles",
+            "description": null,
+            "score": 0.3210046961141753,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/harisanker10/dotfiles",
+            "updatedAt": "2024-10-14T16:43:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 9,
+    "public_repos": 25,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 103,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "harisanker10/servel": {
+            "link": "https://github.com/harisanker10/servel",
+            "summary": "Recent activities in the servel repository have focused on enhancements to the web-service building pipeline, including the addition of helm charts for request-service and build-service, improvements to the createProject feature for webService and staticSite, and updates to the redeploy and stopDeployment features, along with various fixes to workflow issues."
+        },
+        "harisanker10/portfolio": {
+            "link": "https://github.com/harisanker10/portfolio",
+            "summary": "The portfolio repository has seen initial commits, laying the groundwork for future development and showcasing the repository's preliminary structure and content."
+        },
+        "harisanker10/blink.cmp": {
+            "link": "https://github.com/harisanker10/blink.cmp",
+            "summary": "Activity in the blink.cmp repository has centered around a specific fix, addressing the default selection behavior in auto-insert mode for lists, demonstrating a focus on resolving particular functional issues within the project."
+        },
+        "harisanker10/nvim": {
+            "link": "https://github.com/harisanker10/nvim",
+            "summary": "The nvim repository has experienced updates aimed at stabilization and performance improvement, indicating efforts to enhance the overall user experience and reliability of the project."
+        }
+    },
+    "profile_summary": "I'm Harisanker, a developer with a strong foundation in programming languages, including TypeScript, C, and JavaScript, with a network of 8 peers and a portfolio of 25 public repositories showcasing my active development work. With a focus on building robust and scalable solutions, I leverage my technical expertise to drive innovation and collaboration. As a dedicated contributor to the open-source community, I continuously refine my skills and expand my knowledge to deliver high-quality code and solutions."
+}

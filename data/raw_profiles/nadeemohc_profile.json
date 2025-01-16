@@ -1,0 +1,150 @@
+{
+    "username": "nadeemohc",
+    "name": "Nadeem",
+    "bio": "If you're coding open source then you're coding communism \ud83e\udd78",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108587101?u=e67058752c5ea938df1180435f436bd31b0b11fc&v=4",
+    "profile_url": "https://github.com/nadeemohc",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "dotfiles-hyprland-",
+            "description": "Config Files of my Hyprland Waybar Setup",
+            "score": 12.475565648897922,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nadeemohc/dotfiles-hyprland-",
+            "updatedAt": "2024-09-28T18:16:37Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "grid7",
+            "description": "An e-commerce platform with user and admin handles",
+            "score": 11.647047261461575,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nadeemohc/grid7",
+            "updatedAt": "2024-11-01T15:24:18Z",
+            "isPinned": true,
+            "homepage": "https://grid7.shop/"
+        },
+        {
+            "name": "schumacher_shop",
+            "description": "A static e-commerce home page based on Micheal Schumacher",
+            "score": 10.239559529202289,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nadeemohc/schumacher_shop",
+            "updatedAt": "2024-03-25T01:49:38Z",
+            "isPinned": true,
+            "homepage": "https://schumacher-shop.vercel.app"
+        },
+        {
+            "name": "Dev-folio",
+            "description": null,
+            "score": 10.160249326281606,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nadeemohc/Dev-folio",
+            "updatedAt": "2023-08-23T12:50:40Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "YouTube-Clone",
+            "description": null,
+            "score": 10.159803950266774,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nadeemohc/YouTube-Clone",
+            "updatedAt": "2023-08-14T05:16:47Z",
+            "isPinned": true,
+            "homepage": "https://you-tube-clone-puce.vercel.app"
+        },
+        {
+            "name": "gandalf_bot",
+            "description": null,
+            "score": 1.387145004689493,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nadeemohc/gandalf_bot",
+            "updatedAt": "2024-11-17T08:31:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "social_network",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/social_network",
+            "updatedAt": "2024-11-20T05:10:08Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "FFmagic",
+            "description": "Media Format Alchemist",
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nadeemohc/FFmagic",
+            "updatedAt": "2024-09-08T10:45:20Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 23,
+    "following": 50,
+    "public_repos": 28,
+    "pull_requests_merged": 42,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 158,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "readme_content": "<p align=\"center\">\n <img width=\"1000\" src=\"assets/spike.gif\" alt=\"spike.gif\"/>\n</p>\n\n# Hello there\n#### Thanks for stopping by. Let me introduce myself \n\n<h3 align=\"center\">\n        <samp>My name's  \n                <b><a target=\"_blank\" href=\"https://github.com/nadeemohc\">Nadeem.</a></b>\n          <br>\n                <b>I'm a self-taught computer science student</b>\n          <br>\n                <b></b>\n        </samp>\n</h3>\n<br>\n\n```python\n#!/usr/bin/python\n\n\nclass computer_science_student:\n\n    def __init__(self):\n        self.role = \"Backend developer\"\n        self.language_learnt = [\"python\", \"c/c++\"]\n        self.language_forgot = [\"java\",]\n        self.database_learnt = [\"postgres\"]\n        self.framework_learning = [\"django\", \"tkinter\", \"fastapi\"]\n        self.planning_to_learn = [\"go\", \"Js\"]\n\n    def say_bye(self):\n        print(\"I hope you have a nice day.\")\n\n\nme = computer_science_student()\nme.say_bye()\n```\n---\n<!-- <div align=\"center\">\n  <a href=\"https://github.com/ryo-ma/github-profile-trophy\">\n    <img src=\"https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark\" alt=\"trophy\" />\n  </a>\n</div> -->\n\n\n<p align=\"center\">\n  <img width=\"800\" height=\"220\" src=\"https://streak-stats.demolab.com?user=nadeemohc&theme=highcontrast&hide_border=true&border_radius=5&card_width=800\">\n</p>\n\n---\n\n\n\n\n<p align=\"center\">\n  <img width=\"600\" height=\"200\" src=\"https://github-readme-stats.vercel.app/api?username=nadeemohc&show_icons=true&theme=vision-friendly-dark\">\n  <img width=\"400\" height=\"200\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemohc&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark\">\n</p>\n \n\n\n<div id=\"header\" align=\"center\">\n  <img src=\"https://komarev.com/ghpvc/?username=nadeemohc&style=for-the-badge&color=orange\" alt=\"\"/>\n</div>\n\n<p align=\"center\">\n <img width=\"1000\" src=\"assets/github-snake.svg\" alt=\"snake\"/>\n</p>\n\n",
+    "activity_summary": {
+        "nadeemohc/gandalf_bot": {
+            "link": "https://github.com/nadeemohc/gandalf_bot",
+            "summary": "The gandalf_bot repository has seen significant activity recently, with multiple push events focused on enhancing the project's presentation. Updates to the README.md file have been made, and video presentations have been added to provide a more comprehensive understanding of the project. These updates demonstrate a commitment to improving the project's overall quality and user experience."
+        },
+        "nadeemohc/learnitt": {
+            "link": "https://github.com/nadeemohc/learnitt",
+            "summary": "The learnitt repository has experienced notable activity, with push events centered around improving the project's functionality. Corrections have been made to the insertion sort algorithm, and additional workouts have been implemented. Furthermore, the repository has seen updates indicating continued learning and development, showcasing the project's ongoing growth and refinement."
+        },
+        "nadeemohc/home_brows": {
+            "link": "https://github.com/nadeemohc/home_brows",
+            "summary": "The home_brows repository has been active, with push events focused on integrating changes and resolving issues. The project has seen the addition of images and scripts, as well as the resolution of problems related to image handling. These updates demonstrate a focus on enhancing the project's capabilities and addressing technical challenges, highlighting the repository's ongoing development and improvement."
+        },
+        "nadeemohc/grid7": {
+            "link": "https://github.com/nadeemohc/grid7",
+            "summary": "The grid7 repository has seen recent activity, with push events aimed at refining the project's setup and documentation. Changes have been made to the README file, licensing has been added, and the project has been dockerized to improve its deployment and management. These updates underscore a commitment to enhancing the project's maintainability and usability, ensuring it is better equipped for future development and collaboration."
+        }
+    },
+    "profile_summary": "I'm Nadeem, a self-taught computer science student and backend developer with strong skills in Python, JavaScript, and HTML, passionate about open-source development and always looking to learn and grow. With a network of 23 followers and 28 public repositories, I'm actively engaged in the development community. I believe that coding open source is a fundamentally collaborative approach, as reflected in my motto \"if you're coding open source then you're coding communism\"."
+}

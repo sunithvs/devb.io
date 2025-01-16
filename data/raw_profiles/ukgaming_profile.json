@@ -1,0 +1,47 @@
+{
+    "username": "ukgaming",
+    "name": "UDHAY KRISHNA",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/81312931?v=4",
+    "profile_url": "https://github.com/ukgaming",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "demo-app",
+            "description": null,
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ukgaming/demo-app",
+            "updatedAt": "2024-10-16T09:43:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "automatic-guacamole",
+            "description": null,
+            "score": 0.06906141648327233,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ukgaming/automatic-guacamole",
+            "updatedAt": "2021-03-24T14:27:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

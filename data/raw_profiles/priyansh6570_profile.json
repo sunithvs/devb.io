@@ -1,0 +1,138 @@
+{
+    "username": "priyansh6570",
+    "name": "Priyansh Mishra",
+    "bio": "Hey there, I'm Priyansh Mishra, your friendly neighborhood tech enthusiast! I'm passionate about all things innovative and love diving into new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92854250?u=22c2f64a0bef8267c30f91ab701765adf699d7fd&v=4",
+    "profile_url": "https://github.com/Priyansh6570",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GeoCountyMapper",
+            "description": "python script to get the county from latitude and longitude using OpenStreetMap's Nominatim API",
+            "score": 10.396386054904669,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Priyansh6570/GeoCountyMapper",
+            "updatedAt": "2024-12-04T05:41:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FocusTrack",
+            "description": null,
+            "score": 10.263918175059302,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/FocusTrack",
+            "updatedAt": "2024-06-18T16:11:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Social-Media-Fake-Profile-Detection",
+            "description": null,
+            "score": 10.26032395415333,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Priyansh6570/Social-Media-Fake-Profile-Detection",
+            "updatedAt": "2024-03-05T06:57:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Project-Ar-Object-Transfer",
+            "description": "Real World Object Transfer Using AR with realtime objection isolation using BASNet. ",
+            "score": 10.25893258697495,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Priyansh6570/Project-Ar-Object-Transfer",
+            "updatedAt": "2024-11-29T09:09:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CssTricksCard",
+            "description": null,
+            "score": 10.074296147234,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Priyansh6570/CssTricksCard",
+            "updatedAt": "2022-10-03T08:53:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "videoHub-react-chakra-App",
+            "description": null,
+            "score": 1.1145194308623805,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/videoHub-react-chakra-App",
+            "updatedAt": "2022-11-08T19:30:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-quiz-app",
+            "description": null,
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/django-quiz-app",
+            "updatedAt": "2024-12-18T16:44:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bird-Watch-Dashboard",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/Bird-Watch-Dashboard",
+            "updatedAt": "2024-12-12T18:14:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 10,
+    "public_repos": 41,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 77,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/priyansh6570/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

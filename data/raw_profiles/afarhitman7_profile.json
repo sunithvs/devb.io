@@ -1,0 +1,128 @@
+{
+    "username": "afarhitman7",
+    "name": "Rafan Hatim",
+    "bio": "What can I say except yabadabadoo\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/150600333?v=4",
+    "profile_url": "https://github.com/AFarHitman7",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "xchange-website",
+            "description": null,
+            "score": 14.112027888452609,
+            "stars": 2,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/AFarHitman7/xchange-website",
+            "updatedAt": "2024-04-17T20:26:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AFarHitman7.github.io",
+            "description": "A personal responsive portfolio website made with html and css.",
+            "score": 12.452791815150247,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AFarHitman7/AFarHitman7.github.io",
+            "updatedAt": "2024-07-26T15:46:32Z",
+            "isPinned": true,
+            "homepage": "https://afarhitman7.github.io/"
+        },
+        {
+            "name": "musify",
+            "description": "MuLearn Internship Task",
+            "score": 11.65623253148344,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AFarHitman7/musify",
+            "updatedAt": "2024-05-06T19:09:38Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "cali-vista",
+            "description": "When in Kozhikode",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AFarHitman7/cali-vista",
+            "updatedAt": "2025-01-15T23:05:43Z",
+            "isPinned": false,
+            "homepage": "https://cali-vista.vercel.app"
+        },
+        {
+            "name": "time-travellers-guide",
+            "description": null,
+            "score": 1.6516641746944312,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AFarHitman7/time-travellers-guide",
+            "updatedAt": "2024-04-25T08:28:41Z",
+            "isPinned": false,
+            "homepage": "https://time-travellers-guide.vercel.app"
+        },
+        {
+            "name": "countdown-timer",
+            "description": null,
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AFarHitman7/countdown-timer",
+            "updatedAt": "2024-08-25T18:31:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "silly-story",
+            "description": null,
+            "score": 0.2924034339384601,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AFarHitman7/silly-story",
+            "updatedAt": "2024-08-02T11:46:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todo-list",
+            "description": null,
+            "score": 0.2924034339384601,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AFarHitman7/todo-list",
+            "updatedAt": "2024-08-02T11:27:26Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 20,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 111,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm Rafan Hatim, a JavaScript and HTML developer with a strong portfolio of 20 public repositories, showcasing my active development experience and collaboration with a growing network of 4 followers. With a passion for coding, I bring simplicity and creativity to my projects, as hinted by my enthusiasm for the classic \"yabadabadoo\" phrase. I'm committed to delivering high-quality solutions, leveraging my technical expertise to drive innovation and growth in the projects I undertake."
+}

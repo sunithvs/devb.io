@@ -1,0 +1,137 @@
+{
+    "username": "shyamjp2002",
+    "name": "Syamagopal J",
+    "bio": "",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75899937?u=3131c70099f9e5d652cabbaac1a2734d5a3fb061&v=4",
+    "profile_url": "https://github.com/shyamjp2002",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Authentication-app-using-Node-JS",
+            "description": "Node JS Authentication using MongoDB to store the details and using JWT authentication ",
+            "score": 10.073013962453604,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shyamjp2002/Authentication-app-using-Node-JS",
+            "updatedAt": "2022-07-03T19:56:04Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ToDo-List-using-Node-JS",
+            "description": "Created a Todo list app using Node JS and MongoDB",
+            "score": 10.073013962453604,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/shyamjp2002/ToDo-List-using-Node-JS",
+            "updatedAt": "2022-06-21T19:03:01Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Contact-List",
+            "description": null,
+            "score": 10.07074817762709,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shyamjp2002/Contact-List",
+            "updatedAt": "2021-11-02T18:09:01Z",
+            "isPinned": true,
+            "homepage": "https://shyamjp2002.github.io/Contact-List/"
+        },
+        {
+            "name": "login-page.github.io",
+            "description": null,
+            "score": 10.070284380771994,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/shyamjp2002/login-page.github.io",
+            "updatedAt": "2021-10-26T14:20:14Z",
+            "isPinned": true,
+            "homepage": "https://shyamjp2002.github.io/login-page.github.io/"
+        },
+        {
+            "name": "Meal-Share-App",
+            "description": null,
+            "score": 1.2766980439912896,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/shyamjp2002/Meal-Share-App",
+            "updatedAt": "2024-08-04T19:55:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PhishBuster",
+            "description": "A web application which uses a machine learning to model phishing URLs",
+            "score": 0.26283003664131993,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/shyamjp2002/PhishBuster",
+            "updatedAt": "2024-03-27T18:54:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "To-Do-App---Django",
+            "description": "A simple todo app",
+            "score": 0.26283003664131993,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shyamjp2002/To-Do-App---Django",
+            "updatedAt": "2024-03-23T19:48:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Mind-Empowered-Project",
+            "description": null,
+            "score": 0.1572005109842735,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shyamjp2002/Mind-Empowered-Project",
+            "updatedAt": "2023-06-19T16:15:34Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 16,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/syamagopal-j-a15394201"
+        }
+    ],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @shyamjp2002\n- \ud83d\udc40 I\u2019m interested in coding\n- \ud83c\udf31 I\u2019m currently learning Back-end development \n- \ud83d\udc9e\ufe0f I\u2019m looking to collaborate on Back end projects\n- \ud83d\udceb How to reach me ...email-id : shyamjp2002@gmail.com\n\n<!---\nshyamjp2002/shyamjp2002 is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "profile_summary": "I'm a detail-driven developer with expertise in Python, JavaScript, and PHP, backed by a portfolio of 16 public repositories and a growing professional network of 4 followers. As a continuous learner, I'm currently focused on expanding my skills in back-end development and eager to collaborate on projects that align with my interests. With a strong foundation in coding and a passion for innovation, I'm excited to connect with like-minded professionals and explore new opportunities through email at shyamjp2002@gmail.com."
+}

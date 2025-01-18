@@ -1,0 +1,151 @@
+{
+    "username": "allen-josu",
+    "name": "Allen Joseph Joy",
+    "bio": "Transforming ideas into code with passion and precision.  ",
+    "location": "Alappuzha",
+    "avatar_url": "https://avatars.githubusercontent.com/u/124960550?u=1b6c4f3224f1ac2391dc07f085ee1afef1e3096a&v=4",
+    "profile_url": "https://github.com/Allen-Josu",
+    "top_languages": [
+        [
+            "JavaScript",
+            23
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSM-Client",
+            "description": "Efficiently manage driving school operations with DSM Client. Handle enrollments, schedule lessons, track progress, and manage payments with ease. Explore and contribute to improve driving school management!",
+            "score": 11.653874268911947,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/DSM-Client",
+            "updatedAt": "2025-01-11T16:18:42Z",
+            "isPinned": true,
+            "homepage": "https://dsm-client.vercel.app"
+        },
+        {
+            "name": "bmw-clone",
+            "description": " This website, mirroring BMW India, employs cutting-edge technologies like React for seamless performance. It's a clone designed to emulate the user experience of the original platform. Explore the world of BMW India with the convenience of modern web technologies on this site.",
+            "score": 10.263918175059302,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/bmw-clone",
+            "updatedAt": "2024-04-23T05:37:49Z",
+            "isPinned": true,
+            "homepage": "https://bmw-india.vercel.app"
+        },
+        {
+            "name": "VitePlayer",
+            "description": "VitePlayer: A swift, modern video player website powered by Vite.js. Lightning-fast loading times and a sleek interface for an immersive viewing experience.",
+            "score": 10.260041006922776,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/VitePlayer",
+            "updatedAt": "2024-03-24T03:55:50Z",
+            "isPinned": true,
+            "homepage": "https://viteplayer.vercel.app"
+        },
+        {
+            "name": "DSM-Backend",
+            "description": null,
+            "score": 1.665590785891779,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/DSM-Backend",
+            "updatedAt": "2025-01-11T16:18:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "buildathon_backend",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/buildathon_backend",
+            "updatedAt": "2025-01-18T12:40:27Z",
+            "isPinned": false,
+            "homepage": "https://buildathon-backend.vercel.app"
+        },
+        {
+            "name": "buildathon_frontend",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Allen-Josu/buildathon_frontend",
+            "updatedAt": "2025-01-18T12:39:46Z",
+            "isPinned": false,
+            "homepage": "https://edubuddy-4e8yam3w3-allen-joseph-joys-projects.vercel.app/"
+        },
+        {
+            "name": "de",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Allen-Josu/de",
+            "updatedAt": "2024-12-15T20:32:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TDS_Project_2",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Allen-Josu/TDS_Project_2",
+            "updatedAt": "2024-12-15T20:47:40Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 16,
+    "public_repos": 61,
+    "pull_requests_merged": 25,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 408,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/allen-joseph-joy/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.codechef.com/users/allen13"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "buildathon_frontend": {
+            "link": "https://github.com/Allen-Josu/buildathon_frontend",
+            "summary": "Recent activities in the buildathon_frontend repository include the addition of admin login and authentication features, modification of code to fix small errors, and creation of admin components. Multiple pull requests have been merged, including those related to sign-up, login, and header design. The repository has seen significant activity with numerous push events and pull requests, indicating active development and collaboration."
+        },
+        "buildathon_backend": {
+            "link": "https://github.com/Allen-Josu/buildathon_backend",
+            "summary": "The buildathon_backend repository has seen recent activity with push events modifying the code, although the details of these modifications are not specified. The level of activity is significantly lower compared to the buildathon_frontend repository, suggesting that the backend development may be in a less intensive phase at the moment."
+        }
+    },
+    "profile_summary": "I'm Allen Joseph Joy, a passionate developer transforming ideas into code with precision, leveraging expertise in JavaScript, TypeScript, and Python to drive innovative solutions. With a strong portfolio of 61 public repositories, I've established a presence in the development community, connecting with like-minded professionals and continually expanding my network. I'm dedicated to crafting high-quality code and collaborating with others to bring ideas to life."
+}

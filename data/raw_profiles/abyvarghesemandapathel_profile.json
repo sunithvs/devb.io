@@ -1,0 +1,133 @@
+{
+    "username": "abyvarghesemandapathel",
+    "name": "Aby varghese",
+    "bio": "Computer science student at CEK\r\nPython Django",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/56151184?u=1f0f72fe9736be89766ebc8e9421dc58b3be9cf7&v=4",
+    "profile_url": "https://github.com/AbyvargheseMandapathel",
+    "top_languages": [
+        [
+            "Python",
+            37
+        ],
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AbyvargheseMandapathel.github.io",
+            "description": null,
+            "score": 11.519846118148196,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AbyvargheseMandapathel/AbyvargheseMandapathel.github.io",
+            "updatedAt": "2023-08-21T18:19:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "aby",
+            "description": null,
+            "score": 4.677450298722487,
+            "stars": 2,
+            "forks": 4,
+            "language": null,
+            "url": "https://github.com/AbyvargheseMandapathel/aby",
+            "updatedAt": "2020-12-30T08:00:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "freecourses4u",
+            "description": null,
+            "score": 3.933784980155419,
+            "stars": 1,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/AbyvargheseMandapathel/freecourses4u",
+            "updatedAt": "2023-12-14T10:10:47Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "job_updates_bot",
+            "description": "This is a Scrapy project designed to scrape job listings from various sites and send them to a Telegram channel. The project utilizes Scrapy for web scraping, pandas for data manipulation, and the requests library for sending messages to Telegram.",
+            "score": 3.4755693473180616,
+            "stars": 4,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AbyvargheseMandapathel/job_updates_bot",
+            "updatedAt": "2025-01-17T15:40:43Z",
+            "isPinned": false,
+            "homepage": "https://t.me/hirewavejobs"
+        },
+        {
+            "name": "direwolf",
+            "description": null,
+            "score": 2.754763063624746,
+            "stars": 0,
+            "forks": 5,
+            "language": "HTML",
+            "url": "https://github.com/AbyvargheseMandapathel/direwolf",
+            "updatedAt": "2020-10-22T03:42:59Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "guthub-intro",
+            "description": null,
+            "score": 2.480252844919388,
+            "stars": 0,
+            "forks": 4,
+            "language": null,
+            "url": "https://github.com/AbyvargheseMandapathel/guthub-intro",
+            "updatedAt": "2019-10-10T10:21:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chatbot-webscraping",
+            "description": null,
+            "score": 1.5419788623818327,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/AbyvargheseMandapathel/chatbot-webscraping",
+            "updatedAt": "2023-05-15T13:08:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "dttourney",
+            "description": "Daily Tourneys is a website which helps connecting esports organisation with users and acts as a platform to advertised your events",
+            "score": 1.4604726214771473,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AbyvargheseMandapathel/dttourney",
+            "updatedAt": "2022-10-16T06:48:32Z",
+            "isPinned": false,
+            "homepage": "dttourney.vercel.app"
+        }
+    ],
+    "followers": 13,
+    "following": 32,
+    "public_repos": 167,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1626,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

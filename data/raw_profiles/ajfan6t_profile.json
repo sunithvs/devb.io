@@ -1,0 +1,142 @@
+{
+    "username": "ajfan6t",
+    "name": "MUHAMMED AJFAN T P",
+    "bio": "@sng22mca",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/122072091?u=4b1130615437f7424f376d2b980879402587002c&v=4",
+    "profile_url": "https://github.com/ajfan6T",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "wazuh-SIEM",
+            "description": null,
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajfan6T/wazuh-SIEM",
+            "updatedAt": "2024-12-02T17:01:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ElasticGuard-Home-Lab-SIEM-System",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajfan6T/ElasticGuard-Home-Lab-SIEM-System",
+            "updatedAt": "2024-11-29T14:10:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Gamess",
+            "description": null,
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajfan6T/Gamess",
+            "updatedAt": "2024-07-16T16:56:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ResaleReckoner",
+            "description": "used car price prediction using ML",
+            "score": 0.267579907792056,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ajfan6T/ResaleReckoner",
+            "updatedAt": "2024-05-20T14:55:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AutoTracker-Parivahan-",
+            "description": "Multiple Vehicle Management system",
+            "score": 0.2498381437282592,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajfan6T/AutoTracker-Parivahan-",
+            "updatedAt": "2024-11-19T07:37:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CN",
+            "description": null,
+            "score": 0.16075645118153897,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/ajfan6T/CN",
+            "updatedAt": "2023-09-04T14:10:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JAVA",
+            "description": null,
+            "score": 0.16075645118153897,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ajfan6T/JAVA",
+            "updatedAt": "2023-09-04T14:13:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ADS",
+            "description": "labcycle",
+            "score": 0.15248091473715275,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/ajfan6T/ADS",
+            "updatedAt": "2023-02-14T15:53:17Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 14,
+    "following": 19,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 25,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "ElasticGuard-Home-Lab-SIEM-System": {
+            "link": "https://github.com/ajfan6T/ElasticGuard-Home-Lab-SIEM-System",
+            "summary": "Recent activities in the ElasticGuard-Home-Lab-SIEM-System repository include multiple push events, with the most notable updates being the creation of a README.md file and the addition of project reports and files via upload, all occurring between November 28-29, 2024."
+        },
+        "wazuh-SIEM": {
+            "link": "https://github.com/ajfan6T/wazuh-SIEM",
+            "summary": "The wazuh-SIEM repository saw significant activity with a push event on December 2, 2024, where files were added via upload, indicating ongoing development and updates to the project."
+        }
+    },
+    "profile_summary": "As a passionate developer with a strong foundation in C, Python, and Java, I leverage my technical skills to deliver innovative solutions. With a growing network of 14 followers and a portfolio of 9 public repositories, I continue to expand my expertise and collaborate with like-minded professionals. You can find more about my projects and interests at @sng22mca."
+}

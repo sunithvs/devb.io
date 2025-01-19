@@ -1,0 +1,10 @@
+{
+    "error": "An unexpected error occurred: User 'muadpn' not found or query returned no data.",
+    "activity_summary": {
+        "minar-kochi/minar-cruise": {
+            "link": "https://github.com/minar-kochi/minar-cruise",
+            "summary": "Recent activities include multiple push and pull requests focused on fixing the display of calendar dates, updating the refund policy, and implementing a link plugin for the mdx editor. The codebase now supports proper date display, refund policy updates, and improved link functionality in the admin blog page. Several branches, including main and develop, have been merged to integrate these updates seamlessly."
+        }
+    },
+    "profile_summary": null
+}

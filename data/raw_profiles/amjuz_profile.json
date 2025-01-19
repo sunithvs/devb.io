@@ -1,0 +1,150 @@
+{
+    "username": "amjuz",
+    "name": "AMJAD P",
+    "bio": "FULL STACK SOFTWARE DEVELOPER | \r\nB - TECH GRADUATE",
+    "location": "BANGLORE",
+    "avatar_url": "https://avatars.githubusercontent.com/u/137517288?u=32ca7b4b430748a1127650c56b2bbef3acc4a971&v=4",
+    "profile_url": "https://github.com/amjuz",
+    "top_languages": [
+        [
+            "TypeScript",
+            7
+        ],
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nextjs-testing",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/nextjs-testing",
+            "updatedAt": "2025-01-16T15:46:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Authentication",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/amjuz/Authentication",
+            "updatedAt": "2024-12-27T10:58:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "supabase",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/supabase",
+            "updatedAt": "2025-01-18T17:51:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/portfolio",
+            "updatedAt": "2024-11-05T03:23:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "state-management",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/amjuz/state-management",
+            "updatedAt": "2024-11-27T03:04:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Demo-project",
+            "description": null,
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/Demo-project",
+            "updatedAt": "2024-10-15T23:18:38Z",
+            "isPinned": false,
+            "homepage": "https://demo-project-umber.vercel.app"
+        },
+        {
+            "name": "MERN-Testing",
+            "description": null,
+            "score": 0.2724631550724521,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/MERN-Testing",
+            "updatedAt": "2024-05-23T07:08:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "InkBurst",
+            "description": null,
+            "score": 0.2697511023888739,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amjuz/InkBurst",
+            "updatedAt": "2024-06-01T09:03:22Z",
+            "isPinned": false,
+            "homepage": "https://ink-burst.vercel.app"
+        }
+    ],
+    "followers": 4,
+    "following": 10,
+    "public_repos": 32,
+    "pull_requests_merged": 43,
+    "issues_closed": 20,
+    "achievements": {
+        "total_contributions": 255,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Amjad</h1>\n<h3 align=\"center\">Coding the Web: A Deep Dive into Full-Stack Development</h3>\n\n\n<img align=\"right\" src=\"https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU\" alt=\"coding\" width=\"400\" />\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=amjuz&label=Profile%20views&color=0e75b6&style=flat\" alt=\"amjuz\" /> </p>\n\n<p align=\"left\"> <a href=\"https://twitter.com/@amjuz_\" target=\"blank\"><img src=\"https://img.shields.io/twitter/follow/@amjuz_?logo=twitter&style=for-the-badge\" alt=\"@amjuz_\" /></a> </p>\n\n- \ud83c\udf31 I\u2019m currently learning **MERN stack**\n\n- \ud83d\udceb How to reach me **amjupm3@gmail.com**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/@amjuz_\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"@amjuz_\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg\" alt=\"docker\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/nextjs-2.svg\" alt=\"nextjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.postgresql.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://postman.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg\" alt=\"postman\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg\" alt=\"tailwind\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" alt=\"typescript\" width=\"40\" height=\"40\"/> </a> </p>\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=amjuz&show_icons=true&locale=en&layout=compact\" alt=\"amjuz\" /></p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=amjuz&show_icons=true&locale=en\" alt=\"amjuz\" /></p>\n\n<p><img align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=amjuz&\" alt=\"amjuz\" /></p>\n",
+    "activity_summary": {
+        "amjuz/supabase": {
+            "link": "https://github.com/amjuz/supabase",
+            "summary": "Recent activities in the supabase repository include various updates to the post table, UI, and landing page. Additionally, new features such as user and post tables, migration files, and a trigger function for the user table have been added. There have also been updates related to Supabase Edge Function, Drizzle ORM, and schema configurations, indicating ongoing development and refinement of the repository's content."
+        },
+        "amjuz/state-management": {
+            "link": "https://github.com/amjuz/state-management",
+            "summary": "The state-management repository has seen updates including the addition of Postgres Prisma and refactoring of the Redux template. New features such as Todo and Counter have also been added, suggesting efforts to enhance state management capabilities and provide more comprehensive examples or tools."
+        },
+        "minar-kochi/minar-cruise": {
+            "link": "https://github.com/minar-kochi/minar-cruise",
+            "summary": "Activities in the minar-cruise repository are centered around testing, with the initialization of Jest testing configurations and the addition of mocks, indicating a focus on ensuring the reliability and stability of the codebase through rigorous testing practices."
+        },
+        "amjuz/nextjs-testing": {
+            "link": "https://github.com/amjuz/nextjs-testing",
+            "summary": "The nextjs-testing repository has been updated with the initialization of Jest configuration and the addition of new test files, pointing to an emphasis on setting up a robust testing framework for Next.js applications, which is crucial for maintaining code quality and catching bugs early in the development cycle."
+        }
+    },
+    "profile_summary": "I'm Amjad, a full-stack software developer with a strong foundation in TypeScript, JavaScript, and HTML, currently exploring the MERN stack. With a background in computer science and a growing network of peers, I've developed a portfolio of 32 public repositories showcasing my skills and experience. As a detail-driven and curious developer, I'm always looking to expand my expertise and collaborate on innovative projects."
+}

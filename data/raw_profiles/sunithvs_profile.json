@@ -1,0 +1,171 @@
+{
+    "username": "sunithvs",
+    "name": "sunith vs",
+    "bio": "Backend Developer @Eduport | CUSATian  | Engineeeeeeeeeeer",
+    "location": "Perinthalmanna, Malappuram,Kerala ,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63339782?u=675f431caf6eb8fbbb9cbeac62f2f17d20a3948f&v=4",
+    "profile_url": "https://github.com/sunithvs",
+    "top_languages": [
+        [
+            "Python",
+            27
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "TypeScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "devb.io",
+            "description": "DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more portfolio maintenance headaches, just pure coding brilliance on display.",
+            "score": 22.71771648759288,
+            "stars": 72,
+            "forks": 11,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/devb.io",
+            "updatedAt": "2025-01-16T06:49:01Z",
+            "isPinned": true,
+            "homepage": "http://devb.io/"
+        },
+        {
+            "name": "marine-science",
+            "description": "A Django-based web application for managing marine science conference registrations, abstract submissions, and payments. The system provides a complete solution for conference organization, including user authentication, payment processing, and content management.",
+            "score": 11.293727221010986,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/sunithvs/marine-science",
+            "updatedAt": "2025-01-17T08:11:06Z",
+            "isPinned": true,
+            "homepage": "https://marine.cusat.ac.in/"
+        },
+        {
+            "name": "RideBook",
+            "description": "A Django-based ride-sharing platform API that implements core functionalities similar to Uber. This project provides a robust backend system for managing ride bookings, user authentication, and real-time ride tracking.",
+            "score": 10.256693522449861,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/RideBook",
+            "updatedAt": "2024-12-31T04:29:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "youtube-video-summarisation",
+            "description": "A Django web application that generates concise summaries of YouTube videos using Natural Language Processing (NLP). The application extracts the transcript from YouTube videos and creates a summary highlighting the key points.",
+            "score": 10.23093744006031,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/youtube-video-summarisation",
+            "updatedAt": "2024-12-31T06:42:03Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "EOC-FRONTEND",
+            "description": null,
+            "score": 4.755670849410629,
+            "stars": 1,
+            "forks": 8,
+            "language": "JavaScript",
+            "url": "https://github.com/sunithvs/EOC-FRONTEND",
+            "updatedAt": "2022-12-05T07:59:49Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "EOC-BACKEND",
+            "description": null,
+            "score": 4.579008362772675,
+            "stars": 1,
+            "forks": 7,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/EOC-BACKEND",
+            "updatedAt": "2022-12-05T08:00:17Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "drfTemplate",
+            "description": null,
+            "score": 4.320645381752326,
+            "stars": 0,
+            "forks": 16,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/drfTemplate",
+            "updatedAt": "2022-10-07T17:46:02Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "portfolio-session",
+            "description": "A project that includes the basic  assets required for a personal website",
+            "score": 4.0373857144550085,
+            "stars": 3,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/sunithvs/portfolio-session",
+            "updatedAt": "2024-10-21T05:12:37Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 106,
+    "following": 24,
+    "public_repos": 109,
+    "pull_requests_merged": 29,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 1172,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sunithvs/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@sunithvs"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sunithvs_/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://devb.io/sunithvs"
+        }
+    ],
+    "readme_content": "[![main Screenshot](images/main_screenshot.png)](https://devb.io/sunithvs)\n",
+    "activity_summary": {
+        "sunithvs/marine-sc": {
+            "link": "https://github.com/sunithvs/marine-sc",
+            "summary": "Recent activities in the sunithvs/marine-sc repository involve a series of push events, with five updates made on 2025-01-17, focusing on the 'base' and including a commit by 'sunithvs', indicating ongoing development and collaboration within the project."
+        },
+        "sunithvs/auto-pr": {
+            "link": "https://github.com/sunithvs/auto-pr",
+            "summary": "The sunithvs/auto-pr repository has seen significant activity with multiple push events on 2025-01-14, including the creation of a LICENSE, README.md, and banner.svg, as well as updates to README.md, suggesting initial setup and configuration of the project."
+        },
+        "sunithvs/event-checkin": {
+            "link": "https://github.com/sunithvs/event-checkin",
+            "summary": "Activity in the sunithvs/event-checkin repository includes a series of 'init' push events on different dates, specifically 2025-01-14, 2025-01-13, and 2025-01-11, indicating initial project setup and potential ongoing initialization processes."
+        },
+        "sunithvs/poll-flow": {
+            "link": "https://github.com/sunithvs/poll-flow",
+            "summary": "The sunithvs/poll-flow repository saw activity on 2025-01-13 with a push event related to 'private polls' and a merge of the remote-tracking branch 'origin/main', suggesting feature development and integration of changes."
+        },
+        "sunithvs/sunithvs": {
+            "link": "https://github.com/sunithvs/sunithvs",
+            "summary": "There was a push event in the sunithvs/sunithvs repository on 2025-01-13, involving an update to websync.yml, indicating maintenance or configuration adjustments within the project."
+        }
+    },
+    "profile_summary": "As a backend developer with a strong foundation in Python, C, and TypeScript, I design and develop scalable solutions with a focus on simplicity and efficiency. With a network of 106 followers and 109 public repositories, I'm an active contributor to the open-source community, and my work can be explored further at https://devb.io/sunithvs. I'm currently working at Eduport, where I apply my technical expertise to drive innovation and improvement."
+}

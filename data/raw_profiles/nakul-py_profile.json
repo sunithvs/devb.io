@@ -1,0 +1,57 @@
+{
+    "username": "nakul-py",
+    "name": "verma nakul",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173621577?u=65b2c23c72ba2a3e82d6308e8e659eb1bceb9f68&v=4",
+    "profile_url": "https://github.com/nakul-py",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pong-game",
+            "description": null,
+            "score": 2.747666164540862,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/nakul-py/pong-game",
+            "updatedAt": "2024-10-07T15:27:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-hindi",
+            "description": "A python repo",
+            "score": 1.7072990572340658,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nakul-py/git-hindi",
+            "updatedAt": "2024-11-30T10:30:53Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 6,
+    "public_repos": 38,
+    "pull_requests_merged": "100+",
+    "issues_closed": 96,
+    "achievements": {
+        "total_contributions": 538,
+        "repositories_contributed_to": 30
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

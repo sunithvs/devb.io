@@ -1,0 +1,134 @@
+{
+    "username": "abdulazeespr",
+    "name": "abdulazeespr",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/177513808?v=4",
+    "profile_url": "https://github.com/abdulazeespr",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Brainly-frontend-",
+            "description": "Brainly Frontend",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "updatedAt": "2024-12-07T12:22:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Brainly",
+            "description": "this project where add content",
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly",
+            "updatedAt": "2024-11-29T10:15:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "referralplatform",
+            "description": "An open-source referral program platform",
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/referralplatform",
+            "updatedAt": "2024-11-07T07:50:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wd301",
+            "description": "This part of the pupilfirst wd301 project",
+            "score": 0.3111851412795471,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd301",
+            "updatedAt": "2024-09-27T15:29:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wd201",
+            "description": "This part of the pupilfirst wd201 project",
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd201",
+            "updatedAt": "2024-10-27T08:17:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Vscode-landingpage",
+            "description": "This part of the 100xdevs cohort project",
+            "score": 0.2948347119468324,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abdulazeespr/Vscode-landingpage",
+            "updatedAt": "2024-08-26T06:33:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "registration_form",
+            "description": "This part of the pupilfirst wd101 project",
+            "score": 0.2924034339384601,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/registration_form",
+            "updatedAt": "2024-08-19T11:44:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "abdulazeespr/Brainly": {
+            "link": "https://github.com/abdulazeespr/Brainly",
+            "summary": "Recent activities in the Brainly repository include adding new link routes and features to enhance the project's functionality, with the most recent update occurring on November 29, 2024."
+        },
+        "abdulazeespr/referralplatform": {
+            "link": "https://github.com/abdulazeespr/referralplatform",
+            "summary": "The referralplatform repository has seen significant updates, including the integration of basic clerk functionality and edits to the Readme.md file, with the most recent changes taking place on November 7, 2024."
+        },
+        "abdulazeespr/Brainly-frontend-": {
+            "link": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "summary": "Recent activity in the Brainly-frontend- repository includes the addition of a sidebar and card components, with the most recent update occurring on December 7, 2024, indicating ongoing development and refinement of the project's frontend."
+        }
+    },
+    "profile_summary": "As a developer with expertise in TypeScript, JavaScript, and HTML, I build and maintain a range of projects across my 7 public repositories, continually expanding my skills and knowledge in these areas. With a growing professional network, I collaborate and share my work with others, including my single but valued follower. I am committed to writing clean, efficient code and actively contributing to the development community through my open-source projects."
+}

@@ -1,0 +1,146 @@
+{
+    "username": "sameermkd",
+    "name": "Sameer Kongath",
+    "bio": "",
+    "location": "Mannarkkad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/113163615?u=401fb76ea26ed790abedc67f0c9bdbfa0f8ea142&v=4",
+    "profile_url": "https://github.com/sameermkd",
+    "top_languages": [
+        [
+            "Python",
+            18
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "HTML",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "medicineorder",
+            "description": null,
+            "score": 1.5424571491332637,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sameermkd/medicineorder",
+            "updatedAt": "2023-05-27T15:18:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Django-Malayalam-Files",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sameermkd/Django-Malayalam-Files",
+            "updatedAt": "2024-12-15T11:24:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Django-Malayalam-ppt-files",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sameermkd/Django-Malayalam-ppt-files",
+            "updatedAt": "2024-12-15T14:07:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hostdb",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sameermkd/hostdb",
+            "updatedAt": "2024-11-10T05:34:52Z",
+            "isPinned": false,
+            "homepage": "https://hostdb.vercel.app"
+        },
+        {
+            "name": "hospital",
+            "description": null,
+            "score": 0.31729996723826526,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sameermkd/hospital",
+            "updatedAt": "2024-09-29T05:26:15Z",
+            "isPinned": false,
+            "homepage": "https://hospital-jet-beta.vercel.app"
+        },
+        {
+            "name": "host",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sameermkd/host",
+            "updatedAt": "2024-09-22T11:40:11Z",
+            "isPinned": false,
+            "homepage": "https://host-phi-six.vercel.app"
+        },
+        {
+            "name": "excel",
+            "description": null,
+            "score": 0.30533388460794725,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sameermkd/excel",
+            "updatedAt": "2024-12-10T16:38:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Djangot_google-authentication",
+            "description": null,
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sameermkd/Djangot_google-authentication",
+            "updatedAt": "2024-09-04T14:33:08Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 39,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 54,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "sameermkd/excel": {
+            "link": "https://github.com/sameermkd/excel",
+            "summary": "Recent activities in this repository include multiple push events related to MS Excel, such as implementing SUMIF, SUMPRODUCT, VLOOKUP, and Pivot Table functionalities, as well as classes covering various Excel functions like IF, IFERROR, HLOOKUP, and INDEX. These updates demonstrate a focus on enhancing Excel skills and knowledge."
+        },
+        "sameermkd/Django-Malayalam-ppt-files": {
+            "link": "https://github.com/sameermkd/Django-Malayalam-ppt-files",
+            "summary": "This repository has seen recent push events related to Django, including classes on virtual environments and introduction to Django, indicating an effort to develop and share knowledge on Django framework, specifically tailored for Malayalam-speaking audiences."
+        },
+        "sameermkd/hostdb": {
+            "link": "https://github.com/sameermkd/hostdb",
+            "summary": "There have been recent push events in this repository, including edits, suggesting ongoing development or maintenance activities, although the specifics of these edits are not detailed, implying a focus on refining or updating the host database."
+        }
+    },
+    "profile_summary": "I'm Sameer Kongath, a developer with a strong foundation in Python, JavaScript, and HTML, leveraging these skills to build and maintain a diverse portfolio of 39 public repositories. With a growing professional network of 4 followers, I continue to expand my expertise and collaborate with like-minded individuals. Through my projects, I aim to showcase my technical abilities and passion for development, driving innovation and creativity in the coding community."
+}

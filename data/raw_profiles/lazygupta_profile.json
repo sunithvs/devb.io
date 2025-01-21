@@ -1,0 +1,155 @@
+{
+    "username": "lazygupta",
+    "name": "Ankit Kumar",
+    "bio": "\"Talk is cheap. Show me the code.\"",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/138324134?u=f6898a30b5c1d448c35b003e4f2580f98bc1016e&v=4",
+    "profile_url": "https://github.com/lazygupta",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Coding-Problems",
+            "description": null,
+            "score": 11.62280828145768,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/lazygupta/Coding-Problems",
+            "updatedAt": "2024-12-01T10:23:19Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "TellUs-A-Social-Indulge",
+            "description": null,
+            "score": 10.243209726672973,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lazygupta/TellUs-A-Social-Indulge",
+            "updatedAt": "2024-09-03T22:14:47Z",
+            "isPinned": true,
+            "homepage": "https://tellus-chi.vercel.app"
+        },
+        {
+            "name": "Face-Attendance",
+            "description": null,
+            "score": 10.161542657269848,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/lazygupta/Face-Attendance",
+            "updatedAt": "2023-09-22T06:38:19Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RajasthanTourism",
+            "description": null,
+            "score": 10.161542657269848,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/lazygupta/RajasthanTourism",
+            "updatedAt": "2023-09-22T06:31:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "College-Duniya-Web-App",
+            "description": null,
+            "score": 1.5478370183897394,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/lazygupta/College-Duniya-Web-App",
+            "updatedAt": "2023-09-22T06:48:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Landing-Page-Meeting-Room",
+            "description": null,
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lazygupta/Landing-Page-Meeting-Room",
+            "updatedAt": "2025-01-16T22:34:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ThoughtDock-Your-Second-Brain",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/lazygupta/ThoughtDock-Your-Second-Brain",
+            "updatedAt": "2024-12-02T00:01:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Interview-Questions",
+            "description": null,
+            "score": 0.3678690927147456,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/lazygupta/Interview-Questions",
+            "updatedAt": "2024-11-24T17:46:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 6,
+    "public_repos": 26,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 333,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ankitguptacusat/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://leetcode.com/u/lazygupta/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/lazygupta_"
+        }
+    ],
+    "readme_content": "# Hi, I'm Ankit! \ud83d\udc4b <br>\n\n<p align=\"center\">\n<a href=\"https://www.linkedin.com/in/ankitguptacusat/\"><img src=\"https://img.shields.io/badge/Ankit%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white\"/></a>\n<a href=\"mailto:ankit30923@gmail.com\"><img src=\"https://img.shields.io/badge/-ankit30923@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white\"/></a>\n<a href=\"https://x.com/lazygupta_\"><img src=\"https://img.shields.io/twitter/url?color=White&label=Ankit%20Kumar&style=social&url=https%3A%2F%2Ftwitter.com%2FAnkitK\"/></a>\n<a href=\"https://port-folio-two-self.vercel.app/\"><img src=\"https://img.shields.io/badge/website-Ankit%20Kumar-white?style=social&logo=vercel&url=https%3A%2F%2Fport-folio-two-self.vercel.app%2F\"/></a>\n\n\n\n\n</p>\n\n<br>\n\n  \n## \ud83d\ude80 About Me\n\ud83d\udc49 Building & Shipping Products End to End from Scratch. Problem Solver looking to solve problems at scale. \n\nHey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with you:\n\n\ud83d\udc49 JavaScript  <br>\n\ud83d\udc49 TypeScript  <br>\n\ud83d\udc49 ReactJS <br>\n\ud83d\udc49 NextJS  <br>\n\ud83d\udc49 HTML <br>\n\ud83d\udc49 CSS <br>\n\ud83d\udc49 NodeJS <br>\n\ud83d\udc49 ExpressJS <br>\n\ud83d\udc49 MongoDB <br>\n\ud83d\udc49 PostgreSQL <br>\n\ud83d\udc49 C/C++ <br>\n\nHave a Project in my Mind or Want to know anything about me?\n\n<strong> Hit me up: \ud83d\udce7 ankit30923@gmail.com </strong>\n\n  \n## \ud83d\udee0 Tech Stack\n![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\n![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\n![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\n![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;\n![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;\n![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\n![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express.js)&nbsp;\n![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\\\n![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;\n![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\n![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\n![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\n![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\n![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;\n![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;\n<img alt=\"npm\" src=\"https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white\" />\n\n<br>\n\n## \ud83d\udccc Pinned Repositories\n\n<br>\n\n<a href=\"https://github.com/lazygupta/TellUs-A-Social-Indulge\">\n  <img align=\"center\" style=\"margin:2rem\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=TellUs-A-Social-Indulge&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia\" />\n</a>\n\n\n<a href=\"https://github.com/lazygupta/Face-Attendance\">\n  <img align=\"right\" style=\"margin:2rem\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Face-Attendance&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia\" />\n</a>\n\n&nbsp;\n\n<a href=\"https://github.com/lazygupta/Spectra\">\n  <img align=\"center\" style=\"margin:0.5rem\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Spectra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia\" />\n</a>\n\n<a href=\"https://github.com/lazygupta/Railway-Reservation\">\n  <img align=\"right\" style=\"margin:0.5rem\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=lazygupta&repo=Railway-Reservation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia\" />\n</a> \n\n<br>\n<br>\n\n\n## \u2699\ufe0f &nbsp;GitHub Analytics\n<br>\n\n<p align=\"center\">\n<a href=\"https://github.com/lazygupta\">\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=lazygupta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\"/> \n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lazygupta&layout=compact&langs_count=8&theme=algolia\"/>\n</a>\n</p>\n<br>\n\n## \ud83e\udd1d\ud83c\udffb &nbsp;Connect with Me\n\n<br>\n\n<p align=\"center\">\n<a href=\"https://www.linkedin.com/in/ankitguptacusat\"><img src=\"https://img.shields.io/badge/-Ankit%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white\"/></a>\n<a href=\"mailto:ankit30923@gmail.com\"><img src=\"https://img.shields.io/badge/-ankit30923@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white\"/></a>\n<a href=\"https://x.com/lazygupta_\"><img src=\"https://img.shields.io/twitter/url?color=White&label=Ankit%20Kumar&style=social&url=https%3A%2F%2Ftwitter.com%2FAnkitK\"/></a>\n\n</p>\n\n<br>\n",
+    "activity_summary": {
+        "lazygupta/ThoughtDock-Your-Second-Brain": {
+            "link": "https://github.com/lazygupta/ThoughtDock-Your-Second-Brain",
+            "summary": "Recent activities in this repository have focused on enhancing the frontend and backend functionality, including the addition of login and logout capabilities, shared link fixes, and integration of the backend portion. Additionally, routes have been added, and dashboard and authentication functionality have been implemented. The repository has seen significant updates to its frontend, with the completion of the signin, signup, and dashboard components."
+        },
+        "lazygupta/Landing-Page-Meeting-Room": {
+            "link": "https://github.com/lazygupta/Landing-Page-Meeting-Room",
+            "summary": "This repository has seen recent updates, primarily focused on modifying the README.md file. The updates, which occurred on January 16, 2025, suggest that the repository is being maintained and updated with new information or changes to the meeting room landing page."
+        }
+    },
+    "profile_summary": "I'm Ankit Kumar, a skilled developer with expertise in C, TypeScript, and C++, passionate about building and shipping products end-to-end from scratch, with a strong focus on problem-solving and a personal motto of \"talk is cheap, show me the code\". With a diverse tech stack and 26 public repositories, I'm committed to continuously learning and growing as a developer, and I'm excited to collaborate and connect with like-minded individuals through my LinkedIn, Twitter, and GitHub profiles."
+}

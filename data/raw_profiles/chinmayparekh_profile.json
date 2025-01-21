@@ -1,0 +1,132 @@
+{
+    "username": "chinmayparekh",
+    "name": "Chinmay Parekh",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/76399431?v=4",
+    "profile_url": "https://github.com/chinmayparekh",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            8
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Blogspot",
+            "description": "web based blogging platform",
+            "score": 13.103071697911279,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/chinmayparekh/Blogspot",
+            "updatedAt": "2021-03-20T12:54:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "OperatingSystems",
+            "description": null,
+            "score": 11.45881414772901,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/chinmayparekh/OperatingSystems",
+            "updatedAt": "2022-06-09T07:38:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "MyBeats",
+            "description": null,
+            "score": 10.07144378239925,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/chinmayparekh/MyBeats",
+            "updatedAt": "2022-01-23T06:46:15Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DCEL",
+            "description": null,
+            "score": 10.070782389274699,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/chinmayparekh/DCEL",
+            "updatedAt": "2021-11-10T08:30:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "LostAndFound",
+            "description": "web-based lost and found platform using django",
+            "score": 10.070172650486787,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/chinmayparekh/LostAndFound",
+            "updatedAt": "2021-09-02T07:31:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Image-Conversion",
+            "description": null,
+            "score": 10.069088838186213,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/chinmayparekh/Image-Conversion",
+            "updatedAt": "2021-04-02T12:28:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "SE-Lab-Git",
+            "description": null,
+            "score": 6.169989479167661,
+            "stars": 0,
+            "forks": 54,
+            "language": null,
+            "url": "https://github.com/chinmayparekh/SE-Lab-Git",
+            "updatedAt": "2023-08-02T09:22:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-demo-2",
+            "description": null,
+            "score": 3.0778549249019242,
+            "stars": 0,
+            "forks": 6,
+            "language": null,
+            "url": "https://github.com/chinmayparekh/git-demo-2",
+            "updatedAt": "2023-08-02T08:38:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 25,
+    "following": 39,
+    "public_repos": 66,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Chinmay Parekh</h1>\n- \ud83d\udceb Contact : chinmayparekh11@gmail.com\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://linkedin.com/in/chinmay-parekh\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"chinmay-parekh\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://instagram.com/chinmayparekh_\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"chinmayparekh_\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://developer.android.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg\" alt=\"android\" width=\"40\" height=\"40\"/> </a> <a href=\"https://angular.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://angular.io/assets/images/logos/angular/angular.svg\" alt=\"angular\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.djangoproject.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg\" alt=\"django\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://spring.io/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/springio/springio-icon.svg\" alt=\"spring\" width=\"40\" height=\"40\"/> </a> </p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=chinmayparekh&show_icons=true&locale=en\" alt=\"chinmayparekh\" /></p>\n\n",
+    "profile_summary": "I'm a skilled developer with expertise in C, C++, and Python, having built a strong presence with 25 followers and 66 public repositories on GitHub. With a versatile skill set that spans multiple programming languages and tools, including Android, Angular, and Django, I'm committed to delivering high-quality solutions. You can connect with me on LinkedIn at https://linkedin.com/in/chinmay-parekh or reach out to me directly at chinmayparekh11@gmail.com."
+}

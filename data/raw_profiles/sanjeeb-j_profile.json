@@ -1,0 +1,119 @@
+{
+    "username": "sanjeeb-j",
+    "name": "Sanjeeb J ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/170693945?v=4",
+    "profile_url": "https://github.com/Sanjeeb-J",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SCT_Innovate",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Sanjeeb-J/SCT_Innovate",
+            "updatedAt": "2025-01-19T04:09:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JS",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sanjeeb-J/JS",
+            "updatedAt": "2025-01-15T02:21:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "UselessWebsite",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sanjeeb-J/UselessWebsite",
+            "updatedAt": "2024-11-16T13:10:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "My-Codings",
+            "description": null,
+            "score": 0.3001673568831879,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sanjeeb-J/My-Codings",
+            "updatedAt": "2024-11-17T07:33:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "web",
+            "description": null,
+            "score": 0.299763408375859,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sanjeeb-J/web",
+            "updatedAt": "2024-12-28T15:48:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 96,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/channel/UCrVhiHnS0l2F1JBIVzTy3Sw"
+        },
+        {
+            "provider": "generic",
+            "url": "https://sanjeeb-j.github.io/Website/www.linkedin.com/in/sanjeeb-j-7a387b30a"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/__sanju__10__?utm_source=qr"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "Sanjeeb-J/SCT_Innovate": {
+            "link": "https://github.com/Sanjeeb-J/SCT_Innovate",
+            "summary": "Recent activities in the SCT_Innovate repository include multiple push events with minor updates and changes, primarily occurring on January 19, 2025, with commit messages including 'end' and various other updates, indicating ongoing development and refinement of the repository's content."
+        },
+        "Sanjeeb-J/Innovate": {
+            "link": "https://github.com/Sanjeeb-J/Innovate",
+            "summary": "The Innovate repository saw significant activity on January 18, 2025, with several push events containing messages such as 'about', 'almost', 'ok', and 'final', suggesting that the repository is undergoing active development with a focus on incremental progress and potentially nearing completion of certain tasks or features."
+        }
+    },
+    "profile_summary": "I'm Sanjeeb J, a developer with a strong foundation in JavaScript, Python, and HTML, actively maintaining a portfolio of 5 public repositories that showcase my coding skills. With a growing professional network of 2 followers, I'm committed to continuous learning and collaboration. I'm excited to connect with like-minded professionals and contribute to innovative projects that leverage my technical expertise."
+}

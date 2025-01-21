@@ -1,0 +1,122 @@
+{
+    "username": "roqcodes",
+    "name": "Muhammed Ronaq",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/70714201?u=ff3d916e6deae06d63deebd1859d5401498e07af&v=4",
+    "profile_url": "https://github.com/roqcodes",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pcb",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/roqcodes/pcb",
+            "updatedAt": "2024-11-19T17:04:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "roqcodes.github.io",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/roqcodes/roqcodes.github.io",
+            "updatedAt": "2024-10-26T13:34:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RoundUpCart",
+            "description": "A simple ecommerce web app .",
+            "score": 0.2088010850271767,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/roqcodes/RoundUpCart",
+            "updatedAt": "2024-10-25T21:59:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "roqcodes-",
+            "description": null,
+            "score": 0.20336550528576502,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/roqcodes/roqcodes-",
+            "updatedAt": "2024-10-25T22:01:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "streamlit_git",
+            "description": null,
+            "score": 0.06951266126210821,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/roqcodes/streamlit_git",
+            "updatedAt": "2021-06-02T10:42:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "streamlit",
+            "description": null,
+            "score": 0.06949814284957255,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/roqcodes/streamlit",
+            "updatedAt": "2021-05-31T06:57:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "roqcodes.github.io": {
+            "link": "https://github.com/roqcodes/roqcodes.github.io",
+            "summary": "Recent activities include multiple updates to the README.md file, addition of new files, creation of a static.yml file, and several merge operations. The commits were primarily focused on refining the repository's description and structure, indicating a concerted effort to enhance user experience and understanding."
+        },
+        "roqcodes/pcb": {
+            "link": "https://github.com/roqcodes/pcb",
+            "summary": "The repository has seen a sequence of commits, including an initial commit, followed by second, third, and fourth commits. These activities suggest ongoing development and progression of the project, with each commit building upon the previous one to advance the repository's content and functionality."
+        },
+        "roqcodes/uselessGPT": {
+            "link": "https://github.com/roqcodes/uselessGPT",
+            "summary": "The repository has had an initial commit, marking the beginning of its development. Although current activities are limited, this first step lays the groundwork for future contributions and growth, setting the stage for the repository's evolution and potential expansion."
+        }
+    },
+    "profile_summary": "I'm Muhammed Ronaq, a developer with a strong foundation in Python, HTML, and CSS, delivering high-quality solutions through my 7 public repositories. With a growing professional network and a keen interest in collaborative development, I'm committed to continuously improving my skills and contributing to the open-source community. As a detail-driven individual, I strive to create efficient and effective code, evident in my publicly available projects."
+}

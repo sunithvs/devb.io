@@ -1,0 +1,159 @@
+{
+    "username": "jonatandb",
+    "name": "Jonatandb",
+    "bio": "I \u2665 www.SpaceDashboard.com",
+    "location": "Gar\u00edn, Buenos Aires, Argentina.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/8082172?u=a8a0c7bf0d3e6d716f4779783e3f7513ea70b4ec&v=4",
+    "profile_url": "https://github.com/Jonatandb",
+    "top_languages": [
+        [
+            "JavaScript",
+            62
+        ],
+        [
+            "TypeScript",
+            10
+        ],
+        [
+            "C++",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DotCSV-Juego-de-la-vida",
+            "description": "Mi versi\u00f3n del juego de la vida inspirada en la versi\u00f3n realizada por el autor del canal de Youtube -> DotCSV",
+            "score": 19.52417985832647,
+            "stars": 22,
+            "forks": 7,
+            "language": "Python",
+            "url": "https://github.com/Jonatandb/DotCSV-Juego-de-la-vida",
+            "updatedAt": "2023-07-10T17:54:14Z",
+            "isPinned": true,
+            "homepage": "https://replit.com/@Jonatandb/DotCSV-Juego-de-la-vida?v=1"
+        },
+        {
+            "name": "LoginsAdmin-Xamarin-",
+            "description": "LoginsAdmin | Administrador de credenciales (Versi\u00f3n para Android con Xamarin.Forms)",
+            "score": 12.973218099776048,
+            "stars": 3,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Jonatandb/LoginsAdmin-Xamarin-",
+            "updatedAt": "2024-03-13T18:47:14Z",
+            "isPinned": true,
+            "homepage": "https://github.com/Jonatandb/LoginsAdmin-Xamarin-/releases"
+        },
+        {
+            "name": "ReactAvanzadoPlatzi",
+            "description": "Petgram -> Mobile friendly, Pet Instagram clone by Jonatandb",
+            "score": 11.453529231783126,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Jonatandb/ReactAvanzadoPlatzi",
+            "updatedAt": "2021-02-09T04:23:57Z",
+            "isPinned": true,
+            "homepage": "https://petgram-jdb.now.sh"
+        },
+        {
+            "name": "weather-app-with-fastify",
+            "description": "WeatherApp-Fastify",
+            "score": 10.072124595499352,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Jonatandb/weather-app-with-fastify",
+            "updatedAt": "2022-04-13T23:07:24Z",
+            "isPinned": true,
+            "homepage": "https://weatherapp-jdb.web.app"
+        },
+        {
+            "name": "RestaurantPOS-NetMAUI",
+            "description": "Restaurant POS - .Net MAUI Windows App",
+            "score": 6.55663142353174,
+            "stars": 9,
+            "forks": 2,
+            "language": "C#",
+            "url": "https://github.com/Jonatandb/RestaurantPOS-NetMAUI",
+            "updatedAt": "2024-11-28T23:51:04Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "python-flask-js-postgresql-crud",
+            "description": "Python Flask + JS + PostgreSQL - CRUD",
+            "score": 4.477101076581454,
+            "stars": 4,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Jonatandb/python-flask-js-postgresql-crud",
+            "updatedAt": "2024-10-26T08:42:26Z",
+            "isPinned": false,
+            "homepage": "https://flask-js-postgresql-crud.herokuapp.com/"
+        },
+        {
+            "name": "SmartExam",
+            "description": "This is a LLM app, using Streamlit and connecting to the GPT-4o-mini api to create interactive quizzes, based on university lectures",
+            "score": 4.4509506203523275,
+            "stars": 0,
+            "forks": 15,
+            "language": null,
+            "url": "https://github.com/Jonatandb/SmartExam",
+            "updatedAt": "2024-08-06T01:58:34Z",
+            "isPinned": false,
+            "homepage": "https://www.reddit.com/r/SideProject/comments/1ekrqy2/i_made_an_app_that_turns_your_uni_lectures_into/"
+        },
+        {
+            "name": "CursoUdemyReactJSReduxES6",
+            "description": "Mis notas del curso de Udemy: React JS + Redux + ES6. Completo \u00a1De 0 a experto! (espa\u00f1ol) - ",
+            "score": 3.945751824123411,
+            "stars": 3,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Jonatandb/CursoUdemyReactJSReduxES6",
+            "updatedAt": "2023-12-05T06:41:59Z",
+            "isPinned": false,
+            "homepage": "https://jonatandb.github.io/CursoUdemyReactJSReduxES6/"
+        }
+    ],
+    "followers": 36,
+    "following": 44,
+    "public_repos": 298,
+    "pull_requests_merged": 7,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 1420,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/jonatandb"
+        }
+    ],
+    "readme_content": "\n---\n\n<h2 align=\"center\">\ud83d\udc4b Hi, I\u2019m Jonatandb \ud83d\udc68\ud83c\udffb\u200d\ud83d\ude80</h2>\n\n<h3>\ud83d\udc40 I'm interested in improving my programming skills.</h3>\n\n<h3>\ud83c\udf31 I\u2019m currently learning C!</h3>\n\n<h3>\ud83d\udceb Contact me -> https://jonatandb.dev.ar/</h3>\n\n--- \n<h2 align=\"center\">\n\n  [![Linkedin: Jonatandb](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&label=Jonatandb&link=https://www.linkedin.com/in/jonatandb/)](https://www.linkedin.com/in/jonatandb/)\n  [![GitHub Follow](https://img.shields.io/github/followers/jonatandb?label=Follow%20jonatandb&style=social)](https://github.com/jonatandb)\n  [![Twitter Follow](https://img.shields.io/twitter/follow/jonatandb?style=social)](https://twitter.com/jonatandb)\n<br>  \n  [![](https://visitcount.itsvg.in/api?id=Jonatandb&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)\n\n</h2>\n\n\n---\n\n\n<h2>\n  \u2139\ufe0f &nbsp;Github Info\n</h2>\n\n<h2 align=\"center\">\n  \n  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatandb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)\n  \n</h2>\n\n<summary>\n  <b>\n    \ud83d\udd25 Github Streaks\n  </b>\n</summary>\n\n<p align=\"center\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=jonatandb&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397\" alt=\"Jonatandb\" />\n</p>\n\n<summary>\n  <b>\n    \u26a1 Github Stats\n  </b>\n</summary>\n\n<p align=\"center\">\n  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=jonatandb&hide_border=true&count_private=true&show_icons=true&theme=radical\" alt=\"Jonatandb\" align = \"center\" />\n</p>\n\n\n\n<summary>\n  <b>\n    \ud83c\udfc6 Github Achievements\n  </b>\n</summary>\n\n<p align=\"center\">\n  <a href=\"https://github.com/jonatandb\">\n    <img src=\"https://github-profile-trophy.vercel.app/?username=jonatandb&margin-w=5&theme=radical\" alt=\"Jonatandb\" />\n  </a>\n\n\n\n\n<!---\nJonatandb/Jonatandb is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {
+        "Jonatandb/MiPresion": {
+            "link": "https://github.com/Jonatandb/MiPresion",
+            "summary": "Recent activities include multiple PushEvents with updates to the production build, refactoring of components such as the Logo component and BloodPressureLevels, and fixes to level compute and package.json updates with project information."
+        },
+        "Jonatandb/threejs_portfolio": {
+            "link": "https://github.com/Jonatandb/threejs_portfolio",
+            "summary": "The repository has seen recent PushEvents, including updates to the readme, Vite config modifications for subdomain builds, production build updates, and improvements to email contact data information."
+        },
+        "Jonatandb/comprehensive-rust": {
+            "link": "https://github.com/Jonatandb/comprehensive-rust",
+            "summary": "Activities involve PushEvents with a focus on fixing accessibility violations, updating timings for course segments, reordering type aliases, and translating course length, showcasing ongoing maintenance and improvements to the repository."
+        },
+        "Jonatandb/register": {
+            "link": "https://github.com/Jonatandb/register",
+            "summary": "Recent activities include PushEvents with the creation and updates of various JSON domain configuration files, such as carterr-pham23.json and vrivera.json, indicating additions and modifications to domain settings."
+        },
+        "Tomas-vilte/MateCommit": {
+            "link": "https://github.com/Tomas-vilte/MateCommit",
+            "summary": "A recent PullRequestEvent aimed at updating the CONTRIBUTING.md file, specifically fixing accents and commas, reflects collaborative efforts towards repository documentation improvement."
+        }
+    },
+    "profile_summary": "I'm a skilled developer with expertise in JavaScript, TypeScript, and C++, passionate about creating innovative solutions and constantly improving my programming skills, as seen in my 298 public repositories and active learning pursuits, including currently learning C. With a strong online presence, including 36 GitHub followers and a personal website at https://jonatandb.dev.ar/, I'm excited to collaborate and contribute to the development community, and can be found online at https://www.linkedin.com/in/jonatandb/."
+}

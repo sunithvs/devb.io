@@ -1,0 +1,138 @@
+{
+    "username": "jomin8186",
+    "name": "Jomin Binny",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/87858364?v=4",
+    "profile_url": "https://github.com/Jomin8186",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "C#",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "skills-connect-the-dots",
+            "description": "My clone repository",
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/skills-connect-the-dots",
+            "updatedAt": "2024-12-01T11:42:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-secure-repository-supply-chain",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Jomin8186/skills-secure-repository-supply-chain",
+            "updatedAt": "2024-12-01T14:21:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-communicate-using-markdown-2",
+            "description": "My clone repository",
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/skills-communicate-using-markdown-2",
+            "updatedAt": "2024-11-25T20:26:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-introduction-to-github",
+            "description": "My clone repository",
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/skills-introduction-to-github",
+            "updatedAt": "2024-11-25T19:22:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "web-redesign",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/web-redesign",
+            "updatedAt": "2024-11-14T17:56:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Jomin_Binny",
+            "description": null,
+            "score": 0.34961290756276386,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/Jomin_Binny",
+            "updatedAt": "2024-11-10T22:06:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.34961290756276386,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jomin8186/skills-communicate-using-markdown",
+            "updatedAt": "2024-11-13T15:55:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PRODIGY_WD_01",
+            "description": null,
+            "score": 0.30579326699360104,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Jomin8186/PRODIGY_WD_01",
+            "updatedAt": "2024-11-19T06:56:49Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 14,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 63,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jomin-binny-a51238224"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": "I'm Jomin Binny, a skilled developer with expertise in JavaScript, C#, and CSS, leveraging these technologies to drive innovative solutions. With a portfolio of 14 public repositories, I've demonstrated my ability to actively develop and share my work with the community. As I continue to grow my professional network, I'm excited to collaborate and contribute to open-source projects, further refining my skills and expertise in software development."
+}

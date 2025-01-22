@@ -1,0 +1,141 @@
+{
+    "username": "saxena100parth",
+    "name": "Parth saxena",
+    "bio": "I am fluid, focused and willing to learn new things. In all, I believe in \"Jack of all, Master of some\".",
+    "location": "Noida, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/87128985?u=2e8a685d15bbc238446eb763d4ff26493da41ae9&v=4",
+    "profile_url": "https://github.com/saxena100parth",
+    "top_languages": [
+        [
+            "JavaScript",
+            10
+        ],
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Java",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Talk-Wave",
+            "description": "Talk-wave is a chat web application that allows users to engage in real-time conversations.",
+            "score": 12.35659317117527,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saxena100parth/Talk-Wave",
+            "updatedAt": "2023-09-12T12:23:20Z",
+            "isPinned": true,
+            "homepage": "https://talk-wave-by-parth.onrender.com/"
+        },
+        {
+            "name": "Memories",
+            "description": "A full stack app with MERN tech",
+            "score": 12.348711494473498,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saxena100parth/Memories",
+            "updatedAt": "2023-08-10T00:08:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CinePreview_backend",
+            "description": "This repo contain backend code for movie review application.",
+            "score": 11.540797837061781,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/saxena100parth/CinePreview_backend",
+            "updatedAt": "2023-08-02T17:00:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Book_my_Movie_backend",
+            "description": "created with spring boot",
+            "score": 10.153290480426215,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/saxena100parth/Book_my_Movie_backend",
+            "updatedAt": "2023-04-08T03:45:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Pig-Game-with-HTML-CSS-JS",
+            "description": null,
+            "score": 10.073360682302491,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saxena100parth/Pig-Game-with-HTML-CSS-JS",
+            "updatedAt": "2022-07-26T06:21:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Weather-react-app",
+            "description": null,
+            "score": 10.073360682302491,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/saxena100parth/Weather-react-app",
+            "updatedAt": "2022-07-26T04:08:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "lavi",
+            "description": null,
+            "score": 0.16241731575520324,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/saxena100parth/lavi",
+            "updatedAt": "2023-10-08T10:35:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "f4-c3",
+            "description": null,
+            "score": 0.1601494668397962,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/saxena100parth/f4-c3",
+            "updatedAt": "2023-08-26T17:34:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 49,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 13,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/parth23saxena/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://github.com/parth11beelabs"
+        }
+    ],
+    "readme_content": "\n<!-- https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif -->\n\n\n# \ud83d\udcab    <span align=\"center\"> <strong> Full Stack Developer </strong>  </span>\n\n \ud83d\udd2d Experienced in MERN stack for over 1.5 year, with expertise in Express, MongoDB, and Next.js, Specialize in developing secure REST APIs, emphasizing clean and modular code with proactive issue management.\n\n \ud83e\udd1d I'm currently seeking a job opportunity in a dynamic and forward-thinking company that can effectively leverage my creative talents and innovative capabilities.\n\n <img  align=\"right\" width=\"350\" src = \"https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif\">  \n\n <strong> ![Static Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social&link=https%3A%2F%2Fwww.jobsyahan.com%2Fen)\n </strong> [![JobsYahan](https://jobsyahan-v3.s3.ap-south-1.amazonaws.com/svg-icons/jobsyahaanmain.svg?logo=Github&logoColor=White)](https://www.jobsyahan.com/en)  <br>\n<strong> ![Static Badge](https://img.shields.io/badge/Active%20GitHub%20Account%20%3A--8A2BE2?style=social)\n </strong> [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/parth11beelabs)\n \n### \ud83c\udf10 Socials:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth23saxena/)\n[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saxena100parth)\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_parth_23_/) \n\n### \ud83d\udcbb Tech Stack:\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) \n![TypeScript](https://img.shields.io/badge/typescript-%23324440.svg?style=flat&logo=typescript&logoColor=blue)\n![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) \n![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) \n![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)\n![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) \n![Redis](https://img.shields.io/badge/redis-%23593d88.svg?style=flat&logo=redis&logoColor=white) \n![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) \n![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?style=flat&logo=firebase&logoColor=white) \n![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) \n![docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=flat&logo=docker&logoColor=white) \n![ejs](https://img.shields.io/badge/ejs-%231572B6.svg?style=flat&logo=ejs&logoColor=white) \n![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white)  \n![aws](https://img.shields.io/badge/AWS-%23430098.svg?style=flat&logo=AWS&logoColor=white) \n![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) \n![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)\n\n### \ud83d\udcca GitHub Stats:\n<!-- ![](https://github-readme-stats.vercel.app/api?username=saxena100parth&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/> -->\n\n![](https://github-readme-streak-stats.herokuapp.com/?user=saxena100parth&theme=tokyonight&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena100parth&theme=tokyonight&layout=compact)\n\n\n",
+    "profile_summary": null
+}

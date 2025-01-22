@@ -1,0 +1,132 @@
+{
+    "username": "ardra-p",
+    "name": "Ardra p",
+    "bio": "appuardra5@gmail.com",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/165270747?v=4",
+    "profile_url": "https://github.com/ardra-p",
+    "top_languages": [
+        [
+            "CSS",
+            11
+        ],
+        [
+            "HTML",
+            10
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "samplepf",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ardra-p/samplepf",
+            "updatedAt": "2025-01-22T15:09:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iPhone-site",
+            "description": null,
+            "score": 11.701845332006357,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ardra-p/iPhone-site",
+            "updatedAt": "2024-09-29T13:41:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RESPONSIVE-FINAL-",
+            "description": null,
+            "score": 10.312774293568184,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ardra-p/RESPONSIVE-FINAL-",
+            "updatedAt": "2024-09-24T13:35:22Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Netflix-clone-website",
+            "description": null,
+            "score": 10.26283003664132,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ardra-p/Netflix-clone-website",
+            "updatedAt": "2024-03-28T13:54:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Iphone-site-2",
+            "description": null,
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ardra-p/Iphone-site-2",
+            "updatedAt": "2024-10-15T18:45:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iPhone-shop",
+            "description": null,
+            "score": 0.3178977130047066,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ardra-p/iPhone-shop",
+            "updatedAt": "2024-10-02T17:47:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iphone-responsive",
+            "description": null,
+            "score": 0.3161267557513874,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ardra-p/iphone-responsive",
+            "updatedAt": "2024-09-29T18:56:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Responsive-last-",
+            "description": null,
+            "score": 0.3122384323533469,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ardra-p/Responsive-last-",
+            "updatedAt": "2024-09-23T15:57:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 4,
+    "public_repos": 25,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 105,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm a skilled web developer with expertise in CSS, HTML, and JavaScript, actively building and maintaining a portfolio of 25 public repositories. As a professional with a growing network, I'm committed to delivering high-quality solutions and collaborating with others in the development community. You can reach me at appuardra5@gmail.com to explore potential opportunities or discuss my work."
+}

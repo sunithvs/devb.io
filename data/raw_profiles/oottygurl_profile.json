@@ -1,0 +1,35 @@
+{
+    "username": "oottygurl",
+    "name": "oottygurl",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/171919716?v=4",
+    "profile_url": "https://github.com/oottygurl",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "website",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/oottygurl/website",
+            "updatedAt": "2025-01-22T15:01:55Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a dedicated developer, I specialize in building innovative solutions with a focus on my core technical skills, actively contributing to open-source projects through my public repositories. With a growing presence on GitHub, I'm excited to collaborate and expand my professional network. I'm committed to continuously developing and refining my skills, with a current portfolio showcasing my work through one public repository."
+}

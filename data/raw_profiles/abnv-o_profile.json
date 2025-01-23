@@ -1,0 +1,86 @@
+{
+    "username": "abnv-o",
+    "name": "Abhinav O",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105405861?u=4e197c6c5c9364574103ebace0c4fdacac0e6212&v=4",
+    "profile_url": "https://github.com/abnv-o",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "network_packet_sniffer",
+            "description": null,
+            "score": 0.29896678056375503,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abnv-o/network_packet_sniffer",
+            "updatedAt": "2024-08-25T15:58:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Kaleidoscope",
+            "description": "A simple kaleidoscope using javascript",
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abnv-o/Kaleidoscope",
+            "updatedAt": "2024-05-29T17:11:09Z",
+            "isPinned": false,
+            "homepage": "https://kaleidoscope-theta.vercel.app"
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abnv-o/portfolio",
+            "updatedAt": "2024-12-29T08:57:29Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-dun-alpha-91.vercel.app"
+        },
+        {
+            "name": "abnv-o",
+            "description": null,
+            "score": 0.26439529872723855,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abnv-o/abnv-o",
+            "updatedAt": "2024-04-07T15:56:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 143,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "# Greetings, \ud83d\udc4b I'm Abhinav O\n\nWelcome to the vibrant world of my GitHub playground! \ud83c\udf89 Here, we embark on thrilling journeys through code and creativity, crafting digital wonders together.\n\n## A Peek into My Universe\n\nI'm currently embarking on the thrilling journey of pursuing my B.Tech in Information Technology, wielding the spirit of a cosmic explorer! \ud83d\ude80 While web development serves as my main fuel, propelling me into the boundless expanse of computer science, I'm not confined solely to its realm. As a freelance web developer and tutor, I sprinkle programming magic like confetti! \ud83c\udf93\ud83d\udcbb . I'm fervently exploring other captivating domains within computer science, driven by an insatiable curiosity to delve deeper and uncover more treasures.\n\n## Skills at Warp Speed\n\n- **Web Wizardry:** Picture this: crafting enchanting web experiences with React.js, Next.js, and the mystical powers of JavaScript\u2014it's where I excel!\n- **Languages:** Fluent in the tongues of JavaScript, C, C++, and Java\u2014because who can resist the allure of a juicy coding challenge, right?\n- **Teaching Tales:** Ever heard of the power of knowledge-sharing? It's my secret weapon! Let's embark on a journey of growth and learning together. \ud83c\udf31\n\n## Let's Chart a Course!\n\nFeeling the urge to connect? Reach out through these cosmic channels:\n\n- **LinkedIn:** [Join me on this voyage!](https://www.linkedin.com/in/abhinav-o/) \ud83e\udd1d\n- **Instagram:** [Hop on board my journey](https://www.instagram.com/abhi_nav.o/?next=%2F) \ud83d\udcf8\n- **Email:** Dive into the depths of conversation at abhinavrajesh2002@gmail.com \ud83d\udce7\n\n## Ready for Liftoff?\n\nWhether it's sparking new ideas, collaborating on projects, or simply swapping memes, I'm all ears! \ud83e\udd13 Don't hesitate\u2014let's conjure up some tech wizardry together.\n\nThanks for stepping into this cosmic realm, and let's weave our dreams into the fabric of reality through code! \ud83d\udcab\u2728\n\nCatch you on the digital flip side,  \nAbhinav O\n",
+    "activity_summary": {
+        "abnv-o/portfolio": {
+            "link": "https://github.com/abnv-o/portfolio",
+            "summary": "Recent activities in the portfolio repository include significant updates, such as the deletion of old files and the introduction of version 2, which is currently a work in progress. Additionally, the repository has seen improvements in search engine optimization, including the addition of a Google Search Console verification file and a meta tag, to enhance its online visibility and search ranking."
+        }
+    },
+    "profile_summary": "I'm Abhinav O, a curious and passionate web developer with a strong foundation in JavaScript and Python. As a freelance web developer and tutor, I enjoy crafting digital experiences and sharing my knowledge with others, with a portfolio of 7 public repositories showcasing my active development endeavors. With a background in computer science and a flair for web wizardry, I'm excited to collaborate and explore new ideas in the world of code and creativity."
+}

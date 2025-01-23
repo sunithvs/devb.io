@@ -1,0 +1,151 @@
+{
+    "username": "alvin-dennis",
+    "name": "Alvin Dennis",
+    "bio": "",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/134829236?u=f42a4216dcf58b8478c444fa41d0768cbff58f91&v=4",
+    "profile_url": "https://github.com/alvin-dennis",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "HTML",
+            17
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Personal-Portfolio-2.0",
+            "description": "A personal developer portfolio created using Astro, Shadcn-UI, Tailwind CSS and React. This is a single page portfolio made as a bento grid.",
+            "score": 15.702102569922813,
+            "stars": 8,
+            "forks": 1,
+            "language": "Astro",
+            "url": "https://github.com/alvin-dennis/Personal-Portfolio-2.0",
+            "updatedAt": "2024-11-26T11:17:48Z",
+            "isPinned": true,
+            "homepage": "https://resume.alvindennis.tech"
+        },
+        {
+            "name": "Sjcet-Events",
+            "description": null,
+            "score": 13.575375946276177,
+            "stars": 0,
+            "forks": 8,
+            "language": "Vue",
+            "url": "https://github.com/alvin-dennis/Sjcet-Events",
+            "updatedAt": "2025-01-23T03:31:39Z",
+            "isPinned": true,
+            "homepage": "https://sjcet-events.vercel.app"
+        },
+        {
+            "name": "alvin-dennis",
+            "description": "Config files for my GitHub profile.",
+            "score": 10.236711575107277,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/alvin-dennis/alvin-dennis",
+            "updatedAt": "2025-01-23T01:20:27Z",
+            "isPinned": true,
+            "homepage": "https://github.com/alvin-dennis"
+        },
+        {
+            "name": "Hello-OpenSource",
+            "description": null,
+            "score": 7.949732491139091,
+            "stars": 2,
+            "forks": 31,
+            "language": "HTML",
+            "url": "https://github.com/alvin-dennis/Hello-OpenSource",
+            "updatedAt": "2025-01-23T03:29:40Z",
+            "isPinned": false,
+            "homepage": "https://hello-opensource.vercel.app"
+        },
+        {
+            "name": "Gdrive-Portal",
+            "description": null,
+            "score": 3.203763332173363,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/alvin-dennis/Gdrive-Portal",
+            "updatedAt": "2025-01-21T11:08:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "shadow-dev",
+            "description": null,
+            "score": 2.6922185052244174,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/alvin-dennis/shadow-dev",
+            "updatedAt": "2024-04-26T17:09:22Z",
+            "isPinned": false,
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=ShadowSpectrum.shadow-dev"
+        },
+        {
+            "name": "LMS",
+            "description": null,
+            "score": 1.6234054199662271,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/alvin-dennis/LMS",
+            "updatedAt": "2024-05-10T10:46:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EleGuard",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/alvin-dennis/EleGuard",
+            "updatedAt": "2025-01-17T04:26:04Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 53,
+    "following": 33,
+    "public_repos": 76,
+    "pull_requests_merged": 33,
+    "issues_closed": 30,
+    "achievements": {
+        "total_contributions": 507,
+        "repositories_contributed_to": 37
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_a.lvin._"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/alvin-dennis-0a70ba163/"
+        }
+    ],
+    "readme_content": "[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](https://alvindennisv1.vercel.app/)\n<h1 align=\"center\">Hi \ud83d\udc4b, I'm Alvin</h1>\n<h3 align=\"center\">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>\n\n\n <p align=\"center\"><a href=\"https://github.com/alvin-dennis/\"><img src=\"https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30\"></a></p>\n\n###\n<br>\n<hr>\n<div align=\"center\">\n  <img src=\"https://profile-counter.glitch.me/alvin-dennis/count.svg?\"  />\n</div>\n<br/>\n\n###\n\n\n<p align=\"center\">\n  <a href=\"https://alvindennis.tech/\" target=\"_blank\" style=\"text-decoration: none;\">\n    <button style=\"background-color: #0078D4; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;\">Portfolio</button>\n  </a>\n  <span style=\"margin: 0 10px; font-size: 16px; color: #000;\">|</span>\n  <a href=\"https://resume.alvindennis.tech\" target=\"_blank\" style=\"text-decoration: none;\">\n    <button style=\"background-color: #FF6F61; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;\">Resume</button>\n  </a>\n</p>\n\n\n\n\n<br>\n<!-- <style></style> -->\n\n\n\n<img align=\"right\" alt=\"Coding\"  width=\"320\" src=\"https://octodex.github.com/images/daftpunktocat-thomas.gif\">\n\n<b> About Me</b>\n\n\n ![](https://img.shields.io/badge/\ud83d\udd2d%20I\u2019m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)\n\n \n ![](https://img.shields.io/badge/\ud83c\udf31%20I\u2019m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Discord.py%20Bot%20Development%20-%23563D7C?style=for-the-badge) \n \n ![](https://img.shields.io/badge/\ud83d\udcac%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Tech%20-%23E34F26?style=for-the-badge)\n \n \n![](https://img.shields.io/badge/\ud83d\udceb%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alvindennis80@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)\n\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"/>\n\n<h3 align=\"left\"> Socials</h3>\n<a href=\"https://linkedin.com/in/alvin-dennis-0a70ba163\" target=\"blank\"> <p align=\"center\"> <img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"Alvin Dennis\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://instagram.com/_a.lvin._\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"Alvin Dennis\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<br>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"></a>\n\n\n\n<h2 align=\"left\">Languages and Tools</h2>\n\n<p align=\"center\">\n  <a href=\"https://skillicons.dev\">\n    <img src=\"https://skillicons.dev/icons?i=html,css,python,django,c,latex,markdown,javascript,react,vite,vue,astro,nodejs,webpack,tailwindcss,bootstrap,scss,mongodb,mysql,supabase,firebase,postgres,prisma,anaconda,fastapi,bots,figma,babel,vscode,pycharm,codepen,bash,powershell,github,githubactions,vercel,netlify,heroku,webflow,gcp,git,postman,selenium,tensorflow,notion,arduino,raspberrypi,matlab&perline=8\" />\n  </a>\n</p>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"></a>\n\n<div align=\"center\">\n \n![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)\n</div>\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"></a>\n\n\n\n<h3 align=\"left\">GitHub Stats</h3>\n\n</br>\n\n<p align=\"center\">\n \n  <!--- stats (start) -->\n<table align=\"center\">\n<tr border=\"none\">\n<td width=\"50%\" align=\"center\">\n  \n  <img  align=\"center\"  src=\"https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false\" />\n  <br></br>\n  <img  align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false\" alt=\"GitHub Streaks\"/> \n</td>\n\n<td width=\"50%\" align=\"center\">\n\n  <img  align=\"center\"  src=\"https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvin-dennis&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10\"/>\n  \n  </td>\n</tr>\n</table>\n\n<!--START_SECTION:waka-->\n\n```txt\nFrom: 09 May 2024 - To: 22 January 2025\n\nTotal Time: 215 hrs 44 mins\n\nJavaScript      47 hrs 33 mins  >>>>>--------------------   21.75 %\nPython          40 hrs 7 mins   >>>>>--------------------   18.35 %\nHTML            25 hrs 2 mins   >>>----------------------   11.45 %\nVue.js          23 hrs 21 mins  >>>----------------------   10.68 %\nAstro           20 hrs 24 mins  >>-----------------------   09.33 %\n```\n\n<!--END_SECTION:waka-->\n\n<p align=\"center\"> <a href=\"https://github.com/ryo-ma/github-profile-trophy\"><img src=\"https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark\" alt=\"alvin-dennis\" /></a> </p>\n\n<div align=\"center\">\n  <img width=\"868px\" src=\"https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark\" alt=\"Alvin Dennis\"/>\n</div>\n\n\n \n<br>\n \n <div align=\"center\">\n <p align=\"center\"\">\n<img src=\"https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif\" width=\"20%\">\n</p>\n\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"></a>\n\n<br>\n\n<div></div>\n</div>\n",
+    "activity_summary": {
+        "alvin-dennis/Sjcet-Events": {
+            "link": "https://github.com/alvin-dennis/Sjcet-Events",
+            "summary": "Recent activities include the addition of a feature to edit existing events, updates to the AddEventForm.vue with date validation, and fixes for bugs in DisplayEvents.vue to improve mobile responsiveness. Multiple pull requests have been merged, enhancing the overall functionality and user experience of the repository."
+        },
+        "CipherEnigma/StandOut-Platform": {
+            "link": "https://github.com/CipherEnigma/StandOut-Platform",
+            "summary": "Significant updates have been made, including the resolution of a quiz page issue, alignment adjustments for the header and footer, and the addition of form validation and a chatbot. Furthermore, enhancements to the user interface have been implemented, such as making database links clickable, and workflows for issues and pull requests have been established to streamline repository management."
+        }
+    },
+    "profile_summary": "As a passionate frontend web developer and tech enthusiast from Kerala, India, I leverage my proficiency in Python, JavaScript, and HTML to craft innovative solutions, with a strong network of 53 followers and 76 public repositories showcasing my active development endeavors. I'm currently working on my web development prowess and learning discord.py bot development, with a portfolio available at alvindennis.tech and resume at resume.alvindennis.tech."
+}

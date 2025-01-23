@@ -1,0 +1,104 @@
+{
+    "username": "octocat",
+    "name": "The Octocat",
+    "bio": "",
+    "location": "San Francisco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/583231?u=a59fef2a493e2b67dd13754231daf220c82ba84d&v=4",
+    "profile_url": "https://github.com/octocat",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Spoon-Knife",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 36.949997152567995,
+            "stars": 12792,
+            "forks": 148352,
+            "language": "HTML",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "updatedAt": "2025-01-23T11:29:20Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Hello-World",
+            "description": "My first repository on GitHub!",
+            "score": 27.84621764843972,
+            "stars": 2819,
+            "forks": 2576,
+            "language": null,
+            "url": "https://github.com/octocat/Hello-World",
+            "updatedAt": "2025-01-23T10:35:27Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "octocat.github.io",
+            "description": null,
+            "score": 22.331873697912464,
+            "stars": 769,
+            "forks": 366,
+            "language": "CSS",
+            "url": "https://github.com/octocat/octocat.github.io",
+            "updatedAt": "2025-01-23T11:04:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hello-worId",
+            "description": "My first repository on GitHub.",
+            "score": 20.586062566828286,
+            "stars": 506,
+            "forks": 199,
+            "language": null,
+            "url": "https://github.com/octocat/hello-worId",
+            "updatedAt": "2025-01-18T23:14:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-consortium",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 19.118787431296717,
+            "stars": 391,
+            "forks": 105,
+            "language": null,
+            "url": "https://github.com/octocat/git-consortium",
+            "updatedAt": "2025-01-19T10:15:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test-repo1",
+            "description": null,
+            "score": 16.51028382019249,
+            "stars": 295,
+            "forks": 26,
+            "language": null,
+            "url": "https://github.com/octocat/test-repo1",
+            "updatedAt": "2025-01-18T23:14:40Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16672,
+    "following": 9,
+    "public_repos": 203,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm a seasoned web developer with expertise in CSS and HTML, building on my experience with 203 public repositories and a network of over 16,000 followers. With a strong foundation in front-end development, I create efficient and effective solutions that drive results. As a passionate advocate for clean code and collaborative development, I'm always looking to push the boundaries of what's possible with web technology."
+}

@@ -1,0 +1,92 @@
+{
+    "username": "dstftw",
+    "name": "Sergey M.",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1908898?v=4",
+    "profile_url": "https://github.com/dstftw",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "qosdnotification",
+            "description": "Simple OSD notifications implementation written in Qt",
+            "score": 14.803153022071198,
+            "stars": 5,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/dstftw/qosdnotification",
+            "updatedAt": "2024-06-27T09:35:07Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "qraiden",
+            "description": "Simple Raiden cipher implementation",
+            "score": 14.480488601103104,
+            "stars": 3,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/dstftw/qraiden",
+            "updatedAt": "2022-01-09T19:23:30Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "qtscriptgenerator",
+            "description": "Qt 5 bindings for QtScript",
+            "score": 13.09418562070136,
+            "stars": 1,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/dstftw/qtscriptgenerator",
+            "updatedAt": "2018-04-01T00:27:28Z",
+            "isPinned": true,
+            "homepage": "http://blog.sjinks.pro/c-cpp/qt/994-qtscriptgenerator-for-qt-5/"
+        },
+        {
+            "name": "dstftw.github.io",
+            "description": null,
+            "score": 1.1017708241794133,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/dstftw/dstftw.github.io",
+            "updatedAt": "2016-05-31T14:37:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pbs-stations",
+            "description": "Public Broadcasting Service (PBS) member stations grabber",
+            "score": 1.101360677794862,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/dstftw/pbs-stations",
+            "updatedAt": "2015-12-09T14:09:03Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 476,
+    "following": 0,
+    "public_repos": 29,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm Sergey M., a skilled developer with expertise in C++ and Python, leveraging my technical abilities to build innovative solutions across 29 public repositories, with a strong professional network of 476 followers. My coding journey is driven by a passion for creating efficient and scalable code, as evident in my repositories. With a focus on collaborative development, I continue to expand my skill set and contribute to the open-source community."
+}

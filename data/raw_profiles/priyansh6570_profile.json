@@ -1,0 +1,159 @@
+{
+    "username": "priyansh6570",
+    "name": "Priyansh Mishra",
+    "bio": "Hey there, I'm Priyansh Mishra, your friendly neighborhood tech enthusiast! I'm passionate about all things innovative and love diving into new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92854250?u=22c2f64a0bef8267c30f91ab701765adf699d7fd&v=4",
+    "profile_url": "https://github.com/Priyansh6570",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GeoCountyMapper",
+            "description": "python script to get the county from latitude and longitude using OpenStreetMap's Nominatim API",
+            "score": 10.379627303915976,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Priyansh6570/GeoCountyMapper",
+            "updatedAt": "2024-12-04T05:41:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FocusTrack",
+            "description": null,
+            "score": 10.26283003664132,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/FocusTrack",
+            "updatedAt": "2024-06-18T16:11:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Social-Media-Fake-Profile-Detection",
+            "description": null,
+            "score": 10.259343938088357,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Priyansh6570/Social-Media-Fake-Profile-Detection",
+            "updatedAt": "2024-03-05T06:57:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Project-Ar-Object-Transfer",
+            "description": "Real World Object Transfer Using AR with realtime objection isolation using BASNet. ",
+            "score": 10.257859951228694,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Priyansh6570/Project-Ar-Object-Transfer",
+            "updatedAt": "2024-11-29T09:09:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CssTricksCard",
+            "description": null,
+            "score": 10.074204316450393,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Priyansh6570/CssTricksCard",
+            "updatedAt": "2022-10-03T08:53:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "videoHub-react-chakra-App",
+            "description": null,
+            "score": 1.1144082553428931,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/videoHub-react-chakra-App",
+            "updatedAt": "2022-11-08T19:30:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-quiz-app",
+            "description": null,
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/django-quiz-app",
+            "updatedAt": "2024-12-18T16:44:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bird-Watch-Dashboard",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/Bird-Watch-Dashboard",
+            "updatedAt": "2024-12-12T18:14:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 10,
+    "public_repos": 41,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 77,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/priyansh6570/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "Priyansh6570/devb.io": {
+            "link": "https://github.com/Priyansh6570/devb.io",
+            "summary": "Recent activities on devb.io include multiple push events, with a primary focus on implementing scroll synchronization between left and right sections on user profile and 404 pages. These updates also involve feature additions for a 2024 wrapped animation and poster releases, indicating ongoing development and enhancement of the repository's content and interactive features."
+        },
+        "Priyansh6570/django-quiz-app": {
+            "link": "https://github.com/Priyansh6570/django-quiz-app",
+            "summary": "The django-quiz-app repository saw recent push events primarily centered around updating static files and the base URL, suggesting maintenance and preparation activities aimed at stabilizing or enhancing the application's frontend or backend functionalities."
+        },
+        "sunithvs/devb.io": {
+            "link": "https://github.com/sunithvs/devb.io",
+            "summary": "A significant pull request event on sunithvs/devb.io aimed to resolve an issue by enabling synchronized scrolling between the left and right sections on the user profile page, enhancing the user experience through improved scroll behavior and stickiness of sections."
+        },
+        "Ericdroush/Tax_Sale": {
+            "link": "https://github.com/Ericdroush/Tax_Sale",
+            "summary": "The Tax_Sale repository by Ericdroush experienced a pull request focused on updating dependencies listed in the requirements.txt file, addressing a specific project need and ensuring the project's dependencies are properly managed and up-to-date."
+        },
+        "Priyansh6570/Tax_Sale": {
+            "link": "https://github.com/Priyansh6570/Tax_Sale",
+            "summary": "The Tax_Sale repository by Priyansh6570 had a push event updating dependencies in the requirements.txt file, mirroring the activity in Ericdroush's Tax_Sale repository, highlighting collaborative or parallel work on dependency management for the project."
+        }
+    },
+    "profile_summary": "As a seasoned developer with a strong foundation in JavaScript, C++, and TypeScript, I leverage my technical expertise to drive innovation and deliver high-quality solutions. With a passion for exploring new technologies, I've actively contributed to 41 public repositories, fostering a network of like-minded professionals and earning the support of 9 followers. I'm excited to collaborate and bring my skills to the table, driven by a curiosity for all things innovative and a love for staying at the forefront of tech advancements."
+}

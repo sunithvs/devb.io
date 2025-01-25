@@ -1,0 +1,133 @@
+{
+    "username": "monicatvera",
+    "name": "M\u00f3nica Ilenia Tard\u00f3n Vera",
+    "bio": "Full Stack Developer",
+    "location": "Las Palmas de G. C. , Canary Islands, Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/62950756?u=4d271d1819fbc606399c7f6249f69e00768e263b&v=4",
+    "profile_url": "https://github.com/monicatvera",
+    "top_languages": [
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "JavaScript",
+            16
+        ],
+        [
+            "Kotlin",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "2048",
+            "description": "The game 2048 in react",
+            "score": 13.402974805768503,
+            "stars": 79,
+            "forks": 18,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/2048",
+            "updatedAt": "2024-11-03T13:59:56Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/2048"
+        },
+        {
+            "name": "planets",
+            "description": "web pages about the solar system",
+            "score": 10.395171027363721,
+            "stars": 56,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/planets",
+            "updatedAt": "2024-10-05T07:59:57Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/planets/"
+        },
+        {
+            "name": "advance-react-porfolio",
+            "description": "This is the evaluation activity for the Advanced React course",
+            "score": 7.840273216089967,
+            "stars": 7,
+            "forks": 9,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/advance-react-porfolio",
+            "updatedAt": "2024-08-25T14:00:27Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/advance-react-porfolio/"
+        },
+        {
+            "name": "calculator",
+            "description": "Calculator app",
+            "score": 7.305780683553276,
+            "stars": 8,
+            "forks": 5,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/calculator",
+            "updatedAt": "2024-12-05T20:46:01Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/calculator/"
+        },
+        {
+            "name": "adventjs",
+            "description": "solutions to the challenges adventjs.dev",
+            "score": 4.8360806223276835,
+            "stars": 5,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/adventjs",
+            "updatedAt": "2025-01-06T02:58:35Z",
+            "isPinned": false,
+            "homepage": "https://adventjs.dev/"
+        },
+        {
+            "name": "Neon-Countdown-New-Year",
+            "description": "Neon web page with fireworks in the background and a new year countdown",
+            "score": 3.387759365652123,
+            "stars": 2,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/Neon-Countdown-New-Year",
+            "updatedAt": "2024-01-02T13:25:03Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/Neon-Countdown-New-Year/"
+        },
+        {
+            "name": "preview-credit-card",
+            "description": "A credit card preview app",
+            "score": 2.9136641075940197,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/monicatvera/preview-credit-card",
+            "updatedAt": "2023-10-01T18:21:34Z",
+            "isPinned": false,
+            "homepage": "https://monicatvera.github.io/preview-credit-card/"
+        },
+        {
+            "name": "lux_hotel",
+            "description": "A rest hotel management api made with node.js and android studio",
+            "score": 2.4940494626173035,
+            "stars": 1,
+            "forks": 1,
+            "language": "Kotlin",
+            "url": "https://github.com/monicatvera/lux_hotel",
+            "updatedAt": "2022-02-20T13:09:56Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 137,
+    "following": 65,
+    "public_repos": 55,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11296,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h2 align=\"center\">Hi \ud83d\udc4b!  I'm monicatvera</h2>\n\n<br clear=\"both\">\n\n<h4 align=\"left\">Hello World! I\u2019m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I\u2019m focused on building accessible, human-centered products.</h4>\n\n<br clear=\"both\">\n\n<img align=\"right\" height=\"150\" src=\"https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif\"  />\n\n<p align=\"left\">\ud83c\udf0d  I'm based in Las Palmas de Gran Canaria, Spain<br>\u2709\ufe0f  You can contact me at monitvera@gmail.com<br>\ud83e\udde0  I'm learning something new every day.<br>\ud83c\udfa7 I spend almost 12 hours listening to songs every day.</p>\n\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg\" height=\"40\" width=\"52\" alt=\"java logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"40\" width=\"52\" alt=\"javascript logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"40\" width=\"52\" alt=\"typescript logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"40\" width=\"52\" alt=\"react logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg\" height=\"40\" width=\"52\" alt=\"vuejs logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg\" height=\"40\" width=\"52\" alt=\"nextjs logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg\" height=\"40\" width=\"52\" alt=\"jest logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"40\" width=\"52\" alt=\"html5 logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"40\" width=\"52\" alt=\"css3 logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg\" height=\"40\" width=\"52\" alt=\"bootstrap logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg\" height=\"40\" width=\"52\" alt=\"tailwindcss logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg\" height=\"40\" width=\"52\" alt=\"nodejs logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg\" height=\"40\" width=\"52\" alt=\"express logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg\" height=\"40\" width=\"52\" alt=\"graphql logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg\" height=\"40\" width=\"52\" alt=\"spring logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg\" height=\"40\" width=\"52\" alt=\"mysql logo\"  />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg\" height=\"40\" width=\"52\" alt=\"mongodb logo\"  />\n</div>\n\n\n<br clear=\"both\">\n\n<h2 align=\"left\">\ud83e\udd1d\ud83c\udffb Connect with Me</h2>\n\n\n<div align=\"center\">\n  <a href=\"mailto:monitvera@gmail.com\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg\" width=\"52\" height=\"40\" alt=\"gmail logo\"  />\n  </a>\n  <a href=\"https://www.linkedin.com/in/monicatvera\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"linkedin logo\"  />\n  </a>\n</div>\n<br clear=\"both\">\n<img align=\"left\" src=\"https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight\"  width=\"500\"/>\n<img align=\"right\" src=\"https://raw.githubusercontent.com/monicatvera/monicatvera/output/github-contribution-grid-snake.svg\" alt=\"Snake animation\" width=\"300\"/>\n\n<br clear=\"both\">\n<div align=\"center\">\n  <img src=\"https://profile-counter.glitch.me/monicatvera/count.svg?\"  />\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,146 @@
+{
+    "username": "nolbertog",
+    "name": "Nolberto Antonio Gonz\u00e1lez Troncoso",
+    "bio": "Engineering student in computational execution and information technology at the Mel Maule Catholic University",
+    "location": "Talca, Regi\u00f3n del Maule, Chile",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89112706?u=692c632f2dfed51a539415a192d5386bbfa63f49&v=4",
+    "profile_url": "https://github.com/nolbertog",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Password",
+            "description": null,
+            "score": 10.28916299194694,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/nolbertog/Password",
+            "updatedAt": "2024-08-21T22:26:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "TallerInge",
+            "description": "Taller Ingeniera de Software",
+            "score": 10.264235521258758,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nolbertog/TallerInge",
+            "updatedAt": "2024-08-15T00:35:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "SEA2",
+            "description": null,
+            "score": 10.16718454276556,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nolbertog/SEA2",
+            "updatedAt": "2023-12-27T13:14:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "testrepo",
+            "description": "Repositorio de pruea para el curso GitHub Coursera",
+            "score": 1.6452269480948412,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nolbertog/testrepo",
+            "updatedAt": "2024-03-06T17:44:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BASE-NODE-REACT",
+            "description": null,
+            "score": 0.32501859800329747,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nolbertog/BASE-NODE-REACT",
+            "updatedAt": "2024-10-17T12:13:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Peliculas",
+            "description": null,
+            "score": 0.2790553132756236,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nolbertog/Peliculas",
+            "updatedAt": "2024-07-06T20:19:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ingenieria-de-software",
+            "description": null,
+            "score": 0.26471709289857087,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nolbertog/ingenieria-de-software",
+            "updatedAt": "2024-04-12T20:07:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "travelRecommendation",
+            "description": null,
+            "score": 0.26360373400667364,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nolbertog/travelRecommendation",
+            "updatedAt": "2024-04-08T17:32:32Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 18,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 233,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nolberto-antonio-gonzalez-troncoso-1629a222a/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://web.facebook.com/NolbertoAGonzalezT?locale=es_LA"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.credly.com/users/nolberto-antonio-gonzalez-troncoso/badges"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,138 @@
+{
+    "username": "0xfabrica",
+    "name": "fabrica.og",
+    "bio": "Mi ruta de aprendizaje <3\r\n- Python Dev\r\n- Data Science and AI\r\n- Backend\r\n- FastAPI",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/125808253?v=4",
+    "profile_url": "https://github.com/0xfabrica",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            8
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "creditcard-deploy",
+            "description": null,
+            "score": 1.9401984207231733,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/0xfabrica/creditcard-deploy",
+            "updatedAt": "2025-01-11T10:18:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rocket-script",
+            "description": "Sistema de reconocimiento de Im\u00e1genes de Naves Espaciales en Python y TensorFlow",
+            "score": 1.6699411571862757,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/rocket-script",
+            "updatedAt": "2024-08-09T10:21:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cafe-sales",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/cafe-sales",
+            "updatedAt": "2025-01-23T20:19:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "phising-detection-ml",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/phising-detection-ml",
+            "updatedAt": "2025-01-13T18:41:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Credit-Card-Fraud-Algorithm-ML",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/0xfabrica/Credit-Card-Fraud-Algorithm-ML",
+            "updatedAt": "2025-01-10T23:54:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iris_project",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/iris_project",
+            "updatedAt": "2024-11-21T12:31:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cancer_de_mama",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/cancer_de_mama",
+            "updatedAt": "2024-09-26T21:57:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mobile_predict_ml",
+            "description": null,
+            "score": 0.3106674672798059,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/0xfabrica/mobile_predict_ml",
+            "updatedAt": "2024-09-23T17:26:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 5,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 62,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/cryptoinc___"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/izan-medkouri-a01071266"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,141 @@
+{
+    "username": "sreehari0101",
+    "name": "Sree Hari",
+    "bio": "B.Tech Undergraduate |  Full-Stack Developer \r\n",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109453037?u=d2a880aefb1739fc9c8fdf11e6cf96272e3342d0&v=4",
+    "profile_url": "https://github.com/Sreehari0101",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Lex",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Skill_Hub",
+            "description": "\ud83d\ude80  A web application merging learning and recruitment features with user authentication \ud83d\udd12. Includes real-time student engagement tracking \ud83d\udcca, secure face verification during online lectures and a chatbot \ud83e\udd16.",
+            "score": 13.713201160750495,
+            "stars": 1,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Sreehari0101/Skill_Hub",
+            "updatedAt": "2024-05-18T07:34:01Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Vehi-Pass",
+            "description": " \ud83d\ude97  A Web application simplifying vehicle gate pass management for students. Features secure user authentication \ud83d\udd12 and unique QR code generation \ud83c\udf10 for approved passes.",
+            "score": 11.617884047775707,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sreehari0101/Vehi-Pass",
+            "updatedAt": "2024-05-01T08:01:30Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Core_Java",
+            "description": "\ud83c\udf49 A  comprehensive collection of Java fundamentals, algorithms \ud83e\udde0 and data structures (DSA)  \ud83d\udcbb. ",
+            "score": 1.6531792392341145,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Sreehari0101/Core_Java",
+            "updatedAt": "2024-05-15T20:00:01Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Sreehari0101",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6059551088953326,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Sreehari0101/Sreehari0101",
+            "updatedAt": "2024-08-04T07:23:29Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Sreehari0101"
+        },
+        {
+            "name": "OPENAI_PLAYGROUND",
+            "description": null,
+            "score": 0.28077614189870803,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Sreehari0101/OPENAI_PLAYGROUND",
+            "updatedAt": "2024-08-04T07:18:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HASH",
+            "description": null,
+            "score": 0.26705734912771484,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sreehari0101/HASH",
+            "updatedAt": "2024-05-01T08:01:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Compiler_Lab",
+            "description": null,
+            "score": 0.16655876248550613,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lex",
+            "url": "https://github.com/Sreehari0101/Compiler_Lab",
+            "updatedAt": "2023-12-18T07:19:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Box_Models",
+            "description": null,
+            "score": 0.16236150553350207,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Sreehari0101/Box_Models",
+            "updatedAt": "2023-10-11T21:09:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 10,
+    "following": 11,
+    "public_repos": 24,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 862,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sreehari0101/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sr.ee.hari__/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,92 @@
+{
+    "username": "sanjonrion",
+    "name": "sanjonrion",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/126318860?u=8af43f1e40fc0c584fe6a7ec0015a5c6c1f9675f&v=4",
+    "profile_url": "https://github.com/SanjonRion",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "quill-main",
+            "description": "Group 12 Main Project",
+            "score": 1.9088155405188179,
+            "stars": 0,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/SanjonRion/quill-main",
+            "updatedAt": "2024-03-18T04:29:34Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "quill-project",
+            "description": null,
+            "score": 0.26671325228802273,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SanjonRion/quill-project",
+            "updatedAt": "2024-04-23T22:28:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "red-wedding",
+            "description": "BEYOND THE LOOP Submission",
+            "score": 0.26344758823084113,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SanjonRion/red-wedding",
+            "updatedAt": "2024-04-04T04:18:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Appchemists",
+            "description": "GTA Sandshores Hackathon Project - Track: App - apk in drive link",
+            "score": 0.16416830195132148,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/SanjonRion/Appchemists",
+            "updatedAt": "2023-11-13T12:25:36Z",
+            "isPinned": false,
+            "homepage": "https://drive.google.com/drive/folders/1s3VZ2YfswkFdDaQBEoK6AuzrnoocMC0P?usp=sharing"
+        },
+        {
+            "name": "Appchemists-Sandshores",
+            "description": "Team Appchemists Repository for GTA Sandshores Hackathon by Gtech Mulearn",
+            "score": 0.16398619526897049,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/SanjonRion/Appchemists-Sandshores",
+            "updatedAt": "2023-11-07T20:31:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 12,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 15,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

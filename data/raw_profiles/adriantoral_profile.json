@@ -1,0 +1,138 @@
+{
+    "username": "adriantoral",
+    "name": "adriantoral",
+    "bio": "Estudiante de U-Tad. Especializado en  bases de datos y sistemas",
+    "location": "Madrid, Espa\u00f1a",
+    "avatar_url": "https://avatars.githubusercontent.com/u/145438836?u=3a951bf0c62e8b367f12f7467e2cc4b6f7c04683&v=4",
+    "profile_url": "https://github.com/adriantoral",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "odm-pymongo-redis",
+            "description": "Siguiendo el desarrollo de la red socialse proceder\u00e1 con la fase de dise\u00f1o e implementaci\u00f3nde cache, sesionesy HelpDesk.",
+            "score": 11.550584982157426,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adriantoral/odm-pymongo-redis",
+            "updatedAt": "2023-11-14T14:57:11Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "aws-lambda-twotter",
+            "description": "El  siguiente  ejercicio  est\u00e1  pensado  para  poner  en  pr\u00e1ctica  los  conocimientos  de  AWS  Lambda/EC2/S3 adquiridos  hasta  el  momento.",
+            "score": 10.16790250269877,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adriantoral/aws-lambda-twotter",
+            "updatedAt": "2024-01-07T19:34:23Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "proyecto-final-desarrollo-web",
+            "description": "Se desea crear una aplicaci\u00f3n para que cualquier comercio registrado pueda subir su propia Web con contenido (fotos, texto, etc.), de manera que pueda visualizarse cuando los usuarios busquen por los comercios de una ciudad y de una actividad concreta",
+            "score": 10.165621294867446,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adriantoral/proyecto-final-desarrollo-web",
+            "updatedAt": "2023-12-14T10:01:30Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "cliente-servidor-distribuido",
+            "description": "Practica 1 de Sistemas Distribuidos",
+            "score": 10.164168301951321,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/adriantoral/cliente-servidor-distribuido",
+            "updatedAt": "2023-12-12T10:23:50Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "matamarcianos",
+            "description": "Juego de martamarcianos de terminal",
+            "score": 10.16298417794481,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/adriantoral/matamarcianos",
+            "updatedAt": "2023-11-23T08:29:49Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "memsym",
+            "description": "Simulador de memoria cach\u00e9",
+            "score": 10.14907386185082,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/adriantoral/memsym",
+            "updatedAt": "2023-11-23T08:17:28Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "design-patterns",
+            "description": "El objetivo de este proyecto es desarrollar un juego de ordenador en el que el protagonista vaya combatiendo contra los enemigos que se va encontrando, utilizando para ello diferentes armas, tipos de ataque, etc.",
+            "score": 1.541321814089374,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/adriantoral/design-patterns",
+            "updatedAt": "2023-11-23T08:18:32Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ingenieria-software-final",
+            "description": null,
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adriantoral/ingenieria-software-final",
+            "updatedAt": "2024-12-12T19:40:38Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 15,
+    "pull_requests_merged": 15,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 44,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/adriantoral/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">About me, Adrian Toral</h1>\n<h3 align=\"center\">Programming enthusiast eager to learn and work</h3>\n\n<br />\n\n<p><img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=tory1103&show_icons=true&locale=en&theme=transparent\" alt=\"tory1103\" /></p>\n\n- \ud83d\udd2d I\u2019m currently working on **[pro3grupo2](https://github.com/pro3grupo2)**\n\n- \ud83c\udf31 I\u2019m currently learning **Mobile development, Big Data, UX Design**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on **open source projects**\n\n- \ud83d\udcac Ask me about **Python, C/C++, Linux**\n\n- \ud83d\udceb How to reach me **adriantoral@sertor.es**\n\n<br />\n<br />\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" alt=\"aws\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.gnu.org/software/bash/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg\" alt=\"bash\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg\" alt=\"docker\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://flask.palletsprojects.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg\" alt=\"flask\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://golang.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg\" alt=\"go\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://kotlinlang.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg\" alt=\"kotlin\" width=\"40\" height=\"40\"/> </a> <a href=\"https://kubernetes.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg\" alt=\"kubernetes\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/nextjs-2.svg\" alt=\"nextjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://redis.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg\" alt=\"redis\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.sqlite.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg\" alt=\"sqlite\" width=\"40\" height=\"40\"/> </a> </p>\n\n<!---\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=tory1103&show_icons=true&locale=en&layout=compact\" alt=\"tory1103\" />\n -->\n\n<br />\n<br />\n\n<h3 align=\"right\">Contact me:</h3>\n<p align=\"right\">\n<a href=\"https://twitter.com/sert0r\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"sert0r\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/adriantoral\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"adriantoral\" height=\"30\" width=\"40\" /></a>\n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

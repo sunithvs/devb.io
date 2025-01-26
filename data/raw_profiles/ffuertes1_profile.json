@@ -1,0 +1,133 @@
+{
+    "username": "ffuertes1",
+    "name": "Faustino R Fuertes",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/104951410?u=65dbb879df799f25d0243ba3fda92df566fdf6fe&v=4",
+    "profile_url": "https://github.com/ffuertes1",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Capstone-HTML",
+            "description": null,
+            "score": 1.5472574069958955,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ffuertes1/Capstone-HTML",
+            "updatedAt": "2023-09-17T03:35:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ffuertes1.github.io",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ffuertes1/ffuertes1.github.io",
+            "updatedAt": "2025-01-07T15:05:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mernChatBot",
+            "description": null,
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ffuertes1/mernChatBot",
+            "updatedAt": "2024-10-29T14:14:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Django_Portfolio",
+            "description": null,
+            "score": 0.3271560827809689,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ffuertes1/Django_Portfolio",
+            "updatedAt": "2024-10-29T00:11:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CodingBat_SimplePythonExercises",
+            "description": "Practicing python concepts in CodingBat web. A simple page that teach some concepts of Java and Python.",
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ffuertes1/CodingBat_SimplePythonExercises",
+            "updatedAt": "2024-10-14T00:36:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MySQL-Notes",
+            "description": null,
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ffuertes1/MySQL-Notes",
+            "updatedAt": "2024-10-05T23:36:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python-selflearn",
+            "description": null,
+            "score": 0.2907509055443496,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ffuertes1/Python-selflearn",
+            "updatedAt": "2024-10-24T20:47:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Optical-Front-End-Basic-Web-Page-React.js",
+            "description": null,
+            "score": 0.27369071762993064,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ffuertes1/Optical-Front-End-Basic-Web-Page-React.js",
+            "updatedAt": "2024-10-24T20:49:33Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 5,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 68,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

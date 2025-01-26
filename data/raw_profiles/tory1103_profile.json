@@ -1,0 +1,142 @@
+{
+    "username": "tory1103",
+    "name": "adriantoral",
+    "bio": "Passionate about C++ and Python. Self-taught. Aspiring Backend developer.",
+    "location": "Madrid, Espa\u00f1a",
+    "avatar_url": "https://avatars.githubusercontent.com/u/37801773?u=87310fcfb4a3ae6ce49e472ae7c552ca72d2bdfe&v=4",
+    "profile_url": "https://github.com/tory1103",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "oh-my-pickledb",
+            "description": "Oh-My-PickleDB is an open source key-value store using Python's json module.",
+            "score": 16.219257730165488,
+            "stars": 11,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/tory1103/oh-my-pickledb",
+            "updatedAt": "2024-07-05T05:48:52Z",
+            "isPinned": true,
+            "homepage": "https://tory1103.github.io/oh-my-pickledb/"
+        },
+        {
+            "name": "cibertoolkit",
+            "description": "Automated pentesting framework build in python",
+            "score": 13.308539712051243,
+            "stars": 2,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/tory1103/cibertoolkit",
+            "updatedAt": "2022-07-11T12:18:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "hackmycli",
+            "description": "HackMyVM command-line tool",
+            "score": 12.91679736355733,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/tory1103/hackmycli",
+            "updatedAt": "2023-12-24T23:03:34Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "srtviz",
+            "description": "Real-time visualizer for sorting algorithms",
+            "score": 10.163925855002853,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/tory1103/srtviz",
+            "updatedAt": "2023-11-07T22:11:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "passmx",
+            "description": "Password generator. Generates passwords by mixing a secret and a passphrase.",
+            "score": 10.160963045876006,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/tory1103/passmx",
+            "updatedAt": "2023-09-17T10:14:21Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "fakerAPI-cli",
+            "description": "Generate Fake data by API requests",
+            "score": 10.07236148377804,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/tory1103/fakerAPI-cli",
+            "updatedAt": "2022-05-01T17:14:25Z",
+            "isPinned": true,
+            "homepage": "https://fakerapi.it/en"
+        },
+        {
+            "name": "tory1103",
+            "description": null,
+            "score": 1.2465183340561126,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/tory1103/tory1103",
+            "updatedAt": "2024-02-06T17:07:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-supabase-boilerplate",
+            "description": "Next.js + Supabase Starter is a quick starting point for building web applications with Next.js and Supabase. It includes ready-to-use authentication, real-time database management, and dynamic pages, all easily customizable.",
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/tory1103/nextjs-supabase-boilerplate",
+            "updatedAt": "2024-12-23T22:38:39Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 8,
+    "following": 3,
+    "public_repos": 23,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 372,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/sertordev"
+        },
+        {
+            "provider": "generic",
+            "url": "https://github.com/adriantoral"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">About me, Adrian Toral</h1>\n<h3 align=\"center\">Programming enthusiast eager to learn and work</h3>\n\n<br />\n\n<p><img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=tory1103&show_icons=true&locale=en&theme=transparent\" alt=\"tory1103\" /></p>\n\n- \ud83d\udd2d I\u2019m currently working on **[pro3grupo2](https://github.com/pro3grupo2)**\n\n- \ud83c\udf31 I\u2019m currently learning **Mobile development, Big Data, UX Design**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on **open source projects**\n\n- \ud83d\udcac Ask me about **Python, C/C++, Linux**\n\n- \ud83d\udceb How to reach me **adriantoral@sertor.es**\n\n<br />\n<br />\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" alt=\"aws\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.gnu.org/software/bash/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg\" alt=\"bash\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg\" alt=\"docker\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://flask.palletsprojects.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg\" alt=\"flask\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://golang.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg\" alt=\"go\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://kotlinlang.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg\" alt=\"kotlin\" width=\"40\" height=\"40\"/> </a> <a href=\"https://kubernetes.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg\" alt=\"kubernetes\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/nextjs-2.svg\" alt=\"nextjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://redis.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg\" alt=\"redis\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.sqlite.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg\" alt=\"sqlite\" width=\"40\" height=\"40\"/> </a> </p>\n\n<!---\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=tory1103&show_icons=true&locale=en&layout=compact\" alt=\"tory1103\" />\n -->\n\n<br />\n<br />\n\n<h3 align=\"right\">Contact me:</h3>\n<p align=\"right\">\n<a href=\"https://twitter.com/sert0r\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"sert0r\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/adriantoral\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"adriantoral\" height=\"30\" width=\"40\" /></a>\n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

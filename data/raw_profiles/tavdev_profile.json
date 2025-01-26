@@ -1,0 +1,40 @@
+{
+    "username": "tavdev",
+    "name": "tavdev",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/81604447?v=4",
+    "profile_url": "https://github.com/TavDev",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "rf-table",
+            "description": "React functional component table with redux and remote pagination example",
+            "score": 0.07014102326915213,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/TavDev/rf-table",
+            "updatedAt": "2021-08-29T04:56:03Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

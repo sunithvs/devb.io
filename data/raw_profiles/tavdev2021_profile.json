@@ -1,0 +1,125 @@
+{
+    "username": "tavdev2021",
+    "name": "Octavio Bustos Solis",
+    "bio": "Lic. En Informatica",
+    "location": "Cd. Altamirano, Guerrero, Mexico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85254768?u=46b1b4312bcbaa4cec28be49295136f081cf1038&v=4",
+    "profile_url": "https://github.com/tavdev2021",
+    "top_languages": [
+        [
+            "Kotlin",
+            12
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LoginAndroidPage",
+            "description": "Proyecto de Login con Firebase",
+            "score": 0.2570777472647106,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/LoginAndroidPage",
+            "updatedAt": "2024-12-17T20:52:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BackendDeliveryApp",
+            "description": null,
+            "score": 0.16523219868185138,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/tavdev2021/BackendDeliveryApp",
+            "updatedAt": "2023-11-28T22:32:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pedidapp",
+            "description": "PedidApp: Aplicacion para pedidos y Delivery",
+            "score": 0.07211445171374134,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/pedidapp",
+            "updatedAt": "2022-04-06T20:33:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "QRCodeGenerator",
+            "description": "Generador de QR",
+            "score": 0.07187475509014742,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/QRCodeGenerator",
+            "updatedAt": "2022-03-13T20:49:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RecyclerviewAnimation",
+            "description": "Creacion de RecyclerView con Animaciones",
+            "score": 0.07148116128475501,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/RecyclerviewAnimation",
+            "updatedAt": "2022-01-31T21:40:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TakePicture",
+            "description": "Tomar foto camara y galeria",
+            "score": 0.07148116128475501,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/TakePicture",
+            "updatedAt": "2022-01-31T19:39:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ExampleMVVM",
+            "description": "Ejemplo MVVM Kotlin",
+            "score": 0.07125038294450774,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/ExampleMVVM",
+            "updatedAt": "2022-01-07T02:01:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AndroidFingerPrint",
+            "description": "Fingerprint/Face Biometric Kotlin",
+            "score": 0.07106160429162303,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/tavdev2021/AndroidFingerPrint",
+            "updatedAt": "2022-01-03T17:04:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 16,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

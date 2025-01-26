@@ -1,0 +1,65 @@
+{
+    "username": "jhairalexby",
+    "name": "JhairAlexby",
+    "bio": "",
+    "location": "Mexico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77075437?u=76e7a8d7af25e5ceb532ee8889449f9a36fc1b45&v=4",
+    "profile_url": "https://github.com/JhairAlexby",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "vento-proyect",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JhairAlexby/vento-proyect",
+            "updatedAt": "2025-01-26T03:55:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vento-proyect-api",
+            "description": null,
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JhairAlexby/vento-proyect-api",
+            "updatedAt": "2025-01-25T04:30:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JhairAlexby",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JhairAlexby/JhairAlexby",
+            "updatedAt": "2025-01-03T14:27:47Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 5,
+    "pull_requests_merged": 18,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 102,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<!-- Tabla para la imagen y el texto principal -->\n<table>\n  <tr>\n    <td width=\"200\" style=\"vertical-align: top;\">\n      <img \n        src=\"https://giffiles.alphacoders.com/196/196102.gif\"\n        width=\"200\"\n        alt=\"GIF de bienvenida\"\n        style=\"border-radius:10px;\"\n      />\n    </td>\n    <td style=\"vertical-align: top; padding-left: 20px;\">\n      <h1>\ud83d\udc4b Hello! I'm Jhair Alejandro Cruz Palacios</h1>\n      <p>\n        Soy un estudiante de desarrollo de software de 25 a\u00f1os de M\u00e9xico, \n        apasionado por la tecnolog\u00eda y especializado en programaci\u00f3n web. \n        Mi enfoque es crear experiencias digitales impactantes y f\u00e1ciles de usar.\n      </p>\n      <ul>\n        <li>\ud83c\udf10 <strong>Especialidad</strong>: Desarrollo Web</li>\n        <li>\ud83d\udca1 <strong>Intereses</strong>: Tecnolog\u00eda, programaci\u00f3n y aprendizaje constante</li>\n        <li>\ud83d\udcda <strong>Actualmente Estudiando</strong>: Expandiendo habilidades en backend y frontend</li>\n        <li>\ud83c\udfaf <strong>Meta</strong>: Crear soluciones de software innovadoras que marquen la diferencia</li>\n      </ul>\n    </td>\n  </tr>\n</table>\n\n<h2>Tech Stack</h2>\n<!-- Opci\u00f3n 1: Todos los iconos seguidos en una sola l\u00ednea -->\n<p>\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg\" \n    alt=\"React\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg\" \n    alt=\"Next.js\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg\" \n    alt=\"Nest.js\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg\" \n    alt=\"MongoDB\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg\" \n    alt=\"PostgreSQL\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg\" \n    alt=\"MySQL\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" \n    alt=\"JavaScript\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" \n    alt=\"TypeScript\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" \n    alt=\"Java\" width=\"40\" style=\"margin-right: 10px;\" />\n  <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" \n    alt=\"Python\" width=\"40\" style=\"margin-right: 10px;\" />\n</p>\n\n<h2>\u00a1Conectemos!</h2>\n<ul>\n  <li><a href=\"https://www.linkedin.com/\">LinkedIn</a></li>\n  <li><a href=\"https://www.yourportfolio.com/\">Portfolio</a></li>\n</ul>\n\n<blockquote>\n  \"Every day is a new opportunity to learn and grow.\"\n</blockquote>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

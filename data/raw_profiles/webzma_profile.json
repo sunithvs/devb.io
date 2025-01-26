@@ -1,0 +1,146 @@
+{
+    "username": "webzma",
+    "name": "Wilberk Ledezma",
+    "bio": "Software Engineer & Frontend Developer - #JavaScript - #React.js - #TypeScript  - #Next.js\r\n \ud83c\uddfb\ud83c\uddea \ud83c\uddea\ud83c\uddf8",
+    "location": "Venezuela",
+    "avatar_url": "https://avatars.githubusercontent.com/u/81445622?u=2948fb56b83de6426f4a5248525f1fc49c37205f&v=4",
+    "profile_url": "https://github.com/webzma",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            19
+        ],
+        [
+            "Astro",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "simple-ecommerce",
+            "description": "A simple ecommerce",
+            "score": 11.458198690513848,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/webzma/simple-ecommerce",
+            "updatedAt": "2022-04-11T04:38:39Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "shopping-cart",
+            "description": null,
+            "score": 10.244133248785452,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/shopping-cart",
+            "updatedAt": "2024-02-01T14:18:36Z",
+            "isPinned": true,
+            "homepage": "https://shopping-cart-mu-taupe.vercel.app"
+        },
+        {
+            "name": "todo-app",
+            "description": "Todo app.",
+            "score": 10.238204535413042,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/todo-app",
+            "updatedAt": "2024-12-18T03:03:39Z",
+            "isPinned": true,
+            "homepage": "https://webzma-todoapp.vercel.app/"
+        },
+        {
+            "name": "tic-tac-toe",
+            "description": "Tic Tac Toe - Game",
+            "score": 10.236910615452981,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/tic-tac-toe",
+            "updatedAt": "2024-12-27T22:03:07Z",
+            "isPinned": true,
+            "homepage": "https://webzma.github.io/tic-tac-toe/"
+        },
+        {
+            "name": "quote-machine",
+            "description": "simple quote machine",
+            "score": 10.159657738191827,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/quote-machine",
+            "updatedAt": "2023-08-20T17:18:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "chatgtp-informative-page",
+            "description": "P\u00e1gina web est\u00e1tica e informativa sobre chatGTP.",
+            "score": 10.156042054674872,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/webzma/chatgtp-informative-page",
+            "updatedAt": "2023-05-30T03:00:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "countries-app",
+            "description": "An professional countries app",
+            "score": 1.5517201875750106,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/countries-app",
+            "updatedAt": "2024-01-14T21:01:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "notifivations-page",
+            "description": null,
+            "score": 1.53806415296834,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/webzma/notifivations-page",
+            "updatedAt": "2023-01-30T22:14:21Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 11,
+    "public_repos": 56,
+    "pull_requests_merged": 3,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 295,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/webzma_dev"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/webzma/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/wilberk-ledezma-201378207/"
+        }
+    ],
+    "readme_content": "### \ud83d\udc4b Hi there, I'm Wilberk Ledezma @webzma \n\nHere are some ideas to get you started:\n\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate in open source projects\n- \ud83e\udd14 I\u2019m looking for help with code and more code... \n- \ud83d\udcac Ask me about me ...\n- \ud83d\udceb How to reach me: @webzma\n- \u2615 Coffee Lover\n\n  [Sigueme en Twitter ](http://www.twitter.com/webzmaDEV)\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

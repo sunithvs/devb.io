@@ -1,0 +1,133 @@
+{
+    "username": "francisorocha",
+    "name": "Francisco Rocha",
+    "bio": "< Frontend />",
+    "location": "Ciudad de mexico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/122055396?u=0b4152c5ddc386193a8f5405769da4cfc599d5d5&v=4",
+    "profile_url": "https://github.com/FrancisoRocha",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "SCSS",
+            10
+        ],
+        [
+            "CSS",
+            20
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AdministradorCitas",
+            "description": null,
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FrancisoRocha/AdministradorCitas",
+            "updatedAt": "2025-01-25T20:52:59Z",
+            "isPinned": false,
+            "homepage": "https://administrador-citas-nine.vercel.app"
+        },
+        {
+            "name": "AluraGeek",
+            "description": null,
+            "score": 1.6569907443140444,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/FrancisoRocha/AluraGeek",
+            "updatedAt": "2024-06-07T21:40:37Z",
+            "isPinned": false,
+            "homepage": "https://alura-geek-delta-three.vercel.app"
+        },
+        {
+            "name": "GastoSemanal",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FrancisoRocha/GastoSemanal",
+            "updatedAt": "2025-01-23T04:16:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Intro-component-with-sign-up-form",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/FrancisoRocha/Intro-component-with-sign-up-form",
+            "updatedAt": "2025-01-23T23:07:28Z",
+            "isPinned": false,
+            "homepage": "https://intro-component-with-sign-up-form-inky-phi.vercel.app"
+        },
+        {
+            "name": "Product-list-with-cart",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FrancisoRocha/Product-list-with-cart",
+            "updatedAt": "2025-01-16T03:23:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Cotizador-Seguros-Autos",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FrancisoRocha/Cotizador-Seguros-Autos",
+            "updatedAt": "2025-01-15T22:24:31Z",
+            "isPinned": false,
+            "homepage": "https://cotizador-seguros-autos-dun.vercel.app"
+        },
+        {
+            "name": "LocalStorage",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FrancisoRocha/LocalStorage",
+            "updatedAt": "2025-01-14T23:23:06Z",
+            "isPinned": false,
+            "homepage": "https://local-storage-lovat-chi.vercel.app"
+        },
+        {
+            "name": "Buscador-de-Autos",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FrancisoRocha/Buscador-de-Autos",
+            "updatedAt": "2025-01-11T22:14:14Z",
+            "isPinned": false,
+            "homepage": "https://buscador-de-autos-six.vercel.app"
+        }
+    ],
+    "followers": 2,
+    "following": 45,
+    "public_repos": 63,
+    "pull_requests_merged": 6,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 289,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,53 @@
+{
+    "username": "felipetolescu",
+    "name": "felipetolescu",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/181830155?u=2b5fcb76b512cd7ffdc210899ca113373e2832fb&v=4",
+    "profile_url": "https://github.com/FelipeTolEscu",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FelipeTolEscu",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FelipeTolEscu/FelipeTolEscu",
+            "updatedAt": "2024-10-26T21:32:46Z",
+            "isPinned": false,
+            "homepage": "https://github.com/FelipeTolEscu"
+        },
+        {
+            "name": "Personal-Web",
+            "description": null,
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/FelipeTolEscu/Personal-Web",
+            "updatedAt": "2024-10-15T18:29:41Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 4,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 8,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udc4b Hola, soy Felipe Toledano Escudero\n\n### \ud83d\udcbb Desarrollador Junior Full Stack | Apasionado por la creaci\u00f3n de soluciones web\n\n---\n\n\ud83c\udf0d **Ubicaci\u00f3n**: Granada, Espa\u00f1a  \n\ud83d\udce7 **Contacto**: [felitol2008@gmail.com](mailto:felitol2008@gmail.com)  \n\ud83d\udd17 **LinkedIn**: [Felipe Jos\u00e9 Toledano Escudero](https://www.linkedin.com/in/felipe-jos%C3%A9-toledano-escudero-4008bb194/)  \n\ud83d\udcbc **GitHub**: [@F3LIP3X](https://github.com/F3LIP3X)\n\n---\n\n### \ud83c\udf31 Actualmente Aprendiendo\n- **Frameworks**: React, Node.js\n- **Backend**: Docker, MySQL, MongoDB\n- **Frontend**: Tailwind CSS, Componentes interactivos\n- **Versionado de C\u00f3digo**: Git y GitHub\n\n### \ud83d\udee0\ufe0f Habilidades\n**Lenguajes y Tecnolog\u00edas**  \n- Java, Python, TypeScript, HTML, CSS  \n- React, Node.js, Docker  \n- MySQL, MongoDB  \n\n---\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

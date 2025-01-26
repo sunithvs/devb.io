@@ -1,0 +1,142 @@
+{
+    "username": "fait-arch",
+    "name": "fait-arch",
+    "bio": "",
+    "location": "Quito_Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/70347526?u=18b0b48514fcfbda70447a643d4ddcd1b1be43d9&v=4",
+    "profile_url": "https://github.com/fait-arch",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "KioskPay-Pasarea_de_pago",
+            "description": null,
+            "score": 3.0188411751667634,
+            "stars": 3,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/fait-arch/KioskPay-Pasarea_de_pago",
+            "updatedAt": "2024-06-11T14:54:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DemoWebEcommerceGo",
+            "description": null,
+            "score": 1.6510114540184615,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/fait-arch/DemoWebEcommerceGo",
+            "updatedAt": "2024-06-11T14:54:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "fait-arch",
+            "description": null,
+            "score": 1.646054792413882,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/fait-arch/fait-arch",
+            "updatedAt": "2025-01-10T01:10:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ExtratorDeAudio",
+            "description": "Extrae El Audio de un video de YouTube por medio de un link y una dirrecion de carpeta en dodne se guardara el audio.",
+            "score": 1.626147424770048,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/fait-arch/ExtratorDeAudio",
+            "updatedAt": "2024-03-06T06:59:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LectorDeBaseDeDatos",
+            "description": null,
+            "score": 1.5434522399989086,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/fait-arch/LectorDeBaseDeDatos",
+            "updatedAt": "2023-11-08T22:01:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "UIDE",
+            "description": null,
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/fait-arch/UIDE",
+            "updatedAt": "2025-01-23T09:28:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "installl_AMBER",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/fait-arch/installl_AMBER",
+            "updatedAt": "2025-01-05T08:46:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Autodock-Vina",
+            "description": "En este repositorio, nos proponemos desarrollar dos scripts: uno en Bash y otro en un Jupyter Notebook. El objetivo es realizar el docking de una prote\u00edna con una lista de compuestos representados por sus SMILES. Para llevar a cabo este proyecto, utilizaremos el sistema AutoDock Vina.",
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/fait-arch/Autodock-Vina",
+            "updatedAt": "2024-10-28T20:16:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 18,
+    "public_repos": 18,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 74,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/juan-moromenacho-aguirre-bb72b7227"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/fait_arch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Juan David Moromenacho Aguirre (fait-arch)</h1>\n\n<p align=\"center\">\n    <img src=\"https://github.com/halfrost/halfrost/blob/master/icons/header_1.png\" alt=\"Header Image\" />\n</p>\n\n<h3 align=\"center\">Backend Developer</h3>\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n    <a href=\"https://www.linkedin.com/in/juan-moromenacho-aguirre-bb72b7227/\" target=\"_blank\">\n        <img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"LinkedIn\" height=\"30\" width=\"40\" />\n    </a>\n    <a href=\"https://www.instagram.com/fait_arch/\" target=\"_blank\">\n        <img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"Instagram\" height=\"30\" width=\"40\" />\n    </a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\">\n    <a href=\"https://www.arduino.cc/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://cdn.worldvectorlogo.com/logos/arduino-1.svg\" alt=\"Arduino\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"C++\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"CSS3\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://dart.dev\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg\" alt=\"Dart\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://firebase.google.com/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" alt=\"Firebase\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://flutter.dev\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg\" alt=\"Flutter\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"Git\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://golang.org\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg\" alt=\"Go\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"HTML5\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"Linux\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"Python\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"React\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://reactnative.dev/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://reactnative.dev/img/header_logo.svg\" alt=\"React Native\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"https://vite.dev/\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://vite.dev/logo.svg\" alt=\"Vite\" width=\"40\" height=\"40\"/>\n    </a>\n    <a href=\"\" target=\"_blank\" rel=\"noreferrer\">\n        <img src=\"https://www.gstatic.com/devrel-devsite/prod/vdf1c73ddfa29bc07c1524d67528b078b0717f3e7ffc0621bf09846cb55759e81/tensorflow/images/lockup.svg\" alt=\"TenserFlow\" width=\"180\" height=\"50\"/>\n    </a>\n\n</p>\n\n<p>\n    I make elegantly professional \ud83d\udcbb\u2388\ud83d\udc33 <strong>Distributed Infrastructure / Kubernetes</strong> \u2601\ufe0f <strong>Cloud Native</strong> \ud83d\udcdd <strong>DeFi Smart Contract</strong> and \ud83c\udf10 <strong>Website</strong> for a living and also <strong>Write some blogs</strong>. \ud83c\udf08\n</p>\n    <h1>Welcome to My Professional Portfolio</h1>\n    \n<ul>\n    <li><span class=\"emoji\">\ud83e\uddd0 </span><strong>Interests:</strong> Full Stack Development. Recently, I have focused on infrastructure.</li>\n    <li><span class=\"emoji\">\ud83d\udcbc </span><strong>Experience:</strong> I have built WordPress websites and set them up on Hostinger, such as <a href=\"https://grupoevra.com/\" target=\"_blank\">Grupo Evra</a> and <a href=\"https://jarfer.edu.ec/\" target=\"_blank\">Jarfer</a>.</li>\n    <li><span class=\"emoji\">\ud83c\udf93 </span><strong>Backend Management:</strong> I have worked with Golang and Python for backend management.</li>\n    <li><span class=\"emoji\">\ud83c\udf31 </span><strong>Currently Learning:</strong> Linux, Rust, Terraform, Active Directory, and AWS.</li>\n    <li><span class=\"emoji\">\ud83d\udcda </span><strong>Books I've Read:</strong> \"Building Microservices: Designing Fine-Grained Systems\" and \"Designing .NET Microservices-Oriented Architectures\".</li>\n    <li><span class=\"emoji\">\ud83d\udcbb </span><strong>Education:</strong> I have 4 years of education in Systems Engineering and 2 years of research experience. My academic profile is available on my <a href=\"https://orcid.org/0009-0007-6014-8911\" target=\"_blank\">ORCID</a>.</li>\n</ul>\n\n\n<h3>CSPs</h3>\n<h3>Monitoring</h3>\n<h3>Databases</h3>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

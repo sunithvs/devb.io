@@ -1,0 +1,104 @@
+{
+    "username": "maacgia",
+    "name": "Giovanny G\u00f3mez",
+    "bio": "Back End Developer. Passionate about server optimization and performance.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/130115349?u=83c22bd6bed53009007e9168bdbc993fef1fd323&v=4",
+    "profile_url": "https://github.com/maacgia",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Controls-Library-Streamlit",
+            "description": "Controls-Library-Streamlit",
+            "score": 11.663019813533975,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maacgia/Controls-Library-Streamlit",
+            "updatedAt": "2024-06-14T23:06:30Z",
+            "isPinned": true,
+            "homepage": "https://controls-library-streamlit.onrender.com/"
+        },
+        {
+            "name": "OpenDNS-Updater-IP",
+            "description": "OpenDNS Updater IP  is designed for update the IP address on OpenDNS It periodically checks for IP changes and performs the update if necessary.",
+            "score": 11.62184020110636,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maacgia/OpenDNS-Updater-IP",
+            "updatedAt": "2024-04-30T06:18:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "CryptKey",
+            "description": "encriptar y desencriptar contrase\u00f1as generando un archivo key para garantizar la seguridad de los datos sensibles.",
+            "score": 10.154688891700838,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maacgia/CryptKey",
+            "updatedAt": "2023-04-25T17:37:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "turn_on_device",
+            "description": null,
+            "score": 0.26811034532879713,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/maacgia/turn_on_device",
+            "updatedAt": "2024-05-02T23:20:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "maacgia",
+            "description": null,
+            "score": 0.23231431195714203,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/maacgia/maacgia",
+            "updatedAt": "2024-06-15T05:09:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Blackjack",
+            "description": null,
+            "score": 0.15498952457765786,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/maacgia/Blackjack",
+            "updatedAt": "2023-05-26T16:40:36Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 10,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2208,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udcab About Me:\n\n\n## \ud83c\udf10 Socials:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovanny-gomez-8ba6ba271)\n\n<center>\n\n\n| Programming Languages | Frameworks | Libraries | Databases | Deploy Projects | Development Tools | Markup and Style Languages | Graphic Design | Artificial Intelligence |\n|-----------------------|----------------------------------|-----------------------------|-----------------------------|------------------------------------------|---------------------|------------------------------------|-------------------------------|-----------------------------|\n| ![Python](https://img.shields.io/badge/python-%20?style=plastic&logo=python&logoColor=white&labelColor=green&color=gray) | ![Django](https://img.shields.io/badge/django-%20?style=plastic&logo=django&logoColor=white&labelColor=green&color=gray) | ![NumPy](https://img.shields.io/badge/numpy-%20?style=plastic&logo=numpy&logoColor=white&labelColor=green&color=gray) | ![MySQL](https://img.shields.io/badge/mysql-%20?style=plastic&logo=mysql&logoColor=white&labelColor=green&color=gray) | ![Docker](https://img.shields.io/badge/docker-%20?style=plastic&logo=docker&logoColor=white&labelColor=green&color=gray) | ![git](https://img.shields.io/badge/git-%20?style=plastic&logo=git&logoColor=white&labelColor=green&color=gray) | ![HTML5](https://img.shields.io/badge/html5-%20?style=plastic&logo=html5&logoColor=white&labelColor=green&color=gray) | ![Photoshop](https://img.shields.io/badge/photoshop-%20?style=plastic&logo=adobe%20photoshop&logoColor=white&labelColor=green&color=gray) | ![LLMs](https://img.shields.io/badge/llms-%20?style=plastic&logo=llms&logoColor=white&labelColor=green&color=gray) |\n| ![JavaScript](https://img.shields.io/badge/javascript-%20?style=plastic&logo=javascript&logoColor=white&labelColor=green&color=gray) | ![FastAPI](https://img.shields.io/badge/fastapi-%20?style=plastic&logo=fastapi&logoColor=white&labelColor=green&color=gray) | ![Pandas](https://img.shields.io/badge/pandas-%20?style=plastic&logo=pandas&logoColor=white&labelColor=green&color=gray) | ![PostgreSQL](https://img.shields.io/badge/postgresql-%20?style=plastic&logo=postgresql&logoColor=white&labelColor=green&color=gray) | ![Vercel](https://img.shields.io/badge/vercel-%20?style=plastic&logo=vercel&logoColor=white&labelColor=green&color=gray) | ![Trello](https://img.shields.io/badge/trello-%20?style=plastic&logo=trello&logoColor=white&labelColor=green&color=gray) | ![CSS3](https://img.shields.io/badge/css3-%20?style=plastic&logo=css3&logoColor=white&labelColor=green&color=gray) | ![Lightroom](https://img.shields.io/badge/lightroom-%20?style=plastic&logo=adobe%20lightroom&logoColor=white&labelColor=green&color=gray) | ![GPT](https://img.shields.io/badge/gpt-%20?style=plastic&logo=gpt&logoColor=white&labelColor=green&color=gray) |\n| ![PHP](https://img.shields.io/badge/php-%20?style=plastic&logo=php&logoColor=white&labelColor=green&color=gray) | ![Flask](https://img.shields.io/badge/flask-%20?style=plastic&logo=flask&logoColor=white&labelColor=green&color=gray) | ![Matplotlib](https://img.shields.io/badge/matplotlib-%20?style=plastic&logo=matplotlib&logoColor=white&labelColor=green&color=gray) | ![MongoDB](https://img.shields.io/badge/mongodb-%20?style=plastic&logo=mongodb&logoColor=white&labelColor=green&color=gray) | ![Netlify](https://img.shields.io/badge/netlify-%20?style=plastic&logo=netlify&logoColor=white&labelColor=green&color=gray) | ![Postman](https://img.shields.io/badge/postman-%20?style=plastic&logo=postman&logoColor=white&labelColor=green&color=gray) |  | ![Gimp](https://img.shields.io/badge/gimp-%20?style=plastic&logo=gimp&logoColor=white&labelColor=green&color=gray) | ![Ollama](https://img.shields.io/badge/ollama-%20?style=plastic&logo=ollama&logoColor=white&labelColor=green&color=gray) |\n| ![C++](https://img.shields.io/badge/c++-%20?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=green&color=gray) | ![Streamlit](https://img.shields.io/badge/streamlit-%20?style=plastic&logo=streamlit&logoColor=white&labelColor=green&color=gray) | ![BeautifulSoup4](https://img.shields.io/badge/beautifulsoup4-%20?style=plastic&logo=beautifulsoup4&logoColor=white&labelColor=green&color=gray) | ![MariaDB](https://img.shields.io/badge/mariadb-%20?style=plastic&logo=mariadb&logoColor=white&labelColor=green&color=gray) | ![Heroku](https://img.shields.io/badge/heroku-%20?style=plastic&logo=heroku&logoColor=white&labelColor=green&color=gray) | ![Markdown](https://img.shields.io/badge/markdown-%20?style=plastic&logo=markdown&logoColor=white&labelColor=green&color=gray) |  | ![Sketchup](https://img.shields.io/badge/sketchup-%20?style=plastic&logo=sketchup&logoColor=white&labelColor=green&color=gray) |  |\n|  | ![Flutter](https://img.shields.io/badge/flutter-%20?style=plastic&logo=flutter&logoColor=white&labelColor=green&color=gray) | ![Selenium](https://img.shields.io/badge/selenium-%20?style=plastic&logo=selenium&logoColor=white&labelColor=green&color=gray) | ![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%20?style=plastic&logo=microsoft%20sql%20server&logoColor=white&labelColor=green&color=gray) | ![Nginx](https://img.shields.io/badge/nginx-%20?style=plastic&logo=nginx&logoColor=white&labelColor=green&color=gray) |  |  |  |  |\n|  | ![Flet](https://img.shields.io/badge/flet-%20?style=plastic&logo=flet&logoColor=white&labelColor=green&color=gray) |  |  |  |  |  |  |  |  |\n\n</center>\n",
+    "profile_summary": null
+}

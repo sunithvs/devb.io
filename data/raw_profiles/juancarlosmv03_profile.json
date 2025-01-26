@@ -1,0 +1,81 @@
+{
+    "username": "juancarlosmv03",
+    "name": "Juan Carlos Montesinos Villa",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146182720?u=e34ea0be08a34d2b951f87715b7a50c61184ecaf&v=4",
+    "profile_url": "https://github.com/juancarlosmv03",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ProyectoBootstrap",
+            "description": null,
+            "score": 10.45015244275062,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/juancarlosmv03/ProyectoBootstrap",
+            "updatedAt": "2025-01-14T10:51:21Z",
+            "isPinned": true,
+            "homepage": "https://juancarlosmv03.github.io/ProyectoBootstrap/"
+        },
+        {
+            "name": "ProyectoLenguaje",
+            "description": null,
+            "score": 1.2034666775413903,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/juancarlosmv03/ProyectoLenguaje",
+            "updatedAt": "2023-11-04T09:38:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "eed-tema4-p1",
+            "description": null,
+            "score": 0.2614801875083386,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/juancarlosmv03/eed-tema4-p1",
+            "updatedAt": "2024-03-25T16:20:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ejemplo",
+            "description": null,
+            "score": 0.16304175809066213,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/juancarlosmv03/Ejemplo",
+            "updatedAt": "2023-10-23T15:34:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

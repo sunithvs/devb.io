@@ -1,0 +1,133 @@
+{
+    "username": "bymykel",
+    "name": "bymykel",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/38622893?u=52c00cc4551e0d0d735f57a7c82fb28bf958d38c&v=4",
+    "profile_url": "https://github.com/ByMykel",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CSGO-API",
+            "description": "An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits.",
+            "score": 27.229430931145988,
+            "stars": 329,
+            "forks": 36,
+            "language": "JavaScript",
+            "url": "https://github.com/ByMykel/CSGO-API",
+            "updatedAt": "2025-01-25T12:50:13Z",
+            "isPinned": true,
+            "homepage": "https://bymykel.github.io/CSGO-API/"
+        },
+        {
+            "name": "counter-strike-image-tracker",
+            "description": "Track Counter-Strike 2 images",
+            "score": 20.517066109376046,
+            "stars": 27,
+            "forks": 10,
+            "language": "JavaScript",
+            "url": "https://github.com/ByMykel/counter-strike-image-tracker",
+            "updatedAt": "2025-01-25T00:06:31Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "counter-strike-file-tracker",
+            "description": "Track Counter-Strike 2 files and parse them to JSON",
+            "score": 19.796619887656313,
+            "stars": 24,
+            "forks": 7,
+            "language": "JavaScript",
+            "url": "https://github.com/ByMykel/counter-strike-file-tracker",
+            "updatedAt": "2025-01-22T07:09:39Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "counter-strike-items",
+            "description": "Browse all CS2 and CS:GO skins, knives, gloves, cases, collections, stickers, music kits, and more.",
+            "score": 19.318052496289297,
+            "stars": 27,
+            "forks": 4,
+            "language": "Vue",
+            "url": "https://github.com/ByMykel/counter-strike-items",
+            "updatedAt": "2025-01-26T08:59:16Z",
+            "isPinned": true,
+            "homepage": "https://bymykel.github.io/counter-strike-items/"
+        },
+        {
+            "name": "counter-strike-price-tracker",
+            "description": "Track Counter-Strike 2 prices.",
+            "score": 15.129777638927584,
+            "stars": 4,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/ByMykel/counter-strike-price-tracker",
+            "updatedAt": "2025-01-26T05:45:13Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "valve-keyvalues-parser",
+            "description": "Online format parser/stringifier tool and curated list of JavaScript libraries to parse and stringify the KeyValues format / Valve Data Format (VDF)",
+            "score": 13.814564007356475,
+            "stars": 5,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/ByMykel/valve-keyvalues-parser",
+            "updatedAt": "2024-09-16T20:21:12Z",
+            "isPinned": true,
+            "homepage": "https://bymykel.github.io/valve-keyvalues-parser/"
+        },
+        {
+            "name": "spanish-cities",
+            "description": "A library that provides data on Spain's autonomies, provinces, and cities, including their codes, names, flags, and coats of arms for seamless integration into your applications.",
+            "score": 4.073084395469384,
+            "stars": 2,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/ByMykel/spanish-cities",
+            "updatedAt": "2025-01-12T21:27:11Z",
+            "isPinned": false,
+            "homepage": "https://npm.im/all-spanish-cities"
+        },
+        {
+            "name": "Codeforces",
+            "description": "Personal Codeforces playground.",
+            "score": 1.106436983501042,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/ByMykel/Codeforces",
+            "updatedAt": "2022-07-01T22:13:52Z",
+            "isPinned": false,
+            "homepage": "https://codeforces.com"
+        }
+    ],
+    "followers": 60,
+    "following": 4,
+    "public_repos": 47,
+    "pull_requests_merged": 1,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 3415,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,138 @@
+{
+    "username": "enriquejgilq",
+    "name": "Enrique Gil",
+    "bio": "FrontEnd Dev",
+    "location": "Colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/35854635?u=43224428eab8dc2da622d3a8c919c4ee9a65106b&v=4",
+    "profile_url": "https://github.com/enriquejgilq",
+    "top_languages": [
+        [
+            "TypeScript",
+            7
+        ],
+        [
+            "JavaScript",
+            16
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "project-back",
+            "description": null,
+            "score": 1.54566295495894,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/enriquejgilq/project-back",
+            "updatedAt": "2023-08-17T03:04:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project-front",
+            "description": null,
+            "score": 1.54566295495894,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/enriquejgilq/project-front",
+            "updatedAt": "2023-09-02T17:17:11Z",
+            "isPinned": false,
+            "homepage": "https://enriquejgilq.github.io/project-front/"
+        },
+        {
+            "name": "lqn-test",
+            "description": null,
+            "score": 1.4604466451371916,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/enriquejgilq/lqn-test",
+            "updatedAt": "2022-10-02T04:49:13Z",
+            "isPinned": false,
+            "homepage": "lqn-test-cyw6.vercel.app"
+        },
+        {
+            "name": "conf-platzi",
+            "description": null,
+            "score": 1.460305181468249,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/enriquejgilq/conf-platzi",
+            "updatedAt": "2022-10-02T04:50:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "heroes",
+            "description": null,
+            "score": 1.4545400919202176,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/enriquejgilq/heroes",
+            "updatedAt": "2022-10-02T04:49:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "imgs",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/enriquejgilq/imgs",
+            "updatedAt": "2025-01-22T00:07:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "backend-products",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/enriquejgilq/backend-products",
+            "updatedAt": "2025-01-08T04:40:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test_fasco",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/enriquejgilq/test_fasco",
+            "updatedAt": "2024-12-17T22:53:27Z",
+            "isPinned": false,
+            "homepage": "https://test-fasco.vercel.app"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 30,
+    "pull_requests_merged": 13,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 106,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/enriquegilq"
+        }
+    ],
+    "readme_content": "<p align=\"center\">\n  <a href=\"https://github.com/DenverCoder1/readme-typing-svg\">\n    <img src=\"https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+Soy+Enrique+Gil+Frontend+Developer\">\n  </a>\n</p>\n <div align=\"center\">\n\n<a href=\"https://github.com/enriquejgilq/\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=enriquejgilq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40\" width=\"450\"/>\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=enriquejgilq&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40\" width=\"375\"  alt=\"enriquejgilq\"/>\n\n</a>\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

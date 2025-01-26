@@ -1,0 +1,132 @@
+{
+    "username": "asosa17",
+    "name": "Alejandro Sosa Fern\u00e1ndez",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/117280462?u=2fef537b1e6377bbfb1279e3a5de1fcdea52a2d2&v=4",
+    "profile_url": "https://github.com/Asosa17",
+    "top_languages": [
+        [
+            "Kotlin",
+            2
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AppGym",
+            "description": null,
+            "score": 1.6452269480948412,
+            "stars": 1,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Asosa17/AppGym",
+            "updatedAt": "2024-10-08T20:58:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AppGym-2",
+            "description": null,
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Asosa17/AppGym-2",
+            "updatedAt": "2024-10-09T13:45:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "primeraApp2",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Asosa17/primeraApp2",
+            "updatedAt": "2024-06-07T12:01:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AppGymWeb",
+            "description": null,
+            "score": 0.2730717679880512,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Asosa17/AppGymWeb",
+            "updatedAt": "2024-05-30T15:39:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MyGoals",
+            "description": null,
+            "score": 0.16857024084505,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Asosa17/MyGoals",
+            "updatedAt": "2024-01-16T08:32:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NBAproject",
+            "description": null,
+            "score": 0.16315741684715643,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Asosa17/NBAproject",
+            "updatedAt": "2023-10-26T07:56:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "P2_2_Figuras",
+            "description": null,
+            "score": 0.16219500829350678,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Asosa17/P2_2_Figuras",
+            "updatedAt": "2023-10-09T06:38:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PracticaMcdonalds",
+            "description": null,
+            "score": 0.07515561312384325,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Asosa17/PracticaMcdonalds",
+            "updatedAt": "2022-12-14T12:52:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 5,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

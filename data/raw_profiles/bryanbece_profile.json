@@ -1,0 +1,138 @@
+{
+    "username": "bryanbece",
+    "name": "Bryan Becerra",
+    "bio": "Analista Programador.",
+    "location": "Chile",
+    "avatar_url": "https://avatars.githubusercontent.com/u/95456590?u=b28532fe5a1b3e15c0354edf37bc1f5e0ed956da&v=4",
+    "profile_url": "https://github.com/BryanBece",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PortafolioTitulo",
+            "description": null,
+            "score": 1.909693979120419,
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/BryanBece/PortafolioTitulo",
+            "updatedAt": "2024-07-03T00:40:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "inventoryCrud",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/BryanBece/inventoryCrud",
+            "updatedAt": "2024-11-20T00:43:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PokeWeb",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/BryanBece/PokeWeb",
+            "updatedAt": "2024-11-20T01:14:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "webRifa",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/BryanBece/webRifa",
+            "updatedAt": "2024-09-30T21:25:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portafolio",
+            "description": "Portafolio web",
+            "score": 0.2496333225393017,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/BryanBece/Portafolio",
+            "updatedAt": "2024-11-21T22:41:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ElComilon",
+            "description": "Proyecto web realizado para ingenier\u00eda de software",
+            "score": 0.23382343393196356,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/BryanBece/ElComilon",
+            "updatedAt": "2024-11-20T01:44:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BotPractica",
+            "description": null,
+            "score": 0.16754045829017827,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/BryanBece/BotPractica",
+            "updatedAt": "2024-01-12T18:55:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proyectoIonic",
+            "description": null,
+            "score": 0.15975508997539395,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/BryanBece/proyectoIonic",
+            "updatedAt": "2023-08-28T23:04:49Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 161,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/bryan-becerra-p/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

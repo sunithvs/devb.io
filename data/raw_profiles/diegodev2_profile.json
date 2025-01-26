@@ -1,0 +1,133 @@
+{
+    "username": "diegodev2",
+    "name": "DiegoDev",
+    "bio": "swd & devops. 15.01.2009.\r\nLucas 18:27\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/144474823?u=0bdedf29935a3402cfcc4128deec7de15fbd844b&v=4",
+    "profile_url": "https://github.com/DiegoDev2",
+    "top_languages": [
+        [
+            "Go",
+            6
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Lua",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Fleet",
+            "description": "Fleet - Modern Package manager for MacOS.",
+            "score": 18.796976914175186,
+            "stars": 20,
+            "forks": 4,
+            "language": "Go",
+            "url": "https://github.com/DiegoDev2/Fleet",
+            "updatedAt": "2025-01-13T00:34:55Z",
+            "isPinned": true,
+            "homepage": "https://fleetpkg.vercel.app/"
+        },
+        {
+            "name": "psicologo.ai",
+            "description": "Sample psicologe AI",
+            "score": 13.899069909342577,
+            "stars": 5,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/DiegoDev2/psicologo.ai",
+            "updatedAt": "2024-10-31T19:08:14Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Resq",
+            "description": "Resq is a simple CLI tool in Go for HTTP requests to APIs.",
+            "score": 12.553968847555256,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/DiegoDev2/Resq",
+            "updatedAt": "2024-11-26T01:17:03Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "v-learn",
+            "description": "Learn The V Programming Language Repository.",
+            "score": 12.534860802508888,
+            "stars": 2,
+            "forks": 0,
+            "language": "V",
+            "url": "https://github.com/DiegoDev2/v-learn",
+            "updatedAt": "2025-01-07T18:50:17Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "diegodev1.vercel.app",
+            "description": null,
+            "score": 10.29976340837586,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/DiegoDev2/diegodev1.vercel.app",
+            "updatedAt": "2025-01-18T00:03:16Z",
+            "isPinned": true,
+            "homepage": "https://diegodev1.vercel.app"
+        },
+        {
+            "name": "Splay",
+            "description": "Streaming reimagined ad-free, copyright-free.",
+            "score": 1.752653366133849,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/DiegoDev2/Splay",
+            "updatedAt": "2025-01-18T04:20:16Z",
+            "isPinned": false,
+            "homepage": "https://splayy.vercel.app"
+        },
+        {
+            "name": "DiegoDev2",
+            "description": null,
+            "score": 1.6429878835697518,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/DiegoDev2/DiegoDev2",
+            "updatedAt": "2025-01-13T00:26:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "k8s-apps",
+            "description": "My Kubernetes App's",
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/DiegoDev2/k8s-apps",
+            "updatedAt": "2025-01-12T22:35:49Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 60,
+    "following": 21,
+    "public_repos": 27,
+    "pull_requests_merged": 62,
+    "issues_closed": 26,
+    "achievements": {
+        "total_contributions": 579,
+        "repositories_contributed_to": 23
+    },
+    "social_accounts": [],
+    "readme_content": "\n# \ud83d\udcab About Me:\n\ud83d\udd2d I\u2019m currently working on DevOps pipelines and web/CLI development.  \n\ud83d\udc6f I\u2019m looking to collaborate on open-source projects.  \n\ud83c\udf31 I\u2019m currently learning advanced Golang and systems programming.  \n\ud83d\udcac Ask me about DevOps, web dev, CLI tools, or Golang.  \n\u26a1 Fun fact: I love exploring low-level languages for high-performance code.  \n\n## \ud83c\udf10 Socials:\n[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0xdxb)  \n[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dxb_0x)  \n\n# \ud83d\udcbb Tech Stack:\n[![My Skills](https://skillicons.dev/icons?i=go,rust,c,zig,typescript,javascript,html,css,react,nextjs,astro,tailwind,vercel,docker,kubernetes,terraform,grafana,neovim,linux,apple,arch,bash,githubactions,git,github,figma&)](https://skillicons.dev)\n\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=DiegoDev2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  \n![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoDev2&theme=onedark&hide_border=true)<br/>  \n![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDev2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  \n\n### \ud83d\udd1d Top Contributed Repo\n![](https://github-contributor-stats.vercel.app/api?username=DiegoDev2&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)  \n\n---\n[![](https://visitcount.itsvg.in/api?id=DiegoDev2&icon=0&color=0)](https://visitcount.itsvg.in)  \n\n\n### \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=DiegoDev2&theme=onedark&hide_border=true)\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

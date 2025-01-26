@@ -1,0 +1,142 @@
+{
+    "username": "2jsdev",
+    "name": "Jordy Morales",
+    "bio": "@unosquare",
+    "location": "Cochabamba, Bolivia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/51468253?u=0c2166f8a3b7905568e46a0e01fdef0dc587db2a&v=4",
+    "profile_url": "https://github.com/2jsdev",
+    "top_languages": [
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "wookielink",
+            "description": null,
+            "score": 12.496191357899974,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/2jsdev/wookielink",
+            "updatedAt": "2025-01-22T18:17:46Z",
+            "isPinned": true,
+            "homepage": "https://wookiel.ink/"
+        },
+        {
+            "name": "personal-portfolio",
+            "description": "Jordy's portfolio website",
+            "score": 2.42604507098072,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/2jsdev/personal-portfolio",
+            "updatedAt": "2024-09-20T03:03:50Z",
+            "isPinned": false,
+            "homepage": "https://2jsdev.me/"
+        },
+        {
+            "name": "jdraw",
+            "description": null,
+            "score": 1.6282099777081989,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/2jsdev/jdraw",
+            "updatedAt": "2024-09-20T02:32:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "custom-hooks",
+            "description": null,
+            "score": 1.5849939988721173,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/2jsdev/custom-hooks",
+            "updatedAt": "2024-09-10T16:59:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "design-patterns",
+            "description": null,
+            "score": 1.1973967177317772,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/2jsdev/design-patterns",
+            "updatedAt": "2023-07-08T23:22:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "learn-next",
+            "description": null,
+            "score": 0.25785995122869343,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/2jsdev/learn-next",
+            "updatedAt": "2024-02-26T14:15:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-dashboard",
+            "description": null,
+            "score": 0.25520031108745,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/2jsdev/nextjs-dashboard",
+            "updatedAt": "2024-02-05T00:48:03Z",
+            "isPinned": false,
+            "homepage": "https://nextjs-dashboard-2jsdev.vercel.app"
+        },
+        {
+            "name": "icons",
+            "description": null,
+            "score": 0.15898970131895468,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/2jsdev/icons",
+            "updatedAt": "2023-08-06T20:31:17Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 15,
+    "following": 43,
+    "public_repos": 26,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 221,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/2jsdev"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jordymorales"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**2jsdev/2jsdev** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

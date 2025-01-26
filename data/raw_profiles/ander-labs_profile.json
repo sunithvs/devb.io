@@ -1,0 +1,150 @@
+{
+    "username": "ander-labs",
+    "name": "Ander",
+    "bio": "Full Stack Web Developer. I am dedicated to the development of websites, webapps and custom web software.",
+    "location": "Per\u00fa",
+    "avatar_url": "https://avatars.githubusercontent.com/u/119770203?u=338c33a9391f10a4b50e84bd204703e3cd40e9ad&v=4",
+    "profile_url": "https://github.com/Ander-Labs",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Astro",
+            6
+        ],
+        [
+            "MDX",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "stack-code",
+            "description": "Una plataforma de c\u00f3digo abierto dise\u00f1ada para que desarrolladores de todos los niveles compartan y descubran stacks tecnol\u00f3gicos usados en diferentes proyectos. Optimiza tu aprendizaje y colaboraci\u00f3n dentro de la comunidad.",
+            "score": 11.703004063287983,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Ander-Labs/stack-code",
+            "updatedAt": "2024-11-04T22:35:47Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "financial-calculators",
+            "description": "Basic financial calculator. This is a project that I am developing in conjunction with my mathematics for finance course...",
+            "score": 10.343292802808733,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Ander-Labs/financial-calculators",
+            "updatedAt": "2024-11-09T16:10:06Z",
+            "isPinned": true,
+            "homepage": "https://financial-calculator-plum.vercel.app"
+        },
+        {
+            "name": "api-cloner-free-go",
+            "description": "This project focuses on cloning data from public APIs to create a locally accessible copy of the information, allowing developers to work without relying on external servers. ",
+            "score": 10.33093592369364,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Ander-Labs/api-cloner-free-go",
+            "updatedAt": "2024-11-19T21:44:17Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Garden-Code-Devs",
+            "description": "Garden Code es una plataforma de c\u00f3digo abierto dedicada a proporcionar una gran variedad de recursos para desarrolladores",
+            "score": 10.280276487640329,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Ander-Labs/Garden-Code-Devs",
+            "updatedAt": "2024-10-01T17:27:50Z",
+            "isPinned": true,
+            "homepage": "https://www.garden-code.lat"
+        },
+        {
+            "name": "MyGym",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Ander-Labs/MyGym",
+            "updatedAt": "2025-01-04T14:50:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "garden-code",
+            "description": "Garden Code is an open source platform dedicated to providing a wide variety of resources for developers.",
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Ander-Labs/garden-code",
+            "updatedAt": "2025-01-04T14:51:48Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "docs",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "MDX",
+            "url": "https://github.com/Ander-Labs/docs",
+            "updatedAt": "2024-11-13T16:08:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jaque-mate-del-amor",
+            "description": null,
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Ander-Labs/jaque-mate-del-amor",
+            "updatedAt": "2024-11-13T17:38:25Z",
+            "isPinned": false,
+            "homepage": "https://jaque-mate-del-amor.vercel.app"
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 211,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ander.labs/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ander-labs/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/Ander_Labs"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@Ander-Labs"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b\ud83c\udffb, I'm Anderson Ruiz</br> </h1>\n<h2 align=\"center\">Frontend Developer</h2>\n\n\n* \ud83c\udf0d\u00a0 I'm based in Per\u00fa\n* \ud83d\udda5\ufe0f\u00a0 See my portfolio at [Ander-Labs](http://ander-labs.vercel.app )\n* \u2709\ufe0f\u00a0 You can contact me at [contact@ander-labs.site](mailto:anderlabss@gmail.com)\n* \ud83e\udde0\u00a0 I'm learning Python\n\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7M8JY2)\n\n---\n# \ud83d\udcab About Me:\n<p align=\"center\">Hey!!!, \ud83d\udcbb\u2728 Ready to make your projects shine on the web with a touch of creativity and a lot of coffee! \u2615\ufe0f\ud83d\ude80.</p>\n\n\n## \ud83c\udf10 Socials: \n[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ander-Labs)\n[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ander-Labs)\n[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ander-Labs)\n<!--[![Dev.to](https://img.shields.io/badge/DEV.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/ander-labs)-->\n\n\n<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093439878416) -->\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/and_tzu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ruiz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ander_Labs)\n<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anderlabss) -->\n\n\n\n\n# Tech Stack \ud83d\udcbb\n### Languages\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\n\n![typescript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white\n)\n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\n![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) \n\n### Framework/Library\n![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) \n![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white\n)\n![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)\n![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\n![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)\n\n\n<!--### Python Framework/Library-->\n<!--![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)-->\n<!--![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)-->\n<!--![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)-->\n\n### Database/State\n![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)\n![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)\n![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)\n![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)\n![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)\n![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase\n)\n\n\n<!--### Backend-->\n<!--![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->\n<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->\n<!--![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)-->\n\n### Web Hosting\n![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)\n![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)\n![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)\n![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)\n\n### other tools\n![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)\n![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)\n![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)\n![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\n![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)\n![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)\n![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\n![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)\n![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)\n![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)\n![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n![VITE](https://img.shields.io/badge/Vite-%2306465D.svg?style=for-the-badge&logo=vite&logoColor=white\n)\n[![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io)\n\n\n# \ud83d\udcca GitHub Stats:\n\n<a href=\"http://www.github.com/Ander-Labs\"><img src=\"https://github-readme-stats.vercel.app/api?username=Ander-Labs&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true\" alt=\"Ander-Labs's GitHub stats\" /></a>\n\n<a href=\"http://www.github.com/Ander-Labs\"><img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Ander-Labs&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true\" /></a>\n\n<a href=\"https://github.com/Ander-Labs\" align=\"left\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Ander-Labs&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages\" alt=\"Top Languages\" /></a> \n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,137 @@
+{
+    "username": "horaciodiaz",
+    "name": "Juan Horacio Diaz",
+    "bio": "Computer Engineering Student",
+    "location": "Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74941027?u=77f5f9be76edda942c62ceb73d2e10fca58d3f0a&v=4",
+    "profile_url": "https://github.com/Horaciodiaz",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ecommerce-php-angular",
+            "description": "Ecommerce + landing page realizada mediante php vanilla y angular 16",
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Horaciodiaz/ecommerce-php-angular",
+            "updatedAt": "2025-01-17T20:57:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CodoACodo",
+            "description": "tp integrador front end codo a codo grupo 4",
+            "score": 0.2703152699749518,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Horaciodiaz/CodoACodo",
+            "updatedAt": "2024-07-04T18:59:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "angular-curso",
+            "description": "apps de curso de angular",
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Horaciodiaz/angular-curso",
+            "updatedAt": "2024-05-19T02:57:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SQLnodeJS",
+            "description": null,
+            "score": 0.16281242427639875,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Horaciodiaz/SQLnodeJS",
+            "updatedAt": "2023-10-20T05:10:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NodeJS_udemy",
+            "description": null,
+            "score": 0.16132990782710885,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Horaciodiaz/NodeJS_udemy",
+            "updatedAt": "2023-10-19T18:39:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CRUDudemy",
+            "description": null,
+            "score": 0.1608594760130434,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Horaciodiaz/CRUDudemy",
+            "updatedAt": "2023-09-14T06:53:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "full_stack_open",
+            "description": null,
+            "score": 0.16065396627924597,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Horaciodiaz/full_stack_open",
+            "updatedAt": "2023-09-09T23:57:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Repositorio-Back-End",
+            "description": "Mi Portfolio #YoPrograma3",
+            "score": 0.07360013139715336,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Horaciodiaz/Repositorio-Back-End",
+            "updatedAt": "2022-08-19T02:00:34Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 92,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/juan-horacio-diaz/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

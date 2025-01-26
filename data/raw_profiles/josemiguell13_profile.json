@@ -1,0 +1,133 @@
+{
+    "username": "josemiguell13",
+    "name": "Jose Miguel Angel Gudi\u00f1o Galindo",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98902822?v=4",
+    "profile_url": "https://github.com/JOSEMIGUELL13",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Java",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "La_Monstera",
+            "description": "pagina web para negocio local de venta de ensaldas.",
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JOSEMIGUELL13/La_Monstera",
+            "updatedAt": "2025-01-24T19:19:18Z",
+            "isPinned": false,
+            "homepage": "https://lamonstera.vercel.app"
+        },
+        {
+            "name": "La_Monstera.github.io",
+            "description": "pagina web de negocio de venta de ensaladas",
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JOSEMIGUELL13/La_Monstera.github.io",
+            "updatedAt": "2025-01-22T13:37:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portafolio",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JOSEMIGUELL13/portafolio",
+            "updatedAt": "2025-01-18T17:56:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Login",
+            "description": "login de la app de gh",
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JOSEMIGUELL13/Login",
+            "updatedAt": "2025-01-08T18:57:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "adminDBDB",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JOSEMIGUELL13/adminDBDB",
+            "updatedAt": "2024-06-04T18:26:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "adobe",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JOSEMIGUELL13/adobe",
+            "updatedAt": "2024-06-04T18:05:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "administracionDeBasesDeDatos",
+            "description": null,
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JOSEMIGUELL13/administracionDeBasesDeDatos",
+            "updatedAt": "2024-06-04T18:04:44Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "jar",
+            "description": null,
+            "score": 0.07235103903196255,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JOSEMIGUELL13/jar",
+            "updatedAt": "2022-04-30T04:43:43Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

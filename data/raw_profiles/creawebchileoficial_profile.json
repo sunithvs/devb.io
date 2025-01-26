@@ -1,0 +1,133 @@
+{
+    "username": "creawebchileoficial",
+    "name": "Crea web Chile Oficial",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/170782362?u=f968c06d0dcf8bdccb23e8258195d1e018665e00&v=4",
+    "profile_url": "https://github.com/Creawebchileoficial",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "CSS",
+            5
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Barberia-Jmurga",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Creawebchileoficial/Barberia-Jmurga",
+            "updatedAt": "2025-01-23T01:44:47Z",
+            "isPinned": false,
+            "homepage": "https://ljmurgabarbershop.trustzonestore.com/"
+        },
+        {
+            "name": "gestiondeventas",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Creawebchileoficial/gestiondeventas",
+            "updatedAt": "2025-01-15T21:53:24Z",
+            "isPinned": false,
+            "homepage": "https://sellstream.trustzonestore.com/"
+        },
+        {
+            "name": "La-casa-del-clavel",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Creawebchileoficial/La-casa-del-clavel",
+            "updatedAt": "2025-01-23T01:20:43Z",
+            "isPinned": false,
+            "homepage": "https://lacasadelclavel.trustzonestore.com/"
+        },
+        {
+            "name": "phishing",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Creawebchileoficial/phishing",
+            "updatedAt": "2025-01-03T00:32:11Z",
+            "isPinned": false,
+            "homepage": "https://protegetedelphishing.lat/"
+        },
+        {
+            "name": "linkedwarp",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Creawebchileoficial/linkedwarp",
+            "updatedAt": "2024-12-31T06:41:51Z",
+            "isPinned": false,
+            "homepage": "https://creawebchile.github.io/linkedwarp/"
+        },
+        {
+            "name": "SignUP-SignIn-Form-with-connection-to-FIrebase-main",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Creawebchileoficial/SignUP-SignIn-Form-with-connection-to-FIrebase-main",
+            "updatedAt": "2024-12-31T06:37:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Kaibby",
+            "description": null,
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Creawebchileoficial/Kaibby",
+            "updatedAt": "2024-12-27T17:57:50Z",
+            "isPinned": false,
+            "homepage": "https://kaibby.me/"
+        },
+        {
+            "name": "Peluqueria-amigo-fiel",
+            "description": null,
+            "score": 0.40392376209658654,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Creawebchileoficial/Peluqueria-amigo-fiel",
+            "updatedAt": "2024-12-23T04:50:02Z",
+            "isPinned": false,
+            "homepage": "https://creawebchile.github.io/Peluqueria-amigo-fiel/"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 120,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

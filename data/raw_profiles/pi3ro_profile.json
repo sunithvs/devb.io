@@ -1,0 +1,88 @@
+{
+    "username": "pi3ro",
+    "name": "Piero",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/79049747?u=65d2551099b46bd0ee9a3f82ebe87a7ec81e9fe1&v=4",
+    "profile_url": "https://github.com/Pi3ro",
+    "top_languages": [
+        [
+            "Kotlin",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cps-tester-kmp",
+            "description": "CPS Tester app for Android and Desktop with a shared UI",
+            "score": 10.321651032581054,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Pi3ro/cps-tester-kmp",
+            "updatedAt": "2024-10-13T09:01:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ktDisguise",
+            "description": "ktDisguise is a plugin based on Lunar Network Disguise",
+            "score": 10.283918636686439,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Pi3ro/ktDisguise",
+            "updatedAt": "2024-07-15T16:14:10Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "PvPLoungeHub",
+            "description": "PvPLounge Hub Replica",
+            "score": 10.241836583739557,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Pi3ro/PvPLoungeHub",
+            "updatedAt": "2024-10-26T18:47:16Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Ranking",
+            "description": "Ranking is a plugin based on Valorant ranks with points.",
+            "score": 10.161224389159706,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Pi3ro/Ranking",
+            "updatedAt": "2023-09-21T02:56:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "serenata-app-kmp",
+            "description": "Music app for Android and Desktop with a shared UI in Kotlin Multiplatform",
+            "score": 0.32501859800329747,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Pi3ro/serenata-app-kmp",
+            "updatedAt": "2024-10-18T15:50:29Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 4,
+    "following": 6,
+    "public_repos": 8,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1287,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

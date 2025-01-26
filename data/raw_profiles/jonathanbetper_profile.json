@@ -1,0 +1,133 @@
+{
+    "username": "jonathanbetper",
+    "name": "JonathanB",
+    "bio": "\r\n",
+    "location": "Las Palmas de Gran Canaria",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116760545?u=79d41ff061d1702968cc6607ed79732b15ff4d14&v=4",
+    "profile_url": "https://github.com/JonathanBetPer",
+    "top_languages": [
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Java",
+            5
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "JonathanBetPer",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6097833388975307,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JonathanBetPer/JonathanBetPer",
+            "updatedAt": "2024-11-12T17:09:57Z",
+            "isPinned": false,
+            "homepage": "https://github.com/JonathanBetPer"
+        },
+        {
+            "name": "ip-address-tracker",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JonathanBetPer/ip-address-tracker",
+            "updatedAt": "2024-12-13T01:12:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "view-images",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonathanBetPer/view-images",
+            "updatedAt": "2024-12-11T19:56:29Z",
+            "isPinned": false,
+            "homepage": "https://jonathanbetper.github.io/view-images/"
+        },
+        {
+            "name": "disquete",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JonathanBetPer/disquete",
+            "updatedAt": "2024-11-27T20:30:32Z",
+            "isPinned": false,
+            "homepage": "https://jonathanbetper.github.io/disquete/"
+        },
+        {
+            "name": "social-cards",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JonathanBetPer/social-cards",
+            "updatedAt": "2024-11-28T01:36:37Z",
+            "isPinned": false,
+            "homepage": "https://jonathanbetper.github.io/social-cards/"
+        },
+        {
+            "name": "chat-screen",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonathanBetPer/chat-screen",
+            "updatedAt": "2024-11-26T18:36:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ScholaGate-API",
+            "description": "API Restful con SpringBoot para el proyecto ScholaGate",
+            "score": 0.2652054759221037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JonathanBetPer/ScholaGate-API",
+            "updatedAt": "2024-12-29T17:24:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ScholaGate-AppAndroid",
+            "description": "App M\u00f3vil con Kotlin para el proyecto ScholaGate",
+            "score": 0.2652054759221037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/JonathanBetPer/ScholaGate-AppAndroid",
+            "updatedAt": "2024-12-29T17:27:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 10,
+    "following": 25,
+    "public_repos": 32,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 223,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "readme_content": "# Sobre m\u00ed:\nDesarrollo de Aplicaciones Multiplataforma y T\u00e9cnico en Sistemas MIcroinform\u00e1ticos y Redes \ud83d\udc68\u200d\ud83d\udcbb\n\n\n## \ud83c\udf10 Redes Sociales:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-betancor-perdomo)\n\n# \ud83d\udcbb Tech Stack:\n![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) \n\n ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) \n![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\n\n![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) \n\n![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) \n\n![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) \n\n<!-- ReadMe creado con GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

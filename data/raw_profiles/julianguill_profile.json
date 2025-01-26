@@ -1,0 +1,97 @@
+{
+    "username": "julianguill",
+    "name": "Saviel J. Isculpi H.",
+    "bio": "     Juli\u00e1n Herrera soy un desarrollador junior con experiencia en paginas webs y desarrollo app-desktop.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/126304467?u=e6cf1bc00057fd7bc20be59bb93b7627aae4449e&v=4",
+    "profile_url": "https://github.com/julianguill",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CRUD-PHP-MYSQL",
+            "description": "CRUD sencillo con html, css, js y php utilizando fetch.",
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/julianguill/CRUD-PHP-MYSQL",
+            "updatedAt": "2025-01-21T01:30:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Calculadora-HTML-y-CSS",
+            "description": "Calculadora basica con html y CSS ",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/julianguill/Calculadora-HTML-y-CSS",
+            "updatedAt": "2024-10-28T13:00:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Juego-de-la-vieja-con-Python",
+            "description": "juego de la vieja con python y tkinter",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/julianguill/Juego-de-la-vieja-con-Python",
+            "updatedAt": "2024-10-28T13:06:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "listado-de-productos-con-c-",
+            "description": "programa sencillo que utiliza ficheros para crear una lista de productos en bs y $",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/julianguill/listado-de-productos-con-c-",
+            "updatedAt": "2024-10-28T12:55:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "prueba-de-MVC-php",
+            "description": "prueba academica con php y Mysql incoporando MVC",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/julianguill/prueba-de-MVC-php",
+            "updatedAt": "2024-10-28T13:12:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

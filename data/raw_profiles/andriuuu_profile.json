@@ -1,0 +1,133 @@
+{
+    "username": "andriuuu",
+    "name": "Andr\u00e9s Molina Gonz\u00e1lez",
+    "bio": "",
+    "location": "San Fernando, C\u00e1diz.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/66785221?u=7ecb74d961ae46484f5014db40c36c6674e8a055&v=4",
+    "profile_url": "https://github.com/AndriuuU",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "React-Proyecto4-Too-Cars",
+            "description": "Proyecto de React desarrollando una p\u00e1gina web de coches japoneses",
+            "score": 10.347424233849575,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AndriuuU/React-Proyecto4-Too-Cars",
+            "updatedAt": "2024-12-12T20:13:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ProyectConsultaAPI",
+            "description": null,
+            "score": 10.234487493351889,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/AndriuuU/ProyectConsultaAPI",
+            "updatedAt": "2024-04-17T22:49:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ProyectConsultasWeb",
+            "description": null,
+            "score": 10.233350254292514,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AndriuuU/ProyectConsultasWeb",
+            "updatedAt": "2024-04-17T22:47:30Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Django-BBDD-Vapers",
+            "description": null,
+            "score": 10.151992980321918,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AndriuuU/Django-BBDD-Vapers",
+            "updatedAt": "2023-02-07T08:24:16Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "SalesInApiRest",
+            "description": null,
+            "score": 10.151738136495847,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AndriuuU/SalesInApiRest",
+            "updatedAt": "2023-01-30T11:13:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AD-Grupo3",
+            "description": "Trabajo de acceso a datos con Spring",
+            "score": 10.149681447670867,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AndriuuU/AD-Grupo3",
+            "updatedAt": "2023-04-09T02:29:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "TrabajoRa2",
+            "description": null,
+            "score": 1.1138990311971746,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/AndriuuU/TrabajoRa2",
+            "updatedAt": "2022-10-06T11:42:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Testing-en-producci-n",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AndriuuU/Testing-en-producci-n",
+            "updatedAt": "2025-01-16T21:55:37Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 38,
+    "pull_requests_merged": 15,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 155,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "# \u00a1Hola! \ud83d\udc4b Soy Andr\u00e9s Molina Gonz\u00e1lez\n\n## Acerca de m\u00ed\nSoy un desarrollador Junior FullStack Aqu\u00ed hay un vistazo r\u00e1pido de mis habilidades y experiencias:\n\n- \ud83d\udcbb Lenguajes de back: Java + SpringBoot, Python + Django, PHP + Laravel\n- \ud83c\udf10 Tecnolog\u00edas front: HTML, CSS, React, PHP, JavaScript, Dart + Flutter\n- \ud83d\udee0\ufe0f Otros: Git, SQL\n\n## Proyectos Destacados\nAqu\u00ed hay algunos proyectos en los que he trabajado recientemente:\n\n### [Aplicaci\u00f3n React con API](https://github.com/AndriuuU/React-Proyecto4-Too-Cars)\nEs un proyecto de una web utilizando una api externa para poder ver coches, el proyecto tiene control de usuario, opciones de usuario y selecci\u00f3n de favoritos.\n### [Aplicacion flutter](https://github.com/AndriuuU/ProyectConsultaAPI/tree/main/consulta_dermatologica)\nEs una aplicacion para gestionar las citas de una consulta medica, el desarrollo consta de dos partes, la parte de front-end que es la aplicaci\u00f3n y la api donde se gestiona os datos de la misma pudiendo el admin gestionarlo todo a traves de la p\u00e1gina web\n\n### [Desarrollo de Spring boot Api](https://github.com/AndriuuU/ProyectConsultaAPI/tree/main/SpringApiConsulta)\nEs un desarrollo de una API en Spring boot para que pueda hacer cualquier tipo de consulta la aplicaci\u00f3n movil con los servicios necesarios.\n\n### [Desarrollo de Spring boot P\u00e1gina web](https://github.com/AndriuuU/ProyectConsultasWeb)\nEs un dearrollo de una p\u00e1gina web a traves de Spring boot para que el administrador pueda gestionar todos los datos de necesarios de la aplicacion y de la api.\n\n<!--\n## Estad\u00edsticas de GitHub\n![Estad\u00edsticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndriuuU&show_icons=true&theme=radical)\n-->\n\n## Contacto\n- \ud83d\udce7 Correo electr\u00f3nico: andresmolinagonz@gmail.com\n\n\u00a1Gracias por visitar mi perfil! \ud83d\udc40\n<!--\n**AndriuuU/AndriuuU** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

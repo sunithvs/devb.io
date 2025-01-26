@@ -1,0 +1,74 @@
+{
+    "username": "mendozanatalia",
+    "name": "Natalia Mendoza",
+    "bio": "Hi! This is Natalia. I'm 22 years old Graphic Designer and Software Development student, from Cochabamba, Bolivia.",
+    "location": "Bolivia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/187421847?u=b750e672225dcb18c5b14e6e3ec5935f260eba0c&v=4",
+    "profile_url": "https://github.com/mendozanatalia",
+    "top_languages": [
+        [
+            "C#",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cse210",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/mendozanatalia/cse210",
+            "updatedAt": "2025-01-24T23:08:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wdd131",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mendozanatalia/wdd131",
+            "updatedAt": "2025-01-17T01:46:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wdd130",
+            "description": null,
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mendozanatalia/wdd130",
+            "updatedAt": "2024-12-20T05:23:03Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 56,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/natchin.mt/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

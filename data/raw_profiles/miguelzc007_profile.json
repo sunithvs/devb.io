@@ -1,0 +1,104 @@
+{
+    "username": "miguelzc007",
+    "name": "Miguel Zapata",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/23566613?u=f124a71158f022891478fd55dd2dd83a69335ffb&v=4",
+    "profile_url": "https://github.com/MiguelZC007",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "backend-nestjs-base",
+            "description": null,
+            "score": 0.3122384323533469,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MiguelZC007/backend-nestjs-base",
+            "updatedAt": "2024-09-27T03:41:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tesis-clinica",
+            "description": null,
+            "score": 0.2614801875083386,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MiguelZC007/tesis-clinica",
+            "updatedAt": "2024-03-23T02:26:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clinica-admin-backend",
+            "description": null,
+            "score": 0.0732551355284644,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MiguelZC007/clinica-admin-backend",
+            "updatedAt": "2022-07-20T19:47:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clinica-admin-frontend",
+            "description": null,
+            "score": 0.0732551355284644,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MiguelZC007/clinica-admin-frontend",
+            "updatedAt": "2022-07-27T19:21:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clinica-admin",
+            "description": null,
+            "score": 0.07136031806905205,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MiguelZC007/clinica-admin",
+            "updatedAt": "2022-01-19T06:07:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "image_odoo",
+            "description": null,
+            "score": 0.07070562295661753,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MiguelZC007/image_odoo",
+            "updatedAt": "2021-11-30T02:55:53Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 4,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

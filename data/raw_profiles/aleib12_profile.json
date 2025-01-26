@@ -1,0 +1,117 @@
+{
+    "username": "aleib12",
+    "name": " Ale Ibarra Bello",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/184406542?u=5d640add901e799295f6e0debfc4aacef4d3c23b&v=4",
+    "profile_url": "https://github.com/AleIb12",
+    "top_languages": [
+        [
+            "Java",
+            5
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LectorJsonOrdenador1",
+            "description": null,
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AleIb12/LectorJsonOrdenador1",
+            "updatedAt": "2025-01-17T21:03:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LectorJsonOrdenador",
+            "description": "Leer un Ordenador usando Gson para un fichero json",
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AleIb12/LectorJsonOrdenador",
+            "updatedAt": "2025-01-17T20:51:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AleIb12",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AleIb12/AleIb12",
+            "updatedAt": "2025-01-15T18:03:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "projecto-pokemon",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AleIb12/projecto-pokemon",
+            "updatedAt": "2024-12-15T21:40:16Z",
+            "isPinned": false,
+            "homepage": "https://projecto-pokemon.vercel.app"
+        },
+        {
+            "name": "Pizzeria",
+            "description": "Ejercicio De Pizzeria con android",
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AleIb12/Pizzeria",
+            "updatedAt": "2024-10-28T17:27:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "VideojuegosFicherosProject",
+            "description": "Un Programa para almacenar Videojuegos que permitir\u00e1 a\u00f1adir, listar y borrar  videojuegos",
+            "score": 0.320366928485536,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AleIb12/VideojuegosFicherosProject",
+            "updatedAt": "2024-10-15T21:36:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Fichero-de-Videojuegos",
+            "description": "Un Programa para almacenar Videojuegos que permitir\u00e1 a\u00f1adir, listar y borrar  videojuegos",
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/AleIb12/Fichero-de-Videojuegos",
+            "updatedAt": "2024-10-10T14:00:04Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 8,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Ale</h1>\n<h3 align=\"center\">I am a dedicated Java developer with a strong foundation in object-oriented programming and software development practices. Currently, I work as a Robotics extracurricular instructor at Colegio del Sagrado Coraz\u00f3n, where I teach and inspire students in the world of robotics and technology. While my primary focus is on Java development, I am always eager to explore new tools and frameworks to enhance my coding skills. I am committed to creating efficient, maintainable, and scalable solutions, while continuously learning and adapting to the latest trends in software development. Feel free to browse my repositories, where I share various coding projects, personal contributions, and resources related to Java development.</h3>\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=aleib12&label=Profile%20views&color=0e75b6&style=flat\" alt=\"aleib12\" /> </p>\n\n- \ud83d\udd2d I\u2019m currently working on [projecto pokemon](projecto-pokemon.vercel.app)\n\n- \ud83c\udf31 I\u2019m currently learning **Spring and JavaFX**\n\n- \ud83d\udc68\u200d\ud83d\udcbb All of my projects are available at [https://www.kickresume.com/cv/jose-ibarra/](https://www.kickresume.com/cv/jose-ibarra/)\n\n- \ud83d\udcac Ask me about **Java, javascript and sql**\n\n- \ud83d\udceb How to reach me **josealejandro.ibarrabello@gmail.com**\n\n- \u26a1 Fun fact **I think im loyal**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://developer.android.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg\" alt=\"android\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://firebase.google.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" alt=\"firebase\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://spring.io/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/springio/springio-icon.svg\" alt=\"spring\" width=\"40\" height=\"40\"/> </a> </p>\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=aleib12&show_icons=true&locale=en&layout=compact\" alt=\"aleib12\" /></p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&locale=en\" alt=\"aleib12\" /></p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

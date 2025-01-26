@@ -1,0 +1,133 @@
+{
+    "username": "wilson-pc",
+    "name": "Wilver Hidalgo",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/23466408?u=a157aedbd40732dac89b8ebf23726da6ff63ae81&v=4",
+    "profile_url": "https://github.com/wilson-pc",
+    "top_languages": [
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "JavaScript",
+            10
+        ],
+        [
+            "Vue",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "vue-electron-prisma",
+            "description": null,
+            "score": 4.472375053906109,
+            "stars": 4,
+            "forks": 1,
+            "language": "Vue",
+            "url": "https://github.com/wilson-pc/vue-electron-prisma",
+            "updatedAt": "2024-07-25T15:13:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "deno-crud",
+            "description": "Crud con deno, alosaur y mysql",
+            "score": 3.2860101827702253,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/wilson-pc/deno-crud",
+            "updatedAt": "2022-11-11T11:58:22Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "express-prisma-starter",
+            "description": "Proyecto base con express prisma y autentificacion",
+            "score": 1.5263726116332608,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/wilson-pc/express-prisma-starter",
+            "updatedAt": "2023-07-28T08:56:48Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "nestcero",
+            "description": null,
+            "score": 1.4554245212662722,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/wilson-pc/nestcero",
+            "updatedAt": "2021-04-14T02:48:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cnkojp.api",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/wilson-pc/cnkojp.api",
+            "updatedAt": "2024-11-28T17:59:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proxyImagedownloader",
+            "description": null,
+            "score": 0.2542417113560766,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/wilson-pc/proxyImagedownloader",
+            "updatedAt": "2024-09-14T18:26:31Z",
+            "isPinned": false,
+            "homepage": "https://proxy-imagedownloader.vercel.app"
+        },
+        {
+            "name": "extractor",
+            "description": null,
+            "score": 0.23671157510727758,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/wilson-pc/extractor",
+            "updatedAt": "2024-12-14T23:00:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "http-nodejs",
+            "description": null,
+            "score": 0.07300265165600801,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/wilson-pc/http-nodejs",
+            "updatedAt": "2022-06-29T03:00:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 0,
+    "public_repos": 38,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

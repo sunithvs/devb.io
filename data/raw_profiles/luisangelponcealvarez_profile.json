@@ -1,0 +1,150 @@
+{
+    "username": "luisangelponcealvarez",
+    "name": "Luis \u00c1ngel Ponce Alvarez",
+    "bio": "Programador front-end autodidacta amante de la tecnolog\u00eda",
+    "location": "M\u00e9xico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/103376624?u=205e01544e517daf4271511cf0f26c39a83f80f2&v=4",
+    "profile_url": "https://github.com/luisangelponcealvarez",
+    "top_languages": [
+        [
+            "Python",
+            7
+        ],
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "Astro",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ModsDeMinecraft",
+            "description": null,
+            "score": 11.611586868096174,
+            "stars": 1,
+            "forks": 0,
+            "language": "mcfunction",
+            "url": "https://github.com/luisangelponcealvarez/ModsDeMinecraft",
+            "updatedAt": "2024-04-07T04:56:37Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ScreenMatchInmersionJava",
+            "description": "ScreenMatchInmersionJava",
+            "score": 10.271864577396052,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/luisangelponcealvarez/ScreenMatchInmersionJava",
+            "updatedAt": "2024-05-23T02:57:26Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Wallpapers",
+            "description": "This is the repository where I store the wallpapers shown in the following web site",
+            "score": 10.245262664746809,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/luisangelponcealvarez/Wallpapers",
+            "updatedAt": "2025-01-13T18:59:00Z",
+            "isPinned": true,
+            "homepage": "https://luisangelponcealvarez.netlify.app/wallpapers/"
+        },
+        {
+            "name": "Password-Manager",
+            "description": "This project is developed in python to make a password manager that gives you a file to see the saved data. You can edit the data from the application and also if you have a lot of data you can search it by name.",
+            "score": 10.23898123297064,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/luisangelponcealvarez/Password-Manager",
+            "updatedAt": "2024-11-20T04:08:24Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "SpanBotWhatsApp",
+            "description": null,
+            "score": 10.238414291685794,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/luisangelponcealvarez/SpanBotWhatsApp",
+            "updatedAt": "2024-04-22T03:43:54Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Organizador-De-Archivos",
+            "description": null,
+            "score": 10.228820493644502,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/luisangelponcealvarez/Organizador-De-Archivos",
+            "updatedAt": "2024-04-22T04:23:00Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "DownloadVideo",
+            "description": null,
+            "score": 1.6211508418823433,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/luisangelponcealvarez/DownloadVideo",
+            "updatedAt": "2024-04-05T04:18:14Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Curso-profesional-de-Python",
+            "description": null,
+            "score": 0.2691957170131844,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/luisangelponcealvarez/Curso-profesional-de-Python",
+            "updatedAt": "2024-05-09T05:25:15Z",
+            "isPinned": false,
+            "homepage": "https://codigofacilito.com/cursos/python-profesional"
+        }
+    ],
+    "followers": 7,
+    "following": 14,
+    "public_repos": 36,
+    "pull_requests_merged": 0,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 737,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.tiktok.com/@luisangelpocealvarez"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/luisangelponcealvarez/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61560375478901"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@LuisAngelPonceAlvarez"
+        }
+    ],
+    "readme_content": "## Soy LUIS ANGEL PONCE ALVAREZ \ud83d\udcbb:\r\n\r\n## Sobre m\u00ed:\r\n\r\nSoy una persona apasionada por la tecnolog\u00eda y la programaci\u00f3n, especialmente en el \u00e1rea de desarrollo front-end. Me encanta mantenerme al d\u00eda con las \u00faltimas tendencias en dise\u00f1o web y dominar tecnolog\u00edas como HTML, CSS, JavaScript, y frameworks como React . Disfruto resolviendo problemas y creando interfaces de usuario que sean intuitivas y visualmente atractivas, proporcionando una experiencia de usuario fluida y din\u00e1mica.\r\n\r\n## Habilidades\r\n\r\n<p>\r\n  <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E\"/>\r\n  <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB\">\r\n  <img src=\"https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white\"/>\r\n  <img src=\"https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white\"/>\r\n  <img src=\"https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white\"/>\r\n  <img src=\"https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white\"/>\r\n</p>\r\n\r\n## Herramientas y tecnolog\u00edas\r\n\r\n<p>\r\n  <img src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black\">\r\n  <img src=\"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white\">\r\n  <img src=\"https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white\"/>\r\n</p>\r\n\r\n## Redes :\r\n\r\n<a href=\"https://www.linkedin.com/in/luis-angel-ponce-alvarez-848826242/\" target=\"_blank\">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>\r\n<a href=\"https://www.youtube.com/channel/UCQ851l8kDeiZYfg6cozN__g\" target=\"_blank\">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>\r\n<a href=\"https://www.tiktok.com/@luisangelpocealvarez\" target=\"_blank\">![TikTok](https://img.shields.io/badge/TikTok-000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>\r\n<a href=\"https://open.spotify.com/user/nhf5pz5g4wdgjk0bvw2fzhakd?si=1ff6fa2155254f25\" target=\"_blank\">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>\r\n<a href=\"https://www.instagram.com/poncealvarezluisangel/\" target=\"_blank\">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>\r\n<a href=\"https://twitter.com/Luisang01161226\" target=\"_blank\">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>\r\n<a href=\"https://www.facebook.com/luisangel.poncealvarez.37\" target=\"_blank\">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>\r\n\r\n## Portafolio\r\n\r\n<a href=\"http://luisangelponcealvarez.netlify.app/\" target=\"_blank\">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>\r\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

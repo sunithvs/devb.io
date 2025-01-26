@@ -1,0 +1,96 @@
+{
+    "username": "lorenacj",
+    "name": "Lorena Cruz",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/128480257?u=539afa794ab5a7351bc5d85246461d8312d1a15f&v=4",
+    "profile_url": "https://github.com/lorenacj",
+    "top_languages": [
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AlzhAppAPI",
+            "description": null,
+            "score": 0.27410924814389975,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenacj/AlzhAppAPI",
+            "updatedAt": "2024-06-13T21:43:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AlzhAppIOS",
+            "description": "This application, \"AlzhApp,\" is developed with Swift and SwiftUI for the user interface on iOS devices. It interacts with a Java-based API developed with Spring to fetch data. Unlike my previous projects, this app was a unique challenge, offering a valuable opportunity for personal growth and learning.",
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/lorenacj/AlzhAppIOS",
+            "updatedAt": "2024-06-14T10:16:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AlzhApp",
+            "description": "Lorena Cruz - Proyecto integrado",
+            "score": 0.26344758823084113,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenacj/AlzhApp",
+            "updatedAt": "2024-06-11T19:24:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ChristmasProject",
+            "description": "Trabajo de navidad de desarrollo de videojuegos",
+            "score": 0.16655876248550613,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/lorenacj/ChristmasProject",
+            "updatedAt": "2023-12-19T12:17:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Forum",
+            "description": null,
+            "score": 0.162250352577379,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/lorenacj/Forum",
+            "updatedAt": "2023-10-10T08:12:59Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 9,
+    "public_repos": 7,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 103,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

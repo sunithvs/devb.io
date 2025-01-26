@@ -1,0 +1,53 @@
+{
+    "username": "gasparpagliareccisuarez",
+    "name": "Gaspar Pagliarecci Su\u00e1rez",
+    "bio": "Estudiante de Desarrollo De Software en el ISAUI",
+    "location": "C\u00f3rdoba",
+    "avatar_url": "https://avatars.githubusercontent.com/u/131476150?v=4",
+    "profile_url": "https://github.com/GasparPagliarecciSuarez",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EjerciciosPOOGaspar",
+            "description": null,
+            "score": 0.2760538722847503,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/GasparPagliarecciSuarez/EjerciciosPOOGaspar",
+            "updatedAt": "2024-06-12T16:46:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Isaui-Programacion-II",
+            "description": "Trabajos 2do A\u00f1o Programaci\u00f3n II ISAUI",
+            "score": 0.2677558345262757,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/GasparPagliarecciSuarez/Isaui-Programacion-II",
+            "updatedAt": "2024-08-27T21:47:29Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 88,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

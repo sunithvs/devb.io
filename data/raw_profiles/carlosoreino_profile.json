@@ -1,0 +1,133 @@
+{
+    "username": "carlosoreino",
+    "name": "Carlos Ordo\u00f1ez Reino",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/116586666?v=4",
+    "profile_url": "https://github.com/CarlosOReino",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Shell",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Tienda-Pokemon-React",
+            "description": null,
+            "score": 10.406627546022726,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CarlosOReino/Tienda-Pokemon-React",
+            "updatedAt": "2025-01-08T11:52:10Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "To-do-list-React",
+            "description": null,
+            "score": 10.406627546022726,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CarlosOReino/To-do-list-React",
+            "updatedAt": "2024-12-18T19:06:08Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Formulario-React-Basico",
+            "description": null,
+            "score": 10.372638247597704,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CarlosOReino/Formulario-React-Basico",
+            "updatedAt": "2024-12-02T19:32:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "EjerciciosJS_Clase",
+            "description": null,
+            "score": 10.328633999221172,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/CarlosOReino/EjerciciosJS_Clase",
+            "updatedAt": "2025-01-13T13:09:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "PrimerProyectoCAS",
+            "description": null,
+            "score": 10.315550970886466,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/CarlosOReino/PrimerProyectoCAS",
+            "updatedAt": "2024-11-20T19:07:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "EjerciciosCAS",
+            "description": null,
+            "score": 10.314420280960828,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/CarlosOReino/EjerciciosCAS",
+            "updatedAt": "2024-11-27T15:06:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Ejercicio-API",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CarlosOReino/Ejercicio-API",
+            "updatedAt": "2025-01-08T15:48:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "taller_git-github",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CarlosOReino/taller_git-github",
+            "updatedAt": "2024-12-04T17:45:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 16,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 34,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

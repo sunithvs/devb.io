@@ -1,0 +1,40 @@
+{
+    "username": "carlosalbertomorales",
+    "name": "carlosalbertomorales",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/89406201?v=4",
+    "profile_url": "https://github.com/CarlosAlbertoMorales",
+    "top_languages": [
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "job",
+            "description": null,
+            "score": 0.0700938252333153,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/CarlosAlbertoMorales/job",
+            "updatedAt": "2021-08-26T04:02:08Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

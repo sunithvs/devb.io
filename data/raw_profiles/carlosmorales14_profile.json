@@ -1,0 +1,80 @@
+{
+    "username": "carlosmorales14",
+    "name": "Carlos Alberto Morales Angel",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/125174610?u=d0c10a73664f7ac90b7992a98ec11b73b471ac30&v=4",
+    "profile_url": "https://github.com/CarlosMorales14",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "yellow_flowers_1",
+            "description": null,
+            "score": 1.3010542410452903,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/CarlosMorales14/yellow_flowers_1",
+            "updatedAt": "2024-03-22T01:33:22Z",
+            "isPinned": false,
+            "homepage": "https://yellow-flowers-1.vercel.app"
+        },
+        {
+            "name": "Servicio_Web_django",
+            "description": null,
+            "score": 0.15600198409770594,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CarlosMorales14/Servicio_Web_django",
+            "updatedAt": "2023-05-30T17:29:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proyecto1",
+            "description": "En GIT HUB debe crear un repositorio p\u00fablico con el contenido del proyecto",
+            "score": 0.15234948361642697,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/CarlosMorales14/proyecto1",
+            "updatedAt": "2023-02-18T05:43:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PROYECTO-1ER-UNIDAD",
+            "description": "Repositorio p\u00fablico con el contenido del proyecto",
+            "score": 0.15215414028595545,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CarlosMorales14/PROYECTO-1ER-UNIDAD",
+            "updatedAt": "2023-02-12T06:01:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 13,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

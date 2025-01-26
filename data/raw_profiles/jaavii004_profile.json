@@ -1,0 +1,138 @@
+{
+    "username": "jaavii004",
+    "name": "jaavii_04",
+    "bio": "La mejor forma de predecir el futuro es programarlo.\r\nHola Mundo, no es solo una frase; es donde comienza el viaje de cada programador.",
+    "location": "Valencia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/116631009?u=118efe455682b69a5c2dff828f1319d5dd4c3fdd&v=4",
+    "profile_url": "https://github.com/Jaavii004",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "PHP",
+            2
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "smx",
+            "description": null,
+            "score": 10.164475491409455,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/Jaavii004/smx",
+            "updatedAt": "2023-11-16T14:39:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Project_Lavadero",
+            "description": "Project of leguaje",
+            "score": 3.28083331569535,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/Jaavii004/Project_Lavadero",
+            "updatedAt": "2024-10-24T09:27:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TintMonitor",
+            "description": null,
+            "score": 1.7086005019423471,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Jaavii004/TintMonitor",
+            "updatedAt": "2024-10-14T14:15:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wordpress",
+            "description": null,
+            "score": 1.7066612896054265,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/Jaavii004/wordpress",
+            "updatedAt": "2024-10-13T09:57:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jaavii004",
+            "description": null,
+            "score": 1.5483791414016723,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Jaavii004/jaavii004",
+            "updatedAt": "2023-11-13T17:17:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "consumoGasolina",
+            "description": null,
+            "score": 1.3155534527095425,
+            "stars": 0,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/Jaavii004/consumoGasolina",
+            "updatedAt": "2024-06-10T16:31:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LOS-FIFA",
+            "description": null,
+            "score": 1.2646252508758307,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Jaavii004/LOS-FIFA",
+            "updatedAt": "2024-10-01T14:39:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DAW-2",
+            "description": "Repositorio de segundo de DAW",
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/Jaavii004/DAW-2",
+            "updatedAt": "2025-01-25T19:42:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 11,
+    "public_repos": 14,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1139,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/jaavii_04/"
+        }
+    ],
+    "readme_content": "<img src=\"./encabezado.png\"/>\n\n<h1 align=\"center\">Hola \ud83d\udc4b, soy Javier Puertas </h1>\n\n\u00a1Bienvenido a mi rinc\u00f3n de c\u00f3digo! \ud83d\udc68\u200d\ud83d\udcbb Soy un estudiante de inform\u00e1tica cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (DAW). Me apasiona explorar el vasto mundo de la programaci\u00f3n , construir cosas geniales y  programar en Bash.\n\n## Acerca de m\u00ed\n\n- \ud83c\udf93 Actualmente estoy estudiando en IES La Senia.\n- \ud83d\udcbb Me encanta programar y explorar nuevas tecnolog\u00edas.\n- \ud83c\udf10 Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades.\n- \ud83d\ude80 \u00a1Apasionado por el desarrollo web y la creaci\u00f3n de aplicaciones impactantes!\n<br>\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green\"/>\n</p>\n\n## Sistemas operativos que me gustan :\n[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)\n\n<!--![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)\n![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)\n-->\n\n## Languages que se o estoy aprendiendo: \n[![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py)](https://skillicons.dev)\n<!--\n![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)\n[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)\n[![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)\n[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)\n-->\n## IDE'S favoritas:\n[![My Skills](https://skillicons.dev/icons?i=vscode,vim,)](https://skillicons.dev)\n<!--\n![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) \n![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)\n![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)\n-->\n\n## Cosas que me gustan:\n[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,docker,firebase,androidstudio,github,gitlab,stackoverflow)](https://skillicons.dev)\n<!--\n![MySQL](\thttps://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)\n![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)\n![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)\n![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)\n![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)\n![FireBase Login Google](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)\n![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)\n![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)\n![VirtualBOX](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)\n![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)\n-->\n\n\n\n<h3 align=\"center\">Lenguages en %</h3>\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=jaavii004&theme=blue-green\"/>\n</p>\n\n<h3 align=\"center\">Frases inspiradoras:</h3>\n<p>El software est\u00e1 comiendo el mundo.</p>\n<p>La programaci\u00f3n no es solo sobre c\u00f3digo, tambi\u00e9n se trata de solucionar problemas.</p>\n<p>Es m\u00e1s f\u00e1cil cambiar la especificaci\u00f3n para adaptarse al programa que cambiar el programa para adaptarse a la especificaci\u00f3n.</p>\n<p>La programaci\u00f3n es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos cap\u00edtulos.</p>\n<p>El mejor c\u00f3digo es aquel que ni siquiera parece que fue escrito por un humano.</p>\n<p>Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco m\u00e1s de c\u00f3digo, todo ser\u00eda perfecto.</p>\n<p>El arte de programar consiste en organizar y dominar la complejidad.</p>\n<p>El c\u00f3digo limpio siempre parece que fue escrito por alguien a quien le importa.</p>\n<p>Programar es pensar, no escribir c\u00f3digo.</p>\n<p>El c\u00f3digo es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>\n\n[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaavii004&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)\n\n\n\n<!-- Copy-paste in your Readme.md file -->\n\n<a href=\"https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116631009\" target=\"_blank\" style=\"display: block\" align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116631009&image_size=auto&color_scheme=dark\" width=\"771\" height=\"auto\">\n    <img alt=\"Dashboard stats of @Jaavii004\" src=\"https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116631009&image_size=auto&color_scheme=light\" width=\"771\" height=\"auto\">\n  </picture>\n</a>\n\n<!-- Made with [OSS Insight](https://ossinsight.io/) -->\n\n\n<!-- Copy-paste in your Readme.md file -->\n\n<a href=\"https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=116631009&activity_type=all\" target=\"_blank\" style=\"display: block\" align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116631009&activity_type=all&image_size=auto&color_scheme=dark\" width=\"497.5\" height=\"auto\">\n    <img alt=\"@Jaavii004's Recent Work - Last 28 days\" src=\"https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116631009&activity_type=all&image_size=auto&color_scheme=light\" width=\"497.5\" height=\"auto\">\n  </picture>\n</a>\n\n<!-- Made with [OSS Insight](https://ossinsight.io/) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

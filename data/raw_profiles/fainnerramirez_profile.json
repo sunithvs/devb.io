@@ -1,0 +1,133 @@
+{
+    "username": "fainnerramirez",
+    "name": "FaiDev",
+    "bio": "Desarrollador que busca optimizar las tareas con apps basadas en la IA",
+    "location": "Bogot\u00e1,  Colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68817733?u=de91e6f50c6ea3535bd55b5d756892270fb2eca3&v=4",
+    "profile_url": "https://github.com/fainnerramirez",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            26
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "proyecto-final-pw",
+            "description": null,
+            "score": 1.4573737506817919,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fainnerramirez/proyecto-final-pw",
+            "updatedAt": "2021-12-23T16:49:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "udacity-course-patterns-desing-js",
+            "description": null,
+            "score": 1.4555709692058192,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fainnerramirez/udacity-course-patterns-desing-js",
+            "updatedAt": "2022-03-31T12:45:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pk_react-text-toggle",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/fainnerramirez/pk_react-text-toggle",
+            "updatedAt": "2025-01-23T19:57:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "shoppingCart",
+            "description": null,
+            "score": 1.1104433878080666,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/fainnerramirez/shoppingCart",
+            "updatedAt": "2021-12-16T04:37:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "components-variables",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/fainnerramirez/components-variables",
+            "updatedAt": "2025-01-09T23:08:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio-2025",
+            "description": null,
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/fainnerramirez/portfolio-2025",
+            "updatedAt": "2025-01-12T21:40:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "faker-ai",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/fainnerramirez/faker-ai",
+            "updatedAt": "2024-12-08T20:02:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "course-api-net",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/fainnerramirez/course-api-net",
+            "updatedAt": "2024-12-01T21:25:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 62,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 98,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "\n# Hey! Bienvenido <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp\" alt=\"Smiling Face With Sunglasses\" width=\"50\" height=\"50\" />\n\n\n```typescript  \nclass SoftwareDeveloper {\n\n  private name: string;\n  private alias: string;\n  private passion: string;\n  private age: number;\n  private height: number;\n  private role: string;\n  private language: Array<string>;\n\n  constructor() {\n    this.name = \"Fainner Ramirez\";\n    this.alias = \"Fai\";\n    this.passion = \"Desarrollar Side Projects\"\n    this.age = 27;\n    this.height = 1.88;\n    this.role = \"FullStack Web Developer\";\n    this.language = [\"es_ES\", \"COL\"];\n  }\n\n  public Welcome(): void {\n    console.log(\"\u00a1Gracias por ver mi perf\u00edl!...espero que encuentres algo interesante de mi trabajo\");\n  }\n}\n\nconst me = new SoftwareDeveloper();\nme.Welcome();\n```\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,133 @@
+{
+    "username": "jcjma1994",
+    "name": "Joao Moreno Alem\u00e1n ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/55026299?u=d78a4bb9cd36cb480e58131d94b562de04a2fc0a&v=4",
+    "profile_url": "https://github.com/JCJMA1994",
+    "top_languages": [
+        [
+            "Kotlin",
+            2
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Java",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "calculadora",
+            "description": "Una aplicaci\u00f3n de calculadora desarrollada en Kotlin siguiendo los principios de Clean Architecture, el patr\u00f3n MVVM y utilizando Koin para la inyecci\u00f3n de dependencias.",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/JCJMA1994/calculadora",
+            "updatedAt": "2025-01-24T14:21:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PagoVisa",
+            "description": "Pasarela de Pago en Visa",
+            "score": 1.106061068631508,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/JCJMA1994/PagoVisa",
+            "updatedAt": "2019-12-08T19:13:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "security-backend",
+            "description": null,
+            "score": 0.37431377194381776,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JCJMA1994/security-backend",
+            "updatedAt": "2024-12-08T14:25:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JCJMA1994",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.22328722969739595,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JCJMA1994/JCJMA1994",
+            "updatedAt": "2024-12-01T15:25:47Z",
+            "isPinned": false,
+            "homepage": "https://github.com/JCJMA1994"
+        },
+        {
+            "name": "course-kotlin",
+            "description": "Apuntes curso b\u00e1sico de Kotlin",
+            "score": 0.160963045876005,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/JCJMA1994/course-kotlin",
+            "updatedAt": "2023-09-15T15:30:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "python-sqlite",
+            "description": null,
+            "score": 0.07455050885288737,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JCJMA1994/python-sqlite",
+            "updatedAt": "2022-10-31T23:09:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "java-open-bootcamp",
+            "description": null,
+            "score": 0.07292390756682134,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JCJMA1994/java-open-bootcamp",
+            "updatedAt": "2022-06-21T23:42:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "python-open-bootcamp",
+            "description": null,
+            "score": 0.0728348269577788,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JCJMA1994/python-open-bootcamp",
+            "updatedAt": "2022-06-13T12:51:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 30,
+    "public_repos": 22,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 221,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": " <h1 align=\"left\" style=\"color:white;\" >Hey \ud83d\udc4b What's up?</h1>\n \n ###\n\n<p align=\"left\">My name is Jos\u00e9 Carlos Joao Moreno Alem\u00e1n and I am an Android developer. \ud83d\ude80 I am currently studying Systems and Information Engineering \ud83d\udcda, and I have a great passion for Dart/Flutter. \ud83d\udc99 At the moment, I am creating software and applications using Flutter, as well as native Android applications with Kotlin and Jetpack Compose. I also have experience in back-end development with Java and Python. \ud83d\udcf1\ud83d\udc40</p>\n\n###\n\n<h2 align=\"left\" style=\"color:white;\" >\ud83d\udcbb Tech Stack</h2>\n<div align=\"left\">\n  <a href=\"#\">\n    <img src=\"https://skillicons.dev/icons?i=dart,flutter,firebase,kotlin,python,java,figma,vscode,androidstudio,git,github&theme=dark\" />\n  </a>\n \n</div>\n\n###\n\ud83c\udfc6 GitHub Trophies\n<p align=\"center\">&nbsp;\n  <a><img src=\"https://github-profile-trophy.vercel.app/?username=JCJMA1994&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4\" /></a>\n </p>\n\n###\n\n<h2 align=\"left\" style=\"color:white;\" >\ud83c\udf10 My socials</h2>\n\n###\n\n<div align=\"left\">\n   <a href=\"https://twitter.com/joao_moreno_dev\" target=\"blank\">\n     <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg\" width=\"52\" height=\"40\" alt=\"https://twitter.com/joao_moreno_dev\" />\n   </a>\n     \n     \n  <a href=\"https://www.linkedin.com/in/jose-carlos-joao-moreno-aleman\" target=\"blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"https://www.linkedin.com/in/jose-carlos-joao-moreno-aleman\" />\n  </a>\n     \n</div>\n\n\n\n\n<span align=\"center\">\n  <span>\n    <h4 align=\"center\">\"<em>Si le das a alguien un programa, lo frustrar\u00e1s un d\u00eda. Si le ense\u00f1as a programar, lo frustrar\u00e1s toda la vida</em>\"\n    </h4>\n</span>\n\n\n![JCJMA1994's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCJMA1994&theme=dracula&show_icons=true&hide_border=true&layout=compact)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

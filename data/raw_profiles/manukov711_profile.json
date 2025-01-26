@@ -1,0 +1,88 @@
+{
+    "username": "manukov711",
+    "name": "Elias Guarida",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/151256646?v=4",
+    "profile_url": "https://github.com/manukov711",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Pais",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/manukov711/Pais",
+            "updatedAt": "2024-12-11T23:29:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SearchCountry",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/manukov711/SearchCountry",
+            "updatedAt": "2024-12-11T23:09:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-introduction-to-github",
+            "description": "My clone repository",
+            "score": 0.16510412090242932,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/manukov711/skills-introduction-to-github",
+            "updatedAt": "2023-11-27T03:32:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clases",
+            "description": null,
+            "score": 0.16453749002655318,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/manukov711/clases",
+            "updatedAt": "2023-11-17T23:27:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Generar-N-meros",
+            "description": null,
+            "score": 0.16453749002655318,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/manukov711/Generar-N-meros",
+            "updatedAt": "2023-11-17T22:51:49Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

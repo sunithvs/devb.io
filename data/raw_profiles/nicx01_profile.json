@@ -1,0 +1,133 @@
+{
+    "username": "nicx01",
+    "name": "nicx01",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/152229061?u=bc12b1e97d5f58d39772a497f5096024c58828d4&v=4",
+    "profile_url": "https://github.com/nicx01",
+    "top_languages": [
+        [
+            "Java",
+            5
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ipTools",
+            "description": null,
+            "score": 11.287472860539895,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/nicx01/ipTools",
+            "updatedAt": "2024-05-20T14:34:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "snake",
+            "description": null,
+            "score": 10.273483233415783,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nicx01/snake",
+            "updatedAt": "2024-10-02T15:06:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "beerChampion",
+            "description": null,
+            "score": 10.267404856422946,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nicx01/beerChampion",
+            "updatedAt": "2024-04-29T20:44:40Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "linktree",
+            "description": null,
+            "score": 10.267404856422946,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nicx01/linktree",
+            "updatedAt": "2024-04-28T13:53:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "nicx01.github.io",
+            "description": null,
+            "score": 10.266542464337348,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nicx01/nicx01.github.io",
+            "updatedAt": "2024-10-02T15:12:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "furryFunds",
+            "description": null,
+            "score": 1.702421116871278,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/nicx01/furryFunds",
+            "updatedAt": "2025-01-23T16:48:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ejercicio4GIT",
+            "description": null,
+            "score": 1.694948250445691,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nicx01/ejercicio4GIT",
+            "updatedAt": "2024-10-18T17:21:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "repoInterfacesV1",
+            "description": "repositorio para interfaces DAM",
+            "score": 0.307200665474766,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nicx01/repoInterfacesV1",
+            "updatedAt": "2024-09-16T15:14:43Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 9,
+    "public_repos": 17,
+    "pull_requests_merged": 15,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 196,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "<img align=\"right\" height=\"200\" src=\"https://pbs.twimg.com/profile_images/1366828015179730945/u7UhZCZQ_200x200.jpg\"  />\n\n###\n\n<h1 align=\"left\">\ud83d\udc4b Hello and welcome to nicx's gitHub profile!</h1>\n\n###\n\n<h3 align=\"left\">\ud83c\udf1f About Me:</h3>\n\n###\n\n<p align=\"left\">I'm a passionate software developer. I love exploring new technologies and building innovative solutions that make a difference.<br>With experience in web development using Laravel, I constantly challenge myself to deliver the best in my projects.</p>\n<p align=\"left\">Try my snake game!  https://nicx01.github.io/snake/</p>\n\n###\n\n<h3 align=\"left\">\ud83d\udcbb Technologies:</h3>\n\n###\n\n<p align=\"left\">My main languages are PHP and JavaScript, with a focus on web application development using the Laravel framework via VSC.<br><br>Additionally, I have a working knowledge, though to a lesser extent, of the following technologies:</p>\n\n###\n\n<img align=\"left\" height=\"200\" src=\"https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif\"  />\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.simpleicons.org/css3/1572B6\" height=\"40\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/html5/E34F26\" height=\"40\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/php/777BB4\" height=\"40\" alt=\"php logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/javascript/F7DF1E\" height=\"40\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/c++/00599C\" height=\"40\" alt=\"cplusplus logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/r/276DC3\" height=\"40\" alt=\"r logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/docker/2496ED\" height=\"40\" alt=\"docker logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/git/F05032\" height=\"40\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/laravel/FF2D20\" height=\"40\" alt=\"laravel logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/mysql/4479A1\" height=\"40\" alt=\"mysql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/amazondynamodb/4053D6\" height=\"40\" alt=\"amazondynamodb logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/redis/DC382D\" height=\"40\" alt=\"redis logo\"  />\n  <img width=\"12\" />\n</div>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=nicx01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&custom_title=Languages%20used%20in%20gitHub\" height=\"150\" alt=\"languages graph\"  />\n</div>\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

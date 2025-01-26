@@ -1,0 +1,133 @@
+{
+    "username": "luismendezc",
+    "name": "Luis Enrique M\u00e9ndez Cantero",
+    "bio": "I'm a Fullstack Software Engineer at T-Systems MMS.\r\nCurrently living in Dresden, Germany.\r\n",
+    "location": "M\u00e9xico, Puebla",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22123977?u=f86c457c738a586aa9d882b7464955a76222e878&v=4",
+    "profile_url": "https://github.com/luismendezc",
+    "top_languages": [
+        [
+            "Kotlin",
+            3
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Swift",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "iosFramework",
+            "description": "This is an iOS Framework",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/luismendezc/iosFramework",
+            "updatedAt": "2025-01-25T15:49:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iosLibrary",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/luismendezc/iosLibrary",
+            "updatedAt": "2025-01-24T22:04:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "weather-website",
+            "description": null,
+            "score": 1.1055197641071435,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/luismendezc/weather-website",
+            "updatedAt": "2019-08-11T02:39:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "unir",
+            "description": "Trabajos de maestr\u00eda DEVOPS - UNIR",
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/luismendezc/unir",
+            "updatedAt": "2025-01-18T15:32:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SimplePreferences",
+            "description": "A lightweight, easy-to-use Android library for managing SharedPreferences with a simple and clean API. It provides utility functions to save, retrieve, and observe changes to shared preferences, making it useful for handling app settings, user preferences, and small data storage needs.",
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/luismendezc/SimplePreferences",
+            "updatedAt": "2024-11-16T19:56:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "documentation",
+            "description": "Android",
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/luismendezc/documentation",
+            "updatedAt": "2025-01-22T21:11:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RequiredActionsSimulation",
+            "description": "RequiredActions Android Mobile App for testing Team City ",
+            "score": 0.2504607887053257,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/luismendezc/RequiredActionsSimulation",
+            "updatedAt": "2024-05-02T01:04:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NativeWeb",
+            "description": "NativeWeb Android Mobile App for testing Team City ",
+            "score": 0.16690410034766703,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/luismendezc/NativeWeb",
+            "updatedAt": "2023-12-23T19:16:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 69,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,142 @@
+{
+    "username": "darielsmtz",
+    "name": "Dariels A. Valladares Martinez",
+    "bio": "Desarrollo de Aplicaciones Web | HTML & CSS ",
+    "location": "Mallorca, Espa\u00f1a",
+    "avatar_url": "https://avatars.githubusercontent.com/u/127892871?u=aad63e2acc1e6835f9f462082e26a87a91f5d179&v=4",
+    "profile_url": "https://github.com/DarielsMtz",
+    "top_languages": [
+        [
+            "Astro",
+            6
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "PHP",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CentreCiutat",
+            "description": "Aplicaci\u00f3n de gestor de aparcamientos - CenterCiutat",
+            "score": 12.9275403967129,
+            "stars": 3,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/DarielsMtz/CentreCiutat",
+            "updatedAt": "2023-10-31T21:49:31Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "KeyMaster",
+            "description": "Proyecto Final de Curso EDIB 2023-24",
+            "score": 11.639835397096425,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/DarielsMtz/KeyMaster",
+            "updatedAt": "2024-11-25T13:41:15Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "El-Ahorcado",
+            "description": "EL juego del Ahorcado",
+            "score": 10.366359005013958,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/DarielsMtz/El-Ahorcado",
+            "updatedAt": "2024-12-02T17:50:48Z",
+            "isPinned": true,
+            "homepage": "https://ahorcado-nine.vercel.app/"
+        },
+        {
+            "name": "porfolio",
+            "description": "Porfolio Web Personal v1.2",
+            "score": 1.7359072686826544,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/DarielsMtz/porfolio",
+            "updatedAt": "2025-01-24T12:22:11Z",
+            "isPinned": false,
+            "homepage": "https://darielsmtz.vercel.app/"
+        },
+        {
+            "name": "SSEO-Web",
+            "description": "Proyecto de una landing page para una Agencia de SEO Web",
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/DarielsMtz/SSEO-Web",
+            "updatedAt": "2024-12-09T21:26:13Z",
+            "isPinned": false,
+            "homepage": "https://sseo.netlify.app/"
+        },
+        {
+            "name": "calendario_adviento",
+            "description": "Calendario de Advento 2024",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/DarielsMtz/calendario_adviento",
+            "updatedAt": "2024-12-03T13:46:11Z",
+            "isPinned": false,
+            "homepage": "https://calendario-adviento-ecru.vercel.app/"
+        },
+        {
+            "name": "Speak-to-Text",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/DarielsMtz/Speak-to-Text",
+            "updatedAt": "2024-11-25T09:55:41Z",
+            "isPinned": false,
+            "homepage": "https://darielsmtz.github.io/Speak-to-Text/"
+        },
+        {
+            "name": "Glassmorphic-Modern-Landing-page",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/DarielsMtz/Glassmorphic-Modern-Landing-page",
+            "updatedAt": "2024-11-22T17:16:25Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 11,
+    "public_repos": 34,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 322,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dariels-martinez"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/darielsmtz/"
+        }
+    ],
+    "readme_content": "# \u00a1Hola! \ud83d\udc4b, te saluda Dariels Martinez\n\nEntusiasta de 23 a\u00f1os de Honduras \ud83c\udded\ud83c\uddf3. Experiencia en proyectos digitales y comprometido con la innovaci\u00f3n. Buscando oportunidades para crecer y colaborar en el \u00e1mbito del desarrollo web.\n\n* \ud83c\udf0d  Estoy ubicado en Mallorca\n* \u2709\ufe0f  Puedes contactarme en *[darielsmartinez926@gmail.com](mailto:darielsmartinez926@gmail.com)*\n* \ud83d\udccb  Mi portafolio web *[DarielsMtz](https://darielsmtz.vercel.app/)*\n* \ud83e\udd1d  Estoy abierto a colaborar en proyectos interesantes\n* \u26a1  Hago trabajo adicional como **Batman**\n\n\n## Lenguajes\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) \n\n## Frameworks\n![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\n\n## Otras Herramientas\n![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Google Analitics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)\n\n\n## Idiomas principales\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darielsmtz&layout=compact&theme=dark)\n\n\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

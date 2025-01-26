@@ -1,0 +1,138 @@
+{
+    "username": "carlosmgv02",
+    "name": "Carlos Mart\u00ednez",
+    "bio": "Software Engineer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/76976573?u=bff76205d84c0f8184199bf377f44998727c0b8b&v=4",
+    "profile_url": "https://github.com/carlosmgv02",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Java",
+            10
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "VaadinSpringBoot",
+            "description": "Login page done with vaadin, SpringBoot & PostgreSQL database.",
+            "score": 11.461079045389946,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/carlosmgv02/VaadinSpringBoot",
+            "updatedAt": "2022-11-21T21:04:46Z",
+            "isPinned": true,
+            "homepage": "https://vaadin-login-page.herokuapp.com/"
+        },
+        {
+            "name": "Practica-Computadors",
+            "description": "Pr\u00e1ctica NDS Computadores - URV (2021-2022)",
+            "score": 11.262099931818415,
+            "stars": 0,
+            "forks": 1,
+            "language": "Assembly",
+            "url": "https://github.com/carlosmgv02/Practica-Computadors",
+            "updatedAt": "2024-04-22T18:33:11Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "TAPPrac1",
+            "description": "Java application used to communicate actors using threads, design patterns & frontend design.",
+            "score": 11.187716923885835,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/carlosmgv02/TAPPrac1",
+            "updatedAt": "2023-05-08T16:15:16Z",
+            "isPinned": true,
+            "homepage": "https://carlosmgv02.github.io/TAPPrac1/"
+        },
+        {
+            "name": "logging-library",
+            "description": "A simple, customizable Java Spring Boot logging library with support for Logstash, ElasticSearch, and OpenTelemetry. Easily integrates structured logging, traceability, and external log shipping.",
+            "score": 10.317897713004706,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/carlosmgv02/logging-library",
+            "updatedAt": "2024-10-13T13:28:28Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Oauth2-github-example",
+            "description": "A simple web app that lets users log in with GitHub OAuth2 and view detailed profile information fetched from their GitHub account, including name, bio, avatar, and repository stats, all in a modern UI.",
+            "score": 10.297416927033957,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/carlosmgv02/Oauth2-github-example",
+            "updatedAt": "2024-08-25T02:01:57Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ECPracFinal",
+            "description": "Pr\u00e1ctica final Estructura de Computadors - URV (2021-2022)",
+            "score": 10.072935110755378,
+            "stars": 0,
+            "forks": 0,
+            "language": "Verilog",
+            "url": "https://github.com/carlosmgv02/ECPracFinal",
+            "updatedAt": "2022-09-29T21:43:03Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Prac3Progra",
+            "description": "Java application done using generics, java swing & file management.",
+            "score": 1.457391576247791,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/carlosmgv02/Prac3Progra",
+            "updatedAt": "2022-11-21T20:04:23Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "SDPrac1",
+            "description": "Distributed System - Redis, RabbitMQ, GRPC",
+            "score": 1.192669472910309,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/carlosmgv02/SDPrac1",
+            "updatedAt": "2023-06-12T14:47:02Z",
+            "isPinned": false,
+            "homepage": "https://github.com/carlosmgv02/SDPrac1/wiki"
+        }
+    ],
+    "followers": 12,
+    "following": 14,
+    "public_repos": 34,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 674,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/carlos-mart\u00ednez-garc\u00eda-villarrubia-887499215"
+        }
+    ],
+    "readme_content": "# Carlos Mart\u00ednez\n\n## Software Engineer\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/carlos-mart%C3%ADnez-887499215/)\n[![Email](https://img.shields.io/badge/Email-dev.carlimvg02%40gmail.com-red)](mailto:dev.carlimvg02@gmail.com)\n[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://carlosmgv02.github.io/)\n\n---\n\n### About Me\n\nI'm a passionate software engineer who loves technology, software, and backend development. I specialize in building robust backend systems using Java, Spring Boot, and PostgreSQL. I'm currently working on projects involving Vue.js, Spring Boot, and PostgreSQL.\n\n- \ud83d\udd2d **Currently working on:** Vue.js, Spring Boot & PostgreSQL projects.\n- \ud83c\udf31 **Currently learning:** Big Data and Business Intelligence.\n- \ud83d\udc6f **Looking to collaborate on:** Java and Spring Boot projects.\n- \ud83d\udcac **Ask me about:** Java, Spring Boot, Python, and backend development.\n- \ud83d\udceb **How to reach me:** [LinkedIn](https://www.linkedin.com/in/carlos-mart%C3%ADnez-887499215/), [Email](mailto:dev.carlimvg02@gmail.com)\n- \ud83c\udf10 **Portfolio:** [carlosmgv02.github.io](https://carlosmgv02.github.io/)\n- \ud83d\udcdd **Check out my:** [GitHub Gists](https://gist.github.com/carlosmgv02)\n\n---\n\n### Languages and Tools\n\n<div align=\"center\">\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg\" title=\"Java\" alt=\"Java\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg\" title=\"Spring Boot\" alt=\"Spring Boot\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg\" title=\"Vue.js\" alt=\"Vue.js\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg\" title=\"Python\" alt=\"Python\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg\" title=\"PostgreSQL\" alt=\"PostgreSQL\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg\" title=\"Docker\" alt=\"Docker\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg\" title=\"Redis\" alt=\"Redis\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg\" title=\"Git\" alt=\"Git\" width=\"50\" height=\"50\"/>&nbsp;\n  <img src=\"https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg\" title=\"Linux\" alt=\"Linux\" width=\"50\" height=\"50\"/>&nbsp;\n <img src=\"https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg\" title=\"AWS\" alt=\"Linux\" width=\"50\" height=\"50\"/>&nbsp;\n</div>\n\n---\n\n### GitHub Stats\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=carlosmgv02&show_icons=true&theme=radical\" alt=\"Carlos's GitHub stats\" />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmgv02&layout=compact&hide=c,assembly,verilog&theme=radical\" alt=\"Top Languages\" />\n  <img src=\"http://github-readme-streak-stats.herokuapp.com?user=carlosmgv02&theme=radical&hide_border=true\" alt=\"GitHub Streak\" />\n</div>\n\n---\n\n### Contact\n\nFeel free to reach out if you'd like to collaborate or have any questions!\n\n- \ud83d\udce7 **Email**: [dev.carlimvg02@gmail.com](mailto:dev.carlimvg02@gmail.com)\n- \ud83d\udcbc **LinkedIn**: [Carlos Mart\u00ednez](https://www.linkedin.com/in/carlos-mart%C3%ADnez-887499215/)\n- \ud83d\udda5\ufe0f **Portfolio**: [carlosmgv02.github.io](https://carlosmgv02.github.io/)\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

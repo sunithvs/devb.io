@@ -1,0 +1,57 @@
+{
+    "username": "x1b1t0",
+    "name": "x1b1t0",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/183842281?u=7fea399c75ff8e1fb6dc8af4c848051a7696eb76&v=4",
+    "profile_url": "https://github.com/x1b1t0",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Google-Sheets-Incident-Email-Notifier",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/x1b1t0/Google-Sheets-Incident-Email-Notifier",
+            "updatedAt": "2025-01-15T08:40:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Scripts-Minetest",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/x1b1t0/Scripts-Minetest",
+            "updatedAt": "2025-01-24T14:49:03Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 32,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

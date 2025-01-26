@@ -1,0 +1,133 @@
+{
+    "username": "alexcraviotto",
+    "name": "Alex Craviotto",
+    "bio": "co-founder @ conversalink & founder @ reminiscencefy",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53239499?u=626d15dec438ee23c53c47792478997410caa93f&v=4",
+    "profile_url": "https://github.com/alexcraviotto",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "watch-this-sol",
+            "description": "\u26d3\ufe0f This extension scans your timeline tweets and replies for solana addresses, if found, a shortcut will be generated so you can quickly analyse them in solscan.",
+            "score": 14.539879006829128,
+            "stars": 4,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/alexcraviotto/watch-this-sol",
+            "updatedAt": "2024-07-10T20:15:58Z",
+            "isPinned": true,
+            "homepage": "https://chromewebstore.google.com/detail/watch-this-sol/hnokcfamgnpdhfmjenemphnlegejppam?hl=es"
+        },
+        {
+            "name": "speedsive",
+            "description": "\ud83d\ude80 Automate the process of video creation and uploading to Youtube of sped up and slowed down songs.",
+            "score": 14.111376825479349,
+            "stars": 6,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/alexcraviotto/speedsive",
+            "updatedAt": "2025-01-04T22:01:43Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "next-task-manager",
+            "description": "\ud83d\udcdd A modern task management application built with Next.js that helps you organize and prioritize tasks based on their weight/importance.",
+            "score": 13.09830958366722,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alexcraviotto/next-task-manager",
+            "updatedAt": "2025-01-12T11:48:42Z",
+            "isPinned": true,
+            "homepage": "https://next-task-manager-seven.vercel.app"
+        },
+        {
+            "name": "alexcraviotto.com",
+            "description": "\ud83e\udead My personal website where i have info about my experience and projects.",
+            "score": 11.339084007626951,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/alexcraviotto/alexcraviotto.com",
+            "updatedAt": "2024-09-19T13:05:28Z",
+            "isPinned": true,
+            "homepage": "https://alexcraviotto.com"
+        },
+        {
+            "name": "autoscan-virustotal",
+            "description": "\u26a0\ufe0f This script automatically scans the files where the script is running through the virustotal api.",
+            "score": 2.4007982538846337,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/alexcraviotto/autoscan-virustotal",
+            "updatedAt": "2024-07-04T14:51:37Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ResyncTimeWin",
+            "description": "This small script resynchronizes the machine time. Very useful for those who use dualboot.  Tested on Windows 11 and Windows 10.",
+            "score": 1.5294640983244887,
+            "stars": 1,
+            "forks": 0,
+            "language": "Batchfile",
+            "url": "https://github.com/alexcraviotto/ResyncTimeWin",
+            "updatedAt": "2024-01-06T20:43:32Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Cpp-Class-Exercises",
+            "description": "Basic class exercises which I programmed with a terminal interface",
+            "score": 1.5244445906468878,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/alexcraviotto/Cpp-Class-Exercises",
+            "updatedAt": "2024-01-06T20:43:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "suggestfy",
+            "description": "Small website I developed to test the Spotify api, it generates a playlist based on your fifty most listened songs",
+            "score": 1.522374933854631,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/alexcraviotto/suggestfy",
+            "updatedAt": "2024-01-06T20:43:38Z",
+            "isPinned": false,
+            "homepage": "http://suggestfy.herokuapp.com"
+        }
+    ],
+    "followers": 126,
+    "following": 35,
+    "public_repos": 25,
+    "pull_requests_merged": 46,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 807,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [],
+    "readme_content": "![image](https://i.imgur.com/cjI0TsI.png)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

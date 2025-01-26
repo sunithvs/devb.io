@@ -1,0 +1,133 @@
+{
+    "username": "cristianhortua98",
+    "name": "Cristian Hortua Saenz",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/79232077?u=785a050c7eff3f7a34424bb7fd46acab0870a413&v=4",
+    "profile_url": "https://github.com/CristianHortua98",
+    "top_languages": [
+        [
+            "TypeScript",
+            16
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nest-dev-adminpro",
+            "description": null,
+            "score": 10.308164228783138,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristianHortua98/nest-dev-adminpro",
+            "updatedAt": "2024-11-07T04:31:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "angular-dev-adminpro",
+            "description": null,
+            "score": 10.285306955852148,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CristianHortua98/angular-dev-adminpro",
+            "updatedAt": "2024-11-12T01:59:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "js-vite-blackjack",
+            "description": null,
+            "score": 10.168873892927378,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CristianHortua98/js-vite-blackjack",
+            "updatedAt": "2024-01-20T05:04:40Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "kanban-frontend",
+            "description": null,
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CristianHortua98/kanban-frontend",
+            "updatedAt": "2024-12-31T01:24:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "kanban-backend",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristianHortua98/kanban-backend",
+            "updatedAt": "2024-12-31T01:25:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "crud-backend",
+            "description": "Crud Backen Nest.js",
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristianHortua98/crud-backend",
+            "updatedAt": "2024-07-01T02:45:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "14-my-dashboard",
+            "description": null,
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristianHortua98/14-my-dashboard",
+            "updatedAt": "2024-06-27T04:24:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "04-nest-teslo-app",
+            "description": null,
+            "score": 0.27764012062481885,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristianHortua98/04-nest-teslo-app",
+            "updatedAt": "2024-06-19T04:37:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 82,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Cristian Alejandro Hortua Saenz</h1>\n<h3 align=\"center\">A passionate FullStack developer from Colombia</h3>\n\n- \ud83d\udd2d I\u2019m currently working on **Nexus Merak**\n\n- \ud83c\udf31 I\u2019m currently learning **Angular**\n\n- \ud83d\udceb How to reach me **alejo.hortua3@gmail.com**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://dev.to/cristianhortua98\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg\" alt=\"cristianhortua98\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://angular.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://angular.io/assets/images/logos/angular/angular.svg\" alt=\"angular\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nestjs.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg\" alt=\"nestjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.php.net\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg\" alt=\"php\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.postgresql.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg\" alt=\"tailwind\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" alt=\"typescript\" width=\"40\" height=\"40\"/> </a> </p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

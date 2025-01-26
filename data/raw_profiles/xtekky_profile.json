@@ -1,0 +1,142 @@
+{
+    "username": "xtekky",
+    "name": "Tekky",
+    "bio": "I code a bit for fun. I like llm's",
+    "location": "Europe",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98614666?u=73ffc35c4da01924e4c0636186fa1328b717fbb1&v=4",
+    "profile_url": "https://github.com/xtekky",
+    "top_languages": [
+        [
+            "Python",
+            59
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "score": 46.60680267921214,
+            "stars": 63215,
+            "forks": 13517,
+            "language": "Python",
+            "url": "https://github.com/xtekky/gpt4free",
+            "updatedAt": "2025-01-26T22:02:47Z",
+            "isPinned": true,
+            "homepage": "https://t.me/g4f_channel"
+        },
+        {
+            "name": "chatgpt-clone",
+            "description": "ChatGPT interface with better UI ",
+            "score": 36.96181670149237,
+            "stars": 3497,
+            "forks": 1032,
+            "language": "Python",
+            "url": "https://github.com/xtekky/chatgpt-clone",
+            "updatedAt": "2025-01-26T00:33:35Z",
+            "isPinned": true,
+            "homepage": "https://g4f.ai"
+        },
+        {
+            "name": "TikTok-ViewBot",
+            "description": "ViewBot using requests | Fast, no selenium | Custom Views count and clean Design",
+            "score": 33.91006526161779,
+            "stars": 1310,
+            "forks": 503,
+            "language": "Python",
+            "url": "https://github.com/xtekky/TikTok-ViewBot",
+            "updatedAt": "2025-01-24T05:14:22Z",
+            "isPinned": true,
+            "homepage": "https://t.me/onlpx"
+        },
+        {
+            "name": "zefoy",
+            "description": "\ud83e\ude90Bot likes, followers, shares and views on TikTok! ~ fast zefoy",
+            "score": 29.764229273265336,
+            "stars": 403,
+            "forks": 152,
+            "language": "Python",
+            "url": "https://github.com/xtekky/zefoy",
+            "updatedAt": "2025-01-24T19:10:22Z",
+            "isPinned": true,
+            "homepage": "https://discord.gg/onlp"
+        },
+        {
+            "name": "TikTok-Report-Bot",
+            "description": "Best TikTok Report Bot on Github / app api with botnet",
+            "score": 27.2877108716473,
+            "stars": 205,
+            "forks": 71,
+            "language": "Python",
+            "url": "https://github.com/xtekky/TikTok-Report-Bot",
+            "updatedAt": "2025-01-23T22:28:42Z",
+            "isPinned": true,
+            "homepage": "https://t.me/onlpx"
+        },
+        {
+            "name": "gpt4local",
+            "description": "Openai-style, fast & lightweight local language model inference w/ documents",
+            "score": 24.42649984946424,
+            "stars": 97,
+            "forks": 27,
+            "language": "Python",
+            "url": "https://github.com/xtekky/gpt4local",
+            "updatedAt": "2025-01-21T16:45:29Z",
+            "isPinned": true,
+            "homepage": "https://g4f.ai"
+        },
+        {
+            "name": "TikTok-Captcha-Solver",
+            "description": "TikTok Captcha Solver, full requests, slide captcha, 3d captcha",
+            "score": 15.646867590267528,
+            "stars": 130,
+            "forks": 43,
+            "language": "Python",
+            "url": "https://github.com/xtekky/TikTok-Captcha-Solver",
+            "updatedAt": "2025-01-24T06:55:16Z",
+            "isPinned": false,
+            "homepage": "https://t.me/xtekky"
+        },
+        {
+            "name": "gpt4free-discord",
+            "description": "Gpt4Free basic disord bot, streamed responses, gpt-4 and more",
+            "score": 15.507937195742281,
+            "stars": 174,
+            "forks": 26,
+            "language": "Python",
+            "url": "https://github.com/xtekky/gpt4free-discord",
+            "updatedAt": "2025-01-26T10:17:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4672,
+    "following": 18,
+    "public_repos": 79,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 231,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://t.me/onlpx"
+        },
+        {
+            "provider": "generic",
+            "url": "https://g4f.ai"
+        }
+    ],
+    "readme_content": "<!-- <p align=\"center\">\n    <img alt=\"\" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />\n    <img alt=\"\" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />\n</p> -->\n\ntelegram: [t.me/onlpx](https://t.me/onlpx)\n\n<h2 align=\"center\">About Me </h2>\n\n```python\nfrom typing import Tuple, List, Dict\n\nclass Tekky:\n    pass\n\nclass Attributes(Tekky):\n    @property\n    def contact(self) -> Tuple[str, str, str]:\n        telegram = \"t.me/xtekky\"\n        channel  = \"t.me/onlpx\"\n        email    = \"github@g4f.ai\"\n\t    \n        return telegram, channel, email\n\n    @property\n    def life(self) -> Tuple[List[str], int]:\n        langs = ['French', 'German', 'Spanish', 'English']\n        age   = 17\n\t\t\n        return langs, age\n\t\n    @property\n    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:\n        langs = {\n            'expert'      : ['python'],\n            'intermediate': ['go', 'js'],\n            'learning'    : ['c', 'c++', 'c#', 'asm', 'java']\n        }\n        specialities  = ['web/app reverse engineering', 'fullstack', 'ai']\n        ide           = ['vscode']\n        pc            = {\n            'MacOS': {\n                'macbook air m2': {\n                    'processor': 'm2 |\u00a08 cores',\n                    'ram'      : '8gb',\n                    'gpu'      : 'm2 | 8 cores'\n                }\n            },\n            'Windows': {\n                'custom': {\n                    'processor': 'AMD ryzen 7 5800X |\u00a08 cores',\n                    'ram'      : '16gb',\n                    'gpu'      : 'nvidia 3070 | 5888 CUDA cores'\n                }\n            }\n        }\n\n\treturn langs, specialities, ide, pc\n```\n\n_ranked 4th for most contributions made by independent developers to AI open source & decentralisation ([source](https://huyenchip.com/2024/03/14/ai-oss.html))_   \n_gpt4free is a top #200 repository on github ~ ([source](https://top1000repos.com/))_\n\n<h2 align=\"center\">Skills </h2>\n\n<p align=\"center\">\n  <a href=\"https://skillicons.dev\">\n    <img src=\"https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html\" />\n  </a>\n</p>\n\n<p href=\"https://discord.gg/onlp\" align=\"center\">\n    <img alt=\"\" src=\"https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true\">\n</p>\n\n<p href=\"https://discord.gg/onlp\" align=\"center\">\n    <img alt=\"\" src=https://lanyard.cnrad.dev/api/1115378147630788618/>\n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

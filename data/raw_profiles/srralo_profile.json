@@ -1,0 +1,138 @@
+{
+    "username": "srralo",
+    "name": "srralo",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/109330454?u=21ee9cc3b7933a60367f00fcfc033be697130f61&v=4",
+    "profile_url": "https://github.com/SrRalo",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "Astro",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "btc-calculator",
+            "description": "Calculadora de Jublicaci\u00f3n en Bitcoin",
+            "score": 10.584806867876921,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SrRalo/btc-calculator",
+            "updatedAt": "2025-01-15T03:30:57Z",
+            "isPinned": true,
+            "homepage": "https://btc-calculator-nu.vercel.app/"
+        },
+        {
+            "name": "asistencias-python",
+            "description": "Sistema de Asistencias y Tutorias en Python-Supabase",
+            "score": 10.45015244275062,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SrRalo/asistencias-python",
+            "updatedAt": "2024-12-30T13:50:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "evaluaciones-python",
+            "description": "Sistema de Evaluacion a Carrera en Python-Supabase",
+            "score": 10.45015244275062,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/SrRalo/evaluaciones-python",
+            "updatedAt": "2024-12-30T13:56:52Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "musicFy",
+            "description": "Proyecto de Interfaces",
+            "score": 10.389595453258407,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SrRalo/musicFy",
+            "updatedAt": "2024-12-11T01:40:25Z",
+            "isPinned": true,
+            "homepage": "https://music-fy-eta.vercel.app"
+        },
+        {
+            "name": "btc-blog",
+            "description": "Blog Todo Sobre Bitcoin",
+            "score": 10.339455557042134,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SrRalo/btc-blog",
+            "updatedAt": "2024-11-11T06:34:18Z",
+            "isPinned": true,
+            "homepage": "https://todosobrebitcoin.vercel.app/"
+        },
+        {
+            "name": "Inventario_EI",
+            "description": "Sistema de Gesti\u00f3n de Inventario de Equipos Inform\u00e1ticos para la Universidad",
+            "score": 10.335020585261645,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/SrRalo/Inventario_EI",
+            "updatedAt": "2024-10-31T20:54:03Z",
+            "isPinned": true,
+            "homepage": "https://inventario-ei.vercel.app"
+        },
+        {
+            "name": "demo-portfolio-v2",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/SrRalo/demo-portfolio-v2",
+            "updatedAt": "2025-01-21T14:50:10Z",
+            "isPinned": false,
+            "homepage": "https://demo-portfolio-v2-one.vercel.app"
+        },
+        {
+            "name": "email-source",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SrRalo/email-source",
+            "updatedAt": "2025-01-19T01:06:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 23,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 74,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@sr_ralo"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

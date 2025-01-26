@@ -1,0 +1,133 @@
+{
+    "username": "estebanxz11",
+    "name": "Juan Esteban Londo\u00f1o Gomez",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72523178?u=1d5f8caa2ca5a7e2019c19a94b1db994dd5da31f&v=4",
+    "profile_url": "https://github.com/Estebanxz11",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Astro",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BlogAstro",
+            "description": null,
+            "score": 0.27787232118406857,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Estebanxz11/BlogAstro",
+            "updatedAt": "2024-06-20T00:41:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sportzone",
+            "description": null,
+            "score": 0.26118738766922667,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Estebanxz11/sportzone",
+            "updatedAt": "2024-03-21T16:04:07Z",
+            "isPinned": false,
+            "homepage": "https://estebanxz11.github.io/sportzone/"
+        },
+        {
+            "name": "examenes-talentotech",
+            "description": null,
+            "score": 0.25520031108745,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/Estebanxz11/examenes-talentotech",
+            "updatedAt": "2024-02-05T16:13:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Estebanxz11",
+            "description": null,
+            "score": 0.22004666548252405,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Estebanxz11/Estebanxz11",
+            "updatedAt": "2024-07-18T09:36:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EPCC",
+            "description": "Estimulaci\u00f3n del pensamiento cient\u00edfico y creativo de ni\u00f1os, a trav\u00e9s de la rob\u00f3tica educativa",
+            "score": 0.21498344792979443,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Estebanxz11/EPCC",
+            "updatedAt": "2024-03-21T15:33:10Z",
+            "isPinned": false,
+            "homepage": "https://estebanxz11.github.io/EPCC/"
+        },
+        {
+            "name": "Proyecto-nemiun",
+            "description": "Proyecto-nemiun",
+            "score": 0.07387168522818285,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Estebanxz11/Proyecto-nemiun",
+            "updatedAt": "2022-09-10T00:45:33Z",
+            "isPinned": false,
+            "homepage": "https://estebanxz11.github.io/Proyecto-nemiun/"
+        },
+        {
+            "name": "OVA-prueba",
+            "description": null,
+            "score": 0.07384663274778601,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Estebanxz11/OVA-prueba",
+            "updatedAt": "2022-09-08T13:29:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Repositorio_Prueba_GIT_VSC",
+            "description": "Repositorio de prueba",
+            "score": 0.07338432017718212,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Estebanxz11/Repositorio_Prueba_GIT_VSC",
+            "updatedAt": "2022-08-01T17:55:48Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 19,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 102,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "# \u00a1Hola! \ud83d\udc4b\n\n\u00a1Bienvenido a mi perfil de GitHub! Soy Juan Esteban Londo\u00f1o Gomez, Ingeniero de sistemas y desarrollador fullstack apasionado por la programaci\u00f3n y la resoluci\u00f3n de problemas. Aqu\u00ed encontrar\u00e1s algunos de los proyectos en los que he trabajado y las tecnolog\u00edas que manejo.\n\n![Visitas al perfil](https://komarev.com/ghpvc/?username=Estebanxz11&color=green)\n\n## Tecnolog\u00edas que manejo\n\n- **Lenguajes:**\n  - Java\n  - JavaScript\n  - Php\n  - HTML/CSS\n\n- **Frameworks y Librer\u00edas:**\n  - Spring Boot\n  - Vue\n  - Laravel\n  - Node.js\n\n- **Herramientas y Plataformas:**\n  - Git\n  - GitHub\n  - Visual Studio Code\n\n\u00a1No dudes en explorar mis repositorios y contactarme si tienes preguntas o ideas para colaborar!\n\n<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/yourprofile) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,133 @@
+{
+    "username": "oscarga8a",
+    "name": "oscarga8a",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/30200818?v=4",
+    "profile_url": "https://github.com/OscarGa8a",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ServerNFTMarkerCreator",
+            "description": null,
+            "score": 1.4534287190219155,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/OscarGa8a/ServerNFTMarkerCreator",
+            "updatedAt": "2022-03-13T20:44:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NFTMarkerCreator",
+            "description": null,
+            "score": 1.4533920432880267,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/OscarGa8a/NFTMarkerCreator",
+            "updatedAt": "2022-03-13T20:44:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test-table",
+            "description": null,
+            "score": 1.2950429301502895,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/OscarGa8a/test-table",
+            "updatedAt": "2024-02-06T16:22:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "redirection-app-gallitos",
+            "description": null,
+            "score": 0.5189643843917904,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/OscarGa8a/redirection-app-gallitos",
+            "updatedAt": "2025-01-08T19:51:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-projects",
+            "description": null,
+            "score": 0.27474613157243294,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OscarGa8a/react-projects",
+            "updatedAt": "2024-06-05T21:03:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "firmware-ota",
+            "description": null,
+            "score": 0.25785995122869343,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OscarGa8a/firmware-ota",
+            "updatedAt": "2024-02-25T18:28:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "garaje-front",
+            "description": null,
+            "score": 0.15673680156085543,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/OscarGa8a/garaje-front",
+            "updatedAt": "2023-06-17T04:57:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aomenertec_app",
+            "description": null,
+            "score": 0.14676864035436424,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/OscarGa8a/aomenertec_app",
+            "updatedAt": "2023-05-22T20:43:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 34,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 36,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

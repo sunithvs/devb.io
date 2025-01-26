@@ -1,0 +1,92 @@
+{
+    "username": "noel3098",
+    "name": "Noel Mejia",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/35944867?u=d92700ec9ec7e647ad92b12d72364c7277356119&v=4",
+    "profile_url": "https://github.com/noel3098",
+    "top_languages": [
+        [
+            "CSS",
+            4
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Pokemon-API-Clone",
+            "description": null,
+            "score": 0.25263003848566457,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/noel3098/Pokemon-API-Clone",
+            "updatedAt": "2024-03-05T18:26:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "responsive-mini-blog-card",
+            "description": null,
+            "score": 0.16309950410660812,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/noel3098/responsive-mini-blog-card",
+            "updatedAt": "2023-10-25T03:14:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mobile-first-batatabit",
+            "description": null,
+            "score": 0.07263786121056631,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/noel3098/mobile-first-batatabit",
+            "updatedAt": "2022-05-27T11:06:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nft-card",
+            "description": null,
+            "score": 0.07228865126417167,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/noel3098/nft-card",
+            "updatedAt": "2022-04-23T23:24:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "profile-card",
+            "description": null,
+            "score": 0.07228865126417167,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/noel3098/profile-card",
+            "updatedAt": "2022-04-24T16:55:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 14,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 327,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

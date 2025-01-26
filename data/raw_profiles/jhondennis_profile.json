@@ -1,0 +1,109 @@
+{
+    "username": "jhondennis",
+    "name": "Dennis",
+    "bio": "",
+    "location": "Bolivia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58501294?u=403f50fe9afd8cda71315a1bddd5b8dbd6a7058f&v=4",
+    "profile_url": "https://github.com/jhondennis",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Shell",
+            2
+        ],
+        [
+            "Lua",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BlockNote-Editor",
+            "description": null,
+            "score": 0.4603915146452023,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jhondennis/BlockNote-Editor",
+            "updatedAt": "2025-01-01T00:59:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nvim",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/jhondennis/nvim",
+            "updatedAt": "2024-12-12T07:29:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "initial-config-project",
+            "description": null,
+            "score": 0.2625254017047578,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/jhondennis/initial-config-project",
+            "updatedAt": "2024-03-30T18:56:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pregunta.github.io",
+            "description": null,
+            "score": 0.06913706937209303,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jhondennis/pregunta.github.io",
+            "updatedAt": "2021-04-15T01:53:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SCRIPTS_BAT",
+            "description": null,
+            "score": 0.06701455697420886,
+            "stars": 0,
+            "forks": 0,
+            "language": "Batchfile",
+            "url": "https://github.com/jhondennis/SCRIPTS_BAT",
+            "updatedAt": "2020-04-23T16:47:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SCRIPTS_BATCH",
+            "description": null,
+            "score": 0.06701455697420886,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/jhondennis/SCRIPTS_BATCH",
+            "updatedAt": "2020-04-23T16:57:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 17,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

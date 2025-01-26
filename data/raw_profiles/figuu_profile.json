@@ -1,0 +1,65 @@
+{
+    "username": "figuu",
+    "name": "David Ariel Calvi Arce",
+    "bio": "\ud83e\udd77",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/90205108?u=92b311d6877ca008de45257d1335bd327a3a0763&v=4",
+    "profile_url": "https://github.com/Figuu",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Figuu",
+            "description": "\ud83e\udd77",
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Figuu/Figuu",
+            "updatedAt": "2024-09-03T12:43:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nexuss",
+            "description": "Event Ticket Mobile App",
+            "score": 0.30098683821995026,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Figuu/nexuss",
+            "updatedAt": "2025-01-21T00:58:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-fastapi-ws",
+            "description": null,
+            "score": 0.25825812686028826,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Figuu/nextjs-fastapi-ws",
+            "updatedAt": "2024-02-29T11:41:25Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 4,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 22,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "## \ud83e\udd77\n\n<!--\n**Figuu/Figuu** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

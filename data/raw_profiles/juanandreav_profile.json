@@ -1,0 +1,133 @@
+{
+    "username": "juanandreav",
+    "name": "Juan Andr\u00e9s \u00c1lvarez Vel\u00e1squez ",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/140273766?u=1840afcf88baeab477eb74ac23b135fb4456a9e2&v=4",
+    "profile_url": "https://github.com/JuanAndreAV",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "HTML",
+            9
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "solear",
+            "description": null,
+            "score": 1.4075898635546635,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/JuanAndreAV/solear",
+            "updatedAt": "2024-12-09T23:34:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proyectosolear",
+            "description": null,
+            "score": 0.3678690927147456,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JuanAndreAV/proyectosolear",
+            "updatedAt": "2024-11-28T14:47:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "maderarcolandingpage",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JuanAndreAV/maderarcolandingpage",
+            "updatedAt": "2024-12-21T14:51:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "musictasks",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JuanAndreAV/musictasks",
+            "updatedAt": "2024-10-09T03:43:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "angular-ecommerce",
+            "description": null,
+            "score": 0.2914039066494681,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JuanAndreAV/angular-ecommerce",
+            "updatedAt": "2024-09-15T18:53:00Z",
+            "isPinned": false,
+            "homepage": "https://angular-ecommerce-iota.vercel.app"
+        },
+        {
+            "name": "raices_sena",
+            "description": null,
+            "score": 0.28559061529244567,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JuanAndreAV/raices_sena",
+            "updatedAt": "2024-07-26T01:29:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "backend",
+            "description": null,
+            "score": 0.27787232118406857,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JuanAndreAV/backend",
+            "updatedAt": "2024-06-20T03:17:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "raices",
+            "description": null,
+            "score": 0.2614801875083386,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JuanAndreAV/raices",
+            "updatedAt": "2024-03-22T17:36:33Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 68,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

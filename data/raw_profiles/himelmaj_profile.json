@@ -1,0 +1,146 @@
+{
+    "username": "himelmaj",
+    "name": "Himel Majumder",
+    "bio": "\ud83d\udc68\u200d\ud83d\udcbb Junior Full Stack Web Developer\r\n\ud83d\ude80 NextJS & \ud83d\udc0d FastAPI Enthusiast",
+    "location": "Barcelona, Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/93002708?u=dcdb6f0281da1971d10f68cdf5efc66cc75e8386&v=4",
+    "profile_url": "https://github.com/himelmaj",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "PHP",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "short-url-nextjs",
+            "description": null,
+            "score": 12.47604030585804,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/himelmaj/short-url-nextjs",
+            "updatedAt": "2024-11-21T18:15:04Z",
+            "isPinned": true,
+            "homepage": "https://sh-rten.vercel.app"
+        },
+        {
+            "name": "himelmaj.dev",
+            "description": null,
+            "score": 10.276276388078992,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/himelmaj/himelmaj.dev",
+            "updatedAt": "2024-09-13T12:59:05Z",
+            "isPinned": true,
+            "homepage": "https://himelmaj.vercel.app"
+        },
+        {
+            "name": "himelmaj-bio",
+            "description": null,
+            "score": 10.275832681869625,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/himelmaj/himelmaj-bio",
+            "updatedAt": "2024-09-13T13:02:37Z",
+            "isPinned": true,
+            "homepage": "https://himel-link.vercel.app"
+        },
+        {
+            "name": "AppDriving",
+            "description": null,
+            "score": 1.6392629840256023,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/himelmaj/AppDriving",
+            "updatedAt": "2024-06-26T23:11:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "steamapp",
+            "description": null,
+            "score": 1.6391497223874656,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/himelmaj/steamapp",
+            "updatedAt": "2024-06-26T23:11:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "steam-simulator",
+            "description": null,
+            "score": 1.6383679795138744,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/himelmaj/steam-simulator",
+            "updatedAt": "2024-05-17T20:18:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tailwind-m9",
+            "description": null,
+            "score": 1.6357241995938239,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/himelmaj/tailwind-m9",
+            "updatedAt": "2024-05-17T20:18:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "timezone-map",
+            "description": null,
+            "score": 1.6353211812009505,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/himelmaj/timezone-map",
+            "updatedAt": "2024-06-26T23:11:24Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 36,
+    "pull_requests_merged": 22,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1799,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/himelmaj"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/himelmaj"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/himelmaj/"
+        }
+    ],
+    "readme_content": "<img align='right' src='./assets/intro.gif' width='200'>\n\n<h1 align=\"center\">Hi there, I'm <a href=\"https://www.linkedin.com/in/himelmaj/\" target=\"_blank\" style=\"color: #fdd456;\">Himel Majumder</a> <img\nsrc=\"./assets/hi.gif\" height=\"32\" /></h1>\n\n<div style=\"margin: 10px;\">\n<p>\n  Full Stack <strong>Web Developer</strong> based in \ud83c\udfd9\ufe0f Barcelona, Spain. \n  I'm actively involved in several side projects, learning and improving every day \u2728. \n  A <strong>Python</strong> \ud83d\udc0d, <strong>JavaScript</strong> \ud83d\udc26, and <strong>TypeScript</strong> enthusiast! \n  I love working with frameworks like <strong>Next.js</strong> and <strong>FastAPI</strong>. \n  Check out my stack below \u2b07\ufe0f! You can contact me using my \ud83d\udceb <strong>\n  <a href=\"mailto:himelmajumder1@gmail.com\" target=\"_blank\" style=\"color: #0a66c2;\">himelmajumder1@gmail.com</a></strong> \n  or through my LinkedIn profile \ud83d\udd17 <strong>\n  <a href=\"https://www.linkedin.com/in/himelmaj/\" target=\"_blank\" style=\"color: #0a66c2;\">in/himelmaj</a></strong>\n</p>\n\n\n</div>\n\n<div>\n<h2>\ud83d\ude80 Tech Stack \ud83d\ude80</h2>\n\n![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,nodejs,expressjs,mongodb,mysql,graphql,fastapi,python,prisma,laravel,php,git,github,docker,postman,vercel,aws,googlecloud,vscode,pycharm,phpstorm,webstorm,windows,linux)\n</div>\n\n\n<div>\n<h2>\n\ud83d\udc0d Contributions \ud83d\udc0d\n</h2>\n<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake-dark.svg\"\n  />\n  <source\n    media=\"(prefers-color-scheme: light)\"\n    srcset=\"https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake.svg\"\n  />\n  <img\n    alt=\"github contribution grid snake animation\"\n    src=\"https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake.svg\"\n  />\n</picture>\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

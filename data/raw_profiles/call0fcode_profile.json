@@ -1,0 +1,137 @@
+{
+    "username": "call0fcode",
+    "name": "Juan G\u00f3mez Carrillo",
+    "bio": "",
+    "location": "Remote",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19599325?u=9383e4238dc08c45a63fdeb2eee131b1ccfb1cc6&v=4",
+    "profile_url": "https://github.com/call0fcode",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "React-Food-Order-App",
+            "description": "Simulation of a food ordering app.",
+            "score": 11.111546476384182,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/React-Food-Order-App",
+            "updatedAt": "2022-05-16T00:28:54Z",
+            "isPinned": true,
+            "homepage": "https://c0c-reactmeals.netlify.app/"
+        },
+        {
+            "name": "Enhanced-React-JS-Template",
+            "description": "React ready-to-use template with some useful development features integrated.",
+            "score": 10.072278299800605,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/Enhanced-React-JS-Template",
+            "updatedAt": "2022-04-22T17:02:44Z",
+            "isPinned": true,
+            "homepage": "https://c0c-enhanced-react-js-template.netlify.app/"
+        },
+        {
+            "name": "Enhanced-React-TS-Template",
+            "description": "React + TypeScript ready-to-use template with some useful development features integrated.",
+            "score": 10.07221646723915,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/call0fcode/Enhanced-React-TS-Template",
+            "updatedAt": "2022-04-22T17:01:01Z",
+            "isPinned": true,
+            "homepage": "https://c0c-enhanced-react-ts-template.netlify.app/"
+        },
+        {
+            "name": "React-MoviesList-Database",
+            "description": "Demo app to showcase communication between React and the Firebase Realtime Database.",
+            "score": 10.072084096625868,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/React-MoviesList-Database",
+            "updatedAt": "2022-04-07T02:26:19Z",
+            "isPinned": true,
+            "homepage": "https://c0c-react-database-communication-demo.netlify.app/"
+        },
+        {
+            "name": "Cotizador-Criptomonedas-React",
+            "description": "React app that obtains the current value of various cryptocurrencies in the most common currencies by querying an API.",
+            "score": 10.071776954338672,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/Cotizador-Criptomonedas-React",
+            "updatedAt": "2022-04-22T17:06:20Z",
+            "isPinned": true,
+            "homepage": "https://c0c-criptomonedas-react.netlify.app/"
+        },
+        {
+            "name": "ClimaApp-React",
+            "description": "React app that shows the weather of the specified city by querying an API.",
+            "score": 10.071547000295844,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/ClimaApp-React",
+            "updatedAt": "2022-04-22T17:04:46Z",
+            "isPinned": true,
+            "homepage": "https://c0c-clima-react.netlify.app/"
+        },
+        {
+            "name": "Blackjack",
+            "description": "A simple blackjack game created with vanilla JS and some Bootstrap for basic styling.",
+            "score": 1.1076899085550047,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/Blackjack",
+            "updatedAt": "2020-10-23T13:36:01Z",
+            "isPinned": false,
+            "homepage": "https://call0fcode.github.io/Blackjack/"
+        },
+        {
+            "name": "Presupuesto-React",
+            "description": "Simple app para el control de presupuesto y gastos.",
+            "score": 0.2153308630160159,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/call0fcode/Presupuesto-React",
+            "updatedAt": "2024-07-10T16:38:27Z",
+            "isPinned": false,
+            "homepage": "https://c0c-presupuesto-react.netlify.app/"
+        }
+    ],
+    "followers": 11,
+    "following": 18,
+    "public_repos": 25,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 5,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/call0fcode"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

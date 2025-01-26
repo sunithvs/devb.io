@@ -1,0 +1,138 @@
+{
+    "username": "amr89-dev",
+    "name": "Amado Mart\u00ednez",
+    "bio": "Fullstack Developer | Javascript | React | Node.js | PostgreSQL",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/87546954?u=65522790799a4cda9a5315faa47228910efed740&v=4",
+    "profile_url": "https://github.com/amr89-dev",
+    "top_languages": [
+        [
+            "JavaScript",
+            19
+        ],
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "Astro",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pf-nova-academy",
+            "description": null,
+            "score": 11.543114624582723,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/amr89-dev/pf-nova-academy",
+            "updatedAt": "2023-06-24T04:10:52Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "travelapp",
+            "description": null,
+            "score": 10.159273168385,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amr89-dev/travelapp",
+            "updatedAt": "2023-08-30T17:29:50Z",
+            "isPinned": true,
+            "homepage": "https://travelapp-orcin.vercel.app"
+        },
+        {
+            "name": "e-commerce",
+            "description": null,
+            "score": 10.158298865011053,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/amr89-dev/e-commerce",
+            "updatedAt": "2023-07-22T22:29:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "dogs-page",
+            "description": null,
+            "score": 10.156488628848347,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/amr89-dev/dogs-page",
+            "updatedAt": "2023-06-11T02:32:09Z",
+            "isPinned": true,
+            "homepage": "https://dogs-page.vercel.app"
+        },
+        {
+            "name": "landing-pages",
+            "description": "Repositorio de proyectos personales, tipo landing pages.",
+            "score": 10.072681223970973,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/amr89-dev/landing-pages",
+            "updatedAt": "2022-05-30T17:22:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "audio-music-store",
+            "description": null,
+            "score": 1.641011815041222,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amr89-dev/audio-music-store",
+            "updatedAt": "2024-01-31T06:47:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cetrans-app",
+            "description": null,
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/amr89-dev/cetrans-app",
+            "updatedAt": "2025-01-16T02:37:44Z",
+            "isPinned": false,
+            "homepage": "https://cetrans-app.vercel.app"
+        },
+        {
+            "name": "portfolio",
+            "description": "personal portfolio",
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/amr89-dev/portfolio",
+            "updatedAt": "2024-11-12T18:02:37Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 14,
+    "following": 10,
+    "public_repos": 47,
+    "pull_requests_merged": 15,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1161,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/amr89-dev/"
+        }
+    ],
+    "readme_content": "\n\n\ud83d\udc4b \u00a1Hola! Soy Amado Mart\u00ednez\ud83d\udc68\u200d\ud83d\udcbb, un apasionado desarrollador web\u2728. Mi interes por la tecnolog\u00eda me ha me ha llevado a construir aplicaciones que marquen la diferencia en el ambito profesional donde me desenvuelvo. Mi objetivo es crear soluciones innovadoras que resuelvan problemas y faciliten la vida de los usuarios. Me encanta sumergirme en proyectos desafiantes, donde puedo aplicar mi habilidad para desarrollar c\u00f3digo limpio y eficiente, utilizando las tecnolog\u00edas m\u00e1s modernas y punteras del mercado.\n\nTrabajo con una amplia gama de tecnolog\u00edas, desde el desarrollo web con HTML, CSS, JavaScript y TypeScript, hasta el backend utilizando Node.js y bases de datos como PostgreSQL. Tambi\u00e9n tengo experiencia en el uso de herramientas de control de versiones como Git.\n\n\ud83d\udcdaLa curiosidad y el deseo de aprender son parte fundamental de mi naturaleza, siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado en el cambiante mundo de la tecnolog\u00eda\ud83c\udf10. Me emociona enfrentar nuevos desaf\u00edos y encontrar soluciones creativas para problemas complejos.\n\nCuando no estoy frente a la computadora, disfruto leer \ud83d\udcd6 y explorar la naturaleza \ud83c\udfde\ufe0f, conectar con el mundo que me rodea. Adem\u00e1s, me apasiona la m\u00fasica \ud83c\udfb5, especialmente tocar la percusi\u00f3n\ud83e\udd41, lo cual me brinda una forma de expresarme.\n\nEstoy emocionado de colaborar en proyectos innovadores y trabajar en equipo para lograr resultados excepcionales. Si tienes una idea en mente o un desaf\u00edo que enfrentar, \u00a1estoy listo para unirme a ti en esta emocionante traves\u00eda de desarrollo! \ud83d\udcaa\ud83d\ude04\n\n[No dudes en escribirme \u2709\ufe0f](mailto:amr89.dev@gmail.com)\n\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

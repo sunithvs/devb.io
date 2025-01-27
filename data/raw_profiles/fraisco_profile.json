@@ -1,0 +1,49 @@
+{
+    "username": "fraisco",
+    "name": "Francisco Diaz",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/134557103?u=18b60ca2e742493fb8cc7634d4969c69b30daae0&v=4",
+    "profile_url": "https://github.com/Fraisco",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Ejercicios-de-Python-B-sico",
+            "description": "Here are some exercises I did in Python in case you want to incorporate them into your life for practice.",
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Fraisco/Ejercicios-de-Python-B-sico",
+            "updatedAt": "2024-12-22T21:47:15Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 4,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/franciscodiaz126?igsh=MTZyMWo1dWpmMzdrMQ=="
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.facebook.com/share/19ZFgPsx9h/?mibextid=qi2Omg"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

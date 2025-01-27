@@ -1,0 +1,133 @@
+{
+    "username": "garuda127",
+    "name": "Martin Lara",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/71472029?u=b19236a6130392b0975b81db23fbc3b966cc16e6&v=4",
+    "profile_url": "https://github.com/Garuda127",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "Kotlin",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CatalogoFerreteria",
+            "description": "Proyecto para Investicacion 2",
+            "score": 1.1116647028099407,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/Garuda127/CatalogoFerreteria",
+            "updatedAt": "2022-05-21T08:41:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Simulacion-NumerosAle",
+            "description": null,
+            "score": 1.1099251791586005,
+            "stars": 0,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/Garuda127/Simulacion-NumerosAle",
+            "updatedAt": "2021-10-21T03:49:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "netcoredbg-launch-gen",
+            "description": null,
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Garuda127/netcoredbg-launch-gen",
+            "updatedAt": "2024-11-30T05:48:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "qr-code-component",
+            "description": "Practica HTML y CSS de un componente QR",
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Garuda127/qr-code-component",
+            "updatedAt": "2024-11-22T07:32:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ecommers",
+            "description": "Proyecto con css y html",
+            "score": 0.27226252867810646,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Garuda127/Ecommers",
+            "updatedAt": "2024-05-26T00:52:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BookStoreApi",
+            "description": null,
+            "score": 0.2614801875083386,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Garuda127/BookStoreApi",
+            "updatedAt": "2024-03-23T15:52:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "APIMinima",
+            "description": "Api minima en dotnet",
+            "score": 0.2613334702053725,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Garuda127/APIMinima",
+            "updatedAt": "2024-03-23T14:42:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CrudReactApp",
+            "description": "Crud con react y dotnet",
+            "score": 0.2613334702053725,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Garuda127/CrudReactApp",
+            "updatedAt": "2024-03-23T14:46:41Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 8,
+    "public_repos": 64,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 36,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h2 align=\"left\">Hola \ud83d\udc4b ! Mi nombre es Mart\u00edn Lara y soy un desarrollador web, de Guanajuato, Mexico</h2>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Garuda127&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://streak-stats.demolab.com?user=Garuda127&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5\" height=\"150\" alt=\"streak graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=Garuda127&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false\" height=\"150\" alt=\"languages graph\"  />\n</div>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.simpleicons.org/angular/DD0031\" height=\"30\" alt=\"angularjs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/dotnet/512BD4\" height=\"30\" alt=\"dot-net logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/flutter/02569B\" height=\"30\" alt=\"flutter logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/javascript/F7DF1E\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/lit/324FFF\" height=\"30\" alt=\"lit logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/nestjs/E0234E\" height=\"30\" alt=\"nestjs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/reactivex/B7178C\" height=\"30\" alt=\"reactivex logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/typescript/3178C6\" height=\"30\" alt=\"typescript logo\"  />\n</div>\n\n###\n\n<div align=\"left\">\n  <a href=\"martinlarap127@gmail.com\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"gmail logo\"  />\n  </a>\n  <a href=\"https://www.linkedin.com/in/martin-lara-peredo/\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"linkedin logo\"  />\n  </a>\n</div>\n\n###\n\n<br clear=\"both\">\n\n<img src=\"https://raw.githubusercontent.com/Garuda127/Garuda127/output/snake.svg\" alt=\"Snake animation\" />\n\n###\n\n\n\n\n<a href=\"https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Garuda127&utm_content=line\">\n  <img\n    src=\"https://render.gitanimals.org/lines/Garuda127?pet-id=669253765004849940\"\n    width=\"600\"\n    height=\"120\"\n  />\n</a>\n  \n\n\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

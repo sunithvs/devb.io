@@ -1,0 +1,93 @@
+{
+    "username": "diegoryomaosaki",
+    "name": "DiegoRyomaOsaki",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98054123?u=5cb0d2e570933e2bd2ba2d1aeddc884573f37723&v=4",
+    "profile_url": "https://github.com/DiegoRyomaOsaki",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "google-spreadsheets-api",
+            "description": "Practice google sheets api ",
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/DiegoRyomaOsaki/google-spreadsheets-api",
+            "updatedAt": "2025-01-02T22:49:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "twitch-bots",
+            "description": "Funciones para twitch",
+            "score": 0.07240339757215632,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DiegoRyomaOsaki/twitch-bots",
+            "updatedAt": "2022-05-06T19:53:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Practicas-React-Native",
+            "description": "pr\u00e1cticas con react native",
+            "score": 0.07211445171374134,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DiegoRyomaOsaki/Practicas-React-Native",
+            "updatedAt": "2022-04-07T21:07:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "practicas-react",
+            "description": "practicas con react js",
+            "score": 0.07204380006905234,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/DiegoRyomaOsaki/practicas-react",
+            "updatedAt": "2022-04-01T16:16:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Transporte",
+            "description": "Proyecto para empresas de transporte",
+            "score": 0.071904329393958,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/DiegoRyomaOsaki/Transporte",
+            "updatedAt": "2022-03-18T18:16:08Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/diegoryomaosaki/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

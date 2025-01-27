@@ -1,0 +1,133 @@
+{
+    "username": "jorgegarcia105",
+    "name": "Jorge Ivan Garcia Torres",
+    "bio": "Estudiante de ingenier\u00eda de sistemas y computaci\u00f3n Universidad de Caldas \u261d\ufe0f. ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/111246512?u=362ebb9b4d8a34a6a8013cdaf87fba3897e5b9bc&v=4",
+    "profile_url": "https://github.com/JorgeGarcia105",
+    "top_languages": [
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Java",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Sistema-Operativo",
+            "description": "Creacion de un sistema operativo desde cero/ejecutado en VirtualBox",
+            "score": 1.6429878835697518,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JorgeGarcia105/Sistema-Operativo",
+            "updatedAt": "2024-09-15T18:53:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Gestor-de-archivos",
+            "description": null,
+            "score": 1.2043828269774872,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/JorgeGarcia105/Gestor-de-archivos",
+            "updatedAt": "2023-11-21T13:57:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LiterAlura",
+            "description": "Cat\u00e1logo de Libros en Java: Un proyecto interactivo desarrollado en Java que implementa un cat\u00e1logo de libros, permitiendo realizar consultas y filtros mediante la consola. Incluye consumo de una API de libros, manipulaci\u00f3n de datos JSON, almacenamiento en una base de datos, y un sistema de interacci\u00f3n amigable para los usuarios.",
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JorgeGarcia105/LiterAlura",
+            "updatedAt": "2025-01-14T23:51:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ForoHub",
+            "description": "Foro Hub es una API REST desarrollada en Java utilizando Spring Boot. Este proyecto tiene como objetivo implementar un sistema de foro que permita a los usuarios interactuar mediante t\u00f3picos y respuestas.",
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JorgeGarcia105/ForoHub",
+            "updatedAt": "2025-01-20T20:55:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Reproducion_Audio",
+            "description": "Proyecto de canciones, podcasts, aplicando conceptos de herencia y encapsulamiento. Alura_latam",
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JorgeGarcia105/Reproducion_Audio",
+            "updatedAt": "2024-12-23T02:33:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Transbordo",
+            "description": "Ejercicios de Transbordo en la materia Investigacion de Operaciones",
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JorgeGarcia105/Transbordo",
+            "updatedAt": "2024-12-13T05:05:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ConversorDeMoneda",
+            "description": "Implementacion de un conversor de moneda. Consumiendo un API",
+            "score": 0.320366928485536,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JorgeGarcia105/ConversorDeMoneda",
+            "updatedAt": "2024-10-12T04:09:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EncriptadorTextoAlura-",
+            "description": "Encriptador de texto - Alura Challenges ONE ",
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JorgeGarcia105/EncriptadorTextoAlura-",
+            "updatedAt": "2024-08-26T04:53:33Z",
+            "isPinned": false,
+            "homepage": "https://encriptador-texto-alura-navy.vercel.app"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 266,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

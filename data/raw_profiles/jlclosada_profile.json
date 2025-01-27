@@ -1,0 +1,133 @@
+{
+    "username": "jlclosada",
+    "name": "Jose Luis C\u00e1ceres",
+    "bio": "Software Engineer | Data Analyst",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105374787?u=73ea218a47513e61cf27cdad38962c78e1d8fc47&v=4",
+    "profile_url": "https://github.com/jlclosada",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "Vue",
+            3
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "temporal_series_NDVI_GEE",
+            "description": "This script is responsible for downloading Sentinel 2 images within a defined time series and for certain areas that we define with assets. After processing the images, the files will be uploaded to Google Earth Engine. In addition, we will apply a cloud mask to the images to avoid downloading erroneous or unnecessary data.",
+            "score": 1.5312065521158806,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jlclosada/temporal_series_NDVI_GEE",
+            "updatedAt": "2023-06-22T20:37:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hidrogeno-verde",
+            "description": "WebApp para la explicacion del hidrogeno verde",
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jlclosada/hidrogeno-verde",
+            "updatedAt": "2024-12-20T17:18:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nuxt-crash-course",
+            "description": "Nuxt Crash Course",
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jlclosada/nuxt-crash-course",
+            "updatedAt": "2024-12-11T19:18:19Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        },
+        {
+            "name": "nuxt-dojo",
+            "description": "Nuxt Crash Course",
+            "score": 0.38959545325840733,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/jlclosada/nuxt-dojo",
+            "updatedAt": "2024-12-11T19:52:22Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        },
+        {
+            "name": "portfolio",
+            "description": "Personal Portfolio with Astro",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jlclosada/portfolio",
+            "updatedAt": "2024-12-05T09:18:30Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        },
+        {
+            "name": "tic-tac-toe",
+            "description": "Tic-tac-toe game",
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jlclosada/tic-tac-toe",
+            "updatedAt": "2024-12-05T09:23:18Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        },
+        {
+            "name": "BASF_FS_TechInt",
+            "description": "Web Application for BASF",
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/jlclosada/BASF_FS_TechInt",
+            "updatedAt": "2024-11-13T10:27:24Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        },
+        {
+            "name": "proyecto-vue",
+            "description": "Proyecto curso de VUE3",
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/jlclosada/proyecto-vue",
+            "updatedAt": "2024-11-08T12:47:48Z",
+            "isPinned": false,
+            "homepage": "HomePage"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

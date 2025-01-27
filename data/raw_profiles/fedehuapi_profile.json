@@ -1,0 +1,141 @@
+{
+    "username": "fedehuapi",
+    "name": "Fede Curto",
+    "bio": "\r\nAdventurous beginner in the world of programming, wanting to grow and develop technologically to contribute my part to some code that needs a push to be btr.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118156196?u=fb4b4d79606358b71ba35b05047c2c921a206648&v=4",
+    "profile_url": "https://github.com/FedeHuapi",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "REACT-ecom-practice",
+            "description": "Pr\u00e1ctica de e-commerce de un curso de React",
+            "score": 12.512775548222686,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/FedeHuapi/REACT-ecom-practice",
+            "updatedAt": "2024-10-21T13:54:32Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "MERN-project-products",
+            "description": "Proyecto utilizando el stack MERN. ",
+            "score": 12.511644858297048,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FedeHuapi/MERN-project-products",
+            "updatedAt": "2024-10-21T13:54:32Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "150days-of-java",
+            "description": "150 days of learning Java",
+            "score": 1.7054106818508945,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/FedeHuapi/150days-of-java",
+            "updatedAt": "2024-10-21T13:54:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio",
+            "description": "Portfolio personal utilizando React y Tailwind",
+            "score": 1.7030040632879826,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FedeHuapi/portfolio",
+            "updatedAt": "2024-10-21T13:54:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "FedeHuapi",
+            "description": null,
+            "score": 1.702421116871278,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FedeHuapi/FedeHuapi",
+            "updatedAt": "2024-10-21T13:54:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "practicas-react",
+            "description": null,
+            "score": 1.6825850954595751,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FedeHuapi/practicas-react",
+            "updatedAt": "2024-10-21T13:54:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "planetatierrathreejs",
+            "description": null,
+            "score": 1.6718849764123362,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FedeHuapi/planetatierrathreejs",
+            "updatedAt": "2024-10-21T13:54:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "api-test",
+            "description": null,
+            "score": 1.644154312348584,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FedeHuapi/api-test",
+            "updatedAt": "2024-10-21T13:54:39Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 52,
+    "following": 65,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 37,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/fedeecurto/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/federico-curto-318227288/"
+        }
+    ],
+    "readme_content": "<br clear=\"both\">\n\n<p align=\"left\">My name is Fede and I'm a Full Stack Developer, from Argentina</p>\n\n###\n\n<h1 align=\"left\">Hey \ud83d\udc4b What's up?</h1>\n\n###\n\n<h2 align=\"left\">About me</h2>\n\n###\n\n<p align=\"left\">\u2728 Creating bugs since March 2023<br>\ud83d\udcda I'm currently learning Redux, Python, Java<br>\ud83c\udfaf Goals => Lead a tech-group</p>\n\n###\n\n<h2 align=\"left\">I code with</h2>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"40\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"40\" alt=\"typescript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"40\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg\" height=\"40\" alt=\"nodejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"40\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg\" height=\"40\" alt=\"eslint logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg\" height=\"40\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg\" height=\"40\" alt=\"github logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg\" height=\"40\" alt=\"jquery logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg\" height=\"40\" alt=\"linkedin logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg\" height=\"40\" alt=\"mongodb logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg\" height=\"40\" alt=\"npm logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg\" height=\"40\" alt=\"postgresql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"40\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg\" height=\"40\" alt=\"redux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg\" height=\"40\" alt=\"threejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg\" height=\"40\" alt=\"trello logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg\" height=\"40\" alt=\"vscode logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg\" height=\"40\" alt=\"webpack logo\"  />\n</div>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"linkedin logo\"  />\n  <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg\" width=\"52\" height=\"40\" alt=\"instagram logo\"  />\n</div>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=FedeHuapi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=FedeHuapi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2\" height=\"150\" alt=\"languages graph\"  />\n  <img src=\"https://streak-stats.demolab.com?user=FedeHuapi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3\" height=\"150\" alt=\"streak graph\"  />\n  <img src=\"https://github-profile-trophy.vercel.app?username=FedeHuapi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4\" height=\"150\" alt=\"trophy graph\"  />\n  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=FedeHuapi&radius=16&theme=react&area=true&order=5\" height=\"300\" alt=\"activity-graph graph\"  />\n</div>\n\n###\n\n",
+    "profile_summary": null
+}

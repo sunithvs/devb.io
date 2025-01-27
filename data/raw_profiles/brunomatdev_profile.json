@@ -1,0 +1,121 @@
+{
+    "username": "brunomatdev",
+    "name": "brunoMatdev",
+    "bio": "I'm Bruno Maturano\r\nReact and .Net Developer with Javascript, C#, JAVA, PHP, C++ and more technlogies like SQL Server, MySQL,, ASP.NET, Bootstrap, etc.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/164348833?u=de33b80dfad36beaf49f7e5f2bf3d48a48dcbda2&v=4",
+    "profile_url": "https://github.com/brunoMatDev",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "PHP",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Saint-Analytics",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/brunoMatDev/Saint-Analytics",
+            "updatedAt": "2025-01-24T18:51:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proyectoClasePhp",
+            "description": null,
+            "score": 0.3271560827809689,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/brunoMatDev/proyectoClasePhp",
+            "updatedAt": "2024-10-22T11:54:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "FinalAlgoritmos",
+            "description": null,
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/brunoMatDev/FinalAlgoritmos",
+            "updatedAt": "2025-01-03T17:59:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LoginToDo-C.I_PHP_Bootstrap",
+            "description": null,
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/brunoMatDev/LoginToDo-C.I_PHP_Bootstrap",
+            "updatedAt": "2024-10-09T10:03:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "servicio-item-Java-Spring-",
+            "description": null,
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/brunoMatDev/servicio-item-Java-Spring-",
+            "updatedAt": "2024-10-09T11:54:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SistemaFacturacion-PHP",
+            "description": null,
+            "score": 0.31386508470895347,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/brunoMatDev/SistemaFacturacion-PHP",
+            "updatedAt": "2024-10-01T11:52:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Login-JS_React_MySql_Tailwind",
+            "description": null,
+            "score": 0.3096494774516637,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/brunoMatDev/Login-JS_React_MySql_Tailwind",
+            "updatedAt": "2024-09-23T09:31:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

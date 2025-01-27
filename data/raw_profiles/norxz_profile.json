@@ -1,0 +1,104 @@
+{
+    "username": "norxz",
+    "name": "norxz",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/150063127?v=4",
+    "profile_url": "https://github.com/Norxz",
+    "top_languages": [
+        [
+            "Java",
+            5
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ChallengeLiteratura",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Norxz/ChallengeLiteratura",
+            "updatedAt": "2025-01-05T21:29:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Challenge-Encriptador-de-texto-",
+            "description": null,
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Norxz/Challenge-Encriptador-de-texto-",
+            "updatedAt": "2024-08-22T04:42:48Z",
+            "isPinned": false,
+            "homepage": "https://challenge-encriptador-de-texto-eight-iota.vercel.app"
+        },
+        {
+            "name": "Reparto",
+            "description": null,
+            "score": 0.2655349337348481,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Norxz/Reparto",
+            "updatedAt": "2024-04-23T07:35:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Enlaces",
+            "description": null,
+            "score": 0.2607529003416843,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Norxz/Enlaces",
+            "updatedAt": "2024-03-19T01:37:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TDAs",
+            "description": null,
+            "score": 0.25746652460575503,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Norxz/TDAs",
+            "updatedAt": "2024-02-23T03:25:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CuatroEnRayaEsteroides",
+            "description": null,
+            "score": 0.16386569411765275,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Norxz/CuatroEnRayaEsteroides",
+            "updatedAt": "2023-11-08T02:49:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 149,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

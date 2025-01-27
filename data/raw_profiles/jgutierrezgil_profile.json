@@ -1,0 +1,109 @@
+{
+    "username": "jgutierrezgil",
+    "name": "Joaqu\u00edn Guti\u00e9rrez",
+    "bio": "Hi there! \ud83d\udc4b I'm Joaqu\u00edn, a passionate Software Engineer and Full Stack Developer with a strong focus on creating innovative and scalable solutions.",
+    "location": "Seville",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2008426?u=61e7f4ba488f1df0968b36e5be231d83eb1fa47c&v=4",
+    "profile_url": "https://github.com/jgutierrezgil",
+    "top_languages": [
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Ruby",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "novaterm-dev",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jgutierrezgil/novaterm-dev",
+            "updatedAt": "2025-01-27T02:15:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MediaBridge",
+            "description": "MediaBridge is a media player that enables streaming of multimedia files anywhere with an internet connection. Final degree project for Technical Engineering in Computer Management at Pablo de Olavide University of Seville (Year 2009).",
+            "score": 1.7337185949694658,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/jgutierrezgil/MediaBridge",
+            "updatedAt": "2025-01-03T02:58:09Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TodoComposeApp",
+            "description": "A simple, modern, and powerful To-Do app built with Kotlin, Jetpack Compose, and the MVVM pattern. Manage your tasks efficiently with a sleek UI and a robust architecture.",
+            "score": 0.9320024018394177,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/jgutierrezgil/TodoComposeApp",
+            "updatedAt": "2025-01-26T00:32:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python-Port-Scanner",
+            "description": "This project implements a basic port scanner using Python and its built-in socket library.",
+            "score": 0.45015244275061966,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jgutierrezgil/Python-Port-Scanner",
+            "updatedAt": "2024-12-31T02:24:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "passgen",
+            "description": "Welcome to PassGen, a simple and secure password generator written in Ruby. This tool helps you create strong, random passwords to enhance your online security.",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/jgutierrezgil/passgen",
+            "updatedAt": "2024-12-31T03:39:29Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "jgutierrezgil",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jgutierrezgil/jgutierrezgil",
+            "updatedAt": "2025-01-03T02:30:02Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 43,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udc4b Hi, I'm Joaqu\u00edn Guti\u00e9rrez Gil\n\n<div align=\"center\">\n  <h3>Software Engineer & Cybersecurity Specialist</h3>\n\n  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquingutierrezgil)\n  [![Portfolio](https://img.shields.io/badge/Portfolio-jgutierrezgil.dev-blue?style=for-the-badge)](https://jgutierrezgil.dev)\n  [![Blog](https://img.shields.io/badge/Blog-Tech_Articles-orange?style=for-the-badge)](https://jgutierrezgil.dev/blog)\n</div>\n\n---\n\n## \ud83d\udee1\ufe0f About Me\n\nI'm a Software Engineer specializing in Cybersecurity while maintaining expertise in Full Stack Development. My focus is on:\n- Leading security assessments and implementing robust protection measures\n- Developing secure, scalable software solutions\n- Bridging the gap between development and security practices\n- Active participation in bug bounty programs and security research\n\n<div align=\"center\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=jgutierrezgil&theme=dark\" alt=\"GitHub Streak Stats\" />\n</div>\n\n---\n\n## \ud83c\udfaf Current Path\n\n### \ud83d\udd12 Cybersecurity Focus\n- **Training Platforms:**\n  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)\n  [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)\n\n- **Ongoing Certifications:**\n  - CS50's Introduction to Cybersecurity\n  - CISCO: Introduction to Cybersecurity & Ethical Hacker\n  - Professional Certificates from Google, Microsoft, and IBM\n\n### \ud83d\udcbb Development Expertise\nMaintaining and enhancing projects with a strong focus on security integration and software engineer\n\n---\n\n## \ud83d\udee0\ufe0f Core Competencies\n\n### Security Tools & Practices\n![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)\n![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)\n![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)\n![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)\n\n### Development Stack\n![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)\n![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)\n![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)\n![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=jgutierrezgil&layout=compact&theme=dark\" alt=\"Top Languages\" />\n</div>\n\n---\n\n## \ud83d\udcda Latest Projects\n\n### \ud83d\udee1\ufe0f Security Projects\n- **Security Tools Repository**: Collection of custom security scripts and tools\n- **Vulnerability Assessment Framework**: Automated security testing tools\n- **Security Documentation**: Comprehensive guides and best practices\n\n### \ud83d\udcbb Development Projects\n- **Secure Application Templates**: Boilerplates with security-first approach\n- **Mobile Security Tools**: Android security testing utilities\n- **Cloud Security Configurations**: Infrastructure security templates\n\n---\n\n## \ud83d\udcdd Latest Blog Posts\n<!-- BLOG-POST-LIST:START -->\n- Exploring Advanced Penetration Testing Techniques\n- Implementing Security Best Practices in Full Stack Applications\n- Cloud Security: Protecting Modern Infrastructure\n<!-- BLOG-POST-LIST:END -->\n\n---\n\n## \ud83e\udd1d Let's Connect!\n\nI'm always interested in collaborating on:\n- Security Research and Bug Bounty Programs\n- Secure Application Development\n- Security Tool Development\n- Knowledge Sharing and Technical Writing\n\n<div align=\"center\">\n  <i>\"Building secure systems requires both a hacker's mindset and a developer's precision\"</i>\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

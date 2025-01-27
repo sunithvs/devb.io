@@ -1,0 +1,142 @@
+{
+    "username": "kenyosaenzrojas",
+    "name": "KenyoSR",
+    "bio": "Estudiante Desarrollo web full Stack python",
+    "location": "lima",
+    "avatar_url": "https://avatars.githubusercontent.com/u/165338452?u=c1f1f4e01a3f3026a05ac8200690bb354b4086ff&v=4",
+    "profile_url": "https://github.com/kenyoSaenzRojas",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "HTML",
+            15
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "proyecto_Grupo4",
+            "description": null,
+            "score": 1.8116620991968908,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/kenyoSaenzRojas/proyecto_Grupo4",
+            "updatedAt": "2025-01-25T23:16:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Frontendmentor-Ecommerce-Product",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/kenyoSaenzRojas/Frontendmentor-Ecommerce-Product",
+            "updatedAt": "2024-12-04T07:53:40Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Usuario-GitHub-JavaScript",
+            "description": null,
+            "score": 0.3694178187217416,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kenyoSaenzRojas/Usuario-GitHub-JavaScript",
+            "updatedAt": "2024-11-30T07:11:50Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Juego-Piedra-Papel-Tijera",
+            "description": null,
+            "score": 0.36635900501395846,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kenyoSaenzRojas/Juego-Piedra-Papel-Tijera",
+            "updatedAt": "2024-11-28T21:01:17Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Princing-table-maste-TailWindCSS",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/kenyoSaenzRojas/Princing-table-maste-TailWindCSS",
+            "updatedAt": "2024-11-19T04:03:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "frontend-simple-coffee",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kenyoSaenzRojas/frontend-simple-coffee",
+            "updatedAt": "2024-11-17T07:30:20Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Basic-HTML-WebSite",
+            "description": null,
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/kenyoSaenzRojas/Basic-HTML-WebSite",
+            "updatedAt": "2024-11-06T09:12:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Personal-Portafolio",
+            "description": null,
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/kenyoSaenzRojas/Personal-Portafolio",
+            "updatedAt": "2024-11-06T23:31:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 30,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 132,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@saenzkenyo"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/kenyosaenzrojas"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

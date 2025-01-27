@@ -1,0 +1,105 @@
+{
+    "username": "jdrag12",
+    "name": "Joan Drago Mateu",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/45635528?u=88e223f68069ad7421086af24853d41a40af52e4&v=4",
+    "profile_url": "https://github.com/jdrag12",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "laieta",
+            "description": null,
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jdrag12/laieta",
+            "updatedAt": "2025-01-25T21:51:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Curriculum-web",
+            "description": null,
+            "score": 0.20069024583007028,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jdrag12/Curriculum-web",
+            "updatedAt": "2024-09-10T15:38:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Todo-Items",
+            "description": "Project for Introduction to React course (Overloop)",
+            "score": 0.07086857962251841,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jdrag12/Todo-Items",
+            "updatedAt": "2021-12-02T09:57:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "web-development-resources-for-interviews",
+            "description": "List of resources for web development interviews.",
+            "score": 0.06889896837317747,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jdrag12/web-development-resources-for-interviews",
+            "updatedAt": "2021-03-22T10:52:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "qr-invoices-reader-react",
+            "description": "Web app that reads QR codes of invoices and registers them",
+            "score": 0.06875310908583232,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jdrag12/qr-invoices-reader-react",
+            "updatedAt": "2021-02-17T10:28:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Juegosimon",
+            "description": "Platzi Project - JS",
+            "score": 0.0658381484983223,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jdrag12/Juegosimon",
+            "updatedAt": "2019-08-21T13:37:24Z",
+            "isPinned": false,
+            "homepage": "https://jdrag12.github.io/Juegosimon/"
+        }
+    ],
+    "followers": 1,
+    "following": 4,
+    "public_repos": 9,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,142 @@
+{
+    "username": "mauroviveros",
+    "name": "Mauro Daniel Viveros",
+    "bio": "Sr Web Developer | Ssr DevOps",
+    "location": "Argentina, Buenos Aires",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44076914?u=43b212308a448dc3581eb1f72ae21d957b3dfe14&v=4",
+    "profile_url": "https://github.com/mauroviveros",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Astro",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio",
+            "description": "My personal Portfolio",
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mauroviveros/portfolio",
+            "updatedAt": "2024-12-04T04:59:35Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "astro-100-projects",
+            "description": "This repository contains 100 JavaScript projects recreated using Astro, based on the original work by @midudev",
+            "score": 0.25656644287448127,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/mauroviveros/astro-100-projects",
+            "updatedAt": "2024-02-17T19:48:07Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "adventJS",
+            "description": "\u00a1Cada d\u00eda, un nuevo reto de programaci\u00f3n! por @midudev",
+            "score": 0.2533108393910665,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mauroviveros/adventJS",
+            "updatedAt": "2024-12-08T05:02:47Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "blind_number_challenge",
+            "description": "#BlindNumberChallenge",
+            "score": 0.23300060045985443,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/mauroviveros/blind_number_challenge",
+            "updatedAt": "2024-08-09T17:09:54Z",
+            "isPinned": false,
+            "homepage": "https://mauroviveros.github.io/blind_number_challenge/"
+        },
+        {
+            "name": "mauroviveros.github.io",
+            "description": ":octocat: My Github Pages Profile",
+            "score": 0.22896986806528935,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/mauroviveros/mauroviveros.github.io",
+            "updatedAt": "2024-12-10T21:36:26Z",
+            "isPinned": false,
+            "homepage": "https://mauroviveros.github.io/"
+        },
+        {
+            "name": "mauroviveros",
+            "description": ":octocat: My Github README Profile",
+            "score": 0.22891998389930085,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mauroviveros/mauroviveros",
+            "updatedAt": "2024-02-17T20:05:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "course_Musify",
+            "description": "\ud83c\udf93 MEAN-Musify: Desarrollo web con JavaScript, Angular, NodeJS y MongoDB",
+            "score": 0.2164347641339045,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mauroviveros/course_Musify",
+            "updatedAt": "2024-06-01T17:10:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "API-todo_nestjs",
+            "description": "API GraphQL with NestJS & MongoDB for ToDo APP",
+            "score": 0.15541110738421443,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mauroviveros/API-todo_nestjs",
+            "updatedAt": "2023-05-17T23:26:44Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 6,
+    "public_repos": 12,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 232,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mauro-viveros"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/maurogontier"
+        }
+    ],
+    "readme_content": "# console.log(\"Hello World!\") <img src=\"assets/Hi.gif\" width=\"40px\"/>   <img src=\"assets/Earth.gif\" width=\"40px\"/>\n<img src=\"assets/Developer.gif\" align=\"right\">\n\n- \ud83d\udd2d I'm currently working on [my portfolio](https://github.com/mauroviveros/mauroviveros.github.io)\n- \ud83c\udf31 I'm currently learning Astro, Golang, Flutter\n- \ud83d\udcbc I'm Web Developer & DevOps\n- \ud83d\udc6f I'm looking to collaborate on full stack web apps!\n- \ud83e\udd1d I\u2019m looking for help with Angular, Astro and Backend\n- \ud83d\udcac Ask me about Websites, Basketball and Chess\n- \ud83d\ude04 Pronouns: he/him\n- \u26a1 Fun fact: [object Object]\n## \ud83e\uddd1\u200d\ud83d\udcbb Skills\n<p align=\"center\">\n  <img src=\"https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg\" alt=\"NodeJS\">\n  <img src=\"https://www.vectorlogo.zone/logos/angular/angular-icon.svg\" alt=\"Angular\">\n  <img src=\"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg\" alt=\"Kubernetes\">\n  <img src=\"https://www.vectorlogo.zone/logos/docker/docker-icon.svg\" alt=\"Docker\">\n  <img src=\"https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg\" alt=\"MongoDB\">\n  <img src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" alt=\"Firebase\">\n  <img src=\"https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg\" alt=\"Argo\">\n  <img src=\"https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg\" alt=\"TypeScript\">\n  <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"Git\">\n  <img src=\"https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg\" alt=\"Visual Studio Code\">\n</p>\n\n<details>\n<summary align=\"right\"><h5>view more \ud83d\udc40</h3></summary>\n\n### Frontend Frameworks:\n![Angular](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)\n![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)\n![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)\n\n### Backend Frameworks:\n![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)\n![NestJS](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)\n![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)\n\n### Databases:\n![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)\n![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)\n![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)\n![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)\n\n### DevOps Technologies:\n![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)\n![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)\n![Argo](https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg)\n![Helm](https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg)\n![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)\n![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)\n![Gitea](https://www.vectorlogo.zone/logos/giteaio/giteaio-icon.svg)\n![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)\n\n### Programming Languages:\n![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)\n![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)\n![Lua](https://www.vectorlogo.zone/logos/lua/lua-icon.svg)\n\n### Frontend Tools and Libraries:\n![Pug](https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg)\n![ESLint](https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg)\n![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)\n![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)\n![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)\n![Sass](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg)\n![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)\n![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)\n\n### Testing:\n![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)\n\n### Tools:\n![Google Maps](https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg)\n![Electron](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)\n![NodeMon](https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg)\n![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg)\n![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)\n\n</details>\n\n<!--![](https://astro.build/assets/press/astro-icon-light-gradient.svg)-->\n\n## \u2b50 Github Stats\n\n<!-- [![Mauro Daniel Viveros's Daily Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark)](https://git.io/streak-stats) -->\n[![Mauro Daniel Viveros's Weekly Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark&mode=weekly)](https://git.io/streak-stats)\n\n![Mauro Daniel Viveros's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroviveros&rank_icon=github&show_icons=true&theme=dark)\n\n![Mauro Daniel Viveros's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&layout=donut&theme=dark)\n\n![](https://komarev.com/ghpvc/?username=mauroviveros&color=241199)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

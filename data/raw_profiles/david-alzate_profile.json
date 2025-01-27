@@ -1,0 +1,133 @@
+{
+    "username": "david-alzate",
+    "name": "David Alzate",
+    "bio": "Systems Engineering student",
+    "location": "Colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97196176?v=4",
+    "profile_url": "https://github.com/David-alzate",
+    "top_languages": [
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Java",
+            11
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Gestion-Parqueadero-Backend",
+            "description": "Este repositorio contiene un sistema backend para la gesti\u00f3n de parqueaderos vehiculares, desarrollado en Java con Spring Boot. Incluye funcionalidades como registro de entrada y salida de veh\u00edculos, gesti\u00f3n de tarifas, control de abonados, utilizando PostgreSQL como base de datos.",
+            "score": 13.046279439869712,
+            "stars": 3,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/David-alzate/Gestion-Parqueadero-Backend",
+            "updatedAt": "2025-01-13T20:21:01Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Inventory-System-LD",
+            "description": null,
+            "score": 11.746968121342132,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/David-alzate/Inventory-System-LD",
+            "updatedAt": "2025-01-11T15:51:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Gestion-Parqueadero-FrontEnd",
+            "description": "Este repositorio contiene el sistema frontEnd para la gesti\u00f3n de parqueaderos vehiculares, desarrollado en Angular. Ofrece una interfaz web interactiva para funcionalidades como registro de entrada y salida de veh\u00edculos, gesti\u00f3n de tarifas, control de abonados y administraci\u00f3n de usuarios.",
+            "score": 11.661907164065916,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/David-alzate/Gestion-Parqueadero-FrontEnd",
+            "updatedAt": "2025-01-13T00:04:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Aplicacion-Restaurante",
+            "description": "Este repositorio contiene un sistema de gesti\u00f3n para un restaurante desarrollado en Python utilizando PyQt5 Designer. El sistema permite gestionar empleados, cocineros y la creaci\u00f3n de pedidos, as\u00ed como la administraci\u00f3n de productos, la gesti\u00f3n de sitios de comidas y la generaci\u00f3n de reportes para los administradores.",
+            "score": 11.626743534601385,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/David-alzate/Aplicacion-Restaurante",
+            "updatedAt": "2025-01-12T23:51:34Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "GP",
+            "description": null,
+            "score": 2.4627595110710674,
+            "stars": 2,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/David-alzate/GP",
+            "updatedAt": "2024-06-14T06:57:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "FrontEnd-GP",
+            "description": null,
+            "score": 1.6556742457493052,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/David-alzate/FrontEnd-GP",
+            "updatedAt": "2024-06-14T06:57:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CalculadoraFraccionesDoo",
+            "description": null,
+            "score": 1.6448206273825157,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/David-alzate/CalculadoraFraccionesDoo",
+            "updatedAt": "2024-06-14T06:57:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Calculadora-PyQT5Designer",
+            "description": "Este repositorio contiene una calculadora de escritorio desarrollada utilizando PyQt5 y PyQt5 Designer. La aplicaci\u00f3n proporciona una interfaz gr\u00e1fica intuitiva que permite realizar operaciones matem\u00e1ticas b\u00e1sicas como suma, resta, multiplicaci\u00f3n, y divisi\u00f3n",
+            "score": 1.6299203347526954,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/David-alzate/Calculadora-PyQT5Designer",
+            "updatedAt": "2025-01-13T00:15:02Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 12,
+    "following": 2,
+    "public_repos": 25,
+    "pull_requests_merged": 13,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 470,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h1><b>Hi there! I'm David Alzate </b><img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\"></h1>\n\n![snake gif](https://github.com/David-alzate/David-alzate/blob/output/github-snake-dark.svg)\n\n\n<br>I am passionate about applying my skills to solve real-world challenges, focusing on creating impactful and innovative solutions. I am committed to continuous learning and staying abreast of the latest industry trends to deliver high-quality results and grow as a professional.<br>\n\n\n## <picture><img src = \"https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true\" width = 50px></picture> Skills:\n\n<picture> <img align=\"right\" src=\"https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true\" width = 250px></picture>\n\n#### Languages:\n![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;\n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;\n![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;\n\n#### Frameworks and Libraries:\n![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;\n![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;\n\n#### Web Development:\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;\n![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;\n![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;\n\n#### Database:\n![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; \n![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;\n\n#### Tools and Technologies:\n![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;\n![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;\n![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;\n\n#### IDEs:\n\n![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;\n![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;\n![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;\n\n## \u2699\ufe0f GitHub Stats:\n\n![](https://github-readme-stats.vercel.app/api?username=david-alzate&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)<br/>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"><br><br>\n\n[![](https://visitcount.itsvg.in/api?id=David-Alzate&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)\n\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

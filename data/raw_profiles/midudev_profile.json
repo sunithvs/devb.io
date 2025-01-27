@@ -1,0 +1,146 @@
+{
+    "username": "midudev",
+    "name": "Miguel \u00c1ngel Dur\u00e1n",
+    "bio": "Te ense\u00f1o Programaci\u00f3n y Desarrollo Web. Creador de contenido en Twitch y YouTube.",
+    "location": "Barcelona",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1561955?u=9ebfec769d2505d88ee746b7389353c23312bca1&v=4",
+    "profile_url": "https://github.com/midudev",
+    "top_languages": [
+        [
+            "TypeScript",
+            26
+        ],
+        [
+            "JavaScript",
+            56
+        ],
+        [
+            "Astro",
+            16
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "aprendiendo-react",
+            "description": "Curso para aprender React desde cero",
+            "score": 38.697358501305125,
+            "stars": 7931,
+            "forks": 1128,
+            "language": "TypeScript",
+            "url": "https://github.com/midudev/aprendiendo-react",
+            "updatedAt": "2025-01-27T18:46:11Z",
+            "isPinned": true,
+            "homepage": "https://twitch.tv/midudev"
+        },
+        {
+            "name": "preguntas-entrevista-react",
+            "description": "Preguntas t\u00edpicas sobre React para entrevistas de trabajo \u269b\ufe0f",
+            "score": 37.81818482636426,
+            "stars": 7132,
+            "forks": 711,
+            "language": "JavaScript",
+            "url": "https://github.com/midudev/preguntas-entrevista-react",
+            "updatedAt": "2025-01-27T12:47:10Z",
+            "isPinned": true,
+            "homepage": "https://reactjs.wiki"
+        },
+        {
+            "name": "libros-programacion-gratis",
+            "description": "\ud83d\udcda Lista de libros sobre programaci\u00f3n en Espa\u00f1ol y gratis",
+            "score": 35.66968701442036,
+            "stars": 3726,
+            "forks": 402,
+            "language": null,
+            "url": "https://github.com/midudev/libros-programacion-gratis",
+            "updatedAt": "2025-01-27T02:52:52Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "la-velada-web-oficial",
+            "description": "Web oficial de La Velada IV de Ibai Llanos",
+            "score": 34.391565916538084,
+            "stars": 1412,
+            "forks": 612,
+            "language": "Astro",
+            "url": "https://github.com/midudev/la-velada-web-oficial",
+            "updatedAt": "2025-01-27T01:43:44Z",
+            "isPinned": true,
+            "homepage": "https://lavelada.es"
+        },
+        {
+            "name": "javascript-100-proyectos",
+            "description": "100 proyectos de JavaScript con c\u00f3digo y v\u00eddeos. \u00a1Gratis!",
+            "score": 34.116931829462615,
+            "stars": 2371,
+            "forks": 255,
+            "language": "HTML",
+            "url": "https://github.com/midudev/javascript-100-proyectos",
+            "updatedAt": "2025-01-27T17:20:03Z",
+            "isPinned": true,
+            "homepage": "https://javascript100.dev"
+        },
+        {
+            "name": "porfolio.dev",
+            "description": "Ejemplo de porfolio para programadores y desarrolladores",
+            "score": 33.543257485332575,
+            "stars": 1159,
+            "forks": 454,
+            "language": "Astro",
+            "url": "https://github.com/midudev/porfolio.dev",
+            "updatedAt": "2025-01-27T15:28:05Z",
+            "isPinned": true,
+            "homepage": "https://porfolio.dev"
+        },
+        {
+            "name": "pruebas-tecnicas",
+            "description": "Pruebas t\u00e9cnicas donde la comunidad participa con sus soluciones",
+            "score": 23.45277201953847,
+            "stars": 720,
+            "forks": 814,
+            "language": "Astro",
+            "url": "https://github.com/midudev/pruebas-tecnicas",
+            "updatedAt": "2025-01-26T00:18:31Z",
+            "isPinned": false,
+            "homepage": "https://pruebastecnicas.com"
+        },
+        {
+            "name": "curso-node-js",
+            "description": "Curso de Node.js desde cero",
+            "score": 23.269725514391887,
+            "stars": 1405,
+            "forks": 295,
+            "language": "JavaScript",
+            "url": "https://github.com/midudev/curso-node-js",
+            "updatedAt": "2025-01-27T15:58:56Z",
+            "isPinned": false,
+            "homepage": "https://aprendenode.dev"
+        }
+    ],
+    "followers": 29955,
+    "following": 2,
+    "public_repos": 200,
+    "pull_requests_merged": 5,
+    "issues_closed": 11,
+    "achievements": {
+        "total_contributions": 5298,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/midudev"
+        },
+        {
+            "provider": "twitch",
+            "url": "https://twitch.tv/midudev"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/midu.dev"
+        }
+    ],
+    "readme_content": "<p align=\"center\" width=\"300\">\n   <img align=\"center\" width=\"200\" src=\"https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png\" />\n   <h3 align=\"center\">\u00a1Hey \ud83d\udc4b! Soy midudev \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb</h3>\n</p>\n\n<p align=\"center\">\n   <a href=\"https://twitch.tv/midudev\" target=\"blank\">\n    <img align=\"center\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg\" alt=\"Canal de Twitch de midudev\" height=\"28px\" width=\"56px\" />\n  </a>\n  <span style=\"width: 8px;\"> </span>\n   <a href=\"https://youtube.com/midudev\" target=\"blank\">\n    <img align=\"center\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg\" alt=\"midudev\" height=\"23px\" width=\"33px\" />\n  </a>\n  <span style=\"width: 8px;\"> </span>\n  <a href=\"https://instagram.com/midu.dev\" target=\"blank\">\n    <img align=\"center\" src=\"https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg\" alt=\"Canal de Instagram de midu.dev\" height=\"23px\" width=\"23px\" />\n  </a>\n  <span style=\"width: 8px;\"> </span>\n  <a href=\"https://twitter.com/midudev\" target=\"blank\">\n    <img align=\"center\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png\" alt=\"Canal de Twitter de midudev\" height=\"23px\" width=\"28px\" />\n  </a>\n</p>\n\n### \ud83d\udcf9 \u00daltimos v\u00eddeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)\n\n<a href='https://youtu.be/aWZkF-mxAyA' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/aWZkF-mxAyA/mqdefault.jpg' alt='Tailwind v4 super\u00f3 TODAS mis expectativas' />\n</a>\n<a href='https://youtu.be/Vhl9_nHHRIo' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/Vhl9_nHHRIo/mqdefault.jpg' alt='Muchos backend le tienen miedo a CSS...' />\n</a>\n<a href='https://youtu.be/k1E5LzngP4Q' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/k1E5LzngP4Q/mqdefault.jpg' alt='\u00a1Aprende Git en esta p\u00e1gina interactiva!' />\n</a>\n\n### \ud83d\udcf9 \u00daltimos v\u00eddeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)\n\n<a href='https://youtu.be/geMw0OZcaak' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/geMw0OZcaak/mqdefault.jpg' alt='La HISTORIA REAL de un Ingeniero de Software en prisi\u00f3n' />\n</a>\n<a href='https://youtu.be/2qjL-MiTPAo' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/2qjL-MiTPAo/mqdefault.jpg' alt='Microsoft, no lo hagas' />\n</a>\n<a href='https://youtu.be/V7R0fkCBcq4' target='_blank'>\n  <img width='30%' src='https://img.youtube.com/vi/V7R0fkCBcq4/mqdefault.jpg' alt='No utilices JWT as\u00ed' />\n</a>",
+    "activity_summary": {},
+    "profile_summary": null
+}

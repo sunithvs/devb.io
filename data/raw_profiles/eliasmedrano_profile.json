@@ -1,0 +1,52 @@
+{
+    "username": "eliasmedrano",
+    "name": "El\u00edas Medrano",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/140011467?u=ebd14ea781eef662ba09aa3863dbf1ed5b36f188&v=4",
+    "profile_url": "https://github.com/EliasMedrano",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "apicorreonode",
+            "description": null,
+            "score": 0.2450861285524107,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/EliasMedrano/apicorreonode",
+            "updatedAt": "2024-04-16T17:15:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Eliasmedrano",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.15807403923089106,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EliasMedrano/Eliasmedrano",
+            "updatedAt": "2023-07-19T18:55:51Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Eliasmedrano"
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

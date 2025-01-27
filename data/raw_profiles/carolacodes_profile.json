@@ -1,0 +1,150 @@
+{
+    "username": "carolacodes",
+    "name": "carolacodes",
+    "bio": "",
+    "location": "Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/119769286?u=e754024dd41a40f23e365f19795e184a0d0e375d&v=4",
+    "profile_url": "https://github.com/carolacodes",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "carolacodes",
+            "description": null,
+            "score": 2.6751422176672657,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/carolacodes/carolacodes",
+            "updatedAt": "2024-12-18T05:22:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "prueba_Git_Github",
+            "description": "Este repositorio 'prueba_Git_Github' es un espacio de pruebas para aprender y experimentar con Git y GitHub. ",
+            "score": 2.578022562768803,
+            "stars": 0,
+            "forks": 4,
+            "language": "Java",
+            "url": "https://github.com/carolacodes/prueba_Git_Github",
+            "updatedAt": "2023-11-08T01:17:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "API_NodeJs_Carola_Cardozo",
+            "description": null,
+            "score": 1.6876968627675741,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/carolacodes/API_NodeJs_Carola_Cardozo",
+            "updatedAt": "2024-10-17T22:07:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "devlights-bootcamp3-tp-final",
+            "description": "Proyecto final grupal del bootcamp.",
+            "score": 1.3676103374264228,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/carolacodes/devlights-bootcamp3-tp-final",
+            "updatedAt": "2024-10-22T21:53:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mundo_pc",
+            "description": "En este repositorio vamos a desarrollar una aplicacion en python",
+            "score": 1.2058725548799865,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/carolacodes/mundo_pc",
+            "updatedAt": "2023-12-13T23:06:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "form_tailwind_css",
+            "description": "Creacion de un formulario usando html y tailwind css",
+            "score": 0.40392376209658654,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/carolacodes/form_tailwind_css",
+            "updatedAt": "2024-12-17T22:57:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-task-deploy",
+            "description": null,
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/carolacodes/react-task-deploy",
+            "updatedAt": "2024-12-13T23:24:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "basesdatos_proyecto_estudio",
+            "description": null,
+            "score": 0.3144202809608287,
+            "stars": 0,
+            "forks": 0,
+            "language": "TSQL",
+            "url": "https://github.com/carolacodes/basesdatos_proyecto_estudio",
+            "updatedAt": "2024-11-13T19:32:34Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 9,
+    "public_repos": 19,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 112,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/carolacardozook/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/CarlG19029664"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/carola-cardozo-432a51212/"
+        },
+        {
+            "provider": "reddit",
+            "url": "https://www.reddit.com/user/Natural-Day8413"
+        }
+    ],
+    "readme_content": "# Hello, I'm Carola Cardozo \ud83d\udc7e:\n\nI am a developer passionate about technology, with experience in the MERN stack (MongoDB, Express.js, React, Node.js). Additionally, I have experience developing projects with C#, Java, SQL Server, PHP, and C++, which has allowed me to tackle different paradigms and technological contexts.\n\nI am currently focused on refining my Backend programming \ud83d\udcbb skills and exploring new areas such as Artificial Intelligence \ud83e\udde0, with a particular interest in Large Language Models (LLMs) \ud83e\udd16.\n\n\n## \ud83c\udf10 Socials:\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/carolacodes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/carola-cardozo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Natural-Day8413) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/CarlG19029664) \n\n# \ud83d\udcbb Lenguages and Tools:\n![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=carolacodes&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=carolacodes&theme=nightowl&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolacodes&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)\n\n## \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=carolacodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)\n\n### \ud83d\udd1d Top Contributed Repo\n![](https://github-contributor-stats.vercel.app/api?username=carolacodes&limit=5&theme=radical&combine_all_yearly_contributions=true)\n\n---\n[![](https://visitcount.itsvg.in/api?id=carolacodes&icon=0&color=0)](https://visitcount.itsvg.in)\n\n  ## \ud83d\udcb0 You can help me by Donating\n  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://cafecito.app/carolacodes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/CCardozo272) \n\n  \n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

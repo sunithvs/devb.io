@@ -1,0 +1,132 @@
+{
+    "username": "javier-a-agustin",
+    "name": "Javier Agustin Fernandez",
+    "bio": "Python Developer at Comparaencasa.\r\nCS student at U.N.P.S.J.B.\r\nPassionate about web development and data science.",
+    "location": "Trelew-Chubut-Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/51090240?u=49c2afac33fd8f3528e77a96f034d65c7a4799ca&v=4",
+    "profile_url": "https://github.com/javier-a-agustin",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "django-docker-starter-project",
+            "description": null,
+            "score": 10.06924849201809,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/javier-a-agustin/django-docker-starter-project",
+            "updatedAt": "2022-06-05T22:11:10Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "mail",
+            "description": "Front-end for an email client that makes API calls to send and receive emails. Made with Django and vanilla Javascript",
+            "score": 10.068046246954804,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/javier-a-agustin/mail",
+            "updatedAt": "2020-11-21T13:04:55Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "network",
+            "description": "Twitter-like application made with Django and vanilla Javascript",
+            "score": 10.068046246954804,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/javier-a-agustin/network",
+            "updatedAt": "2020-11-21T12:49:14Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "review-de-libros-Flask",
+            "description": null,
+            "score": 10.067484247831647,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/javier-a-agustin/review-de-libros-Flask",
+            "updatedAt": "2020-07-26T00:07:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "OOP-Java",
+            "description": "Proyectos de Java - POO",
+            "score": 1.4540656187903447,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/javier-a-agustin/OOP-Java",
+            "updatedAt": "2022-11-21T22:57:15Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "tp-final-ayp2",
+            "description": null,
+            "score": 1.4535934522161171,
+            "stars": 1,
+            "forks": 0,
+            "language": "Ada",
+            "url": "https://github.com/javier-a-agustin/tp-final-ayp2",
+            "updatedAt": "2020-07-03T22:51:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DS",
+            "description": null,
+            "score": 0.07373481064186813,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/javier-a-agustin/DS",
+            "updatedAt": "2022-08-31T22:18:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ceca",
+            "description": "Devs Project Full Stack",
+            "score": 0.07257324529449073,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/javier-a-agustin/ceca",
+            "updatedAt": "2022-05-22T19:28:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 15,
+    "following": 18,
+    "public_repos": 34,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "### Hi \nMy name is Javier, i'm a student and autodidact. \nYou can view my portfolio [here](http://jfernandez.tech/) and my LinkedIn [here](https://www.linkedin.com/in/javier-a-agustin/).\n\nI'm currently learning Django, Django Rest Framework and React js.\n<!--\n**javier-a-agustin/javier-a-agustin** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\n\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n![Javier's github stats](https://github-readme-stats.vercel.app/api?username=javier-a-agustin&show_icons=true&theme=nightowl)\n",
+    "profile_summary": null
+}

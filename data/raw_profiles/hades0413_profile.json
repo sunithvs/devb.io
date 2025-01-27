@@ -1,0 +1,133 @@
+{
+    "username": "hades0413",
+    "name": "Miguel Jaime Gomero",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115131440?u=f7d0c487a09d266fddac4ca0d4a94e9262976d7c&v=4",
+    "profile_url": "https://github.com/Hades0413",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ToDoListPeruvian",
+            "description": null,
+            "score": 1.3830135736486502,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/Hades0413/ToDoListPeruvian",
+            "updatedAt": "2025-01-02T22:46:05Z",
+            "isPinned": false,
+            "homepage": "https://to-do-list-peruvian.vercel.app"
+        },
+        {
+            "name": "E-RodrigoGremco",
+            "description": null,
+            "score": 1.364047001621548,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/Hades0413/E-RodrigoGremco",
+            "updatedAt": "2024-12-29T01:24:57Z",
+            "isPinned": false,
+            "homepage": "https://e-rodrigo-gremco.vercel.app"
+        },
+        {
+            "name": "AppTiaVeneno",
+            "description": null,
+            "score": 1.312792538827969,
+            "stars": 0,
+            "forks": 1,
+            "language": "Kotlin",
+            "url": "https://github.com/Hades0413/AppTiaVeneno",
+            "updatedAt": "2024-09-15T21:53:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ToDoListPeruvianBackEnd",
+            "description": null,
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Hades0413/ToDoListPeruvianBackEnd",
+            "updatedAt": "2024-12-27T20:18:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CineGriff_API",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Hades0413/CineGriff_API",
+            "updatedAt": "2024-12-16T04:35:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CineGriff",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/Hades0413/CineGriff",
+            "updatedAt": "2024-12-19T13:55:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "VotacionWebMVC",
+            "description": null,
+            "score": 0.300575145323871,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Hades0413/VotacionWebMVC",
+            "updatedAt": "2024-12-27T02:16:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Creador-Tweet",
+            "description": null,
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Hades0413/Creador-Tweet",
+            "updatedAt": "2024-08-25T23:54:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 34,
+    "pull_requests_merged": "100+",
+    "issues_closed": "100+",
+    "achievements": {
+        "total_contributions": 3275,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "<h2 align=\"left\">\u00a1\u00a1Hi!! \ud83d\udc4b Soy Hades y soy un programador por diversi\u00f3n....</h2>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=hades0413&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://streak-stats.demolab.com?user=hades0413&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5\" height=\"150\" alt=\"streak graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=hades0413&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true\" height=\"150\" alt=\"languages graph\"  />\n  <img src=\"https://github-profile-trophy.vercel.app?username=hades0413&row=1&column=4&theme=radical&no-frame=true&no-bg=true\" height=\"150\" alt=\"trophy graph\"  />\n</div>\n\n###\n\n<img align=\"right\" height=\"150\" src=\"https://camo.githubusercontent.com/a232884e6d204a8049cc801d77a5813139f371acb9e86084c32a5cd744328a64/68747470733a2f2f6d656469612e74656e6f722e636f6d2f447950656a774a79554555414141414d2f616e696d652e676966\"  />\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"30\" alt=\"typescript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"30\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"30\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg\" height=\"30\" alt=\"sass logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"30\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg\" height=\"30\" alt=\"csharp logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg\" height=\"30\" alt=\"java logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"30\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg\" height=\"30\" alt=\"bootstrap logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg\" height=\"30\" alt=\"kotlin logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg\" height=\"30\" alt=\"microsoftsqlserver logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg\" height=\"30\" alt=\"mysql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg\" height=\"30\" alt=\"mongodb logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg\" height=\"30\" alt=\"vscode logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg\" height=\"30\" alt=\"visualstudio logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=idea\" height=\"30\" alt=\"intellijidea logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg\" height=\"30\" alt=\"pycharm logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=eclipse\" height=\"30\" alt=\"eclipseide logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg\" height=\"30\" alt=\"androidstudio logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg\" height=\"30\" alt=\"spring logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/mui/007FFF\" height=\"30\" alt=\"materialui logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg\" height=\"30\" alt=\"npm logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg\" height=\"30\" alt=\"nodejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg\" height=\"30\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=vercel\" height=\"30\" alt=\"vercel logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=netlify\" height=\"30\" alt=\"netlify logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg\" height=\"30\" alt=\"linux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/ubuntu/E95420\" height=\"30\" alt=\"ubuntu logo\"  />\n</div>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"youtube logo\"  />\n  <a href=\"https://www.instagram.com/migvel0413/\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"instagram logo\"  />\n  </a>\n  <img src=\"https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"twitch logo\"  />\n  <a href=\"https://discord.com/invite/zsrKVtyMBG\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"discord logo\"  />\n  </a>\n  <a href=\"migvelgomero@gmail.com\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"gmail logo\"  />\n  </a>\n  <img src=\"https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"linkedin logo\"  />\n  <a href=\"miguel.jaime.gomero@hotmail.com\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"microsoft-outlook logo\"  />\n  </a>\n</div>\n\n###\n\n<br clear=\"both\">\n\n<img src=\"https://raw.githubusercontent.com/hades0413/hades0413/output/snake.svg\" alt=\"Snake animation\" />\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

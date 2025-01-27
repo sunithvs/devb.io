@@ -1,0 +1,116 @@
+{
+    "username": "dr-derlinx",
+    "name": "Derlin Valera Peguero",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/95109350?u=a124f2a6a067ec9d278d054cc91f3e888c61de02&v=4",
+    "profile_url": "https://github.com/Dr-DerlinX",
+    "top_languages": [
+        [
+            "Java",
+            5
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Backend_ToDoList",
+            "description": null,
+            "score": 15.503937738807537,
+            "stars": 7,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/Dr-DerlinX/Backend_ToDoList",
+            "updatedAt": "2025-01-26T20:50:50Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "biblioteca_proyectos",
+            "description": null,
+            "score": 10.281795451422918,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Dr-DerlinX/biblioteca_proyectos",
+            "updatedAt": "2024-07-13T21:29:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ConvesorDeMoneras",
+            "description": null,
+            "score": 10.269751102388874,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Dr-DerlinX/ConvesorDeMoneras",
+            "updatedAt": "2024-05-13T01:12:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "api_StarWars",
+            "description": null,
+            "score": 10.269379884629414,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Dr-DerlinX/api_StarWars",
+            "updatedAt": "2024-05-12T01:56:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Encriptador-de-Texto",
+            "description": "Encriptador de texto ",
+            "score": 10.254478704997956,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Dr-DerlinX/Encriptador-de-Texto",
+            "updatedAt": "2024-01-30T21:14:16Z",
+            "isPinned": true,
+            "homepage": "https://dv-derlinx.github.io/"
+        },
+        {
+            "name": "DR-DerlinX",
+            "description": null,
+            "score": 10.252855361267574,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Dr-DerlinX/DR-DerlinX",
+            "updatedAt": "2024-09-28T00:39:56Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "spring_Security_API",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Dr-DerlinX/spring_Security_API",
+            "updatedAt": "2024-09-10T02:51:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<img width=100% src=\"https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header\"/>\n\n[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Derlin+R.;I'm+23+years+old;I+am+from+Santo+Domingo,+RD;I+study+Informatica+and+Programacion;Be+Welcome!+:%29)](https://git.io/typing-svg)\n\n<div align=\"center\">  \n  <img width=\"49%\" height=\"195px\" src=\"https://github-readme-stats.vercel.app/api?username=DR-DerlinX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117\" alt=\"Matheus Maia Alvarez github stats\" /> \n  <img width=\"41%\" height=\"195px\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=DR-DerlinX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117\" />\n</div>\n\n<br></br>\n\n<div align=\"center\">  \n <a href=\"https://www.linkedin.com/in/derlin-v-peguero/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white\" style=\"border-radius: 30px\" target=\"_blank\"></a>  \n</div> \n\n<br></br>\n\n<div align=\"center\">  \n <h1>\ud83d\udc4b\u200b About Me:</h1>\n</div> \n\n<div align=\"center\">  \nHi I'm Derlin , estudiante apasionado de inform\u00e1tica<br> y programaci\u00f3n, oriundo de Rep\u00fablica Dominicana. <br>Mi dedicaci\u00f3n se centra en explorar las complejidades <br>del mundo digital y desarrollar habilidades innovadoras <br>en el campo de la tecnolog\u00eda.\n</div> \n\n<br></br>\n\n<div align=\"center\">  \n <h2>\ud83d\udcbb Preprogramming languages:</h2>\n</div> \n\n\n<div align=\"center\">  \n  \n[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](https://www.java.com/)\n[![SPRING BOOT](https://img.shields.io/badge/SPRING-lightgreen?style=for-the-badge&logo=spring)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)\n[![POSTGRES](https://img.shields.io/badge/POSTGRES-lightblue?style=for-the-badge&logo=postgresql)](https://developer.mozilla.org/en-US/docs/Web/CSS)\n<!--[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)](https://spring.io/)-->\n</div> \n\n<br></br>\n\n<div align=\"center\">  \n <h2>\ud83d\udcbb Tool:</h2>\n</div> \n\n<div align=\"center\">  \n  \n [![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-black?style=for-the-badge&logo=github)](https://github.com/)\n [![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=powershell)](https://aka.ms/terminal)\n [![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker)](https://www.docker.com/)\n [![PostMan](https://img.shields.io/badge/PostMan-orange?style=for-the-badge&logo=postman)](https://postman.com/)\n</div> \n\n<br></br>\n\n<div align=\"center\">  \n <h1>\ud83d\ude80 Projects:</h1>\n  \n<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)-->\n\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Backend_ToDoList&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Backend_ToDoList.git)\n\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=api_StarWars&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/api_StarWars)\n</div> \n</div> \n\n<div align=\"center\">\n<br><p align=\"centre\"><b>Visitors Count</b></p>  \n<p align=\"center\"><img align=\"center\" src=\"https://profile-counter.glitch.me/{Dr-DerlinX}/count.svg\" /></p> \n<br>\n</div>\n\n<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-DerlinX&show_icons=true&theme=radical)-->\n---\n[![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)\n\n<img width=100% src=\"https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer\"/>\n",
+    "profile_summary": null
+}

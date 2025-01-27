@@ -1,0 +1,109 @@
+{
+    "username": "itzarz",
+    "name": "AR",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/120076142?u=225d4207f4bf2b991d2a15cda91808d572b5c818&v=4",
+    "profile_url": "https://github.com/ItzARz",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FragMetrics",
+            "description": "FragMetrics is a webapp build to track your Counter Strike progress and statistics from time to time featuring a visual captivating UI. ",
+            "score": 10.318503106654251,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ItzARz/FragMetrics",
+            "updatedAt": "2025-01-19T03:52:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ARz-Coding-Enviro",
+            "description": null,
+            "score": 10.295556379861818,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ItzARz/ARz-Coding-Enviro",
+            "updatedAt": "2025-01-19T03:50:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ItzARz",
+            "description": "My github profile readme repo",
+            "score": 10.295556379861818,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ItzARz/ItzARz",
+            "updatedAt": "2025-01-16T22:20:56Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "RL-Stats-BOT",
+            "description": "Made this bot for my discord server",
+            "score": 10.258661154318036,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ItzARz/RL-Stats-BOT",
+            "updatedAt": "2025-01-16T22:27:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Distribuicion-Electrica-Eficiente",
+            "description": "Project done for Algorithms and Data Structures III",
+            "score": 0.2583919250855886,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ItzARz/Distribuicion-Electrica-Eficiente",
+            "updatedAt": "2024-03-03T19:27:18Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TiktokLiveDataToGarrysMod",
+            "description": "Send your livestream Tiktok Data to Garrys Mod ",
+            "score": 0.23535614868300103,
+            "stars": 0,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/ItzARz/TiktokLiveDataToGarrysMod",
+            "updatedAt": "2024-11-10T05:56:04Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 13,
+    "public_repos": 12,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 307,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "<h1>Hi, I'm Albert \ud83d\udc4b</h1>\n<h3>A day-to-day growing developer born in :venezuela:</h3>\n\n- \ud83c\udf31 *I\u2019m currently focused on frontend development, crafting modern, state-of-the-art UIs that are visually captivating.*\n- \ud83d\udc41\ufe0f *Constantly dedicated to deliver innovative, efficient, and modern solutions. My vision is to tackle the challenges in my country, where outdated software and unintuitive interfaces are common. By leveraging cutting-edge technologies, I aim to transform and modernize these experiences.*\n- \ud83c\udf93 *On track to earn a Computer Science degree by 2026.*\n- \ud83d\udcc8 *I always strive to set myself apart, aiming to innovate and stand out, no matter the place or circumstance.*\n\n**Languages and Tools**\n\n<code><img src=\"https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,astro,tailwind,c,nodejs,express,postgres,mysql,figma&theme=dark\"/></code>\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://linkedin.com/in/albert-rojas-7190a8243\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"albert-rojas-7190a8243\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://discord.gg/itzarz\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg\" alt=\"itzarz\" height=\"30\" width=\"40\" /></a>\n</p>\n<hr>\n<div><img height=\"150px\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzarz&theme=gotham\" /><img height=\"150px\" src=\"https://github-readme-stats.vercel.app/api?username=ItzARz&show_icons=true&theme=gotham&count_private=true\" /></div>\n<br />\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,133 @@
+{
+    "username": "clavijoantonio",
+    "name": "Antonio Bueno Clavijo",
+    "bio": "",
+    "location": "Colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/112919179?u=04e253bfb1b24ff7900e15ca1868c7320db623d2&v=4",
+    "profile_url": "https://github.com/clavijoantonio",
+    "top_languages": [
+        [
+            "Java",
+            5
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "EJS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "f1it2-team-17-Backend",
+            "description": null,
+            "score": 10.156904099122,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/clavijoantonio/f1it2-team-17-Backend",
+            "updatedAt": "2023-06-21T03:30:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "foroHub",
+            "description": "Este proyecto es parte del curso de Oracle next Education donde se desarrollara Api rest con framework Sprin boot para poner en practica todo loa aprendido",
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/clavijoantonio/foroHub",
+            "updatedAt": "2025-01-20T04:06:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ChallengeLiteralura",
+            "description": "Este proyecto consiste en desaf\u00edo propuesto por la plataforma alura y oracle donde nos permite consolidar los conocimientos en el consumo de Apis",
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/clavijoantonio/ChallengeLiteralura",
+            "updatedAt": "2024-11-27T03:14:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Conversor-de-modenas",
+            "description": "El proyecto es challage de alura latam y oracle donde se van desarrollar los conceptos de  POO y manejo a APIS",
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/clavijoantonio/Conversor-de-modenas",
+            "updatedAt": "2024-10-18T04:20:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Agular-spa",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/clavijoantonio/Agular-spa",
+            "updatedAt": "2024-09-29T20:46:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Encriptador-de-texto",
+            "description": "Este proyecto se desarrollo como prueba de la primera etapa del curso de one education y alura latam",
+            "score": 0.2966627924641947,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/clavijoantonio/Encriptador-de-texto",
+            "updatedAt": "2024-08-26T04:37:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chatboot-whattsapp",
+            "description": "proyecto de chatboot de whatsapp con el lenguaje node js , servidor express consumiendo un api y base de datos mysql ",
+            "score": 0.278815728521821,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/clavijoantonio/chatboot-whattsapp",
+            "updatedAt": "2024-07-24T01:49:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "restaurateBot",
+            "description": "proyecto de un bot de telegram para un restaurante con spring boot y base de datos mysql",
+            "score": 0.2593439380883564,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/clavijoantonio/restaurateBot",
+            "updatedAt": "2024-04-24T04:11:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 2,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 40,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

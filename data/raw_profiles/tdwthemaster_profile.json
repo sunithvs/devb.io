@@ -1,0 +1,121 @@
+{
+    "username": "tdwthemaster",
+    "name": "Victor Sanchez",
+    "bio": "Software Developer.",
+    "location": "RD, Dominican Republic",
+    "avatar_url": "https://avatars.githubusercontent.com/u/132701055?u=dcb84444b1be2dbc2f200f95961dbdd495236662&v=4",
+    "profile_url": "https://github.com/TDWTheMaster",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "C#",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "HomeWork-3",
+            "description": "The Community \ud83c\udf87: An OOP system in C# managing community members' info. Classes like Employee, Student, etc., inherit from CommunityMember. Users can add/view members, with input validation. Modular design enables easy extension and maintenance.",
+            "score": 2.6997058495897392,
+            "stars": 1,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/TDWTheMaster/HomeWork-3",
+            "updatedAt": "2024-06-01T23:55:12Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Calculator",
+            "description": "Calculator AST.NET MVC",
+            "score": 2.690250653218567,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/TDWTheMaster/Calculator",
+            "updatedAt": "2024-04-11T03:07:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TDWTheMaster",
+            "description": null,
+            "score": 1.6506896598471292,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/TDWTheMaster/TDWTheMaster",
+            "updatedAt": "2024-08-04T02:44:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Automation---PersonalPage",
+            "description": "Task 4 - Automation - PersonalPage - Automation - PersonalPage: This is an automation project made in python, based on a personal project, you will find related screenshots as well as a report of all the use cases.",
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/TDWTheMaster/Automation---PersonalPage",
+            "updatedAt": "2024-11-24T23:42:50Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Git-Flow-",
+            "description": "\u2699Task 3 - Prog III - It is a Simple Practice Using the Git-Flow Technique, It is a Simple Web Page Which Was Made Using HTML and CSS.",
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/TDWTheMaster/Git-Flow-",
+            "updatedAt": "2024-11-22T21:38:10Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "OdysseyMasters",
+            "description": null,
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/TDWTheMaster/OdysseyMasters",
+            "updatedAt": "2024-10-29T01:50:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Demo-Jardin-Botanico-IA",
+            "description": null,
+            "score": 0.2864540485023059,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/TDWTheMaster/Demo-Jardin-Botanico-IA",
+            "updatedAt": "2024-07-24T01:38:47Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 5,
+    "public_repos": 18,
+    "pull_requests_merged": 27,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 117,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "readme_content": "<img src=\"https://github.com/user-attachments/assets/6cb4848c-e2e2-4f10-857f-3f453cdf96be\">\n<h1 align=\"center\">Hey, I\u00b4m <a  href=\"https://github.com/TDWTheMaster\">V\u00edctor S\u00e1nchez</a>.\ud83d\udd25</h1>   \n</div>\n\n\n# \ud83d\udcab About Me:\n<br>\ud83c\udf42 I am currently studying at ITLA<br>\ud83c\udf31 I'm currently learning JavaScript with Node.js<br>\ud83d\udcac Ask me about anything you want\n\n\n# \ud83d\udcbb Tech Stack:\n![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=TDWTheMaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=TDWTheMaster&theme=dark&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=TDWTheMaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)\n\n### \u270d\ufe0f Random Dev Quote\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)\n\n### \ud83d\udd1d Top Contributed Repo\n![](https://github-contributor-stats.vercel.app/api?username=TDWTheMaster&limit=5&theme=dark&combine_all_yearly_contributions=true)\n\n---\n[![](https://visitcount.itsvg.in/api?id=TDWTheMaster&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,121 @@
+{
+    "username": "vmorenoz",
+    "name": "Victor Moreno",
+    "bio": "Desarrollador senior especializado en frontend con una s\u00f3lida experiencia en Angular y un profundo conocimiento de los stacks MEAN, MERN y MEVN.",
+    "location": "Lima, Per\u00fa.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46410435?u=12803bca0b1bc64f252bb3b8e1cf097090576e1f&v=4",
+    "profile_url": "https://github.com/vmorenoz",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ng-reactor",
+            "description": "Manejador de estados para angular basado en Signals",
+            "score": 11.653874268911947,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vmorenoz/ng-reactor",
+            "updatedAt": "2024-05-06T20:13:45Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "VictorMoreno",
+            "description": "Financial challenge - Devsu",
+            "score": 10.265700843032674,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vmorenoz/VictorMoreno",
+            "updatedAt": "2024-05-07T23:04:42Z",
+            "isPinned": true,
+            "homepage": "https://reto-tecnico-devsu.vercel.app"
+        },
+        {
+            "name": "tetris",
+            "description": null,
+            "score": 10.261775546118255,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vmorenoz/tetris",
+            "updatedAt": "2024-09-19T18:44:08Z",
+            "isPinned": true,
+            "homepage": "https://tetris-eight-alpha.vercel.app"
+        },
+        {
+            "name": "gpt-assistant-vscode",
+            "description": "This is an extension to easy use GPT from OpenAI to generate unit tests and code refactoring in Angular projects.",
+            "score": 10.154614499275281,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vmorenoz/gpt-assistant-vscode",
+            "updatedAt": "2023-04-24T05:42:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ejercicio-practico-telefonica",
+            "description": null,
+            "score": 10.072247324510785,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/vmorenoz/ejercicio-practico-telefonica",
+            "updatedAt": "2022-04-20T15:17:46Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "vmorenoz",
+            "description": null,
+            "score": 0.2620735034564844,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/vmorenoz/vmorenoz",
+            "updatedAt": "2024-10-03T14:26:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 14,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/vicodev/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/vicodev/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/vicodev.pe"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hola, soy V\u00edctor Moreno \ud83d\udc4b</h1>\n\n## \ud83d\udc68\u200d\ud83d\udcbb Sobre m\u00ed\n\nDesarrollador senior especializado en frontend con una s\u00f3lida experiencia en Angular y un profundo conocimiento de los stacks MEAN, MERN y MEVN. He trabajado en el sector bancario para BBVA e Interbank, liderando proyectos innovadores que generan un alto impacto. Mi expertise incluye el uso de tecnolog\u00edas modernas como Google Cloud Platform, Supabase, Vercel, Firebase, e integraciones con OpenAI y Gemini AI, lo que me permite crear soluciones escalables y disruptivas. Mi pasi\u00f3n es dise\u00f1ar aplicaciones que transformen procesos y aporten valor real a las empresas.\n\n## \ud83d\ude80 Proyectos recientes\n\n- **Angular Reactor**: Un manejador de estados basado en Signals para Angular. [Ver m\u00e1s](https://www.npmjs.com/package/ng-reactor)\n- **Quotizer**: Un cotizador web con Vue y Angular\n- **Lumos**: Una app para subir, llenar y descargar plantillas DOCX en formato PDF con Laravel.\n- **Tetris Rush**: Una versi\u00f3n del juego Tetris usando javascript. [Ver m\u00e1s](https://tetris.vmorenoz.dev)\n- **Redi**: Proximamente un POS con Angular y Supabase.\n\n## \ud83d\udcbc Experiencia\n\n- **Software associate solutions development** en **BBVA Per\u00fa** - Dic. 2023 hasta el Presente\n- **Frontend Senior Developer at Angular** en **Interbank by NTT Data** - Jun. 2022 hasta Dic. 2023\n- **Full Stack Developer** en **Cl\u00ednica Carita Feliz** - Feb. 2021 hasta May. 2022\n- **Full Stack Developer** en **Usqay** - Mar. 2019 hasta Dic. 2020\n\n## \ud83d\udcca Stats de GitHub\n\n![Tu Nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmorenoz&show_icons=true&theme=radical)\n\n## \ud83d\udee0 Skills\n\n### Lenguajes de Programaci\u00f3n\n![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)\n![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)\n![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)\n\n### Frameworks & Bibliotecas\n![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white)\n![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)\n![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)\n![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)\n![NestJS](https://img.shields.io/badge/-NestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=white)\n![Ionic](https://img.shields.io/badge/-Ionic-%233880FF?style=flat-square&logo=ionic&logoColor=white)\n![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)\n![Bootstrap](https://img.shields.io/badge/-Bootstrap-%7952B3?style=flat-square&logo=bootstrap&logoColor=white)\n![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)\n\n### Herramientas & Plataformas\n![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)\n![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white)\n![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)\n![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)\n![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-%23999999?style=flat-square) <!-- No official Payload CMS badge, used a generic color -->\n![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)\n![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-%23FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)\n\n### Bases de Datos\n![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)\n![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)\n![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)\n![SQL Server](https://img.shields.io/badge/-SQL%20Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)\n\n### Cloud & DevOps\n![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)\n![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat-square&logo=microsoft-azure&logoColor=white)\n\n### An\u00e1lisis de Datos\n![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=power-bi&logoColor=black)\n\n### Facturaci\u00f3n Electr\u00f3nica\n![Greenter](https://img.shields.io/badge/-Greenter-%234CA143?style=flat-square)\n\n## \ud83d\udceb Contacto\n\n[\ud83c\udf10 vmorenoz.dev](https://vmorenoz.dev)\n\n[\ud83d\udcd8 Facebook](https://www.facebook.com/vicodev.pe)\n\n[\ud83d\udd17 LinkedIn](https://www.linkedin.com/in/vicodev/)\n\n[\ud83d\udcf8 Instagram](https://www.instagram.com/vicodev)\n",
+    "profile_summary": null
+}

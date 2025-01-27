@@ -1,0 +1,133 @@
+{
+    "username": "moisesisaiaso",
+    "name": "Mois\u00e9s Isa\u00edas Ort\u00edz Gracia",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/50130790?v=4",
+    "profile_url": "https://github.com/moisesisaiaso",
+    "top_languages": [
+        [
+            "JavaScript",
+            27
+        ],
+        [
+            "Dockerfile",
+            1
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "plantilla-exp-seq",
+            "description": null,
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/plantilla-exp-seq",
+            "updatedAt": "2025-01-02T05:32:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aplicationOCR",
+            "description": null,
+            "score": 0.3278895665865049,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/aplicationOCR",
+            "updatedAt": "2024-11-24T18:41:41Z",
+            "isPinned": false,
+            "homepage": "https://aplication-ocr-m.netlify.app/"
+        },
+        {
+            "name": "BingoBoard",
+            "description": null,
+            "score": 0.3062574647735587,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/BingoBoard",
+            "updatedAt": "2024-09-27T14:35:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ecommerce_back",
+            "description": null,
+            "score": 0.26937988462941476,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/ecommerce_back",
+            "updatedAt": "2024-05-10T06:56:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "frontProject4-loginUser",
+            "description": null,
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/frontProject4-loginUser",
+            "updatedAt": "2024-05-05T07:04:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project4-loginUser",
+            "description": null,
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/project4-loginUser",
+            "updatedAt": "2024-05-05T07:16:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "app-peliculas",
+            "description": null,
+            "score": 0.2642355212587587,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/app-peliculas",
+            "updatedAt": "2024-04-10T01:57:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "peliculas-App-node",
+            "description": null,
+            "score": 0.26407648204542317,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/moisesisaiaso/peliculas-App-node",
+            "updatedAt": "2024-04-10T01:18:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 40,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 89,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

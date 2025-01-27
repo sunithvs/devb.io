@@ -1,0 +1,133 @@
+{
+    "username": "williams123000",
+    "name": "Williams",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/83312265?u=d2c56424c241d8c30300cc1e149caf28f0debf57&v=4",
+    "profile_url": "https://github.com/williams123000",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Pizsana",
+            "description": null,
+            "score": 2.670148380745261,
+            "stars": 1,
+            "forks": 1,
+            "language": "Shell",
+            "url": "https://github.com/williams123000/Pizsana",
+            "updatedAt": "2024-02-13T08:59:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Autobuses",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/williams123000/Autobuses",
+            "updatedAt": "2025-01-21T07:01:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Pokedex",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/williams123000/Pokedex",
+            "updatedAt": "2024-11-28T05:14:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "landing-page",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/williams123000/landing-page",
+            "updatedAt": "2025-01-24T03:40:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "images-netflix-clone",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/williams123000/images-netflix-clone",
+            "updatedAt": "2024-11-23T02:49:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "WillFlix",
+            "description": null,
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/williams123000/WillFlix",
+            "updatedAt": "2024-11-09T22:55:35Z",
+            "isPinned": false,
+            "homepage": "https://will-flix.vercel.app"
+        },
+        {
+            "name": "Stories-Interface",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/williams123000/Stories-Interface",
+            "updatedAt": "2024-09-21T08:56:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Narrator-Treasure",
+            "description": null,
+            "score": 0.2993632367870326,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/williams123000/Narrator-Treasure",
+            "updatedAt": "2024-09-21T09:25:19Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 28,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 296,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h2 align=\"left\">\ud83d\udc4b Hola mi nombre es Williams Chan Pescador. </h2>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=williams123000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=williams123000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false\" height=\"150\" alt=\"languages graph\"  />\n</div>\n\n###\n\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"30\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"30\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"30\" alt=\"python logo\"  />\n  <img width=\"12\" />\n</div>\n\n###\n\n<br clear=\"both\">\n\n<img src=\"https://raw.githubusercontent.com/williams123000/williams123000/output/snake.svg\" alt=\"Snake animation\" />\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

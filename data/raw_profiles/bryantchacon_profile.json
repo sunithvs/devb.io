@@ -1,0 +1,142 @@
+{
+    "username": "bryantchacon",
+    "name": "Bryant Chac\u00f3n",
+    "bio": "Software Developer \ud83d\udc68\u200d\ud83d\udcbb",
+    "location": "M\u00e9xico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36392260?u=7f4dd36cbccce28f321e766241798756e1336fe9&v=4",
+    "profile_url": "https://github.com/bryantchacon",
+    "top_languages": [
+        [
+            "C#",
+            10
+        ],
+        [
+            "ShaderLab",
+            4
+        ],
+        [
+            "Mathematica",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "master_shader",
+            "description": "Master shader script and exercises.",
+            "score": 11.536781390505794,
+            "stars": 1,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/bryantchacon/master_shader",
+            "updatedAt": "2023-06-08T22:32:35Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "rpg",
+            "description": "Proyecto del curso avanzado de creaci\u00f3n de RPGs con Unity.",
+            "score": 11.109240701775795,
+            "stars": 0,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/bryantchacon/rpg",
+            "updatedAt": "2021-11-29T13:31:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "crypt-creepers",
+            "description": "Proyecto del curso renovado de programaci\u00f3n de videojuegos 2D con Unity.",
+            "score": 11.108983307739678,
+            "stars": 0,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/bryantchacon/crypt-creepers",
+            "updatedAt": "2021-11-29T13:13:35Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "vfx",
+            "description": "VFXs.",
+            "score": 10.155842562222102,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/bryantchacon/vfx",
+            "updatedAt": "2023-07-18T09:29:16Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "organized_shaders",
+            "description": "Organized shaders presented in an optimal scene.",
+            "score": 10.15202509533379,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/bryantchacon/organized_shaders",
+            "updatedAt": "2023-04-25T01:41:33Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "beach-breaker",
+            "description": "Proyecto del curso de desarrollo de videojuegos para m\u00f3viles con Unity.",
+            "score": 10.069340256342086,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/bryantchacon/beach-breaker",
+            "updatedAt": "2021-11-29T13:23:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "bryantchacon.github.io",
+            "description": "Website.",
+            "score": 0.21565380327037936,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/bryantchacon/bryantchacon.github.io",
+            "updatedAt": "2025-01-10T00:49:20Z",
+            "isPinned": false,
+            "homepage": "https://www.bryantchacon.com"
+        },
+        {
+            "name": "bryantchacon",
+            "description": null,
+            "score": 0.21486875325859892,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/bryantchacon/bryantchacon",
+            "updatedAt": "2024-10-10T22:37:39Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 0,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 5,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/bryantchacon/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/bryantchacon_"
+        }
+    ],
+    "readme_content": "### Hi \ud83d\udc4b\n\nI'm Bryant Chac\u00f3n a self-taught Technical Artist. I studied the [Video Games School](https://platzi.com/p/bryantchacon/ruta/42-videojuegos/diploma/detalle/), the [Video Games Development path in Unity](https://platzi.com/p/bryantchacon/ruta/16-desarrollo-unity/diploma/detalle/) and many other things at Platzi and other platforms.\n\nWhile studying I was interested in both art and video game programming and didn't know which to decide on, but the more I advanced the more I saw that to achieve better results I had to know about both and that's how I discovered Technical Art, which excited me since I didn't have to select just one thing.\n\nI love learning new things in this field to improve my skills. I am currently focusing on Shaders, VFX, Materials, 3D Modeling and Texturing.\n***\n[Artstation \ud83d\udd8c](https://www.artstation.com/bryantchacon)\n\n[Platzi Profile \ud83c\udf93](https://platzi.com/p/bryantchacon/)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

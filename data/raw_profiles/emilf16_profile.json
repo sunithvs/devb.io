@@ -1,0 +1,132 @@
+{
+    "username": "emilf16",
+    "name": "Emil Francisco",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105866927?u=f28ea0eecf3a847f8a4b0283ad4e75dd4a0afa09&v=4",
+    "profile_url": "https://github.com/Emilf16",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Vue",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Tienda-de-Productos",
+            "description": "Proyecto Final para la materia de Desarrollo de SOftware 3",
+            "score": 2.6568989169555834,
+            "stars": 1,
+            "forks": 1,
+            "language": "Vue",
+            "url": "https://github.com/Emilf16/Tienda-de-Productos",
+            "updatedAt": "2024-04-02T13:18:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Blog-App",
+            "description": null,
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Emilf16/Blog-App",
+            "updatedAt": "2024-09-16T17:13:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Little-Lemon-Food-Ordering-App",
+            "description": null,
+            "score": 0.27787232118406857,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/Emilf16/Little-Lemon-Food-Ordering-App",
+            "updatedAt": "2024-06-20T17:52:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sistema-de-Gestion-de-Permisos",
+            "description": null,
+            "score": 0.26407648204542317,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Emilf16/Sistema-de-Gestion-de-Permisos",
+            "updatedAt": "2024-04-10T20:14:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Food-Recipe-Catalog",
+            "description": null,
+            "score": 0.25296862290571165,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/Emilf16/Food-Recipe-Catalog",
+            "updatedAt": "2024-03-28T12:45:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Tapones-Mi-Pais",
+            "description": null,
+            "score": 0.16197516129818348,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Emilf16/Tapones-Mi-Pais",
+            "updatedAt": "2023-10-16T17:26:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Calculadora-Java",
+            "description": null,
+            "score": 0.07360013139715336,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Emilf16/Calculadora-Java",
+            "updatedAt": "2022-08-19T21:47:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Garden-Event-Manager",
+            "description": null,
+            "score": 0.07360013139715336,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Emilf16/Garden-Event-Manager",
+            "updatedAt": "2022-08-20T01:10:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 17,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

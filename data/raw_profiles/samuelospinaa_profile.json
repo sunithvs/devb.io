@@ -1,0 +1,74 @@
+{
+    "username": "samuelospinaa",
+    "name": "Samuel Ospina",
+    "bio": "Full Stack Developer l Python l JavaScript l NodeJS l HTML & CSS",
+    "location": "Medellin, Antioquia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/181528897?u=f16b4227496178576b8046cedbc3b2bf14113cf1&v=4",
+    "profile_url": "https://github.com/samuelospinaa",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "yourmovie.com",
+            "description": "YourMovie.com is a web application that allows users to search for movies and retrieve detailed information about them. This project was developed as part of my portfolio to showcase skills in frontend development, API consumption, and responsive web design.",
+            "score": 2.5985441569648002,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/samuelospinaa/yourmovie.com",
+            "updatedAt": "2025-01-21T22:33:14Z",
+            "isPinned": false,
+            "homepage": "https://samuelospinaa.github.io/yourmovie.com/"
+        },
+        {
+            "name": "sam-chatbot",
+            "description": "A chatbot that can be integrates in ecommerces and client service platforms easily",
+            "score": 1.905258745511681,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/samuelospinaa/sam-chatbot",
+            "updatedAt": "2025-01-13T22:49:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "samuelospinaa",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/samuelospinaa/samuelospinaa",
+            "updatedAt": "2025-01-13T22:42:18Z",
+            "isPinned": false,
+            "homepage": "https://github.com/samuelospinaa"
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/samuelospinagutierrez"
+        }
+    ],
+    "readme_content": "<div align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"40\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"40\" alt=\"typescript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"40\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg\" height=\"40\" alt=\"mysql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg\" height=\"40\" alt=\"express logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg\" height=\"40\" alt=\"mongodb logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"40\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg\" height=\"40\" alt=\"nodejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"40\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"40\" alt=\"css3 logo\"  />\n</div>\n\n###\n\n<div align=\"center\">\n  <a href=\"https://www.linkedin.com/in/samuelospinagutierrez/\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"linkedin logo\"  />\n  </a>\n</div>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=samuelospinaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2\" height=\"150\" alt=\"languages graph\"  />\n</div>\n\n###\n\n<h4 align=\"center\">\ud83d\udc40 I\u2019m interested in creating real-world solutions that make an impact.<br><br>\ud83d\udc9e\ufe0f I\u2019m looking to collaborate on innovative projects, especially those in web development, mobile apps, or real-time systems.<br><br>\ud83d\udceb How to reach me:<br>Email:<br> samuelospina443@gmail.com<br><br>LinkedIn: <br>https://www.linkedin.com/in/samuelospinagutierrez<br><br>GitHub: @samuelospinaa<br><br>\ud83c\udf0d Based in Medell\u00edn, I am passionate about using technology to solve real-world challenges and improve people's lives. Let\u2019s create something amazing together!</h4>\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,76 @@
+{
+    "username": "miguelfernandez98",
+    "name": "Miguel Fernandez",
+    "bio": "Frontend Developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/139988212?u=85f3c8ae06531d38f3f39fdada9dc2a5a64edc1b&v=4",
+    "profile_url": "https://github.com/miguelFernandez98",
+    "top_languages": [
+        [
+            "Vue",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "dt-project",
+            "description": null,
+            "score": 1.2997617777626935,
+            "stars": 0,
+            "forks": 1,
+            "language": "Vue",
+            "url": "https://github.com/miguelFernandez98/dt-project",
+            "updatedAt": "2024-03-18T06:28:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PokemonVue_Course",
+            "description": "Repository dedicated to the Vue course with TypeScript with Pinia",
+            "score": 0.27717999027039475,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/miguelFernandez98/PokemonVue_Course",
+            "updatedAt": "2024-06-22T13:41:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Game-flutter",
+            "description": null,
+            "score": 0.1648503431106677,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/miguelFernandez98/Game-flutter",
+            "updatedAt": "2023-11-24T14:03:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PokedexFlutter",
+            "description": "Proyecto de prueba ",
+            "score": 0.15807403923089106,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/miguelFernandez98/PokedexFlutter",
+            "updatedAt": "2023-07-19T14:19:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 7,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 640,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

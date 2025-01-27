@@ -1,0 +1,133 @@
+{
+    "username": "fernandoescuderodev",
+    "name": "FernDev",
+    "bio": "",
+    "location": "Mendoza, Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75585604?u=39fe2578b93e49db99387ce413aacc85316cf9bb&v=4",
+    "profile_url": "https://github.com/FernandoEscuderoDev",
+    "top_languages": [
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "CSS",
+            3
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Pomodoro",
+            "description": null,
+            "score": 11.538480909827486,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FernandoEscuderoDev/Pomodoro",
+            "updatedAt": "2023-02-17T05:14:41Z",
+            "isPinned": true,
+            "homepage": "https://pomodoro-ferndev.vercel.app"
+        },
+        {
+            "name": "PomodoroBerserk",
+            "description": null,
+            "score": 11.538416152050031,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FernandoEscuderoDev/PomodoroBerserk",
+            "updatedAt": "2023-02-15T22:13:59Z",
+            "isPinned": true,
+            "homepage": "https://pomodoro-berserk.vercel.app"
+        },
+        {
+            "name": "Portafolio",
+            "description": "Pagina no terminada",
+            "score": 11.189915775490773,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/FernandoEscuderoDev/Portafolio",
+            "updatedAt": "2023-02-15T22:14:01Z",
+            "isPinned": true,
+            "homepage": "https://brilliant-gnome-cca890.netlify.app/"
+        },
+        {
+            "name": "Calculadora-js",
+            "description": "Pagina",
+            "score": 10.072968812029254,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FernandoEscuderoDev/Calculadora-js",
+            "updatedAt": "2023-01-08T01:12:51Z",
+            "isPinned": true,
+            "homepage": "https://fernandoescuderodev.github.io/Calculadora-js/"
+        },
+        {
+            "name": "frontend-mentor-challenges-qr",
+            "description": "Pagina",
+            "score": 10.072616265746595,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/FernandoEscuderoDev/frontend-mentor-challenges-qr",
+            "updatedAt": "2023-01-08T01:14:00Z",
+            "isPinned": true,
+            "homepage": "https://fernandoescuderodev.github.io/frontend-mentor-challenges-qr/"
+        },
+        {
+            "name": "Cuidarte",
+            "description": null,
+            "score": 10.070773822296426,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/FernandoEscuderoDev/Cuidarte",
+            "updatedAt": "2022-01-05T00:43:57Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "LaberintoBFS",
+            "description": null,
+            "score": 0.1635084431645399,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FernandoEscuderoDev/LaberintoBFS",
+            "updatedAt": "2023-11-09T23:34:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "exposicionTrabajoPractico",
+            "description": null,
+            "score": 0.1556845012619421,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FernandoEscuderoDev/exposicionTrabajoPractico",
+            "updatedAt": "2023-07-30T15:48:15Z",
+            "isPinned": false,
+            "homepage": "https://exposicion-trabajo-practico.vercel.app"
+        }
+    ],
+    "followers": 4,
+    "following": 15,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hola me llamo Fernando!! \ud83d\udc4b</h1>\n<h2 align=\"center\">FernDev - Front-End Developer</h2>\n\n--- \n\n<img align=\"right\" height=\"310px\" width=\"300px\" src=\"https://c.tenor.com/WyeIC4hSFUwAAAAC/anime-hi.gif\" alt=\"Totoro saludando\"/>\n\n\n- \ud83e\udd16 **Desarrollador Front-End**\n\n- \ud83d\udc31\u200d\ud83d\udcbb **Actualmente estudiando Next.js y Chakra ui**\n\n- \ud83c\udf38 **Me encanta ver peliculas y m\u00e1s si son del Studio Ghibli**\n\n\n<h2 align=\"center\">Lenguajes y herramientas:</h3>\n\n\n<div align=\"left\">\n <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> \n <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> \n <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> \n <img src=\"https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg\" alt=\"tailwindcss\" width=\"40px\" height=\"40px\"/>\n  <img src=\"https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67\" alt=\"VS Code\" width=\"40\" height=\"40\"/>\n <img src=\"https://cdn.iconscout.com/icon/free/png-256/git-225996.png\" alt=\"git\" width=\"40\" height=\"40\"/>\n <img src=\"https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579\" alt=\"react\" width=\"40\" height=\"40\"/>\n</div>\n\n<h2 align=\"center\">Redes y contacto:</h3>\n\n<a href=\"https://linkedin.com/in/fernandoescuderodev\" target=\"_blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"gabriela-pacheco-abarcia\" height=\"30\"/></a>\n\n<!-- Readme inspirado en el perfil de GabrielaDana -->\n---\n<div align=\"center\">\n<h2>Github Stats</h3>\n<br>\n<img height=\"180rem\"\n      src=\"https://github-readme-stats.vercel.app/api?username=FernandoEscuderoDev&count_private=true&show_icons=true&theme=dark&hide_border=false&hide_title=false\"\n      alt=\"my github stats\" />\n\n<h2>Lenguajes Stats</h3>\n<br>\n<img height=\"250rem\"\n      src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscuderoDev&title_color=ffffff&text_color=c9facc&icon_color=2bFc6a&bg_color=1d1f21\"\n      alt=\"Lenguajes mas usados en mi github\" />\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

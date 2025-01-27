@@ -1,0 +1,133 @@
+{
+    "username": "sergioferal14",
+    "name": "sergioferal14",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/47179155?v=4",
+    "profile_url": "https://github.com/sergioferal14",
+    "top_languages": [
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "PHP",
+            4
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CrudRealTimeTiendas",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/sergioferal14/CrudRealTimeTiendas",
+            "updatedAt": "2025-01-26T19:26:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Swing_P02_compendio",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sergioferal14/Swing_P02_compendio",
+            "updatedAt": "2025-01-13T13:23:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PrototipoFutbolMasterApp",
+            "description": null,
+            "score": 0.3760355976584953,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sergioferal14/PrototipoFutbolMasterApp",
+            "updatedAt": "2024-12-08T11:10:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ProyectoRecyclerSQLiteProductos",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sergioferal14/ProyectoRecyclerSQLiteProductos",
+            "updatedAt": "2024-11-20T15:15:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DAM",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sergioferal14/DAM",
+            "updatedAt": "2024-10-24T07:29:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Geeko",
+            "description": null,
+            "score": 0.152948702070391,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sergioferal14/Geeko",
+            "updatedAt": "2023-03-08T18:05:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "circleci",
+            "description": null,
+            "score": 0.07545213466450457,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sergioferal14/circleci",
+            "updatedAt": "2023-01-04T12:05:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto",
+            "description": null,
+            "score": 0.07240339757215632,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sergioferal14/Proyecto",
+            "updatedAt": "2022-06-11T16:33:19Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 20,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

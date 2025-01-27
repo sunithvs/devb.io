@@ -1,0 +1,108 @@
+{
+    "username": "juandtg21",
+    "name": "juandtg21",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/47500717?v=4",
+    "profile_url": "https://github.com/juandtg21",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "springboot-social-login-BE",
+            "description": "Spring boot login with oauth2, google and facebook",
+            "score": 1.5410579493179388,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/juandtg21/springboot-social-login-BE",
+            "updatedAt": "2023-05-17T00:20:10Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ionic-social-login-FE",
+            "description": "Angular/Ionic frontend for a Spring Boot application with OAuth2 login support for Google and Facebook. This repository contains the client-side code for the application's user interface, built with the Angular 15 framework and Ionic 6 components. It interacts with the backend REST API to provide a seamless and secure user experience.",
+            "score": 0.15476358819804817,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/juandtg21/ionic-social-login-FE",
+            "updatedAt": "2023-04-28T23:49:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "katalon",
+            "description": null,
+            "score": 0.06889896837317747,
+            "stars": 0,
+            "forks": 0,
+            "language": "Groovy",
+            "url": "https://github.com/juandtg21/katalon",
+            "updatedAt": "2021-03-11T21:16:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "grails",
+            "description": null,
+            "score": 0.06822736907240814,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/juandtg21/grails",
+            "updatedAt": "2021-07-20T13:36:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "springboot-angular-example",
+            "description": "example of java back-end using spring boot, hibernate, jpa and front-end using angular",
+            "score": 0.06700939387565483,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/juandtg21/springboot-angular-example",
+            "updatedAt": "2022-01-21T22:44:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shop",
+            "description": null,
+            "score": 0.06521719111524514,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/juandtg21/Shop",
+            "updatedAt": "2019-03-25T18:29:44Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

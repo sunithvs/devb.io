@@ -1,0 +1,138 @@
+{
+    "username": "bryandelgado99",
+    "name": "Bryan Paul Delgado",
+    "bio": "Hello! Welcome to my Github! Enjoy, discover and view my work \ud83d\udc4c. In love with Flutter, Dart, Angular and React.",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/115591939?u=0fd4850ed4aa221ef48b554a53f6297ab79aae06&v=4",
+    "profile_url": "https://github.com/bryandelgado99",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Dart",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Polivet-App",
+            "description": "Servicio de Gesti\u00f3n Veterinaria realizado con React y ExpressJS",
+            "score": 12.453287588033422,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bryandelgado99/Polivet-App",
+            "updatedAt": "2024-11-22T16:46:51Z",
+            "isPinned": true,
+            "homepage": "https://polivet.netlify.app"
+        },
+        {
+            "name": "Farmacias-ESFOT-Care",
+            "description": "Sistema de Gesti\u00f3n y Administraci\u00f3n Farmac\u00e9utica, con acceso a administradores y cajeros, que permite la organizaci\u00f3n \u00e1gil y eficiente de los recursos humanos y productos en un entorno farmc\u00e9utico",
+            "score": 12.436277468094794,
+            "stars": 2,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/bryandelgado99/Farmacias-ESFOT-Care",
+            "updatedAt": "2024-05-28T20:31:43Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Shield-App",
+            "description": null,
+            "score": 11.669403109846524,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/bryandelgado99/Shield-App",
+            "updatedAt": "2024-07-11T22:48:37Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "bryandelgado99",
+            "description": "Config files for my GitHub profile.",
+            "score": 11.61023284609563,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/bryandelgado99/bryandelgado99",
+            "updatedAt": "2024-12-27T04:49:17Z",
+            "isPinned": true,
+            "homepage": "https://github.com/bryandelgado99"
+        },
+        {
+            "name": "Pin-logy",
+            "description": "Aplicaci\u00f3n Flutter de geolocalizaci\u00f3n m\u00faltiple, para el dibujado de pol\u00edgonos topogr\u00e1ficos en tiempo real; a trav\u00e9s de la API de Google Maps. ",
+            "score": 10.285590615292445,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bryandelgado99/Pin-logy",
+            "updatedAt": "2024-08-16T07:00:49Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Electronica-Zurita--Mobile-App",
+            "description": "Aplicaci\u00f3n m\u00f3vil, realizada en Flutter, que permite al cliente visualizar las ordenes de trabajo ingresadas.",
+            "score": 10.272664896391307,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/bryandelgado99/Electronica-Zurita--Mobile-App",
+            "updatedAt": "2024-12-15T05:20:17Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Firecamera",
+            "description": "Aplicaci\u00f3n realizada con Flutter que permite tomar fotograf\u00edas, y subirlas a Cloud Storage.",
+            "score": 1.670486747387354,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bryandelgado99/Firecamera",
+            "updatedAt": "2024-07-19T07:46:46Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "My_Dev_portfolio",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/bryandelgado99/My_Dev_portfolio",
+            "updatedAt": "2024-12-14T04:19:23Z",
+            "isPinned": false,
+            "homepage": "https://my-dev-portfolio-seven.vercel.app"
+        }
+    ],
+    "followers": 7,
+    "following": 15,
+    "public_repos": 33,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 263,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/pauldelgado9924"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hello everyone! Welcome to my GitHub profile</h1>\n\n###\n\n<p align=\"left\">Nice to meet you, coder! My name is Bryan Paul Delgado, but you can call me Paul. I am a passionate JUNIOR developer from Quito, Ecuador, focused on mobile development, aiming to create, innovate, and refine my skills and the projects I work on.</p>\n\n###\n\n<br clear=\"both\">\n\n<h3 align=\"left\">Contact Me</h3>\n\n###\n\n<br clear=\"both\">\n\n<div align=\"center\">\n  <a href=\"https://www.linkedin.com/in/bryan-delgado-24795520b/\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"linkedin logo\"  />\n  </a>\n  <a href=\"discord.com/bryanpaul99\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg\" width=\"52\" height=\"40\" alt=\"discord logo\"  />\n  </a>\n  <a href=\"bryand9970@gmail.com\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg\" width=\"52\" height=\"40\" alt=\"gmail logo\"  />\n  </a>\n  <a href=\"bryanpauldelgadoyela@hotmail.com\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg\" width=\"52\" height=\"40\" alt=\"microsoft-outlook logo\"  />\n  </a>\n  <a href=\"https://wa.me/593982169800\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg\" width=\"52\" height=\"40\" alt=\"whatsapp logo\"  />\n  </a>\n</div>\n\n###\n\n<h3 align=\"left\">My Skills</h3>\n\n###\n\n<p align=\"left\">My knowledge spans a wide range of programming and design-related technologies.</p>\n\n###\n\n<br clear=\"both\">\n\n<h4 align=\"left\">- Technological Skills</h4>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=dart\" height=\"40\" alt=\"dart logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=flutter\" height=\"40\" alt=\"flutter logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=git\" height=\"40\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=github\" height=\"40\" alt=\"github logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=html\" height=\"40\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=java\" height=\"40\" alt=\"java logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"40\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=kotlin\" height=\"40\" alt=\"kotlin logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=nodejs\" height=\"40\" alt=\"nodejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=py\" height=\"40\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=react\" height=\"40\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=tailwind\" height=\"40\" alt=\"tailwindcss logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=vue\" height=\"40\" alt=\"vuejs logo\"  />\n</div>\n\n###\n\n<h4 align=\"left\">- Environments</h4>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://cdn.simpleicons.org/android/3DDC84\" height=\"40\" alt=\"android logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=androidstudio\" height=\"40\" alt=\"androidstudio logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=linux\" height=\"40\" alt=\"linux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=vscode\" height=\"40\" alt=\"vscode logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg\" height=\"40\" alt=\"windows8 logo\"  />\n</div>\n\n###\n\n<h4 align=\"left\">- Design Skills</h4>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=ai\" height=\"40\" alt=\"adobeillustrator logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=figma\" height=\"40\" alt=\"figma logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/adobeaftereffects/9999FF\" height=\"40\" alt=\"aftereffects logo\"  />\n</div>\n\n###\n\n<h4 align=\"left\">My Stats</h4>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=bryandelgado99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=bryandelgado99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2\" height=\"150\" alt=\"languages graph\"  />\n  <img src=\"https://github-profile-trophy.vercel.app?username=bryandelgado99&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4\" height=\"150\" alt=\"trophy graph\"  />\n  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=bryandelgado99&radius=16&theme=react&area=true&order=5\" height=\"300\" alt=\"activity-graph graph\"  />\n</div>\n\n###\n\n<h5 align=\"left\">Profile Visits?</h5>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://profile-counter.glitch.me/bryandelgado99/count.svg?\"  />\n</div>\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

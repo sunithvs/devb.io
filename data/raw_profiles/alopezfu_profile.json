@@ -1,0 +1,132 @@
+{
+    "username": "alopezfu",
+    "name": "Alejandro L\u00f3pez",
+    "bio": "Live and create free software!! \ud83d\ude03\r\nLinkedin: https://www.linkedin.com/in/alejandro-l%C3%B3pez-fuentes-09b282133/",
+    "location": "Barcelona",
+    "avatar_url": "https://avatars.githubusercontent.com/u/26922210?u=79bfc58502e9279c77a6db6cdfb219223a845935&v=4",
+    "profile_url": "https://github.com/Alopezfu",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "PHP",
+            2
+        ],
+        [
+            "PowerShell",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Ansible-AWX-docker",
+            "description": "Auto setup Ansible AWX with docker on Ubuntu.",
+            "score": 11.529464098324489,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/Alopezfu/Ansible-AWX-docker",
+            "updatedAt": "2023-06-06T15:48:33Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "win-ssh-copy-id",
+            "description": "ssh-copy-id for Windows Powershell",
+            "score": 10.068046246954804,
+            "stars": 0,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/Alopezfu/win-ssh-copy-id",
+            "updatedAt": "2022-02-22T09:35:22Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "therockproject",
+            "description": "Proyecto fianl de curso ASIX 2019-20",
+            "score": 1.1067923715702253,
+            "stars": 0,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/Alopezfu/therockproject",
+            "updatedAt": "2020-06-02T09:37:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Simple_Bot_Discord",
+            "description": "ping-pong bot",
+            "score": 1.104167601089624,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Alopezfu/Simple_Bot_Discord",
+            "updatedAt": "2020-07-30T12:57:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "docker-jenkins",
+            "description": "Deploy a jenkins container with docker-compose",
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Alopezfu/docker-jenkins",
+            "updatedAt": "2024-07-21T18:51:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "terraform-test-ci",
+            "description": null,
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": "HCL",
+            "url": "https://github.com/Alopezfu/terraform-test-ci",
+            "updatedAt": "2024-07-21T18:14:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "kubernets_cluster",
+            "description": "Instalac\u00f3n de Kubernetes con Ansible",
+            "score": 0.2701262231536975,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Alopezfu/kubernets_cluster",
+            "updatedAt": "2024-05-25T10:11:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ps_config_with_oh-my-posh",
+            "description": null,
+            "score": 0.26344758823084113,
+            "stars": 0,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/Alopezfu/ps_config_with_oh-my-posh",
+            "updatedAt": "2024-10-19T06:36:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 5,
+    "public_repos": 19,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 24,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hola \ud83d\udc4b, Soy Alejandro <img height=\"40\" src=\"https://emoji.gg/assets/emoji/7333-parrotdance.gif\"></h1>\n<h3 align=\"center\">Apasionado por la programaci\u00f3n y la tecnologia</h3>\n<!--\n- \ud83d\udd2d I\u2019m currently working on my **Python Course**\n\n- \ud83c\udf31 I\u2019m currently learning **Python, HTML5 and CSS3**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on **front-end and back-end projects**\n\n- \ud83d\udceb Contacto: **alejandrolopezfuentes789@gmail.com**\n\n- \u26a1 What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**\n\n<h3 align=\"center\">Connect with me:</h3>\n<div align=\"center\">\n\n[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)\n[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)\n[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)\n[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)\n  \n</div>\n\n<h3 align=\"center\">Languages and Tools:</h3>\n\n<p align=\"center\"> \n  <a href=\"https://www.w3.org/html/\" target=\"_blank\"> \n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> \n  </a>\n  <a href=\"https://www.w3schools.com/css/\" target=\"_blank\"> \n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> \n  </a> \n  <a href=\"https://www.python.org\" target=\"_blank\"> \n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> \n  </a>  \n  <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\"> \n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> \n  </a> \n  <a href=\"https://www.linux.org/\" target=\"_blank\"> \n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> \n  </a> \n  <a href=\"https://git-scm.com/\" target=\"_blank\"> \n    <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> \n  </a>\n</p>\n\n<p align= \"center\">\n  <img height= \"150\" src=\"https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true\" />\n  <img height= \"150\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact\" />\n</p>\n\n------\n\n[BrantLauro](https://github.com/Alopezfu)\nBash Colors: https://gist.github.com/Alopezfu/fa21e30387138261cdb453d36360f306 \ud83d\ude01 \n\n-->\n",
+    "profile_summary": null
+}

@@ -1,0 +1,65 @@
+{
+    "username": "epinov",
+    "name": "Eduardo Pino",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5641336?u=cc280d85a28e2012a438be4f5be884e1daa6530a&v=4",
+    "profile_url": "https://github.com/EpinoV",
+    "top_languages": [
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "tech-test-scotmex",
+            "description": "Prueba Tecnica Scotiabank Mex",
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/EpinoV/tech-test-scotmex",
+            "updatedAt": "2024-12-26T17:33:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ionicPrueba1",
+            "description": null,
+            "score": 0.0643692237029754,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EpinoV/ionicPrueba1",
+            "updatedAt": "2018-08-09T19:55:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "conceptproof",
+            "description": "Pruebas de Conceptos",
+            "score": 0.0623216287242189,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EpinoV/conceptproof",
+            "updatedAt": "2016-09-22T14:34:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 15,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

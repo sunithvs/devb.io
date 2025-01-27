@@ -1,0 +1,133 @@
+{
+    "username": "brayanmen",
+    "name": "Brayan Mendoza",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/95663591?u=8597f2fb06776e594bea1206b1d3d3f3d46794bc&v=4",
+    "profile_url": "https://github.com/BrayanMen",
+    "top_languages": [
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "postulacion-bsale",
+            "description": null,
+            "score": 1.5428241236939724,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/BrayanMen/postulacion-bsale",
+            "updatedAt": "2023-07-07T21:03:00Z",
+            "isPinned": false,
+            "homepage": "https://postulacion-bsale-test.up.railway.app/flight/1/passengers"
+        },
+        {
+            "name": "ApiUserChallenge",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/BrayanMen/ApiUserChallenge",
+            "updatedAt": "2024-12-23T18:37:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ToDoListChallenge",
+            "description": null,
+            "score": 0.4154068401132861,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/BrayanMen/ToDoListChallenge",
+            "updatedAt": "2024-12-23T15:40:17Z",
+            "isPinned": false,
+            "homepage": "https://to-do-list-challenge-plum.vercel.app"
+        },
+        {
+            "name": "MendozaBrayan.2doParcial",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/BrayanMen/MendozaBrayan.2doParcial",
+            "updatedAt": "2024-11-25T14:10:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MendozaBrayan.Recuperatorio",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/BrayanMen/MendozaBrayan.Recuperatorio",
+            "updatedAt": "2024-11-14T13:27:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Talento-Tech",
+            "description": null,
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/BrayanMen/Talento-Tech",
+            "updatedAt": "2024-12-27T20:12:02Z",
+            "isPinned": false,
+            "homepage": "https://riderscafegarage.vercel.app/"
+        },
+        {
+            "name": "-Mendoza.Brayan.PP.ProgII121",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/BrayanMen/-Mendoza.Brayan.PP.ProgII121",
+            "updatedAt": "2024-11-12T02:53:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EggGame_UTN",
+            "description": null,
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/BrayanMen/EggGame_UTN",
+            "updatedAt": "2024-07-12T12:38:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 15,
+    "following": 20,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 105,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<img width=\"100%\" height=\"250px\" src=\"https://www.pandaancha.mx/plds/articulos/froala/code%2003-500x281-38415426.gif\">\n<h1 align=\"center\"> Mi nombre es Brayan Mendoza. </h1>\n\n<h2 align=\"center\"> Full Stack Web Developer \ud83d\udda5\ufe0f</h2>\n\n<h2>Un poco sobre mi...\ud83d\udcac</h2>\n\n<p align=\"center\">\ud83d\udce2Tengo 29 a\u00f1os, soy de Merida - Venezuela, me crie en Caracas - Venezuela y actualmente vivo en Buenos Aires- Argentina</p>\n<p align=\"center\"> A finales del 2021 decidi cambiar de rumbo por algo que me apasionara, motivara y retara...</p>\n<p align=\"center\">Comence a buscar aprender sobre progamacion desde la fecha y he ido explorando, aprendiendo y buscando nuevos retos para crecer en este hermoso mundo que es la  programacion.</p>\n\n\n<h2 align=\"center\">Lenguajes & Herramientas</h2>\n<p align=\"center\" dir=\"auto\"> \n<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png?20180912181046\" alt=\"javascript\" width=\"30\" height=\"40\"/> </a>\n<a href=\"https://www.w3.org/html/\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://www.w3schools.com/css/\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a>\n<a href=\"https://reactjs.org/\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://redux.js.org\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg\" alt=\"redux\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a>  \n<a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a>\n<a href=\"https://getbootstrap.com\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://nodejs.org\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://expressjs.com\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://www.mysql.com/\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a>\n<a href=\"https://www.postgresql.org\" rel=\"nofollow\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\" style=\"max-width: 100%;\"> </a>\n<a href=\"https://postman.com\" rel=\"nofollow\"> <img src=\"https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667\" alt=\"postman\" width=\"40\" height=\"40\" data-canonical-src=\"https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg\" style=\"max-width: 100%;\"> </a> \n<a href=\"https://firebase.google.com/\" rel=\"nofollow\"> <img src=\"https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667\" alt=\"firebase\" width=\"40\" height=\"40\" data-canonical-src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" style=\"max-width: 100%;\"> </a>  \n</p>\n\n<h1 align=\"center\">Proyectos \ud83d\udda5\ufe0f\ud83d\udc68\u200d\ud83d\udcbb</h1>\n<h2 align=\"center\">Museo Patagonico de Ciencias Naturales</h2>\n\n<h4><p> Para el proyecto final del bootcamp de Henry planteamos un Web para controlar y automatizar las actividades y los eventos del museo. Para lograr este objetivo aplicamos las herramientas y los conocimientos aprendidos en la cursada del bootcamp. </p>\n<p>La pagina cuenta con las siguientes funcionalidades:</p>\n   \n   <p align=\"center\">- \ud83d\udc68\u200d\ud83d\udcbb Home y Nav Bar con acceso a toda la web.</p>\n   <p align=\"center\">- \ud83d\udda5\ufe0f Botones de Registro e Ingresar.</p>\n   <p align=\"center\">- \ud83d\udcbb Carrito de compras de tickets para el acceso a los eventos.</p>\n   <p align=\"center\">- \ud83d\udc68\u200d\ud83d\udcbb Diferentes Dashboard para los diferentes roles dentro de la web.</p>\n   <p align=\"center\">- \ud83d\udd75\ufe0f Rutas proteguidas segun el rol del Usuario.</p>\n   <p align=\"center\">- \ud83d\udce7 Envio de E-mails automaticos.</p>\n   <p align=\"center\">- \ud83d\udcf2 Adaptable a cualquier pantalla.</p></h4>\n   \n   \n<img src=\"https://user-images.githubusercontent.com/73863384/223559638-70c21663-5916-44f2-bee0-34d4585041b2.png\"/>\n <h3 align=\"center\"><a href=\"https://pf-museo-front-end-pf09henry.vercel.app/\"> Aqui esta el Deploy! </a></h3>\n \n  <hr></hr>\n \n <h2 align=\"center\"> Weather App </h2>\n<a hrfe=\"weather-52j1nztdj-brayanmen.vercel.app/\"><img src=\"https://res.cloudinary.com/dug6prcyv/image/upload/v1678242208/Weather_fsuhxn.png\" alt=\"img\"></a>\n<h4 align=\"center\"> Link: https://weather-52j1nztdj-brayanmen.vercel.app/ </h4>\n \n \n <h1 align=\"center\">Contacto</h1>\n <hr></hr>\n<p align=\"center\">\n<a href=\"https://www.linkedin.com/in/brayan-mendoza-52625a160/\" target=\"_blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"https://www.linkedin.com/in/brayan-jose-mendoza-rondon-52625a160/\" height=\"30\" width=\"40\" /></a>\n<hr></hr>\n\ud83d\udce7 Email: brayanjmr880@gmail.com \n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

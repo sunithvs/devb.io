@@ -1,0 +1,69 @@
+{
+    "username": "john-c-perez",
+    "name": "john-c-perez",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/133737298?v=4",
+    "profile_url": "https://github.com/john-c-perez",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "C#",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ZEH",
+            "description": "Programacion lineal, no linean y modelos predictivos",
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/john-c-perez/ZEH",
+            "updatedAt": "2025-01-23T21:52:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "IAFraudesBancarios",
+            "description": "Hola, esta es un prototipo  de modelo de deep learning con CGAN para deteccion de fraudes bancarios hecho con tensorflow",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/john-c-perez/IAFraudesBancarios",
+            "updatedAt": "2024-08-25T23:36:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Maquina-Tragamonedas",
+            "description": "Maquina tragamoinedas Juego",
+            "score": 0.15544991645868023,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/john-c-perez/Maquina-Tragamonedas",
+            "updatedAt": "2023-05-16T20:40:59Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 37,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

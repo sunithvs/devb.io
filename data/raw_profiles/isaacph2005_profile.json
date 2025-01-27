@@ -1,0 +1,133 @@
+{
+    "username": "isaacph2005",
+    "name": "isaacph2005",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173928834?v=4",
+    "profile_url": "https://github.com/IsaacPH2005",
+    "top_languages": [
+        [
+            "Vue",
+            3
+        ],
+        [
+            "HTML",
+            5
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Catan-frontend-web",
+            "description": null,
+            "score": 0.41236136661374034,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/IsaacPH2005/Catan-frontend-web",
+            "updatedAt": "2024-12-20T19:55:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hamilo_web",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/IsaacPH2005/hamilo_web",
+            "updatedAt": "2024-12-20T17:54:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "moto-scroll",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/IsaacPH2005/moto-scroll",
+            "updatedAt": "2024-12-20T17:06:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GIT-PRUEBA-COOP",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/IsaacPH2005/GIT-PRUEBA-COOP",
+            "updatedAt": "2024-11-22T20:55:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Prueba-deploy-coop",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/IsaacPH2005/Prueba-deploy-coop",
+            "updatedAt": "2024-11-22T20:33:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "base-de-datos",
+            "description": null,
+            "score": 0.28337684106036204,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/IsaacPH2005/base-de-datos",
+            "updatedAt": "2024-07-12T21:10:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ProyextoVueCompleto",
+            "description": null,
+            "score": 0.2825780622809137,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/IsaacPH2005/ProyextoVueCompleto",
+            "updatedAt": "2024-07-10T13:54:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyexto_Vue_Completo",
+            "description": null,
+            "score": 0.2825780622809137,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/IsaacPH2005/Proyexto_Vue_Completo",
+            "updatedAt": "2024-07-09T22:46:39Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 7,
+    "public_repos": 16,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 63,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

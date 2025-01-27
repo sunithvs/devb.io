@@ -1,0 +1,138 @@
+{
+    "username": "javiervinus",
+    "name": "Javier Vinueza",
+    "bio": "Full-Stack Developer",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/24733930?u=27bdb8d225b2089d6677ab3410e7a9a65be13861&v=4",
+    "profile_url": "https://github.com/Javiervinus",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Dart",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cnel-schedules",
+            "description": "Horarios de desconexi\u00f3n el\u00e9ctrica de CNEL EP",
+            "score": 15.553088404039329,
+            "stars": 5,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/Javiervinus/cnel-schedules",
+            "updatedAt": "2025-01-26T09:49:02Z",
+            "isPinned": true,
+            "homepage": "https://cnel-schedules.vercel.app"
+        },
+        {
+            "name": "terminal-translator-ai",
+            "description": "TraductorAI / Traductor de ingles a espa\u00f1ol o viceversa en el terminal con IA.",
+            "score": 12.164042561333446,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Javiervinus/terminal-translator-ai",
+            "updatedAt": "2025-01-26T01:12:16Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "astro-blog-devtalles-course",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "XSLT",
+            "url": "https://github.com/Javiervinus/astro-blog-devtalles-course",
+            "updatedAt": "2025-01-24T02:55:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "betterplan-blog-test",
+            "description": null,
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Javiervinus/betterplan-blog-test",
+            "updatedAt": "2024-10-18T06:43:43Z",
+            "isPinned": false,
+            "homepage": "https://betterplan-blog-test.vercel.app"
+        },
+        {
+            "name": "astro-devtalles-course",
+            "description": null,
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Javiervinus/astro-devtalles-course",
+            "updatedAt": "2025-01-24T02:26:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jira-issues-app",
+            "description": null,
+            "score": 0.2758326818696246,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Javiervinus/jira-issues-app",
+            "updatedAt": "2024-07-10T16:05:57Z",
+            "isPinned": false,
+            "homepage": "https://jira-issues-app.vercel.app"
+        },
+        {
+            "name": "Javiervinus",
+            "description": null,
+            "score": 0.2610419350414578,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Javiervinus/Javiervinus",
+            "updatedAt": "2025-01-11T20:49:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-dashboard",
+            "description": "learning",
+            "score": 0.2610419350414578,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Javiervinus/nextjs-dashboard",
+            "updatedAt": "2024-03-20T08:27:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 35,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1463,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/javier-vinueza-08759a74/"
+        }
+    ],
+    "readme_content": "\n<pre>\n      \u2588\u2588\u2557  \u2588\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2557   \u2588\u2588\u2557 \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2557       \u2588\u2588\u2557   \u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2588\u2557   \u2588\u2588\u2557 \u2588\u2588\u2557   \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2588\u2588\u2588\u2557 \n      \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2551   \u2588\u2588\u2551 \u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557      \u2588\u2588\u2551   \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2551 \u2588\u2588\u2551   \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d      \u2588\u2588\u2554\u255d \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\n      \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551 \u2588\u2588\u2551   \u2588\u2588\u2551 \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557  \u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d      \u2588\u2588\u2551   \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2554\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2551   \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2557      \u2588\u2588\u2554\u255d   \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\n\u2588\u2588    \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u255a\u2588\u2588\u2557  \u2588\u2588\u2554\u255d \u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u255d  \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557      \u255a\u2588\u2588\u2557 \u2588\u2588\u2554\u255d\u2588\u2588\u2551 \u2588\u2588\u2554\u2588\u2588\u2557 \u2588\u2588\u2551 \u255a\u2588\u2588\u2557 \u2588\u2588\u2554\u255d \u2588\u2588\u2554\u2550\u2550\u255d    \u2588\u2588\u2554\u255d     \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\n\u255a\u2588\u2588\u2588\u2588\u2588\u2554\u255d  \u2588\u2588\u2551  \u2588\u2588\u2551  \u255a\u2588\u2588\u2588\u2588\u2554\u255d  \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551  \u2588\u2588\u2551       \u255a\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551 \u2588\u2588\u2551\u255a\u2588\u2588\u2557\u2588\u2588\u2551  \u255a\u2588\u2588\u2588\u2588\u2554\u255d  \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551 \u2588\u2588\u2551  \u2588\u2588\u2551\n</pre>\n\ud83c\udf10 [LinkedIn](https://www.linkedin.com/in/javier-vinueza-08759a74/)\n\ud83d\udcbc [Portafolio](https://javiervinueza-portfolio.vercel.app/)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

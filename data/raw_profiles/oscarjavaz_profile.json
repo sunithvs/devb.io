@@ -1,0 +1,132 @@
+{
+    "username": "oscarjavaz",
+    "name": "Oscar Jandete Vazquez",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/112913624?u=67898314bfecc8109dd1451ceac6e8e267208ce8&v=4",
+    "profile_url": "https://github.com/OscarJaVaz",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Dart",
+            2
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "angular-loto3",
+            "description": null,
+            "score": 1.4607771947706703,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/OscarJaVaz/angular-loto3",
+            "updatedAt": "2022-12-15T00:57:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pelisflix",
+            "description": "app to movies and series",
+            "score": 0.3062574647735587,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/OscarJaVaz/pelisflix",
+            "updatedAt": "2024-09-17T08:42:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "repocurso",
+            "description": "repo de prueba",
+            "score": 0.2756128029460251,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OscarJaVaz/repocurso",
+            "updatedAt": "2024-06-10T23:47:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "permisouttec",
+            "description": null,
+            "score": 0.2554444671883876,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/OscarJaVaz/permisouttec",
+            "updatedAt": "2024-02-19T03:20:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my-app_8ids1.github.io",
+            "description": null,
+            "score": 0.25471745392133144,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/OscarJaVaz/my-app_8ids1.github.io",
+            "updatedAt": "2024-04-02T22:09:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HospitalD-aro",
+            "description": "Repositorio del proyecto Hospital",
+            "score": 0.16497683863384652,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/OscarJaVaz/HospitalD-aro",
+            "updatedAt": "2023-11-25T07:23:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my-app",
+            "description": null,
+            "score": 0.16497683863384652,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/OscarJaVaz/my-app",
+            "updatedAt": "2023-11-25T22:52:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MiAplicacion",
+            "description": null,
+            "score": 0.16333216405677026,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OscarJaVaz/MiAplicacion",
+            "updatedAt": "2023-10-30T03:05:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 134,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

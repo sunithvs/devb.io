@@ -1,0 +1,35 @@
+{
+    "username": "tonygallas",
+    "name": "tonygallas",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145595492?v=4",
+    "profile_url": "https://github.com/TonyGallas",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "TonyGallas",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.1611194339368499,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/TonyGallas/TonyGallas",
+            "updatedAt": "2023-09-20T17:09:01Z",
+            "isPinned": false,
+            "homepage": "https://github.com/TonyGallas"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "Hello, I'm @TonyGallas!\n\n\ud83d\udc40 I'm very enthusiastic about learning and sharing code because I believe collaboration is an excellent way to enhance my skills and contribute to the world of software development.\n\n\ud83c\udf31 Currently, my learning focus is in the field of Software Engineering.\nDuring my studies at ORT University, I gained a solid foundation in Java and SQL, \nproviding me with a fundamental understanding of programming and database management.\nHowever, my professional development has led me to explore a variety of additional technologies.\nIn my current role as a fullstack developer in .NET, I've had the opportunity to expand my skills.\nI've worked on projects involving advanced SQL, API development, C# programming,\nas well as frontend development using JavaScript with TypeScript and the use of Quasar.\nThis diversity of experiences has given me a broad perspective and allowed me to tackle various challenges in software development.\n\n\ud83d\udc9e\ufe0f I'm genuinely interested in finding collaboration opportunities on projects related to software development. \nMy knowledge in .NET, SQL, JavaScript, TypeScript, and Quasar makes me an ideal candidate to work on teams looking to create innovative and efficient solutions.\n\n\ud83d\udceb You can contact me in various ways. Right here, on this platform, you can send me a direct message to my username @TonyGallas. Additionally, you can reach me via email at 'inaki@digital-minds.com.ar' I look forward to the opportunity to collaborate with you on future projects and learn together!\n\n<!---\nTonyGallas/TonyGallas is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "profile_summary": null
+}

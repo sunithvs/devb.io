@@ -1,0 +1,150 @@
+{
+    "username": "cristofercalcinas",
+    "name": "cristofercalcinas",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/121046163?v=4",
+    "profile_url": "https://github.com/CristoferCalcinas",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "sexto-proyecto-final-backend",
+            "description": "Este proyecto es una aplicaci\u00f3n de gesti\u00f3n de librer\u00eda. Est\u00e1 desarrollado utilizando .NET Core 8",
+            "score": 1.3509059121194649,
+            "stars": 0,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/CristoferCalcinas/sexto-proyecto-final-backend",
+            "updatedAt": "2024-12-18T02:31:32Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "sexto-proyecto-final-frontend",
+            "description": "Este proyecto es una aplicaci\u00f3n de gesti\u00f3n de librer\u00eda. Est\u00e1 desarrollado utilizando Angular(~18.2).",
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/CristoferCalcinas/sexto-proyecto-final-frontend",
+            "updatedAt": "2024-12-20T03:14:55Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "e-commerce",
+            "description": null,
+            "score": 0.28391863668643885,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristoferCalcinas/e-commerce",
+            "updatedAt": "2024-07-27T20:05:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "proyecto-final-analisis-de-algoritmos",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristoferCalcinas/proyecto-final-analisis-de-algoritmos",
+            "updatedAt": "2024-06-18T19:49:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PlataformaDigitaldeCarnets",
+            "description": null,
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CristoferCalcinas/PlataformaDigitaldeCarnets",
+            "updatedAt": "2024-06-03T05:36:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "reniec-update-dev",
+            "description": null,
+            "score": 0.2695650101356548,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CristoferCalcinas/reniec-update-dev",
+            "updatedAt": "2024-06-10T20:47:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Simulacion_y_Dinamica_de_Sistemas_",
+            "description": null,
+            "score": 0.2688302205985168,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CristoferCalcinas/Simulacion_y_Dinamica_de_Sistemas_",
+            "updatedAt": "2024-06-01T17:49:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "servicio_de_taxis_ALGORITMOS",
+            "description": null,
+            "score": 0.26283003664131993,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/CristoferCalcinas/servicio_de_taxis_ALGORITMOS",
+            "updatedAt": "2024-06-16T20:58:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 23,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 54,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/calcinas-adrian"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/CalcinasAdrian"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/calcinas_adrian"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/calcinasadrian/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,110 @@
+{
+    "username": "syncev",
+    "name": "Santiago Hernandez",
+    "bio": "Im a front end developer in the making.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118183260?u=bc3a32ad11c54ad6604189f4838aea2806b926ad&v=4",
+    "profile_url": "https://github.com/syncev",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "co-op-compass",
+            "description": "Co-op Compass is a simple project demonstrating the use of a RESTful API to fetch and display data, showcasing the ability to integrate and interact with external data sources in a web application.",
+            "score": 10.28446806857093,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/syncev/co-op-compass",
+            "updatedAt": "2024-12-15T14:41:20Z",
+            "isPinned": true,
+            "homepage": "https://syncev.github.io/co-op-compass/"
+        },
+        {
+            "name": "Kitty-Cutie-Corner",
+            "description": "This project is my first venture into using API REST. It demonstrates the creation and utilization of RESTful APIs to perform CRUD (Create, Read, Update, Delete) operations.",
+            "score": 10.274960899327674,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/syncev/Kitty-Cutie-Corner",
+            "updatedAt": "2024-08-08T13:12:29Z",
+            "isPinned": true,
+            "homepage": "https://syncev.github.io/Kitty-Cutie-Corner/"
+        },
+        {
+            "name": "SH-CV",
+            "description": null,
+            "score": 10.245708567496662,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/syncev/SH-CV",
+            "updatedAt": "2024-09-13T13:24:30Z",
+            "isPinned": true,
+            "homepage": "https://syncev.github.io/SH-CV/"
+        },
+        {
+            "name": "Crippa-Service",
+            "description": "Crippa home appliances service landing page. A simple project focused in using a mobile-first aproach",
+            "score": 10.240675894290122,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/syncev/Crippa-Service",
+            "updatedAt": "2024-08-07T01:40:59Z",
+            "isPinned": true,
+            "homepage": "https://syncev.github.io/Crippa-Service/"
+        },
+        {
+            "name": "Il-Matterello",
+            "description": "Italian restaurant landing page. A simple project focused in using a mobile-first aproach",
+            "score": 10.240600125014568,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/syncev/Il-Matterello",
+            "updatedAt": "2024-08-07T01:38:57Z",
+            "isPinned": true,
+            "homepage": "https://syncev.github.io/Il-Matterello/"
+        },
+        {
+            "name": "CV-Application",
+            "description": null,
+            "score": 0.16902735731768975,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/syncev/CV-Application",
+            "updatedAt": "2024-01-23T13:18:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 4,
+    "public_repos": 6,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 123,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/santiago-hernandez-94722325b/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

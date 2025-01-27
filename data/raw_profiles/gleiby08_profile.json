@@ -1,0 +1,41 @@
+{
+    "username": "gleiby08",
+    "name": "GleibyBussines00",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/63572757?v=4",
+    "profile_url": "https://github.com/Gleiby08",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Blog",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Gleiby08/Blog",
+            "updatedAt": "2025-01-24T15:58:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

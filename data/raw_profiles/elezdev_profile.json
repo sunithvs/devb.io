@@ -1,0 +1,133 @@
+{
+    "username": "elezdev",
+    "name": "elezdev",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115831760?u=ea53cb556cd6bc10479b731d5a448e34d9a219ea&v=4",
+    "profile_url": "https://github.com/ElezDev",
+    "top_languages": [
+        [
+            "C++",
+            6
+        ],
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PopayanTurimsApi",
+            "description": "Api de popay\u00e1n turims",
+            "score": 2.2715471450633684,
+            "stars": 2,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/ElezDev/PopayanTurimsApi",
+            "updatedAt": "2022-10-20T14:55:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "erp-vt",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElezDev/erp-vt",
+            "updatedAt": "2025-01-26T21:42:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "findpestBackend",
+            "description": null,
+            "score": 1.35643047300801,
+            "stars": 0,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/ElezDev/findpestBackend",
+            "updatedAt": "2024-10-31T17:17:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "erpApp",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElezDev/erpApp",
+            "updatedAt": "2025-01-23T18:52:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "expopetsApp",
+            "description": null,
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElezDev/expopetsApp",
+            "updatedAt": "2024-12-27T20:10:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Backendfollow",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/ElezDev/Backendfollow",
+            "updatedAt": "2024-12-09T12:47:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "follow",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Blade",
+            "url": "https://github.com/ElezDev/follow",
+            "updatedAt": "2024-12-09T12:54:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "travelAppReact",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElezDev/travelAppReact",
+            "updatedAt": "2024-10-29T00:31:30Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 11,
+    "public_repos": 57,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 165,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "\ud83d\udc4b Hi there! I'm ElezDev, a full-stack developer passionate about technology and software development. With experience in modern frontend and backend technologies, I focus on building robust, scalable, and user-centered applications.\n\n\ud83d\ude80 Core Skills:\nFrontend: Angular, Flutter, HTML5.\nBackend: Laravel, Java, Kotlin.\nDatabases: PostgreSQL, MySQL, MariaDB.\nInfrastructure: AWS, Apache.\nDevelopment Tools: Postman, Arduino, Apollo-GraphQL.\n\ud83c\udf1f Areas of Interest:\n\nWeb and mobile application development.\nProcess automation and optimization.\nDesigning and implementing efficient APIs.\nTailored solutions for custom projects.\n\ud83c\udfaf My goal is to keep growing as a developer, share knowledge with the community, and work on projects that make an impact.\n\n\ud83d\udca1 Fun Facts:\n\nI love experimenting with new technologies and frameworks.\nI am committed to continuous improvement and always looking for exciting challenges.\n\ud83d\udcec Connect with me: You can find me on TikTok @elezdev1.0 or explore my projects here on GitHub.\n# \ud83d\udcbb Tech Stack:\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=ElezDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=ElezDev&theme=merko&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElezDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\n\n---\n[![](https://visitcount.itsvg.in/api?id=ElezDev&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<a href=\"https://app.daily.dev/elezdev\"><img src=\"https://api.daily.dev/devcards/v2/Hdg4NPlBfSX0ItlybvjqM.png?type=default&r=1s0\" width=\"356\" alt=\"edwin's Dev Card\"/></a>\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

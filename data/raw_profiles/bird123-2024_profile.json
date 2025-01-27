@@ -1,0 +1,88 @@
+{
+    "username": "bird123-2024",
+    "name": "bird123-2024",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/188110572?v=4",
+    "profile_url": "https://github.com/Bird123-2024",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ai-emoji-generator111",
+            "description": null,
+            "score": 0.45015244275061966,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Bird123-2024/ai-emoji-generator111",
+            "updatedAt": "2024-12-30T22:32:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chuty2",
+            "description": null,
+            "score": 0.3620447074639126,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Bird123-2024/chuty2",
+            "updatedAt": "2024-11-25T22:52:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "plura",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Bird123-2024/plura",
+            "updatedAt": "2024-11-20T15:42:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vaya",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Bird123-2024/vaya",
+            "updatedAt": "2024-11-20T15:16:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bird-clone",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Bird123-2024/Bird-clone",
+            "updatedAt": "2024-11-17T16:20:48Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 8,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

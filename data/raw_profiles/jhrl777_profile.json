@@ -1,0 +1,138 @@
+{
+    "username": "jhrl777",
+    "name": "Jhonatan Reyes",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/134742412?u=8db6e2e9109366736c47b9efaf745ef762cf8cbc&v=4",
+    "profile_url": "https://github.com/JHRL777",
+    "top_languages": [
+        [
+            "JavaScript",
+            10
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "Java",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BASES-DE-DE-DATOS",
+            "description": "Este repositorio se van a subir ejercicios de bases de datos y analisis de datos.",
+            "score": 11.676722659131338,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JHRL777/BASES-DE-DE-DATOS",
+            "updatedAt": "2024-08-09T19:41:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "JAVA_POO",
+            "description": "Peque\u00f1os proyectos donde se va a manejar objetos y las propiedades que manejan como herencia polimorfismo interfaces etc.",
+            "score": 11.67640259884763,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JHRL777/JAVA_POO",
+            "updatedAt": "2024-08-09T13:10:19Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "PYTHON_POO",
+            "description": "Proyectos para profundisar en la creacion de objetos en python, herencia ,polimorfismo, sobrecarga, metodos,apstracion,encapsulamiento",
+            "score": 11.673631096442428,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JHRL777/PYTHON_POO",
+            "updatedAt": "2024-08-09T13:10:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Ecotrail",
+            "description": "Dise\u00f1o de una web para combatir la deforestaci\u00f3n en Boyaca y en cundinamarca con tecnologia de java sprinboot",
+            "score": 10.286746101040038,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JHRL777/Ecotrail",
+            "updatedAt": "2024-07-24T23:54:56Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "MySQL",
+            "description": "Estructura de datos y tablas relacionales",
+            "score": 10.252517972324963,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JHRL777/MySQL",
+            "updatedAt": "2024-07-29T14:57:33Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "portafolio",
+            "description": "Creacion del portafolio",
+            "score": 10.165232198681851,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JHRL777/portafolio",
+            "updatedAt": "2023-11-30T21:52:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "JAVACITASMEDICAS",
+            "description": "Proyecto de citas medicas utilizando java, Encapsulamiento herencia polimorfismo",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JHRL777/JAVACITASMEDICAS",
+            "updatedAt": "2025-01-25T17:00:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "L-J-INGENIERIA-Y-CONSTRUCCION-S.A.S",
+            "description": "pagina web empresa",
+            "score": 0.299763408375859,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JHRL777/L-J-INGENIERIA-Y-CONSTRUCCION-S.A.S",
+            "updatedAt": "2024-08-31T23:34:41Z",
+            "isPinned": false,
+            "homepage": "https://l-j-ingenieria-y-construccion-s-a-s.vercel.app"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 65,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jhonatan-reyes-316a80271/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

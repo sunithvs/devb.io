@@ -1,0 +1,149 @@
+{
+    "username": "dianfer19",
+    "name": "Dian Fernando",
+    "bio": "Hello, I'm Dian, but people call me Dianfer or the GOAT lol . I've been a programmer for 10 years, a fan of football, calisthenics, and obviously technology. ",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110933540?u=f377febf0bb6e61bdc75920e3db7001dcc504e78&v=4",
+    "profile_url": "https://github.com/dianfer19",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "crm_django",
+            "description": null,
+            "score": 2.3654212560627674,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/dianfer19/crm_django",
+            "updatedAt": "2024-01-19T20:14:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "linux",
+            "description": "comandos utiles",
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/dianfer19/linux",
+            "updatedAt": "2024-05-10T02:51:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clientWebsocket",
+            "description": "Front para consumir el proyecyto de Websocket de python",
+            "score": 0.2548374938644171,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/dianfer19/clientWebsocket",
+            "updatedAt": "2024-02-03T05:08:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Websocket_twitch",
+            "description": "Websocket Simple",
+            "score": 0.2548374938644171,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dianfer19/Websocket_twitch",
+            "updatedAt": "2024-02-03T05:03:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DbjsystemWeb",
+            "description": "DbjsystemWeb",
+            "score": 0.24882725556990293,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/dianfer19/DbjsystemWeb",
+            "updatedAt": "2024-05-09T05:07:54Z",
+            "isPinned": false,
+            "homepage": "https://dbjsystem-web.vercel.app"
+        },
+        {
+            "name": "DjangoDocker",
+            "description": "streaming docker",
+            "score": 0.24727551466600156,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/dianfer19/DjangoDocker",
+            "updatedAt": "2024-05-18T17:09:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django_twitch",
+            "description": "Mini proyecto Django previo al ERP",
+            "score": 0.16933763344737873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/dianfer19/django_twitch",
+            "updatedAt": "2024-01-27T04:27:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "automatizacion",
+            "description": "Automatizaci\u00f3n de Tareas con APScheduler",
+            "score": 0.1691045052393722,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/dianfer19/automatizacion",
+            "updatedAt": "2024-01-26T02:53:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 9,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 428,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/dianfer19/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/ElgranDian/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dian-fernando-baja\u00f1a-jim\u00e9nez-621ba5125/"
+        },
+        {
+            "provider": "twitch",
+            "url": "https://www.twitch.tv/dianfer19"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,133 @@
+{
+    "username": "bereverte",
+    "name": "bereverte",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/160533354?v=4",
+    "profile_url": "https://github.com/bereverte",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "digital-menu-BE",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bereverte/digital-menu-BE",
+            "updatedAt": "2024-12-13T11:42:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "digital-menu-FE",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bereverte/digital-menu-FE",
+            "updatedAt": "2024-12-13T11:42:20Z",
+            "isPinned": false,
+            "homepage": "https://digitalmenu-xi.vercel.app"
+        },
+        {
+            "name": "star-wars-encyclopedia",
+            "description": null,
+            "score": 0.3149821952195669,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bereverte/star-wars-encyclopedia",
+            "updatedAt": "2024-10-03T15:34:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "calculadora-propinas",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bereverte/calculadora-propinas",
+            "updatedAt": "2024-09-11T14:58:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "expanding-cards",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/bereverte/expanding-cards",
+            "updatedAt": "2024-09-11T16:05:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pasapalabra",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bereverte/pasapalabra",
+            "updatedAt": "2024-09-11T13:46:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "products-router-app",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bereverte/products-router-app",
+            "updatedAt": "2024-09-11T16:46:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "progress-steps",
+            "description": null,
+            "score": 0.3039837721968308,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bereverte/progress-steps",
+            "updatedAt": "2024-09-11T13:55:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 11,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 102,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

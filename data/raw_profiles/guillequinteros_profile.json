@@ -1,0 +1,142 @@
+{
+    "username": "guillequinteros",
+    "name": "Guille Quinteros",
+    "bio": "Tecnico en Sistemas y Redes, especialista en Infraestrutura IT, networking. \r\njava Dev en Proceso.\r\nQA Analyst. Manual Automation:\r\nJava, js. Selenium & Cypress",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/128701585?u=36c59c4d0a3cd88f6be81260e01463ef41bdc0cc&v=4",
+    "profile_url": "https://github.com/GuilleQuinteros",
+    "top_languages": [
+        [
+            "Java",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "anothertime.com.ar",
+            "description": null,
+            "score": 11.641373280576493,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/GuilleQuinteros/anothertime.com.ar",
+            "updatedAt": "2025-01-17T18:15:22Z",
+            "isPinned": true,
+            "homepage": "https://anothertime-com-ar.vercel.app"
+        },
+        {
+            "name": "HipoEducationWebApp",
+            "description": "Aplicacion web Desarrollada con spring, MySQL, Spring para el backend y gestor de plantilla Thymeleaft para el front!",
+            "score": 10.553904059603283,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/GuilleQuinteros/HipoEducationWebApp",
+            "updatedAt": "2025-01-17T18:00:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ApiMovies",
+            "description": "Api simple desarrollada con Java, JDBC, MySQL",
+            "score": 10.283108748726633,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/GuilleQuinteros/ApiMovies",
+            "updatedAt": "2024-07-12T21:49:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "LibraryApp",
+            "description": null,
+            "score": 10.282842496519585,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/GuilleQuinteros/LibraryApp",
+            "updatedAt": "2025-01-17T18:09:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CAC-MOVIES",
+            "description": null,
+            "score": 10.266372507040543,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/GuilleQuinteros/CAC-MOVIES",
+            "updatedAt": "2024-04-25T02:21:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "integrador-con-js",
+            "description": null,
+            "score": 1.6252041136973914,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GuilleQuinteros/integrador-con-js",
+            "updatedAt": "2024-03-27T01:50:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TickedApp",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/GuilleQuinteros/TickedApp",
+            "updatedAt": "2024-10-29T14:12:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GuilleQuinteros",
+            "description": "this is my personal repo",
+            "score": 0.27147095749867983,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/GuilleQuinteros/GuilleQuinteros",
+            "updatedAt": "2024-05-29T12:51:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 12,
+    "public_repos": 11,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 70,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/guillequinterodev/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/guille.guinteros"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b<h2> I'm Guillermo</h2>\n\n<img align='right' src=\"https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif\" width=\"230\">\n\n<h3> \ud83d\udc68\ud83c\udffb\u2022\ud83d\udcbb About Me </h3>\n\n\n\n- \ud83e\udd14 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\n\n- \ud83c\udf93 &nbsp; I am a technician in computer systems and network administration..\n\n- \ud83c\udf31 &nbsp; Learning about Cloud Tech, Systems Design.\n\n- \u270d\ufe0f &nbsp; Follow web development as my main activity, I love the backend, I like the front end and I am also a QA analyst.\n\n\n\n<h3>\ud83d\udee0 Tech Stack</h3>\n\n\n\n- \ud83d\udcbb &nbsp;  Java |Spring Framework, Spring Security|  MySQL\n\n- \ud83c\udf10 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS\n\n<!--\n\n- \ud83d\udee2 &nbsp; MySQL \n\n- \ud83d\udd27 &nbsp; Git |  Selenium | Cypress\n\n- \ud83d\udda5 &nbsp; Illustrator| Photoshop | InDesign\n\n-->\n\n\n\n<h3>\ud83d\udee0 To Learn</h3>\n\n- \ud83d\udd27 &nbsp; AWS | Docker\ud83d\udc33 | Firebase | flask | React(little more) | Angular\n\n<hr>\n<hr>\n\n\n<!--\n[<h3> \ud83e\udd1d\ud83c\udffb Connect with Me </h3>\n\n<br>\n\n\n\n<p align=\"center\">\n\n<a href=\"https://shivammalpani.netlify.app/\"><img alt=\"Website\" src=\"https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome\"></a>\n\n<a href=\"https://www.linkedin.com/in/shivam-malpani-47a379198/\"><img alt=\"LinkedIn\" src=\"https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin\"></a>\n\n<a href=\"https://www.instagram.com/i__disbalance/\"><img alt=\"Instagram\" src=\"https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram\"></a>\n\n<a href=\"mailto:shivammalpani111@gmail.com\"><img alt=\"Email\" src=\"https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail\"></a>\n\n</p>](url)\n\n\n\n\n\n![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src=\"https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif\" width=\"30\">\n\n\n\n\n\n<hr>\n-->\n\n\n\n\n\n\n<!--\n**GuilleQuinteros/GuilleQuinteros** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

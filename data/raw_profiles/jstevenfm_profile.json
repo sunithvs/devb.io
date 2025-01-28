@@ -1,0 +1,121 @@
+{
+    "username": "jstevenfm",
+    "name": "Jeisson Steven Fonseca Medina",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/65377293?u=03fd8cdef6ae6dbc466106a2689d3d8ab00c47c3&v=4",
+    "profile_url": "https://github.com/jstevenfm",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Astro",
+            3
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pomodoroTimer",
+            "description": null,
+            "score": 12.350688415551286,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jstevenfm/pomodoroTimer",
+            "updatedAt": "2023-09-01T17:41:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "pomodoroTimer-react-tailwind",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jstevenfm/pomodoroTimer-react-tailwind",
+            "updatedAt": "2025-01-18T00:49:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "fullstackopen",
+            "description": "This repository is for upload the solution of the exercises of the bootcamp \"Full Stack Open\"",
+            "score": 0.2888527756094989,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jstevenfm/fullstackopen",
+            "updatedAt": "2025-01-18T00:47:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "optica-sol-redesign",
+            "description": "Redise\u00f1o de la p\u00e1gina web de \u00d3ptica Sol",
+            "score": 0.25799214375896495,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/jstevenfm/optica-sol-redesign",
+            "updatedAt": "2024-06-05T01:56:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jstevenfm.github.io",
+            "description": "Learning Astro, Bun and Tailwind. Cloning my landing page for practice",
+            "score": 0.2416007489132049,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/jstevenfm/jstevenfm.github.io",
+            "updatedAt": "2024-07-19T16:01:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "youtube-music-redesign",
+            "description": "Redesign of YouTube Music web using Astro and TailwindCSS",
+            "score": 0.16192057831950055,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/jstevenfm/youtube-music-redesign",
+            "updatedAt": "2023-10-05T01:33:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jstevenfm.github.io-v1",
+            "description": "My Landing Page",
+            "score": 0.1456696539155576,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jstevenfm/jstevenfm.github.io-v1",
+            "updatedAt": "2023-09-22T20:18:00Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 95,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

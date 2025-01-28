@@ -1,0 +1,120 @@
+{
+    "username": "esteband96",
+    "name": "esteband96",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/181259043?u=406e264b1fb644a43609b100471cc9527263fe53&v=4",
+    "profile_url": "https://github.com/ESTEBAND96",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "HTML",
+            2
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "juego-pacman-",
+            "description": null,
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ESTEBAND96/juego-pacman-",
+            "updatedAt": "2024-11-13T13:03:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "juego-matematico-",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ESTEBAND96/juego-matematico-",
+            "updatedAt": "2024-10-29T15:42:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "slider",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ESTEBAND96/slider",
+            "updatedAt": "2024-10-29T14:09:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "p-ferrari--programa-",
+            "description": null,
+            "score": 0.33093592369364055,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ESTEBAND96/p-ferrari--programa-",
+            "updatedAt": "2024-10-29T14:15:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "reloj-digital-",
+            "description": null,
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ESTEBAND96/reloj-digital-",
+            "updatedAt": "2024-10-25T23:00:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "reproductor-de-m-sico-",
+            "description": null,
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ESTEBAND96/reproductor-de-m-sico-",
+            "updatedAt": "2024-10-25T20:38:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CALCULADORA-",
+            "description": "CALCULADORA DIA NOCCHE ",
+            "score": 0.32230614082245657,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ESTEBAND96/CALCULADORA-",
+            "updatedAt": "2024-10-15T13:36:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 16,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,117 @@
+{
+    "username": "sansx-x",
+    "name": "sansx-x",
+    "bio": "principiante",
+    "location": "praga",
+    "avatar_url": "https://avatars.githubusercontent.com/u/192288302?u=b59a07b01275e8fd07df16e135da5decfd39e281&v=4",
+    "profile_url": "https://github.com/sansx-x",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "costos1",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sansx-x/costos1",
+            "updatedAt": "2025-01-28T00:37:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "costos2",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sansx-x/costos2",
+            "updatedAt": "2025-01-28T00:24:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "costos3",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sansx-x/costos3",
+            "updatedAt": "2025-01-28T00:30:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gallery",
+            "description": "mi primera galeria",
+            "score": null,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sansx-x/gallery",
+            "updatedAt": "2025-01-28T00:00:56Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "tabladenutrientes",
+            "description": null,
+            "score": 1.8870066621628916,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sansx-x/tabladenutrientes",
+            "updatedAt": "2025-01-28T00:00:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tasa",
+            "description": "tasa promedio, bcv y paralelo",
+            "score": 1.7957319917339867,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sansx-x/tasa",
+            "updatedAt": "2025-01-28T00:00:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tablarg",
+            "description": null,
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sansx-x/tablarg",
+            "updatedAt": "2025-01-08T00:10:19Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 28,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

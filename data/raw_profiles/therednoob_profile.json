@@ -1,0 +1,132 @@
+{
+    "username": "therednoob",
+    "name": "therednoob",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/127248097?u=169b17f24191a8c144f89a00c7b6e428eadb92c9&v=4",
+    "profile_url": "https://github.com/TheReDNooB",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Auth-Flask",
+            "description": null,
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/TheReDNooB/Auth-Flask",
+            "updatedAt": "2024-11-21T04:06:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Crud-Flask",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/TheReDNooB/Crud-Flask",
+            "updatedAt": "2024-11-20T03:33:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Dynamic-Array-in-Java",
+            "description": null,
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/TheReDNooB/Dynamic-Array-in-Java",
+            "updatedAt": "2024-10-17T20:24:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ANAC-datasets",
+            "description": null,
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/TheReDNooB/ANAC-datasets",
+            "updatedAt": "2024-08-27T01:42:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Titanic_Kaggle",
+            "description": null,
+            "score": 0.2959219468663434,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/TheReDNooB/Titanic_Kaggle",
+            "updatedAt": "2024-08-22T20:11:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "java_crud",
+            "description": null,
+            "score": 0.16275549919030172,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/TheReDNooB/java_crud",
+            "updatedAt": "2023-10-20T22:22:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BreakoutGame",
+            "description": null,
+            "score": 0.16060292472579868,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/TheReDNooB/BreakoutGame",
+            "updatedAt": "2023-09-11T15:56:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Crud_JS_with_LocalStorage",
+            "description": "un crud hecho con javaScript y el LocalStorage",
+            "score": 0.1602994489876626,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/TheReDNooB/Crud_JS_with_LocalStorage",
+            "updatedAt": "2023-09-05T14:04:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 14,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 35,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,57 @@
+{
+    "username": "jhoseph1415e",
+    "name": "jhoseph1415e",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115366341?v=4",
+    "profile_url": "https://github.com/Jhoseph1415E",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Sistema_inventarios",
+            "description": "Un sistemas de inventarias con asp.net core con MVC",
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Jhoseph1415E/Sistema_inventarios",
+            "updatedAt": "2024-11-10T00:51:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "edshop",
+            "description": null,
+            "score": 0.2966627924641947,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Jhoseph1415E/edshop",
+            "updatedAt": "2024-08-25T05:31:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

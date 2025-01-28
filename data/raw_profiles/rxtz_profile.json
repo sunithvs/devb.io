@@ -1,0 +1,120 @@
+{
+    "username": "rxtz",
+    "name": "rxtz",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/62116831?v=4",
+    "profile_url": "https://github.com/rxtz",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Crystal",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "md",
+            "description": "Markdown",
+            "score": 10.072392898839508,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rxtz/md",
+            "updatedAt": "2022-06-27T13:31:54Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "nejo",
+            "description": "EL AUTO",
+            "score": 10.072351039031963,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/rxtz/nejo",
+            "updatedAt": "2022-08-07T06:15:54Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "convert",
+            "description": null,
+            "score": 10.072237025680476,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/rxtz/convert",
+            "updatedAt": "2023-01-02T23:10:42Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "tutaloco",
+            "description": "Libro Tutalocogallo del Dr. Detarrainsuminisador",
+            "score": 0.07565041301409371,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/rxtz/tutaloco",
+            "updatedAt": "2023-01-18T00:47:17Z",
+            "isPinned": false,
+            "homepage": "https://tutaloco.vercel.app/"
+        },
+        {
+            "name": "docs",
+            "description": null,
+            "score": 0.07554309079798437,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rxtz/docs",
+            "updatedAt": "2023-01-10T04:22:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "crystal",
+            "description": "forked from https://github.com/askn/crystal-by-example",
+            "score": 0.07296881202925415,
+            "stars": 0,
+            "forks": 0,
+            "language": "Crystal",
+            "url": "https://github.com/rxtz/crystal",
+            "updatedAt": "2022-12-26T03:20:57Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "char",
+            "description": null,
+            "score": 0.07273575244164218,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rxtz/char",
+            "updatedAt": "2022-06-27T13:34:42Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

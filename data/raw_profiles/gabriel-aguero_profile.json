@@ -1,0 +1,142 @@
+{
+    "username": "gabriel-aguero",
+    "name": "Gabriel Ag\u00fcero",
+    "bio": "Developers BacKend - #HTML5 - #CSS - #JavaScript - #React | \ud83d\udca5My passion programming\ud83d\udc68\u200d\ud83d\udcbb |  learning day by day | Looking for that opportunity  \u2728\ud83c\udf40",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/32781895?u=46ab981854cf2e7e88014480825e5ef33d0d7e08&v=4",
+    "profile_url": "https://github.com/Gabriel-Aguero",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "SitioWeb_con_Bootstrap",
+            "description": "Sitio Web creado con HTML5, CSS, FlexBox y Bootstrap",
+            "score": 1.4584903220112537,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Gabriel-Aguero/SitioWeb_con_Bootstrap",
+            "updatedAt": "2022-04-16T04:26:03Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "proyecto-caprichosas",
+            "description": "Sitio Web - Venta de articulos de lencerias y ropa interior femenina",
+            "score": 1.1936432941704345,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Gabriel-Aguero/proyecto-caprichosas",
+            "updatedAt": "2023-04-29T14:24:08Z",
+            "isPinned": false,
+            "homepage": "https://proyecto-caprichosas.vercel.app"
+        },
+        {
+            "name": "lista-tareas-ts",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Gabriel-Aguero/lista-tareas-ts",
+            "updatedAt": "2025-01-09T02:19:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "emergency-app",
+            "description": "Una aplicacion para control y chequeo del carro de emergencia en \u00e1mbitos de la salud.",
+            "score": 0.28916299194693984,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Gabriel-Aguero/emergency-app",
+            "updatedAt": "2024-11-27T14:44:52Z",
+            "isPinned": false,
+            "homepage": "https://emergency-app-one.vercel.app"
+        },
+        {
+            "name": "PortalPaciente",
+            "description": "Portal de Paciente",
+            "score": 0.267579907792056,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Gabriel-Aguero/PortalPaciente",
+            "updatedAt": "2024-07-10T21:16:44Z",
+            "isPinned": false,
+            "homepage": "https://portal-paciente-virid.vercel.app"
+        },
+        {
+            "name": "fundacionsilflo",
+            "description": "Sitio Web de la Fundaci\u00f3n Silvia Flores",
+            "score": 0.26407648204542317,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Gabriel-Aguero/fundacionsilflo",
+            "updatedAt": "2024-06-23T04:36:11Z",
+            "isPinned": false,
+            "homepage": "https://fundacionsilflo.vercel.app"
+        },
+        {
+            "name": "CalculadoraenConsola",
+            "description": "Si est\u00e1s iniciando en el mundo de la programaci\u00f3n. Debes hacer este ejercicio. Aprende como hacer una calculadora en la consola con Java",
+            "score": 0.2089781931276653,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/Gabriel-Aguero/CalculadoraenConsola",
+            "updatedAt": "2024-04-22T20:42:28Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Gabriel-Aguero",
+            "description": "Mi repositorio personal",
+            "score": 0.20895597908972954,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Gabriel-Aguero/Gabriel-Aguero",
+            "updatedAt": "2024-08-08T02:03:53Z",
+            "isPinned": false,
+            "homepage": "https://gabrielaguero.com/"
+        }
+    ],
+    "followers": 2,
+    "following": 19,
+    "public_repos": 34,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 121,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/gabrielhaguero"
+        },
+        {
+            "provider": "generic",
+            "url": "https://gabrielhaguero.com/"
+        }
+    ],
+    "readme_content": "<h3>\ud83d\ude4b\u200d\u2642\ufe0f Hi there, my name is Gabriel Aguero <h3> \n<img alt=\"Static Badge\" src=\"https://github.com/Gabriel-Aguero/Gabriel-Aguero/blob/main/Banner%20github.png\">\n\n<h3> \ud83d\udc4b Hey, There </h3>  \n\n<p> My name is Gabriel Aguero, and I am a frontend developer from Argentina. I hold an Associate Degree in Systems and a Bachelor's Degree in Health. I currently work in functional analysis within hospital environments, although my goal is to work as a frontend developer. Thanks to my background in health and technology, I have developed various web applications that solve specific problems and simultaneously facilitate the daily work of healthcare professionals. <p>\n<hr/>  \n<h3> \u2b50\ufe0f Languages \u2b50\ufe0f </h3>  \n<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=javascript&logoColor=yellow&logoSize=auto&label=JAVASCRIPT&labelColor=5b5b5b&color=5b5b5b&cacheSeconds=3600\">\n</a>\n<a href=\"https://astro.build/\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=astro&logoColor=red&logoSize=auto&label=ASTRO&labelColor=1c1c1c&color=1c1c1c&cacheSeconds=3600\">\n</a>\n<a href=\"https://www.python.org/\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&label=PYTHON&labelColor=046cb4&color=046cb4&cacheSeconds=3600\">\n</a>\n<a href=\"https://www.typescriptlang.org/\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&label=TYPESCRIPT&labelColor=09f&color=09f&cacheSeconds=3600\">\n</a>\n<hr/>\n<h3> \u2b50\ufe0f Frontend \u2b50\ufe0f </h3>  \n<a href=\"https://es.react.dev/\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&label=React&labelColor=09f&color=09f&cacheSeconds=3600\">\n</a>\n<a href=\"https://tailwindcss.com/\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto&label=TAILWINDCSS&labelColor=%2306B6D4&color=%2306B6D4&cacheSeconds=3600\">\n</a>\n<a href=\"https://developer.mozilla.org/es/docs/Web/CSS\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&label=CSS&labelColor=%231572B6&color=%231572B6&cacheSeconds=3600\">\n</a>\n<a href=\"https://developer.mozilla.org/es/docs/Web/CSS\">\n  <img alt=\"Static Badge\" src=\"https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto&label=VITE&labelColor=%23646CFF&color=%23646CFF&cacheSeconds=3600\">\n</a>\n<hr/>\n<h3> \ud83c\udf1f Stacks \ud83c\udf1f</h3> \n\n<a href=\"https://github.com/Gabriel-Aguero/github-readme-stats#gh-dark-mode-only\">\n  <img height=200 align=\"center\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aguero&layout=compact&show_icons=true&theme=radical\" />\n</a>\n<a href=\"https://github.com/Gabriel-Aguero/github-readme-stats#gh-dark-mode-only\">\n  <img height=200 align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=Gabriel-Aguero&show_icons=true&theme=radical\" />\n</a>\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

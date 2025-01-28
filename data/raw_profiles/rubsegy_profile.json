@@ -1,0 +1,132 @@
+{
+    "username": "rubsegy",
+    "name": "Ruben Segura",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/56447883?u=401e9c5fd39bd14e6c7d2dc07085df79a63a433d&v=4",
+    "profile_url": "https://github.com/Rubsegy",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Java-Projecto",
+            "description": null,
+            "score": 10.272664896391307,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Rubsegy/Java-Projecto",
+            "updatedAt": "2024-05-29T08:26:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CreditCard_Proyect_RSJ",
+            "description": "Credit card payment gateway project.",
+            "score": 10.25520031108745,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Rubsegy/CreditCard_Proyect_RSJ",
+            "updatedAt": "2024-02-07T11:40:56Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "BlackJack_RSJ",
+            "description": null,
+            "score": 10.16857024084505,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Rubsegy/BlackJack_RSJ",
+            "updatedAt": "2024-01-18T09:53:45Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Rubsegy",
+            "description": null,
+            "score": 10.132128684968222,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Rubsegy/Rubsegy",
+            "updatedAt": "2024-01-20T17:16:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "M8-UF5",
+            "description": null,
+            "score": 0.27286776364206944,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Rubsegy/M8-UF5",
+            "updatedAt": "2024-05-30T10:03:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Pokemon_XSL",
+            "description": null,
+            "score": 0.25656644287448127,
+            "stars": 0,
+            "forks": 0,
+            "language": "XSLT",
+            "url": "https://github.com/Rubsegy/Pokemon_XSL",
+            "updatedAt": "2024-02-17T15:37:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Mario_Bros_Background",
+            "description": null,
+            "score": 0.25569047430970365,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Rubsegy/Mario_Bros_Background",
+            "updatedAt": "2024-02-10T20:24:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Actividad_Navidad",
+            "description": null,
+            "score": 0.1660847238049714,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Rubsegy/Actividad_Navidad",
+            "updatedAt": "2023-12-14T09:13:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 51,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h1>Hi, I'm Rub\u00e9n\ud83d\udc4b</h1>\r\n<h3>About Me</h3>\r\n<p>A passionate Web Developer and curious about Cybersecurity</p>\r\n<p>I live in Spain, Barcelona</p>\r\n<p>\ud83d\udcdaCurrently studying in: <a href=\"https://www.jviladoms.cat/ca\">Jaume Viladoms</a></p>\r\n<p>\ud83d\udceb How to reach me:<a href=\"mailto:seguraruben312@gmail.com\"> seguraruben312@gmail.com</a></p>\r\n\r\n<hr style=\"color: white;\">\r\n\r\n<h3 style= text-align:center;>Studies</h3>\r\n<p>\ud83d\udcbbTechnician in Microcomputer Systems and Networks</p>\r\n<p><b>Currently studying:</b>\ud83d\udc68\u200d\ud83d\udcbb Web Applications Development</p>\r\n\r\n<h3 style= text-align:center;>My Skills</h3>\r\n<h4>Programming Languages</h4>\r\n\r\n<div style=display:flex;>\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white\">\r\n\r\n<img alt=\"Static Badge\" src=\"https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white\">\r\n\r\n</div>\r\n\r\n<h4>Frontend Development</h4>\r\n<div style=display:flex;>\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white\">\r\n</div>\r\n\r\n<h4>Software & Tools</h4>\r\n<div style=display:flex;>\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white\">\r\n</div>\r\n\r\n<h4>Operating Systems</h4>\r\n<div style=display:flex;>\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white\">\r\n\r\n<img style=margin-right:10px; alt=\"Static Badge\" src=\"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white\">\r\n</div>\r\n<br>\r\n\r\n<hr style=\"color: white;\">\r\n\r\n<h3 style= text-align:center;>Contact Me</h3>\r\n<a href=\"mailto:seguraruben312@gmail.com\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Gmail\" data-canonical-src=\"https://www.linkedin.com/in/rub%C3%A9n-segura-jim%C3%A9nez/\" style=\"max-width: 100%;\"></a>\r\n\r\n<a href=\"https://www.linkedin.com/in/rub%C3%A9n-segura-jim%C3%A9nez/\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"Linkedin\" data-canonical-src=\"https://www.linkedin.com/in/rub%C3%A9n-segura-jim%C3%A9nez/\" style=\"max-width: 100%;\"></a>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "profile_summary": null
+}

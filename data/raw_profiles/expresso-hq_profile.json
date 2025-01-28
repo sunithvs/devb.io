@@ -1,0 +1,44 @@
+{
+    "username": "expresso-hq",
+    "name": "Expresso",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/179329195?u=b336e0bd71abf003754f57bd618ccae8282b918d&v=4",
+    "profile_url": "https://github.com/expresso-hq",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "RustDump",
+            "description": null,
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/expresso-hq/RustDump",
+            "updatedAt": "2024-09-10T16:53:37Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/expresso_hq"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@expresso.people"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

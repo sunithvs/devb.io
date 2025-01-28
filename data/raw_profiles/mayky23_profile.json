@@ -1,0 +1,142 @@
+{
+    "username": "mayky23",
+    "name": "Miguel \u00c1ngel Rold\u00e1n de Haro",
+    "bio": "Cross-platform application developer || Cybersecurity specialization and ethical hacking. ",
+    "location": "Granada, Espa\u00f1a",
+    "avatar_url": "https://avatars.githubusercontent.com/u/117676749?u=ddec05a5a2780cc99ea538537af29ef8f96a7db4&v=4",
+    "profile_url": "https://github.com/Mayky23",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EviDumpLin",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/Mayky23/EviDumpLin",
+            "updatedAt": "2025-01-28T20:32:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Parrot-OS-book",
+            "description": "I have created a book that covers all the tools of the Parrot operating system, as well as a detailed explanation of the commands of each one. I am sure that this book will help many people who want to learn more about this operating system or how in my case they use it to practice ethical hacking on HTB (Hack the box)",
+            "score": 4.857003552629181,
+            "stars": 5,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Mayky23/Parrot-OS-book",
+            "updatedAt": "2024-08-17T10:58:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AndroidStudioProjects",
+            "description": "-- Android Studio Projects with Java",
+            "score": 1.6388123334448537,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Mayky23/AndroidStudioProjects",
+            "updatedAt": "2024-07-09T15:41:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ciber_Monkey",
+            "description": "Pentesting tool called Ciber Monkey, own creation, programmed in Python",
+            "score": 1.619586031949899,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Mayky23/Ciber_Monkey",
+            "updatedAt": "2024-07-09T15:41:05Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "EviDump",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "Batchfile",
+            "url": "https://github.com/Mayky23/EviDump",
+            "updatedAt": "2025-01-10T11:32:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "VolDump",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Mayky23/VolDump",
+            "updatedAt": "2025-01-10T11:31:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Osint_Omegle",
+            "description": "OSINT tool to create a JAvaScript to obtain data about the target IP and be able to know data such as region, network provider, city or security reports in which the IP involved appears",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Mayky23/Osint_Omegle",
+            "updatedAt": "2024-11-19T16:50:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Wiki.js",
+            "description": "Lanzamiento de un emocionante proyecto web: implementar Wiki.js en mi servidor Proxmox personal, donde centralizar\u00e9 todos mis proyectos y documentaci\u00f3n de programaci\u00f3n en un espacio accesible y organizado.",
+            "score": 0.3317271416919969,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mayky23/Wiki.js",
+            "updatedAt": "2024-10-29T21:56:15Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 11,
+    "public_repos": 18,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 132,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/mardh"
+        },
+        {
+            "provider": "generic",
+            "url": "https://linktr.ee/MA_Roldan?fbclid=PAY2xjawGppcRleHRuA2FlbQIxMQABpjlY8sdu0XHrQrcwcDroeNxWnIp5Mru5A3kqx7Q0_3q5pryVGkwUdJeMyg_aem_x28Hyd_ryf_KGIolgoStKQ"
+        }
+    ],
+    "readme_content": "<h1 align=\"left\">\ud83d\udc4b About Me</h1>\n\n###\n\n<p align=\"left\">I'm a passionate cybersecurity professional dedicated to my work, with a strong emphasis on teamwork and efficient problem-solving. My adaptability allows me to seamlessly integrate into diverse work environments.</p>\n\n###\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Mayky23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=Mayky23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2\" height=\"150\" alt=\"languages graph\"  />\n  <img src=\"https://streak-stats.demolab.com?user=Mayky23&locale=en&mode=daily&theme=dark\" alt=\"streak graph\" />\n</div>\n\n###\n\n<h4 align=\"left\">Contact me :</h4>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"discord logo\"  />\n  <img src=\"https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"gmail logo\"  />\n  <a href=\"https://www.linkedin.com/in/mardh \" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"linkedin logo\"  />\n  </a>\n</div>\n\n###\n\n<h4 align=\"left\">Programming languages \u200b\u200band programs :</h4>\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg\" height=\"30\" alt=\"java logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"30\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"30\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"30\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg\" height=\"30\" alt=\"php logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg\" height=\"30\" alt=\"postgresql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg\" height=\"30\" alt=\"mysql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg\" height=\"30\" alt=\"mongodb logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg\" height=\"30\" alt=\"linux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg\" height=\"30\" alt=\"raspberrypi logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg\" height=\"30\" alt=\"vscode logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg\" height=\"30\" alt=\"android studio\"  />\n  <img width=\"12\" />\n</div>\n\n###\n\n<h4 align=\"left\">\ud83d\ude80 My Approach :</h4>\n\n###\n\n<p align=\"left\">As a cybersecurity and ethical hacking enthusiast, I am committed to staying updated with the latest technologies and trends. My proactive, results-oriented mindset propels me to continuously seek ways to enhance and contribute value to the company. I thrive in collaborative environments, leveraging my problem-solving skills to adapt to any work scenario.</p>\n\n###\n\n<h4 align=\"left\">\ud83d\udd10 Projects and Experiments :</h4>\n\n###\n\n<p align=\"left\">In my free time, I enjoy delving into the world of hacking and cybersecurity. I spend hours on Hack the Box machines, igniting my curiosity in the realm of ethical hacking. On the creative side, I love crafting tools like malicious USBs and creating my important personal project, Ciber Monkey. Ciber Monkey It's a toolbox <br>written in Python and designed for pentesting (tested only in controlled environments).</p>\n\n###\n\n<br clear=\"both\">\n\n<img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFqYm42MnoxOXNkM3AxZHl5a2t5aW5xeWFtdTlqY3l3eDBjOWRyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4heseFMvObk9q/giphy.gif\" \nwidth=\"750\" alt=\"Snake animation\" />\n\n###\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

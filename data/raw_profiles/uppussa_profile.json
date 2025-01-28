@@ -1,0 +1,132 @@
+{
+    "username": "uppussa",
+    "name": "JoseSchmu",
+    "bio": " Desarrollo Web \ud83d\udcbb",
+    "location": "Republica Dominicana",
+    "avatar_url": "https://avatars.githubusercontent.com/u/130256366?u=c80ac8bceeb11bc045087074b2ec065363a6f544&v=4",
+    "profile_url": "https://github.com/Uppussa",
+    "top_languages": [
+        [
+            "JavaScript",
+            33
+        ],
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "my-project",
+            "description": null,
+            "score": 0.3161267557513874,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/my-project",
+            "updatedAt": "2024-10-06T14:54:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Gestion-hotelera",
+            "description": null,
+            "score": 0.2970381725432588,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Uppussa/Gestion-hotelera",
+            "updatedAt": "2024-08-26T14:33:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "respuestos",
+            "description": null,
+            "score": 0.2867461010400382,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/respuestos",
+            "updatedAt": "2024-07-29T17:55:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Backend-proFinal",
+            "description": null,
+            "score": 0.28559061529244567,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/Backend-proFinal",
+            "updatedAt": "2024-07-22T14:17:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Frontend-proFinal",
+            "description": null,
+            "score": 0.28559061529244567,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/Frontend-proFinal",
+            "updatedAt": "2024-07-22T14:19:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my-project-exam-grupal",
+            "description": null,
+            "score": 0.28179545142291706,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/my-project-exam-grupal",
+            "updatedAt": "2024-07-12T16:47:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pruebas",
+            "description": null,
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/pruebas",
+            "updatedAt": "2024-07-05T21:31:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Backend-grup",
+            "description": null,
+            "score": 0.2802764876403292,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Uppussa/Backend-grup",
+            "updatedAt": "2024-07-09T19:52:00Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 38,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 50,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# \u00a1Hola, soy Jose Diaz!\n\nSoy Desarrollador Web apasionado por aprender nuevas tecnolog\u00edas y m\u00e9todos,\nEstoy entusiasmado por seguir creciendo en este campo din\u00e1mico y siempre busco oportunidades para mejorar mis habilidades.\nSoy apasionado, emp\u00e1tico, con competencias enfocadas en el trabajo en equipo, comunicaci\u00f3n asertiva, responsable y proactivo.\nMe gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro a conseguir mi primer empleo en el mundo del Desarrollo Web, \nadquirir experiencia y fortalecer mi vida profesional.\n\n## Sobre m\u00ed\n\nComo desarrollador web Junior, tengo experiencia y conocimientos en las siguientes tecnolog\u00edas:\n\n- **JavaScript**\n- **HTML**\n- **CSS**\n- **React**\n- **Node.js**\n- **Tailwind CSS**\n\n## Proyectos destacados\n\nAqu\u00ed algunos de los proyectos en los que he estado trabajando:\n\n- [Proyecto 1](https://poke-pink.vercel.app/)\n- [Proyecto 2](https://page-cali.vercel.app/)\n- [Proyecto 3](https://windbnb-tau-umber.vercel.app/)\n\n\n## Con\u00e9ctate conmigo\n\n- [LinkedIn](https://www.linkedin.com/in/jose-g-diaz-schmucke-bb9141216/)\n\nEstoy siempre abierto a nuevas oportunidades y colaboraciones. \u00a1No dudes en contactarme!\n\n---\n\n**Jose Gregorio Diaz**\n",
+    "profile_summary": null
+}

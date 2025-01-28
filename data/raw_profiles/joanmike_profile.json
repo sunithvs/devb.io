@@ -1,0 +1,85 @@
+{
+    "username": "joanmike",
+    "name": "joanmike",
+    "bio": "",
+    "location": "Per\u00fa",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4213665?u=c22b76e09740d342559a4868cbae76cc7791876c&v=4",
+    "profile_url": "https://github.com/JoanMike",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "challenge-oracle-decoder",
+            "description": null,
+            "score": 1.6793779510923623,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JoanMike/challenge-oracle-decoder",
+            "updatedAt": "2024-11-20T03:42:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "registros_pdf",
+            "description": "Coloca n\u00fameros de registro en la parte superior derecha de la primera hoja de todos los PDF ubicados en una carpeta.",
+            "score": 1.6575701069989448,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JoanMike/registros_pdf",
+            "updatedAt": "2024-11-20T01:48:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyectos_LaunchX",
+            "description": "Pr\u00e1cticas y Proyectos realizados durante LaunchX",
+            "score": 1.6094213286568935,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JoanMike/Proyectos_LaunchX",
+            "updatedAt": "2024-11-20T03:42:59Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "JoanMike",
+            "description": "Github Profile \ud83e\uddd1\ud83c\udffd\u200d\ud83d\udcbb",
+            "score": 1.5964585032625318,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JoanMike/JoanMike",
+            "updatedAt": "2025-01-12T06:22:59Z",
+            "isPinned": false,
+            "homepage": "https://github.com/JoanMike"
+        }
+    ],
+    "followers": 4,
+    "following": 58,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 54,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<div align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/0a498f74-46bd-425a-bc77-3e14ebc9b9c1\" width=\"1000\" alt=\"header image\"/>\n</div>\n\n<h1 align=\"center\">Hi \ud83d\udc4b, I'm joanmike</h1>\n\n<h3 align=\"center\">A passionate developer from Per\u00fa \u2764\ufe0f\ud83e\udd0d\u2764\ufe0f</h3>\n\n<h4 align=\"center\">\ud83c\udf31 I\u2019m currently learning C#, Python without leaving aside the amazing Java.<br><br>\u2764\ufe0f I love discovering new ways to automate my work.<br><br>\ud83d\udcac Ask me about VBA and process automation</h4>\n\n---\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=joanmike&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1\" height=\"150\" alt=\"stats graph\" />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=joanmike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2\" height=\"150\" alt=\"languages graph\" />\n  <img src=\"https://github-profile-trophy.vercel.app?username=joanmike&theme=darkhub&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4\" height=\"150\" alt=\"trophy graph\" />\n  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=joanmike&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false\" height=\"300\" alt=\"activity graph\" />\n</div>\n\n---\n\n<h3 align=\"center\">Languages and Tools:</h3>\n\n<div align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg\" height=\"40\" alt=\"csharp logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"40\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg\" height=\"40\" alt=\"java logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"40\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/javascript/F7DF1E\" height=\"40\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"40\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/react/61DAFB\" height=\"40\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg\" height=\"40\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=github\" height=\"40\" alt=\"github logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/postman/FF6C37\" height=\"40\" alt=\"postman logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg\" height=\"40\" alt=\"windows8 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/apple/000000\" height=\"40\" alt=\"apple logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg\" height=\"40\" alt=\"safari logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg\" height=\"40\" alt=\"linux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg\" height=\"40\" alt=\"visualstudio logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg\" height=\"40\" alt=\"vscode logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg\" height=\"40\" alt=\"selenium logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg\" height=\"40\" alt=\"putty logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg\" height=\"40\" alt=\"pandas logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg\" height=\"40\" alt=\"markdown logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg\" height=\"40\" alt=\"jupyter logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg\" height=\"40\" alt=\"intellij logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg\" height=\"40\" alt=\"codepen logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg\" height=\"40\" alt=\"azure logo\"  />\n</div>\n\n###\n\n<h3 align=\"center\">Connect with me:</h3>\n\n<div align=\"center\">\n  <a href=\"https://www.linkedin.com/in/jose-miguel-maldonado/\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg\" width=\"52\" height=\"40\" alt=\"linkedin logo\" />\n  </a>\n  <a href=\"mailto:balada.raga.01@icloud.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://github.com/user-attachments/assets/56dfb9b7-ca4d-4d22-a1c2-7ffc87a0ee93\" width=\"40\" height=\"40\" alt=\"icloud logo\"  />\n  </a>\n</div>\n\n###\n\n<div align=\"center\">\n<div style=\"display: flex; gap: 10px; align-items: center; justify-content: center; margin: auto; width: 100%;\">\n  <a href=\"https://www.credly.com/badges/1ecbd981-ce5a-4a8f-a6d2-12719d1b95b2/public_url\" target=\"_blank\" rel=\"noopener noreferrer\" rel=\"nofollow\">\n    <img width=\"150\" height=\"150\" src=\"https://github.com/user-attachments/assets/ac38b6b4-732c-4fee-ae5a-a95846d2b83b\" alt=\"Badge 1\" style=\"max-width: 100%;\">\n  </a>\n  <a href=\"https://www.credly.com/badges/1601cc75-e17a-4f0b-8c9d-c9192d718370/public_url\" target=\"_blank\" rel=\"noopener noreferrer\" rel=\"nofollow\">\n    <img width=\"150\" height=\"150\" src=\"https://github.com/user-attachments/assets/fb481e33-9c9b-48e7-be5e-38f9e0fda494\" alt=\"Badge 2\" style=\"max-width: 100%;\">\n  </a>\n  <a href=\"https://www.credly.com/badges/8b6fe839-63d4-4648-be55-6b65f601e5b1/public_url\" target=\"_blank\" rel=\"noopener noreferrer\" rel=\"nofollow\">\n    <img width=\"150\" height=\"150\" src=\"https://github.com/user-attachments/assets/0617391e-ab99-4900-8990-e9c53e291988\" alt=\"Badge 3\" style=\"max-width: 100%;\">\n  </a>\n</div>\n</div>\n\n<br clear=\"both\">\n\n<div align=\"center\">\n  <img height=\"300\" src=\"https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRxOTFxdHZteWdkeHI1cWlwZ2lveHF0MTRyeDB5bmNvMml0OXBjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif\"  />\n</div>\n\n###\n\n<br clear=\"both\">\n\n<!---\nJoanMike/JoanMike is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

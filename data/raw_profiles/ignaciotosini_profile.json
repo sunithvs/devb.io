@@ -1,0 +1,133 @@
+{
+    "username": "ignaciotosini",
+    "name": "Ignacio Tosini",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72680994?u=02019d933dca02ccdea36cea17f72fb883936b20&v=4",
+    "profile_url": "https://github.com/IgnacioTosini",
+    "top_languages": [
+        [
+            "TypeScript",
+            10
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CoderCurso",
+            "description": null,
+            "score": 12.500013208482768,
+            "stars": 1,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/IgnacioTosini/CoderCurso",
+            "updatedAt": "2022-11-15T21:40:40Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "kaluka.ind",
+            "description": null,
+            "score": 11.455067192198094,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/IgnacioTosini/kaluka.ind",
+            "updatedAt": "2022-06-03T18:48:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DriveWay",
+            "description": null,
+            "score": 11.275908299148321,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/IgnacioTosini/DriveWay",
+            "updatedAt": "2024-04-25T15:17:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "my-h-m",
+            "description": null,
+            "score": 10.154283437511394,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/IgnacioTosini/my-h-m",
+            "updatedAt": "2023-05-07T19:19:20Z",
+            "isPinned": true,
+            "homepage": "https://hymreact.vercel.app"
+        },
+        {
+            "name": "ProyectoFinalLab3",
+            "description": null,
+            "score": 1.195843227135166,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/IgnacioTosini/ProyectoFinalLab3",
+            "updatedAt": "2023-06-04T00:20:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "REST_API_NODE_TS_FRONTEND",
+            "description": "Proyecto React Router DOM Tailwindcss React TypeScript",
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/IgnacioTosini/REST_API_NODE_TS_FRONTEND",
+            "updatedAt": "2025-01-20T17:10:11Z",
+            "isPinned": false,
+            "homepage": "https://rest-api-node-ts-frontend.vercel.app"
+        },
+        {
+            "name": "REST_API_NODE_TS_SERVER",
+            "description": "Deployment del proyecto REST API's en Node, Express, Sequelize y TypeScript",
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/IgnacioTosini/REST_API_NODE_TS_SERVER",
+            "updatedAt": "2025-01-20T16:59:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bebidad-react-typescript",
+            "description": null,
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/IgnacioTosini/bebidad-react-typescript",
+            "updatedAt": "2025-01-02T03:50:40Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 22,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 91,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"35\">, I'm Ignacio Tosini</h1>\n\n<p><img align=\"right\" src=\"https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif\" alt=\"adam-pw\" /></p>\n\n<br>\n<br>\n\nI am a passionate developer with expertise in front-end technologies like HTML, CSS, SCSS, and JavaScript. I enjoy creating beautiful and functional websites and applications. My goal is to continually improve my skills and contribute to exciting projects that make an impact.\n\nRecently, I have been focusing on improving my skills in React. React's component-based architecture has allowed me to create reusable and maintainable code, enhancing both development efficiency and application performance.\n\n<br>\nWhat I am Good at \ud83e\uddd1\u200d\ud83d\udcbb :\n\n<br>\n\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)\n\n<img src=\"https://img.icons8.com/color/48/000000/mysql-logo.png\"/> <img src=\"https://img.icons8.com/color/48/000000/npm.png\"/>\n\n<br>\n\n<h3>My GitHub Stats</h3>\n<br>\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=ignaciotosini&show_icons=true&theme=dark&locale=en&layout=compact\" alt=\"Nacho Tosini\" /></p>\n\n<br><br><br><br><br><br><br>\n<p>&nbsp;<img align=\"left\" src=\"https://github-readme-stats.vercel.app/api?username=ignaciotosini&show_icons=true&theme=dark&locale=en\" alt=\"Nacho Tosini\" /></p>\n<br><br><br><br><br><br><br><br><br><br>\n\nConnect with me \u2615 :\n\n<br>\n\n[![@nachotosini](https://img.icons8.com/fluency/48/000000/instagram-new.png \"@nachotosini\")](https://www.instagram.com/nachotosini/) [![@nachotosini](https://img.icons8.com/fluency/48/000000/linkedin.png \"@ignaciotosini\")](https://www.linkedin.com/in/ignacio-tosini/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png \"@02234268951\")](tel:02234268951) [![@ignaciotosini2002@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png \"@ignaciotosini2002@gmail.com\")](ignaciotosini2002@gmail.com)\n\n<br>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

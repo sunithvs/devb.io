@@ -1,0 +1,138 @@
+{
+    "username": "7r0n1x",
+    "name": "7R0N1X",
+    "bio": "Descubriendo el mundo \ud83c\uddea\ud83c\udde8",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92642223?u=3238165b1ed1a118386c66d7ec107b278b85c021&v=4",
+    "profile_url": "https://github.com/7R0N1X",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Astro",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "interrupciones-energia-ecuador",
+            "description": null,
+            "score": 15.196183926433143,
+            "stars": 4,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/7R0N1X/interrupciones-energia-ecuador",
+            "updatedAt": "2025-01-12T18:28:52Z",
+            "isPinned": true,
+            "homepage": "https://interrupciones-energia-ecuador.vercel.app"
+        },
+        {
+            "name": "todo-app",
+            "description": null,
+            "score": 11.671040068902332,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/7R0N1X/todo-app",
+            "updatedAt": "2024-07-28T00:06:37Z",
+            "isPinned": true,
+            "homepage": "https://tronix-todo.vercel.app"
+        },
+        {
+            "name": "valorant-agent-hub",
+            "description": null,
+            "score": 11.666819858574911,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/7R0N1X/valorant-agent-hub",
+            "updatedAt": "2024-09-03T21:29:23Z",
+            "isPinned": true,
+            "homepage": "https://valorant-agent-hub.vercel.app"
+        },
+        {
+            "name": "evolve",
+            "description": null,
+            "score": 11.658158938515943,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/7R0N1X/evolve",
+            "updatedAt": "2024-11-20T22:36:37Z",
+            "isPinned": true,
+            "homepage": "https://tronix-evolve.vercel.app"
+        },
+        {
+            "name": "Reconocimiento-Emociones-Faciales",
+            "description": null,
+            "score": 11.630770628037107,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/7R0N1X/Reconocimiento-Emociones-Faciales",
+            "updatedAt": "2024-03-10T18:23:27Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "twitch-auto-clicker",
+            "description": null,
+            "score": 1.6745338062622224,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/7R0N1X/twitch-auto-clicker",
+            "updatedAt": "2024-09-10T17:18:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "physionic",
+            "description": null,
+            "score": 1.6547628134313512,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/7R0N1X/physionic",
+            "updatedAt": "2024-11-24T23:08:17Z",
+            "isPinned": false,
+            "homepage": "https://physionic-six.vercel.app"
+        },
+        {
+            "name": "7R0N1X",
+            "description": null,
+            "score": 1.6194110221962121,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/7R0N1X/7R0N1X",
+            "updatedAt": "2024-08-31T17:12:32Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 9,
+    "public_repos": 13,
+    "pull_requests_merged": 17,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1565,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/tronix.dev"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

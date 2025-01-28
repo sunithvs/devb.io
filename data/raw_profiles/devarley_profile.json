@@ -1,0 +1,53 @@
+{
+    "username": "devarley",
+    "name": "Arley",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/149825158?u=834cbf371112268a3ee89bba036612319699f801&v=4",
+    "profile_url": "https://github.com/DevArley",
+    "top_languages": [
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "carpeta_proyecto",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/DevArley/carpeta_proyecto",
+            "updatedAt": "2024-10-27T02:49:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SI",
+            "description": "UTS Calidad",
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/DevArley/SI",
+            "updatedAt": "2024-10-28T23:04:36Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

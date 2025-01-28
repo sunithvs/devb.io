@@ -1,0 +1,133 @@
+{
+    "username": "geovannyisma",
+    "name": "Geovanny Romero",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/131926155?v=4",
+    "profile_url": "https://github.com/geovannyIsma",
+    "top_languages": [
+        [
+            "Python",
+            8
+        ],
+        [
+            "Java",
+            6
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PIS",
+            "description": null,
+            "score": 2.4702963453242703,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/geovannyIsma/PIS",
+            "updatedAt": "2024-07-31T09:54:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PozozLuz",
+            "description": "Recorridos de grafos",
+            "score": 1.2926893937456296,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/geovannyIsma/PozozLuz",
+            "updatedAt": "2024-02-20T14:53:46Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "geovannyIsma",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/geovannyIsma/geovannyIsma",
+            "updatedAt": "2025-01-15T16:41:33Z",
+            "isPinned": false,
+            "homepage": "https://github.com/geovannyIsma"
+        },
+        {
+            "name": "Simple-random-walk-bacteria",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/geovannyIsma/Simple-random-walk-bacteria",
+            "updatedAt": "2025-01-27T03:14:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BarajasGame",
+            "description": "Juego de barajas del oraculos",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/geovannyIsma/BarajasGame",
+            "updatedAt": "2025-01-07T13:31:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Clock-Solitaire",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/geovannyIsma/Clock-Solitaire",
+            "updatedAt": "2025-01-11T20:44:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MontyHall",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/geovannyIsma/MontyHall",
+            "updatedAt": "2024-12-13T05:14:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Semaforos",
+            "description": null,
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/geovannyIsma/Semaforos",
+            "updatedAt": "2024-11-21T15:40:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 31,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 152,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

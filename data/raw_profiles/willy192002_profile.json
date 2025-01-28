@@ -1,0 +1,56 @@
+{
+    "username": "willy192002",
+    "name": "willy192002",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/115603358?v=4",
+    "profile_url": "https://github.com/WILLY192002",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "adogcionweb",
+            "description": "Prototipo de aplicaci\u00f3n web como herramienta de apoyo para reconocimiento de albergues de animales",
+            "score": 0.25056577730447027,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WILLY192002/adogcionweb",
+            "updatedAt": "2024-03-03T16:26:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Spotify",
+            "description": "This is a repository for final project to WWW",
+            "score": 0.15669520983879004,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/WILLY192002/Spotify",
+            "updatedAt": "2023-07-09T15:18:23Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,132 @@
+{
+    "username": "dducken",
+    "name": "Alex Cabanillas",
+    "bio": ".Net Full Stack Developer",
+    "location": "C\u00f3rdoba, Argentina ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64493715?u=0fc388e651b03ef4a48d344b7f401cd97670db29&v=4",
+    "profile_url": "https://github.com/dducken",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "C#",
+            2
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "challenge-alkemy-disney-csharp",
+            "description": "Challenge de Alkemy sobre personajes de Disney. ",
+            "score": 13.653771230563974,
+            "stars": 5,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/dducken/challenge-alkemy-disney-csharp",
+            "updatedAt": "2022-09-02T15:04:35Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "PhotoGallery--App",
+            "description": "Galer\u00eda de fotos usando una API de Pexels. #HTML #CSS #JS",
+            "score": 12.267018508256001,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/dducken/PhotoGallery--App",
+            "updatedAt": "2021-10-01T20:07:48Z",
+            "isPinned": true,
+            "homepage": "https://duceki.netlify.app"
+        },
+        {
+            "name": "Todo-App-JavaScript",
+            "description": "Lista de tareas usando local storage. #HTML #CSS #JS",
+            "score": 12.266466056749923,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/dducken/Todo-App-JavaScript",
+            "updatedAt": "2021-10-01T20:07:51Z",
+            "isPinned": true,
+            "homepage": "https://milista.netlify.app"
+        },
+        {
+            "name": "app-convertidor",
+            "description": "Convertidor de moneda made with Angular",
+            "score": 10.070430453741375,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dducken/app-convertidor",
+            "updatedAt": "2021-10-05T22:36:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "dducken",
+            "description": "Readme",
+            "score": 2.4963236671643227,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/dducken/dducken",
+            "updatedAt": "2021-10-25T13:00:43Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "EasyShoot_GameMaker",
+            "description": "Tutorial --Como disparar 2D Game Maker Studio",
+            "score": 1.5874779459445216,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/dducken/EasyShoot_GameMaker",
+            "updatedAt": "2024-12-31T16:53:47Z",
+            "isPinned": false,
+            "homepage": "https://www.youtube.com/watch?v=PXfp2sJcRTs"
+        },
+        {
+            "name": "WorldGen-Game-Maker-Studio",
+            "description": "Tutorial --RandomWorldGen Minecraft/Terraria 2D Game Maker Studio",
+            "score": 1.5873690445449693,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/dducken/WorldGen-Game-Maker-Studio",
+            "updatedAt": "2024-12-31T16:53:43Z",
+            "isPinned": false,
+            "homepage": "https://www.youtube.com/watch?v=SPpm3su3qdk"
+        },
+        {
+            "name": "app-bmi-calculator",
+            "description": "Calculador de \u00edndice de masa corporal made with Angular",
+            "score": 1.4567412168617415,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/dducken/app-bmi-calculator",
+            "updatedAt": "2021-10-18T12:23:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 3,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 35,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "\n <a href=\"https://www.linkedin.com/in/alex-cabanillas\" target=\"_blank\"><img src=\"https://img.shields.io/badge/-LinkedIn-FFB71B?style=social&logo=linkedin&logoColor=black\"></a>\n <a href = \"mailto:cabanillasalex01@gmail.com\"><img src=\"https://img.shields.io/badge/-Gmail-%23333?style=social&logo=gmail&logoColor=black\"></a>\n \n\n \n## \ud83d\udc4b hello-world \n##  My name is Alex, but you could call me Duck - i'm Software Developer \ud83d\ude80\n<div align=\"center\">\n<img style=\"height: 140px\" src=\"https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite\" />\n<img style=\"height: 140px;\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite\" />\n</div>\n<div>\n <p><img src=\"https://komarev.com/ghpvc/?username=dducken&color=lightgrey&style=flat-square\" alt=\"Profile views\" /> </p>\n </div>\n\n### \ud83d\udc7d Stack\n[![C Sharp](https://img.shields.io/badge/C_Sharp-FFF?style=flat-square&logo=csharp&logoColor=white&labelColor=101010)]()\n[![.NET CORE](https://img.shields.io/badge/.NET_Core-FFF?style=flat-square&logo=dotnet&logoColor=white&labelColor=101010)]()\n[![.NET FRAMEWORK](https://img.shields.io/badge/.NET_Framework-FFF?style=flat-square&logo=dotnet&logoColor=white&labelColor=101010)]()\n[![EF](https://img.shields.io/badge/Entity_Framework-FFF?style=flat-square&logo=dotnet&logoColor=white&labelColor=101010)]()\n[![SQL](https://img.shields.io/badge/SQL_Server-FFF?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()\n[![POSGRE](https://img.shields.io/badge/Postgre_SQL-FFF?style=flat-square&logo=postgresql&logoColor=white&labelColor=101010)]()\n[![API](https://img.shields.io/badge/API_Rest-FFF?style=flat-square&logo=a-frame&logoColor=white&labelColor=101010)]()\n\n[![HTML5](https://img.shields.io/badge/HTML_5-FFF?style=flat-square&logo=html5&logoColor=white&labelColor=101010)]()\n[![CSS3](https://img.shields.io/badge/CSS-FFF?style=flat-square&logo=css3&logoColor=white&labelColor=101010)]()\n[![JS](https://img.shields.io/badge/Javascript-FFF?style=flat-square&logo=javascript&logoColor=white&labelColor=101010)]()\n[![Bootstrap](https://img.shields.io/badge/Bootstrap-FFF?style=flat-square&logo=bootstrap&logoColor=white&labelColor=101010)]()\n[![Jquery](https://img.shields.io/badge/Jquery-FFF?style=flat-square&logo=Jquery&logoColor=white&labelColor=101010)]()\n[![Ajax](https://img.shields.io/badge/Ajax-FFF?style=flat-square&logo=alacritty&logoColor=white&labelColor=101010)]()\n\n\n### \ud83c\udf1f I\u2019m currently learning \n[![React](https://img.shields.io/badge/React-FFF?style=flat-square&logo=react&logoColor=white&labelColor=101010)]()\n[![Blazor](https://img.shields.io/badge/Blazor-FFF?style=flat-square&logo=blazor&logoColor=white&labelColor=101010)]()\n\n### \u26a1 Loving \n* #### **`\ud83d\udcaa Workout`** \n* * #### **`\u270c Watch anime `**\n* * #### **`\ud83c\udfae Play videogames `**\n* #### **`\ud83d\udca5 Blow my mind learning`**\n\n\n\n<!--\n**dducken/dducken** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n-->\n",
+    "profile_summary": null
+}

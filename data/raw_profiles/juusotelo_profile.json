@@ -1,0 +1,36 @@
+{
+    "username": "juusotelo",
+    "name": "\ud835\udc71\ud835\udc96\ud835\udc8d\ud835\udc8a\ud835\udc86\ud835\udc95\ud835\udc82 \ud835\udc7a\ud835\udc90\ud835\udc95\ud835\udc86\ud835\udc8d\ud835\udc90",
+    "bio": "Estudiante de Desarrollo de Software",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/180906307?u=29cab23f622729405952ba7ec1ac115eccedb9a7&v=4",
+    "profile_url": "https://github.com/JuuSotelo",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "git",
+            "description": "Pruebas de git",
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JuuSotelo/git",
+            "updatedAt": "2024-11-03T22:09:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

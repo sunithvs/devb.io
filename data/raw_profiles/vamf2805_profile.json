@@ -1,0 +1,142 @@
+{
+    "username": "vamf2805",
+    "name": "V\u00edctor M\u00e1rquez",
+    "bio": "Developer web \ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb\ud83c\udf10",
+    "location": "United State",
+    "avatar_url": "https://avatars.githubusercontent.com/u/20447406?u=f0e1324f71028b2f38eb6c59ae265b3dd838f68a&v=4",
+    "profile_url": "https://github.com/vamf2805",
+    "top_languages": [
+        [
+            "JavaScript",
+            16
+        ],
+        [
+            "PHP",
+            3
+        ],
+        [
+            "SCSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "graphql-pokemon",
+            "description": null,
+            "score": 11.417526743967468,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/graphql-pokemon",
+            "updatedAt": "2024-12-07T17:45:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "crud-tasks",
+            "description": "Web application made with Nextjs and MongoDB",
+            "score": 10.381502167216063,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/crud-tasks",
+            "updatedAt": "2024-12-10T16:51:10Z",
+            "isPinned": true,
+            "homepage": "https://crud-tasks-peach.vercel.app"
+        },
+        {
+            "name": "app-clima-react",
+            "description": null,
+            "score": 10.379627303915976,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/app-clima-react",
+            "updatedAt": "2024-12-09T00:47:46Z",
+            "isPinned": true,
+            "homepage": "https://app-clima-react-black.vercel.app"
+        },
+        {
+            "name": "cotizador-criptomonedas",
+            "description": null,
+            "score": 10.21364222499394,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/cotizador-criptomonedas",
+            "updatedAt": "2024-11-08T14:16:39Z",
+            "isPinned": true,
+            "homepage": "cotizador-criptomonedas-navy.vercel.app"
+        },
+        {
+            "name": "matrix",
+            "description": "Proyecto de Javascript, creacion de una matriz",
+            "score": 1.4551532649091155,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/matrix",
+            "updatedAt": "2021-03-11T12:49:47Z",
+            "isPinned": false,
+            "homepage": "https://vamf2805.github.io/matrix/"
+        },
+        {
+            "name": "restapi-tasks",
+            "description": "Web application made with Express and MySQL",
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/restapi-tasks",
+            "updatedAt": "2025-01-19T01:47:03Z",
+            "isPinned": false,
+            "homepage": "https://restapi-tasks.vercel.app"
+        },
+        {
+            "name": "cms-ecommerce",
+            "description": "Web application made with CMS Strapi",
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/vamf2805/cms-ecommerce",
+            "updatedAt": "2024-12-18T16:06:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vamf2805",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/vamf2805/vamf2805",
+            "updatedAt": "2025-01-11T14:06:57Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 6,
+    "public_repos": 28,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 37,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/vamf2805/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/victoramf28/"
+        }
+    ],
+    "readme_content": "# \ud83d\udc4b \u00a1Hola, soy V\u00edctor M\u00e1rquez!\nDesarrollador web apasionado por crear soluciones innovadoras y aprender tecnolog\u00edas emergentes. \ud83d\ude80\nEn mi experiencia como desarrollador web he utilizado tecnolog\u00edas de dise\u00f1o de bases de datos (MySQL, PostgreSQL, MongoDB), desarrollo backend (PHP, NodeJs), desarrollo y dise\u00f1o front-end (Javascript, React, Bootstrap, tailwindcss).\n\n## \ud83d\udee0\ufe0f Tecnolog\u00edas\n\n- **Frontend:**\n- \n  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)  \n  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white&style=flat-square)  \n  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  \n  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)\n\n- **Backend:**  \n  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)  \n  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  \n\n- **Bases de Datos:**  \n  ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=flat-square)  \n  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)\n\n## \ud83c\udf1f Proyectos destacados\n- [crud-tasks](https://github.com/vamf2805/crud-tasks): App web para crear tareas.  \n- [app-clima-react]([https://github.com/vamf2805/matrix](https://github.com/vamf2805/app-clima-react)): App web para consultar el clima.\n\n- ## \ud83c\udf10 Con\u00e9ctate conmigo\n- [LinkedIn](https://linkedin.com/in/vamf2805)\n- [Instagram](https://instagram.com/victoramf28)\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

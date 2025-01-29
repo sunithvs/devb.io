@@ -1,0 +1,128 @@
+{
+    "username": "maririonda",
+    "name": "Mariana Roc\u00edo Rionda",
+    "bio": "Full Stack web developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/97262059?u=d756d2dc6e4a543ba7a461a18702bd6ab4d14463&v=4",
+    "profile_url": "https://github.com/MariRionda",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "drfullcode",
+            "description": null,
+            "score": 0.1540660289541429,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MariRionda/drfullcode",
+            "updatedAt": "2023-04-11T20:52:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "xv-invitation-backend",
+            "description": null,
+            "score": 0.15388682377858431,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MariRionda/xv-invitation-backend",
+            "updatedAt": "2023-04-07T19:01:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "xv-invitation-front",
+            "description": null,
+            "score": 0.1538156351548753,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/xv-invitation-front",
+            "updatedAt": "2023-04-05T01:54:13Z",
+            "isPinned": false,
+            "homepage": "https://xv-invitation-front.vercel.app"
+        },
+        {
+            "name": "xv-invitation",
+            "description": null,
+            "score": 0.15370937472835366,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/xv-invitation",
+            "updatedAt": "2023-04-04T05:57:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ExtremeGymFront",
+            "description": null,
+            "score": 0.15315298723678528,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/ExtremeGymFront",
+            "updatedAt": "2023-03-16T23:12:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GestionCarnesBack",
+            "description": null,
+            "score": 0.15176979184844952,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/GestionCarnesBack",
+            "updatedAt": "2023-02-02T20:47:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ChallangePF",
+            "description": null,
+            "score": 0.07572788248551526,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/ChallangePF",
+            "updatedAt": "2023-01-24T18:12:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GestionCarnesFront",
+            "description": null,
+            "score": 0.07563500070458122,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MariRionda/GestionCarnesFront",
+            "updatedAt": "2023-01-28T00:27:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 12,
+    "public_repos": 22,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1305,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<h2> \u00a1Bienvenido!, soy Mariana Rionda <img src=\"https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s\" width=\"60\"></h2>\n<img align='right' src=\"https://res.cloudinary.com/dk2al2urj/image/upload/v1661371056/MyPortfolio/Mari_actitud_chica_jsztp6.png\" width=\"100\"\n \n<div>\n<p><em>Full Stack Web Developer</br> \n</em></p>\n\n<div/>\n\n\nSobre mi...  \n\n  Ingrese al mundo de la programacion porque me apacionan los desafios. Soy responsable y buena trabajando en equipo. Me interesa seguir capacitandome en nuevas tecnologias y explotar mi potencial al maximo.\n  \n  Tengo conocimientos y experiencias previas en Dise\u00f1o Gr\u00e1fico. Ademas, complete hasta tercer a\u00f1o de la Carrera de Ingenier\u00eda Civil en la Universidad Nacional de Salta.\n\n<p style=color:red> Tecnologias: <p/>\n\n  \n  <img src=\"https://res.cloudinary.com/dk2al2urj/image/upload/v1661372047/MyPortfolio/technologies_w4lgol.png\" width=\"1000\">\n \n---------------\n\n\n\n------------------------------------------\n<h3> \ud83e\udd1d\ud83c\udffb Cont\u00e1ctame: </h3>\n<p align=\"center\">\n\n<a href=\"https://shivammalpani.netlify.app/\"></a>\n\n<a href=\"www.linkedin.com/in/MarianaRocioRionda\" aling=\"center\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png\" width=\"60\"></a>\n\n<a href=\"mailto:maririonda@gmail.com\" ><img src=\"https://cdn-icons-png.flaticon.com/512/281/281769.png\" width=\"30\"></a>\n</p>\n\n\n<hr>\n\n\n\u2b50\ufe0f[@maririonda](https://github.com/MariRionda)\n",
+    "profile_summary": null
+}

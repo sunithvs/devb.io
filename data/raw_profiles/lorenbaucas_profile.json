@@ -1,0 +1,138 @@
+{
+    "username": "lorenbaucas",
+    "name": "Lorenzo Bautista Castellano",
+    "bio": "",
+    "location": "Granada",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33525671?u=19fe4db5552e05371e516a8fcb34f87ea6bebd74&v=4",
+    "profile_url": "https://github.com/lorenbaucas",
+    "top_languages": [
+        [
+            "Python",
+            9
+        ],
+        [
+            "Kotlin",
+            5
+        ],
+        [
+            "Java",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Facebed",
+            "description": "Facebed facilita la gesti\u00f3n de reservas de hoteles y habitaciones tanto para empresas hoteleras como para usuarios particulares.",
+            "score": 10.264879122017817,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/lorenbaucas/Facebed",
+            "updatedAt": "2024-06-20T20:14:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "NotebookTutorial",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/lorenbaucas/NotebookTutorial",
+            "updatedAt": "2024-09-30T17:55:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ReservasAyala",
+            "description": "Reservas Ayala es una aplicaci\u00f3n m\u00f3vil dise\u00f1ada para gestionar reservas en bibliotecas y salones de actos. Permite a los usuarios iniciar sesi\u00f3n con email o Google, hacer y modificar reservas, y personalizar su perfil de usuario. Incluye funciones para seleccionar fechas y horarios, cambiar turnos, y ver el historial de reservas.",
+            "score": 0.2743203185926573,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/lorenbaucas/ReservasAyala",
+            "updatedAt": "2024-06-07T16:56:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "LorenzoPracticaR01",
+            "description": null,
+            "score": 0.2286719488402837,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenbaucas/LorenzoPracticaR01",
+            "updatedAt": "2024-05-08T00:35:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LorenzoPracticaR02",
+            "description": null,
+            "score": 0.2286719488402837,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenbaucas/LorenzoPracticaR02",
+            "updatedAt": "2024-05-08T00:36:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Snake_libgdx",
+            "description": null,
+            "score": 0.21853772820297446,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenbaucas/Snake_libgdx",
+            "updatedAt": "2024-05-08T00:36:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "disney",
+            "description": null,
+            "score": 0.21299901244808922,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenbaucas/disney",
+            "updatedAt": "2024-05-08T00:35:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AD_2022_23_Practica_01_Explorador_Lorenzo_Bautista",
+            "description": null,
+            "score": 0.07407482915679357,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/lorenbaucas/AD_2022_23_Practica_01_Explorador_Lorenzo_Bautista",
+            "updatedAt": "2022-09-28T11:44:26Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 4,
+    "public_repos": 27,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 242,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://discord.com/users/364856240561717259"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

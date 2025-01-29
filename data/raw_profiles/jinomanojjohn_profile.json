@@ -1,0 +1,141 @@
+{
+    "username": "jinomanojjohn",
+    "name": "Jino Manoj John",
+    "bio": "Full Stack Developer | UI Designer",
+    "location": "Hyderabad, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98971854?u=d56f1c6514239adde097f9d94c8779bc47097a76&v=4",
+    "profile_url": "https://github.com/jinomanojjohn",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "alameen_voyage",
+            "description": null,
+            "score": 10.154726201801415,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/jinomanojjohn/alameen_voyage",
+            "updatedAt": "2023-04-29T16:38:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "digifygarden",
+            "description": null,
+            "score": 10.154688891700838,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/jinomanojjohn/digifygarden",
+            "updatedAt": "2023-04-29T15:47:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "garage_management_system",
+            "description": null,
+            "score": 10.154688891700838,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jinomanojjohn/garage_management_system",
+            "updatedAt": "2023-04-29T14:37:22Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "my-wave-portal",
+            "description": "DApp using Etherum, Solidity and NodeJS. Created using blockchain",
+            "score": 10.151865099501306,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/jinomanojjohn/my-wave-portal",
+            "updatedAt": "2023-02-06T10:41:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "To_Do_App",
+            "description": "To Do Application using Flutter",
+            "score": 10.075155613123844,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/jinomanojjohn/To_Do_App",
+            "updatedAt": "2022-12-17T05:40:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "JinoToDo",
+            "description": "To Do Application Created using Flutter",
+            "score": 1.6148677369207523,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/jinomanojjohn/JinoToDo",
+            "updatedAt": "2025-01-24T09:03:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jinomanojjohn",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.21721019271646896,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jinomanojjohn/jinomanojjohn",
+            "updatedAt": "2024-09-05T19:11:48Z",
+            "isPinned": false,
+            "homepage": "https://github.com/jinomanojjohn"
+        },
+        {
+            "name": "EditInOne",
+            "description": null,
+            "score": 0.16864574860380777,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jinomanojjohn/EditInOne",
+            "updatedAt": "2024-01-20T05:30:16Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 7,
+    "public_repos": 26,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/jino.m.john"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jinomanojjohn"
+        }
+    ],
+    "readme_content": "Hi \ud83d\udc4b My name is Jino John\n==========================\n\nUI Designer & Web Developer\n---------------------------\n\nI'm a self-taught developer with 5+ years of experience in coding. I started my journey with C++ and gradually became acquainted with Python, C, Git, and JavaScript. I enjoy designing, with a focus on UI, and I'm proficient in creating wireframes and prototypes for Android applications and websites.\n\n* \ud83c\udf0d\u00a0 I'm based in Hyderabad, India\n* \u2709\ufe0f\u00a0 You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)\n* \ud83e\udde0\u00a0 I'm learning Flutter and Python Flask\n* \ud83e\udd1d\u00a0 I'm open to collaborating on Front-End Designing\n\n\n### Live Projects\n\nHere are some of my live projects:-\n* [DigifyGarden](https://www.digifygarden.com/)\n* [Al-Ameen Voyage](https://www.alameenvoyage.com/)\n* [AIS Space](https://www.aisspace.com/)\n* [Olickal Battery Shop (OBS)](https://www.olickalbattery.shop/)\n* [Smart X3 Solutions](https://www.smartx3solutions.com/)\n\n### Skills\n\n<p align=\"left\">\n<a href=\"https://docs.microsoft.com/en-us/cpp/?view=msvc-170\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg\" width=\"36\" height=\"36\" alt=\"C\" /></a>\n<a href=\"https://docs.microsoft.com/en-us/cpp/?view=msvc-170\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg\" width=\"36\" height=\"36\" alt=\"C++\" /></a>\n<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg\" width=\"36\" height=\"36\" alt=\"Javascript\" /></a>\n<a href=\"https://www.python.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg\" width=\"36\" height=\"36\" alt=\"Python\" /></a>\n<a href=\"https://developer.mozilla.org/en-US/docs/Glossary/HTML5\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg\" width=\"36\" height=\"36\" alt=\"HTML5\" /></a>\n<a href=\"https://www.w3.org/TR/CSS/#css\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg\" width=\"36\" height=\"36\" alt=\"CSS3\" /></a>\n<a href=\"https://getbootstrap.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg\" width=\"36\" height=\"36\" alt=\"Bootstrap\" /></a>\n<a href=\"https://mui.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg\" width=\"36\" height=\"36\" alt=\"Material UI\" /></a>\n<a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg\" width=\"36\" height=\"36\" alt=\"MySQL\" /></a>\n<a href=\"https://flutter.dev/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg\" width=\"36\" height=\"36\" alt=\"Flutter\" /></a>\n<a href=\"https://www.adobe.com/uk/products/xd.html\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg\" width=\"36\" height=\"36\" alt=\"XD\" /></a>\n<a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg\" width=\"36\" height=\"36\" alt=\"Figma\" /></a>\n</p>\n\n\n### Socials\n\n<p align=\"left\"> <a href=\"https://www.codepen.io/jinomanojjohn\" target=\"_blank\" rel=\"noreferrer\">\n  <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://www.dev.to/jinomanojjohn\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://discord.com/users/VisonDelta#5046\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://www.github.com/jinomanojjohn\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"http://www.instagram.com/the.jino\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://www.linkedin.com/in/jino-john-433aa9201\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://www.stackoverflow.com/users/19068455/jino-john\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg\" width=\"32\" height=\"32\" /></a> \n  <a href=\"https://www.twitter.com/_VisionDelta\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg\" width=\"32\" height=\"32\" /></a>\n</p>\n\n### Badges\n\n<b>My GitHub Stats</b>\n\n<a href=\"http://www.github.com/jinomanojjohn\"><img src=\"https://github-readme-stats.vercel.app/api?username=jinomanojjohn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true\" alt=\"jinomanojjohn's GitHub stats\" /></a>\n\n<a href=\"http://www.github.com/jinomanojjohn\"><img src=\"https://github-readme-streak-stats.herokuapp.com/?user=jinomanojjohn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true\" /></a>\n\n<a href=\"https://github.com/jinomanojjohn\" align=\"left\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=jinomanojjohn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages\" alt=\"Top Languages\" /></a>\n\n### Support Me\n\n<a href=\"https://www.buymeacoffee.com/jino\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" width=\"200\" /></a>\n",
+    "profile_summary": null
+}

@@ -1,0 +1,80 @@
+{
+    "username": "alejandragm09",
+    "name": "Ale",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/161052900?v=4",
+    "profile_url": "https://github.com/alejandragm09",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Libreria_FDPM_POO_2024",
+            "description": null,
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/alejandragm09/Libreria_FDPM_POO_2024",
+            "updatedAt": "2024-11-15T23:44:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ParcialAle",
+            "description": null,
+            "score": 0.31670970216809197,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/alejandragm09/ParcialAle",
+            "updatedAt": "2024-10-09T03:34:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HTML_2",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/alejandragm09/HTML_2",
+            "updatedAt": "2024-10-02T14:55:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SistemaWeb_2024",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/alejandragm09/SistemaWeb_2024",
+            "updatedAt": "2024-10-02T00:13:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm Ale, a passionate JavaScript developer with expertise in crafting seamless user experiences through HTML-driven front-end solutions. With a strong foundation in JavaScript, I've successfully built and maintained six high-quality public repositories, consistently pushing the boundaries of digital innovation."
+}

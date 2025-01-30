@@ -50,7 +50,7 @@ class AIDescriptionGenerator:
                     "content": prompt
                 }
             ],
-            model="llama-3.1-70b-versatile"
+            model="llama-3.1-8b-instant"
         )
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
@@ -119,8 +119,8 @@ class AIDescriptionGenerator:
                             "content": construct_prompt(contributions)
                         }
                     ],
-                    model="llama-3.1-70b-versatile",
-                    response_format={"type": "json_object"}
+                    model="llama-3.1-8b-instant",
+                response_format={"type": "json_object"}
                 )
 
                 # Extract response content

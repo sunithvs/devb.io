@@ -1,0 +1,70 @@
+{
+    "username": "estebanvaldez19",
+    "name": "Daniel Esteban Valdez",
+    "bio": "Apasionado por el Desarrollo de Aplicaciones",
+    "location": "Ecuador Quito, Cumbay\u00e1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/195298938?u=027599ea729208247407df2729d2cc3bb0437918&v=4",
+    "profile_url": "https://github.com/EstebanValdez19",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "portafolioweb",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EstebanValdez19/portafolioweb",
+            "updatedAt": "2025-01-29T20:47:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "python",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EstebanValdez19/python",
+            "updatedAt": "2025-01-29T21:19:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "web",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/EstebanValdez19/web",
+            "updatedAt": "2025-01-20T10:27:32Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/daniel-valdez1997"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "EstebanValdez19/portafolioweb": {
+            "link": "https://github.com/EstebanValdez19/portafolioweb",
+            "summary": "A recent update was made to this repository on January 29, 2025, where files were uploaded via GitHub's upload feature."
+        }
+    },
+    "profile_summary": "As a skilled software developer with a passion for creating innovative applications, my expertise lies in delivering high-quality solutions using languages such as Python and other technologies I've utilized in my open-source projects. Through my active development on GitHub, where I've developed and shared three projects, I've honed my skills in problem-solving, collaboration, and adaptability. Outside of coding, I'm a Spanish-speaking developer with a strong affinity for Latin American tech communities, where my contributions aim to promote knowledge sharing and growth. My work is centered around crafting clean, efficient code that drives meaningful results."
+}

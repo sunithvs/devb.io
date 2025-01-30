@@ -1,0 +1,137 @@
+{
+    "username": "matireyna",
+    "name": "matireyna",
+    "bio": "",
+    "location": "C\u00f3rdoba, Argentina.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139568159?u=6981c06477e2ee63395983724f2ee25a2e6aef5a&v=4",
+    "profile_url": "https://github.com/MatiReyna",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "JavaScript",
+            5
+        ],
+        [
+            "Vue",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "NEXACLIENT",
+            "description": null,
+            "score": 10.266713252288023,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/MatiReyna/NEXACLIENT",
+            "updatedAt": "2024-06-11T14:57:30Z",
+            "isPinned": true,
+            "homepage": "https://nexaclient.vercel.app"
+        },
+        {
+            "name": "NEXASERVER",
+            "description": null,
+            "score": 10.265534933734848,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MatiReyna/NEXASERVER",
+            "updatedAt": "2024-05-22T16:15:41Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RICKANDMORTY",
+            "description": "PROYECTO INTEGRADOR DEL BOOTCAMP DE HENRY",
+            "score": 10.255078919456603,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatiReyna/RICKANDMORTY",
+            "updatedAt": "2024-12-06T22:04:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "NEUTRASERVER",
+            "description": "SERVIDOR DE BY NEUTRA",
+            "score": 0.3086538893258005,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MatiReyna/NEUTRASERVER",
+            "updatedAt": "2024-10-05T00:06:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DOGCLIENT",
+            "description": "PROYECTO INDIVIDUAL - CLIENT DE PAGINA DE PERROS",
+            "score": 0.2769520298016413,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatiReyna/DOGCLIENT",
+            "updatedAt": "2024-09-06T23:12:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DOGSERVER",
+            "description": "PROYECTO INDIVIDUAL - SERVER DE PAGINA DE PERROS",
+            "score": 0.2765002433508858,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatiReyna/DOGSERVER",
+            "updatedAt": "2024-09-03T01:07:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CLIENTCHULAS",
+            "description": "ESTE VA A SER EL CLIENT DEL PROYECTO DE GESTION DE TURNOS.",
+            "score": 0.26376059434261573,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatiReyna/CLIENTCHULAS",
+            "updatedAt": "2024-05-15T15:35:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SERVERCHULAS",
+            "description": "ESTE VA A SER EL SERVER DEL PROYECTO DE GESTION DE TURNOS.",
+            "score": 0.26018218186651837,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatiReyna/SERVERCHULAS",
+            "updatedAt": "2024-05-16T21:38:01Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 2,
+    "public_repos": 11,
+    "pull_requests_merged": 16,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 350,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/matiasreyna/"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\ud83c\udffc\n\nI'm Mat\u00edas, a Full Stack Developer currently living in C\u00f3rdoba, Argentina \ud83c\udde6\ud83c\uddf7.\n\n- \ud83d\udd2d I\u2019m currently looking for a job\n- \ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb Main tech skills -> JavaScript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize\n- \ud83d\udceb How to reach me -> matiireyna@hotmail.com\n\n\u00a1Thanks for visiting my profile!\n\n> [!NOTE]\n> Actualmente en busca de un trabajo.\n\n> [!TIP]\n> Insistir siempre.\n\n> [!IMPORTANT]\n> Soy Junior, pero si me das la oportunidad no te vas a arrepentir.\n\n> [!WARNING]\n> Si me propongo algo no paro hasta conseguirlo.\n\n> [!CAUTION]\n> Te lo avise \ud83e\udd18\ud83c\udffc\n",
+    "profile_summary": "I'm Mat\u00edas, a versatile Full Stack Developer proficient in modern web development technologies. With expertise in TypeScript and JavaScript, I've successfully implemented UI/UX solutions using Vue, consistently pushing the boundaries of web applications. As an active contributor with 11 public repositories and a growing network of 3 followers, I bring a unique combination of coding skills and passion to drive innovative projects."
+}

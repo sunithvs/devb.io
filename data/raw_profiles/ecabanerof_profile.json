@@ -1,0 +1,73 @@
+{
+    "username": "ecabanerof",
+    "name": "Emilio Caba\u00f1ero",
+    "bio": "AI Researcher & Software Developer | Specializing in Alzheimer's Prediction with Neural Networks | Contributor to the TADPOLE Challenge & other AI projects.",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48460906?u=b28b63357a5c7b9dcf58a55afafb3537d53619c3&v=4",
+    "profile_url": "https://github.com/ecabanerof",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "Astro",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Standalone_Nguyen2020_Tadpole2021",
+            "description": "Modified and optimized neural network to enable the development and update of the TADPOLE Challenge database, incorporating new data and retrained, modified Nguyen Neural Network",
+            "score": 1.6053362484807023,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ecabanerof/Standalone_Nguyen2020_Tadpole2021",
+            "updatedAt": "2024-09-13T11:14:59Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TadpoleChallengeAdapt",
+            "description": "This repository provides a solution for errors encountered while using the MATLAB files, which are commonly used in conjunction with the TADPOLE Challenge datasets. If you experienced code issues in MATLAB when working with these files, this repository offers a fix.",
+            "score": 0.20873502346119496,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ecabanerof/TadpoleChallengeAdapt",
+            "updatedAt": "2024-09-13T11:30:27Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "curriculum",
+            "description": null,
+            "score": 0.16790250269876933,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/ecabanerof/curriculum",
+            "updatedAt": "2024-01-10T17:26:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ecabanerof"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "I'm Emilio Caba\u00f1ero, a seasoned AI researcher and software developer with expertise in Python and Astro, leveraging neural networks to drive innovative solutions. I'm dedicated to developing cutting-edge tools for Alzheimer's prediction and contribute to the scientific community through projects like the TADPOLE Challenge. With a strong focus on collaborative development and continuous improvement, I continually push the boundaries of AI-driven research."
+}

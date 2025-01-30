@@ -1,0 +1,138 @@
+{
+    "username": "irisxvii",
+    "name": "iris mariah kurien",
+    "bio": "second year CSE student at LBSITW",
+    "location": "trivandrum",
+    "avatar_url": "https://avatars.githubusercontent.com/u/140954119?u=638fa2d40c2b61b9c0886aeb19d18c057eaf1cec&v=4",
+    "profile_url": "https://github.com/irisxvii",
+    "top_languages": [
+        [
+            "Python",
+            9
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            10
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "eye.balls",
+            "description": "this was fun",
+            "score": 10.333347432423716,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/irisxvii/eye.balls",
+            "updatedAt": "2024-11-30T17:14:39Z",
+            "isPinned": true,
+            "homepage": "https://eyes-balle.onrender.com/"
+        },
+        {
+            "name": "sinc.synk.sink.sync",
+            "description": "saturday-hack-night (next.js)",
+            "score": 2.740435412920637,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/sinc.synk.sink.sync",
+            "updatedAt": "2025-01-16T14:13:36Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "automate-mlh-checkin",
+            "description": "lmaoo i ended up waking every 2hrs in the middle of the night to check in",
+            "score": 1.9273050014532518,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/irisxvii/automate-mlh-checkin",
+            "updatedAt": "2025-01-16T14:08:20Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "kepler",
+            "description": null,
+            "score": 1.8414139744333093,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/kepler",
+            "updatedAt": "2025-01-16T14:08:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "next",
+            "description": "experimenting",
+            "score": 1.6996108284039342,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/next",
+            "updatedAt": "2025-01-16T14:13:35Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "react-todo",
+            "description": null,
+            "score": 1.6920876281134916,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/react-todo",
+            "updatedAt": "2025-01-16T14:13:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "object-detection-i-guess",
+            "description": "saturday-hack-night (keras-cv)",
+            "score": 1.6426081173824396,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/irisxvii/object-detection-i-guess",
+            "updatedAt": "2025-01-16T14:13:32Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "makea-ton-SBL-Maps",
+            "description": "make-a-ton 7.0 plss\ud83d\ude2d\ud83d\ude2d twas bad.",
+            "score": 1.3633642899775853,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/irisxvii/makea-ton-SBL-Maps",
+            "updatedAt": "2024-11-16T05:10:21Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 30,
+    "following": 50,
+    "public_repos": 43,
+    "pull_requests_merged": 10,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 461,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/iris-kurien"
+        }
+    ],
+    "readme_content": "<!--- <p align=\"left\"> <a href=\"https://github.com/ryo-ma/github-profile-trophy\"><img src=\"https://github-profile-trophy.vercel.app/?username=irisxvii&theme=kimbie_dark&no-frame=true\" alt=\"irisxvii\" /></a> </p> !--->\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=irisxvii&label=Profile%20views&color=0e75b6&style=flat\" alt=\"irisxvii\" /> </p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

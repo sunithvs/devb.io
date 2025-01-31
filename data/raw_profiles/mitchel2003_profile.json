@@ -1,0 +1,150 @@
+{
+    "username": "mitchel2003",
+    "name": "Michael Antony",
+    "bio": "Fullstack. \r\n\r\nHi, i'm Michael and my greatest ability is my mentality",
+    "location": "Oca\u00f1a - Norte de Santander",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146449026?u=c7ec11c8f796e4009e6634bbfe91193342455748&v=4",
+    "profile_url": "https://github.com/Mitchel2003",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Java",
+            3
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Gestion_salud",
+            "description": "App web for the control, management and data support of biomedical equipment for periodic audits",
+            "score": 2.4499670779703697,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Mitchel2003/Gestion_salud",
+            "updatedAt": "2024-09-04T20:02:53Z",
+            "isPinned": false,
+            "homepage": "https://mitchel2003.github.io/Gestion_salud/"
+        },
+        {
+            "name": "Mitchel2003",
+            "description": null,
+            "score": 1.76410033424744,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mitchel2003/Mitchel2003",
+            "updatedAt": "2025-01-25T23:34:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "e-commerce",
+            "description": null,
+            "score": 1.7230440351432048,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Mitchel2003/e-commerce",
+            "updatedAt": "2025-01-26T22:23:19Z",
+            "isPinned": false,
+            "homepage": "https://e-commerce-mauve-omega.vercel.app"
+        },
+        {
+            "name": "rest-api",
+            "description": "Backend to app react",
+            "score": 1.6864617180030785,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Mitchel2003/rest-api",
+            "updatedAt": "2025-01-29T00:13:27Z",
+            "isPinned": false,
+            "homepage": "https://rest-api-qvo9.onrender.com/api/"
+        },
+        {
+            "name": "app_academica",
+            "description": "App escritorio para gesti\u00f3n de notas acad\u00e9micas",
+            "score": 1.67640259884763,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Mitchel2003/app_academica",
+            "updatedAt": "2024-08-08T22:27:37Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "mern_crud",
+            "description": "App web implement auth management with TypeScript",
+            "score": 1.6699411571862757,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Mitchel2003/mern_crud",
+            "updatedAt": "2025-01-31T02:16:37Z",
+            "isPinned": false,
+            "homepage": "https://mern-crud-three-lemon.vercel.app"
+        },
+        {
+            "name": "app_contact",
+            "description": "App web that implement 'react' and 'react-router-dom'",
+            "score": 1.665590785891779,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Mitchel2003/app_contact",
+            "updatedAt": "2024-07-29T03:54:18Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "appKequi",
+            "description": "Banking movile app, database connection with Firebase",
+            "score": 1.5547893615426576,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Mitchel2003/appKequi",
+            "updatedAt": "2024-01-19T20:42:25Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 2,
+    "following": 6,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1625,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">\ud83d\udc4b Hi, I'm Michael</h1>\n\n<h3 align=\"center\">\n  A Full-Stack Developer passionate about crafting seamless user experiences and robust backend systems. \n  Dedicated to continuous learning, innovation, and turning ideas into reality with code\n</h3>\n\n---\n\n<h2 align=\"left\">\ud83d\udca1 About Me</h2>\n<ul align=\"left\">\n  <li>\ud83d\udd27 Experienced in building scalable and efficient web applications.</li>\n  <li>\ud83d\ude80 Enthusiastic about exploring new technologies and tools to enhance development workflows.</li>\n  <li>\ud83c\udf1f Skilled in front-end technologies like React, Angular, and backend frameworks like Node.js and Express.</li>\n</ul>\n\n---\n\n<h2 align=\"left\">\ud83c\udf1f Core Skills</h2>\n<p align=\"left\">\n  <img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\" alt=\"JavaScript\" />\n  <img src=\"https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white\" alt=\"TypeScript\" />\n  <img src=\"https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B\" alt=\"Python\" />\n  <img src=\"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white\" alt=\"Java\" />\n  <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\" />\n  <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\" />\n  <img src=\"https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black\" alt=\"React\" />\n  <img src=\"https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white\" alt=\"Angular\" />\n  <img src=\"https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white\" alt=\"Next.js\" />\n  <img src=\"https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white\" alt=\"Tailwind\" />\n  <img src=\"https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black\" alt=\"Firebase\" />\n  <img src=\"https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white\" alt=\"MongoDB\" />\n  <img src=\"https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white\" alt=\"MySQL\" />\n  <img src=\"https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white\" alt=\"Google Cloud\" />\n  <img src=\"https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white\" alt=\"Docker\" />\n  <img src=\"https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white\" alt=\"Node.js\" />\n  <img src=\"https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white\" alt=\"Express\" />\n  <img src=\"https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white\" alt=\"Visual Studio Code\" />\n  <img src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\" alt=\"Git\" />\n  <img src=\"https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white\" alt=\"GitHub\" />\n  <img src=\"https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white\" alt=\"SourceTree\" />\n  <img src=\"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white\" alt=\"Figma\" />\n</p>\n\n---\n\n<h2 align=\"left\">\ud83c\udfc6 Contributions</h2>\n<p align=\"center\">\n    <!--Streak-stats-->\n  <a href=\"https://github.com/Mitchel2003?tab=repositories\">\n    <img height=\"180em\" src=\"https://streak-stats.demolab.com?user=Mitchel2003&theme=radical&hide_border=true\" alt=\"GitHub Streak\" />\n  </a>\n    <!--Lapras-card-->\n  <a href=\"https://lapras.com/public/KFSJXU0\">\n    <img height=\"180em\" alt=\"lapras-card\" src=\"https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=3.36&i=2.46&b1=%230a0a0a&b2=%23c70000&i1=%23292929&i2=%23675b5b&l=en&u=KFSJXU0\">\n  </a>\n</p>\n\n---\n\n<h2 align=\"left\">\ud83d\udcca GitHub Analytics</h2>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Mitchel2003\">\n    <!--Most-used-lenguage-->\n    <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel2003&layout=compact&langs_count=8&theme=radical&hide_border=true\" alt=\"Top Languages\"/>\n    <!--Github-stats-->\n    <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=Mitchel2003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true\" alt=\"GitHub Stats\" />\n    <!--Trophies-stats-->\n    <img src=\"https://github-profile-trophy.vercel.app/?username=Mitchel2003&theme=radical&no-frame=true&row=1&column=7\" alt=\"Trophies\" />\n  </a>\n</p>\n\n---\n\n<h2 align=\"left\" style=\"display: flex; justify-content: space-between; align-items: center;\">\n  \ud83d\udceb Connect with Me\n  <img align=\"right\" src=\"https://komarev.com/ghpvc/?username=Mitchel2003&label=Profile%20Views&color=brightgreen\" alt=\"Profile Views\" />\n</h2>\n\n<p align=\"left\">\n  <a href=\"mailto:avilesmaicol.08@gmail.com\">\n    <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Gmail\" />\n  </a>\n  <a href=\"https://linkedin.com/in/Mitchel2003\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\" />\n  </a>\n  <a href=\"https://github.com/Mitchel2003\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white\" alt=\"GitHub\" />\n  </a>\n</p>\n",
+    "activity_summary": {
+        "Mitchel2003/rest-api": {
+            "link": "https://github.com/Mitchel2003/rest-api",
+            "summary": "Significant activities in the last few days include implementing reconvertion to find problems, adjusting code, and testing various functions, including those related to file uploads and inspection."
+        },
+        "Mitchel2003/mern_crud": {
+            "link": "https://github.com/Mitchel2003/mern_crud",
+            "summary": "Notable activities include adjusting presentation and tab elements, implementing functionality for inspecting CVs, and creating reusable code for handling behavior."
+        },
+        "Mitchel2003/Mitchel2003": {
+            "link": "https://github.com/Mitchel2003/Mitchel2003",
+            "summary": "Recent updates to this repository include updating links and performing general maintenance tasks, including updating metadata."
+        },
+        "Mitchel2003/e-commerce": {
+            "link": "https://github.com/Mitchel2003/e-commerce",
+            "summary": "A recent update improved the business visual presentation in the e-commerce project."
+        }
+    },
+    "profile_summary": "Highly skilled Full-stack Developer with expertise in leading technologies such as TypeScript, Java, and JavaScript. Passionate about delivering seamless user experiences and robust backend systems through continuous learning, innovation, and problem-solving. Adept at leveraging my technical skills and creative approach to drive digital transformation and capitalize on emerging trends.\n\nAs an experienced professional with strong expertise in TypeScript, Java, and JavaScript, I have successfully led numerous projects involving complex front-end technologies such as React, Angular, and backend frameworks like Node.js and Express. With an impressive track record of delivering high-quality solutions within tight deadlines, I am now expanding my professional network and eager to collaborate with visionaries and experts in the tech industry.\n\nWith a solid foundation in leading technologies and continuous learning practices, I possess a unique blend of technical expertise, adaptability, and creative problem-solving abilities. I am dedicated to turning ideas into reality with code and continually seeking opportunities to contribute to open-source projects, participate in hackathons, and foster meaningful connections with like-minded individuals through platforms like GitHub and LinkedIn."
+}

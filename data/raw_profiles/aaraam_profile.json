@@ -1,0 +1,125 @@
+{
+    "username": "aaraam",
+    "name": "Aaraamasree Sreekumar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/54882705?u=515a050288d4687985a300056bfc680e46ff5181&v=4",
+    "profile_url": "https://github.com/aaraam",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "walletconnect-poc",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/aaraam/walletconnect-poc",
+            "updatedAt": "2025-01-31T13:38:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rust-projects",
+            "description": null,
+            "score": 10.255444467188388,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/aaraam/rust-projects",
+            "updatedAt": "2024-02-12T11:08:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "go-projects",
+            "description": null,
+            "score": 10.168873892927378,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/aaraam/go-projects",
+            "updatedAt": "2024-01-27T17:28:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "doge-btc",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaraam/doge-btc",
+            "updatedAt": "2024-12-20T09:18:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wormhole-poc",
+            "description": null,
+            "score": 0.2572068291572806,
+            "stars": 0,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/aaraam/wormhole-poc",
+            "updatedAt": "2024-03-05T11:03:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "audit-gen",
+            "description": null,
+            "score": 0.16925964148870362,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aaraam/audit-gen",
+            "updatedAt": "2024-01-30T07:35:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aaraam.github.io",
+            "description": null,
+            "score": 0.06792795379065866,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aaraam/aaraam.github.io",
+            "updatedAt": "2020-10-11T17:07:16Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 10,
+    "public_repos": 11,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 243,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aaraam/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

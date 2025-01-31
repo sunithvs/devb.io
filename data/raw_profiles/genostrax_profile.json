@@ -1,0 +1,132 @@
+{
+    "username": "genostrax",
+    "name": "Aaraamasree Sreekumar",
+    "bio": "Its a hobby.",
+    "location": "Kochi, Ernakulam, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22119612?u=e0650ed8a3007adb274565d2a731b36ff51f133c&v=4",
+    "profile_url": "https://github.com/genostrax",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ],
+        [
+            "CSS",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CORA-Chain",
+            "description": "Android client app and presentation files for a blockchain based IoT Project",
+            "score": 0.06476296622904534,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/genostrax/CORA-Chain",
+            "updatedAt": "2018-12-01T05:31:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Assignment-One-Python",
+            "description": "Assignment-One written in Python using Flask framework",
+            "score": 0.06475924566935666,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/genostrax/Assignment-One-Python",
+            "updatedAt": "2018-11-30T06:58:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shopping-Cart-Express-App",
+            "description": "Created as an assignment for Full-Stack Developer Course by ICT",
+            "score": 0.06475924566935666,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/genostrax/Shopping-Cart-Express-App",
+            "updatedAt": "2018-11-30T06:56:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Assignment-One",
+            "description": "Test site and hosting for my first assignment of Fullstack ICT course. WARNING - DO NOT COPY",
+            "score": 0.06445037959620172,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/genostrax/Assignment-One",
+            "updatedAt": "2018-09-06T05:42:48Z",
+            "isPinned": false,
+            "homepage": "https://genostrax.github.io/Assignment-One/"
+        },
+        {
+            "name": "template-fullstack",
+            "description": "Click here for preview",
+            "score": 0.06444328280971365,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/genostrax/template-fullstack",
+            "updatedAt": "2018-09-04T04:21:43Z",
+            "isPinned": false,
+            "homepage": "https://genostrax.github.io/template-fullstack/"
+        },
+        {
+            "name": "blossomFarms",
+            "description": "Admin app for Blossom Farms",
+            "score": 0.0635064417144685,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/genostrax/blossomFarms",
+            "updatedAt": "2017-11-24T12:30:42Z",
+            "isPinned": false,
+            "homepage": "https://genostrax.github.io/blossomFarms/"
+        },
+        {
+            "name": "calmf",
+            "description": "Website for Calm Foundation ",
+            "score": 0.06346358187350973,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/genostrax/calmf",
+            "updatedAt": "2018-11-28T12:19:33Z",
+            "isPinned": false,
+            "homepage": "https://genostrax.github.io/calmf/"
+        },
+        {
+            "name": "prjktGenos",
+            "description": "A sample website. Nothing much.",
+            "score": 0.06256575440190103,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/genostrax/prjktGenos",
+            "updatedAt": "2018-11-22T09:07:03Z",
+            "isPinned": false,
+            "homepage": "https://genostrax.github.io/prjktGenos/"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "Highly motivated and detail-oriented full-stack developer with a passion for JavaScript, HTML, and CSS. Through hands-on experience and a commitment to ongoing learning, I leverage my solid foundation in front-end technologies to build innovative web applications. As a hobbyist developer with a portfolio of 9 active public repositories, I continuously challenge myself to stay at the forefront of web development."
+}

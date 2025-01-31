@@ -1,0 +1,139 @@
+{
+    "username": "camilananini",
+    "name": "Camila Nanini",
+    "bio": "Computer Science Student",
+    "location": "C\u00f3rdoba-Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/169854709?u=0f47dc43b04fe4f0f5512b168a51f67646c094f5&v=4",
+    "profile_url": "https://github.com/CamilaNanini",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Snake-React",
+            "description": null,
+            "score": 10.351891308582417,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/CamilaNanini/Snake-React",
+            "updatedAt": "2025-01-30T23:51:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Paradigmas-de-la-Programacion-FAMAF-2024",
+            "description": "Este repositorio contiene todos los laboratorios realizados en famaf durante el a\u00f1o 2024 en la materia de Paradigmas de la Programaci\u00f3n.",
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/CamilaNanini/Paradigmas-de-la-Programacion-FAMAF-2024",
+            "updatedAt": "2025-01-31T00:18:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Redes-Y-Sistemas-Distribuidos-FAMAF-2024",
+            "description": "Este repositorio contiene todos los laboratorios realizados en famaf durante el a\u00f1o 2024.",
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/CamilaNanini/Redes-Y-Sistemas-Distribuidos-FAMAF-2024",
+            "updatedAt": "2024-12-12T00:41:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "first-visual-theme",
+            "description": null,
+            "score": 0.3778059731275495,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CamilaNanini/first-visual-theme",
+            "updatedAt": "2024-12-09T16:02:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CamilaNanini",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.30914893733334936,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/CamilaNanini/CamilaNanini",
+            "updatedAt": "2025-01-30T02:58:18Z",
+            "isPinned": false,
+            "homepage": "https://github.com/CamilaNanini"
+        },
+        {
+            "name": "Bases-de-datos-FAMAF-2024",
+            "description": null,
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/CamilaNanini/Bases-de-datos-FAMAF-2024",
+            "updatedAt": "2024-12-09T16:50:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Arquitectura-del-computador-FAMAF",
+            "description": null,
+            "score": 0.3018222032863835,
+            "stars": 0,
+            "forks": 0,
+            "language": "SystemVerilog",
+            "url": "https://github.com/CamilaNanini/Arquitectura-del-computador-FAMAF",
+            "updatedAt": "2024-11-01T02:31:39Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 5,
+    "public_repos": 7,
+    "pull_requests_merged": 17,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 114,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/cami_nanini2307"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/camila-nanini-b030b9316/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\" style=\"color: #A76EE6;\">Hi, I'm Camila Nanini</h1>\n<p align=\"center\">\n    <img align=\"center\" alt=\"GIF\" src=\"https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif\" />\n</p>\n\n<h2 style=\"color: #A76EE6;\">About me . . .</h2>\nI am a fourth-year Computer Science student with a strong foundation in software development. \nI enjoy tackling new challenges and learning how to solve them. I am eager to apply my skills to real-world projects \nand gain industry experience.\n\n<h2 style=\"color: #A76EE6;\">My Skills</h2>\n\n<h3 style=\"color: #fa8e9a; font-family: Tahoma; font-size: 20px;\">Programming languages</h3>\n\n![Static Badge](https://img.shields.io/badge/C-%23393bc2?style=flat&logo=c)\n![Static Badge](https://img.shields.io/badge/Python-%23bce9ff?style=flat&logo=python)\n![Static Badge](https://img.shields.io/badge/Java%20Script-%23ffaa00?style=flat&logo=javascript)\n![Static Badge](https://img.shields.io/badge/Java-%23F52D26?style=flat)\n\n<h3 style=\"color: #fa8e9a; font-family: Tahoma; font-size: 20px;\">Databases</h3>\n\n![Static Badge](https://img.shields.io/badge/MySql-%2393d1ff?style=flat&logo=mysql)\n![Static Badge](https://img.shields.io/badge/MongoDB-%2369cb6a?style=flat&logo=mongodb)\n\n<h3 style=\"color: #fa8e9a; font-family: Tahoma; font-size: 20px;\">Testing</h3>\n\n![Static Badge](https://img.shields.io/badge/SpiraPlan-%23cbc900?style=flat)\n![Static Badge](https://img.shields.io/badge/Rapise-%23ad68cb?style=flat)\n![Static Badge](https://img.shields.io/badge/Selenium-%23befab1?style=flat&logo=selenium)\n\n<h3 style=\"color: #fa8e9a; font-family: Tahoma; font-size: 20px;\">Software & Tools</h3>\n\n![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)\n![Static Badge](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)\n![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)\n![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)\n![Static Badge](https://img.shields.io/badge/Jira-%2388b1ed?style=flat&logo=jira)\n![Static Badge](https://img.shields.io/badge/PowerBI-%23ece91a?style=flat)\n\n<h3 style=\"color: #fa8e9a; font-family: Tahoma; font-size: 20px;\">I'm learning:</h3>\n\n![Static Badge](https://img.shields.io/badge/NodeJs-%231e3319?logo=Node.js)\n![Static Badge](https://img.shields.io/badge/React-%23458ea3?style=flat&logo=react)\n![Static Badge](https://img.shields.io/badge/MicroPython-%2350494b?logo=MicroPython)\n\n<h2 align=\"center\" style=\"color: #A76EE6;\">\u2699\ufe0f GitHub Analytics</h2>\n<p align=\"center\">\n<a href=\"https://github.com/CamilaNanini\">\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=CamilaNanini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\"/>\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamilaNanini&layout=compact&langs_count=8&theme=algolia\"/>\n</a>\n</p>\n\n<h2 align=\"center\" style=\"color: #A76EE6;\">Let's Connect</h2>\n<p align=\"center\">\n  <!-- Proximamente <a href=\"https://candida-noronha.web.app/\"><img src=\"\" alt=\"Website\"/></a> -->\n\t<a href=\"camila.nanini@mi.unc.edu.ar\"><img src=\"https://img.icons8.com/bubbles/50/000000/gmail.png\" alt=\"Gmail\"/></a>\n\t<a href=\"https://github.com/CamilaNanini/\"><img src=\"https://img.icons8.com/bubbles/50/000000/github.png\" alt=\"GitHub\"/></a>\n\t<a href=\"https://www.linkedin.com/in/camila-nanini-b030b9316/\"><img src=\"https://img.icons8.com/bubbles/50/000000/linkedin.png\" alt=\"LinkedIn\"/></a>\n\t<a href=\"https://www.instagram.com/cami_nanini2307\"><img src=\"https://img.icons8.com/bubbles/50/000000/instagram.png\" alt=\"Instagram\"/></a>\n\t\n</p>",
+    "activity_summary": {
+        "CamilaNanini/CamilaNanini": {
+            "link": "https://github.com/CamilaNanini/CamilaNanini",
+            "summary": "Recent activity on CamilaNanini/CamilaNanini repository includes a push event on January 30, 2025, with a commit message indicating a 'Actualizaci\u00f3n' update, marking recent relevant contributions to the project."
+        },
+        "CamilaNanini/other-repo": {
+            "link": "https://github.com/CamilaNanini/other-repo",
+            "summary": "There have been no significant activities reported for CamilaNanini/other-repo repository."
+        }
+    },
+    "profile_summary": "As a fourth-year Computer Science student with a strong foundation in software development, I excel in programming languages such as TypeScript, Python, and JavaScript, leveraging my skills to drive creative problem-solving and efficient software design across various databases including MySQL and MongoDB, and testing frameworks like Selenium. Active development in public repositories demonstrates my commitment to collaborative and practical knowledge, while a growing network of 3 followers highlights my professional connections and influence within the GitHub community. I'm eager to apply my technical expertise and passion for innovation to real-world projects and industry experiences."
+}

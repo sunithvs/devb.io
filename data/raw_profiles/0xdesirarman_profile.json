@@ -1,0 +1,47 @@
+{
+    "username": "0xdesirarman",
+    "name": "SHIVEN",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/186803744?u=5b314770bc16badc0ea90239cde244bb6cd9ba0d&v=4",
+    "profile_url": "https://github.com/0xDesirArman",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "apnacolg-demo",
+            "description": "This is my first git repositiory",
+            "score": 0.3385380321731159,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/0xDesirArman/apnacolg-demo",
+            "updatedAt": "2024-11-09T05:57:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "newremoterepo",
+            "description": "newremoterepo",
+            "score": 0.3385380321731159,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/0xDesirArman/newremoterepo",
+            "updatedAt": "2024-11-09T10:40:21Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 12,
+    "public_repos": 3,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a software engineer with a strong foundation in java, swift, and python, I leverage my expertise to drive innovation in mobile and web development. With a proven track record of contributing to open-source projects on github, I have honed my skills in api design, data structures, and object-oriented programming. My experience working on real-world projects has given me a unique perspective on crafting robust, maintainable codebases, and I am excited to collaborate with like-minded individuals who share my passion for coding."
+}

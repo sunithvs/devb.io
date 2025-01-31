@@ -1,0 +1,138 @@
+{
+    "username": "emaenriquez",
+    "name": "Emanuel Enriquez",
+    "bio": "Desarrollador Software\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/67881665?u=538f081acea530547837763b735f40f67af6d4f9&v=4",
+    "profile_url": "https://github.com/emaenriquez",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Astro",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TeamZone",
+            "description": null,
+            "score": 10.62554858713637,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/emaenriquez/TeamZone",
+            "updatedAt": "2025-01-20T20:15:13Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "StudentFlow",
+            "description": null,
+            "score": 10.445461306560055,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/emaenriquez/StudentFlow",
+            "updatedAt": "2025-01-22T19:16:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "proyecto-java",
+            "description": null,
+            "score": 0.3216510325810537,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/emaenriquez/proyecto-java",
+            "updatedAt": "2024-10-18T18:46:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "biblioteca-python-flask",
+            "description": null,
+            "score": 0.27810596618122624,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/emaenriquez/biblioteca-python-flask",
+            "updatedAt": "2024-06-28T04:37:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "blog-astro",
+            "description": null,
+            "score": 0.25556723781402807,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/emaenriquez/blog-astro",
+            "updatedAt": "2024-02-12T19:30:43Z",
+            "isPinned": false,
+            "homepage": "https://blog-astro-roan.vercel.app"
+        },
+        {
+            "name": "emaenriquez.github.io",
+            "description": null,
+            "score": 0.2553221593103716,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/emaenriquez/emaenriquez.github.io",
+            "updatedAt": "2024-02-11T04:05:50Z",
+            "isPinned": false,
+            "homepage": "https://emaenriquez-github-io.vercel.app"
+        },
+        {
+            "name": "emaenriquez",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.22253478107177027,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/emaenriquez/emaenriquez",
+            "updatedAt": "2024-10-12T01:23:32Z",
+            "isPinned": false,
+            "homepage": "https://github.com/emaenriquez"
+        },
+        {
+            "name": "landing-page-astro",
+            "description": null,
+            "score": 0.16895048713841182,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/emaenriquez/landing-page-astro",
+            "updatedAt": "2024-01-26T04:50:14Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16,
+    "following": 56,
+    "public_repos": 28,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 67,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "# emaenriquez \ud83d\udc4b\n<a href=\"https://app.daily.dev/emanuelenriquez\"><img src=\"https://api.daily.dev/devcards/v2/3Bn2YKZfvGB55QIhodgIH.png?type=wide&r=gae\" width=\"652\" alt=\"Emanuel Enriquez's Dev Card\"/></a>\n",
+    "activity_summary": {
+        "emaenriquez/StudentFlow": {
+            "link": "https://github.com/emaenriquez/StudentFlow",
+            "summary": "Recent significant activities in the StudentFlow repository include a series of push events with notes on bug fixes, refactorizations and new feature implementations. Updates to authentication, frontend design, and prototype deployment have been notable."
+        }
+    },
+    "profile_summary": "As a seasoned software developer, I leverage my expertise in Python, Astro, and JavaScript to craft scalable and efficient solutions. With a strong portfolio of 28 public repositories and a professional network of 16 followers, I'm well-versed in delivering high-quality results."
+}

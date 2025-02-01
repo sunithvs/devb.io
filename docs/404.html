@@ -564,7 +564,9 @@
                 </button>
             </div>
             <div class="share-section">
-                <div class="section-title">Share on Social Media</div>
+                <div class="section-title">Let the world know the skills you’ve got! <br>
+
+Share this in your bio!</div>
                 <div class="social-links">
                     <a href="#" id="twitterShare" target="_blank" title="Share on Twitter">
                         <i data-lucide="twitter"></i>
@@ -790,10 +792,11 @@
 
         // Set up social share links with full URL
         const shareText = encodeURIComponent(`Check out my developer profile on devb.io!`);
+        const linkedinText = encodeURIComponent(`👋 Hey connections!\n\nI wanted to share my developer profile showcasing my skills, projects, and contributions.\n\nCheck it out and let me know what you think! 🚀\n\n#developers #coding #github #portfolio`);
         const encodedUrl = encodeURIComponent(profileUrl);
         
         twitterShare.href = `https://twitter.com/intent/tweet?text=${shareText}&url=${encodedUrl}`;
-        linkedinShare.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`;
+        linkedinShare.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}&summary=${linkedinText}`;
 
         // Initialize Lucide icons
         lucide.createIcons();

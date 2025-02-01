@@ -1,0 +1,56 @@
+{
+    "username": "josemgarciar",
+    "name": "Jos\u00e9 Manuel Garc\u00eda Rosa",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/114395570?u=1299960e640c73209c098441deef168af804ae3d&v=4",
+    "profile_url": "https://github.com/josemgarciar",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Fix-Git-Hub-Commits-with-no-reply-email",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/josemgarciar/Fix-Git-Hub-Commits-with-no-reply-email",
+            "updatedAt": "2024-10-30T20:04:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DeliverUs",
+            "description": null,
+            "score": 0.25682109740568587,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/josemgarciar/DeliverUs",
+            "updatedAt": "2024-02-23T16:57:49Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 5,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned developer, I leverage my expertise in JavaScript and Shell scripting to drive impactful projects forward. With a deep understanding of cutting-edge technologies, I deliver efficient and scalable solutions that meet the needs of diverse stakeholders. Through my public repositories, I continuously push the boundaries of innovation, actively contributing to the tech community."
+}

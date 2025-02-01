@@ -1,0 +1,147 @@
+{
+    "username": "nithin-daniel",
+    "name": "Nithin Daniel",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/66398646?u=61d7e224eba5ac69fb329fd9e4bd61b90eaad5ce&v=4",
+    "profile_url": "https://github.com/nithin-daniel",
+    "top_languages": [
+        [
+            "Python",
+            29
+        ],
+        [
+            "JavaScript",
+            20
+        ],
+        [
+            "TypeScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "greatkart-ecommerce",
+            "description": null,
+            "score": 11.112633490440585,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/nithin-daniel/greatkart-ecommerce",
+            "updatedAt": "2022-06-26T06:37:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ecommerce-django",
+            "description": null,
+            "score": 10.158618149078446,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nithin-daniel/ecommerce-django",
+            "updatedAt": "2023-08-04T05:53:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "hotel-booking-application---Django",
+            "description": null,
+            "score": 2.64533016484973,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/nithin-daniel/hotel-booking-application---Django",
+            "updatedAt": "2024-06-29T11:41:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "jobportal",
+            "description": null,
+            "score": 1.3064340231279405,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/nithin-daniel/jobportal",
+            "updatedAt": "2024-05-21T01:34:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "togetherai-sample",
+            "description": null,
+            "score": 1.3030129221014377,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/nithin-daniel/togetherai-sample",
+            "updatedAt": "2024-04-09T05:07:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ride_app_backend",
+            "description": null,
+            "score": 0.28419238626746335,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/nithin-daniel/ride_app_backend",
+            "updatedAt": "2024-07-23T07:36:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "python-queue",
+            "description": null,
+            "score": 0.28337684106036204,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/nithin-daniel/python-queue",
+            "updatedAt": "2024-07-18T04:28:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mulearn-react-portfolio",
+            "description": null,
+            "score": 0.27764012062481885,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nithin-daniel/mulearn-react-portfolio",
+            "updatedAt": "2024-06-24T08:55:01Z",
+            "isPinned": false,
+            "homepage": "https://mulearn-react-portfolio.vercel.app"
+        }
+    ],
+    "followers": 27,
+    "following": 57,
+    "public_repos": 115,
+    "pull_requests_merged": 63,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 971,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/nithindaniel_"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/nithindaniel"
+        }
+    ],
+    "readme_content": "To visit this website click the below link:-\nhttps://nithindaniel.me\n",
+    "activity_summary": {
+        "leptis-raffle": {
+            "link": "https://github.com/Jobin-S/leptis-raffle",
+            "summary": "There have been significant pushes and pull requests made to the leptis-raffle repository on 2025-01-23. Various features were added, including a build command and port to the environment file."
+        }
+    },
+    "profile_summary": "As a skilled software developer with expertise in Python, JavaScript, and TypeScript, I design and implement innovative solutions that drive business value. With a strong background in full-stack development, I've built a portfolio of high-quality projects through my 115 public repositories. As a trusted member of the tech community with 27 dedicated followers, I stay at the forefront of industry trends and thoughtfully share my knowledge and projects through my personal website (nithindaniel.me)."
+}

@@ -707,8 +707,7 @@
     async function resolveProfileUrl() {
         const pathParts = window.location.pathname.split('/').filter(part => part);
         // {#const username = pathParts[0];#}
-        // {#const username = pathParts[0];#}
-        const username = 'sunithvs';
+        const username = pathParts[0];
 
         const valid_username = await isValidGitHubUsername(username);
         if (valid_username) {
@@ -1252,8 +1251,8 @@
             downloadBtn.disabled = true;
             shareBtn.disabled = true;
             const pathParts = window.location.pathname.split('/').filter(part => part);
-            // {#const username = pathParts[pathParts.length - 1];#}
-            const username = 'sunithvs';
+            const username = pathParts[pathParts.length - 1];
+
 
             try {
                 const response = await fetch(profile_url);
@@ -1293,8 +1292,7 @@
             const blob = new Blob([svgData], {type: "image/svg+xml"});
             const url = URL.createObjectURL(blob);
             const pathParts = window.location.pathname.split('/').filter(part => part);
-            // {#const username = pathParts[pathParts.length - 1];#}
-            const username ='sunithvs';
+            const username = pathParts[pathParts.length - 1];
 
             const img = new Image();
             img.src = url;

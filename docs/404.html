@@ -336,8 +336,8 @@
         }
 
         .copy-btn.copied {
-            background: #4CAF50;
-            color: white;
+            background: #B9FF66;
+            color: black;
         }
 
         .copy-btn i {
@@ -451,6 +451,40 @@
             background: linear-gradient(to right, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%);
             background-size: 1000px 100%;
             animation: shimmer 2s infinite linear;
+        }
+    </style>
+    <style>
+        /* Make username link always visible */
+
+        /* Update copy button styles */
+        .copy-btn {
+            background: #B9FF66;
+            color: black;
+            padding: 0.875rem 1.5rem;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+            width: 100%;
+            margin-top: 0.75rem;
+        }
+
+        .copy-btn:hover {
+            background: #a8ff3d;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(185, 255, 102, 0.2);
+        }
+
+        /* Remove the copied state color change */
+        .copy-btn.copied {
+            background: #B9FF66;
+            color: black;
         }
     </style>
 </head>
@@ -817,14 +851,12 @@
         copyLinkBtn.addEventListener('click', async () => {
             try {
                 await navigator.clipboard.writeText(profileUrl);
-                copyLinkBtn.classList.add('copied');
-                copyLinkBtn.innerHTML = '<i data-lucide="check"></i><span>Copied!</span>';
-                lucide.createIcons();
+                const buttonSpan = copyLinkBtn.querySelector('span');
+                const originalText = buttonSpan.textContent;
+                buttonSpan.textContent = 'Copied!';
                 
                 setTimeout(() => {
-                    copyLinkBtn.classList.remove('copied');
-                    copyLinkBtn.innerHTML = '<i data-lucide="copy"></i><span>Copy to Clipboard</span>';
-                    lucide.createIcons();
+                    buttonSpan.textContent = originalText;
                 }, 2000);
             } catch (err) {
                 console.error('Failed to copy:', err);
@@ -967,9 +999,9 @@
                             <p class="text-gray-600 animate-fade-in flex items-center space-x-2">
                                 <a href="${profile.profile_url}" class="flex items-center hover:underline">
                                         <span class="group">
-                                            <img src="images/hyperlink-logo.png" alt="l" class="w-8 h-8 ml-1 opacity-0 group-hover:opacity-100 transition-opacity duration-400" onerror="this.style.display='none';">
+                                            <img src="images/hyperlink-logo.png" alt="l" class="w-8 h-8 ml-1  group-hover:opacity-100 transition-opacity duration-400" onerror="this.style.display='none';">
                                         </span>
-                                    <span>@${profile.username}</span>
+                                    <span class="username-link">@${profile.username}</span>
                                 </a>
                             </p>
                         </div>

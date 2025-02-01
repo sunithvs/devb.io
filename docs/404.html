@@ -397,6 +397,47 @@
         }
     </style>
     <style>
+        .share-section .section-title {
+            text-align: center;
+            margin-bottom: 1.25rem;
+        }
+
+        .section-title .highlight-text {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 0.5rem;
+            display: block;
+            letter-spacing: -0.02em;
+        }
+
+        .section-title .sub-text {
+            font-size: 1rem;
+            color: #B9FF66;
+            font-weight: 500;
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: #1a1a1a;
+            border-radius: 8px;
+            margin-top: 0.5rem;
+            transition: all 0.2s ease;
+        }
+
+        .section-title .sub-text:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(185, 255, 102, 0.2);
+        }
+
+        @media (max-width: 640px) {
+            .section-title .highlight-text {
+                font-size: 1.1rem;
+            }
+            .section-title .sub-text {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+    <style>
         @keyframes shimmer {
             0% {
                 background-position: -1000px 0;
@@ -547,14 +588,19 @@
 <div class="share-modal" id="shareModal">
     <div class="modal-content">
         <div class="modal-header">
-            <h3 class="modal-title">Share Your Profile</h3>
             <button class="close-btn" id="closeModal" title="Close">
                 <i data-lucide="x"></i>
             </button>
         </div>
         <div class="share-options">
             <div class="share-section">
-                <div class="section-title">Profile Link</div>
+                <div class="section-title">
+                    <span class="highlight-text">Let the world know the skills you've got!</span>
+                    <span class="sub-text">✨ Pin this in your bio ✨</span>
+                </div>
+
+            </div>
+            <div class="share-section">
                 <div class="link-container">
                     <span class="profile-link" id="profileUrl"></span>
                 </div>
@@ -563,11 +609,7 @@
                     <span>Copy to Clipboard</span>
                 </button>
             </div>
-            <div class="share-section">
-                <div class="section-title">Let the world know the skills you’ve got! <br>
-
-Share this in your bio!</div>
-                <div class="social-links">
+            <div class="social-links">
                     <a href="#" id="twitterShare" target="_blank" title="Share on Twitter">
                         <i data-lucide="twitter"></i>
                     </a>
@@ -575,7 +617,6 @@ Share this in your bio!</div>
                         <i data-lucide="linkedin"></i>
                     </a>
                 </div>
-            </div>
         </div>
     </div>
 </div>

@@ -1,0 +1,137 @@
+{
+    "username": "sblanco16",
+    "name": "Sharith Blanco",
+    "bio": "\u271d\ufe0f",
+    "location": "Barranquilla",
+    "avatar_url": "https://avatars.githubusercontent.com/u/117848509?u=43fd6d1cea5fd846e049fabe7e7177e89f660c4e&v=4",
+    "profile_url": "https://github.com/Sblanco16",
+    "top_languages": [
+        [
+            "HTML",
+            8
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Biblioteca_movil",
+            "description": null,
+            "score": 0.271081586260241,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Sblanco16/Biblioteca_movil",
+            "updatedAt": "2024-05-29T21:40:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Rubrica_peliculas",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/Rubrica_peliculas",
+            "updatedAt": "2024-03-11T21:53:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Rubrica_vehiculo",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/Rubrica_vehiculo",
+            "updatedAt": "2024-03-11T20:34:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Taller_buenas_practicas",
+            "description": null,
+            "score": 0.25852626626262504,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/Taller_buenas_practicas",
+            "updatedAt": "2024-03-07T19:05:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gitprueba",
+            "description": null,
+            "score": 0.25759714536400297,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/gitprueba",
+            "updatedAt": "2024-03-04T15:10:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clasedosBP",
+            "description": null,
+            "score": 0.2572068291572806,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/clasedosBP",
+            "updatedAt": "2024-02-26T21:34:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Crud",
+            "description": null,
+            "score": 0.15498952457765786,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sblanco16/Crud",
+            "updatedAt": "2023-05-10T03:50:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "API",
+            "description": null,
+            "score": 0.1540660289541429,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sblanco16/API",
+            "updatedAt": "2023-04-15T03:00:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 26,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/_SBlanco11"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "Highly adaptable software engineer with expertise in building scalable, intuitive user interfaces using HTML, JavaScript, and Dart. As an active developer with 17 public repositories and a trusted network of 3 followers, I consistently strive to incorporate the latest programming trends and technologies. From conceptualization to deployment, I excel in crafting seamless user experiences that blend functionality and aesthetics, with a focus on providing clean, maintainable code that fosters collaboration and innovation."
+}

@@ -1,0 +1,132 @@
+{
+    "username": "kiuvos",
+    "name": "Kiuvo",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/89743893?v=4",
+    "profile_url": "https://github.com/Kiuvos",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ReactFullstck",
+            "description": null,
+            "score": 0.3101556172405831,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Kiuvos/ReactFullstck",
+            "updatedAt": "2024-09-28T22:25:56Z",
+            "isPinned": false,
+            "homepage": "https://react-fullstck.vercel.app"
+        },
+        {
+            "name": "Cursos_progamacion",
+            "description": null,
+            "score": 0.2658675481782769,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kiuvos/Cursos_progamacion",
+            "updatedAt": "2024-04-27T02:04:48Z",
+            "isPinned": false,
+            "homepage": "https://cursos-progamacion.vercel.app"
+        },
+        {
+            "name": "RickAndMorty_API",
+            "description": null,
+            "score": 0.26455582055001714,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kiuvos/RickAndMorty_API",
+            "updatedAt": "2024-04-23T02:06:48Z",
+            "isPinned": false,
+            "homepage": "https://rick-and-morty-api-nine-brown.vercel.app"
+        },
+        {
+            "name": "sitio_web_El_Diario_del_Amanecer",
+            "description": null,
+            "score": 0.25893258697495064,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kiuvos/sitio_web_El_Diario_del_Amanecer",
+            "updatedAt": "2024-03-11T00:57:32Z",
+            "isPinned": false,
+            "homepage": "https://sitio-web-el-diario-del-amanecer.vercel.app"
+        },
+        {
+            "name": "Biografia_Aurora",
+            "description": null,
+            "score": 0.22942305310558647,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Kiuvos/Biografia_Aurora",
+            "updatedAt": "2024-05-04T17:26:10Z",
+            "isPinned": false,
+            "homepage": "https://kiuvos.github.io/Biografia_Aurora/"
+        },
+        {
+            "name": "teoria_compiladores",
+            "description": null,
+            "score": 0.1618118616895588,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Kiuvos/teoria_compiladores",
+            "updatedAt": "2023-10-08T03:26:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CrudBiblioteca_Angular",
+            "description": null,
+            "score": 0.1611194339368499,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Kiuvos/CrudBiblioteca_Angular",
+            "updatedAt": "2023-09-24T16:58:22Z",
+            "isPinned": false,
+            "homepage": "https://crud-biblioteca-angular.vercel.app"
+        },
+        {
+            "name": "Ecommerce_TiendaMascotas",
+            "description": null,
+            "score": 0.1611194339368499,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Kiuvos/Ecommerce_TiendaMascotas",
+            "updatedAt": "2023-09-25T14:50:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

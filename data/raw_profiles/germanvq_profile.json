@@ -1,0 +1,132 @@
+{
+    "username": "germanvq",
+    "name": "German Vega",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/20993116?u=4549898a84674b5bbe87960ed1c4eea21d2bba22&v=4",
+    "profile_url": "https://github.com/GermanVq",
+    "top_languages": [
+        [
+            "Java",
+            26
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio-web",
+            "description": null,
+            "score": 1.454795755781476,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/GermanVq/portfolio-web",
+            "updatedAt": "2021-10-05T13:14:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "activity-machine-learning",
+            "description": null,
+            "score": 1.4533972710962735,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/GermanVq/activity-machine-learning",
+            "updatedAt": "2020-05-24T19:03:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "laravel-to-do-list",
+            "description": null,
+            "score": 0.26283003664131993,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/GermanVq/laravel-to-do-list",
+            "updatedAt": "2024-04-07T15:17:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "filament-workflow",
+            "description": null,
+            "score": 0.1683453148833088,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/GermanVq/filament-workflow",
+            "updatedAt": "2024-01-18T17:30:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "typescript-ddd",
+            "description": null,
+            "score": 0.15360373547321354,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/GermanVq/typescript-ddd",
+            "updatedAt": "2023-04-02T02:56:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GermanVq",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07413932561785155,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/GermanVq/GermanVq",
+            "updatedAt": "2022-10-07T14:10:49Z",
+            "isPinned": false,
+            "homepage": "https://github.com/GermanVq"
+        },
+        {
+            "name": "product-app-laravel",
+            "description": null,
+            "score": 0.06861650613336985,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/GermanVq/product-app-laravel",
+            "updatedAt": "2021-02-01T19:38:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "covid-app-android-studio",
+            "description": null,
+            "score": 0.06829492180470176,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/GermanVq/covid-app-android-studio",
+            "updatedAt": "2020-12-12T16:31:16Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 16,
+    "public_repos": 40,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 373,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "Highly skilled software engineer with expertise in Java, TypeScript, and Python, leveraging cross-platform development to drive innovation in software solutions. \n\nI've spent years honing my craft through hands-on experience with 40 public repositories and a strong network of 11 followers who respect my expertise and insights. I consistently push the boundaries of what is possible through deliberate and methodical problem-solving.\n\nWith a strong background in software development, I'm dedicated to delivering efficient, scalable, and effective technological solutions to real-world problems, making a lasting impact through code."
+}

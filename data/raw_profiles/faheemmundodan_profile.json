@@ -1,0 +1,80 @@
+{
+    "username": "faheemmundodan",
+    "name": "faheemmundodan",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105119123?v=4",
+    "profile_url": "https://github.com/FaheemMundodan",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FindFc_Backend",
+            "description": null,
+            "score": 0.1691045052393722,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FaheemMundodan/FindFc_Backend",
+            "updatedAt": "2024-01-30T08:08:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "fullstack",
+            "description": null,
+            "score": 0.15360373547321354,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaheemMundodan/fullstack",
+            "updatedAt": "2023-04-03T04:25:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "faheemmundodan.github.io",
+            "description": null,
+            "score": 0.07282375944312347,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/faheemmundodan.github.io",
+            "updatedAt": "2022-06-20T17:21:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Personal-website",
+            "description": null,
+            "score": 0.07235103903196255,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaheemMundodan/Personal-website",
+            "updatedAt": "2022-05-07T17:17:44Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a dedicated and experienced web developer, I've honed my expertise in crafting scalable and efficient solutions using Python and HTML. With a focus on building innovative web applications, I continually push the boundaries of what's possible through collaborative open source projects on GitHub."
+}

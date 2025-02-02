@@ -1,0 +1,151 @@
+{
+    "username": "hackhit",
+    "name": "Miguel Hernandez",
+    "bio": "Webmaster, Technology Integrator\r\n @hackhit 100% :heart: :earth_americas: :aries:",
+    "location": "Venezuela",
+    "avatar_url": "https://avatars.githubusercontent.com/u/419530?u=18500c69a165f11783cc5aaff755185157de8561&v=4",
+    "profile_url": "https://github.com/hackhit",
+    "top_languages": [
+        [
+            "Blade",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "logias",
+            "description": "Logias Regulares Afiliadas a la M\u2234R\u2234G\u2234L\u2234R\u2234V\u2234",
+            "score": 10.603644406572768,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hackhit/logias",
+            "updatedAt": "2025-01-30T04:49:17Z",
+            "isPinned": true,
+            "homepage": "https://granlogiadevenezuela.com/master/masonic/"
+        },
+        {
+            "name": "coesapp",
+            "description": "Sistema para la Administraci\u00f3n Acad\u00e9mica de la Facultad de Humanidades y Educaci\u00f3n de la Universidad Central de Venezuela",
+            "score": 2.492973100904881,
+            "stars": 1,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/hackhit/coesapp",
+            "updatedAt": "2021-11-08T15:25:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "VV277",
+            "description": "Repositorio de VV277",
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "Blade",
+            "url": "https://github.com/hackhit/VV277",
+            "updatedAt": "2025-01-14T22:40:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bancos",
+            "description": "Bancos de Venezuela",
+            "score": 0.2541238656163709,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hackhit/bancos",
+            "updatedAt": "2024-10-18T02:09:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "barberia",
+            "description": "Dev Barberia",
+            "score": 0.07572788248551526,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hackhit/barberia",
+            "updatedAt": "2023-01-27T19:24:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hackhit",
+            "description": "Informacion personal",
+            "score": 0.07062960535124879,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hackhit/hackhit",
+            "updatedAt": "2021-11-03T05:55:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hackhit.github.io",
+            "description": "Repositorio General de Hackhit, donde encontraras los mejores recursos para seguir mejorando tu nivel de programaci\u00f3n.  Hackhit General Repository, where you will find the best resources to continue improving your programming level. ",
+            "score": 0.07062960535124879,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hackhit/hackhit.github.io",
+            "updatedAt": "2021-11-03T03:52:24Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.07000029146982975,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hackhit/github-slideshow",
+            "updatedAt": "2021-08-18T01:55:35Z",
+            "isPinned": false,
+            "homepage": "https://lab.github.com/githubtraining/introduction-to-github"
+        }
+    ],
+    "followers": 26,
+    "following": 124,
+    "public_repos": 129,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 70,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/hackhit"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/hackhit"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/hck_seo"
+        }
+    ],
+    "readme_content": "![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)\n### \ud83d\udc4b<h2> I'm Hackhit</h2>\n\n\n<img align='right' src=\"https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif\" width=\"230\">\n\n<h3> \ud83d\udc68\ud83c\udffb\u2022\ud83d\udcbb About Me </h3>\n\n\n- \ud83e\udd14 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\n\n- \ud83c\udf93 &nbsp; Studying Computer Science and Engineering at University of life\n\n- \ud83c\udf31 &nbsp; Learning about Cloud Tech, Systems Design.\n\n- \u270d\ufe0f &nbsp; Pursuing Web Development as hobbies/side hustles.\n\n\n<h3>\ud83d\udee0 Tech Stack</h3>\n\n\n- \ud83d\udcbb &nbsp; Python | C | MySQL \n\n- \ud83c\udf10 Web Development\n\t- HTML, CSS and Javascript :white_check_mark:\n\t- Bootstrap\n\t- React with Redux :electron:\n\t- MonogoDB\n  - Express\n  - NodeJS\n\n[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hackhit)](https://github.com/hackhit) \n[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/hackhit)](https://github.com/hackhit)\n\n- \ud83d\udee2 &nbsp; MySQL | MongoDB\n\n[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hackhit)](https://github.com/hackhit)\n[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/hackhit)](https://gitlab.com/hackhit)\n \n\n- \ud83d\udd27 &nbsp; Git | Markdown | Selenium | Tidyverse\n\n[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hackhit)](https://github.com/hackhit)\n\n- \ud83d\udda5 &nbsp; Illustrator| Photoshop \n\n<img align=\"right\" src=\"https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif\"/>\n\n\n\n- **Shell Scripting**\n\n<code><a href=\"https://www.python.org/\" target=\"_blank\"><img height=\"50\" src=\"https://www.vectorlogo.zone/logos/python/python-ar21.svg\"></a></code>\n<code><a href=\"https://www.linux.org/\" target=\"_blank\"><img height=\"50\" src=\"https://www.vectorlogo.zone/logos/linux/linux-ar21.svg\"></a></code>\n<code><a href=\"https://reactjs.org/\" target=\"_blank\"><img height=\"50\" src=\"https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg\"></a></code>\n<code><a href=\"https://www.docker.com/\" target=\"_blank\"><img height=\"50\" src=\"https://www.vectorlogo.zone/logos/docker/docker-official.svg\"></a></code>\n\n\n<h3>\ud83d\udee0 To Learn</h3>\n\n- \ud83d\udd27 &nbsp; AWS | Docker\ud83d\udc33 | Firebase | flask\n\n<hr>\n\n\n\n<br/><br/>\n\n[![Hackhit GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackhit&show_icons=true)](https://github.com/hackhit)\n\n<br/>\n\n<br/>\n\n<img src=\"https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif\" width=\"350\" align='right'>\n\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackhit&show_icons=true)\n\n<br><br>\n\n\n\n<hr>\n\n\n<h3> \ud83e\udd1d\ud83c\udffb Connect with Me </h3>\n\n<br>\n\n\n<p align=\"center\">\n\n<a href=\"https://www.linkedin.com/in/invhck/\"><img alt=\"LinkedIn\" src=\"https://img.shields.io/badge/LinkedIn-Miguel%20Hernandez-blue?style=flat-square&logo=linkedin\"></a>\n\n<a href=\"https://www.instagram.com/hackhit/\"><img alt=\"Instagram\" src=\"https://img.shields.io/badge/Instagram-Miguel%20Hernandez-black?style=flat-square&logo=instagram\"></a>\n\n<a href=\"mailto:inversioneshck@gmail.com\"><img alt=\"Email\" src=\"https://img.shields.io/badge/Email-inversioneshck@gmail.com-blue?style=flat-square&logo=gmail\"></a>\n\n|  <a href=\"https://github.com/hackhit\"><img src=\"https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png\" width=\"150px\" height=\"150px\" /></a> |\n|:---------------------------------------------------------------------------------------------------------------------------------------: |\n|\ud83d\udcde *+58 414 4446088*|  \n  \n[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hackhitt)  \n  \n</p>\n\n\n\n\n\n![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hackhit.hackhit)   <img src=\"https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif\" width=\"30\">\n\n\n\n\n\n<hr>\n",
+    "activity_summary": {
+        "logias": {
+            "link": "https://github.com/hackhit/logias",
+            "summary": "The logias repository experienced multiple update events within the twenty-one hour period from January 21, 2025 to January 22, 2025. Notably, several iterations of the README.md and logias.json files were pushed to the repository, with the former showcasing updates on its description, and the latter undergoing format changes to meet the user's needs."
+        },
+        "VV277": {
+            "link": "https://github.com/hackhit/VV277",
+            "summary": "The VV277 repository saw one update event on January 14, 2025, where the README.md file was revised."
+        }
+    },
+    "profile_summary": "As a seasoned Webmaster and Technology Integrator, I leverage my expertise in Blade and HTML to craft intuitive and scalable web applications. With a strong foundation in web development, I efficiently collaborate with cross-functional teams to bring innovative projects to life. My passion for exploring new technologies drives my learning journey, where I enjoy diving into cloud computing, systems design, and software development."
+}

@@ -1,0 +1,155 @@
+{
+    "username": "alejofilartiga",
+    "name": "alejofilartiga",
+    "bio": "",
+    "location": "Buenos Aires, Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48033675?u=90195ab94feb29ed4dcd132d71fe2a189037daae&v=4",
+    "profile_url": "https://github.com/alejofilartiga",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "CSS",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "bookapi",
+            "description": "CRUD API for a Library ",
+            "score": 1.7230440351432048,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alejofilartiga/bookapi",
+            "updatedAt": "2024-11-20T04:57:38Z",
+            "isPinned": false,
+            "homepage": "https://bookapi-xlqg.onrender.com/bookapi"
+        },
+        {
+            "name": "basic-students-api",
+            "description": "Students API with MongoDB and Typescript",
+            "score": 1.721314946381536,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alejofilartiga/basic-students-api",
+            "updatedAt": "2024-11-06T21:11:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Landing-With-React",
+            "description": null,
+            "score": 1.6639344817447095,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/alejofilartiga/Landing-With-React",
+            "updatedAt": "2025-01-24T21:40:36Z",
+            "isPinned": false,
+            "homepage": "https://landing-with-react.vercel.app"
+        },
+        {
+            "name": "yerbas.gt-commerce",
+            "description": "Landing e-commerce with Javascript",
+            "score": 1.6623482334046409,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alejofilartiga/yerbas.gt-commerce",
+            "updatedAt": "2025-01-24T06:34:26Z",
+            "isPinned": false,
+            "homepage": "https://yerbas-gt-commerce.vercel.app"
+        },
+        {
+            "name": "Integrador---Bing",
+            "description": null,
+            "score": 1.6396052005109572,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/alejofilartiga/Integrador---Bing",
+            "updatedAt": "2024-07-22T22:22:13Z",
+            "isPinned": false,
+            "homepage": "https://bing-rent.vercel.app"
+        },
+        {
+            "name": "fs-samp",
+            "description": "Filterscript of Liberty City, created in Pawno for a Server in San Andreas MultiPlayer.",
+            "score": 1.1699026548324034,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/alejofilartiga/fs-samp",
+            "updatedAt": "2023-03-22T22:55:00Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "library-panel",
+            "description": "Administration panel of a library, using the BookApi with GET, POST, PATCH and DELETE in the books",
+            "score": 0.34850774036117615,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/alejofilartiga/library-panel",
+            "updatedAt": "2024-11-20T05:02:58Z",
+            "isPinned": false,
+            "homepage": "https://library-panel.onrender.com/"
+        },
+        {
+            "name": "to-do-api",
+            "description": null,
+            "score": 0.341339709985064,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/alejofilartiga/to-do-api",
+            "updatedAt": "2024-11-19T22:51:06Z",
+            "isPinned": false,
+            "homepage": "https://to-do-api-mnkm.onrender.com/todo"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 19,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 95,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/alejofilartiga"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/alejofilartiga"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "alejofilartiga/yerbas.gt-commerce": {
+            "link": "https://github.com/alejofilartiga/yerbas.gt-commerce",
+            "summary": "The repository has seen recent activity on fixing a cart-related issue on January 18th and making changes to the cart's background color on January 24th, as well as an automatic year date addition."
+        },
+        "alejofilartiga/alejofilartiga": {
+            "link": "https://github.com/alejofilartiga/alejofilartiga",
+            "summary": "A recent update to the README.MD file was made on January 24th."
+        },
+        "alejofilartiga/Landing-With-React": {
+            "link": "https://github.com/alejofilartiga/Landing-With-React",
+            "summary": "The menu has been updated on January 24th."
+        }
+    },
+    "profile_summary": "I'm alejofilartiga, a seasoned developer with expertise in building high-quality web applications using TypeScript, JavaScript, and CSS. With a portfolio of 19 public repositories, I demonstrate my ability to design and deliver efficient and scalable solutions. My experience in backend development, coupled with a strong foundation in computer science, enables me to tackle complex problems with clarity and precision."
+}

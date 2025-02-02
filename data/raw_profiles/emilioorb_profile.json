@@ -1,0 +1,69 @@
+{
+    "username": "emilioorb",
+    "name": "Emilio Rodr\u00edguez",
+    "bio": "",
+    "location": "Costa Rica",
+    "avatar_url": "https://avatars.githubusercontent.com/u/143796403?u=18516ce0fbb4be27140a57283b459181e82f48b6&v=4",
+    "profile_url": "https://github.com/emilioorb",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Conventional-Commits",
+            "description": "Uso de Conventional Commits, Commitlint y Husky en Proyectos.",
+            "score": 11.635927683659192,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/emilioorb/Conventional-Commits",
+            "updatedAt": "2024-04-06T00:18:37Z",
+            "isPinned": true,
+            "homepage": "https://www.conventionalcommits.org/en/v1.0.0/"
+        },
+        {
+            "name": "translator",
+            "description": "Proyecto Universitario - Sistemas & Se\u00f1ales",
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/emilioorb/translator",
+            "updatedAt": "2024-09-24T19:09:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "emilioorb",
+            "description": "README del perfil",
+            "score": 0.24882725556990293,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/emilioorb/emilioorb",
+            "updatedAt": "2024-11-26T16:25:43Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 2,
+    "following": 12,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 15,
+    "achievements": {
+        "total_contributions": 313,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/emiliojrb"
+        }
+    ],
+    "readme_content": "![\u00a1Hey! I'm Emilio Rodr\u00edguez\ud83d\udc4b\ud83c\udffc](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)\n\n<h3 align=\"center\">\u00a1Hey! I'm Emilio Rodr\u00edguez\ud83d\udc4b\ud83c\udffc</h3>\n\n<div align=\"center\">\n<a href=\"https://www.linkedin.com/in/emiliojrb/\">\n  <img src=\"https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge\" height=\"25\" alt=\"linkedin logo\"  />\n  </a>\n<a href=\"https://emiliorb.com\">\n  <img src=\"https://img.shields.io/badge/Sitio web-2F3134?style=for-the-badge&logo=aboutdotme&logoColor=white\" height=\"25\" alt=\"Sitio Web\"  />\n  </a>\n<a href=\"mailto:emiliorb26@gmail.com\">\n  <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" height=\"25\" alt=\"twitter logo\"  />\n  </a>\n</div>\n\n<br>\n\n<!-- Subs -->\n\n<p>\n  <a>IT at <a href=\"https://somosdual.org/\">University Invenio</a>\n    <img src=\"https://www.svgrepo.com/show/405749/graduation-cap.svg\" width=\"18\">\n    <br>\n    <strong>Software Engineer</strong> | Specialized in Astro, React, JavaScript/TypeScript, Node and Python\n    <img src=\"https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif\" width=\"30\">\n  </a>\n</p>\n\n<br>\n\n<!-- Descripci\u00f3n -->\n\n<p align=\"left\">I am a passionate software engineer with a strong focus on modern technologies such as Astro, React, JavaScript/TypeScript, Node, and Python. I specialize in frontend development, designing, and developing mobile and web applications.</p>\n<p align=\"left\">One of my greatest motivations is learning. I enjoy facing new challenges and growing in my career, constantly exploring the endless possibilities that technology offers.</p>\n\n<!-- Lenguajes y herramientas -->\n\n###\n<h3 align=\"center\">\ud83d\udee0 Language and tools</h3>\n<br>\n<div align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"30\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"30\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"30\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/git/F05032\" height=\"30\" alt=\"git logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://skillicons.dev/icons?i=github\" height=\"30\" alt=\"github logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/tailwindcss/06B6D4\" height=\"30\" alt=\"tailwindcss logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"30\" alt=\"typescript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"30\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/nodedotjs/339933\" height=\"30\" alt=\"nodejs logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg\" height=\"30\" alt=\"postgresql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/astro/FF5D01\" height=\"30\" alt=\"astro logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg\" height=\"30\" alt=\"mysql logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg\" height=\"30\" alt=\"figma logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg\" height=\"30\" alt=\"linux logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.simpleicons.org/digitalocean/0080FF\" height=\"30\" alt=\"digitalocean logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg\" height=\"30\" alt=\"firebase logo\"  />\n</div>\n",
+    "profile_summary": null
+}

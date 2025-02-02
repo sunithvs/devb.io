@@ -1,0 +1,143 @@
+{
+    "username": "abhishekmohank",
+    "name": "Abhishek",
+    "bio": "\r\n\r\n\r\n",
+    "location": "kochi,india",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100741799?u=0c63b25d02a0efdf46cc243dd931fa259d4a6f5f&v=4",
+    "profile_url": "https://github.com/abhishekmohank",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "PYTHONLAB_C3",
+            "description": null,
+            "score": 2.5703049747157447,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/abhishekmohank/PYTHONLAB_C3",
+            "updatedAt": "2023-12-13T16:08:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "WatchAnyMovie",
+            "description": null,
+            "score": 2.3613319951122187,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhishekmohank/WatchAnyMovie",
+            "updatedAt": "2023-11-21T08:43:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "R-lab-",
+            "description": null,
+            "score": 2.359586082869721,
+            "stars": 2,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/abhishekmohank/R-lab-",
+            "updatedAt": "2023-11-21T08:43:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DBMS",
+            "description": null,
+            "score": 2.345790512692771,
+            "stars": 2,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/abhishekmohank/DBMS",
+            "updatedAt": "2023-12-13T16:08:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "IDP",
+            "description": "Code extracted from images from Dhiwise code generator",
+            "score": 1.6551245817184075,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/abhishekmohank/IDP",
+            "updatedAt": "2024-05-31T06:26:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sentimentsift",
+            "description": null,
+            "score": 1.647627831325263,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/abhishekmohank/Sentimentsift",
+            "updatedAt": "2024-07-22T16:04:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AI_for_Good-frontEnd-",
+            "description": null,
+            "score": 1.6353211812009505,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abhishekmohank/AI_for_Good-frontEnd-",
+            "updatedAt": "2024-05-31T06:26:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "OT",
+            "description": null,
+            "score": 1.5418611973149,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abhishekmohank/OT",
+            "updatedAt": "2023-11-17T17:21:25Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 20,
+    "public_repos": 59,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 178,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhishek-mohan-k"
+        }
+    ],
+    "readme_content": " \ud83d\udc4b Hi \n<!---\nAbhishekMohank/abhishekmohank is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {
+        "abhishekmohank-abhishek": {
+            "link": "https://github.com/abhishekmohank/abhishek",
+            "summary": "Abhishekmohank's repository, 'abhishek', has experienced recent activity with 3 push events on January 28, 2025, indicating updates, modifications, and a descriptive commit message. These push events reveal recent development in the repository."
+        }
+    },
+    "profile_summary": "I'm Abhishek, a seasoned software developer with expertise in C++, Python, and TypeScript. With a strong focus on building robust and scalable applications, I actively contribute to the development community, demonstrating my skills through 59 publicly accessible repositories. As a respected professional with a network of 8 followers, I collaborate with like-minded individuals and share my knowledge to drive innovation in the tech industry."
+}

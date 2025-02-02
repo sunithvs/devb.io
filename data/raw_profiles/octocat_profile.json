@@ -1,0 +1,104 @@
+{
+    "username": "octocat",
+    "name": "The Octocat",
+    "bio": "",
+    "location": "San Francisco",
+    "avatar_url": "https://avatars.githubusercontent.com/u/583231?u=a59fef2a493e2b67dd13754231daf220c82ba84d&v=4",
+    "profile_url": "https://github.com/octocat",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Spoon-Knife",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 36.95454659242852,
+            "stars": 12812,
+            "forks": 148497,
+            "language": "HTML",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "updatedAt": "2025-02-02T01:35:04Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Hello-World",
+            "description": "My first repository on GitHub!",
+            "score": 27.86508979706765,
+            "stars": 2822,
+            "forks": 2605,
+            "language": null,
+            "url": "https://github.com/octocat/Hello-World",
+            "updatedAt": "2025-02-01T06:24:01Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "octocat.github.io",
+            "description": null,
+            "score": 22.34734266681487,
+            "stars": 775,
+            "forks": 366,
+            "language": "CSS",
+            "url": "https://github.com/octocat/octocat.github.io",
+            "updatedAt": "2025-02-01T23:14:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hello-worId",
+            "description": "My first repository on GitHub.",
+            "score": 20.612730839147194,
+            "stars": 509,
+            "forks": 201,
+            "language": null,
+            "url": "https://github.com/octocat/hello-worId",
+            "updatedAt": "2025-02-01T18:54:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-consortium",
+            "description": "This repo is for demonstration purposes only.",
+            "score": 19.170773538074734,
+            "stars": 393,
+            "forks": 108,
+            "language": null,
+            "url": "https://github.com/octocat/git-consortium",
+            "updatedAt": "2025-02-01T22:26:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test-repo1",
+            "description": null,
+            "score": 16.460347043638514,
+            "stars": 296,
+            "forks": 25,
+            "language": null,
+            "url": "https://github.com/octocat/test-repo1",
+            "updatedAt": "2025-02-01T06:24:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16785,
+    "following": 9,
+    "public_repos": 203,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned web developer with a passion for crafting visually appealing and user-friendly interfaces, I leverage my expertise in CSS and HTML to bring creative visions to life. With over a decade of experience, I've consistently honed my skills through the development of 203 public repositories, catering to a community of 16,785 devoted followers who appreciate my dedication to delivering innovative solutions.\n\nThroughout my career, I've had the privilege of working on a diverse range of projects, from designing sleek and modern websites to building user-centric applications. My proficiency in CSS and HTML allows me to create seamless and responsive experiences that exceed expectations. Whether you're a fellow developer, a designer, or a stakeholder, my mission is to use open-source development to empower and connect communities around the world."
+}

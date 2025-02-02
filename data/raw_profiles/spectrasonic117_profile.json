@@ -1,0 +1,159 @@
+{
+    "username": "spectrasonic117",
+    "name": "Spectrasonic",
+    "bio": "\u2699\ufe0f Working at @HexaCreators\r\n\ud83c\udf10 Minecraft Dev: Plugins, Config\r\n\ud83d\udcbb Dev: Java, JS, Python, Bash\r\n\ud83e\udd84 @NineBlockStudio Founder\r\n\ud83c\udf87 Hice un concierto para Esteman",
+    "location": "M\u00e9xico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77695108?u=fcecabcc0c4dd4e0faab7396726e26c68d9e1772&v=4",
+    "profile_url": "https://github.com/spectrasonic117",
+    "top_languages": [
+        [
+            "Java",
+            27
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "minecraft-optimization-es",
+            "description": "Guia de optimizaci\u00f3n de servidores de Minecraft",
+            "score": 13.03682424349854,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/spectrasonic117/minecraft-optimization-es",
+            "updatedAt": "2025-01-12T01:38:04Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "PyTools",
+            "description": "tools for diary use writen in Python",
+            "score": 11.548711676875094,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/spectrasonic117/PyTools",
+            "updatedAt": "2023-10-20T05:01:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "mkserver",
+            "description": "script that create a minecraft server",
+            "score": 10.267755834526275,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/spectrasonic117/mkserver",
+            "updatedAt": "2024-06-21T16:36:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "mkastro",
+            "description": "Bin to create astro projects (works on macOS and Linux)",
+            "score": 10.248727953004634,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/spectrasonic117/mkastro",
+            "updatedAt": "2024-09-13T20:44:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "snowtargetminigame",
+            "description": "Snow target Game for Bobicraft",
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/spectrasonic117/snowtargetminigame",
+            "updatedAt": "2025-01-31T23:35:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CodeWhitelist",
+            "description": "generate a code to play in the server",
+            "score": 1.804877331033326,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/spectrasonic117/CodeWhitelist",
+            "updatedAt": "2025-01-27T17:53:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "responsive-menu-react",
+            "description": "responsive menu created in react, is a practice to know how react works",
+            "score": 1.6414946722073407,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/spectrasonic117/responsive-menu-react",
+            "updatedAt": "2024-02-16T18:25:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "notes-app",
+            "description": "Notes app writen in JS",
+            "score": 1.5475714388454296,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/spectrasonic117/notes-app",
+            "updatedAt": "2023-10-12T18:29:20Z",
+            "isPinned": false,
+            "homepage": "https://notes-app-virid-ten.vercel.app"
+        }
+    ],
+    "followers": 17,
+    "following": 32,
+    "public_repos": 84,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 232,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/spectrasonic117"
+        }
+    ],
+    "readme_content": "<div align=center><img src=\"assets/profile.svg\" alt=\"profile-spectra\" border=\"0\" width=\"256\"> </div>\n\n<div align=\"center\">\n\n![vistcount](https://komarev.com/ghpvc/?username=spectrasonic117&color=CF0234&style=for-the-badge)\n\n</div>\n\n<h1 align=center><b>Spectrasonic</b></h1>\n\n<h2 align=center><a href=\"https://bit.ly/spectrasonic\" target=\"_blank\"><b>\ud83c\udf1f Web Personal \ud83c\udf1f</b></a></h2>\n\n## Acerca de mi\n\nHola soy **_Spectrasonic_**...\n\n\ud83d\udccd Vivo en Mexico\n\n\ud83c\udf97\ufe0f Fundador y CEO de la desarolladora **[NineBlock Studio][10]**\n\n\ud83c\udfae Cofundador y CIO de **Dramacraft**\n\n## Lenguajes que domino:\n\n![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n![Javascripts](https://img.shields.io/badge/-javascrpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)\n![JAVA](https://img.shields.io/badge/java-EC2025?style=for-the-badge&logo=java&logoColor=ffdd54)\n![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\n![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)\n![LUA](https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)\n![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)\n\n## Otras Technologias\n\n![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)\n![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)\n![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)\n![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=Fedora&logoColor=white)\n![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)\n![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)\n![ClickUp](https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)\n![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)\n![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\n![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)\n![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)\n![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?style=for-the-badge&logo=Gitlab&logoColor=white)\n![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\n![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=Lunacy&logoColor=white)\n![Penpot](https://img.shields.io/badge/Penpot-000?style=for-the-badge&logo=Penpot&logoColor=white)\n![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)\n![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)\n![Trello](https://img.shields.io/badge/Trello-026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)\n![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)\n![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)\n![Open Source](https://img.shields.io/badge/open%20source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)\n\n## Habilidades Informaticas\n\n-   Terminal Unix\n-   Git\n-   VSCODE\n-   Web Design\n-   Web Development\n-   UI/UX\n\n## Hobbies\n\nMi juego favorito es **Minecraft** Disfruto tanto jugando, como creando recursos.\nAhora ando viciado al Balatro\n\nEstoy a disposicion para hacer bajo comisi\u00f3n:\n\n-   _Servidores_\n-   _Plugins Java_\n-   _Datapacks_\n-   _Texturas_\n-   _Resource Packs_\n\n[![Minecraft-Profile](https://img.shields.io/badge/Minecraft%20Profile-62B47A.svg?style=for-the-badge&logo=Minetest&logoColor=white)][9]\n\nTengo un plugin de optimizacion de servidores propio llamado **Redstonium Core**\n\nMe dedico a programar Plugins de Minecraft\n\n\ud83c\udfa7 Gusto de escuchar mucha musica en todo momento.\n\n\ud83c\udfa8 Tambien me gusta mucho el Dise\u00f1o grafico.\n\n## Contacto\n\n_Puedes contactar comingo o simplemete seguirme en estas redes sociales:_\n\n[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)][1]\n[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][2]\n[![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?style=for-the-badge&logo=Gitlab&logoColor=white)][7]\n[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)][8]\n[![Discord](https://img.shields.io/badge/Redstonium%20quantum-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)][11]\n\n## Developing Now\n\n-   Pagina Web de **[NineBlock Studio][10]**\n-   Datapack de Minecraft de Teletransporte a zonas\n-   Mi propio Texture Pack para Minecraft (No publico)\n-   Nether Potal Calculator with PythonUI\n\n## Finish Proyects\n\n-   Minecraft Datapack que te dice las coordenadas de donde has muerto en el mundo\n-   Bot de Discord **[Omnispectra][4]**\n-   Bot de Discord **[ColorfulPanic][5]** (Repositorio Privado)\n\n## Extras\n\n-   Mi Artista favorita es **Carly Rae Jepsen** \ud83d\udc9d\n-   Mi Genero favorito de M\u00fasica es el **Trance**\n-   Tengo una cuenta en [**Gitlab**][7]\n-   Uso el Suite de Dise\u00f1o Grafico de **Affinity** (Mas estable que la de Adobe)\n\n---\n\n<p align=\"right\"><img src=\"assets/dev.svg\" width=\"25\"> with <img src=\"assets/heart.svg\" width=\"20\"> by <strong>Spectrasonic</strong></p>\n\n<!--Links-->\n\n[1]: https://twitter.com/spectrasonic117\n[2]: https://instagram.com/spectrasonic117\n[3]: https://spectrasonic.bandcamp.com/album/endless-summer\n[4]: https://github.com/spectrasonic117/Omnispectra\n[5]: https://twitter.com/colorful_panic\n[6]: https://github.com/spectrasonic117\n[7]: https://gitlab.com/spectrasonic117\n[8]: https://twitch.tv/spectrasonic117\n[9]: https://es.namemc.com/profile/Spectrasonic.1\n[10]: https://twitter.com/NineBlockStudio\n[11]: https://discord.gg/6v8C7X2Ekc\n\n<!-- Not Used -->\n\n<!--\n\n![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)\n\n![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=ffffff)\n\n\n-   Tengo un album de Studio totalmente producido por mi en mi pagina de [Bandcamp][3] (No lo escuchen no sabia que hacia en ese entonces xd)\n-   Uso **Ableton Live** para producicon de musica\n -->\n",
+    "activity_summary": {
+        "spectrasonic117/mkplugin-bin": {
+            "link": "https://github.com/spectrasonic117/mkplugin-bin",
+            "summary": "Recent updates for mkplugin-bin include rewriting binaries, fixing bugs in the main method, and addressing issues in build.gradle. Multiple updates have been made to improve the plugin's stability and functionality."
+        },
+        "spectrasonic117/HexaUtils": {
+            "link": "https://github.com/spectrasonic117/HexaUtils",
+            "summary": "HexaUtils has seen significant updates with the addition of the NightVision Command, improvement of SendMessage and WarpSystem, and the fixing of a bug in HexaUtils.java. Changes also included reorganization of code and release updates."
+        },
+        "spectrasonic117/spectrasonic117": {
+            "link": "https://github.com/spectrasonic117/spectrasonic117",
+            "summary": "The repository owner has made minor updates to the README.md file, ensuring it accurately reflects the project's status. While no major code changes have occurred, these updates are essential for maintaining the project's transparency."
+        },
+        "spectrasonic117/snowtargetminigame": {
+            "link": "https://github.com/spectrasonic117/snowtargetminigame",
+            "summary": "A single update was made to the repository, adding a Readme to improve the project's visibility. There are no further significant changes reported in this timeframe."
+        },
+        "spectrasonic117/MultiWarp": {
+            "link": "https://github.com/spectrasonic117/MultiWarp",
+            "summary": "The addition of a Readme to the repository has taken place, but no additional changes were recorded. This indicates a focus on documentation and accessibility for users."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized profile description:\n\nHighly skilled and experienced software developer with expertise in Java, C++, and Python programming languages. As a seasoned developer at Hexa Creators, I have established a strong professional network of 17 followers and have contributed to 84 public repositories, demonstrating my active involvement in the development community.\n\nMy passion for Minecraft game development has led to the creation of Minecraft Dev: Plugins and Config, as well as founding NineBlock Studio, where I showcase my craftsmanship through innovative plugins and datapacks.\n\nWith a unique blend of technical skills, business acumen, and creative flair, I leverage technologies like Node.js, Electron.js, and Open Source tools to deliver high-quality solutions. My problem-solving skills, honed through hands-on experience with Trello, Linux, and Git, enable me to tackle complex problems efficiently.\n\nWhen not developing, I enjoy Web Design, Web Development, UI/UX design, and music production. Connect with me on Twitter, Instagram, or Discord to explore collaborations, learn more about my projects, or simply engage in a lively discussion about tech, art, or music."
+}

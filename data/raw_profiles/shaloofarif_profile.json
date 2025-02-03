@@ -1,0 +1,126 @@
+{
+    "username": "shaloofarif",
+    "name": "shaloofarif",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86169228?v=4",
+    "profile_url": "https://github.com/shaloofarif",
+    "top_languages": [
+        [
+            "PHP",
+            3
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Product_Database_Redcherry",
+            "description": null,
+            "score": 1.7589326087175943,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/shaloofarif/Product_Database_Redcherry",
+            "updatedAt": "2024-12-11T17:56:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RentalSystem",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/shaloofarif/RentalSystem",
+            "updatedAt": "2025-01-15T08:43:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BlogApplication",
+            "description": null,
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shaloofarif/BlogApplication",
+            "updatedAt": "2025-01-04T01:31:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ToDoApp",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/shaloofarif/ToDoApp",
+            "updatedAt": "2024-12-23T15:39:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "admin-user-system",
+            "description": null,
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/shaloofarif/admin-user-system",
+            "updatedAt": "2024-12-16T21:20:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "loan-predictor",
+            "description": null,
+            "score": 0.1558822892879757,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shaloofarif/loan-predictor",
+            "updatedAt": "2023-06-03T18:25:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rangecalculator",
+            "description": "This is a program i made to to check how much kilometres my scototer will run by filling Rs x petrol-(input).",
+            "score": 0.1443102070578866,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shaloofarif/rangecalculator",
+            "updatedAt": "2023-06-04T06:20:43Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "ReRentalSystem": {
+            "link": "https://github.com/shaloofarif/RentalSystem",
+            "summary": "On January 15th, 2025, the RentalSystem repository saw a push event. This indicates that the developer made updates to the repository with new code."
+        }
+    },
+    "profile_summary": "As a versatile software developer with expertise in PHP, JavaScript, and Python, I leverage my skills to create robust solutions for real-world problems. With a strong foundation in web development and experience working with various programming languages, I am well-equipped to tackle complex projects. My active contributions to 7 public repositories demonstrate my commitment to continuous learning and innovation."
+}

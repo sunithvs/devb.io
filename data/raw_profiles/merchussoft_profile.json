@@ -1,0 +1,146 @@
+{
+    "username": "merchussoft",
+    "name": "merchussoft",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/49011547?u=4768fcbb14354afa4b1796baf64e3add8505d34e&v=4",
+    "profile_url": "https://github.com/merchussoft",
+    "top_languages": [
+        [
+            "JavaScript",
+            11
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "anmerastoreapi",
+            "description": "api para la implemtacion de una tienda online",
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/merchussoft/anmerastoreapi",
+            "updatedAt": "2025-01-21T21:18:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rembg",
+            "description": "apllicacion tipo api para procesar el fondo de las imagenes y removerlos",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/merchussoft/rembg",
+            "updatedAt": "2025-01-31T15:22:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "codepulse",
+            "description": "aplicacion para el saas y gestion de procesos de un negocio",
+            "score": 0.43681001432994365,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/merchussoft/codepulse",
+            "updatedAt": "2025-01-04T02:54:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "links-socials",
+            "description": "aplicacion para tener todos las redes sociales en una sola parte",
+            "score": 0.34850774036117615,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/merchussoft/links-socials",
+            "updatedAt": "2024-11-21T16:28:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "server_rtmp_stream",
+            "description": "servidor rtmp para gestionar varios streams desde un solo rtmp",
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/merchussoft/server_rtmp_stream",
+            "updatedAt": "2024-10-17T18:56:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chatbottiktok",
+            "description": "webapp para servicio de bot para tiktok",
+            "score": 0.3178977130047066,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/merchussoft/chatbottiktok",
+            "updatedAt": "2025-01-31T00:09:27Z",
+            "isPinned": false,
+            "homepage": "https://chatbottiktok.vercel.app"
+        },
+        {
+            "name": "tiktokchat",
+            "description": null,
+            "score": 0.2948347119468324,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/merchussoft/tiktokchat",
+            "updatedAt": "2024-08-26T02:03:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tiktokchatapi",
+            "description": "se crea api para la conexion y rastreo del chat de tiktok cuando se establace un en vivo",
+            "score": 0.2907509055443496,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/merchussoft/tiktokchatapi",
+            "updatedAt": "2025-01-30T20:43:04Z",
+            "isPinned": false,
+            "homepage": "https://tiktokchatapi.vercel.app"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 18,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 255,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "merchussoft/tiktokchatapi": {
+            "link": "https://github.com/merchussoft/tiktokchatapi",
+            "summary": "Significant activities in the merchussoft/tiktokchatapi repository include updates to the Docker deployment process, Node.js installation, and Jenkins deployment. Recent commit messages suggest issues with SonarQube and npm installation."
+        },
+        "merchussoft/rembg": {
+            "link": "https://github.com/merchussoft/rembg",
+            "summary": "Recent activities in merchussoft/rembg focus on OpenCV updates, Dockerfile modifications, and removing background from images and videos. A new progress bar was added to track deployment status."
+        },
+        "merchussoft/chatbottiktok": {
+            "link": "https://github.com/merchussoft/chatbottiktok",
+            "summary": "Key updates in merchussoft/chatbottiktok involve adjusting SonarQube uploads, adding a container name, and uploading two new files. An overlay for TikTok was also updated."
+        }
+    },
+    "profile_summary": "As a seasoned software developer, I specialize in deploying high-quality web applications using JavaScript, TypeScript, and Python. My expertise lies in crafting robust front-end experiences with a strong focus on user-centric design. With a portfolio of 18 public repositories and a growing network of 1 follower, I remain committed to the development of maintainable and scalable software solutions."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "elpitagoras14",
+    "name": "Jonathan Garc\u00eda",
+    "bio": "All memories are part of my life, even my failures.",
+    "location": "Guayaquil, Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/73242534?u=c7284972dba75dbf9c1a867a61a8019c4d51dd41&v=4",
+    "profile_url": "https://github.com/ElPitagoras14",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "subnetting",
+            "description": "Code written in python where the algorithm for IP segmentation with FLSM and VLSM techniques is used.",
+            "score": 12.410329582083119,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ElPitagoras14/subnetting",
+            "updatedAt": "2024-06-30T15:19:46Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "api-docs",
+            "description": "OpenAPI documentation styled for the whole APIs I've made",
+            "score": 11.614380264088204,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ElPitagoras14/api-docs",
+            "updatedAt": "2024-06-30T15:19:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto2G5",
+            "description": "El juego consiste en que la computadora adivine el nombre de un animal que el usuario est\u00e1 pensando para lo cual le har\u00e1 unas preguntas y basadas en las respuestas tratara de adivinar; y en caso de que el usuario no haya adivinado, el usuario podr\u00e1 agregar ese animal que no adivino.",
+            "score": 5.483278822182692,
+            "stars": 13,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ElPitagoras14/Proyecto2G5",
+            "updatedAt": "2024-07-24T05:30:04Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "servidor_proy_dawm",
+            "description": null,
+            "score": 2.639657356953748,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/ElPitagoras14/servidor_proy_dawm",
+            "updatedAt": "2024-06-30T15:19:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bert_espol",
+            "description": "Proyecto NLP",
+            "score": 2.63682009118868,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/ElPitagoras14/Bert_espol",
+            "updatedAt": "2024-06-30T15:19:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ElPitagoras14.github.io",
+            "description": null,
+            "score": 1.6538742689119466,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElPitagoras14/ElPitagoras14.github.io",
+            "updatedAt": "2024-11-19T21:58:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "subnetting-static-web",
+            "description": null,
+            "score": 1.6536992175428367,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ElPitagoras14/subnetting-static-web",
+            "updatedAt": "2024-10-08T15:39:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pre-taws-g1",
+            "description": null,
+            "score": 1.6359276836591923,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ElPitagoras14/pre-taws-g1",
+            "updatedAt": "2024-06-30T15:19:47Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 21,
+    "following": 43,
+    "public_repos": 44,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 259,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ElPitagoras14"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jonathan-garcia-elpi/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Jonathan Garcia</h1>\n<h3 align=\"center\">A computer science student from Ecuador.</h3>\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=elpitagoras14&label=Profile%20views&color=0e75b6&style=flat\" alt=\"elpitagoras14\" /> </p>\n\n<p align=\"left\"> <a href=\"https://twitter.com/elpitagoras14\" target=\"blank\"><img src=\"https://img.shields.io/twitter/follow/elpitagoras14?logo=twitter&style=for-the-badge\" alt=\"elpitagoras14\" /></a> </p>\n\n- \ud83c\udf31 I\u2019m currently learning **React, FastAPI and Algorithm Design**\n\n- \ud83d\udc68\u200d\ud83d\udcbb All of my projects are available at [https://github.com/ElPitagoras14](https://github.com/ElPitagoras14)\n\n- \ud83d\udcac Ask me about **java, python, clojure and javascript**\n\n- \ud83d\udceb How to reach me **jhony-2001-2011@outlook.com**\n\n- \ud83d\udcbc My own website powered by Github Pages at [https://elpitagoras14.github.io/](https://elpitagoras14.github.io/)\n\n- \u26a1 Fun fact **I really like video games and usually see anime.**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/elpitagoras14\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"elpitagoras14\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/jonathan-garcia-elpi\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"jonathan-garcia-elpi\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://kaggle.com/elpitagoras14\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg\" alt=\"elpitagoras14\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://fb.com/jhony.garcia.alvarez.14\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg\" alt=\"jhony.garcia.alvarez.14\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://instagram.com/_afjhony\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"_afjhony\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://medium.com/@jonfrgar\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg\" alt=\"@jonfrgar\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://www.leetcode.com/elpitagoras14\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg\" alt=\"elpitagoras14\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://discord.gg/HB4hqM2b\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg\" alt=\"HB4hqM2b\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://angular.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://angular.io/assets/images/logos/angular/angular.svg\" alt=\"angular\" width=\"40\" height=\"40\"/> </a> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" alt=\"aws\" width=\"40\" height=\"40\"/> </a> <a href=\"https://clojure.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg\" alt=\"clojure\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cs/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg\" alt=\"csharp\" width=\"40\" height=\"40\"/> </a> <a href=\"https://dart.dev\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg\" alt=\"dart\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/figma/figma-icon.svg\" alt=\"figma\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://heroku.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg\" alt=\"heroku\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://pandas.pydata.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg\" alt=\"pandas\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.photoshop.com/en\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg\" alt=\"photoshop\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://redis.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg\" alt=\"redis\" width=\"40\" height=\"40\"/> </a> <a href=\"https://scikit-learn.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg\" alt=\"scikit_learn\" width=\"40\" height=\"40\"/> </a> <a href=\"https://seaborn.pydata.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://seaborn.pydata.org/_images/logo-mark-lightbg.svg\" alt=\"seaborn\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.tensorflow.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg\" alt=\"tensorflow\" width=\"40\" height=\"40\"/> </a> <a href=\"https://unity.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg\" alt=\"unity\" width=\"40\" height=\"40\"/> </a> </p>\n\n<h3 align=\"left\">Support:</h3>\n<p><a href=\"https://www.buymeacoffee.com/jhonyg\"> <img align=\"left\" src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" height=\"50\" width=\"210\" alt=\"jhonyg\" /></a></p><br><br><br>\n\n\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=elpitagoras14&show_icons=true&theme=dracula&locale=en&layout=compact\" alt=\"elpitagoras14\" /></p><br><br><br><br><br><br><br><br>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=elpitagoras14&show_icons=true&theme=dracula&locale=en\" alt=\"elpitagoras14\" /></p>\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

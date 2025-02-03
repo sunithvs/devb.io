@@ -1,0 +1,142 @@
+{
+    "username": "dannauribe",
+    "name": "danna valeria uribe santiago",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/165754798?u=289616a663bf1144a5ea819f76fbf5757b1691e0&v=4",
+    "profile_url": "https://github.com/DANNAURIBE",
+    "top_languages": [
+        [
+            "PHP",
+            2
+        ],
+        [
+            "SCSS",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "BD",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/DANNAURIBE/BD",
+            "updatedAt": "2025-01-17T04:10:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pagina",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/DANNAURIBE/pagina",
+            "updatedAt": "2025-01-17T04:03:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Alcaldia",
+            "description": "proyecto que mejore visualmente ",
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/DANNAURIBE/Alcaldia",
+            "updatedAt": "2025-01-10T04:02:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "3D",
+            "description": null,
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DANNAURIBE/3D",
+            "updatedAt": "2025-01-10T00:44:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portafolio_css_puro",
+            "description": "tiene mejor estructurado el css",
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/DANNAURIBE/portafolio_css_puro",
+            "updatedAt": "2025-01-14T22:42:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portafolio",
+            "description": "portafolio personal con html y css puro",
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/DANNAURIBE/portafolio",
+            "updatedAt": "2025-01-04T17:08:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "formulario",
+            "description": "front poliedro",
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/DANNAURIBE/formulario",
+            "updatedAt": "2024-12-09T03:20:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "prestamos-de-materiales",
+            "description": null,
+            "score": 0.28587633282619346,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/DANNAURIBE/prestamos-de-materiales",
+            "updatedAt": "2024-08-01T02:03:49Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "portafolio_css_puro": {
+            "link": "https://github.com/DANNAURIBE/portafolio_css_puro",
+            "summary": "There have been significant activities on the portafolio_css_puro repository. Recent changes include modifications to the directory structure, image updates, link functionality, and point additions on January 14, 2025."
+        },
+        "3D": {
+            "link": "https://github.com/DANNAURIBE/3D",
+            "summary": "There have been some activities on the 3D repository. On January 10, 2025, files were uploaded, indicating new content addition to the repository."
+        }
+    },
+    "profile_summary": "\"Danna Valeria Ur\u00edbe Santiago is a dedicated PHP developer with expertise in SCSS and JavaScript, driving results through efficient coding and collaborative teamwork. With a focus on building robust applications, I leverage my technical skills to craft scalable solutions that meet complex needs, and share my knowledge through open-source contributions. Active in the development community, I aim to foster growth and innovation through participation in collaborative projects, as evident in my 10 publicly available repositories.\""
+}

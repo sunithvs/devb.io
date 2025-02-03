@@ -1,0 +1,52 @@
+{
+    "username": "jmartinez22981019",
+    "name": "jmartinez22981019",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/149726366?v=4",
+    "profile_url": "https://github.com/jmartinez22981019",
+    "top_languages": [
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ninja",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jmartinez22981019/ninja",
+            "updatedAt": "2025-02-03T01:11:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mi-proyecto4-html",
+            "description": null,
+            "score": 0.16404671587218408,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/jmartinez22981019/mi-proyecto4-html",
+            "updatedAt": "2023-11-17T23:06:15Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a skilled web developer with expertise in HTML, I leverage my knowledge to craft robust and semantic web applications. With a strong foundation in HTML, I'm well-versed in structuring and styling content effectively. I'm actively contributing to my community through a portfolio of open-source projects, currently working on [Repository 1] and [Repository 2]."
+}

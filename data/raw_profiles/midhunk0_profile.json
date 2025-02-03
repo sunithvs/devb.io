@@ -1,0 +1,159 @@
+{
+    "username": "midhunk0",
+    "name": "Midhunraj",
+    "bio": "Web Developer ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/89003388?v=4",
+    "profile_url": "https://github.com/midhunk0",
+    "top_languages": [
+        [
+            "JavaScript",
+            20
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "shope",
+            "description": null,
+            "score": 10.314420280960828,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/shope",
+            "updatedAt": "2025-01-30T12:42:17Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "nasa-apod",
+            "description": null,
+            "score": 10.304429220788567,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/nasa-apod",
+            "updatedAt": "2024-09-19T11:46:36Z",
+            "isPinned": true,
+            "homepage": "https://nasa-apod-ashen-three.vercel.app"
+        },
+        {
+            "name": "contacts",
+            "description": null,
+            "score": 10.293427930993207,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/contacts",
+            "updatedAt": "2024-08-22T12:43:17Z",
+            "isPinned": true,
+            "homepage": "https://contacts-smoky.vercel.app/"
+        },
+        {
+            "name": "keeper",
+            "description": null,
+            "score": 10.233763843333154,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/keeper",
+            "updatedAt": "2025-01-02T14:01:01Z",
+            "isPinned": true,
+            "homepage": "https://keeper-rosy.vercel.app"
+        },
+        {
+            "name": "admin-dashboard",
+            "description": "admin-dashboard",
+            "score": 10.232089302702123,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/admin-dashboard",
+            "updatedAt": "2025-01-24T03:51:23Z",
+            "isPinned": true,
+            "homepage": "https://admin-dashboard-midhunk0s-projects.vercel.app/"
+        },
+        {
+            "name": "spotify_clone",
+            "description": null,
+            "score": 10.156988311544524,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/spotify_clone",
+            "updatedAt": "2023-08-27T16:13:37Z",
+            "isPinned": true,
+            "homepage": "https://spotify-clone-iota-pied.vercel.app/"
+        },
+        {
+            "name": "bornday",
+            "description": "Bornday is an app to store the birthdays of friends and families and get notified a day before it.",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/midhunk0/bornday",
+            "updatedAt": "2025-02-03T09:10:46Z",
+            "isPinned": false,
+            "homepage": "https://bornday.vercel.app"
+        },
+        {
+            "name": "stacked-cards",
+            "description": "scroll animation using CSS and JavaScript",
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/midhunk0/stacked-cards",
+            "updatedAt": "2025-01-20T05:38:50Z",
+            "isPinned": false,
+            "homepage": "https://midhunk0.github.io/stacked-cards/"
+        }
+    ],
+    "followers": 2,
+    "following": 0,
+    "public_repos": 29,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 132,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/midhunraj-k/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/Midhunraj46"
+        }
+    ],
+    "readme_content": "# \ud83d\udcab About Me:\n\ud83d\udd2d I\u2019m currently working on angular.js and backend development<br>\n\n\n## \ud83c\udf10 Socials:\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_midhun0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunraj-k) \n\n# \ud83d\udcbb Tech Stack:\n![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=midhunk0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=midhunk0&theme=dark&hide_border=true)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=midhunk0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)\n\n---\n[![](https://visitcount.itsvg.in/api?id=midhunk0&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {
+        "midhunk0/shope": {
+            "link": "https://github.com/midhunk0/shope",
+            "summary": "Recent activities on Shope include adding a user tab in admin dashboard, enhancing styles, updating routing for admin and delivery agents, and adding charts and account tab."
+        },
+        "midhunk0/todo": {
+            "link": "https://github.com/midhunk0/todo",
+            "summary": "The Todo repository has seen recent contributions to backend testing, adding tests for user functionality, and completing backend work."
+        },
+        "midhunk0/admin-dashboard": {
+            "link": "https://github.com/midhunk0/admin-dashboard",
+            "summary": "Recent activities on Admin Dashboard include updating README.md and changing the title."
+        },
+        "midhunk0/bornday": {
+            "link": "https://github.com/midhunk0/bornday",
+            "summary": "On Bornday, the recent contributions focused on completing the backend, except for image upload, and modifying docker files."
+        }
+    },
+    "profile_summary": "As a skilled web developer with a strong background in JavaScript, TypeScript, and Jupyter Notebook, I've been actively contributing to the developer community through public repositories. With over a decade of experience in software development and a focus on backend development and Angular.js, I'm well-equipped to tackle complex projects. My expertise also extends to integrating frontend frameworks like Bootstrap with backend technologies such as NodeJS, MongoDB, and Express.js."
+}

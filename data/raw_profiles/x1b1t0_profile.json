@@ -1,0 +1,78 @@
+{
+    "username": "x1b1t0",
+    "name": "x1b1t0",
+    "bio": "\ud83d\udcbb Computer Science student passionate about cybersecurity and programming.\r\n\ud83c\udfaf Aspiring to build a career in tech.\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/183842281?u=7fea399c75ff8e1fb6dc8af4c848051a7696eb76&v=4",
+    "profile_url": "https://github.com/x1b1t0",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Bash-Scripts",
+            "description": null,
+            "score": 10.721347520444482,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/x1b1t0/Bash-Scripts",
+            "updatedAt": "2025-02-01T11:21:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Google-Sheets-Incident-Email-Notifier",
+            "description": null,
+            "score": 10.500712301043,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/x1b1t0/Google-Sheets-Incident-Email-Notifier",
+            "updatedAt": "2025-01-15T08:40:41Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Minetest-Project",
+            "description": null,
+            "score": 10.492688108129578,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/x1b1t0/Minetest-Project",
+            "updatedAt": "2025-01-31T15:39:31Z",
+            "isPinned": true,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 66,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.instagram.com/x1bit0/?hl=es"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

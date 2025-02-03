@@ -1,0 +1,151 @@
+{
+    "username": "shaheem-pp",
+    "name": "Shaheem PP",
+    "bio": "Building web for Social Good | Learning to build iOS App for Django backend | Python | Django | Swift | SwiftUI",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/46243023?u=ebfa43150e71ce8b8a4ef156d7162797493225e9&v=4",
+    "profile_url": "https://github.com/shaheem-pp",
+    "top_languages": [
+        [
+            "Swift",
+            12
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "100-Days-of-Swift",
+            "description": "100 Days of swift is a 100 Day challenge to learn iOS Development ",
+            "score": 13.454250274220282,
+            "stars": 2,
+            "forks": 1,
+            "language": "Swift",
+            "url": "https://github.com/shaheem-pp/100-Days-of-Swift",
+            "updatedAt": "2024-06-11T22:50:21Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "whatsapp-clone-swiftui",
+            "description": null,
+            "score": 11.639036861754041,
+            "stars": 1,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/shaheem-pp/whatsapp-clone-swiftui",
+            "updatedAt": "2024-02-08T02:20:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "meta-ios-projects",
+            "description": null,
+            "score": 10.243709924272382,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/shaheem-pp/meta-ios-projects",
+            "updatedAt": "2024-05-22T20:43:16Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "python_practice",
+            "description": null,
+            "score": 10.070101671452187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/shaheem-pp/python_practice",
+            "updatedAt": "2021-12-28T16:00:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "shaheem-pp-firebase",
+            "description": "My Personal Site",
+            "score": 2.266943473869668,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/shaheem-pp/shaheem-pp-firebase",
+            "updatedAt": "2022-11-04T14:41:51Z",
+            "isPinned": false,
+            "homepage": "https://shaheem-pp.web.app/"
+        },
+        {
+            "name": "diaryProject",
+            "description": null,
+            "score": 1.7194748835052043,
+            "stars": 0,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/shaheem-pp/diaryProject",
+            "updatedAt": "2022-02-27T14:09:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vs-code-settings",
+            "description": null,
+            "score": 1.6059899462901976,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/shaheem-pp/vs-code-settings",
+            "updatedAt": "2024-05-23T20:02:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Explore-Bikes",
+            "description": null,
+            "score": 1.1112300821302354,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/shaheem-pp/Explore-Bikes",
+            "updatedAt": "2022-02-12T16:25:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 46,
+    "following": 39,
+    "public_repos": 84,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 277,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/the.codeholic/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shaheem-pp/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi, I'm Shaheem\ud83d\udc4b</h1>\n<h3 align=\"center\">A passionate web developer and international student based in Toronto</h3>\n\n<p align=\"center\">\n<!--   <a href=\"mailto:shaheempp@example.com\"><img src=\"https://img.shields.io/badge/Email-shaheempp%40example.com-red\"></a> -->\n  <a href=\"https://www.linkedin.com/in/shaheem-pp/\"><img src=\"https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue\"></a>\n  <a href=\"https://shaheem.netlify.app\"><img src=\"https://img.shields.io/badge/Personal%20Website-shaheem--pp-lightgrey\"></a>\n</p>\n\n---\n\n### About Me\n\nI'm Shaheem, a dedicated web developer specializing in backend development with 1.6 years of experience. I excel in the Django Framework and have a strong command of front-end technologies like HTML, CSS, and Bootstrap. Currently, I'm pursuing a Post Graduation in Full Stack Software Development at Lambton College, Toronto. I hold a bachelor's degree from Calicut University, which equipped me with expertise in Data Structures, Algorithms, and Web Development.\n\n### Experience\n\n**Backend Developer - Agua India**  \n*September 2023 - January 2024*  \n- Developed the entire backend system for a user base of 20,000+ across multiple cities.\n- Engineered tools for user and partner apps, improving order processing and delivery workflows.\n- Designed a user-friendly dashboard, enhancing sales productivity by 40%.\n- Ensured 99% system uptime and seamless user experience.\n\n**Junior Backend Developer - Cynbus**  \n*August 2022 - August 2023*  \n- Developed logical and database components using Django and REST API.\n- Deployed products on cloud platforms like AWS and DigitalOcean.\n- Created CMS using HTML, CSS, Bootstrap, jQuery, and AJAX.\n- Contributed to software used by 13,000+ users across Kerala.\n\n**Campus Community Manager - TinkerHub Foundation**  \n*June 2021 - January 2022*  \n- Onboarded 15+ campuses, fostering a vibrant tech community across Kerala.\n- Managed 60+ campuses, organized activities, and increased student participation by 40%.\n- Mentored over 100 students, resulting in a 25% increase in student-led tech initiatives.\n\n### Projects\n\n- **[Food For All](https://github.com/AkshayBenny/food-surplus-detection):** Developed a web application to combat food waste and hunger using Django Rest Framework and Next.js.\n- **[Explore Bikes](https://github.com/shaheem-pp/Explore-Bikes):** Constructed an E-Commerce platform for booking vehicles and services using Django Framework.\n- **Shareio:** A blog writing app with features for creating, updating, and deleting blogs using Django Framework, HTML, CSS, JS, and Bootstrap.\n- **Daybook:** A personalized diary writing website developed with Django Framework and Python.\n- **LittleLemon Reservation App:** A SwiftUI app for reserving seats in a hypothetical restaurant called Little Lemon.\n- **100 Days of Swift:** Completed 50 days of building mini apps using UIKit and integrating APIs as part of the challenge.\n\n### Achievements\n\n- **Django Developer - Al-Hudha Orphanage:** Led the digital transformation by developing a Django-based web solution to manage over 20 years of student data.\n- **Marketing and Outreach Coordinator - Pygrammers:** Spearheaded community outreach and managed social media presence, enhancing member engagement.\n- **Microsoft Learn Student Ambassador:** Organized events and facilitated knowledge sharing among peers.\n- **Founder - TinkerHub SIAS:** Established and led a tech community, guiding students in skill enhancement and career support.\n- **Co-Founder - Techsias:** Managed diverse teams and orchestrated impactful events like bootcamps and hackathons.\n\n### Skills\n\n- **Languages:** Python, Swift, JavaScript, HTML, CSS\n- **Frameworks:** Django, Django Rest Framework, Bootstrap, SwiftUI\n- **Tools:** PostgreSQL, PyCharm, Xcode, VS Code, Postman, Figma, DigitalOcean\n\n### Education\n\n- **Full Stack Software Development - Lambton College**  \n  *2024 - Present*\n  \n- **Bachelor of Computer Application - Safi Institute of Advanced Study (University of Calicut)**  \n  *2019 - 2022*  \n  CGPA: 6.2\n\n- **Class 12 (Computer Science) - Umbichy Hajee Higher Secondary School (Kerala Board)**  \n  *2017 - 2019*  \n  Percentage: 85%\n\n### Contact Me\n\nFeel free to reach out to me for collaborations, project discussions, or any exciting opportunities!\n\n------\n\n[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,HTML,less&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6&hide_progress=true)]()\n\n[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheem-pp&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)\n\n[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)]()\n\n[![GitHub commit activity](https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp&theme=blue-green&hide_border=false)]()\n\n![](https://github-profile-trophy.vercel.app/?username=shaheem-pp&theme=matrix&no-frame=false&no-bg=false&margin-w=4)\n\n### \u270d\ufe0f Random Dev Quote\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)\n\n---\n[![](https://visitcount.itsvg.in/api?id=shaheem-pp&icon=5&color=3)](https://visitcount.itsvg.in)\n\n",
+    "activity_summary": {
+        "thecodeholic.netlify": {
+            "link": "https://github.com/shaheem-pp/thecodeholic.netlify",
+            "summary": "Recent activities on thecodeholic.netlify have been focused on front-end development with several design changes and updates. Key updates include adding a profile picture, modifying the footer, fixing a file 404 issue, and integrating emailjs for contact functionality."
+        },
+        "main": {
+            "link": "https://github.org",
+            "summary": "No significant activities found on the main GitHub repository."
+        }
+    },
+    "profile_summary": "I'm Shaheem PP, a professional backend web developer based in Toronto with a strong background in creating scalable and efficient applications using Django and Django Rest Framework. With a solid understanding of Python and extensive experience in front-end technologies like HTML, CSS, and Bootstrap, I thrive in building seamless user experiences. Currently pursuing my Post Graduation in Full Stack Software Development at Lambton College, I've honed my skills in web development, database management, and project deployment. My experience as a Backend Developer at Agua India and Junior Backend Developer at Cynbus has enabled me to engineer robust tools and solutions that cater to diverse user needs."
+}

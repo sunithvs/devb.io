@@ -1,0 +1,146 @@
+{
+    "username": "rsb-23",
+    "name": "Mr. RB",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/57601627?u=c09e07f63077ba5ee49a925c26e38ed1fe50f90d&v=4",
+    "profile_url": "https://github.com/rsb-23",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Batchfile",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Ek-Cup-Tcha",
+            "description": "Captcha solver extension",
+            "score": 13.137474644202179,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/rsb-23/Ek-Cup-Tcha",
+            "updatedAt": "2025-01-14T18:04:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "right-to-be-forgotten",
+            "description": "\u201cRight to be Forgotten\u201d is a right to have private information removed from the internet search engine, database, websites or other public platforms.",
+            "score": 13.070773497291095,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rsb-23/right-to-be-forgotten",
+            "updatedAt": "2025-01-18T14:27:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "digital-literacy",
+            "description": "A quick guide to invoke digital literacy among people and secure their digital life.",
+            "score": 12.412907954883627,
+            "stars": 2,
+            "forks": 0,
+            "language": "Batchfile",
+            "url": "https://github.com/rsb-23/digital-literacy",
+            "updatedAt": "2024-12-13T20:30:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "1page-automation",
+            "description": "Simple browser-based automation using 1-page python scripts",
+            "score": 12.410731348322662,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/1page-automation",
+            "updatedAt": "2024-09-27T16:35:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "text-linter",
+            "description": "Github action to check typos in diff",
+            "score": 11.745628534740419,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/text-linter",
+            "updatedAt": "2025-01-22T18:10:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "infotainer",
+            "description": null,
+            "score": 11.671040068902332,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/rsb-23/infotainer",
+            "updatedAt": "2024-12-26T13:41:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "high-on-ai",
+            "description": null,
+            "score": 2.5405173801449514,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/high-on-ai",
+            "updatedAt": "2025-01-05T08:17:31Z",
+            "isPinned": false,
+            "homepage": "https://high-on-ai.tchh.in/"
+        },
+        {
+            "name": "rsb-23",
+            "description": null,
+            "score": 2.487975482880569,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rsb-23/rsb-23",
+            "updatedAt": "2024-12-26T13:44:20Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 25,
+    "pull_requests_merged": 21,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 251,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [],
+    "readme_content": "## Hi there \ud83d\udc4b\n\nI'm just too passionate to code. \ud83d\ude0e  \nSo, lets automate the whole world - one script at a time \ud83d\ude1c\n\n| | |\n|---|---|\n|**Profile** | https://devb.io/rsb-23  |\n|**Projects** | https://projects.tchh.in|\n|**Gists** | https://gist.github.com/rsb-23|\n\n### Special Mentions:\n1. [High-on-AI](https://high-on-ai.tchh.in) : Surreal Image Gallery\n",
+    "activity_summary": {
+        "rsb-23/vobjectx": {
+            "link": "https://github.com/rsb-23/vobjectx",
+            "summary": "Recent activity on vobjectx involves multiple push events, including pytest changes, workflow updates, and a release of version 0.1.1. Additionally, a pull request was opened for CLI tools' code upgrade."
+        },
+        "rsb-23/vobject-poc": {
+            "link": "https://github.com/rsb-23/vobject-poc",
+            "summary": "vobject-poc received significant activity with a large push event, which included various code changes such as improving log messages, cleaning up dependencies, and rearranging documentation. A pull request was also opened for major linting changes."
+        },
+        "Universal-Debloater-Alliance/universal-android-debloater-next-generation": {
+            "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+            "summary": "A pull request was opened for tackling `uad_list.json` challenges, aiming to improve the list's quality and handling growing file size, JSON parsing failures, and inconsistencies."
+        }
+    },
+    "profile_summary": "I'm Mr. RB, a skilled software developer with expertise in Python, JavaScript, and batchfile scripting. I'm dedicated to simplifying the world, one automated process at a time, as evident from my 25 public repositories, showcasing an array of innovative projects I've been working on. My passion for code drives me to continuously explore and share knowledge through my profile (https://devb.io/rsb-23) and projects (https://projects.tchh.in), pushing the boundaries of AI and automation through initiatives like High-on-AI."
+}

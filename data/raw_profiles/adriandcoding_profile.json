@@ -1,0 +1,142 @@
+{
+    "username": "adriandcoding",
+    "name": "adriandcoding",
+    "bio": "",
+    "location": "Madrid",
+    "avatar_url": "https://avatars.githubusercontent.com/u/158279702?u=6c1eae4ee7068feb7750ac980502b8e42949e873&v=4",
+    "profile_url": "https://github.com/adriandcoding",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Curriculum",
+            "description": null,
+            "score": 1.6898371656613742,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adriandcoding/Curriculum",
+            "updatedAt": "2024-10-28T19:11:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "adriandcoding",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.672170693946084,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adriandcoding/adriandcoding",
+            "updatedAt": "2025-01-08T16:04:07Z",
+            "isPinned": false,
+            "homepage": "https://github.com/adriandcoding"
+        },
+        {
+            "name": "react_movimientos",
+            "description": null,
+            "score": 1.6641666823039591,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adriandcoding/react_movimientos",
+            "updatedAt": "2024-09-04T16:52:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aplicacionmemoria",
+            "description": null,
+            "score": 1.6560454635087645,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adriandcoding/aplicacionmemoria",
+            "updatedAt": "2025-01-11T09:50:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "modulo-3-Bundling-Laboratorio",
+            "description": "Laboratorio bundling",
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adriandcoding/modulo-3-Bundling-Laboratorio",
+            "updatedAt": "2025-01-20T18:49:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Modulo-2-Laboratorio-Lenguajes",
+            "description": "Laboratiro del m\u00f3dulo de lenguajes",
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adriandcoding/Modulo-2-Laboratorio-Lenguajes",
+            "updatedAt": "2025-01-21T10:57:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Modulo-1-Laboratorio-Avanzado",
+            "description": "Laboratorio avanzado del m\u00f3dulo 1",
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/adriandcoding/Modulo-1-Laboratorio-Avanzado",
+            "updatedAt": "2024-12-21T07:37:11Z",
+            "isPinned": false,
+            "homepage": "https://adriandcoding.github.io/Modulo-1-Laboratorio-Avanzado/"
+        },
+        {
+            "name": "Modulo-1-Laboratorio-basico",
+            "description": "Laboratorio b\u00e1sico del modulo 1",
+            "score": 0.33945555704213487,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/adriandcoding/Modulo-1-Laboratorio-basico",
+            "updatedAt": "2024-11-29T14:40:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 3,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 340,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udcab Sobre m\u00ed:\n\ud83c\udf1f **Adri\u00e1n Mart\u00ednez** - Desarrollador Frontend<br><br>  \nBienvenido a mi perfil de GitHub. Soy desarrollador frontend especializado en la creaci\u00f3n de interfaces web modernas, accesibles y optimizadas para ofrecer experiencias de usuario de alta calidad. Mi enfoque combina una s\u00f3lida base t\u00e9cnica con principios de dise\u00f1o centrados en el usuario. \ud83d\ude80<br><br>  \n\ud83d\udceb **Correo de contacto**: [theamr91@gmail.com](mailto:theamr91@gmail.com)\n\n---\n\n## \ud83c\udf10 Redes sociales:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adri%C3%A1n-mart%C3%ADnez-ruiz-a8b74b2b4/)\n\n---\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg\" />\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg\" />\n  <img alt=\"github-snake\" src=\"https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg\" />\n</picture>\n\n---\n\n# \ud83d\udcbb Tech Stack:\n### Lenguajes y Frameworks:\n![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\n\n![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)\n\n### Herramientas y Librer\u00edas:\n![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)\n\n### Dise\u00f1o y Colaboraci\u00f3n:\n![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)\n\n### Versionado y Deploy:\n![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)\n\n---\n\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=adriandcoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=adriandcoding&theme=dark&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandcoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\n\n---\n\n### \u270d\ufe0f Frase Motivacional\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)\n\n### \ud83d\udd1d Repositorios Destacados\n![](https://github-contributor-stats.vercel.app/api?username=adriandcoding&limit=5&theme=dark&combine_all_yearly_contributions=true)\n\n---\n\n[![](https://visitcount.itsvg.in/api?id=adriandcoding&icon=1&color=1)](https://visitcount.itsvg.in)\n",
+    "activity_summary": {
+        "adriandcoding/modulo-3-Bundling-Laboratorio": {
+            "link": "https://github.com/adriandcoding/modulo-3-Bundling-Laboratorio",
+            "summary": "Extensive refactoring of the project's webpack configuration was performed on 2025-01-20, resulting in improved build and development processes. This included the addition of environment-specific settings and the removal of unused configuration files."
+        },
+        "adriandcoding/Modulo-2-Laboratorio-Lenguajes": {
+            "link": "https://github.com/adriandcoding/Modulo-2-Laboratorio-Lenguajes",
+            "summary": "Significant updates to the project were made on 2025-01-19 and 2025-01-18, focusing onImproved coding practices, such as removing unnecessary comments, refactoring functions for clarity and type safety, and simplifying object typing in TypeScript code."
+        }
+    },
+    "profile_summary": "As a frontend developer specialized in creating modern, accessible, and optimized web interfaces, I combine technical expertise with user-centered design principles to deliver high-quality user experiences. With a strong foundation in TypeScript, JavaScript, and HTML, I've developed a passion for crafting innovative and efficient interfaces through my 12 public repositories. I'm excited to collaborate with like-minded professionals on projects that push the boundaries of what's possible in the world of web development."
+}

@@ -668,6 +668,12 @@
 </script>
 
 <script>
+    async function get_username(){
+        return 'sunithvs';
+        const pathParts = window.location.pathname.split('/').filter(part => part);
+        // {#const username = pathParts[0];#}
+        return pathParts[0];
+    }
     async function isValidGitHubUsername(username) {
         // GitHub username rules:
         // 1. 1-39 characters long
@@ -705,9 +711,7 @@
     let profile_url = ''
 
     async function resolveProfileUrl() {
-        const pathParts = window.location.pathname.split('/').filter(part => part);
-        // {#const username = pathParts[0];#}
-        const username = pathParts[0];
+        const username=await get_username();
 
         const valid_username = await isValidGitHubUsername(username);
         if (valid_username) {
@@ -1250,8 +1254,7 @@
             // make the download and share buttons disabled
             downloadBtn.disabled = true;
             shareBtn.disabled = true;
-            const pathParts = window.location.pathname.split('/').filter(part => part);
-            const username = pathParts[pathParts.length - 1];
+            const username = await get_username();
 
 
             try {
@@ -1291,8 +1294,7 @@
             const svgData = new XMLSerializer().serializeToString(svgElement);
             const blob = new Blob([svgData], {type: "image/svg+xml"});
             const url = URL.createObjectURL(blob);
-            const pathParts = window.location.pathname.split('/').filter(part => part);
-            const username = pathParts[pathParts.length - 1];
+            const username = await get_username();
 
             const img = new Image();
             img.src = url;
@@ -1368,7 +1370,6 @@
                             alert("This type of data cannot be shared on your device");
                             return;
                         }
-                        const pathParts = window.location.pathname.split('/').filter(part => part);
                         await navigator.share(shareData);
                     } catch (error) {
 

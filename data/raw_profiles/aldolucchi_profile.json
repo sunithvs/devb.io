@@ -47,7 +47,7 @@
         {
             "name": "PDGSA-accordion",
             "description": null,
-            "score": 10.242962741947276,
+            "score": 10.24288086747925,
             "stars": 0,
             "forks": 0,
             "language": "HTML",
@@ -107,7 +107,7 @@
         {
             "name": "sistema",
             "description": null,
-            "score": 0.27453260889552017,
+            "score": 0.2743203185926573,
             "stars": 0,
             "forks": 0,
             "language": "JavaScript",
@@ -131,8 +131,8 @@
     "activity_summary": {
         "AldoLucchi/pedidos": {
             "link": "https://github.com/AldoLucchi/pedidos",
-            "summary": "Recent activities in the Pedidos repository include various push events from January 13th to February 5th, 2025, focusing on updates to forms, maps, product tables, CRUD methods, and product management features."
+            "summary": "Recent activity in the AldoLucchi/pedidos repository includes significant development progress with focus on fixing fields, optimizing product tables, adding and modifying key features like CRUD methods for payment, WhatsApp integration, and styling."
         }
     },
-    "profile_summary": "As a seasoned JavaScript developer with a passion for building scalable and maintainable front-end applications, I leverage my proficiency in TypeScript to drive best practices in my code. My hands-on experience with HTML has equipped me with a solid understanding of the web development ecosystem, allowing me to tackle complex projects with ease. Currently, I contribute actively to the development community, sharing my expertise through the 28 public repositories I maintain."
+    "profile_summary": "As a seasoned JavaScript and TypeScript developer with a strong foundation in HTML, I combine technical expertise with a passion for building innovative web applications. With over 28 active public repositories, I'm always pushing the boundaries of software development. Leveraging my skills in solving complex problems and delivering high-quality solutions, I continue to grow and learn with the ever-evolving tech landscape, striving to drive impactful results in the world of software development."
 }

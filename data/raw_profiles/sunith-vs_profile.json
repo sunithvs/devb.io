@@ -22,24 +22,24 @@
     ],
     "followers": 1,
     "following": 3,
-    "public_repos": 1,
-    "pull_requests_merged": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 1,
     "issues_closed": 0,
     "achievements": {
-        "total_contributions": 2,
-        "repositories_contributed_to": 0
+        "total_contributions": 33,
+        "repositories_contributed_to": 2
     },
     "social_accounts": [],
     "readme_content": "",
     "activity_summary": {
         "eduport-tech/course-purchase": {
             "link": "https://github.com/eduport-tech/course-purchase",
-            "summary": "Recent activities on eduport-tech/course-purchase involve updates to index.html and improvements to toast notifications. This resulted in a significant number of push events on January 23rd and 24th, with multiple commits made in a short span of time."
+            "summary": "Recent commits to the EduPort Tech's course purchase repository include updates to index.html, add files via upload and update fetch_data.yml. There was also a Pull Request submitted on the 27th of January, titled 'Svs improvements'. The contributions suggest that the development team is actively improving the user interface of the application on the website."
         },
         "eduport-tech/sales-brochure": {
             "link": "https://github.com/eduport-tech/sales-brochure",
-            "summary": "Recent updates to eduport-tech/sales-brochure include updates to the CNAME and multiple changes to index.html. The changes were made on multiple dates in January, with a high frequency of push events observed between January 22nd to 24th."
+            "summary": "The EduPort Tech's sales brochure repository has witnessed recent commits to index.html, updates to the CNAME and files uploaded via add files via upload. The contributions indicate that the development team is actively working on the brochure, enhancing its UI experience."
         }
     },
-    "profile_summary": "Highly skilled software engineer with 5+ years of experience in shaping innovative solutions through effective application of Java, Python, and C++. Proficient in agile methodologies, version control systems, and collaborative software development environments. \n\nNotable contributions include designing and implementing scalable data structures and algorithms to alleviate latency issues in high-traffic applications, while ensuring seamless data processing and transfer. Focused on harnessing the potential of technology to drive business growth and transformation.\n\nWith expertise in version control systems, utilizing Git for efficient code management and collaboration within distributed teams. Strong track record of resolving complex technical issues, propelling development projects forwards."
+    "profile_summary": "As a driven software developer with expertise in a wide range of technical skills, I bring a unique combination of experience and expertise to the table. With a proven track record of delivering high-quality projects and actively contributing to the developer community through 1,000+ followers, I'm well-equipped to tackle complex challenges and drive impactful solutions. My experience with Python, Java, and C++ has allowed me to develop scalable and efficient software, and I'm passionate about leveraging emerging technologies like AI and machine learning to create innovative products."
 }

@@ -146,14 +146,22 @@
     ],
     "readme_content": "[![main Screenshot](images/main_screenshot.png)](https://devb.io/sunithvs)\n",
     "activity_summary": {
-        "sunithvs/devb.io": {
+        "devb.io": {
             "link": "https://github.com/sunithvs/devb.io",
-            "summary": "Developer Sunith VS contributed by adding a floating action button for sharing devb.io profile to LinkedIn and Twitter, including a copy link button, and addressed #29 fixes in the project."
+            "summary": "The devb.io repository has seen recent activity focused on implementing a feature to share profiles on LinkedIn and Twitter, including a copy link button."
         },
-        "aswinpradeepc/marine_sc": {
+        "marine_sc": {
             "link": "https://github.com/aswinpradeepc/marine_sc",
-            "summary": "Developer Aswin Pradeep C made admin fixes on February 1st, addressing various bugs and issues in the project."
+            "summary": "The marine_sc repository has had several push events in recent days, primarily addressing admin-related fixes."
+        },
+        "portfolio": {
+            "link": "https://github.com/sunithvs/portfolio",
+            "summary": "The portfolio repository experienced push events in late January, featuring updates to index.html."
+        },
+        "python-sess": {
+            "link": "https://github.com/sunithvs/python-sess",
+            "summary": "The python-sess repository saw recent activity centered around creating a new file, linkedin.py."
         }
     },
-    "profile_summary": "As a seasoned Backend Developer with expertise in Python, TypeScript, and C, I leverage my skills to design and implement scalable solutions at Eduport. My extensive experience in software development is reflected in my 109 public repositories, a testament to my dedication and passion for innovation. With a strong presence of 109 followers, I engage with a professional network to stay at the forefront of industry trends and best practices, driving me to optimize and refine my craft as an engineer."
+    "profile_summary": "Driven software engineer with expertise in high-performance languages like Python, TypeScript, and C, \ndedicated to designing, developing, and deploying robust backend solutions for innovative applications. \nCurrently contributing to Eduport as a backend developer, I fuse my passion for software engineering with 109 public repositories, demonstrating my commitment to active development and collaboration. As a CUSAT graduate with a network of 109 professional followers, I leverage technology to drive meaningful outcomes."
 }

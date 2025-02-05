@@ -607,7 +607,7 @@
     const DEBUG = true;
     async function get_username(){
         if (DEBUG) {
-            return 'sunith-vs';
+            return 'sunithvs';
         }
         const pathParts = window.location.pathname.split('/').filter(part => part);
         // {#const username = pathParts[0];#}
@@ -935,6 +935,77 @@
         `;
     };
 
+    function getSocialIcon(provider, url) {
+        // Special case for devb.io profile
+        if (url.includes('devb.io')) {
+            return 'custom-devb';
+        }
+
+        const icons = {
+            'linkedin': 'linkedin',
+            'github': 'github',
+            'twitter': 'twitter',
+            'instagram': 'instagram',
+            'facebook': 'facebook',
+            'youtube': 'youtube',
+            'medium': 'book-open',
+            'dev.to': 'code',
+            'stackoverflow': 'layers',
+            'behance': 'behance',
+            'dribbble': 'dribbble',
+            'gitlab': 'gitlab',
+            'codepen': 'codepen',
+            'hashnode': 'hash',
+            'personal_website': 'globe',
+            'mastodon': 'share-2',
+            'threads': 'at-sign',
+            'tiktok': 'video',
+            'pinterest': 'image',
+            'substack': 'newspaper',
+            'kaggle': 'database',
+            'research_gate': 'microscope',
+            'generic': 'link'
+        };
+        
+        return icons[provider] || icons['generic'];
+    }
+
+    function renderSocialAccounts(profile) {
+        if (!profile.social_accounts || profile.social_accounts.length === 0) return '';
+        
+        // Add GitHub to the social accounts list
+        const allAccounts = [
+            { provider: 'github', url: profile.profile_url },
+            ...profile.social_accounts
+        ];
+        
+        return `
+        <div class="mt-6 bg-white rounded-xl p-4 border-[1px] border-b-[6px] border-black">
+            <h3 class="text-lg font-semibold mb-3 text-center lg:text-left">Connect with me</h3>
+            <div class="flex flex-wrap gap-3 justify-center lg:justify-start">
+                ${allAccounts.map(account => {
+                    const icon = getSocialIcon(account.provider, account.url);
+                    const isDevbProfile = account.url.includes('devb.io');
+                    
+                    return `
+                    <a href="${account.url}" 
+                       target="_blank" 
+                       class="group relative w-10 h-10 flex items-center justify-center rounded-lg border-[1px] border-b-[3px] border-black 
+                              hover:bg-[#B9FF66] transition-all duration-300 hover:scale-110 hover:-translate-y-1"
+                       title="${account.provider}">
+                        ${isDevbProfile ? 
+                            `<img src="images/logo.png" alt="devb.io" class="w-6 h-6">` :
+                            `<i data-lucide="${icon}" class="w-5 h-5 group-hover:rotate-12 transition-transform duration-300"></i>`
+                        }
+                        <span class="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded 
+                                   opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+                            ${account.provider}
+                        </span>
+                    </a>
+                `}).join('')}
+            </div>
+        </div>`;
+    }
     function renderProfile(profile) {
         const container = document.getElementById('profile-container');
         container.innerHTML = `<div class="grid grid-cols-1 lg:grid-cols-[400px,1fr] gap-8">
@@ -958,14 +1029,8 @@
                         <div class="text-center lg:text-left">
                             <h1 class="text-xl md:text-3xl font-bold md:mb-2
                     animate-slide-in-left">${profile.name}</h1>
-                            <p class="text-gray-600 animate-fade-in flex items-center space-x-2">
-                                <a href="${profile.profile_url}" class="flex items-center hover:underline">
-                                        <span class="group">
-                                            <img src="images/hyperlink-logo.png" alt="l" class="w-8 h-8 ml-1  group-hover:opacity-100 transition-opacity duration-400" onerror="this.style.display='none';">
-                                        </span>
-                                    <span class="username-link">@${profile.username}</span>
-                                </a>
-                            </p>
+                            
+                            ${renderSocialAccounts(profile)}
                         </div>
                     </div>
                     <div class="hidden lg:flex justify-center mt-4 lg:mt-0">

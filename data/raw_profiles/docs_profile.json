@@ -1,5 +1,14 @@
 {
     "error": "An unexpected error occurred: User 'docs' not found or query returned no data.",
-    "activity_summary": {},
+    "activity_summary": {
+        "docs/simple-php-website": {
+            "link": "https://github.com/docs/simple-php-website",
+            "summary": "The simple-php-website repository saw significant activity on February 3, 2025, with multiple PushEvents. Contributors made several critical updates, including fixing a typo, removing .DS_Store files, updating the gitignore, and adding new files, demonstrating a strong focus on maintaining code quality and organization."
+        },
+        "docs/debug-with-copilot": {
+            "link": "https://github.com/docs/debug-with-copilot",
+            "summary": "The debug-with-copilot repository had activity on January 23, 2025, including a PushEvent that removed unnecessary comments. This indicates a focus on refactoring code to improve readability and maintainability."
+        }
+    },
     "profile_summary": null
 }

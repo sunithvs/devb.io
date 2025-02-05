@@ -1,0 +1,146 @@
+{
+    "username": "eddwlad",
+    "name": "Edison",
+    "bio": "Programador Jr. JavaScript, CSS, HTML, Java, fascinaci\u00f3n por crear programas y aplicaciones, trabajo actualmente en Telecomunicaciones ",
+    "location": "S58C E3-63 y Graciela Ecudero (Quito - Ecuador)",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139815312?u=a441160131bb05c1045f5cdd1b1fefc6dee4efdc&v=4",
+    "profile_url": "https://github.com/EddWlad",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "email-frontend",
+            "description": null,
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/EddWlad/email-frontend",
+            "updatedAt": "2025-02-03T03:37:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ejemplo-api-laravel",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/EddWlad/ejemplo-api-laravel",
+            "updatedAt": "2024-12-29T16:50:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "email-service",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/EddWlad/email-service",
+            "updatedAt": "2025-02-03T03:39:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MedicApp",
+            "description": null,
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "LLVM",
+            "url": "https://github.com/EddWlad/MedicApp",
+            "updatedAt": "2024-11-10T21:36:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SolicitApp",
+            "description": "Aplicacion para gestion de solicitudes de material",
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/EddWlad/SolicitApp",
+            "updatedAt": "2024-09-26T14:47:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GoodTravelEC",
+            "description": "Aplicacion enfocada a transporte y gestion de compra de boletos para viaje dentro de Ecuador",
+            "score": 0.294478515998375,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/EddWlad/GoodTravelEC",
+            "updatedAt": "2024-08-29T20:15:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "microservicios-proyectoFinal",
+            "description": null,
+            "score": 0.27810596618122624,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/EddWlad/microservicios-proyectoFinal",
+            "updatedAt": "2024-09-09T01:08:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "angular-bases",
+            "description": "Codigo fuente de curso de angular - seccion 4",
+            "score": 0.2732769207513471,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/EddWlad/angular-bases",
+            "updatedAt": "2024-06-09T16:57:32Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 130,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.facebook.com/EddWlad?mibextid=ZbWKwL"
+        },
+        {
+            "provider": "generic",
+            "url": "https://instagram.com/eddwlad_?igshid=ZDc4ODBmNjlmNQ=="
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/edison-morocho-a01874231"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

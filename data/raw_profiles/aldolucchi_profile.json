@@ -26,9 +26,9 @@
             "score": 10.471986970666187,
             "stars": 0,
             "forks": 0,
-            "language": "PHP",
+            "language": "Vue",
             "url": "https://github.com/AldoLucchi/pedidos",
-            "updatedAt": "2025-02-05T13:37:39Z",
+            "updatedAt": "2025-02-05T20:05:08Z",
             "isPinned": true,
             "homepage": null
         },
@@ -123,7 +123,7 @@
     "pull_requests_merged": 0,
     "issues_closed": 0,
     "achievements": {
-        "total_contributions": 23,
+        "total_contributions": 25,
         "repositories_contributed_to": 0
     },
     "social_accounts": [],
@@ -131,8 +131,8 @@
     "activity_summary": {
         "AldoLucchi/pedidos": {
             "link": "https://github.com/AldoLucchi/pedidos",
-            "summary": "Recently, AldoLucchi has been actively working on the pedidos repository, making significant progress in a short period. Key commits include resolving fields left blank and location issues, adding product characterisitcs and their relational tables, correcting forms and maps, and making CRUD developments for payment methods."
+            "summary": "Recent activities in the Pedidos repository include various push events from January 13th to February 5th, 2025, focusing on updates to forms, maps, product tables, CRUD methods, and product management features."
         }
     },
-    "profile_summary": "JavaScript and TypeScript expert Aldo Lucchi leverages his experience crafting web applications, with a strong foundation in HTML to deliver scalable, maintainable solutions. With a proven track record of active development, boasting 28 public repositories, I continue to contribute to the open-source community through innovative projects. In my free time, I explore the intersection of technology and collaboration, striving to drive meaningful connections within the development ecosystem."
+    "profile_summary": "As a seasoned JavaScript developer with a passion for building scalable and maintainable front-end applications, I leverage my proficiency in TypeScript to drive best practices in my code. My hands-on experience with HTML has equipped me with a solid understanding of the web development ecosystem, allowing me to tackle complex projects with ease. Currently, I contribute actively to the development community, sharing my expertise through the 28 public repositories I maintain."
 }

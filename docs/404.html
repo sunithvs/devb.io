@@ -647,23 +647,50 @@
         }
     </style>
     <style>
-        .profile-hidden {
-            transform: translateY(-100%);
-            transition: transform 0.3s ease-out;
+        .shimmer-load {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
         }
 
-        .profile-visible {
-            transform: translateY(0);
-            transition: transform 0.3s ease-out;
-        }
-
-        @media (max-width: 1023px) {
-            #left-section.scrolled {
-                position: fixed;
-                top: 0;
-                width: calc(100% - 2rem);
-                z-index: 10;
+        @keyframes shimmer {
+            0% {
+                background-position: -200% 0;
             }
+            100% {
+                background-position: 200% 0;
+            }
+        }
+
+        .profile-image-container {
+            position: relative;
+            width: 128px;
+            height: 128px;
+        }
+
+        .profile-image-placeholder {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 0.75rem;
+            border: 2px solid black;
+            opacity: 1;
+            transition: opacity 0.3s ease;
+        }
+
+        .profile-image {
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .profile-image.loaded {
+            opacity: 1;
+        }
+
+        .profile-image.loaded + .profile-image-placeholder {
+            opacity: 0;
         }
     </style>
 </head>
@@ -686,16 +713,16 @@
             <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300">
                 <!-- Profile Image and Name -->
                 <div class="flex flex-col items-center lg:items-start">
-                    <div class="relative group">
-                        <div class="relative">
-                            <img src="" alt="Profile" 
-                                 class="w-32 h-32 rounded-xl border-2 border-black mb-4
-                                        transform transition-all duration-500
-                                        group-hover:scale-105 group-hover:rotate-2">
-                            <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
-                                      group-hover:opacity-100 transition-all duration-500
-                                      group-hover:scale-105 group-hover:rotate-2"></div>
-                        </div>
+                    <div class="relative group profile-image-container">
+                        <img src="" alt="Profile" 
+                             class="profile-image w-32 h-32 rounded-xl border-2 border-black mb-4
+                                    transform transition-all duration-500
+                                    group-hover:scale-105 group-hover:rotate-2"
+                             onload="this.classList.add('loaded')">
+                        <div class="profile-image-placeholder shimmer-load"></div>
+                        <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
+                                  group-hover:opacity-100 transition-all duration-500
+                                  group-hover:scale-105 group-hover:rotate-2"></div>
                     </div>
                     <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
                         
@@ -1296,16 +1323,17 @@
             <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300">
                 <!-- Profile Image and Name -->
                 <div class="flex flex-col items-center lg:items-start">
-                    <div class="relative group">
-                        <div class="relative">
-                            <img src="${profile.avatar_url}" alt="Profile" 
-                                 class="w-32 h-32 rounded-xl border-2 border-black mb-4
-                                        transform transition-all duration-500
-                                        group-hover:scale-105 group-hover:rotate-2">
-                            <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
-                                      group-hover:opacity-100 transition-all duration-500
-                                      group-hover:scale-105 group-hover:rotate-2"></div>
-                        </div>
+                    <div class="relative group profile-image-container">
+                        <img src="${profile.avatar_url}" 
+                             alt="Profile" 
+                             class="profile-image w-32 h-32 rounded-xl border-2 border-black mb-4
+                                    transform transition-all duration-500
+                                    group-hover:scale-105 group-hover:rotate-2"
+                             onload="this.classList.add('loaded')">
+                        <div class="profile-image-placeholder shimmer-load"></div>
+                        <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
+                                  group-hover:opacity-100 transition-all duration-500
+                                  group-hover:scale-105 group-hover:rotate-2"></div>
                     </div>
                     <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
                         ${profile.name}

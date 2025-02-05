@@ -646,6 +646,26 @@
             color: black;
         }
     </style>
+    <style>
+        .profile-hidden {
+            transform: translateY(-100%);
+            transition: transform 0.3s ease-out;
+        }
+
+        .profile-visible {
+            transform: translateY(0);
+            transition: transform 0.3s ease-out;
+        }
+
+        @media (max-width: 1023px) {
+            #left-section.scrolled {
+                position: fixed;
+                top: 0;
+                width: calc(100% - 2rem);
+                z-index: 10;
+            }
+        }
+    </style>
 </head>
 <body>
 <main class="container mx-auto px-4 py-4 lg:p-8" id="profile-container">
@@ -746,13 +766,13 @@
                         <!-- Stats Boxes -->
                         <div class="flex flex-row w-full">
                             <div class="w-1/2 p-3">
-                                <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
+                                <div class="bg-gray-50 rounded-lg p-3 h-full border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
                                     <div class="w-24 h-8 shimmer-load rounded mb-4"></div>
                                     <div class="w-16 h-10 shimmer-load rounded"></div>
                                 </div>
                             </div>
                             <div class="w-1/2 p-3">
-                                <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
+                                <div class="bg-gray-50 rounded-lg p-3 h-full border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
                                     <div class="w-24 h-8 shimmer-load rounded mb-4"></div>
                                     <div class="w-16 h-10 shimmer-load rounded"></div>
                                 </div>
@@ -1420,6 +1440,39 @@
             });
         }
     }
+</script>
+<script>
+    // Handle scroll behavior
+    let lastScrollPosition = 0;
+    
+    function handleScroll() {
+        if (window.innerWidth >= 1024) return; // Desktop behavior handled by CSS
+        
+        const currentScroll = window.scrollY;
+        const scrollingDown = currentScroll > lastScrollPosition;
+        const threshold = 200; // Adjust this value as needed
+        
+        if (currentScroll > threshold) {
+            if (scrollingDown) {
+                leftSection.classList.add('profile-hidden');
+                leftSection.classList.remove('profile-visible');
+            } else {
+                leftSection.classList.add('profile-visible');
+                leftSection.classList.remove('profile-hidden');
+            }
+            leftSection.classList.add('scrolled');
+        } else {
+            leftSection.classList.remove('scrolled', 'profile-hidden', 'profile-visible');
+        }
+        
+        lastScrollPosition = currentScroll;
+    }
+
+    // Add scroll event listener
+    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('resize', handleScroll);
+    // Initial check
+    handleScroll();
 </script>
 </body>
 </html>

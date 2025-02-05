@@ -31,70 +31,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
-        #wrapper2024 .box, #wrapper2024 .glow {
-            height: 45px;
-            width: 160px;
-            position: absolute;
-            overflow: hidden;
-            z-index: 0;
-            border-radius: 0.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        #wrapper2024 .text {
-            font-family: inherit;
-            font-size: inherit;
-            z-index: 1;
-            white-space: nowrap;
-            color: white;
-        }
-
-        #wrapper2024 .glow {
-            filter: blur(20px);
-        }
-
-        #wrapper2024 .box:before, #wrapper2024 .glow:before {
-            content: '';
-            z-index: -2;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%) rotate(0deg);
-            width: 99999px;
-            height: 99999px;
-            background-image: conic-gradient(
-                    #ff0000,
-                    #ff8000,
-                    #0000ff,
-                    #8000ff,
-                    #ff0000
-            );
-            animation: rotate2024 4s linear infinite;
-        }
-
-        #wrapper2024 .box:after {
-            content: '';
-            position: absolute;
-            z-index: -1;
-            left: 2px;
-            top: 2px;
-            width: calc(100% - 4px);
-            height: calc(100% - 4px);
-            background: black;
-            color: white;
-
-            border-radius: 0.375rem;
-        }
-
-        @keyframes rotate2024 {
-            100% {
-                transform: translate(-50%, -50%) rotate(360deg);
-            }
-        }
-    </style>
-    <style>
 
         * {
             font-family: 'Space Grotesk', sans-serif;
@@ -668,8 +604,11 @@
 </script>
 
 <script>
+    const DEBUG = true;
     async function get_username(){
-        return 'sunithvs';
+        if (DEBUG) {
+            return 'sunithvs';
+        }
         const pathParts = window.location.pathname.split('/').filter(part => part);
         // {#const username = pathParts[0];#}
         return pathParts[0];
@@ -1040,16 +979,7 @@
                 </div>
             </div>
 
-            <!-- Create Profile Button - Centered on Mobile -->
-            <div  id='wrapper2024' class="flex items-center justify-center lg:justify-start">
-                <div class="flex items-center">
-                 <div class="glow"></div>
-                        <button id="wrapped-btn"
-                                class="px-4 py-2 rounded-lg border-2 border-black bg-white transition-colors flex items-center text-black z-10 hover:bg-[#191A23] hover:text-white">
-                            2024 Unwrapped
-                        </button>
-                </div>
-            </div>
+
         </div>
         <!-- Right Content Section - Scrollable -->
         <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
@@ -1137,37 +1067,7 @@
         </div>
 
     </div>
-<div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4 lg:p-0">
-  <div class="bg-white rounded-xl p-4 lg:p-6 w-full max-w-4xl h-[90vh] flex flex-col">
-    <div class="flex flex-col lg:flex-row justify-between items-center mb-4 gap-4">
-      <h2 class="text-2xl font-bold">2024 Unwrapped</h2>
-      <div class="flex gap-4">
-        <button id="download-btn" class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors">
-          Download
-        </button>
-        <button id="share-btn" class="px-4 py-2 rounded-lg border-2 border-black hover:bg-[#B9FF66] transition-colors">
-          Share
-        </button>
-        <button id="close-modal" class="text-2xl">&times;</button>
-      </div>
-    </div>
-
-    <div id="loading" class="hidden flex-1 py-20 text-center">
-      <div class="animate-spin rounded-full h-16 w-16 border-b-2 border-black mx-auto mb-4"></div>
-      <p>Generating your Unwrapped...</p>
-    </div>
-
-    <div id="svg-preview" class="hidden flex-1 overflow-y-auto">
-      <div id="svg-container" class="flex justify-center items-start">
-        <div class="w-full max-w-3xl transform-gpu">
-          <!-- SVG will be inserted here -->
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 `;
-        wrapped_setup();
         // Scroll sync between left and right sections of dynamically loaded DOM.
         const leftSection = document.getElementById("left-section");
         const rightSection = document.getElementById("right-section");

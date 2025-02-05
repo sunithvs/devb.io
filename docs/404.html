@@ -887,7 +887,7 @@
 </script>
 
 <script>
-    const DEBUG = true;
+    const DEBUG = window.location.hostname === 'localhost';
     async function get_username(){
         if (DEBUG) {
             return 'sunithvs';

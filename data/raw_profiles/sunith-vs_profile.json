@@ -1,0 +1,45 @@
+{
+    "username": "sunith-vs",
+    "name": "Sunith VS",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/162405203?u=502c2e01f1c9843895690ee897f4b75e4e3079af&v=4",
+    "profile_url": "https://github.com/sunith-vs",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "sunith-vs",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.2753942218332271,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sunith-vs/sunith-vs",
+            "updatedAt": "2024-06-19T05:26:21Z",
+            "isPinned": false,
+            "homepage": "https://github.com/sunith-vs"
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "eduport-tech/course-purchase": {
+            "link": "https://github.com/eduport-tech/course-purchase",
+            "summary": "Recent activities on course-purchase repository include 13 push events, primarily focused on updating index.html files and adding files via upload."
+        },
+        "eduport-tech/sales-brochure": {
+            "link": "https://github.com/eduport-tech/sales-brochure",
+            "summary": "Recent activities on sales-brochure repository include 8 push events, mainly centered around updating index.html files and the CNAME."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with a strong background in programming languages, I leverage my expertise in Java, Python, and C++ to drive scalable solutions. With a focus on cloud computing and data analytics, I adeptly utilize Amazon Web Services (AWS) and Google Cloud Platform (GCP) to architect and deploy secure, high-performance applications. \n\nThrough hands-on experience in machine learning and DevOps, I consistently deliver innovative products and services that meet the evolving needs of modern businesses."
+}

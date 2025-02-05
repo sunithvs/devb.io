@@ -333,6 +333,229 @@
         }
     </style>
     <style>
+        /* Share FAB and Modal Styles */
+        .share-fab {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #B9FF66;
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            z-index: 999;
+            border: none;
+        }
+
+        .share-fab:hover {
+            background: #a8ff3d;
+            transform: scale(1.05);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .share-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(4px);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .share-modal.show {
+            display: flex;
+            opacity: 1;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 500px;
+            position: relative;
+            transform: translateY(20px);
+            transition: transform 0.3s ease;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .modal-title {
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            letter-spacing: -0.02em;
+        }
+
+        .close-btn {
+            background: #f5f5f5;
+            border: none;
+            cursor: pointer;
+            padding: 8px;
+            width: 36px;
+            height: 36px;
+            color: #666;
+            transition: all 0.2s;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            right: 1.5rem;
+            top: 1.5rem;
+        }
+
+        .close-btn:hover {
+            background: #eee;
+            color: #333;
+            transform: rotate(90deg);
+        }
+
+        .share-options {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .share-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .section-title {
+            font-size: 0.9rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .link-container {
+            background: #f8f8f8;
+            padding: 1rem 1.25rem;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            border: 1px solid #eee;
+        }
+
+        .profile-link {
+            flex: 1;
+            font-family: 'Space Grotesk', monospace;
+            font-size: 1rem;
+            color: #333;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            user-select: all;
+        }
+
+        .copy-btn {
+            background: #B9FF66;
+            color: black;
+            padding: 0.875rem 1.5rem;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+            width: 100%;
+            margin-top: 0.75rem;
+        }
+
+        .copy-btn:hover {
+            background: #a8ff3d;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(185, 255, 102, 0.2);
+        }
+
+        .copy-btn.copied {
+            background: #B9FF66;
+            color: black;
+        }
+
+        .copy-btn i {
+            width: 20px;
+            height: 20px;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.25rem;
+            padding-top: 2rem;
+            margin-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+
+        .social-links a {
+            color: #333;
+            padding: 1rem;
+            border-radius: 12px;
+            transition: all 0.2s;
+            background: #f8f8f8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #eee;
+        }
+
+        .social-links a:hover {
+            color: #B9FF66;
+            background: #333;
+            transform: translateY(-2px);
+            border-color: #333;
+        }
+
+        .social-links i {
+            width: 24px;
+            height: 24px;
+        }
+
+        @media (max-width: 640px) {
+            .modal-content {
+                padding: 2rem 1.5rem;
+            }
+
+            .modal-title {
+                font-size: 1.5rem;
+            }
+
+            .link-container {
+                padding: 0.875rem 1rem;
+            }
+
+            .social-links a {
+                padding: 0.875rem;
+            }
+        }
+    </style>
+    <style>
         .share-section .section-title {
             text-align: center;
             margin-bottom: 1.25rem;
@@ -431,47 +654,62 @@
         <!-- Left Profile Section -->
         <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo -->
-            <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
-                <div class="w-12 h-12 shimmer-load rounded-full"></div>
-                <span class="w-24 h-6 shimmer-load rounded"></span>
-            </div>
+            <a href="/">
+                <div class="flex items-center justify-center lg:justify-start gap-2 mb-4">
+                    <div class="flex gap-3">
+                        <img width="120" src="images/logo-full.png" alt="devb.io">
+                    </div>
+                </div>
+            </a>
 
-            <div class="flex flex-col items-center lg:items-start">
-                <!-- Profile Info -->
-                <div class="flex flex-col w-full lg:flex-row lg:justify-between lg:pr-10">
-                    <div class="w-full flex flex-col items-center lg:items-start">
-                        <div class="w-32 h-32 mb-4 shimmer-load rounded-full"></div>
-                        <div class="text-center lg:text-left">
-                            <div class="w-48 h-8 shimmer-load rounded mb-2"></div>
-                            <div class="w-32 h-4 shimmer-load rounded"></div>
+            <!-- Profile Card -->
+            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300">
+                <!-- Profile Image and Name -->
+                <div class="flex flex-col items-center lg:items-start">
+                    <div class="relative group">
+                        <div class="relative">
+                            <img src="" alt="Profile" 
+                                 class="w-32 h-32 rounded-xl border-2 border-black mb-4
+                                        transform transition-all duration-500
+                                        group-hover:scale-105 group-hover:rotate-2">
+                            <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
+                                      group-hover:opacity-100 transition-all duration-500
+                                      group-hover:scale-105 group-hover:rotate-2"></div>
                         </div>
                     </div>
-                    <div class="hidden lg:flex justify-center mt-4 lg:mt-0">
-                        <div class="w-12 h-12 shimmer-load rounded-[10px]"></div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
+                        
+                    </h1>
+                    <div class="text-gray-600 mb-4 flex items-center gap-2">
+                        <i data-lucide="at-sign" class="w-4 h-4"></i>
+                        
                     </div>
-                </div>
-
-                <!-- Stats -->
-                <div class="flex justify-center lg:justify-start gap-8 py-4 w-full">
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
-                    </div>
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
-                    </div>
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
+                    
+                    <!-- Bio Section -->
+                    
+                    <!-- Stats Grid -->
+                    <div class="grid grid-cols-3 gap-3 w-full mb-4">
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Followers</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Following</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Repos</div>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <!-- Create Profile Button -->
-            <div class="flex items-center justify-center lg:justify-start">
-                <div class="w-48 h-10 shimmer-load rounded-lg"></div>
-            </div>
+            <!-- Social Links Section -->
+            
+
+            <!-- Location Section -->
+            
         </div>
 
         <!-- Right Content Section -->
@@ -851,7 +1089,7 @@
                     }
                     <div class="p-6 flex-1 flex flex-col">
                         <div class="flex items-center justify-between mb-4">
-                            <h3 class="text-xl font-bold text-gray-900">${project.name}</h3>
+                            <h3 class="text-xl font-bold">${project.name}</h3>
                             <div class="flex items-center gap-2">
                                 ${project.stars > 0 ? `
                                 <span class="flex items-center text-gray-600">
@@ -990,8 +1228,11 @@
         ];
         
         return `
-        <div class="mt-6 bg-white rounded-xl p-4 border-[1px] border-b-[6px] border-black">
-            <h3 class="text-lg font-semibold mb-3 text-center lg:text-left">Connect with me</h3>
+        <div class="w-full">
+            <div class="flex items-center gap-2 mb-3">
+                <i data-lucide="users" class="w-5 h-5 text-black"></i>
+                <h3 class="text-lg font-semibold">Connect with me</h3>
+            </div>
             <div class="flex flex-wrap gap-3 justify-center lg:justify-start">
                 ${allAccounts.map(account => {
                     const icon = getSocialIcon(account.provider, account.url);
@@ -1024,47 +1265,56 @@
         <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo - Centered on Mobile -->
             <a href="/">
-                <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
+                <div class="flex items-center justify-center lg:justify-start gap-2 mb-4">
                     <div class="flex gap-3">
                             <img width="120" src="images/logo-full.png" alt="devb.io">
                     </div>
                 </div>
             </a>
-            <div class="flex flex-col items-center lg:items-start">
-                <!-- Profile Info - Centered on Mobile -->
-                <div class="flex flex-col w-full lg:flex-row lg:justify-between lg:pr-10">
-                    <div class="w-full flex flex-col items-center lg:items-start">
-                        <img src="${profile.avatar_url}" alt="Profile" class="w-32 h-32 mb-4 rounded-full
-                transform transition-all duration-500
-                hover:scale-105 hover:rotate-3 hover:shadow-lg">
-                        <div class="text-center lg:text-left">
-                            <h1 class="text-xl md:text-3xl font-bold md:mb-2
-                    animate-slide-in-left">${profile.name}</h1>
-                            
-                            ${renderSocialAccounts(profile)}
+
+            <!-- Profile Card -->
+            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300">
+                <!-- Profile Image and Name -->
+                <div class="flex flex-col items-center lg:items-start">
+                    <div class="relative group">
+                        <div class="relative">
+                            <img src="${profile.avatar_url}" alt="Profile" 
+                                 class="w-32 h-32 rounded-xl border-2 border-black mb-4
+                                        transform transition-all duration-500
+                                        group-hover:scale-105 group-hover:rotate-2">
+                            <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
+                                      group-hover:opacity-100 transition-all duration-500
+                                      group-hover:scale-105 group-hover:rotate-2"></div>
                         </div>
                     </div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
+                        ${profile.name}
+                    </h1>
+                    <div class="text-gray-600 mb-6 flex items-center gap-2">
+                        <i data-lucide="at-sign" class="w-4 h-4"></i>
+                        ${profile.username}
+                    </div>
                     
-                </div>
+                    <!-- Stats Grid -->
+                    <div class="grid grid-cols-3 gap-3 w-full mb-6">
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.followers}</div>
+                            <div class="text-sm text-gray-600">Followers</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.following}</div>
+                            <div class="text-sm text-gray-600">Following</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.public_repos}</div>
+                            <div class="text-sm text-gray-600">Repos</div>
+                        </div>
+                    </div>
 
-                <!-- Stats - Centered on Mobile -->
-                <div class="flex justify-center lg:justify-start gap-8 py-4 w-full">
-                    <div class="text-center animate-fade-in-up delay-100">
-                        <div class="font-bold md:text-xl">${profile.followers}</div>
-                        <div class="text-gray-600">Followers</div>
-                    </div>
-                    <div class="text-center animate-fade-in-up delay-200">
-                        <div class="font-bold md:text-xl">${profile.following}</div>
-                        <div class="text-gray-600">Following</div>
-                    </div>
-                    <div class="text-center animate-fade-in-up delay-300">
-                        <div class="font-bold md:text-xl">${profile.public_repos}</div>
-                        <div class="text-gray-600">Public Repos</div>
-                    </div>
+                    <!-- Social Links Section -->
+                    ${renderSocialAccounts(profile)}
                 </div>
             </div>
-
-
         </div>
         <!-- Right Content Section - Scrollable -->
         <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">

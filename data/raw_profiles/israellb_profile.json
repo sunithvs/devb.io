@@ -1,0 +1,96 @@
+{
+    "username": "israellb",
+    "name": "israellb",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92980210?v=4",
+    "profile_url": "https://github.com/IsraelLB",
+    "top_languages": [
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "C#",
+            1
+        ],
+        [
+            "SCSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GYMNAST",
+            "description": null,
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/IsraelLB/GYMNAST",
+            "updatedAt": "2024-06-05T15:45:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Procesamiento-de-eventos-para-trafico",
+            "description": null,
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/IsraelLB/Procesamiento-de-eventos-para-trafico",
+            "updatedAt": "2024-06-05T15:51:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shear_Style",
+            "description": null,
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/IsraelLB/Shear_Style",
+            "updatedAt": "2024-06-05T15:47:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SpaceLaserTagAndroid",
+            "description": null,
+            "score": 0.2726648963913061,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/IsraelLB/SpaceLaserTagAndroid",
+            "updatedAt": "2024-06-05T15:41:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EFC",
+            "description": null,
+            "score": 0.2597604312939914,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/IsraelLB/EFC",
+            "updatedAt": "2024-05-21T14:22:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 45,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "Highly skilled software developer with expertise in Kotlin, C# and SCSS. \nI leverage my technical abilities to design scalable and efficient solutions for complex applications. \nUtilizing my experience with Android app development using Kotlin, as well as experience with Windows and web applications using C# and SCSS, I create modern, responsive and user-friendly interfaces that cater to diverse user needs. \nDrawing from my background in software engineering to apply systematic thinking to my work, I strive to deliver top-quality code that adheres to industry standards and best practices while fostering collaborative environments that promote continuous improvement."
+}

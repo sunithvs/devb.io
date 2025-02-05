@@ -607,7 +607,7 @@
     const DEBUG = true;
     async function get_username(){
         if (DEBUG) {
-            return 'sunithvs';
+            return 'sunith-vs';
         }
         const pathParts = window.location.pathname.split('/').filter(part => part);
         // {#const username = pathParts[0];#}
@@ -1028,26 +1028,30 @@
                                 ${renderLanguages(profile)}
                             </div>
                             <div class="flex flex-row  w-full">
+                                ${profile.issues_closed > 0 ? `
                                 <div class="w-1/2 p-3">
                                     <div class="bg-[#B9FF66] rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
                                         <div class="flex items-center gap-2 mb-4">
                                             <h3 class="text-xl font-bold">Issue<br>Closed</h3>
                                         </div>
-                                        <div class="flex flex-wrap gap-2 font-bold text-3xl	">
+                                        <div class="flex flex-wrap gap-2 font-bold text-3xl">
                                             ${profile.issues_closed}
                                         </div>
                                     </div>
                                 </div>
+                                ` : ''}
+                                ${profile.pull_requests_merged > 0 ? `
                                 <div class="w-1/2 p-3">
                                     <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
                                         <div class="flex items-center gap-2 mb-4">
                                             <h3 class="text-xl font-bold">PR<br>Merged</h3>
                                         </div>
-                                        <div class="flex flex-wrap gap-2 font-bold	text-3xl">
+                                        <div class="flex flex-wrap gap-2 font-bold text-3xl">
                                             ${profile.pull_requests_merged}
                                         </div>
                                     </div>
                                 </div>
+                                ` : ''}
                             </div>
                         </div>
                     </div>

@@ -1,0 +1,74 @@
+{
+    "username": "malivillosa",
+    "name": "malivillosa",
+    "bio": "\ud83d\udc1e\ud83e\udeb2\ud83d\udd0d\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/123821084?u=f09c5e54d652af31f085d50825b5a09f54f8760b&v=4",
+    "profile_url": "https://github.com/malivillosa",
+    "top_languages": [
+        [
+            "Vue",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "dictionary",
+            "description": "Diccionario web para buscar cualquier palabra en ingl\u00e9s.",
+            "score": 10.471986970666187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/malivillosa/dictionary",
+            "updatedAt": "2025-01-13T08:59:21Z",
+            "isPinned": true,
+            "homepage": "https://malivillosa.github.io/dictionary/"
+        },
+        {
+            "name": "malivillosa.github.io",
+            "description": "Portafolio",
+            "score": 10.471986970666187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/malivillosa/malivillosa.github.io",
+            "updatedAt": "2025-01-13T08:56:07Z",
+            "isPinned": true,
+            "homepage": "https://malivillosa.github.io/"
+        },
+        {
+            "name": "movies",
+            "description": "WIP. Web para llevar un seguimiento de las pel\u00edculas que has visto.",
+            "score": 10.460391514645202,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/malivillosa/movies",
+            "updatedAt": "2025-01-13T08:58:40Z",
+            "isPinned": true,
+            "homepage": "https://malivillosa.github.io/movies/"
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 215,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "malivillosa/movies": {
+            "link": "https://github.com/malivillosa/movies",
+            "summary": "The movies repository has seen recent activities, including minor changes, cleanup, and addition of new panels, spanning multiple events throughout January 10 and 11, 2025."
+        },
+        "malivillosa/dictionary": {
+            "link": "https://github.com/malivillosa/dictionary",
+            "summary": "Recent activity in the dictionary repository consists of adding a work-in-progress (WIP) commit, pinpointed from January 9, 2025 on branch 3807a8c."
+        }
+    },
+    "profile_summary": "As a seasoned Vue developer, I combine technical expertise with a passion for creating engaging user experiences. With a strong background in front-end development, I excel at crafting intuitive and responsive web applications using Vue. My active development portfolio includes four public repositories, where I have refined my skills in Vue and consistently pushed the boundaries of what is possible with this versatile framework. In addition to my work on Vue, I am also fascinated by the intersection of software development and entomology, as evidenced by my unique avatar and bio, which reflects a sense of curiosity and exploration."
+}

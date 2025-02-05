@@ -1,10 +1,5 @@
 {
     "error": "An unexpected error occurred: User 'docs' not found or query returned no data.",
-    "activity_summary": {
-        "docs/debug-with-copilot": {
-            "link": "https://github.com/docs/debug-with-copilot",
-            "summary": "Recent commits include minor improvements, focusing on code readability with comments removal."
-        }
-    },
+    "activity_summary": {},
     "profile_summary": null
 }

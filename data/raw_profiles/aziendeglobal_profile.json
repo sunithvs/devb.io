@@ -1,0 +1,85 @@
+{
+    "username": "aziendeglobal",
+    "name": "Aziende Global",
+    "bio": "Desarollo de aplicaciones web con Laravel. Creaci\u00f3n y mantenimiento de tiendas virtuales con PrestaShop. Creaci\u00f3n de website con WordPress",
+    "location": "Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/167792439?u=d1fb7746693b4db2230da62bd84f4674c50b31f8&v=4",
+    "profile_url": "https://github.com/aziendeglobal",
+    "top_languages": [
+        [
+            "PHP",
+            2
+        ],
+        [
+            "Blade",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "laravel-dlocal",
+            "description": "DLocal for Laravel",
+            "score": 3.041968606869196,
+            "stars": 3,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/aziendeglobal/laravel-dlocal",
+            "updatedAt": "2024-09-03T09:44:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "buzz-app",
+            "description": "BUZZ -  Take Home Interview Assesment - Sr Full Stack Developer",
+            "score": 0.27147095749867983,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/aziendeglobal/buzz-app",
+            "updatedAt": "2024-06-01T14:53:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cv-app",
+            "description": "CV App",
+            "score": 0.26455582055001714,
+            "stars": 0,
+            "forks": 0,
+            "language": "Blade",
+            "url": "https://github.com/aziendeglobal/cv-app",
+            "updatedAt": "2024-09-23T13:43:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 5,
+    "pull_requests_merged": 10,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 40,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/company/aziende-global"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/aziende.global"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/aziende.global"
+        },
+        {
+            "provider": "generic",
+            "url": "https://wa.me/5493513092373"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

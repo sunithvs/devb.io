@@ -34,12 +34,12 @@
     "activity_summary": {
         "eduport-tech/course-purchase": {
             "link": "https://github.com/eduport-tech/course-purchase",
-            "summary": "Recent activities on course-purchase repository include 13 push events, primarily focused on updating index.html files and adding files via upload."
+            "summary": "Recent activities on eduport-tech/course-purchase involve updates to index.html and improvements to toast notifications. This resulted in a significant number of push events on January 23rd and 24th, with multiple commits made in a short span of time."
         },
         "eduport-tech/sales-brochure": {
             "link": "https://github.com/eduport-tech/sales-brochure",
-            "summary": "Recent activities on sales-brochure repository include 8 push events, mainly centered around updating index.html files and the CNAME."
+            "summary": "Recent updates to eduport-tech/sales-brochure include updates to the CNAME and multiple changes to index.html. The changes were made on multiple dates in January, with a high frequency of push events observed between January 22nd to 24th."
         }
     },
-    "profile_summary": "As a seasoned software developer with a strong background in programming languages, I leverage my expertise in Java, Python, and C++ to drive scalable solutions. With a focus on cloud computing and data analytics, I adeptly utilize Amazon Web Services (AWS) and Google Cloud Platform (GCP) to architect and deploy secure, high-performance applications. \n\nThrough hands-on experience in machine learning and DevOps, I consistently deliver innovative products and services that meet the evolving needs of modern businesses."
+    "profile_summary": "Highly skilled software engineer with 5+ years of experience in shaping innovative solutions through effective application of Java, Python, and C++. Proficient in agile methodologies, version control systems, and collaborative software development environments. \n\nNotable contributions include designing and implementing scalable data structures and algorithms to alleviate latency issues in high-traffic applications, while ensuring seamless data processing and transfer. Focused on harnessing the potential of technology to drive business growth and transformation.\n\nWith expertise in version control systems, utilizing Git for efficient code management and collaboration within distributed teams. Strong track record of resolving complex technical issues, propelling development projects forwards."
 }

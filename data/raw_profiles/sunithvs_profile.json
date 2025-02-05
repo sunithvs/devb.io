@@ -23,7 +23,7 @@
         {
             "name": "devb.io",
             "description": "DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more portfolio maintenance headaches, just pure coding brilliance on display.",
-            "score": 22.867448841688258,
+            "score": 22.86242016445484,
             "stars": 79,
             "forks": 11,
             "language": "Python",
@@ -35,7 +35,7 @@
         {
             "name": "marine-science",
             "description": "A Django-based web application for managing marine science conference registrations, abstract submissions, and payments. The system provides a complete solution for conference organization, including user authentication, payment processing, and content management.",
-            "score": 11.29201578892974,
+            "score": 11.29168426632829,
             "stars": 0,
             "forks": 1,
             "language": "HTML",
@@ -47,7 +47,7 @@
         {
             "name": "RideBook",
             "description": "A Django-based ride-sharing platform API that implements core functionalities similar to Uber. This project provides a robust backend system for managing ride bookings, user authentication, and real-time ride tracking.",
-            "score": 10.254837493864418,
+            "score": 10.254478704997956,
             "stars": 0,
             "forks": 0,
             "language": "Python",
@@ -59,7 +59,7 @@
         {
             "name": "youtube-video-summarisation",
             "description": "A Django web application that generates concise summaries of YouTube videos using Natural Language Processing (NLP). The application extracts the transcript from YouTube videos and creates a summary highlighting the key points.",
-            "score": 10.230143549312476,
+            "score": 10.229987527994211,
             "stars": 0,
             "forks": 0,
             "language": "Python",
@@ -71,7 +71,7 @@
         {
             "name": "EOC-FRONTEND",
             "description": null,
-            "score": 4.755491909426712,
+            "score": 4.755456578046689,
             "stars": 1,
             "forks": 8,
             "language": "JavaScript",
@@ -83,7 +83,7 @@
         {
             "name": "EOC-BACKEND",
             "description": null,
-            "score": 4.578829166488878,
+            "score": 4.578793785021301,
             "stars": 1,
             "forks": 7,
             "language": "Python",
@@ -95,7 +95,7 @@
         {
             "name": "drfTemplate",
             "description": null,
-            "score": 4.320517155908804,
+            "score": 4.320491761789482,
             "stars": 0,
             "forks": 16,
             "language": "Python",
@@ -107,7 +107,7 @@
         {
             "name": "portfolio-session",
             "description": "A project that includes the basic  assets required for a personal website",
-            "score": 4.036747468549243,
+            "score": 4.03662168657921,
             "stars": 3,
             "forks": 1,
             "language": "HTML",
@@ -119,12 +119,12 @@
     ],
     "followers": 109,
     "following": 24,
-    "public_repos": 116,
-    "pull_requests_merged": 30,
+    "public_repos": 109,
+    "pull_requests_merged": 27,
     "issues_closed": 6,
     "achievements": {
-        "total_contributions": 1275,
-        "repositories_contributed_to": 8
+        "total_contributions": 741,
+        "repositories_contributed_to": 5
     },
     "social_accounts": [
         {
@@ -145,6 +145,15 @@
         }
     ],
     "readme_content": "[![main Screenshot](images/main_screenshot.png)](https://devb.io/sunithvs)\n",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "sunithvs/devb.io": {
+            "link": "https://github.com/sunithvs/devb.io",
+            "summary": "Developer Sunith VS contributed by adding a floating action button for sharing devb.io profile to LinkedIn and Twitter, including a copy link button, and addressed #29 fixes in the project."
+        },
+        "aswinpradeepc/marine_sc": {
+            "link": "https://github.com/aswinpradeepc/marine_sc",
+            "summary": "Developer Aswin Pradeep C made admin fixes on February 1st, addressing various bugs and issues in the project."
+        }
+    },
+    "profile_summary": "As a seasoned Backend Developer with expertise in Python, TypeScript, and C, I leverage my skills to design and implement scalable solutions at Eduport. My extensive experience in software development is reflected in my 109 public repositories, a testament to my dedication and passion for innovation. With a strong presence of 109 followers, I engage with a professional network to stay at the forefront of industry trends and best practices, driving me to optimize and refine my craft as an engineer."
 }

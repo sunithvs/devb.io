@@ -15,7 +15,7 @@
         {
             "name": "dictionary",
             "description": "Diccionario web para buscar cualquier palabra en ingl\u00e9s.",
-            "score": 10.471986970666187,
+            "score": 10.46600120091971,
             "stars": 0,
             "forks": 0,
             "language": "Vue",
@@ -27,7 +27,7 @@
         {
             "name": "malivillosa.github.io",
             "description": "Portafolio",
-            "score": 10.471986970666187,
+            "score": 10.46600120091971,
             "stars": 0,
             "forks": 0,
             "language": "Vue",
@@ -39,7 +39,7 @@
         {
             "name": "movies",
             "description": "WIP. Web para llevar un seguimiento de las pel\u00edculas que has visto.",
-            "score": 10.460391514645202,
+            "score": 10.45511961331342,
             "stars": 0,
             "forks": 0,
             "language": "Vue",
@@ -55,7 +55,7 @@
     "pull_requests_merged": 0,
     "issues_closed": 0,
     "achievements": {
-        "total_contributions": 215,
+        "total_contributions": 216,
         "repositories_contributed_to": 2
     },
     "social_accounts": [],
@@ -63,12 +63,12 @@
     "activity_summary": {
         "malivillosa/movies": {
             "link": "https://github.com/malivillosa/movies",
-            "summary": "The movies repository has seen recent activities, including minor changes, cleanup, and addition of new panels, spanning multiple events throughout January 10 and 11, 2025."
+            "summary": "Significant activities occurred on January 11, 2025, with minor changes and code cleanup efforts. Notable updates include the addition of a panel and further refinements to the code, totalling 6 push events over the course of the day."
         },
         "malivillosa/dictionary": {
             "link": "https://github.com/malivillosa/dictionary",
-            "summary": "Recent activity in the dictionary repository consists of adding a work-in-progress (WIP) commit, pinpointed from January 9, 2025 on branch 3807a8c."
+            "summary": "On January 9, 2025, a work-in-progress (WIP) commit was made with a minor update to the code. This single push event marks the recent activity in this repository."
         }
     },
-    "profile_summary": "As a seasoned Vue developer, I combine technical expertise with a passion for creating engaging user experiences. With a strong background in front-end development, I excel at crafting intuitive and responsive web applications using Vue. My active development portfolio includes four public repositories, where I have refined my skills in Vue and consistently pushed the boundaries of what is possible with this versatile framework. In addition to my work on Vue, I am also fascinated by the intersection of software development and entomology, as evidenced by my unique avatar and bio, which reflects a sense of curiosity and exploration."
+    "profile_summary": "I'm malivillosa, a seasoned Vue developer passionate about building responsive, user-centric applications. With a focus on clean code and intuitive interfaces, I craft seamless experiences that drive engagement. As an avid learner, I stay abreast of industry trends and contribute to the open-source community through my 4 public repositories, continually pushing the boundaries of what's possible with Vue."
 }

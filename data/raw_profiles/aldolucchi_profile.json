@@ -1,0 +1,138 @@
+{
+    "username": "aldolucchi",
+    "name": "Aldo Lucchi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/76864681?u=82db9f6e98d6de3080f37a0942d8f88287ec73a2&v=4",
+    "profile_url": "https://github.com/AldoLucchi",
+    "top_languages": [
+        [
+            "JavaScript",
+            9
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "HTML",
+            10
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pedidos",
+            "description": null,
+            "score": 10.471986970666187,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AldoLucchi/pedidos",
+            "updatedAt": "2025-02-05T13:37:39Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "scripts",
+            "description": null,
+            "score": 10.256693522449861,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AldoLucchi/scripts",
+            "updatedAt": "2024-10-30T17:30:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "PDGSA-accordion",
+            "description": null,
+            "score": 10.242962741947276,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AldoLucchi/PDGSA-accordion",
+            "updatedAt": "2024-12-20T16:18:16Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "fractal",
+            "description": null,
+            "score": 10.231045068900364,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AldoLucchi/fractal",
+            "updatedAt": "2024-12-20T16:19:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "clampautomatization",
+            "description": null,
+            "score": 10.07568131896018,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AldoLucchi/clampautomatization",
+            "updatedAt": "2023-01-28T10:36:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "queros",
+            "description": null,
+            "score": 0.36488592196239694,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AldoLucchi/queros",
+            "updatedAt": "2024-12-07T01:09:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mapa",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AldoLucchi/mapa",
+            "updatedAt": "2024-11-29T06:41:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sistema",
+            "description": null,
+            "score": 0.27453260889552017,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AldoLucchi/sistema",
+            "updatedAt": "2024-06-14T22:08:10Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 3,
+    "public_repos": 28,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "AldoLucchi/pedidos": {
+            "link": "https://github.com/AldoLucchi/pedidos",
+            "summary": "Recently, AldoLucchi has been actively working on the pedidos repository, making significant progress in a short period. Key commits include resolving fields left blank and location issues, adding product characterisitcs and their relational tables, correcting forms and maps, and making CRUD developments for payment methods."
+        }
+    },
+    "profile_summary": "JavaScript and TypeScript expert Aldo Lucchi leverages his experience crafting web applications, with a strong foundation in HTML to deliver scalable, maintainable solutions. With a proven track record of active development, boasting 28 public repositories, I continue to contribute to the open-source community through innovative projects. In my free time, I explore the intersection of technology and collaboration, striving to drive meaningful connections within the development ecosystem."
+}

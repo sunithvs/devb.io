@@ -23,7 +23,7 @@
         {
             "name": "pedidos",
             "description": null,
-            "score": 10.471986970666187,
+            "score": 10.46600120091971,
             "stars": 0,
             "forks": 0,
             "language": "Vue",
@@ -128,11 +128,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "AldoLucchi/pedidos": {
-            "link": "https://github.com/AldoLucchi/pedidos",
-            "summary": "This repository has been actively contributed to in the past month, with a focus on feature development, bug fixes, and code optimization. Recent commits include the addition of new features such as filtering, recording, and product characteristics, as well as improvements to the user interface and form validation."
-        }
-    },
-    "profile_summary": "I'm Aldo Lucchi, a seasoned JavaScript developer with a strong background in TypeScript and HTML. With over two and a half decades of solid front-end experience, I focus on using modern web development techniques to craft efficient, clean, and high-quality code. My extensive experience spans various sectors including."
+    "activity_summary": {},
+    "profile_summary": null
 }

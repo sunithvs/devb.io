@@ -119,12 +119,12 @@
     ],
     "followers": 109,
     "following": 24,
-    "public_repos": 116,
-    "pull_requests_merged": 30,
+    "public_repos": 109,
+    "pull_requests_merged": 27,
     "issues_closed": 6,
     "achievements": {
-        "total_contributions": 1274,
-        "repositories_contributed_to": 8
+        "total_contributions": 741,
+        "repositories_contributed_to": 5
     },
     "social_accounts": [
         {
@@ -148,12 +148,12 @@
     "activity_summary": {
         "devb.io": {
             "link": "https://github.com/sunithvs/devb.io",
-            "summary": "Significant changes have been made to add a floating action button for sharing devb.io profile to LinkedIn and Twitter, along with a copy link button. These changes were achieved through a pull request with descriptive comments and checklists."
+            "summary": "Recent updates include the merge of pull request #35 to add a floating action button for sharing the devb.io profile to linkedin and twitter, along with a copy link button."
         },
         "marine_sc": {
             "link": "https://github.com/aswinpradeepc/marine_sc",
-            "summary": "The repository has seen several commits on February 1st, aimed at fixing admin-related issues, denoted by 'fixes admin' messages in the commit logs."
+            "summary": "The repository has seen recent fixes to the admin section, including multiple commit pushes on February 1st and 31st to address the issue."
         }
     },
-    "profile_summary": "Highly-experienced backend developer with a strong expertise in Python, TypeScript, and C, utilizing these skills to drive innovation in education technology at Eduport. With a unique blend of technical prowess and professional network, I have a distinct ability to deliver high-quality engineering solutions. I currently maintain an active portfolio of 116 public repositories, and have garnered the support of 109 like-minded professionals within my GitHub community."
+    "profile_summary": "As a seasoned Backend Developer with a strong foundation in Python, TypeScript, and C, I leverage my technical expertise to deliver high-quality solutions. With over 109 public repositories, I've consistently demonstrated my dedication to active development and my professional network of 109 followers acknowledges my influence in the community. A CUSATian engineer with experience at Eduport, I thrive in collaborating on complex projects that drive innovative results, making a tangible impact in my chosen domain."
 }

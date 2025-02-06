@@ -22,15 +22,24 @@
     ],
     "followers": 1,
     "following": 3,
-    "public_repos": 1,
-    "pull_requests_merged": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 1,
     "issues_closed": 0,
     "achievements": {
-        "total_contributions": 2,
-        "repositories_contributed_to": 0
+        "total_contributions": 33,
+        "repositories_contributed_to": 2
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "eduport-tech/course-purchase": {
+            "link": "https://github.com/eduport-tech/course-purchase",
+            "summary": "Recent activities in eduport-tech/course-purchase include several push events, updating index.html, adding files via upload, and opening a pull request with the title 'Svs improvements'."
+        },
+        "eduport-tech/sales-brochure": {
+            "link": "https://github.com/eduport-tech/sales-brochure",
+            "summary": "Recent activities in eduport-tech/sales-brochure include several push events, updating index.html, CNAME, and adding files via upload, indicating ongoing maintenance and updates to the repository."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with a strong background in building scalable applications, I leverage my expertise in Python, Java, and JavaScript to drive innovation and solve complex problems. With a focus on full-stack development, I have successfully deployed multiple projects across various platforms, utilizing my skills in machine learning, data analysis, and cloud computing. Through my contributions to the developer community and collaborations with like-minded professionals, I continue to grow and refine my craft, staying up-to-date with the latest trends and technologies.\n\nNote: Unfortunately, there is not enough information to draw a precise LinkedIn Bio. Alternatively, the initial Github README could also be used to draw relevant and related information to provide."
 }

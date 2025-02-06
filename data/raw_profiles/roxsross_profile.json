@@ -83,7 +83,7 @@
         {
             "name": "bootcamp-2-challenge",
             "description": null,
-            "score": 9.979580537333758,
+            "score": 9.979557344877964,
             "stars": 12,
             "forks": 22,
             "language": null,
@@ -95,7 +95,7 @@
         {
             "name": "2022ChallengeOnfire",
             "description": "Challenge Onfire 2022 by @roxsross",
-            "score": 9.853713887316458,
+            "score": 9.85368584481893,
             "stars": 15,
             "forks": 15,
             "language": "JavaScript",
@@ -107,7 +107,7 @@
         {
             "name": "aws-arg-demo-ecs-app",
             "description": "Time to Demo. AWS ECS by RoxsRoss [AWS Community Day Argentina 2023]",
-            "score": 9.718102617007977,
+            "score": 9.718028767507892,
             "stars": 14,
             "forks": 14,
             "language": "HCL",
@@ -148,12 +148,12 @@
     "activity_summary": {
         "roxsross/cicd-docker-voting-app": {
             "link": "https://github.com/roxsross/cicd-docker-voting-app",
-            "summary": "Recent activities on cicd-docker-voting-app include a high volume of pushes and pull requests related to the update of docker.yml, primarily focusing on version control and merging of changes."
+            "summary": "Intense development activity has taken place on this project over the past 24 hours, with numerous push events and multiple pull requests being created and merged. The majority of these activities relate to updates to the docker.yml file, suggesting improvements to the project's CI/CD infrastructure are being implemented"
         },
         "roxsross/devops-books-onfire": {
             "link": "https://github.com/roxsross/devops-books-onfire",
-            "summary": "devops-books-onfire has witnessed a couple of pushes, facilitating the addition of files via upload and a renaming of a particular book."
+            "summary": "Recent push events on this repository have been focused on additional file uploads and renaming of files, including updates to an Accelerate book chapter. These actions appear to be related to adding new content to the repository, potentially for a blog or documentation project."
         }
     },
-    "profile_summary": "Hi, I'm Rossana Suarez, a seasoned Tech Lead DevOps professional with a passion for coding and innovation. With a strong background in TypeScript, Go, and JavaScript, I excel at designing and developing scalable, efficient, and secure systems. As a Docker Captain, AWS HERO, and Gitlab HERO, I bring expertise in containerization, cloud computing, and DevOps practices to drive business success. My collaborative spirit and expertise have earned me a tight-knit professional network with 599 followers, with whom I consistently share knowledge and opportunities through my blog and public repositories. When I'm not building software, you can find me exploring the outdoors, catching up on my favorite series, or mentoring aspiring developers. Feel free to reach out to me through my website or social media channels."
+    "profile_summary": "I'm Rossana Suarez, a seasoned Tech Lead DevOps with extensive expertise in scalable systems, cloud computing, and cutting-edge technologies. As a Docker Captain, GitLab Hero, and AWS Hero, I've developed a unique blend of technical skills, including proficiency in TypeScript, Go, and JavaScript. With over 226 public repositories and 599 followers, I've built a professional network and influence in the tech community. My work revolves around designing and implementing highly efficient and reliable systems, leveraging tools like Kubernetes, Terraform, and GitHub Actions. I'm passionate about innovation, and my mantra \"No se puede crecer si no estas dispuesto a saltar a la zona de peligro\" encapsulates my approach to embracing challenges and driving growth. When not coding, you can find me exploring the outdoors, traveling, or catching up on the latest series \u2013 always looking for inspiration and opportunities to grow. "
 }

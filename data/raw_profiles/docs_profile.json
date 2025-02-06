@@ -3,11 +3,11 @@
     "activity_summary": {
         "docs/simple-php-website": {
             "link": "https://github.com/docs/simple-php-website",
-            "summary": "Recently, the simple-php-website repository has seen a series of push events on Feb 3, 2025, with notable activities including fixing a typo, removing .DS_Store files, updating the gitignore, and adding files."
+            "summary": "Recent activity includes fixing a typo and several commit updates such as removing .DS_Store files and updating the gitignore, adding files."
         },
         "docs/debug-with-copilot": {
             "link": "https://github.com/docs/debug-with-copilot",
-            "summary": "In the debug-with-copilot repository, a push event occurred on Jan 23, 2025, focusing on code maintenance by removing unnecessary comments."
+            "summary": "Recent activity includes optimizing code quality by removing unnecessary comments."
         }
     },
     "profile_summary": null

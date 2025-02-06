@@ -708,7 +708,7 @@
             </a>
 
             <!-- Profile Card -->
-            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300">
+            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300 md:mt-2">
                 <!-- Profile Image and Name -->
                 <div class="flex flex-col items-center lg:items-start">
                     <div class="relative group profile-image-container">
@@ -947,6 +947,7 @@
 
 
             if (username in data) {
+                console.log('User found in processed data');
 
                 return `https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/data/raw_profiles/${username}_profile.json`;
             }
@@ -954,7 +955,7 @@
             return `https://user.devb.io/user/${username}`;
         } catch (error) {
 
-
+            console.error('Failed to fetch user data:', error);
             return `https://user.devb.io/user/${username}`;
         }
     }

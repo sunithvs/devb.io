@@ -128,6 +128,11 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "AldoLucchi/pedidos": {
+            "link": "https://github.com/AldoLucchi/pedidos",
+            "summary": "Recent activities in this repository include the addition of features such as filtro, registro, soluci\u00f3n de campos vac\u00edos, caracteristicas con productos, correcciones en formulario, mapas, clipboard, avance en CRUD de metodos de pago, y m\u00e1s."
+        }
+    },
+    "profile_summary": "I'm Aldo Lucchi, a dedicated software developer with a strong background in JavaScript, TypeScript, and HTML. My primary focus lies in crafting clean, efficient, and scalable code to solve real-world problems. I am committed to staying up-to-date with the latest trends and advancements in the tech industry, and my active GitHub presence with 28 public repositories showcases my continuous efforts to contribute to the community and push the boundaries of innovative programming solutions."
 }

@@ -23,7 +23,7 @@
         {
             "name": "dockets",
             "description": "Docker Helper Bleeding Alpha",
-            "score": 13.10361724143865,
+            "score": 13.103588644579874,
             "stars": 1,
             "forks": 2,
             "language": "JavaScript",
@@ -35,7 +35,7 @@
         {
             "name": "exif_scrambler",
             "description": null,
-            "score": 10.06920651431519,
+            "score": 10.069185613200467,
             "stars": 0,
             "forks": 0,
             "language": "Python",
@@ -47,7 +47,7 @@
         {
             "name": "SoundSense.ai",
             "description": "A Song Recommandation Bot - ICTAK Project",
-            "score": 5.35397623407973,
+            "score": 5.353860537932557,
             "stars": 7,
             "forks": 1,
             "language": "CSS",
@@ -59,7 +59,7 @@
         {
             "name": "DanBrown47",
             "description": null,
-            "score": 4.758208204959324,
+            "score": 4.75817514225905,
             "stars": 5,
             "forks": 1,
             "language": null,
@@ -71,7 +71,7 @@
         {
             "name": "ThirdEye",
             "description": null,
-            "score": 3.7862548932684903,
+            "score": 3.786204643569347,
             "stars": 5,
             "forks": 0,
             "language": "Python",
@@ -83,7 +83,7 @@
         {
             "name": "Sem-3-C",
             "description": null,
-            "score": 2.8381952300536626,
+            "score": 2.8381783798930678,
             "stars": 3,
             "forks": 0,
             "language": "C",
@@ -95,7 +95,7 @@
         {
             "name": "Youtube-Clickbait-Checker",
             "description": "Find if the Youtube Thumbnail is a clickbait or not",
-            "score": 2.576297229787717,
+            "score": 2.5762101366106633,
             "stars": 1,
             "forks": 1,
             "language": "HTML",
@@ -107,7 +107,7 @@
         {
             "name": "angular-startupdir",
             "description": null,
-            "score": 2.4949948821272767,
+            "score": 2.4949746044335623,
             "stars": 1,
             "forks": 1,
             "language": "TypeScript",
@@ -123,8 +123,8 @@
     "pull_requests_merged": 6,
     "issues_closed": 1,
     "achievements": {
-        "total_contributions": 133,
-        "repositories_contributed_to": 5
+        "total_contributions": 132,
+        "repositories_contributed_to": 6
     },
     "social_accounts": [
         {
@@ -135,9 +135,13 @@
     "readme_content": "### Hello, \u0645\u0631\u062d\u0628\u064b\u0627, \u0928\u092e\u0938\u094d\u0924\u0947, \u3053\u3093\u306b\u3061\u306f, \u0d28\u0d2e\u0d38\u0d4d\u0d15\u0d3e\u0d30\u0d02 , \u041f\u0440\u0438\u0432\u0435\u0442\n\n<img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30px\">&nbsp;***About me ....***\n**I am Danwand, Nice Meeting you! \ud83d\ude04**  \u2728 \u2728\n\n\n\n-  I\u2019m currently pursuing Masters in Artificial Intelligence\n-  I\u2019m a self proclaimed code mafia\n-  I build things, I break things and I build things that break things\n-  How to reach me: danwand47@gmail.com\n-  Pronouns: He/Him/His\n-  Fun fact: It's not over until you win\n-  <sub> Its all about finding the truth, The complexity, and the gray lie not in the truth, but\nwhat you do with the truth once you have it. I cannot say. But let me assure you this, my presence will be ornamental.\nYou will find me a respectful, quiet, passive observer of the truth. </sub>\n\n\n![DanBrown's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanBrown47&show_icons=true&theme=chartreuse-dark)\n",
     "activity_summary": {
         "mynameisfathima/PenetrationTesting": {
-            "link": "https://github.com/mynameisfathima/PenetrationTesting",
-            "summary": "Our penetration testing repository has seen recent activity with the addition of a new test for SSL checking and the resolution of a broken access control issue, which included writing new tests."
+            "link": "https://github.com/mynameisfathima/PenetrationTesting/",
+            "summary": "Recent activities in the PenetrationTesting repository by mynameisfathima include multiple push events. On January 7, 2025, the user added SSL checking tests and fixed broken access control with accompanying tests, indicating a focus on enhancing security features."
+        },
+        "mynameisfathima/AnotherRepository": {
+            "link": "https://github.com/mynameisfathima/AnotherRepository/",
+            "summary": "No significant activities found in AnotherRepository."
         }
     },
-    "profile_summary": "Highly skilled software engineer with expertise in programming languages such as Python, C, and Go. A seasoned developer with 98 active repositories and a strong professional network of 258 followers, consistently pushing the boundaries of innovation and excellence. As a self-proclaimed code mafia, I leverage my experience in pursuing a Master's in Artificial Intelligence to tackle complex challenges and drive meaningful impact through my work."
+    "profile_summary": "As a seasoned software engineer with a Master's degree in Artificial Intelligence, I bring a unique blend of technical expertise and creative problem-solving skills to every project I undertake. With proficiency in languages such as Python, C, and Go, I design, develop, and deploy scalable solutions that meet real-world demands. I'm a prolific open-source contributor with 258 followers and 98 public repositories, constantly pushing the boundaries of innovation and collaboration."
 }

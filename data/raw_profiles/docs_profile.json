@@ -1,14 +1,5 @@
 {
     "error": "An unexpected error occurred: User 'docs' not found or query returned no data.",
-    "activity_summary": {
-        "docs/simple-php-website": {
-            "link": "https://github.com/docs/simple-php-website",
-            "summary": "Recent activity includes fixing a typo and several commit updates such as removing .DS_Store files and updating the gitignore, adding files."
-        },
-        "docs/debug-with-copilot": {
-            "link": "https://github.com/docs/debug-with-copilot",
-            "summary": "Recent activity includes optimizing code quality by removing unnecessary comments."
-        }
-    },
+    "activity_summary": {},
     "profile_summary": null
 }

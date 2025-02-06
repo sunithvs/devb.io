@@ -23,12 +23,12 @@
         {
             "name": "The-DevOps-Journey-101",
             "description": "III Edici\u00f3n DevOps 2023 ",
-            "score": 28.21366208757942,
-            "stars": 234,
+            "score": 28.222154669342324,
+            "stars": 235,
             "forks": 110,
             "language": "CSS",
             "url": "https://github.com/roxsross/The-DevOps-Journey-101",
-            "updatedAt": "2025-01-17T09:07:52Z",
+            "updatedAt": "2025-02-06T04:19:11Z",
             "isPinned": true,
             "homepage": null
         },
@@ -117,7 +117,7 @@
             "homepage": null
         }
     ],
-    "followers": 599,
+    "followers": 600,
     "following": 9,
     "public_repos": 226,
     "pull_requests_merged": 13,
@@ -148,12 +148,12 @@
     "activity_summary": {
         "roxsross/cicd-docker-voting-app": {
             "link": "https://github.com/roxsross/cicd-docker-voting-app",
-            "summary": "Intense development activity has taken place on this project over the past 24 hours, with numerous push events and multiple pull requests being created and merged. The majority of these activities relate to updates to the docker.yml file, suggesting improvements to the project's CI/CD infrastructure are being implemented"
+            "summary": "Recent activities involve multiple push events and pull request creations, focusing on updating the docker.yml file. This indicates significant changes are being made to the project's infrastructure and deployment configuration."
         },
         "roxsross/devops-books-onfire": {
             "link": "https://github.com/roxsross/devops-books-onfire",
-            "summary": "Recent push events on this repository have been focused on additional file uploads and renaming of files, including updates to an Accelerate book chapter. These actions appear to be related to adding new content to the repository, potentially for a blog or documentation project."
+            "summary": "Recent push events indicate the addition of new files and renaming of books to the repository. This suggests that the repository is being used as a collection of DevOps-related books and articles."
         }
     },
-    "profile_summary": "I'm Rossana Suarez, a seasoned Tech Lead DevOps with extensive expertise in scalable systems, cloud computing, and cutting-edge technologies. As a Docker Captain, GitLab Hero, and AWS Hero, I've developed a unique blend of technical skills, including proficiency in TypeScript, Go, and JavaScript. With over 226 public repositories and 599 followers, I've built a professional network and influence in the tech community. My work revolves around designing and implementing highly efficient and reliable systems, leveraging tools like Kubernetes, Terraform, and GitHub Actions. I'm passionate about innovation, and my mantra \"No se puede crecer si no estas dispuesto a saltar a la zona de peligro\" encapsulates my approach to embracing challenges and driving growth. When not coding, you can find me exploring the outdoors, traveling, or catching up on the latest series \u2013 always looking for inspiration and opportunities to grow. "
+    "profile_summary": "As a seasoned Tech Lead DevOps, I leverage my expertise in TypeScript, Go, and JavaScript to design and implement scalable, efficient, and secure solutions. My passion for technology and innovation is reflected in my extensive use of cloud platforms, containers, and CI/CD pipelines. With 600 followers and 226 public repositories, I continue to contribute to the developer community through open-source projects and knowledge sharing, while pushing the boundaries in my roles as AWS Hero Container, GITLAB Hero, and Docker Captain."
 }

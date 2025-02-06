@@ -141,6 +141,15 @@
         }
     ],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "EddWlad/email-frontend": {
+            "link": "https://github.com/EddWlad/email-frontend",
+            "summary": "Recent activities on email-frontend repository include implementing Modulo Reports, Mail, and Search functionality on 2025-02-03, adding Modulo Mail on 2025-01-22, and adding Componente MalingGroup on 2025-01-13."
+        },
+        "EddWlad/email-service": {
+            "link": "https://github.com/EddWlad/email-service",
+            "summary": "Recent activities on email-service repository include adding procedimientos almacenados, queries on 2025-02-03, and updating ModelMapper on 2025-01-13."
+        }
+    },
+    "profile_summary": "Highly proficient in the development of scalable applications, I've spent the last few years honing my skills in TypeScript, JavaScript, and Java, combining my passion for software creation with industry-leading technologies to drive business growth. \n\nWith extensive experience in building and maintaining robust systems, I consistently leverage my skills to deliver high-quality solutions that meet and exceed expectations. As a developer based in the Telecomunications industry, I bring a unique blend of technical acumen and industry-specific knowledge to every project. When not working on innovative software solutions, you can find me continuing to expand my technical expertise through actively maintained public repositories on GitHub."
 }

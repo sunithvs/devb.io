@@ -1,0 +1,142 @@
+{
+    "username": "freddymachaca",
+    "name": "Freddy Machaca",
+    "bio": "",
+    "location": "Bolivia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110005596?u=06bac7c7e8b313fe9d8f8f915b6dc7077c6e879a&v=4",
+    "profile_url": "https://github.com/FreddyMachaca",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "Java",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Infocasas",
+            "description": "Project developed with: Flask, HTML, Machine Learning (Random Forest), pandas, numpy.",
+            "score": 10.412361366613741,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/FreddyMachaca/Infocasas",
+            "updatedAt": "2025-01-01T15:39:31Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Socket-chat",
+            "description": "Project developed with: Socket.IO, Node.js, Express and TursoDB",
+            "score": 10.245351321164222,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FreddyMachaca/Socket-chat",
+            "updatedAt": "2025-01-01T15:41:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "BaseDeDatos2",
+            "description": "Portafolio de la asignatura Base De Datos II",
+            "score": 10.146816050697238,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FreddyMachaca/BaseDeDatos2",
+            "updatedAt": "2023-06-25T01:04:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "EstructuraDeDatos",
+            "description": "Portafolio de la asignatura de Estructura De Datos",
+            "score": 10.146816050697238,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/FreddyMachaca/EstructuraDeDatos",
+            "updatedAt": "2023-06-25T01:03:38Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Example-simple-User-system",
+            "description": "this application uses: springboot, hibernate, JWT, API Rest",
+            "score": 10.075317450371744,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FreddyMachaca/Example-simple-User-system",
+            "updatedAt": "2023-01-04T21:33:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Shitpost-Game-Memory",
+            "description": "With Flutter and Hive database",
+            "score": 10.074659913852795,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/FreddyMachaca/Shitpost-Game-Memory",
+            "updatedAt": "2022-11-20T08:33:08Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "BibliotecaApp",
+            "description": "Proyecto de Android Studio utilizando Java, MySQL y Node.js",
+            "score": 1.6284483541656216,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/FreddyMachaca/BibliotecaApp",
+            "updatedAt": "2024-12-31T04:14:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "PRO-413",
+            "description": "Portafolio de la asignatura programacion III",
+            "score": 1.5421369233419928,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/FreddyMachaca/PRO-413",
+            "updatedAt": "2023-08-05T23:02:07Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 8,
+    "following": 5,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 100,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udcbb Tech Stack:\n![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n<br/><br/><br/><br/><br/>\n# \ud83d\udcca GitHub Stats:\n\n<p align=\"center\">\n  <a href=\"https://github.com/FreddyMachaca\">\n    <img\n      align=\"center\"\n      height=\"180em\"\n      src=\"https://github-readme-stats.vercel.app/api?username=FreddyMachaca&show_icons=true&theme=dark\"\n    />\n  </a>\n  <a href=\"https://github.com/FreddyMachaca\">\n    <img\n      align=\"center\"\n      height=\"180em\"\n      src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyMachaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact\"\n    />\n  </a>\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://github.com/FreddyMachaca\">\n    <img\n      align=\"center\"\n      height=\"180em\"\n      src=\"https://github-readme-streak-stats.herokuapp.com/?user=FreddyMachaca&theme=dark&hide_border=false&layout=compact&theme=dark\"\n    />\n  </a>\n</p>\n",
+    "activity_summary": {
+        "Esp8266-Deauther": {
+            "link": "https://github.com/FreddyMachaca/Esp8266-Deauther",
+            "summary": "Recent activities on Esp8266-Deauther include two PushEvents on January 15 and 17, with the latter addressing Esp32 Nrf24l01 and the former involving creation of README.md."
+        },
+        "readme": {
+            "link": "https://github.com/FreddyMachaca/readme",
+            "summary": "This repository was not found with significant activities. It might be a potential repository or not correctly defined in the provided data. For further accurate analysis, please provide the relevant data."
+        }
+    },
+    "profile_summary": "As a seasoned senior software developer with a strong track record of contributing high-quality open-source projects, I, Freddy Machaca, bring a wealth of expertise in designing, implementing, and maintaining scalable software solutions. With a solid foundation in languages like C++, Python, and Java, I excel in analyzing complex technical problems and crafting elegant, efficient solutions that deliver tangible value. My dedication to staying up-to-date with the latest trends and technologies enables me to provide innovative solutions that meet the evolving needs of modern software applications."
+}

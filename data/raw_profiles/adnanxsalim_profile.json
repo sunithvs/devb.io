@@ -1,0 +1,141 @@
+{
+    "username": "adnanxsalim",
+    "name": "Adnan Salim",
+    "bio": "",
+    "location": "Remote",
+    "avatar_url": "https://avatars.githubusercontent.com/u/77780496?u=1901bda5ec2540dd2711ec21c72c44ab01cb96df&v=4",
+    "profile_url": "https://github.com/adnanxsalim",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "keyword-research",
+            "description": null,
+            "score": 1.641738828308278,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adnanxsalim/keyword-research",
+            "updatedAt": "2024-03-01T16:10:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project-greenwatts",
+            "description": null,
+            "score": 0.26376059434261573,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adnanxsalim/project-greenwatts",
+            "updatedAt": "2024-04-17T17:03:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project-erc404-marketplace",
+            "description": null,
+            "score": 0.26267737866818275,
+            "stars": 0,
+            "forks": 0,
+            "language": "Solidity",
+            "url": "https://github.com/adnanxsalim/project-erc404-marketplace",
+            "updatedAt": "2024-04-10T17:38:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project-crowdfunding",
+            "description": null,
+            "score": 0.26222346938047775,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adnanxsalim/project-crowdfunding",
+            "updatedAt": "2024-04-07T21:30:09Z",
+            "isPinned": false,
+            "homepage": "https://crowdfunding-main-project.vercel.app"
+        },
+        {
+            "name": "jotter",
+            "description": null,
+            "score": 0.25631375626254904,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adnanxsalim/jotter",
+            "updatedAt": "2024-11-30T10:24:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project-imaginify",
+            "description": null,
+            "score": 0.25606301069720333,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adnanxsalim/project-imaginify",
+            "updatedAt": "2024-02-22T08:37:13Z",
+            "isPinned": false,
+            "homepage": "https://project-imaginify.vercel.app"
+        },
+        {
+            "name": "adnanxsalim",
+            "description": null,
+            "score": 0.25556723781402807,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adnanxsalim/adnanxsalim",
+            "updatedAt": "2024-02-18T09:03:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DNS-Mini-Project",
+            "description": null,
+            "score": 0.15483859100085687,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adnanxsalim/DNS-Mini-Project",
+            "updatedAt": "2023-05-10T16:29:27Z",
+            "isPinned": false,
+            "homepage": "https://dns-mini-project.vercel.app"
+        }
+    ],
+    "followers": 3,
+    "following": 6,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 304,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/adnanxsalim"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/adnan-a-salim"
+        }
+    ],
+    "readme_content": "<h1 align=\"left\">Hey, I'm Adnan Salim \ud83d\udc4b</h1>\n<p align=\"left\">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</p><br>\n\n- \ud83d\udc68\u200d\ud83d\udcbb See my projects at: [adnansal.im/projects](https://adnansal.im/projects)\n\n- \ud83d\udcdd Read my articles on: [adnansal.im/blogs](https://adnansal.im/blogs)\n\n- \ud83d\udceb Say hello: [hello@adnansal.im](mailto:hello@adnansal.im)\n\n- \ud83d\udcc4 About me: [adnansal.im/about](https://adnansal.im/about)\n\n<br><hr>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"><a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white\" alt=\"bootstrap\" /> </a>\n<!-- HTML -->\n<a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\" alt=\"html5\"/> </a>\n<!-- CSS -->\n<a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\" alt=\"css3\"/> </a>\n<!-- JAVASCRIPT -->\n<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\" alt=\"javascript\"/> </a>\n<!-- TYPESCRIPT -->\n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white\" alt=\"typescript\"/> </a>\n<!-- MONGODB -->\n<a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white\" alt=\"mongodb\"/> </a>\n<!-- NEXTJS -->\n<a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white\" alt=\"nextjs\"/> </a>\n<!-- NODEJS -->\n<a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white\" alt=\"nodejs\"/> </a>\n<!-- PYTHON -->\n<a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"python\" /> </a>\n<!-- REACT -->\n<a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB\" alt=\"react\"/> </a>\n<!-- Tailwind CSS -->\n<a href=\"https://tailwindcss.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white\" alt=\"react\"/> </a>\n</p>\n\n<br><hr>\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=1da1f2&style=for-the-badge\" alt=\"adnanxsalim\" /> </p>\n\n<h3 align=\"left\">Let's connect:</h3>\n<p align=\"left\">\n<!-- TWITTER -->\n<a href=\"https://twitter.com/adnanxsalim\" target=\"blank\"><img src=\"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white\" alt=\"adnanxsalim\" /></a>\n<!-- LINKEDIN -->\n<a href=\"https://www.linkedin.com/in/adnan-a-salim/\" target=\"blank\"><img src=\"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"adnan-a-salim\" /></a>\n<!-- MEDIUM -->\n<a href=\"https://medium.com/@adnanxsalim\" target=\"blank\"><img src=\"https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white\" alt=\"adnanxsalim\" /></a>\n</p>\n\n<!-- <p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact\" alt=\"adnanxsalim\" /></p> -->\n\n<br><hr>\n\n<h3 align=\"left\">Support Me:</h3>\n<p><a href=\"https://www.buymeacoffee.com/adnansalim\"> <img align=\"left\" src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" height=\"50\" width=\"210\" alt=\"adnansalim\" /></a></p>\n",
+    "profile_summary": "A seasoned software developer with expertise in full-stack development, I excel in crafting scalable and efficient solutions using TypeScript, Python, and JavaScript. With a strong foundation in HTML, CSS, and React, I have experience building complex web applications using popular frameworks like Next.js and Node.js. My passion for learning extends to databases with MongoDB, where I have successfully implemented real-time data-driven systems. To date, I have developed 24 open-source projects on GitHub, where I actively contribute to and receive feedback from a community of 3 esteemed professionals, including fellow developers and project maintainers."
+}

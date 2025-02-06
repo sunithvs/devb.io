@@ -1,0 +1,132 @@
+{
+    "username": "palr-1216",
+    "name": "Pedro Lorenzo Rosario",
+    "bio": "I am a Programer in training, I'm in my last year of computer science.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/63958751?v=4",
+    "profile_url": "https://github.com/PALR-1216",
+    "top_languages": [
+        [
+            "Swift",
+            5
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CaribePay",
+            "description": "a demo app for practicing my main idea to build ",
+            "score": 0.3453193350819768,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/PALR-1216/CaribePay",
+            "updatedAt": "2024-12-26T14:44:45Z",
+            "isPinned": false,
+            "homepage": "https://caribe-pay.vercel.app"
+        },
+        {
+            "name": "ExpenseTrackerInterview",
+            "description": "A expense tracker web app for my interview in Bridge Security",
+            "score": 0.26723067273182516,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/PALR-1216/ExpenseTrackerInterview",
+            "updatedAt": "2024-05-16T00:59:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ArduinoCar",
+            "description": null,
+            "score": 0.22906991602758428,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/PALR-1216/ArduinoCar",
+            "updatedAt": "2024-10-18T18:44:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HourTracker2",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.15446661781970644,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/PALR-1216/HourTracker2",
+            "updatedAt": "2023-05-01T04:27:25Z",
+            "isPinned": false,
+            "homepage": "https://stackblitz.com/edit/node-xnytjh"
+        },
+        {
+            "name": "-COMP4400.SYSTEMS-DEVELOPMENT-N-IMPLEMEN",
+            "description": null,
+            "score": 0.15196092342066664,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/PALR-1216/-COMP4400.SYSTEMS-DEVELOPMENT-N-IMPLEMEN",
+            "updatedAt": "2023-02-23T03:04:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ArduinoCode",
+            "description": null,
+            "score": 0.0745913722773714,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/PALR-1216/ArduinoCode",
+            "updatedAt": "2022-11-15T14:44:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Data-Structure",
+            "description": "A repo to study my algorithms",
+            "score": 0.07383413440324872,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/PALR-1216/Data-Structure",
+            "updatedAt": "2022-09-17T15:38:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "myTimePunchTracker",
+            "description": null,
+            "score": 0.07373481064186813,
+            "stars": 0,
+            "forks": 0,
+            "language": "EJS",
+            "url": "https://github.com/PALR-1216/myTimePunchTracker",
+            "updatedAt": "2022-11-06T05:41:03Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 6,
+    "public_repos": 32,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 75,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a dedicated computer science major in my final year, I've been specializing in the development of iOS and mobile applications with Swift, as well as contributing to large-scale software projects using C++. I've also been consistently applying my knowledge in modern web technologies such as TypeScript to build efficient, scalable, and innovative solutions. Currently, I maintain a portfolio of 32 publicly accessible repositories that showcase my efforts to drive advancements in these areas and build a presence in the tech community."
+}

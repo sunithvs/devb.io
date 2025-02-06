@@ -23,7 +23,7 @@
         {
             "name": "email-frontend",
             "description": null,
-            "score": 0.42899950125401154,
+            "score": 0.4253677380770001,
             "stars": 0,
             "forks": 0,
             "language": "TypeScript",
@@ -59,7 +59,7 @@
         {
             "name": "MedicApp",
             "description": null,
-            "score": 0.3236435191376674,
+            "score": 0.32297023066626696,
             "stars": 0,
             "forks": 0,
             "language": "LLVM",
@@ -95,7 +95,7 @@
         {
             "name": "microservicios-proyectoFinal",
             "description": null,
-            "score": 0.27810596618122624,
+            "score": 0.27787232118406857,
             "stars": 0,
             "forks": 0,
             "language": "TypeScript",
@@ -141,15 +141,6 @@
         }
     ],
     "readme_content": "",
-    "activity_summary": {
-        "email-frontend": {
-            "link": "https://github.com/EddWlad/email-frontend",
-            "summary": "Recent activities in email-frontend repository include adding features for modulo reports, mail, and search functionalities through push events on February 3rd and January 22nd. Componente MailingGroup was also added in a push event on January 13th."
-        },
-        "email-service": {
-            "link": "https://github.com/EddWlad/email-service",
-            "summary": "Recent activities in email-service repository include adding procedimientos almacenados and queries through a push event on February 3rd. ModelMapper was also updated in a push event on January 13th."
-        }
-    },
-    "profile_summary": "Here's a concise and SEO-optimized profile description based on the provided details:\n\nAs a junior JavaScript Developer with a strong foundation in TypeScript and Java, I'm passionate about crafting innovative programs and applications. With a background in telecommunications, I've developed a wide range of repositories showcasing my expertise in web development. Driven by a fascination for creating software solutions, I continuously expand my skillset, delivering high-quality applications that meet industry standards."
+    "activity_summary": {},
+    "profile_summary": null
 }

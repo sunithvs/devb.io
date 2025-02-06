@@ -47,7 +47,7 @@
         {
             "name": "roxs-devops-projects",
             "description": "\u00a1Tu viaje comienza ahora! by @roxsross",
-            "score": 23.554964522224832,
+            "score": 23.554665882977055,
             "stars": 67,
             "forks": 24,
             "language": "Java",
@@ -117,7 +117,7 @@
             "homepage": null
         }
     ],
-    "followers": 598,
+    "followers": 599,
     "following": 9,
     "public_repos": 226,
     "pull_requests_merged": 13,
@@ -148,12 +148,12 @@
     "activity_summary": {
         "roxsross/cicd-docker-voting-app": {
             "link": "https://github.com/roxsross/cicd-docker-voting-app",
-            "summary": "Recent activities on roxsross/cicd-docker-voting-app have focused on updating the docker.yml file, with multiple pull requests and push events indicating significant changes. This suggests the project is undergoing active development and improvement."
+            "summary": "Recent activities on cicd-docker-voting-app include a high volume of pushes and pull requests related to the update of docker.yml, primarily focusing on version control and merging of changes."
         },
         "roxsross/devops-books-onfire": {
             "link": "https://github.com/roxsross/devops-books-onfire",
-            "summary": "Recent activity on roxsross/devops-books-onfire indicates the addition of new files through an upload and renaming of a single file. This could be related to book collection or documentation updates."
+            "summary": "devops-books-onfire has witnessed a couple of pushes, facilitating the addition of files via upload and a renaming of a particular book."
         }
     },
-    "profile_summary": "As a seasoned Tech Lead DevOps with a passion for innovation, I excel in designing, implementing, and optimizing cloud-native systems using cutting-edge technologies such as TypeScript, Go, and JavaScript. My expertise spans containerization with Docker, orchestration with Kubernetes, and infrastructure as code with Terraform. With extensive experience in DevOps tools like GitLab, Jenkins, and Amazon Web Services, I bridge the gap between development and operations to ensure smooth deployments and seamless experience for end-users.\n\nAs a Docker Captain, AWS HERO, and GitLab HERO, I'm committed to sharing knowledge and best practices with the community, and my engaging content on dev.to and blog.295devops.com reflects my enthusiasm for technology and its applications in daily life.\n\nWith over 226 public repositories and 598 followers, I'm honored to be part of the global tech community. My journey continues as a speaker, mentor, and advocate for growth and innovation, always challenging myself to \"saltar a la zona de peligro\" \u2013 to push beyond my limits and explore new frontiers in technology."
+    "profile_summary": "Hi, I'm Rossana Suarez, a seasoned Tech Lead DevOps professional with a passion for coding and innovation. With a strong background in TypeScript, Go, and JavaScript, I excel at designing and developing scalable, efficient, and secure systems. As a Docker Captain, AWS HERO, and Gitlab HERO, I bring expertise in containerization, cloud computing, and DevOps practices to drive business success. My collaborative spirit and expertise have earned me a tight-knit professional network with 599 followers, with whom I consistently share knowledge and opportunities through my blog and public repositories. When I'm not building software, you can find me exploring the outdoors, catching up on my favorite series, or mentoring aspiring developers. Feel free to reach out to me through my website or social media channels."
 }

@@ -83,7 +83,7 @@
         {
             "name": "queros",
             "description": null,
-            "score": 0.36488592196239694,
+            "score": 0.36344830578702164,
             "stars": 0,
             "forks": 0,
             "language": "HTML",
@@ -131,8 +131,8 @@
     "activity_summary": {
         "AldoLucchi/pedidos": {
             "link": "https://github.com/AldoLucchi/pedidos",
-            "summary": "Recent activity in the AldoLucchi/pedidos repository includes significant development progress with focus on fixing fields, optimizing product tables, adding and modifying key features like CRUD methods for payment, WhatsApp integration, and styling."
+            "summary": "This repository has been actively contributed to in the past month, with a focus on feature development, bug fixes, and code optimization. Recent commits include the addition of new features such as filtering, recording, and product characteristics, as well as improvements to the user interface and form validation."
         }
     },
-    "profile_summary": "As a seasoned JavaScript and TypeScript developer with a strong foundation in HTML, I combine technical expertise with a passion for building innovative web applications. With over 28 active public repositories, I'm always pushing the boundaries of software development. Leveraging my skills in solving complex problems and delivering high-quality solutions, I continue to grow and learn with the ever-evolving tech landscape, striving to drive impactful results in the world of software development."
+    "profile_summary": "I'm Aldo Lucchi, a seasoned JavaScript developer with a strong background in TypeScript and HTML. With over two and a half decades of solid front-end experience, I focus on using modern web development techniques to craft efficient, clean, and high-quality code. My extensive experience spans various sectors including."
 }

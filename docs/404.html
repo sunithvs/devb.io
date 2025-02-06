@@ -31,70 +31,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
-        #wrapper2024 .box, #wrapper2024 .glow {
-            height: 45px;
-            width: 160px;
-            position: absolute;
-            overflow: hidden;
-            z-index: 0;
-            border-radius: 0.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        #wrapper2024 .text {
-            font-family: inherit;
-            font-size: inherit;
-            z-index: 1;
-            white-space: nowrap;
-            color: white;
-        }
-
-        #wrapper2024 .glow {
-            filter: blur(20px);
-        }
-
-        #wrapper2024 .box:before, #wrapper2024 .glow:before {
-            content: '';
-            z-index: -2;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%) rotate(0deg);
-            width: 99999px;
-            height: 99999px;
-            background-image: conic-gradient(
-                    #ff0000,
-                    #ff8000,
-                    #0000ff,
-                    #8000ff,
-                    #ff0000
-            );
-            animation: rotate2024 4s linear infinite;
-        }
-
-        #wrapper2024 .box:after {
-            content: '';
-            position: absolute;
-            z-index: -1;
-            left: 2px;
-            top: 2px;
-            width: calc(100% - 4px);
-            height: calc(100% - 4px);
-            background: black;
-            color: white;
-
-            border-radius: 0.375rem;
-        }
-
-        @keyframes rotate2024 {
-            100% {
-                transform: translate(-50%, -50%) rotate(360deg);
-            }
-        }
-    </style>
-    <style>
 
         * {
             font-family: 'Space Grotesk', sans-serif;
@@ -171,6 +107,229 @@
 
         .share-popup .social-icons a:hover {
             color: #B9FF66;
+        }
+    </style>
+    <style>
+        /* Share FAB and Modal Styles */
+        .share-fab {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #B9FF66;
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            z-index: 999;
+            border: none;
+        }
+
+        .share-fab:hover {
+            background: #a8ff3d;
+            transform: scale(1.05);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .share-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(4px);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .share-modal.show {
+            display: flex;
+            opacity: 1;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 500px;
+            position: relative;
+            transform: translateY(20px);
+            transition: transform 0.3s ease;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .modal-title {
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            letter-spacing: -0.02em;
+        }
+
+        .close-btn {
+            background: #f5f5f5;
+            border: none;
+            cursor: pointer;
+            padding: 8px;
+            width: 36px;
+            height: 36px;
+            color: #666;
+            transition: all 0.2s;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            right: 1.5rem;
+            top: 1.5rem;
+        }
+
+        .close-btn:hover {
+            background: #eee;
+            color: #333;
+            transform: rotate(90deg);
+        }
+
+        .share-options {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .share-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .section-title {
+            font-size: 0.9rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .link-container {
+            background: #f8f8f8;
+            padding: 1rem 1.25rem;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            border: 1px solid #eee;
+        }
+
+        .profile-link {
+            flex: 1;
+            font-family: 'Space Grotesk', monospace;
+            font-size: 1rem;
+            color: #333;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            user-select: all;
+        }
+
+        .copy-btn {
+            background: #B9FF66;
+            color: black;
+            padding: 0.875rem 1.5rem;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+            width: 100%;
+            margin-top: 0.75rem;
+        }
+
+        .copy-btn:hover {
+            background: #a8ff3d;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(185, 255, 102, 0.2);
+        }
+
+        .copy-btn.copied {
+            background: #B9FF66;
+            color: black;
+        }
+
+        .copy-btn i {
+            width: 20px;
+            height: 20px;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.25rem;
+            padding-top: 2rem;
+            margin-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+
+        .social-links a {
+            color: #333;
+            padding: 1rem;
+            border-radius: 12px;
+            transition: all 0.2s;
+            background: #f8f8f8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #eee;
+        }
+
+        .social-links a:hover {
+            color: #B9FF66;
+            background: #333;
+            transform: translateY(-2px);
+            border-color: #333;
+        }
+
+        .social-links i {
+            width: 24px;
+            height: 24px;
+        }
+
+        @media (max-width: 640px) {
+            .modal-content {
+                padding: 2rem 1.5rem;
+            }
+
+            .modal-title {
+                font-size: 1.5rem;
+            }
+
+            .link-container {
+                padding: 0.875rem 1rem;
+            }
+
+            .social-links a {
+                padding: 0.875rem;
+            }
         }
     </style>
     <style>
@@ -487,6 +646,51 @@
             color: black;
         }
     </style>
+    <style>
+        .shimmer-load {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+        }
+
+        @keyframes shimmer {
+            0% {
+                background-position: -200% 0;
+            }
+            100% {
+                background-position: 200% 0;
+            }
+        }
+
+        .profile-image-container {
+            position: relative;
+            width: 128px;
+            height: 128px;
+        }
+
+        .profile-image-placeholder {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 1;
+            transition: opacity 0.3s ease;
+        }
+
+        .profile-image {
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .profile-image.loaded {
+            opacity: 1;
+        }
+
+        .profile-image.loaded + .profile-image-placeholder {
+            opacity: 0;
+        }
+    </style>
 </head>
 <body>
 <main class="container mx-auto px-4 py-4 lg:p-8" id="profile-container">
@@ -495,52 +699,67 @@
         <!-- Left Profile Section -->
         <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo -->
-            <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
-                <div class="w-12 h-12 shimmer-load rounded-full"></div>
-                <span class="w-24 h-6 shimmer-load rounded"></span>
-            </div>
+            <a href="/">
+                <div class="flex items-center justify-center lg:justify-start gap-2 mb-4">
+                    <div class="flex gap-3">
+                        <img width="120" src="images/logo-full.png" alt="devb.io">
+                    </div>
+                </div>
+            </a>
 
-            <div class="flex flex-col items-center lg:items-start">
-                <!-- Profile Info -->
-                <div class="flex flex-col w-full lg:flex-row lg:justify-between lg:pr-10">
-                    <div class="w-full flex flex-col items-center lg:items-start">
-                        <div class="w-32 h-32 mb-4 shimmer-load rounded-full"></div>
-                        <div class="text-center lg:text-left">
-                            <div class="w-48 h-8 shimmer-load rounded mb-2"></div>
-                            <div class="w-32 h-4 shimmer-load rounded"></div>
+            <!-- Profile Card -->
+            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300 md:mt-2">
+                <!-- Profile Image and Name -->
+                <div class="flex flex-col items-center lg:items-start">
+                    <div class="relative group profile-image-container">
+                        <img src="" alt="Profile"
+                             class="profile-image w-32 h-32 rounded-xl border-2 border-black mb-4
+                                    transform transition-all duration-500
+                                    group-hover:scale-105 group-hover:rotate-2"
+                             onload="this.classList.add('loaded')">
+                        <div class="profile-image-placeholder shimmer-load"></div>
+                        <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0
+                                  group-hover:opacity-100 transition-all duration-500
+                                  group-hover:scale-105 group-hover:rotate-2"></div>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
+
+                    </h1>
+                    <div class="text-gray-600 mb-4 flex items-center gap-2">
+                        <i data-lucide="at-sign" class="w-4 h-4"></i>
+
+                    </div>
+
+                    <!-- Bio Section -->
+
+                    <!-- Stats Grid -->
+                    <div class="grid grid-cols-3 gap-3 w-full mb-4">
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Followers</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Following</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300"></div>
+                            <div class="text-sm text-gray-600">Repos</div>
                         </div>
                     </div>
-                    <div class="hidden lg:flex justify-center mt-4 lg:mt-0">
-                        <div class="w-12 h-12 shimmer-load rounded-[10px]"></div>
-                    </div>
-                </div>
-
-                <!-- Stats -->
-                <div class="flex justify-center lg:justify-start gap-8 py-4 w-full">
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
-                    </div>
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
-                    </div>
-                    <div class="text-center">
-                        <div class="w-12 h-6 shimmer-load rounded mb-2"></div>
-                        <div class="w-20 h-4 shimmer-load rounded"></div>
-                    </div>
                 </div>
             </div>
 
-            <!-- Create Profile Button -->
-            <div class="flex items-center justify-center lg:justify-start">
-                <div class="w-48 h-10 shimmer-load rounded-lg"></div>
-            </div>
+            <!-- Social Links Section -->
+            
+
+            <!-- Location Section -->
+            
         </div>
 
         <!-- Right Content Section -->
         <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
-            <section class="mt-6">
+            <section class="mt-6 md:mt-0">
                 <div class="w-48 h-8 shimmer-load rounded mb-6 mx-3"></div>
 
                 <div class="flex flex-col xl:flex-row">
@@ -572,13 +791,13 @@
                         <!-- Stats Boxes -->
                         <div class="flex flex-row w-full">
                             <div class="w-1/2 p-3">
-                                <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
+                                <div class="bg-gray-50 rounded-lg p-3 h-full border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
                                     <div class="w-24 h-8 shimmer-load rounded mb-4"></div>
                                     <div class="w-16 h-10 shimmer-load rounded"></div>
                                 </div>
                             </div>
                             <div class="w-1/2 p-3">
-                                <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
+                                <div class="bg-gray-50 rounded-lg p-3 h-full border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
                                     <div class="w-24 h-8 shimmer-load rounded mb-4"></div>
                                     <div class="w-16 h-10 shimmer-load rounded"></div>
                                 </div>
@@ -668,6 +887,15 @@
 </script>
 
 <script>
+    const DEBUG = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    async function get_username(){
+        if (DEBUG) {
+            return 'sunithvs';
+        }
+        const pathParts = window.location.pathname.split('/').filter(part => part);
+        // {#const username = pathParts[0];#}
+        return pathParts[0];
+    }
     async function isValidGitHubUsername(username) {
         // GitHub username rules:
         // 1. 1-39 characters long
@@ -705,9 +933,7 @@
     let profile_url = ''
 
     async function resolveProfileUrl() {
-        const pathParts = window.location.pathname.split('/').filter(part => part);
-        // {#const username = pathParts[0];#}
-        const username = pathParts[0];
+        const username=await get_username();
 
         const valid_username = await isValidGitHubUsername(username);
         if (valid_username) {
@@ -721,6 +947,7 @@
 
 
             if (username in data) {
+                console.log('User found in processed data');
 
                 return `https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/data/raw_profiles/${username}_profile.json`;
             }
@@ -728,7 +955,7 @@
             return `https://user.devb.io/user/${username}`;
         } catch (error) {
 
-
+            console.error('Failed to fetch user data:', error);
             return `https://user.devb.io/user/${username}`;
         }
     }
@@ -895,36 +1122,56 @@
 
     // Projects rendering
     const renderProjects = (profile) => {
-        return profile.top_projects.map(project => `
+        return profile.top_projects.map(project => {
+            const previewUrl = `https://api.microlink.io?url=${encodeURIComponent(project.homepage || project.url)}&screenshot=true&embed=screenshot.url`;
+            
+            return `
             <div class="w-full sm:w-1/2 p-3">
-                <div class="rounded-xl p-6 border-[1px] border-b-[6px] border-black h-full project-card">
-                    <div class="flex items-center gap-2 mb-4">
-                        <h3 class="text-xl font-bold">${project.name}</h3>
-                    </div>
-                    ${project.description ? `<p class="text-gray-800 my-2">${project.description}</p>` : ''}
-                    <span class="px-4 py-2 bg-gray-100 rounded-full">${project.language}</span>
-                    <div class="flex mt-5">
-                        <a href="${project.url}" target="_blank">
-                            <button class="px-4 mr-3 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors flex items-center">
-                                <svg class="w-6 h-6 mx-3" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                                    <path fill-rule="evenodd" d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>
-                                </svg>
-                            </button>
-                        </a>
-                        ${project.stars ? `
-                            <button class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] transition-colors flex items-center">
-                                <span class="mr-2">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-star">
-                                        <path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>
-                                    </svg>
-                                </span>
-                                Stars (${project.stars})
-                            </button>
-                        ` : ''}
+                <div class="rounded-xl overflow-hidden bg-white border  h-full flex flex-col border-[1px] border-b-[6px] border-black">
+                    ${previewUrl ? 
+                        `<div class="w-full h-48 overflow-hidden">
+                            <img src="${previewUrl}" alt="${project.name} preview" class="w-full h-full object-cover">
+                        </div>` : ''
+                    }
+                    <div class="p-6 flex-1 flex flex-col">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="text-xl font-bold">${project.name}</h3>
+                            <div class="flex items-center gap-2">
+                                ${project.stars > 0 ? `
+                                <span class="flex items-center text-gray-600">
+                                    <i data-lucide="star" class="w-4 h-4 mr-1"></i>
+                                    ${project.stars}
+                                </span>` : ''}
+                                ${project.forks > 0 ? `
+                                <span class="flex items-center text-gray-600">
+                                    <i data-lucide="git-fork" class="w-4 h-4 mr-1"></i>
+                                    ${project.forks}
+                                </span>` : ''}
+                            </div>
+                        </div>
+                        ${project.description ? 
+                            `<p class="text-gray-600 mb-4 flex-1">${project.description}</p>` : 
+                            ''
+                        }
+                        <div class="flex items-center gap-3 mt-auto">
+                            <span class="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm">
+                                ${project.language}
+                            </span>
+                            <div class="flex-1"></div>
+                            <a href="${project.url}" target="_blank" class="inline-flex items-center justify-center px-4 py-2 bg-[#B9FF66] text-black rounded-lg hover:bg-[#a8ff3d] transition-colors">
+                                <i data-lucide="github" class="w-5 h-5"></i>
+                            </a>
+                            ${project.homepage ? 
+                                `<a href="${project.homepage}" target="_blank" class="inline-flex items-center justify-center px-4 py-2 border border-gray-200 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors">
+                                    <i data-lucide="external-link" class="w-5 h-5"></i>
+                                </a>` : 
+                                ''
+                            }
+                        </div>
                     </div>
                 </div>
-            </div>
-        `).join('');
+            </div>`;
+        }).join('');
     };
 
     // Recent Activity rendering
@@ -949,7 +1196,7 @@
         `).join('');
         return `
             <section id="activity" class="mt-6">
-                <h2 class="text-2xl font-bold mb-6 mx-3">Recent Activity ↓</h2>
+                <h2 class="text-2xl font-bold mb-6 mx-3 text-left">Recent Activity ↓</h2>
                 <div>
                     ${activity}
                 </div>
@@ -972,6 +1219,91 @@
         `;
     };
 
+    function getSocialIcon(provider, url) {
+        // Special case for devb.io profile
+        if (url.includes('devb.io')) {
+            return 'custom-devb';
+        }
+
+        const icons = {
+            'linkedin': 'linkedin',
+            'github': 'github',
+            'twitter': 'twitter',
+            'instagram': 'instagram',
+            'facebook': 'facebook',
+            'youtube': 'youtube',
+            'medium': 'book-open',
+            'dev.to': 'code',
+            'stackoverflow': 'layers',
+            'behance': 'behance',
+            'dribbble': 'dribbble',
+            'gitlab': 'gitlab',
+            'codepen': 'codepen',
+            'hashnode': 'hash',
+            'personal_website': 'globe',
+            'mastodon': 'share-2',
+            'threads': 'at-sign',
+            'tiktok': 'video',
+            'pinterest': 'image',
+            'substack': 'newspaper',
+            'kaggle': 'database',
+            'research_gate': 'microscope',
+            'generic': 'link'
+        };
+        
+        return icons[provider] || icons['generic'];
+    }
+
+    function extractDomainName(url) {
+        try {
+            const domain = new URL(url).hostname;
+            // Remove www. if present and get the base domain
+            return domain.replace(/^www\./, '').split('.')[0];
+        } catch (e) {
+            return 'website';
+        }
+    }
+
+    function renderSocialAccounts(profile) {
+        if (!profile.social_accounts || profile.social_accounts.length === 0) return '';
+        
+        // Add GitHub to the social accounts list
+        const allAccounts = [
+            { provider: 'github', url: profile.profile_url },
+            ...profile.social_accounts
+        ];
+        
+        return `
+        <div class="w-full">
+            <div class="flex items-center gap-2 mb-3">
+                <i data-lucide="users" class="w-5 h-5 text-black"></i>
+                <h3 class="text-lg font-semibold">Connect with me</h3>
+            </div>
+            <div class="flex flex-wrap gap-3 justify-center lg:justify-start">
+                ${allAccounts.map(account => {
+                    const icon = getSocialIcon(account.provider, account.url);
+                    const isDevbProfile = account.url.includes('devb.io');
+                    const tooltipText = account.provider === 'generic' ? extractDomainName(account.url) : account.provider;
+                    
+                    return `
+                    <a href="${account.url}" 
+                       target="_blank" 
+                       class="group relative w-10 h-10 flex items-center justify-center rounded-lg border-[1px] border-b-[3px] border-black 
+                              hover:bg-[#B9FF66] transition-all duration-300 hover:scale-110 hover:-translate-y-1"
+                       title="${tooltipText}">
+                        ${isDevbProfile ? 
+                            `<img src="images/logo.png" alt="devb.io" class="w-6 h-6">` :
+                            `<i data-lucide="${icon}" class="w-5 h-5 group-hover:rotate-12 transition-transform duration-300"></i>`
+                        }
+                        <span class="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded 
+                                   opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+                            ${tooltipText}
+                        </span>
+                    </a>
+                `}).join('')}
+            </div>
+        </div>`;
+    }
     function renderProfile(profile) {
         const container = document.getElementById('profile-container');
         container.innerHTML = `<div class="grid grid-cols-1 lg:grid-cols-[400px,1fr] gap-8">
@@ -979,78 +1311,62 @@
         <div id="left-section" class="lg:sticky lg:top-8 space-y-6">
             <!-- Logo - Centered on Mobile -->
             <a href="/">
-                <div class="flex items-center justify-center lg:justify-start gap-2 mb-8">
+                <div class="flex items-center justify-center lg:justify-start gap-2 mb-4">
                     <div class="flex gap-3">
                             <img width="120" src="images/logo-full.png" alt="devb.io">
                     </div>
                 </div>
             </a>
-            <div class="flex flex-col items-center lg:items-start">
-                <!-- Profile Info - Centered on Mobile -->
-                <div class="flex flex-col w-full lg:flex-row lg:justify-between lg:pr-10">
-                    <div class="w-full flex flex-col items-center lg:items-start">
-                        <img src="${profile.avatar_url}" alt="Profile" class="w-32 h-32 mb-4 rounded-full
-                transform transition-all duration-500
-                hover:scale-105 hover:rotate-3 hover:shadow-lg">
-                        <div class="text-center lg:text-left">
-                            <h1 class="text-xl md:text-3xl font-bold md:mb-2
-                    animate-slide-in-left">${profile.name}</h1>
-                            <p class="text-gray-600 animate-fade-in flex items-center space-x-2">
-                                <a href="${profile.profile_url}" class="flex items-center hover:underline">
-                                        <span class="group">
-                                            <img src="images/hyperlink-logo.png" alt="l" class="w-8 h-8 ml-1  group-hover:opacity-100 transition-opacity duration-400" onerror="this.style.display='none';">
-                                        </span>
-                                    <span class="username-link">@${profile.username}</span>
-                                </a>
-                            </p>
+
+            <!-- Profile Card -->
+            <div class="bg-white rounded-xl p-6 border-[1px] border-b-[6px] border-black hover:shadow-lg transition-shadow duration-300 md:mt-2">
+                <!-- Profile Image and Name -->
+                <div class="flex flex-col items-center lg:items-start">
+                    <div class="relative group profile-image-container">
+                        <img src="${profile.avatar_url}" 
+                             alt="Profile" 
+                             class="profile-image w-32 h-32 rounded-xl  mb-4
+                                    transform transition-all duration-500
+                                    group-hover:scale-105 group-hover:rotate-2"
+                             onload="this.classList.add('loaded')">
+                        <div class="profile-image-placeholder shimmer-load"></div>
+                        <div class="absolute inset-0 rounded-xl border-2 border-[#B9FF66] opacity-0 
+                                  group-hover:opacity-100 transition-all duration-500
+                                  group-hover:scale-105 group-hover:rotate-2"></div>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-2 animate-slide-in-left bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
+                        ${profile.name}
+                    </h1>
+                    <div class="text-gray-600 mb-6 flex items-center gap-2">
+                        <i data-lucide="at-sign" class="w-4 h-4"></i>
+                        ${profile.username}
+                    </div>
+                    
+                    <!-- Stats Grid -->
+                    <div class="grid grid-cols-3 gap-3 w-full mb-6">
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.followers}</div>
+                            <div class="text-sm text-gray-600">Followers</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.following}</div>
+                            <div class="text-sm text-gray-600">Following</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-3 border-[1px] border-b-[3px] border-black hover:bg-[#B9FF66] transition-colors duration-300 group">
+                            <div class="font-bold text-xl group-hover:scale-110 transition-transform duration-300">${profile.public_repos}</div>
+                            <div class="text-sm text-gray-600">Repos</div>
                         </div>
                     </div>
-                    <div class="hidden lg:flex justify-center mt-4 lg:mt-0">
-                        <a href="${profile.profile_url}" class="inline-flex items-center justify-center w-12 h-12 border-[1px]
-               rounded-[10px] border-b-[4px] border-black
-               transform transition-all duration-300
-               hover:scale-110 hover:shadow-md active:translate-y-1">
-                            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                                <path fill-rule="evenodd"
-                                      d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-                                      clip-rule="evenodd"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
 
-                <!-- Stats - Centered on Mobile -->
-                <div class="flex justify-center lg:justify-start gap-8 py-4 w-full">
-                    <div class="text-center animate-fade-in-up delay-100">
-                        <div class="font-bold md:text-xl">${profile.followers}</div>
-                        <div class="text-gray-600">Followers</div>
-                    </div>
-                    <div class="text-center animate-fade-in-up delay-200">
-                        <div class="font-bold md:text-xl">${profile.following}</div>
-                        <div class="text-gray-600">Following</div>
-                    </div>
-                    <div class="text-center animate-fade-in-up delay-300">
-                        <div class="font-bold md:text-xl">${profile.public_repos}</div>
-                        <div class="text-gray-600">Public Repos</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Create Profile Button - Centered on Mobile -->
-            <div  id='wrapper2024' class="flex items-center justify-center lg:justify-start">
-                <div class="flex items-center">
-                 <div class="glow"></div>
-                        <button id="wrapped-btn"
-                                class="px-4 py-2 rounded-lg border-2 border-black bg-white transition-colors flex items-center text-black z-10 hover:bg-[#191A23] hover:text-white">
-                            2024 Unwrapped
-                        </button>
+                    <!-- Social Links Section -->
+                    ${renderSocialAccounts(profile)}
                 </div>
             </div>
         </div>
         <!-- Right Content Section - Scrollable -->
         <div id="right-section" class="space-y-6 lg:h-[calc(100vh-4rem)] lg:overflow-y-auto">
 
-            <section id="about" class="mt-6">
+            <section id="about" class="mt-6 md:mt-0">
                 <h2 class="text-2xl font-bold mb-6 mx-3 text-left">Get to know me ↓</h2>
 
                 <!-- Flexible layout for Bio, Languages, and About sections -->
@@ -1074,26 +1390,30 @@
                                 ${renderLanguages(profile)}
                             </div>
                             <div class="flex flex-row  w-full">
+                                ${profile.issues_closed > 0 ? `
                                 <div class="w-1/2 p-3">
                                     <div class="bg-[#B9FF66] rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
                                         <div class="flex items-center gap-2 mb-4">
                                             <h3 class="text-xl font-bold">Issue<br>Closed</h3>
                                         </div>
-                                        <div class="flex flex-wrap gap-2 font-bold text-3xl	">
+                                        <div class="flex flex-wrap gap-2 font-bold text-3xl">
                                             ${profile.issues_closed}
                                         </div>
                                     </div>
                                 </div>
+                                ` : ''}
+                                ${profile.pull_requests_merged > 0 ? `
                                 <div class="w-1/2 p-3">
                                     <div class="bg-white rounded-xl p-6 h-full border-[1px] border-b-[6px] border-black">
                                         <div class="flex items-center gap-2 mb-4">
                                             <h3 class="text-xl font-bold">PR<br>Merged</h3>
                                         </div>
-                                        <div class="flex flex-wrap gap-2 font-bold	text-3xl">
+                                        <div class="flex flex-wrap gap-2 font-bold text-3xl">
                                             ${profile.pull_requests_merged}
                                         </div>
                                     </div>
                                 </div>
+                                ` : ''}
                             </div>
                         </div>
                     </div>
@@ -1133,37 +1453,7 @@
         </div>
 
     </div>
-<div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4 lg:p-0">
-  <div class="bg-white rounded-xl p-4 lg:p-6 w-full max-w-4xl h-[90vh] flex flex-col">
-    <div class="flex flex-col lg:flex-row justify-between items-center mb-4 gap-4">
-      <h2 class="text-2xl font-bold">2024 Unwrapped</h2>
-      <div class="flex gap-4">
-        <button id="download-btn" class="px-4 py-2 rounded-lg border-2 border-black bg-[#B9FF66] hover:bg-[#191A23] hover:text-white transition-colors">
-          Download
-        </button>
-        <button id="share-btn" class="px-4 py-2 rounded-lg border-2 border-black hover:bg-[#B9FF66] transition-colors">
-          Share
-        </button>
-        <button id="close-modal" class="text-2xl">&times;</button>
-      </div>
-    </div>
-
-    <div id="loading" class="hidden flex-1 py-20 text-center">
-      <div class="animate-spin rounded-full h-16 w-16 border-b-2 border-black mx-auto mb-4"></div>
-      <p>Generating your Unwrapped...</p>
-    </div>
-
-    <div id="svg-preview" class="hidden flex-1 overflow-y-auto">
-      <div id="svg-container" class="flex justify-center items-start">
-        <div class="w-full max-w-3xl transform-gpu">
-          <!-- SVG will be inserted here -->
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 `;
-        wrapped_setup();
         // Scroll sync between left and right sections of dynamically loaded DOM.
         const leftSection = document.getElementById("left-section");
         const rightSection = document.getElementById("right-section");
@@ -1179,205 +1469,37 @@
     }
 </script>
 <script>
-
-    function get_svg_x(mid, font_size, text) {
-        return mid - (text.length * font_size / 4);
-    }
-
-    function get_in_k_format(num) {
-        if (num >= 1000) {
-            return (num / 1000).toFixed(1) + "k";
-        }
-        return num;
-    }
-
-    async function get_base64_from_url(url) {
-        return new Promise((resolve, reject) => {
-            const xhr = new XMLHttpRequest();
-            xhr.open("GET", url);
-            xhr.responseType = "blob";
-            xhr.onload = () => {
-                if (xhr.status === 200) {
-                    const reader = new FileReader();
-                    reader.onloadend = () => resolve(reader.result);
-                    reader.onerror = reject;
-                    reader.readAsDataURL(xhr.response);
-                } else {
-                    reject(new Error(`Failed to fetch image: ${xhr.status}`));
-                }
-            };
-            xhr.onerror = () => reject(new Error("Network error"));
-            xhr.send();
-        });
-    }
-
-
-    async function updateSvg(svgText, userData) {
-        const base64Image = await get_base64_from_url(userData.avatar_url);
-        return svgText
-            .replace(/{name}/g, userData.name)
-            .replace(/{avatar}/g, `${base64Image}`)
-            .replace(/{bio}/g, userData.bio ? userData.bio.slice(0, 60) + (userData.bio.length > 60 ? "..." : "") : "")
-            .replace(/{follow}/g, `${get_in_k_format(userData.followers)} Followers | ${get_in_k_format(userData.following)} Following`)
-            .replace(/{repos}/g, `${userData.public_repos} Public Repos`)
-            .replace(/{commits}/g, `${userData.achievements.total_contributions}`)
-            .replace(/{commit_x}/g, get_svg_x(370, 68.514, `${userData.achievements.total_contributions}`))
-            .replace(/{issue}/g, `${userData.issues_closed}`)
-            .replace(/{issue_x}/g, get_svg_x(330, 68.514, `${userData.issues_closed}`))
-            .replace(/{pr}/g, `${userData.pull_requests_merged}`)
-            .replace(/{pr_x}/g, get_svg_x(350, 68.514, `${userData.pull_requests_merged}`))
-            .replace(/{lang1}/g, userData.top_languages[0] ? userData.top_languages[0][0] : "")
-            .replace(/{lang1_x}/g, get_svg_x(370, 54, userData.top_languages[0] ? userData.top_languages[0][0] : ""))
-            .replace(/{lang2}/g, userData.top_languages[1] ? userData.top_languages[1][0] : "")
-            .replace(/{lang2_x}/g, get_svg_x(370, 54, userData.top_languages[1] ? userData.top_languages[1][0] : ""))
-            .replace(/{lang3}/g, userData.top_languages[2] ? userData.top_languages[2][0] : "")
-            .replace(/{lang3_x}/g, get_svg_x(370, 54, userData.top_languages[2] ? userData.top_languages[2][0] : ""));
-    }
-
-    function wrapped_setup() {
-        const modal = document.getElementById('modal');
-        const wrappedBtn = document.getElementById('wrapped-btn');
-        const closeModal = document.getElementById('close-modal');
-        const loading = document.getElementById('loading');
-        const svgPreview = document.getElementById('svg-preview');
-        const downloadBtn = document.getElementById('download-btn');
-        const shareBtn = document.getElementById('share-btn');
-
-        wrappedBtn.addEventListener('click', async () => {
-            modal.classList.remove('hidden');
-            loading.classList.remove('hidden');
-            svgPreview.classList.add('hidden');
-            // make the download and share buttons disabled
-            downloadBtn.disabled = true;
-            shareBtn.disabled = true;
-            const pathParts = window.location.pathname.split('/').filter(part => part);
-            const username = pathParts[pathParts.length - 1];
-
-
-            try {
-                const response = await fetch(profile_url);
-                const userData = await response.json();
-
-                const svgResponse = await fetch('https://devb.io/poster/poster.svg');
-                const svgText = await svgResponse.text();
-
-                const updatedSvg = await updateSvg(svgText, userData);
-                document.getElementById('svg-container').innerHTML = updatedSvg;
-
-
-                loading.classList.add('hidden');
-                svgPreview.classList.remove('hidden');
-                // enable the download and share buttons
-                downloadBtn.disabled = false;
-                shareBtn.disabled = false;
-            } catch (error) {
-
-                loading.classList.add('hidden');
+    // Handle scroll behavior
+    let lastScrollPosition = 0;
+    
+    function handleScroll() {
+        if (window.innerWidth >= 1024) return; // Desktop behavior handled by CSS
+        
+        const currentScroll = window.scrollY;
+        const scrollingDown = currentScroll > lastScrollPosition;
+        const threshold = 200; // Adjust this value as needed
+        
+        if (currentScroll > threshold) {
+            if (scrollingDown) {
+                leftSection.classList.add('profile-hidden');
+                leftSection.classList.remove('profile-visible');
+            } else {
+                leftSection.classList.add('profile-visible');
+                leftSection.classList.remove('profile-hidden');
             }
-        });
-
-        closeModal.addEventListener('click', () => {
-            modal.classList.add('hidden');
-        });
-
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) modal.classList.add('hidden');
-        });
-
-        downloadBtn.addEventListener('click', async () => {
-            const svgElement = document.querySelector("#svg-container svg");
-            if (!svgElement) return;
-
-            const svgData = new XMLSerializer().serializeToString(svgElement);
-            const blob = new Blob([svgData], {type: "image/svg+xml"});
-            const url = URL.createObjectURL(blob);
-            const pathParts = window.location.pathname.split('/').filter(part => part);
-            const username = pathParts[pathParts.length - 1];
-
-            const img = new Image();
-            img.src = url;
-
-            img.onload = () => {
-                URL.revokeObjectURL(url);
-                setTimeout(() => {
-                    const canvas = document.createElement("canvas");
-                    canvas.width = 1080 * 2;
-                    canvas.height = 1920 * 2;
-
-                    const ctx = canvas.getContext("2d");
-                    ctx.drawImage(img, 0, 0);
-
-                    const pngUrl = canvas.toDataURL("image/png");
-                    const link = document.createElement("a");
-                    link.download = `${username}-wrapped-2024.png`;
-                    link.href = pngUrl;
-                    link.click();
-                }, 2000);
-            };
-        });
-
-        shareBtn.addEventListener('click', async () => {
-            const svgElement = document.querySelector("#svg-container svg");
-            if (!svgElement) return;
-
-            // First convert SVG to PNG using canvas, similar to download functionality
-            const svgData = new XMLSerializer().serializeToString(svgElement);
-            const blob = new Blob([svgData], {type: "image/svg+xml"});
-            const url = URL.createObjectURL(blob);
-
-            const img = new Image();
-            img.src = url;
-
-            img.onload = async () => {
-                URL.revokeObjectURL(url);
-
-                const canvas = document.createElement("canvas");
-                canvas.width = 1080 * 2;
-                canvas.height = 1920 * 2;
-
-                const ctx = canvas.getContext("2d");
-                ctx.drawImage(img, 0, 0);
-
-                // Convert canvas to blob
-                canvas.toBlob(async (blob) => {
-                    try {
-                        // Check if Web Share API is supported
-                        if (!navigator.share) {
-                            alert("Web Share API is not supported in your browser");
-                            return;
-                        }
-
-                        // Check if sharing files is supported
-                        if (!navigator.canShare) {
-                            alert("Sharing files is not supported in your browser");
-                            return;
-                        }
-
-                        const file = new File([blob], "github-wrapped-2024.png", {
-                            type: "image/png"
-                        });
-
-                        const shareData = {
-                            files: [file],
-                            title: '2024 GitHub Unrapped',
-                            text: 'Check out my 2024 GitHub Unrapped!'
-                        };
-
-                        // Check if the data can be shared
-                        if (!navigator.canShare(shareData)) {
-                            alert("This type of data cannot be shared on your device");
-                            return;
-                        }
-                        const pathParts = window.location.pathname.split('/').filter(part => part);
-                        await navigator.share(shareData);
-                    } catch (error) {
-
-                        alert("Failed to share: " + error.message);
-                    }
-                }, 'image/png');
-            };
-        });
+            leftSection.classList.add('scrolled');
+        } else {
+            leftSection.classList.remove('scrolled', 'profile-hidden', 'profile-visible');
+        }
+        
+        lastScrollPosition = currentScroll;
     }
+
+    // Add scroll event listener
+    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('resize', handleScroll);
+    // Initial check
+    handleScroll();
 </script>
 </body>
 </html>

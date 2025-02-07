@@ -1,0 +1,133 @@
+{
+    "username": "jmatias2411",
+    "name": "Matias Palomino",
+    "bio": "Apasionado del Mundo Aeroespacial, Ciencia de Datos e Inteligencia Artificial. ",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/103984179?u=299a3b3e0b5977c2c64517f799ea27e0af5a3767&v=4",
+    "profile_url": "https://github.com/jmatias2411",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Recordatorios_Notion",
+            "description": "Este proyecto es un script en Python que automatiza el proceso de obtener tareas pendientes desde una base de datos de Notion y enviarlas como recordatorios personalizados a trav\u00e9s de correo electr\u00f3nico. Utiliza la Notion API para integrar las tareas y emplea la librer\u00eda smtplib para enviar correos en formato HTML con un dise\u00f1o amigable.",
+            "score": 10.45015244275062,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jmatias2411/Recordatorios_Notion",
+            "updatedAt": "2025-01-12T14:33:16Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Video_to_Text_Transformer",
+            "description": "Este proyecto convierte archivos de video en texto, convirtiendo el texto a audio y  dividiendo el audio en fragmentos manejables de 60 segundos. El resultado es un archivo de texto con la transcripci\u00f3n completa del video. Ideal para automatizar la conversi\u00f3n de videos a texto de manera eficiente y gratuita.",
+            "score": 10.308164228783138,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/jmatias2411/Video_to_Text_Transformer",
+            "updatedAt": "2025-01-12T16:05:01Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Data_Science_Walmart",
+            "description": "An\u00e1lisis de Datos con SQL Server y scripts en Python y R ",
+            "score": 10.256439855270548,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jmatias2411/Data_Science_Walmart",
+            "updatedAt": "2025-01-12T16:04:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "anti_inactividad",
+            "description": "Este script en Python permite simular actividad en la computadora moviendo el rat\u00f3n en intervalos regulares dentro de un rango amplio de movimiento. Utiliza la biblioteca pyautogui para realizar los movimientos, lo cual puede ser \u00fatil para evitar que el sistema entre en modo de suspensi\u00f3n o sea detectado como inactivo.",
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jmatias2411/anti_inactividad",
+            "updatedAt": "2024-12-25T16:03:00Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Data_Sets",
+            "description": null,
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jmatias2411/Data_Sets",
+            "updatedAt": "2024-10-21T18:28:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Prueba_curso",
+            "description": "Este repositorio es producto de la clase de Arquitectura de Big Data",
+            "score": 0.3096494774516637,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jmatias2411/Prueba_curso",
+            "updatedAt": "2024-10-24T14:58:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Rocket_Launch_DataBase",
+            "description": "Consultas SQL para Tabla en formato CSV de Lanzamientos  de Cohetes Espaciales. El gestor de Base de datos usado en el caso es SQL Server. El repositorio cuenta tambi\u00e9n con un tablero hecho en Power BI para la representaci\u00f3n grafica de las consultas obtenidas y asi facilitar su f\u00e1cil comprensi\u00f3n ",
+            "score": 0.2592062552949126,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jmatias2411/Rocket_Launch_DataBase",
+            "updatedAt": "2024-03-19T21:38:06Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Connection_Monitoring",
+            "description": "Realizar un monitoreo de las conexiones de red establecidas por procesos y obtener detalles tanto sobre los procesos locales como sobre las ubicaciones geogr\u00e1ficas asociadas a las direcciones IP remotas.",
+            "score": 0.2564398552705475,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jmatias2411/Connection_Monitoring",
+            "updatedAt": "2025-01-12T16:02:47Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 2,
+    "following": 14,
+    "public_repos": 8,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 66,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/matias-palomino-luna24"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

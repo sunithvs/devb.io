@@ -1,0 +1,138 @@
+{
+    "username": "andresfelipe97",
+    "name": "Andres fandi\u00f1o",
+    "bio": "Data Analyst /\r\nIngeniero de mantenimiento  /\r\nColombia",
+    "location": "COLOMBIA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/102334433?u=491cfb99be40981fc35112d58c752047cdeca95c&v=4",
+    "profile_url": "https://github.com/andresfelipe97",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "Jupyter Notebook",
+            9
+        ],
+        [
+            "JavaScript",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Market-Basket-Analysis",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/Market-Basket-Analysis",
+            "updatedAt": "2025-02-07T21:07:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ETL-Datos-CRM",
+            "description": null,
+            "score": 10.383433327952996,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/ETL-Datos-CRM",
+            "updatedAt": "2024-12-20T21:15:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Limpieza-y-transformacion-de-datos",
+            "description": null,
+            "score": 10.369417818721741,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/Limpieza-y-transformacion-de-datos",
+            "updatedAt": "2024-12-11T22:28:13Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "WEB-SCRAPING-",
+            "description": null,
+            "score": 10.360673760222241,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/WEB-SCRAPING-",
+            "updatedAt": "2024-12-06T18:20:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Review-cursos-python-jupyter-highcharts-",
+            "description": null,
+            "score": 10.351891308582417,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/Review-cursos-python-jupyter-highcharts-",
+            "updatedAt": "2024-11-28T22:24:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto-POWER-BI",
+            "description": null,
+            "score": 10.339455557042134,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/andresfelipe97/Proyecto-POWER-BI",
+            "updatedAt": "2024-12-11T22:31:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "BASE-DE-DATOS-CON-SQL",
+            "description": null,
+            "score": 10.327156082780968,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/andresfelipe97/BASE-DE-DATOS-CON-SQL",
+            "updatedAt": "2024-11-02T00:04:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Prueba-t-cnica",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/andresfelipe97/Prueba-t-cnica",
+            "updatedAt": "2025-02-04T17:32:26Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 47,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 164,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "<p align=\"center\">\n  <img src=\"https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png\" height=\"200\"/>\n</p>\n<div align=\"center\">\n<h1 align=\"center\">Hola, soy <a href=\"https://aristi.dev\">Andres Fandi\u00f1o</a> \ud83d\udc4b</h1>\n</div>\n<h3 align=\"center\">DATA ANALYST | ENGINEER MAINTENANCE |FUTURO DATA ENGINEER</h3>\n\n\n<span>\n    <h4 align=\"center\">\"<em>Si lo puedes imaginar, lo puedes programar</em>\"\n      <span align=\"center\">Alejandro Taboada Sanchez</span>\n    </h4>\n<span>\n\n[![Linkedin Badge](https://img.shields.io/badge/-AndresDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fandi\u00f1o)\n\n## \ud83d\udee0\ufe0f My Skills\n\n### \ud83d\udc49 Programming languages\n\n<p align=\"left\"> \n  \n  &emsp;\n   <a href=\"https://www.python.org\" target=\"_blank\">\n    <img alt=\"Python\" src=\"https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white\">\n  </a>\n\n### \ud83d\udc49 Databases & Cloud Hosting\n<p align=\"left\">\n  &emsp;\n    <a href=\"https://www.mysql.com/\"><img alt=\"MySQL\" src=\"https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white\"></a>\n\n  \n### \ud83d\udc49 Frontend Development\n<p align=\"left\"> \n  &emsp; \n  <a href=\"https://www.w3.org/html/\" target=\"_blank\"> \n   <img alt=\"HTML\" src=\"https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white\">\n  </a>   \n  &emsp;\n  <a href=\"https://www.w3schools.com/css/\" target=\"_blank\">\n    <img alt=\"CSS\" src=\"https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white\">\n  </a> \n   &emsp;\n  <a href=\"https://getbootstrap.com\" target=\"_blank\"> \n    <img alt=\"Bootstrap\" src=\"https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white\"/>\n  </a>\n</p>\n\n\n ### \ud83d\udc49 Software & Tools\n \n<p>\n  &emsp;\n    <a href=\"#\"><img alt=\"Visual Studio Code\" src=\"https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Jupyter\" src=\"https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Adobe\" src=\"https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Colab\" src=\"https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Codepen\" src=\"https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Git\" src=\"https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Linux\" src=\"https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Google Sheets\" src=\"https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white\"></a>\n  &emsp;\n    <a href=\"#\"><img alt=\"Stack Overflow\" src=\"https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white\"></a>\n  &emsp;\n</p>\n\n<br/>\n\n\n\n### \u2699\ufe0f &nbsp;GitHub Analytics\n\n<p align=\"center\">\n<a href=\"https://github.com/andresfelipe97\">\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=andresfelipe97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\"/>\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andresfelipe97&layout=compact&langs_count=8&theme=algolia\"/>\n</a>\n  <a href=\"https://github.com/Deepshikhayadav\"><img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresfelipe97&theme=dracula&hide_border=true\"  width=\"520\" alt=\"deepshikhayadav\"/></a>\n</p>\n",
+    "activity_summary": {
+        "andresfelipe97/Prueba-t-cnica": {
+            "link": "https://github.com/andresfelipe97/Prueba-t-cnica",
+            "summary": "The 'andresfelipe97/Prueba-t-cnica' repository has experienced recent activity. On February 4, 2025, there were multiple push events which added new files and updated the README.md file."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized first-person profile description that highlights Andres Fandi\u00f1o's technical skills and unique details:\n\nHighly motivated and versatile data analyst and engineer with a strong expertise in Python, Jupyter Notebook, and JavaScript. Proficient in working with various databases and cloud hosting services, including MySQL. Skilled in frontend development with HTML, CSS, and Bootstrap, and proficient in leveraging tools such as Visual Studio Code, Jupyter, Adobe, and Git. Passionate about innovative problem-solving and committed to staying at the forefront of emerging trends in data analysis and engineering. With a background as a maintenance engineer in Colombia, I am equipped with a unique blend of technical and practical experience that drives my drive for innovative solutions."
+}

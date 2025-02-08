@@ -1,0 +1,121 @@
+{
+    "username": "afham-ck",
+    "name": "Afham ck",
+    "bio": "@dashscholar",
+    "location": "Kozhikode,Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85536866?v=4",
+    "profile_url": "https://github.com/afham-ck",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AI",
+            "description": null,
+            "score": 0.30579326699360104,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/afham-ck/AI",
+            "updatedAt": "2024-09-27T06:27:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "monica-1.0.0",
+            "description": null,
+            "score": 0.26620337326460874,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/afham-ck/monica-1.0.0",
+            "updatedAt": "2024-05-04T15:17:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ogback",
+            "description": null,
+            "score": 0.2657008430326736,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afham-ck/ogback",
+            "updatedAt": "2024-05-04T14:01:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "backenddash1",
+            "description": null,
+            "score": 0.2652054759221037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/afham-ck/backenddash1",
+            "updatedAt": "2024-04-29T07:02:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LAB",
+            "description": null,
+            "score": 0.07140657866746776,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/afham-ck/LAB",
+            "updatedAt": "2022-02-05T15:24:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "LAB2",
+            "description": null,
+            "score": 0.07140657866746776,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/afham-ck/LAB2",
+            "updatedAt": "2022-02-05T15:25:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "afham-ck",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.06944034656759,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/afham-ck/afham-ck",
+            "updatedAt": "2021-06-10T06:56:52Z",
+            "isPinned": false,
+            "homepage": "https://github.com/afham-ck"
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/afhamck2"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a detail-oriented programmer with expertise in Python and HTML, I leverage my experience to deliver scalable solutions. With a strong foundation in these versatile tools, I'm well-equipped to tackle complex problems and drive innovation. I'm committed to staying at the forefront of development through continuous learning and the maintenance of my 7 public repositories on GitHub, where I actively collaborate with the community to refine my skills and share knowledge."
+}

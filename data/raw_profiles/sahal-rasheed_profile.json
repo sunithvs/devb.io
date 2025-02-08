@@ -1,0 +1,142 @@
+{
+    "username": "sahal-rasheed",
+    "name": "Sahal Rasheed",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/110896428?u=c269efe69003aeb8b11096e4166148b34ee56d15&v=4",
+    "profile_url": "https://github.com/Sahal-Rasheed",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "institute-management-django-rest",
+            "description": null,
+            "score": 10.15450347594189,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sahal-Rasheed/institute-management-django-rest",
+            "updatedAt": "2023-05-05T14:53:30Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "openblog-django",
+            "description": null,
+            "score": 10.152546995763,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sahal-Rasheed/openblog-django",
+            "updatedAt": "2023-03-08T13:45:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Chat-Bot-Django",
+            "description": null,
+            "score": 10.151928924441666,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Sahal-Rasheed/Chat-Bot-Django",
+            "updatedAt": "2023-02-18T10:03:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "estore-django",
+            "description": null,
+            "score": 10.151674995492817,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/Sahal-Rasheed/estore-django",
+            "updatedAt": "2023-04-13T13:13:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Todo-App-Django",
+            "description": null,
+            "score": 1.5384161520500312,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Sahal-Rasheed/Todo-App-Django",
+            "updatedAt": "2023-02-24T15:43:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python-Guide",
+            "description": null,
+            "score": 1.1950931507200582,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Sahal-Rasheed/Python-Guide",
+            "updatedAt": "2023-06-24T04:51:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CookingPal-RecipeApp",
+            "description": "CookingPal is a Recipe Website build using React Js, TailwindCSS and TheMealDB API",
+            "score": 0.27929642477188826,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sahal-Rasheed/CookingPal-RecipeApp",
+            "updatedAt": "2024-07-08T14:14:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Learn-Javascript",
+            "description": null,
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Sahal-Rasheed/Learn-Javascript",
+            "updatedAt": "2024-06-02T10:19:31Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 2,
+    "public_repos": 18,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 571,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Sahal-Rasheed/Quibble": {
+            "link": "https://github.com/Sahal-Rasheed/Quibble",
+            "summary": "Sahal-Rasheed has been actively contributing to Quibble by implementing multiple API endpoints and fixing existing issues. Notable contributions include adding APIs for posts, comments, profile overviews, and refactoring DRF schema. These updates demonstrate continuous effort to enhance stability and functionality within the Quibble framework."
+        },
+        "quibble-dev/Quibble": {
+            "link": "https://github.com/quibble-dev/Quibble",
+            "summary": "Contribution from quibble-dev on Quibble included two pull requests addressing API endpoint issues. These pull requests, titled as 'fix: ratio attribute error in comment viewset' and 'added: profile overview api endpoint', highlight the collective effort in refining the Quibble framework to ensure integrity and effectiveness."
+        }
+    },
+    "profile_summary": "As a seasoned Python developer with expertise in JavaScript and HTML, I leverage my technical acumen to drive innovation in software development. With a portfolio of 18 public repositories that showcase my dedication to active development, I've established a professional network that stretches across 5 key followers.\n\nSpecializing in the front-end, back-end, and full-stack development, I deliver end-to-end solutions that exceed expectations. From proof-of-concepts to production-ready codebases, I excel at crafting high-quality software that meets tight deadlines. When not coding, I remain passionate about emerging technologies and exploring novel ways to apply technical skills in practical contexts."
+}

@@ -1,0 +1,133 @@
+{
+    "username": "mialoyto",
+    "name": "Miguel Loyola Torres",
+    "bio": "Egresado de la carrera de Ingenier\u00eda de Software.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135183410?u=ec34b8be63220dc69dabf2ddba3e7fd21e6493e4&v=4",
+    "profile_url": "https://github.com/Mialoyto",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "C#",
+            3
+        ],
+        [
+            "Hack",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "distribumax",
+            "description": "proyecto final de la carrera de ingenier\u00eda de software con IA  SENATI 2024",
+            "score": 11.685261141683645,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/Mialoyto/distribumax",
+            "updatedAt": "2025-01-29T06:45:32Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "kardex",
+            "description": null,
+            "score": 11.654404706448688,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Mialoyto/kardex",
+            "updatedAt": "2024-08-16T05:51:13Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "socket",
+            "description": null,
+            "score": 10.33093592369364,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mialoyto/socket",
+            "updatedAt": "2024-11-08T15:35:38Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Mialoyto",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.6868695064437615,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mialoyto/Mialoyto",
+            "updatedAt": "2024-12-12T08:21:28Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Mialoyto"
+        },
+        {
+            "name": "permisos",
+            "description": null,
+            "score": 0.33417721473604534,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Mialoyto/permisos",
+            "updatedAt": "2024-11-12T02:11:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "entrenamiento",
+            "description": null,
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mialoyto/entrenamiento",
+            "updatedAt": "2024-11-11T23:05:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rutas",
+            "description": null,
+            "score": 0.31277429356818476,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Mialoyto/rutas",
+            "updatedAt": "2024-10-11T17:47:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "azure",
+            "description": null,
+            "score": 0.307200665474766,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Mialoyto/azure",
+            "updatedAt": "2024-09-30T21:17:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 16,
+    "public_repos": 25,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 402,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "# !Hola! \ud83d\udc4b Soy Alexander Loyola.\nEgresado de la carreta t\u00e9cnica de Ingenier\u00eda de Software con Inteligencia Artificial \ud83e\uddd1\u200d\ud83d\udcbb.\nMe agrada el mundo de la tecnologia, desde chico me intereso el funcionamiento de las aplicaciones, y ahora que estoy en este mundo \ud83c\udf0e de la tecnologia me entusiasma mucho, vivere la emoci\u00f3n de crear cosas desde cero y desde hoy la noche \ud83c\udf03se vuelve d\u00eda y el d\u00eda noche.\ud83d\ude05\n\n  ![Estad\u00edsticas](https://github-readme-stats.vercel.app/api?username=Mialoyto&show_icons=true&theme=radical)\n\n\n## Sobre m\u00ed\nSoy un t\u00e9cnico especilizado en ingenier\u00eda de software, graduado del a\u00f1o 2024, este lapso he adquirido experiencia en el modelado de base de datos relacional, el dise\u00f1o de mi software con ideas plasmadas en wareframes, el dise\u00f1o usando bootstrap 5. Estoy dispuesto a conocer nuevas tecnologias, y seguir aprendiendo mucho m\u00e1s.\n\n+ \ud83d\udcbb Estoy familiarizado con las siguientes tecnolog\u00edas:\n  - **Bases de Datos:**\n    <div style=\"display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;\">\n        <img src=\"https://virtual-dba.com/wp-content/uploads/mysql-database-services-remote-dba.png\" alt=\"MySql\" width=\"70\"/>\n        <img src=\"https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000\" alt=\"SQL Server\" width=\"55\"/>\n    </div>\n  - **Lenguajes de Programaci\u00f3n:**\n      <div style=\"display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;\">\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png\" alt=\"PHP\" width=\"70\"/>\n          <img src=\"https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png\" alt=\"JavaScript\" width=\"45\"/>\n      </div>\n  - **Desarrollo Web:**\n      <div style=\"display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;\">\n          <img src=\"https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png\" alt=\"HTML\" width=\"50\"/>\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png\" alt=\"Bootstrap\" width=\"60\"/>\n          <img src=\"https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp\" alt=\"Tailwind\" width=\"50\"/>\n      </div>\n  - **Herramientas de Control de Versiones:**\n    <div style=\"display: flex; justify-content: space-evenly; align-items: flex-end; gap: 20px;\">\n          <img src=\"https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png\" alt=\"Git\" width=\"70\"/>\n          <img src=\"https://img.icons8.com/ios11/512/FFFFFF/github.png\" alt=\"GitHub\" width=\"50\"/>\n      </div>\n\n+ \ud83d\udee0\ufe0f Actualmente estoy aprendiendo:\n      <div style=\"display: flex; align-items: flex-end;\">\n          <img src=\"https://img.icons8.com/?size=100&id=123603&format=png&color=000000\" alt=\"React\" width=\"50\"/>\n          <img src=\"https://img.icons8.com/?size=100&id=13679&format=png&color=000000\" alt=\"Java\" width=\"60\"/>\n      </div>\n\n\n\n\n\n\n\n<!---\nMialoyto/Mialoyto is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

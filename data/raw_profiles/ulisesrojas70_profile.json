@@ -1,0 +1,149 @@
+{
+    "username": "ulisesrojas70",
+    "name": "Ulises Rojas",
+    "bio": "",
+    "location": "M\u00e9xico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/101076571?u=a9cfec632ecb2c41c18395ab9ae89baae5a25ceb&v=4",
+    "profile_url": "https://github.com/ulisesrojas70",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Astro",
+            2
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio-astro",
+            "description": "Portfolio made with Astro Framework",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/ulisesrojas70/portfolio-astro",
+            "updatedAt": "2025-01-17T21:17:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "spacex-launcher",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/ulisesrojas70/spacex-launcher",
+            "updatedAt": "2025-01-17T20:45:17Z",
+            "isPinned": false,
+            "homepage": "https://spacex-launcher-kappa.vercel.app"
+        },
+        {
+            "name": "simple-homepage",
+            "description": "Simple Home Page created with HTML, CSS and JavaScript (Challenge from devChallenges.io)",
+            "score": 0.2655349337348481,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ulisesrojas70/simple-homepage",
+            "updatedAt": "2024-05-01T21:15:18Z",
+            "isPinned": false,
+            "homepage": "https://simple-homepage-eosin.vercel.app"
+        },
+        {
+            "name": "simple-coffee-listing",
+            "description": "Simple Coffee Listing",
+            "score": 0.25852626626262504,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ulisesrojas70/simple-coffee-listing",
+            "updatedAt": "2024-03-15T02:38:52Z",
+            "isPinned": false,
+            "homepage": "https://simple-coffee-listing-smoky.vercel.app"
+        },
+        {
+            "name": "alura-geek",
+            "description": "Tienda Online",
+            "score": 0.2566935224498611,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ulisesrojas70/alura-geek",
+            "updatedAt": "2024-03-01T03:21:35Z",
+            "isPinned": false,
+            "homepage": "https://alura-geek-ochre-six.vercel.app"
+        },
+        {
+            "name": "Portafolio",
+            "description": "Portafolio Personal - Ulises Rojas",
+            "score": 0.23605801839827678,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ulisesrojas70/Portafolio",
+            "updatedAt": "2024-05-02T04:52:42Z",
+            "isPinned": false,
+            "homepage": "https://ulisesrojas70.github.io/Portafolio/"
+        },
+        {
+            "name": "codegenius",
+            "description": "App React - Videos de aprendizaje",
+            "score": 0.16080789578886323,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ulisesrojas70/codegenius",
+            "updatedAt": "2023-10-04T02:32:58Z",
+            "isPinned": false,
+            "homepage": "https://codegenius-tawny.vercel.app"
+        },
+        {
+            "name": "org-app",
+            "description": "Aplicaci\u00f3n organizadora de equipos",
+            "score": 0.15951262426756102,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ulisesrojas70/org-app",
+            "updatedAt": "2023-08-31T19:49:25Z",
+            "isPinned": false,
+            "homepage": "https://org-app-six.vercel.app"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ulises-rojas-hinojosa-051439260/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/rojas18_ulises"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ulisesrojas70/"
+        },
+        {
+            "provider": "facebook",
+            "url": "https://www.facebook.com/ulises.rojas.18659"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a seasoned JavaScript developer with a focus on building high-performance applications using Astro and HTML, I bring a unique combination of technical expertise and creative problem-solving skills to my work. With over 11 public repositories showcasing my dedication to ongoing development and innovation, I've established a strong presence in the professional network, with over 1 followers who value my insights and contributions."
+}

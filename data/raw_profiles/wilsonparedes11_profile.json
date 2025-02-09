@@ -1,0 +1,147 @@
+{
+    "username": "wilsonparedes11",
+    "name": "WILSON PAREDES",
+    "bio": "",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/52361226?u=60a00b0a57a0990dbe916280d272885e1726d58b&v=4",
+    "profile_url": "https://github.com/WilsonParedes11",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "veterinaria-proyecto",
+            "description": null,
+            "score": 3.25318686315647,
+            "stars": 1,
+            "forks": 2,
+            "language": "JavaScript",
+            "url": "https://github.com/WilsonParedes11/veterinaria-proyecto",
+            "updatedAt": "2024-04-24T19:56:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "InventarioT",
+            "description": null,
+            "score": 1.6506896598471292,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/WilsonParedes11/InventarioT",
+            "updatedAt": "2024-04-30T15:03:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Ecommerce React, Next, Sanity",
+            "score": 1.6080982937572201,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/WilsonParedes11/Ecommerce",
+            "updatedAt": "2024-04-24T19:56:49Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Porfolio",
+            "description": "Portafolio personal desarrollado en REACT ",
+            "score": 1.605099693386021,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/WilsonParedes11/Porfolio",
+            "updatedAt": "2024-05-30T03:00:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Registro-de-Datos",
+            "description": "Registro de Datos en Python con MYSQL",
+            "score": 1.6030363346522467,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WilsonParedes11/Registro-de-Datos",
+            "updatedAt": "2024-04-24T19:55:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AppCronometro",
+            "description": "Cronometro desarrollado en Python con tkinter",
+            "score": 1.6026986172532351,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WilsonParedes11/AppCronometro",
+            "updatedAt": "2024-04-24T19:55:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "carrito-compras",
+            "description": null,
+            "score": 0.342307367128003,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/WilsonParedes11/carrito-compras",
+            "updatedAt": "2024-11-22T02:17:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "biblioteca-digital",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/WilsonParedes11/biblioteca-digital",
+            "updatedAt": "2024-11-19T04:32:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 7,
+    "public_repos": 25,
+    "pull_requests_merged": 33,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 822,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/wilsonparedes87/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/wilson-paredes-541716244/"
+        }
+    ],
+    "readme_content": "# Wilson Paredes | Desarrollador Web\n\n## \ud83d\udc68\u200d\ud83d\udcbb Perfil Profesional   \n   \nIngeniero de Software con **+3 a\u00f1os de experiencia** en desarrollo web y aplicaciones multiplataforma. Especializado en crear soluciones tecnol\u00f3gicas escalables utilizando metodolog\u00edas \u00e1giles. Apasionado por la innovaci\u00f3n tecnol\u00f3gica y la resoluci\u00f3n de problemas complejos.   \n \n## \ud83c\udfc6 Logros Profesionales Destacados\n[![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)\n- **Certificaci\u00f3n GitHub Foundations**: Validando competencias en control de versiones y colaboraci\u00f3n\n- Desarrollo de **+10 proyectos web** con tecnolog\u00edas modernas\n- Implementaci\u00f3n exitosa de soluciones que mejoraron la eficiencia en un 40% \n \n## \ud83d\ude80 Tecnolog\u00edas y Herramientas \n\n### Lenguajes de Programaci\u00f3n  \n![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)\n \n### Frameworks y Ecosistemas \n![Frameworks](https://skillicons.dev/icons?i=react,nestjs,angular,laravel,django,nextjs,tailwindcss)\n\n### Herramientas de Desarrollo \n![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)\n\n### Bases de Datos \n![Bases de Datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase) \n\n## \ud83d\udcca Estad\u00edsticas de GitHub\n\n![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)\n## \ud83d\udca1 Habilidades Clave \n\n- Desarrollo Web Full Stack\n- Arquitectura de Software\n- Integraci\u00f3n Continua \n- Metodolog\u00edas \u00c1giles (Lean,Scrum, Kanban) \n- Dise\u00f1o Responsivo\n- Optimizaci\u00f3n de Rendimiento \n\n## \ud83e\udd1d Contacto Profesional\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Paredes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilson-paredes-541716244)\n[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail)](mailto:wilsonparedes87@gmail.com)\n\n**Disponible para proyectos remotos e h\u00edbridos | Consultor\u00eda de Desarrollo de Software**\n",
+    "activity_summary": {
+        "WilsonParedes11/wilsonparedes11": {
+            "link": "https://github.com/WilsonParedes11/wilsonparedes11",
+            "summary": "Recent activity in wilsonparedes11 includes changes to the README.md file, with updates made on 2025-01-14T16:27:32 by user WilsonParedes11. These updates suggest improvements or corrections to the documentation of the repository."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized first-person profile description that highlights Wilson Paredes' strongest technical skills and expertise, and incorporates unique details from his profile, bio, and README.md:\n\nAs a seasoned software engineer with over 3 years of experience in web development and multi-platform applications, I leverage my expertise in scalable technology solutions using agile methodologies. With a strong background in languages like JavaScript, TypeScript, and Python, I excel in creating innovative web applications that streamline processes and improve efficiency by up to 40%. My passion for technological innovation and problem-solving has enabled me to develop over 10 web projects using modern technologies, and I'm committed to delivering high-quality solutions that meet the needs of my clients."
+}

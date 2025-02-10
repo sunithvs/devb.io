@@ -1,0 +1,128 @@
+{
+    "username": "marcar-v",
+    "name": "marcar-v",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/137494495?u=4075cee2c5a249e28fbc8318c3fd8d54cf783567&v=4",
+    "profile_url": "https://github.com/marcar-v",
+    "top_languages": [
+        [
+            "ShaderLab",
+            6
+        ],
+        [
+            "C#",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "final-project",
+            "description": null,
+            "score": 0.3185031066542513,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/marcar-v/final-project",
+            "updatedAt": "2025-02-10T18:34:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "multiplayer-shooter-2d",
+            "description": null,
+            "score": 0.267579907792056,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/marcar-v/multiplayer-shooter-2d",
+            "updatedAt": "2024-05-26T18:18:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "helix-jump",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/marcar-v/helix-jump",
+            "updatedAt": "2025-02-10T18:34:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Clicker",
+            "description": null,
+            "score": 0.2445626371359932,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/marcar-v/Clicker",
+            "updatedAt": "2025-02-10T18:33:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Tetris",
+            "description": null,
+            "score": 0.24320972667297183,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/marcar-v/Tetris",
+            "updatedAt": "2025-02-10T18:35:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Shoot-em-up",
+            "description": null,
+            "score": 0.24263658986150435,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/marcar-v/Shoot-em-up",
+            "updatedAt": "2025-02-10T18:35:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Final-Pong",
+            "description": null,
+            "score": 0.2400009507010018,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/marcar-v/Final-Pong",
+            "updatedAt": "2025-02-10T18:33:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "plataformas-2d",
+            "description": null,
+            "score": 0.2400009507010018,
+            "stars": 0,
+            "forks": 0,
+            "language": "ShaderLab",
+            "url": "https://github.com/marcar-v/plataformas-2d",
+            "updatedAt": "2025-02-10T18:35:19Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 96,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "high performance software engineer with a strong background in graphics development, skilled in optimizing visual effects through ShaderLab and proficient in C# programming language. leveraging a decade-long understanding of 3D rendering and computer vision to craft efficient and visually stunning solutions. \n\n* Profile background: I have a comprehensive toolset that I frequently apply to real-world projects, showcasing my versatility and expertise in creating impressive applications."
+}

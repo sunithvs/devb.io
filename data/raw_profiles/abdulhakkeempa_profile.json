@@ -1,0 +1,141 @@
+{
+    "username": "abdulhakkeempa",
+    "name": "Abdul Hakkeem P A",
+    "bio": "Curious Hacker \ud83e\uddd1\u200d\ud83d\udcbb | Python \ud83d\udc0d | Full Stack Developer (Django/Node.js/Next.js) | AI | AWS | GCP | MLOps/AI Infra",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/92361680?u=c67e4169334525f88005b604ef0ef5ea7fd50002&v=4",
+    "profile_url": "https://github.com/abdulhakkeempa",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            14
+        ],
+        [
+            "Jupyter Notebook",
+            18
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Distributed-Object-Detection",
+            "description": "Distributed Object Detection on Edge Devices using tinyML\u26a1",
+            "score": 11.639036861754041,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/abdulhakkeempa/Distributed-Object-Detection",
+            "updatedAt": "2024-10-14T01:05:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "college-cms",
+            "description": "A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access.",
+            "score": 11.621650509802892,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/abdulhakkeempa/college-cms",
+            "updatedAt": "2024-07-06T14:24:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "AccentAce",
+            "description": "This is a simple application that generates scripts for the user to read. Based on the audio, the application would provide a score for their pronunciation and suggest possible methods to improve it.",
+            "score": 10.2623741003793,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulhakkeempa/AccentAce",
+            "updatedAt": "2024-07-30T18:57:58Z",
+            "isPinned": true,
+            "homepage": "https://accent-ace.vercel.app"
+        },
+        {
+            "name": "flask-ml-boilerplate",
+            "description": null,
+            "score": 2.675344256320377,
+            "stars": 0,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/abdulhakkeempa/flask-ml-boilerplate",
+            "updatedAt": "2024-08-22T08:06:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "github-to-latex",
+            "description": "Automated Lab Record Builder: A static website that transforms code from your GitHub repository into a LaTeX template, simplifying the creation of college laboratory records.",
+            "score": 2.348128846665228,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abdulhakkeempa/github-to-latex",
+            "updatedAt": "2023-10-12T13:16:15Z",
+            "isPinned": false,
+            "homepage": "https://abdulhakkeempa.github.io/github-to-latex/"
+        },
+        {
+            "name": "abdulhakkeempa",
+            "description": null,
+            "score": 1.865670370548691,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/abdulhakkeempa/abdulhakkeempa",
+            "updatedAt": "2025-01-10T05:37:41Z",
+            "isPinned": false,
+            "homepage": "https://abdulhakkeempa.vercel.app"
+        },
+        {
+            "name": "data-structures-lab-cusat",
+            "description": "Data Structure Lab - CUSAT",
+            "score": 1.7202382181835165,
+            "stars": 0,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/abdulhakkeempa/data-structures-lab-cusat",
+            "updatedAt": "2022-08-25T11:56:50Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "library-system",
+            "description": "Library Management System for Frappe Dev Hiring Test",
+            "score": 1.6232716342712623,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/abdulhakkeempa/library-system",
+            "updatedAt": "2024-08-07T16:03:21Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 58,
+    "following": 31,
+    "public_repos": 86,
+    "pull_requests_merged": 6,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 614,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/abdulhakkeempa"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/abdul-hakkeem-pa"
+        }
+    ],
+    "readme_content": "## Hey! Nice to see you.\nI'm Hakkeem, a Full Stack AI developer from India.\n<br><br>\nI work as an R&D Engineer (Intern) at a Fin-Tech startup, solving complex business problems using AI. \ud83e\udd16\n<br><br>\nMy areas of expertise include Full Stack Applications, DevOps, Docker, and AWS. \ud83d\udcbb\ud83d\udd27\n<br><br>\nI\u2019m currently learning MLOps, LLM Fine-tuning, Quantisation, and Kubeflow. \u2601\ufe0f\n<br><br>\nI'm an active member of the tech communities, regularly attending and organizing meetups, conferences, workshops, and hackathons. \ud83e\udd1d\ud83d\udcbb\n\n\n<!--\n<a href=\"https://www.buymeacoffee.com/abdulhakkeempa\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" width=\"150\" /></a>\n-->\n\n## \ud83c\udf10 Connect with Me\n\n[Email](mailto:hello@abdulhakkeempa.com) | [LinkedIn](https://linkedin.com/in/abdul-hakkeem-pa) | [Twitter](https://twitter.com/abdulhakkeempa) | [Stack Overflow](https://stackoverflow.com/users/hakkeempa) | [Instagram](https://instagram.com/_.hakkeem_) \n<!--\n[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) \n-->\n\n## \ud83d\udee0\ufe0f Featured Projects\n\n| Project Name | Description | Technologies | Link |\n|--------------|-------------|--------------|------|\n| [AccentAce](https://github.com/abdulhakkeempa/AccentAce) | Accent Ace is an AI-powered software that generates text for users and records their voice to analyze their pronunciation. The goal of this project is to enable users to improve their pronunciation skills independently. | Next.js, FastAPI, Gemini, Firebase, Docker, GitHub Actions| [Live Demo](https://accent-ace.vercel.app/) |\n| [Distributed Object Detection on Edge Devices using tinyML](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |  Developed an object detection system that identifies cars from camera streams and compares them to a target image, facilitating vehicle tracking across distributed devices with edge-based processing. [Academic] | Python, Yolo, Object Detection, Raspberry PI, MQTT, tinyML | [GitHub Repo](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |\n| [College CMS](https://github.com/abdulhakkeempa/college-cms) | A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access. | php, Laravel, MySQL, JavaScript  | [GitHub Repo](https://github.com/abdulhakkeempa/college-cms) |\n\n## \ud83d\udcda Latest Blog Posts\n<!-- BLOG-POST-LIST:START -->\n- [From EC2 to RDS: Mastering Database Migration with AWS DMS](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62?source=rss-f68facac37c8------2)\n- [The Make-a-Ton Journey: Building Kerala\u2019s Largest Student Hackathon](https://medium.com/writeabyte/the-make-a-ton-journey-building-keralas-largest-student-hackathon-e2868681d0cf?source=rss-f68facac37c8------2)\n- [Map-in-Review: An Analysis of your Travel from Google History](https://medium.com/@abdulhakkeempa2002/map-in-review-an-analysis-of-your-travel-from-google-history-c71af5315493?source=rss-f68facac37c8------2)\n<!-- BLOG-POST-LIST:END -->\n\n<!--\n## Blogs\n| Topic | Link |\n|--------------|-------------|\n| Mastering Database Migration from EC2 to AWS RDS using AWS Data Migration Service (DMS) | [Read full blog](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62) |\n| Building a Conceptual Micro-SaaS Dashboard from Google Maps History | [Read full blog](https://medium.com/@abdulhakkeempa2002/map-in-review-an-analysis-of-your-travel-from-google-history-c71af5315493) |\n--->\n\n\n<!--\n- [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.\n\n\n- [Hyperpersonalised Middleware Solution](https://github.com/sib-hackathon/hyperpersonalisation-backend) -   A middleware solution integrated into existing banking applications. Developed at the Fin-A-Thon hackathon by South Indian Bank, it was shortlisted among the top 15 teams out of 600 across India.\n\n- [Movie Recommender System](https://github.com/abdulhakkeempa/movie-recommender) -  A movie recommender system which is powered by an ML Model which is trained on a custom movie dataset from Kaggle, build to understand how modern recommender systems work.\n\n- [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.\n\n- [College CMS](https://github.com/abdulhakkeempa/college-cms) - A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access.\n\n- [Listen Bot](https://github.com/abdulhakkeempa/listen-bot) - A Telegram bot that will download and convert YouTube videos into MP3 files by taking the provided YouTube link as input.\n\n- [Theyyam Classifier API](https://github.com/abdulhakkeempa/theyyam-classifier-api) - A Django REST API integrated with a TensorFlow image classification model. Built using Django Rest Framework and deployed on an Azure VM using Nginx for a research project.\n\n- [Spam Classifier](https://github.com/abdulhakkeempa/spam-detection) - SMS Spam Classifier with FastAPI \ud83d\ude80. This project utilizes FastAPI, Scikit-Learn, and Pandas for efficient spam detection in SMS messages. It's designed to provide a solution for identifying and filtering out spam messages in real-time.\n-->\n\n## \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Skills\n### Programming Languages\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\n![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)\n![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)\n![C++](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)\n\n<!---\n![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)\n![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)\n![C++](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\n--->\n\n### Libraries & Frameworks\n![C++](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)\n![C++](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)\n![C++](https://img.shields.io/badge/pandas-306998?style=for-the-badge&logo=pandas&logoColor=white)\n![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![C++](https://img.shields.io/badge/sklearn-29ABE2?style=for-the-badge&logo=scikit-learn&logoColor=white)\n![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) \n![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)\n![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\n![C++](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)\n![C++](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)\n![C++](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)\n![C++](https://img.shields.io/badge/bootstrap-aa00ff?style=for-the-badge&logo=bootstrap&logoColor=white)\n\n<!---\n![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)\n![C++](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)\n![C++](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![C++](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)\n![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)\n\n-->\n\n### Database\n![C++](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)\n![C++](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)\n![C++](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)\n\n### Cloud & Deployment\n![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)\n![C++](https://img.shields.io/badge/Google%20Cloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)\n![C++](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)\n![C++](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)\n![C++](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)\n\n<!---\n![C++](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)\n--->\n\n<!---\n### Design\n ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\n ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)\n--->\n\n### Version Control\n![C++](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)\n![C++](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)\n\n## \ud83d\udcca GitHub Stats:\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&theme=dark&hide_border=false&include_all_commits=true&count_private=true\" alt=\"Github Stats\" height=\"165\"/>\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=abdulhakkeempa&theme=dark&hide_border=false\" alt=\"Github Streak Stats\" height=\"165\"/>\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhakkeempa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact\" alt=\"Github Top Languages\" height=\"165\"/>\n</p>\n\n<!--\n## GitHub Profile Card\n![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhakkeempa&theme=github_dark)\n--->\n\n\n\n<!--\n**hakkeempa/hakkeempa** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "As a professional Full Stack AI developer, I have honed my skills in languages such as C++, Python, JavaScript, and PHP. I have hands-on experience with a variety of frameworks including Django, Laravel, and Node.js, with strengths in DevOps, Docker, and cloud computing platforms like AWS and GCP. My profiles and projects are extensively open-sourced on GitHub, where my work is followed by 58 fellow developers, and I have created 86 unique repositories showcasing a range of expertise and interests.\n\nI have gained experience in MLOps, fine-tuning large language models, Quantisation and Kubeflow, and I have an interdisciplinary approach in areas of AI and Full Stack web development. My recent focus has been on Cloud Native applications, Kubernetes, and automation."
+}

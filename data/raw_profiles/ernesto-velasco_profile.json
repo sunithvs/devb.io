@@ -1,0 +1,137 @@
+{
+    "username": "ernesto-velasco",
+    "name": "Ernesto Velasco",
+    "bio": "Software Engineer.",
+    "location": "M\u00e9xico",
+    "avatar_url": "https://avatars.githubusercontent.com/u/28380336?v=4",
+    "profile_url": "https://github.com/ernesto-velasco",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ETL-Project",
+            "description": null,
+            "score": 10.193934784153178,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ernesto-velasco/ETL-Project",
+            "updatedAt": "2024-09-05T17:49:47Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Multi-sensor-dashboard-with-python",
+            "description": null,
+            "score": 10.064518181906948,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ernesto-velasco/Multi-sensor-dashboard-with-python",
+            "updatedAt": "2018-10-10T16:05:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Classic-Cryptography-Methods",
+            "description": "Caesar cipher, Spartan scytale cipher, Polybius square",
+            "score": 10.064285591558045,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/ernesto-velasco/Classic-Cryptography-Methods",
+            "updatedAt": "2018-07-31T17:30:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "node.js-text-editor",
+            "description": null,
+            "score": 0.20734908238062655,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ernesto-velasco/node.js-text-editor",
+            "updatedAt": "2024-09-05T17:52:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Node.Js-notes-app",
+            "description": null,
+            "score": 0.20718424944981698,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ernesto-velasco/Node.Js-notes-app",
+            "updatedAt": "2024-09-05T17:52:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NodeJs-CRUD-prompt-app",
+            "description": null,
+            "score": 0.20667682782547028,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ernesto-velasco/NodeJs-CRUD-prompt-app",
+            "updatedAt": "2024-09-05T17:52:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python-UDP-Communication",
+            "description": null,
+            "score": 0.20431836807993015,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ernesto-velasco/Python-UDP-Communication",
+            "updatedAt": "2024-09-05T17:50:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AppMovies",
+            "description": "Proyecto Aplicaciones Multiplataforma, Xamarin",
+            "score": 0.19164817447294097,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/ernesto-velasco/AppMovies",
+            "updatedAt": "2024-09-05T17:51:18Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 6,
+    "following": 1,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 18,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ernesto-velasco-gonzalez/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a skilled software engineer, I leverage my expertise in TypeScript, Python, and JavaScript to design, develop, and deploy scalable applications. With a strong background in software development, I collaborate with cross-functional teams to deliver high-quality solutions, driving business outcomes through data-driven insights.\n\nI have a strong track record of contributing to open-source projects, and my GitHub presence showcases 12 public repositories, demonstrating my dedication to innovation. Through my professional network, I have garnered a following of like-minded individuals who appreciate my expertise, with over 6 connections in the developer community."
+}

@@ -1,0 +1,138 @@
+{
+    "username": "waltergim",
+    "name": "walter",
+    "bio": "Dise\u00f1ador web y programador junior en busca de trabajo. Dispuesto a nuevos\r\naprendizajes, con buena relaci\u00f3n en trabajos grupales e individuales.\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105815938?u=6342784fa13cd32b65fccb373d9b6cdf0d5f53e9&v=4",
+    "profile_url": "https://github.com/waltergim",
+    "top_languages": [
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "CSS",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Replick",
+            "description": "Este es el backend de la p\u00e1gina web Replick, donde se gestiona toda la l\u00f3gica y funcionalidad que soporta la plataforma dedicada a proporcionar informaci\u00f3n y contenido sobre f\u00fatbol.",
+            "score": 0.3367496740233143,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/Replick",
+            "updatedAt": "2025-01-14T13:52:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iii",
+            "description": null,
+            "score": 0.300575145323871,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/iii",
+            "updatedAt": "2024-09-16T08:21:25Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "calendar-backend",
+            "description": null,
+            "score": 0.2907509055443496,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/calendar-backend",
+            "updatedAt": "2024-08-22T17:12:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Gifs-React",
+            "description": null,
+            "score": 0.2572068291572806,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/Gifs-React",
+            "updatedAt": "2024-03-06T05:15:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MiBLogFront",
+            "description": null,
+            "score": 0.1546144992752814,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/MiBLogFront",
+            "updatedAt": "2023-05-08T14:32:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BLogPers",
+            "description": null,
+            "score": 0.15421067857520554,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/BLogPers",
+            "updatedAt": "2023-04-27T22:12:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PrimeriBLog",
+            "description": null,
+            "score": 0.15413820974492826,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/PrimeriBLog",
+            "updatedAt": "2023-04-25T19:22:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DataabaseNum",
+            "description": null,
+            "score": 0.15360373547321354,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/waltergim/DataabaseNum",
+            "updatedAt": "2023-04-10T20:07:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 28,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "waltergim/Replick": {
+            "link": "https://github.com/waltergim/Replick",
+            "summary": "Notable activity on 2025-01-14: The user pushed a change to the repository, with a description 'Privacidad a la hora de crear post'."
+        }
+    },
+    "profile_summary": "I'm a junior web designer and programmer with a strong foundation in JavaScript, CSS, and HTML. With 17 public repositories and a passion for active development, I'm well-equipped to tackle a wide range of web development projects. I thrive in collaborative environments, bringing a positive attitude and open-minded approach to team and individual endeavors, always seeking opportunities to learn and grow."
+}

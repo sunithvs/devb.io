@@ -1,0 +1,65 @@
+{
+    "username": "selfmusing",
+    "name": "Selfmuser",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/109387456?v=4",
+    "profile_url": "https://github.com/selfmusing",
+    "top_languages": [
+        [
+            "Makefile",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RVX-Lite-Modules",
+            "description": "This repo contains the required update json's for the RV\ud835\udd4f Lite Modules",
+            "score": 22.607527916792485,
+            "stars": 168,
+            "forks": 3,
+            "language": null,
+            "url": "https://github.com/selfmusing/RVX-Lite-Modules",
+            "updatedAt": "2025-02-09T04:14:40Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "meme_cam",
+            "description": null,
+            "score": 1.3402959161637888,
+            "stars": 0,
+            "forks": 1,
+            "language": "Makefile",
+            "url": "https://github.com/selfmusing/meme_cam",
+            "updatedAt": "2024-10-18T16:23:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Derp_OTA",
+            "description": "OTA Updates for DerpFest A15",
+            "score": 0.344296591686565,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/selfmusing/Derp_OTA",
+            "updatedAt": "2025-01-12T08:45:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 69,
+    "following": 68,
+    "public_repos": 21,
+    "pull_requests_merged": 8,
+    "issues_closed": 8,
+    "achievements": {
+        "total_contributions": 117,
+        "repositories_contributed_to": 18
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

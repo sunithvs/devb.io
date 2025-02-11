@@ -1,0 +1,150 @@
+{
+    "username": "abdulazeespr",
+    "name": "Abdul Azees",
+    "bio": "\ud83d\udc4b Hi, I'm Abdul Azees!\r\nI'm a Full-Stack Developer passionate about technology, hacking, and problem-solving. My curiosity drives me forward, always exploring ",
+    "location": "kerala,india",
+    "avatar_url": "https://avatars.githubusercontent.com/u/177513808?v=4",
+    "profile_url": "https://github.com/abdulazeespr",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "settocall",
+            "description": "This is application for book a call scheduler to meeting like career coaching,intreview prep,etc",
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/settocall",
+            "updatedAt": "2025-01-31T05:37:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "YOOGA",
+            "description": "This is  academic project ",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/abdulazeespr/YOOGA",
+            "updatedAt": "2025-01-30T07:05:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "logoMaker",
+            "description": "Ai based Logo Maker Application",
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/logoMaker",
+            "updatedAt": "2025-01-30T13:35:05Z",
+            "isPinned": false,
+            "homepage": "https://logo-maker-teal.vercel.app"
+        },
+        {
+            "name": "PayMe",
+            "description": "Payment",
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/PayMe",
+            "updatedAt": "2025-01-24T03:36:47Z",
+            "isPinned": false,
+            "homepage": "https://pay-me-alpha.vercel.app"
+        },
+        {
+            "name": "Brainly-frontend-",
+            "description": "Brainly Frontend",
+            "score": 0.34636166259565315,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "updatedAt": "2025-02-05T09:46:24Z",
+            "isPinned": false,
+            "homepage": "https://brainly-frontend-tawny.vercel.app"
+        },
+        {
+            "name": "Brainly",
+            "description": "this project where add content",
+            "score": 0.344296591686565,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/abdulazeespr/Brainly",
+            "updatedAt": "2025-02-05T10:02:06Z",
+            "isPinned": false,
+            "homepage": "https://brainly-beta.vercel.app"
+        },
+        {
+            "name": "referralplatform",
+            "description": "An open-source referral program platform",
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/referralplatform",
+            "updatedAt": "2024-11-07T07:50:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wd301",
+            "description": "This part of the pupilfirst wd301 project",
+            "score": 0.300575145323871,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/abdulazeespr/wd301",
+            "updatedAt": "2024-09-27T15:29:48Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 12,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 133,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "abdulazeespr/Brainly-frontend-": {
+            "link": "https://github.com/abdulazeespr/Brainly-frontend-",
+            "summary": "Abdulazeespr has been actively updating the Brainly frontend repository, introducing new features such as Brain page, Connect to backend, Signin and Signup, and Sidebar. Recent commits include fixes for conflicts and refactorings to improve code organization."
+        },
+        "abdulazeespr/Brainly": {
+            "link": "https://github.com/abdulazeespr/Brainly",
+            "summary": "The Brainly repository has seen significant updates with Abdulazeespr adding features such as index page, outdir, dist config, and vercel.json. They have also resolved errors and made improvements to the repository."
+        },
+        "abdulazeespr/care_fe": {
+            "link": "https://github.com/abdulazeespr/care_fe",
+            "summary": "Recent commits to the care_fe repository include fixes for login errors and bugs in the Public Patient Registration Form. Abdulazeespr has also updated dependencies and resolved OTP send workflow issues."
+        },
+        "ohcnetwork/care_fe": {
+            "link": "https://github.com/ohcnetwork/care_fe",
+            "summary": "ohcnetwork submitted a pull request to the care_fe repository, proposing changes to use cn and variants for AlertDialogAction. The request includes updates to product documentation, UI text, and QA process."
+        }
+    },
+    "profile_summary": "As a seasoned Full-Stack Developer with expertise in JavaScript, TypeScript, and HTML, I design and build scalable web applications that exceed expectations. With a strong foundation in problem-solving and a passion for innovation, I continuously push the boundaries of code quality and performance. Through my 12 public repositories, I demonstrate a proven track record of delivering high-quality solutions, and through my professional network, I provide trusted guidance and mentorship to fellow developers. Always driven by curiosity, I stay ahead of the tech curve, ensuring that my craft is always evolving to meet the demands of the ever-changing tech landscape."
+}

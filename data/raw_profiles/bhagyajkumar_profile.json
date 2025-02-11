@@ -1,0 +1,137 @@
+{
+    "username": "bhagyajkumar",
+    "name": "Bhagyaj Kumar B",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/85674409?u=db545561af1d46d1cccc376eefb4b0543cd0a964&v=4",
+    "profile_url": "https://github.com/bhagyajkumar",
+    "top_languages": [
+        [
+            "Python",
+            23
+        ],
+        [
+            "JavaScript",
+            18
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cucek",
+            "description": null,
+            "score": 12.384775426287783,
+            "stars": 0,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/cucek",
+            "updatedAt": "2024-11-14T05:04:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "GOAT",
+            "description": null,
+            "score": 2.5010405390849115,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/GOAT",
+            "updatedAt": "2023-01-19T05:14:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-ecommerce",
+            "description": null,
+            "score": 2.337459353315847,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/django-ecommerce",
+            "updatedAt": "2023-05-29T12:06:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-ig-clone",
+            "description": null,
+            "score": 2.3372251602758785,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/django-ig-clone",
+            "updatedAt": "2023-05-12T10:10:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "only_phones",
+            "description": null,
+            "score": 1.4608720905870123,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/bhagyajkumar/only_phones",
+            "updatedAt": "2023-01-19T05:14:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "class_recordings",
+            "description": null,
+            "score": 1.4578224945960618,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/class_recordings",
+            "updatedAt": "2023-01-19T05:14:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "personal_website",
+            "description": null,
+            "score": 1.4569155657164365,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/bhagyajkumar/personal_website",
+            "updatedAt": "2023-01-19T05:14:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todolist-api",
+            "description": null,
+            "score": 1.4568237517848748,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/bhagyajkumar/todolist-api",
+            "updatedAt": "2023-01-19T05:14:00Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 22,
+    "following": 44,
+    "public_repos": 74,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 306,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/bhagyajkumar/"
+        }
+    ],
+    "readme_content": "### Hey there \ud83d\udc4b, Welcome to my GitHub Profile\n\n<p>\n    <img src=\"https://github.com/bhagyajkumar/bhagyajkumar/blob/main/assets/image.png?raw=true\" | width = 250 align=\"right\">\n</p>\n\n\n![](https://komarev.com/ghpvc/?username=bhagyajkumar&color=010040&style=flat-square)<br>\n\n<img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=green'>\n\nI am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.\n\n- I am interested in `DevOps` and `Web3`\n- Ask me about `Python` and `Web Development`\n  \n## My Tech Stack\n\n### Languages\n\n<table>\n    <tbody>\n        <tr vallign=\"top\">\n            <td width=\"33%\" align=\"center\">\n                <span>Python</span><br><br><br>\n                <img height=\"64px\" src=\"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png\">\n            </td>\n            <td width=\"33%\" align=\"center\">\n                <span>Javascript</span><br><br><br>\n                <img height=\"64px\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png\">\n            </td>\n            <td width=\"33%\" align=\"center\">\n                <span>Java</span><br><br><br>\n                <img height=\"64px\" src=\"https://www.vectorlogo.zone/logos/java/java-ar21.svg\">\n            </td>\n        </tr>\n    </tbody>\n</table> \n\n### Frameworks\n\n<table>\n    <tbody>\n        <tr vallign=\"top\">\n            <td width=\"20%\" align=\"center\">\n                <span>Django</span><br><br><br>\n                <img height=\"64px\" src=\"https://avatars.githubusercontent.com/u/27804?s=280&v=4\">\n            </td>\n            <td width=\"20%\" align=\"center\">\n                <span>React</span><br><br><br>\n                <img height=\"64px\" src=\"https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp\">\n            </td>\n            <td width=\"20%\" align=\"center\">\n                <span>Bootstrap</span><br><br><br>\n                <img height=\"64px\" src=\"https://cdn-icons-png.flaticon.com/512/5968/5968672.png\">\n            <td width=\"20%\" align=\"center\">\n                <span>Tailwind CSS</span><br><br><br>\n                <img width=\"64px\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png\">\n            </td>\n                <td width=\"20%\" align=\"center\">\n                <span>Flask</span><br><br><br>\n                <img height=\"64px\" width=\"100%\" src=\"https://d33wubrfki0l68.cloudfront.net/f56ad0f0dcecea5eefc91d3e7205190003158142/972e2/blog/python-api-deployment-rstudio-flask/flask.png\">\n            </td>\n        </tr>\n    </tbody>\n</table> \n\n\n### Others\n\n<table>\n    <tbody>\n        <tr vallign=\"top\">\n            <td width=\"25%\" align=\"center\">\n                <span>Git</span><br><br><br>\n                <img height=\"64px\" src=\"https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png\">\n            </td>\n            <td width=\"25%\" align=\"center\">\n                <span>Linux</span><br><br><br>\n                <img height=\"64px\" src=\"https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png\">\n            </td>\n            <td width=\"25%\" align=\"center\">\n                <span>Docker</span><br><br><br>\n                <img height=\"64px\" src=\"https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png\">\n            </td>\n        </tr>\n    </tbody>\n</table>\n\n\n## Socials\n\n<a href = \"https://instagram.com/deltawing.0700\">\n    <p>\n        <img width=\"50px\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png\"/>\n    </p>\n</a>\n\n<a href = \"https://www.linkedin.com/in/bhagyajkumar/\">\n    <p>\n        <img width=\"50px\" src=\"https://cdn-icons-png.flaticon.com/512/174/174857.png\"/>\n    </p>\n</a>\n",
+    "profile_summary": "Highly motivated and detail-oriented software developer with 4+ years of experience in building scalable and efficient applications. Expertise in Python, JavaScript, and TypeScript allows me to tackle a wide range of challenges in web development, DevOps, and Web3. Proficient in popular frameworks such as Django, React, and Flask, and proficiency in tools including Git, Linux, and Docker. I'm committed to delivering high-quality solutions and continuously learning and improving with an active presence in the GitHub community, having contributed to numerous projects and collaborated with fellow developers. In my free time, I'm always eager to explore new technologies and engage with the development community through various platforms, including Instagram and LinkedIn."
+}

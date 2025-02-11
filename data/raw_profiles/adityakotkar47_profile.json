@@ -1,0 +1,133 @@
+{
+    "username": "adityakotkar47",
+    "name": "Aditya Kotkar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/83199166?v=4",
+    "profile_url": "https://github.com/AdityaKotkar47",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            4
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pashurakshak",
+            "description": "admin dashboard for pashurakshak",
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AdityaKotkar47/pashurakshak",
+            "updatedAt": "2025-02-10T06:34:15Z",
+            "isPinned": false,
+            "homepage": "https://pashurakshak.vercel.app"
+        },
+        {
+            "name": "sih-index",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AdityaKotkar47/sih-index",
+            "updatedAt": "2025-01-04T17:50:14Z",
+            "isPinned": false,
+            "homepage": "https://sih-index.vercel.app"
+        },
+        {
+            "name": "notes",
+            "description": null,
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AdityaKotkar47/notes",
+            "updatedAt": "2025-02-10T04:53:41Z",
+            "isPinned": false,
+            "homepage": "https://sakshi-notes.vercel.app"
+        },
+        {
+            "name": "opengl-programs",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/AdityaKotkar47/opengl-programs",
+            "updatedAt": "2024-12-26T17:49:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cpp-dsa",
+            "description": null,
+            "score": 0.28916299194693984,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/AdityaKotkar47/cpp-dsa",
+            "updatedAt": "2025-01-03T08:13:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cpp-notes",
+            "description": "my cpp notes",
+            "score": 0.2795390802718472,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AdityaKotkar47/cpp-notes",
+            "updatedAt": "2024-08-04T05:57:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PySpins",
+            "description": "Spin the python-based reels and test your luck!",
+            "score": 0.2732769207513471,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AdityaKotkar47/PySpins",
+            "updatedAt": "2024-06-15T14:17:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hand-gesture-volume-control",
+            "description": "Hand Gesture Volume Control using OpenCV, MediaPipe, and PyAutoGUI.  Adjust your computer's volume with simple hand movements!",
+            "score": 0.26846845231146066,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AdityaKotkar47/hand-gesture-volume-control",
+            "updatedAt": "2024-05-21T14:30:19Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 7,
+    "public_repos": 24,
+    "pull_requests_merged": 13,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 371,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

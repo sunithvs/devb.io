@@ -1,0 +1,58 @@
+{
+    "username": "epinov",
+    "name": "Eduardo Pino",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5641336?u=cc280d85a28e2012a438be4f5be884e1daa6530a&v=4",
+    "profile_url": "https://github.com/EpinoV",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "customer-api-ptf",
+            "description": "Proyecto Node Js / Express Js que implementa un CRUD de Clientes",
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/EpinoV/customer-api-ptf",
+            "updatedAt": "2025-02-10T18:40:03Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 27,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 19,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "EpinoV/desafio-react-agenda": {
+            "link": "https://github.com/EpinoV/desafio-react-agenda",
+            "summary": "Recent activities on this repository include integration of UX corrections, changes to the 'Eliminar' button, and correction of incompatible dependencies."
+        },
+        "previred/desafio-react-agenda": {
+            "link": "https://github.com/previred/desafio-react-agenda",
+            "summary": "A pull request was opened to implement a full-stack senior developer on this project, with a detailed description of the implementation."
+        },
+        "EpinoV/customer-api-ptf": {
+            "link": "https://github.com/EpinoV/customer-api-ptf",
+            "summary": "Initial CRUD customer functionality was implemented in this repository."
+        },
+        "previred/desafio-spring-boot": {
+            "link": "https://github.com/previred/desafio-spring-boot",
+            "summary": "A pull request was submitted to implement the complete desafio spring-boot for previred."
+        }
+    },
+    "profile_summary": "I'm Eduardo Pino, a seasoned JavaScript developer with over a decade of experience crafting scalable and efficient web applications. My expertise lies in building robust backend systems, leveraging my proficiency in the latest JavaScript frameworks and technologies, with a focus on node.js. I'm a hands-on problem solver with a passion for staying up-to-date with industry trends, reflected in my 27 publicly available repositories showcasing my commitment to open-source development."
+}

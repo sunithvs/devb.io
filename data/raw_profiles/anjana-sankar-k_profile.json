@@ -1,0 +1,163 @@
+{
+    "username": "anjana-sankar-k",
+    "name": "anjana-sankar-k",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/151863605?v=4",
+    "profile_url": "https://github.com/Anjana-sankar-k",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "R",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Stardust",
+            "description": "The light detection app developed while participating in starlet hackathon 3.0. (2024) Also super-close to my heart cause FIRST EVER HACKATHON PROJECT!!!!!",
+            "score": 10.302246012469151,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Anjana-sankar-k/Stardust",
+            "updatedAt": "2024-12-05T11:59:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Team_pluto",
+            "description": "Saturday hacknight january edition 1.0",
+            "score": 1.449158401454014,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/Anjana-sankar-k/Team_pluto",
+            "updatedAt": "2025-01-11T05:52:53Z",
+            "isPinned": false,
+            "homepage": "https://team-pluto.vercel.app"
+        },
+        {
+            "name": "Personalportfolio",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anjana-sankar-k/Personalportfolio",
+            "updatedAt": "2025-01-22T14:51:41Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-chi-rust-88.vercel.app"
+        },
+        {
+            "name": "sherx",
+            "description": null,
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Anjana-sankar-k/sherx",
+            "updatedAt": "2025-01-21T16:59:07Z",
+            "isPinned": false,
+            "homepage": "https://sherx-dun.vercel.app"
+        },
+        {
+            "name": "OTLab",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Anjana-sankar-k/OTLab",
+            "updatedAt": "2025-01-28T09:01:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Numerical_MethodsLab",
+            "description": null,
+            "score": 0.3726382475977037,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Anjana-sankar-k/Numerical_MethodsLab",
+            "updatedAt": "2025-01-29T09:31:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DAA_S3",
+            "description": null,
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Anjana-sankar-k/DAA_S3",
+            "updatedAt": "2024-10-30T09:41:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Assignments",
+            "description": null,
+            "score": 0.30267400023560065,
+            "stars": 0,
+            "forks": 0,
+            "language": "R",
+            "url": "https://github.com/Anjana-sankar-k/Assignments",
+            "updatedAt": "2024-09-29T15:08:43Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 2,
+    "public_repos": 26,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 204,
+        "repositories_contributed_to": 8
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_nj_n_rue/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/anjana-sankar-1ba508243/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "Anjana-sankar-k/Numerical_MethodsLab": {
+            "link": "https://github.com/Anjana-sankar-k/Numerical_MethodsLab",
+            "summary": "The Numerical MethodsLab repository has seen recent activity with multiple pushes on January 22nd and 29th. New files were uploaded and newton.py was updated."
+        },
+        "A-Nama/YAPMA": {
+            "link": "https://github.com/A-Nama/YAPMA",
+            "summary": "The YAPMA repository has seen significant activity over the past four days, with multiple pushes and updates to the README.md file."
+        },
+        "Anjana-sankar-k/Personalportfolio": {
+            "link": "https://github.com/Anjana-sankar-k/Personalportfolio",
+            "summary": "The Personalportfolio repository has seen recent updates, including changes to the index.html file on January 22nd."
+        },
+        "Anjana-sankar-k/OTLab": {
+            "link": "https://github.com/Anjana-sankar-k/OTLab",
+            "summary": "The OTLab repository has seen recent activity, with two pushes on January 28th."
+        },
+        "Anjana-sankar-k/sherx": {
+            "link": "https://github.com/Anjana-sankar-k/sherx",
+            "summary": "The sherx repository has seen recent activity, with a single push on January 21st."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with expertise in C++, Python, and R, I leverage my strong foundation in data analysis and algorithmic problem-solving to drive real-world impact. With a proven track record of contributing to diverse projects through my 26 public repositories, I have developed a unique blend of technical skills and domain knowledge, allowing me to navigate complex challenges with confidence. Through my work, I aim to push the boundaries of innovation and deliver robust, efficient solutions that meet the evolving needs of modern applications."
+}

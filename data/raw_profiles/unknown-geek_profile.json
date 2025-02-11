@@ -1,0 +1,159 @@
+{
+    "username": "unknown-geek",
+    "name": "Shravan Nander Pandala",
+    "bio": "UI/UX Designer | Front-End Dev | AI/ML\r\nGrinding Hard \ud83d\udd25",
+    "location": "Malayattoor, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97742905?u=50e0dd055b442364189baa4456312f2ec64f2c37&v=4",
+    "profile_url": "https://github.com/Unknown-Geek",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            7
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Story-Generator",
+            "description": null,
+            "score": 10.325018598003297,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Unknown-Geek/Story-Generator",
+            "updatedAt": "2025-01-15T16:08:30Z",
+            "isPinned": true,
+            "homepage": "https://storygeneratorfrontend.vercel.app"
+        },
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 10.317299967238265,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Unknown-Geek/Portfolio",
+            "updatedAt": "2024-12-21T19:23:08Z",
+            "isPinned": true,
+            "homepage": "https://portfoliowebsite-eta-opal.vercel.app"
+        },
+        {
+            "name": "PMS",
+            "description": null,
+            "score": 10.28002909373318,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/Unknown-Geek/PMS",
+            "updatedAt": "2024-07-14T15:41:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Automated-Image-Generation-with-Keyword-Tagging",
+            "description": null,
+            "score": 10.267932644410456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging",
+            "updatedAt": "2024-10-14T17:24:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Hand-Gesture-Detection-Infinite-Runner",
+            "description": null,
+            "score": 10.161649899121812,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner",
+            "updatedAt": "2023-10-15T06:29:46Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "TEDx-website",
+            "description": null,
+            "score": 1.6081055433748446,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Unknown-Geek/TEDx-website",
+            "updatedAt": "2025-01-30T13:17:15Z",
+            "isPinned": false,
+            "homepage": "https://tedx-website-seven.vercel.app"
+        },
+        {
+            "name": "SkillSwap",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Unknown-Geek/SkillSwap",
+            "updatedAt": "2025-01-25T13:44:34Z",
+            "isPinned": false,
+            "homepage": "https://skill-swap-frontend-iota.vercel.app"
+        },
+        {
+            "name": "Synthetic-Data-Generator",
+            "description": null,
+            "score": 0.4094376306140961,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Unknown-Geek/Synthetic-Data-Generator",
+            "updatedAt": "2025-01-07T19:38:47Z",
+            "isPinned": false,
+            "homepage": "https://synthetic-data-generatorbackend.vercel.app"
+        }
+    ],
+    "followers": 7,
+    "following": 11,
+    "public_repos": 37,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 826,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shravan-pandala-570629244/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.facebook.com/shravannander.pandala?mibextid=b06tZ0"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/mojomaniac2005"
+        },
+        {
+            "provider": "generic",
+            "url": "https://in.pinterest.com/shravan_pandala/"
+        }
+    ],
+    "readme_content": "# Welcome to My GitHub Profile! \ud83d\udc4b\n\nHi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding, learning, and designing. Always open for new projects.\n\n---\n[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)\n---\n\n## \ud83d\udcca GitHub Stats\n\n### Overall Stats:\n<div style=\"display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;\">\n    <!--<img src=\"https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false\"/>-->\n    <img src=\"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=false\" />\n    <img src=\"https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=550\" alt=\"GitHub Streak\" />\n</div>\n\n### Top Languages:\n<div style=\"display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;\">\n    <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact\" width=\"300\" height=\"178\"/>\n    <img src=\"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark\" width=\"300\" height=\"172\"/>\n    <img src=\"http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark\" width=\"300\" height=\"172\"/>\n</div>\n\n### WakaTime Stats:\n[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac)](https://wakatime.com/@Mojo_Maniac)\n\n---\n\n## \ud83d\udccc Pinned Repositories\n\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dracula)](https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging)\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dracula)](https://github.com/Unknown-Geek/Story-Generator)\n\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=dracula)](https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner)\n[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dracula)](https://github.com/Unknown-Geek/Space_Invaders-Remastered)\n\n---\n\n## \ud83c\udf10 Socials:\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala) \n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shra1._)\n[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/shravanpandala2005)\n[![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)\n\n## \ud83d\udcbb Tech Stack:\n<img src=\"https://skillicons.dev/icons?i=py,c,cpp,java,dart,markdown,bash,html,css,js,gcp,azure,vercel,react,vite,tailwind,flask,flutter,mongodb,mysql,sqlite,illustrator,photoshop,pr,figma,framer,spline,canva\"/></br>\n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg\" width=\"50\" height=\"50\" title=\"Keras\"/> \n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg\" width=\"50\" height=\"50\" title=\"Keras\"/> \n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg\" width=\"50\" height=\"50\" title=\"Matplotlib\"/> \n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg\" width=\"50\" height=\"50\" title=\"Pandas\"/> \n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg\" width=\"50\" height=\"50\" title=\"NumPy\"/>\n<img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg\" width=\"50\" height=\"50\" title=\"ScikitLearn\"/>\n<img src=\"https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,github,git,docker,notion,postman,linux,windows\"/>\n\n### \ud83d\udd1d Top Contributed Repo\n<img src=\"https://github-contributor-stats.vercel.app/api?username=Unknown-Geek&limit=5&theme=dark&combine_all_yearly_contributions=true\"/>\n\n---\n\n## \ud83d\udcb0 You can help me by Donating\n[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShravanPandala) \n[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/shravanpandala)\n\n![](https://komarev.com/ghpvc/?username=Unknown-Geek&color=blue)\n",
+    "activity_summary": {
+        "TEDx-website": {
+            "link": "https://github.com/Unknown-Geek/TEDx-website",
+            "summary": "The Unknown-Geek/TEDx-website repository has seen significant activity recently, with a series of push events occurring on January 28-29, 2025. These updates appear to be a mix of minor changes, as well as the implementation of new features such as countdowns, button animations, and font changes. Meanwhile, the Unknown-Geek/Unknown-Geek repository has experienced rapid activity on February 10, 2025, with four consecutive push events focused on updating the README.md file."
+        },
+        "Unknown-Geek": {
+            "link": "https://github.com/Unknown-Geek/Unknown-Geek",
+            "summary": "The Unknown-Geek/Unknown-Geek repository has seen significant activity recently, with four rapid push events focused on updating the README.md file in the span of a few hours on February 10, 2025. This indicates a high level of productivity and documentation maintenance within the repository."
+        }
+    },
+    "profile_summary": "Highly skilled engineer with experience in C, Python, and TypeScript, driving innovative solutions in AI/ML, UI/UX Design and Front-end Development. With a strong background in coding, learning and designing, I'm contributing to 37 open-source projects as a professional developer. My commitment to continuous learning is demonstrated through my active participation in Kaggle competitions and WakaTime statistics, backed by a strong network of 7 followers on GitHub."
+}

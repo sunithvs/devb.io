@@ -1,0 +1,121 @@
+{
+    "username": "iqbalpb",
+    "name": "Muhammed Iqbal P.B",
+    "bio": "",
+    "location": "Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19872875?u=75592003a09b8b71139c9bcf975014d24994a2be&v=4",
+    "profile_url": "https://github.com/iqbalpb",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "flask-app",
+            "description": null,
+            "score": 5.076891985625047,
+            "stars": 3,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/iqbalpb/flask-app",
+            "updatedAt": "2025-01-18T11:44:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iqbalpb.github.io",
+            "description": null,
+            "score": 4.2012026942329985,
+            "stars": 0,
+            "forks": 14,
+            "language": "HTML",
+            "url": "https://github.com/iqbalpb/iqbalpb.github.io",
+            "updatedAt": "2023-08-06T12:33:32Z",
+            "isPinned": false,
+            "homepage": "https://iqbalpb.github.io"
+        },
+        {
+            "name": "pycamp",
+            "description": null,
+            "score": 1.1103925165450748,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/iqbalpb/pycamp",
+            "updatedAt": "2021-11-19T14:31:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ananthan.co",
+            "description": null,
+            "score": 0.15927316838500055,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/iqbalpb/ananthan.co",
+            "updatedAt": "2023-09-20T15:26:11Z",
+            "isPinned": false,
+            "homepage": "https://ananthan.co"
+        },
+        {
+            "name": "loki",
+            "description": null,
+            "score": 0.07062960535124879,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/iqbalpb/loki",
+            "updatedAt": "2021-11-16T19:00:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "autowa",
+            "description": null,
+            "score": 0.06690691523255536,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/iqbalpb/autowa",
+            "updatedAt": "2020-04-18T13:21:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 59,
+    "following": 10,
+    "public_repos": 20,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 25,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/iqbalpb/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/heyiqbalpb"
+        },
+        {
+            "provider": "generic",
+            "url": "https://profiles.wordpress.org/iqbalpb/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

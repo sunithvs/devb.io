@@ -1,0 +1,56 @@
+{
+    "username": "mhdshahan",
+    "name": "mhdshahan",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118380144?v=4",
+    "profile_url": "https://github.com/mhdshahan",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "oasisInfobyte-python",
+            "description": null,
+            "score": 0.2569491711848753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/mhdshahan/oasisInfobyte-python",
+            "updatedAt": "2024-03-06T17:22:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "410622243034",
+            "description": null,
+            "score": 0.157157878879018,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/mhdshahan/410622243034",
+            "updatedAt": "2023-07-13T14:24:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 4,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned software engineer with expertise in Python and Java, I deliver robust and scalable solutions that meet the complex needs of modern applications. With a hands-on approach and a passion for problem-solving, I continually push the boundaries of innovation through my open-source contributions and collaborative projects."
+}

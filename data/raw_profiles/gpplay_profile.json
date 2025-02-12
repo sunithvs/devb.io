@@ -1,0 +1,142 @@
+{
+    "username": "gpplay",
+    "name": "Gybram Llamas",
+    "bio": "GYBRAM LLAMAS\r\nDesarrollador de software apasionado por la creaci\u00f3n de soluciones innovadoras y eficientes. Especializado en el desarrollo de aplicaciones utili",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/94199403?u=e7b1d0441283a44cff5ea2bbece4ba2882f62911&v=4",
+    "profile_url": "https://github.com/GPplay",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "C#",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "HITN-JUMP",
+            "description": "codigo de una demo de mi juego HITN JUMP hecho para practicar",
+            "score": 11.548767643968146,
+            "stars": 1,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/GPplay/HITN-JUMP",
+            "updatedAt": "2023-10-31T17:52:46Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "PVP",
+            "description": "aprendiendo a hacer un shooter en 3D con unity",
+            "score": 11.544279209887472,
+            "stars": 1,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/GPplay/PVP",
+            "updatedAt": "2023-08-02T19:38:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "eatywal",
+            "description": null,
+            "score": 10.291076096218108,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GPplay/eatywal",
+            "updatedAt": "2024-08-24T18:18:11Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "flutter-socket-server",
+            "description": "servidor basico de socket con express",
+            "score": 10.281028440003924,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/GPplay/flutter-socket-server",
+            "updatedAt": "2024-08-04T21:23:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "curso-flutter",
+            "description": "aplicacion del curso de fernando herrra",
+            "score": 10.269195717013185,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/GPplay/curso-flutter",
+            "updatedAt": "2024-08-11T20:37:16Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Lista-de-tareas",
+            "description": "Una aplicacion mobil que te ayuda a organizar tus tareas",
+            "score": 10.262223469380478,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/GPplay/Lista-de-tareas",
+            "updatedAt": "2025-01-27T17:37:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "red_snack_gestion",
+            "description": null,
+            "score": 2.7184185658982685,
+            "stars": 1,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/GPplay/red_snack_gestion",
+            "updatedAt": "2024-12-31T21:40:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chat-flutter",
+            "description": "un chat en tiempo real hecho con flutter y node. usando sockets",
+            "score": 1.7780782459662268,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/GPplay/chat-flutter",
+            "updatedAt": "2025-01-08T16:58:26Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 10,
+    "public_repos": 18,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 174,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://gpplay.itch.io/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/gybram-llamas-3a9475263/"
+        }
+    ],
+    "readme_content": "# \ud83d\udcab About Me:\nDesarrollador de software apasionado por la creaci\u00f3n de soluciones innovadoras y eficientes. Especializado en el desarrollo de aplicaciones utilizando tecnolog\u00edas como .NET, Flutter y Unity, con experiencia en la construcci\u00f3n de software robusto, aplicaciones m\u00f3viles multiplataforma y experiencias interactivas en entornos 3D.\n\nAdem\u00e1s, cuento con conocimientos en dise\u00f1o web y dise\u00f1o de aplicaciones m\u00f3viles utilizando Figma, lo que me permite combinar habilidades t\u00e9cnicas con un enfoque centrado en la usabilidad y la experiencia del usuario.\n\nEn mi repositorio de GitHub, encontrar\u00e1s proyectos que reflejan mi dedicaci\u00f3n al aprendizaje continuo, la resoluci\u00f3n de problemas y la implementaci\u00f3n de mejores pr\u00e1cticas en el desarrollo de software. Siempre estoy abierto a colaborar en proyectos desafiantes y a contribuir al mundo del c\u00f3digo abierto.\n\n\u00a1Conectemos y construyamos algo incre\u00edble juntos!\n\n\n## \ud83c\udf10 Socials:\n[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GPplay02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gllamas_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gybram-llamas-3a9475263) \n\n# \ud83d\udcbb Tech Stack:\n![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=GPplay&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=GPplay&theme=tokyonight&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=GPplay&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)\n\n## \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=GPplay&theme=dark&no-frame=false&no-bg=true&margin-w=4)\n\n### \ud83d\udd1d Top Contributed Repo\n![](https://github-contributor-stats.vercel.app/api?username=GPplay&limit=5&theme=dark&combine_all_yearly_contributions=true)\n\n---\n[![](https://visitcount.itsvg.in/api?id=GPplay&icon=0&color=0)](https://visitcount.itsvg.in)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

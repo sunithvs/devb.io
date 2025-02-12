@@ -1,0 +1,76 @@
+{
+    "username": "h0shinomori",
+    "name": "Mykyta Kazakov",
+    "bio": "Learning Coding xD",
+    "location": "Barcelona, Castelldefels",
+    "avatar_url": "https://avatars.githubusercontent.com/u/113451271?u=8c446642b99f924afb9f6dc8f53755a9486161fe&v=4",
+    "profile_url": "https://github.com/H0shinomori",
+    "top_languages": [
+        [
+            "Java",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "H0shinomori",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/H0shinomori/H0shinomori",
+            "updatedAt": "2025-01-30T10:46:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bird_Game",
+            "description": null,
+            "score": 0.26283003664131993,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/H0shinomori/Bird_Game",
+            "updatedAt": "2025-01-30T00:07:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "T-Manager",
+            "description": null,
+            "score": 0.257336420409937,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/H0shinomori/T-Manager",
+            "updatedAt": "2025-01-30T00:07:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "weatherNow",
+            "description": "Aplicacion del tiempo",
+            "score": 0.2515267951628969,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/H0shinomori/weatherNow",
+            "updatedAt": "2025-01-30T00:08:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "## Hi there \ud83d\udc4b\n\n<!--\n**H0shinomori/H0shinomori** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "Highly skilled Java developer with a strong background in software development, driven by my passion for learning and growth through coding. With experience in designing and implementing efficient solutions, I'm committed to delivering high-quality code and contributing to open-source projects through active development in 4 public repositories. I'm an avid learner, always seeking to push my skills further and collaborate with like-minded professionals to drive innovation."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "rixprog",
+    "name": "rixprog",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/89039455?v=4",
+    "profile_url": "https://github.com/rixprog",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Password-generator-with-Tkinter-GUI",
+            "description": null,
+            "score": 12.271981377982181,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rixprog/Password-generator-with-Tkinter-GUI",
+            "updatedAt": "2023-02-08T16:01:16Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "cryptographical-strong-password-generator-in-python",
+            "description": "password generator using python",
+            "score": 11.46103725376275,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rixprog/cryptographical-strong-password-generator-in-python",
+            "updatedAt": "2022-12-02T20:09:41Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "aigrow-hackathon",
+            "description": null,
+            "score": 11.347884999623055,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/rixprog/aigrow-hackathon",
+            "updatedAt": "2024-10-07T17:56:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "image-encryption",
+            "description": null,
+            "score": 10.164229369376525,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rixprog/image-encryption",
+            "updatedAt": "2023-11-30T19:52:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "dotfiles",
+            "description": "my kde-plasma kali linux config",
+            "score": 10.158253686677826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/rixprog/dotfiles",
+            "updatedAt": "2023-08-08T16:07:47Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "personal-AI-desktop-assistant",
+            "description": null,
+            "score": 10.155488807411757,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rixprog/personal-AI-desktop-assistant",
+            "updatedAt": "2023-06-03T14:37:38Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "aigrow-marketplace-client-admin",
+            "description": null,
+            "score": 0.3580247281365456,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/rixprog/aigrow-marketplace-client-admin",
+            "updatedAt": "2024-12-09T23:31:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "currency-conversion",
+            "description": "A simple responsive web app for currency conversion in real time.",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/rixprog/currency-conversion",
+            "updatedAt": "2024-12-06T03:57:06Z",
+            "isPinned": false,
+            "homepage": "https://rixprog.github.io/currency-conversion/"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 19,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 54,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "tecrade/Calicut-Trails": {
+            "link": "https://github.com/tecrade/Calicut-Trails",
+            "summary": "The tecrade/Calicut-Trails repository has seen recent activities including a translation app addition with speech-to-speech functionality, a pull request, and two push events with a commit revert and a test commit."
+        },
+        "tecrade/translator": {
+            "link": "https://github.com/tecrade/translator",
+            "summary": "The tecrade/translator repository has been utilized for a feature addition with pull request #1, resulting in the addition of a speech translation app to the main codebase."
+        }
+    },
+    "profile_summary": "As a seasoned developer with expertise in Python, JavaScript, and Shell scripting, I'm committed to delivering efficient solutions to complex problems. My extensive experience in writing clean, modular code allows me to quickly adapt to emerging technologies and contribute to high-quality open-source projects."
+}

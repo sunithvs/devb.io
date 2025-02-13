@@ -1,0 +1,132 @@
+{
+    "username": "martinpanelo",
+    "name": "martinpanelo",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/95503065?v=4",
+    "profile_url": "https://github.com/MartinPanelo",
+    "top_languages": [
+        [
+            "Java",
+            22
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MartinPanelo.github.io",
+            "description": "Encriptador-Oracle-Alura",
+            "score": 1.5328513106699935,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MartinPanelo/MartinPanelo.github.io",
+            "updatedAt": "2023-10-20T10:29:38Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "trabajoPracticoDos",
+            "description": "Trabajo practico 2 - LAB 1",
+            "score": 1.113455581481786,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/MartinPanelo/trabajoPracticoDos",
+            "updatedAt": "2022-09-16T18:41:38Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Eventure",
+            "description": null,
+            "score": 0.34850774036117615,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/MartinPanelo/Eventure",
+            "updatedAt": "2024-12-01T22:34:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "eventureAPI",
+            "description": null,
+            "score": 0.34850774036117615,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MartinPanelo/eventureAPI",
+            "updatedAt": "2024-12-02T02:23:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TP1Integrador",
+            "description": null,
+            "score": 0.2966627924641947,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MartinPanelo/TP1Integrador",
+            "updatedAt": "2024-09-09T23:21:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Animalogistics",
+            "description": null,
+            "score": 0.26407648204542317,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/MartinPanelo/Animalogistics",
+            "updatedAt": "2024-07-31T03:19:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "API_Animalogistics",
+            "description": null,
+            "score": 0.26222346938047775,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/MartinPanelo/API_Animalogistics",
+            "updatedAt": "2024-07-31T03:21:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "InmobiliariaPanelo",
+            "description": null,
+            "score": 0.2380655443437702,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MartinPanelo/InmobiliariaPanelo",
+            "updatedAt": "2024-05-15T00:06:00Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 39,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 126,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a software developer with a strong background in Java, TypeScript, and JavaScript, I drive innovation through collaborative coding and meticulous testing. With a portfolio of 39 public repositories showcasing my active development and commitment to quality, I continually push the boundaries of what's possible in web and mobile applications. I'm passionate about translating technical complexities into accessible solutions, and I'm excited to contribute to new projects and expand my professional network."
+}

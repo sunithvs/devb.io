@@ -1,0 +1,120 @@
+{
+    "username": "phpinfo",
+    "name": "Alexey Gromov",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173149?u=9ea14e328f1d9972edf7c1851ada8efaeb0167ac&v=4",
+    "profile_url": "https://github.com/phpinfo",
+    "top_languages": [
+        [
+            "PHP",
+            5
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "MooTools-Placeholder",
+            "description": "This simple plugin provides HTML 5 placeholder attribute to all browsers.",
+            "score": 17.049302156983575,
+            "stars": 10,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/phpinfo/MooTools-Placeholder",
+            "updatedAt": "2025-02-06T04:18:32Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "smsfeedback",
+            "description": "SmsFeedback simple SDK",
+            "score": 11.451668681796338,
+            "stars": 1,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/phpinfo/smsfeedback",
+            "updatedAt": "2022-08-07T00:38:33Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "smsfeedback-bundle",
+            "description": "Provides SmsFeedback SDK integration with Symfony 4 Framework.",
+            "score": 10.06539473193549,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/phpinfo/smsfeedback-bundle",
+            "updatedAt": "2019-06-08T18:33:51Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "gosnake",
+            "description": "Snake written in go",
+            "score": 10.06484534825033,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/phpinfo/gosnake",
+            "updatedAt": "2019-01-17T14:56:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "sms-smsfeedback",
+            "description": "SmsFeedback integration with phpinfo/sms",
+            "score": 0.06546459329932862,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/phpinfo/sms-smsfeedback",
+            "updatedAt": "2019-06-15T20:22:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sms",
+            "description": "SMS sender",
+            "score": 0.06544397108503745,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/phpinfo/sms",
+            "updatedAt": "2019-06-15T20:09:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "zend-search",
+            "description": null,
+            "score": 0.06005086461436934,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/phpinfo/zend-search",
+            "updatedAt": "2020-01-12T01:46:28Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 3,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned software developer with a strong background in maintaining large-scale PHP applications, I leverage my expertise in Go and JavaScript to drive efficient solution delivery. With 12 public repositories showcasing my active contributions and 11 followers indicating my professional influence, I remain committed to innovating and continually expanding my technical capabilities."
+}

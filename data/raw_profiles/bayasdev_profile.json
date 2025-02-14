@@ -1,0 +1,151 @@
+{
+    "username": "bayasdev",
+    "name": "Victor Bayas",
+    "bio": "Software Engineer at MinIO",
+    "location": "Quito",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49411169?u=8962f5b37ebe5b3de2f0679c2e198dc90d279250&v=4",
+    "profile_url": "https://github.com/bayasdev",
+    "top_languages": [
+        [
+            "TypeScript",
+            9
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "envycontrol",
+            "description": "Easy GPU switching for Nvidia Optimus laptops under Linux",
+            "score": 20.975859043582833,
+            "stars": 1409,
+            "forks": 64,
+            "language": "Python",
+            "url": "https://github.com/bayasdev/envycontrol",
+            "updatedAt": "2025-02-13T20:23:30Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "nvidia-gpu-off",
+            "description": "The definitive guide to completely turn off your Nvidia dedicated GPU on Optimus laptops running Linux",
+            "score": 12.74799417379838,
+            "stars": 157,
+            "forks": 4,
+            "language": null,
+            "url": "https://github.com/bayasdev/nvidia-gpu-off",
+            "updatedAt": "2025-02-07T23:56:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "simplyarch",
+            "description": "The blazing fast \u26a1 Arch Linux \u26a1 installation script that puts you on control \ud83c\udf1f",
+            "score": 10.799740820655792,
+            "stars": 41,
+            "forks": 7,
+            "language": "Shell",
+            "url": "https://github.com/bayasdev/simplyarch",
+            "updatedAt": "2024-11-12T20:26:11Z",
+            "isPinned": false,
+            "homepage": "https://bayas.dev/simplyarch/"
+        },
+        {
+            "name": "taskify",
+            "description": "SaaS Trello clone built with Next.js 14, Server Actions, Clerk, Prisma, MySQL, shadcn UI and Stripe",
+            "score": 5.446645475516927,
+            "stars": 7,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bayasdev/taskify",
+            "updatedAt": "2024-08-30T14:28:11Z",
+            "isPinned": false,
+            "homepage": "https://taskify.bayas.dev"
+        },
+        {
+            "name": "votarix",
+            "description": "Sistema Web de Votaci\u00f3n Electr\u00f3nica Votarix",
+            "score": 4.491194785616822,
+            "stars": 4,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bayasdev/votarix",
+            "updatedAt": "2025-02-01T02:59:22Z",
+            "isPinned": false,
+            "homepage": "https://votarix.bayas.dev"
+        },
+        {
+            "name": "nextjs-airbnb-clone",
+            "description": "Full-stack Airbnb Clone with Next.js 13, TailwindCSS, Prisma, MongoDB, NextAuth, Cloudinary and more",
+            "score": 3.967876329274708,
+            "stars": 3,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/bayasdev/nextjs-airbnb-clone",
+            "updatedAt": "2023-09-04T23:58:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "validator-ec",
+            "description": "Colecci\u00f3n de validadores de datos para Ecuador desarrollada en TypeScript",
+            "score": 3.5166749344491053,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/bayasdev/validator-ec",
+            "updatedAt": "2024-10-24T15:13:38Z",
+            "isPinned": false,
+            "homepage": "https://www.npmjs.com/package/validator-ec"
+        },
+        {
+            "name": "validar_cedula_ecuador",
+            "description": "Funci\u00f3n en Python que comprueba si un n\u00famero de c\u00e9dula de identidad ecuatoriano es v\u00e1lido.",
+            "score": 2.5668106392747023,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/bayasdev/validar_cedula_ecuador",
+            "updatedAt": "2023-12-30T18:12:39Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 73,
+    "following": 51,
+    "public_repos": 32,
+    "pull_requests_merged": 34,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 2146,
+        "repositories_contributed_to": 9
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/victorbayas"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "RTL960x": {
+            "link": "https://github.com/Anime4000/RTL960x",
+            "summary": "Recent activity in RTL960x involved the submission of a new pull request, proposing the addition of Mikrotik hAP ax3 on 2025-02-07."
+        },
+        " RTL960x (bayasdev)": {
+            "link": "https://github.com/bayasdev/RTL960x",
+            "summary": "Bayasdev made significant changes in RTL960x, specifically adding Mikrotik hAP ax3 on 2025-02-07, through a push event."
+        },
+        "console (bayasdev)": {
+            "link": "https://github.com/bayasdev/console",
+            "summary": "Console experienced an update on 2025-02-06 with key modifications, including but not limited to: optional debug logging for console requests, express version bump, actions/download-artifact version, webpack version bump and several v1.7.x releases."
+        }
+    },
+    "profile_summary": "As a seasoned software engineer with a proven track record in delivering high-quality solutions, I specialize in building scalable applications with languages like TypeScript, Python, and JavaScript. With over 32 public repositories and a steadily growing network of 73 followers, I demonstrate my commitment to open-source development and community engagement. Currently working at MinIO, I leverage my expertise to drive innovation in cloud storage and infrastructure solutions."
+}

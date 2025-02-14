@@ -1,0 +1,151 @@
+{
+    "username": "aallendez",
+    "name": "Juan Alonso-Allende",
+    "bio": "Future leetcode ballon d'or \u2022 Full Stack \u2022 CS Student",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/157056492?u=a78ea186ce54bec94c36ec55dbdbf7ef2ba4fcd3&v=4",
+    "profile_url": "https://github.com/aallendez",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "db-menu-scraper",
+            "description": null,
+            "score": 10.350740496979714,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aallendez/db-menu-scraper",
+            "updatedAt": "2024-12-05T18:37:52Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "minesweeper",
+            "description": null,
+            "score": 10.331727141691998,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aallendez/minesweeper",
+            "updatedAt": "2024-11-28T20:40:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "aallendez",
+            "description": "Config files for my GitHub profile.",
+            "score": 10.302246012469151,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aallendez/aallendez",
+            "updatedAt": "2024-11-20T14:52:45Z",
+            "isPinned": true,
+            "homepage": "https://github.com/aallendez"
+        },
+        {
+            "name": "euro-final-ml-prediction",
+            "description": null,
+            "score": 10.302246012469151,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aallendez/euro-final-ml-prediction",
+            "updatedAt": "2024-11-18T07:52:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "personal-website",
+            "description": "This is my personal website",
+            "score": 10.279055313275624,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aallendez/personal-website",
+            "updatedAt": "2025-01-22T17:24:26Z",
+            "isPinned": true,
+            "homepage": "https://personal-website-one-pi-14.vercel.app"
+        },
+        {
+            "name": "ml-projects",
+            "description": "This repository hosts all my machine learning projects for my courses in Computer Science",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/aallendez/ml-projects",
+            "updatedAt": "2025-02-11T14:06:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ml-project",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aallendez/ml-project",
+            "updatedAt": "2025-01-30T11:02:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "good-stuff-frontend",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aallendez/good-stuff-frontend",
+            "updatedAt": "2024-12-05T11:30:53Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 9,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 405,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/mrallendez"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jaallende/"
+        }
+    ],
+    "readme_content": "# Juan Alonso-Allende\n\n**Full Stack Developer | Computer Science & AI Student**\n\n\ud83c\udf10 [Visit My Website](https://aallendez.me)\n\n### \ud83d\udceb Let's Connect!\nFeel free to reach out if you\u2019d like to collaborate on projects, share ideas, or discuss anything tech-related!\n",
+    "activity_summary": {
+        "aallendez/ml-projects": {
+            "link": "https://github.com/aallendez/ml-projects",
+            "summary": "Recent activities on ml-projects include several rapid PushEvents, suggesting frequent updates. Messages indicate the creation of an EDA, deletion of .DS_Store files, and merging of branches."
+        },
+        "aallendez/personal-website": {
+            "link": "https://github.com/aallendez/personal-website",
+            "summary": "recent activities on personal-website include a PushEvent adding a pledge and another adding Content Creating Completion Certificate indications a sense of achievement."
+        }
+    },
+    "profile_summary": "As a motivated and detail-driven full stack developer with a strong foundation in Python and JavaScript, I leverage my skills in Jupyter Notebook to drive data-driven insights and innovative solutions. As a Computer Science student with a passion for AI, I thrive in implementing complex algorithms and exploring new technologies. With a growing network of 5 followers and over 14 public repositories, I continue to actively develop and share my projects while fostering meaningful connections with fellow developers and industry professionals."
+}

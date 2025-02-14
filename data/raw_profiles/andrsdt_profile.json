@@ -1,0 +1,132 @@
+{
+    "username": "andrsdt",
+    "name": "Andres Duran",
+    "bio": "",
+    "location": "Madrid",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53608787?u=180c165c85a977888f754c91b7ee1b60cf18bc9b&v=4",
+    "profile_url": "https://github.com/andrsdt",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Python",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "design-patterns",
+            "description": "A group of design patterns implemented following a problem-first approach \ud83e\udde0",
+            "score": 12.410866802330158,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/andrsdt/design-patterns",
+            "updatedAt": "2024-11-22T00:39:34Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "pianode",
+            "description": "A web piano to play together with your friends \ud83c\udfb9",
+            "score": 12.269701847922189,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/andrsdt/pianode",
+            "updatedAt": "2023-01-28T10:31:23Z",
+            "isPinned": true,
+            "homepage": "https://pianode.up.railway.app"
+        },
+        {
+            "name": "no-time-for-heroes",
+            "description": "A multiplayer table game, now online \ud83c\udfb2",
+            "score": 11.59999098543995,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/andrsdt/no-time-for-heroes",
+            "updatedAt": "2025-01-14T00:11:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "simplelauncher",
+            "description": "A productivity-based android launcher made in Flutter, using the BLoC predictable state management library for Dart \ud83e\uddd8",
+            "score": 11.586847898569108,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/andrsdt/simplelauncher",
+            "updatedAt": "2024-02-15T03:57:58Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ccgists",
+            "description": "A Command & Control infrastructure disguised in gists, math, and emojis \ud83d\udcdd",
+            "score": 10.075214115328933,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/andrsdt/ccgists",
+            "updatedAt": "2023-02-01T11:59:30Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "spicetify-show-queue-duration",
+            "description": "A Spicetify extension to show the total duration of the current track queue \ud83c\udfa7",
+            "score": 6.049262465270183,
+            "stars": 10,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/andrsdt/spicetify-show-queue-duration",
+            "updatedAt": "2024-12-03T00:11:02Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "edistribucion-dashboard",
+            "description": null,
+            "score": 2.578862558137014,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/andrsdt/edistribucion-dashboard",
+            "updatedAt": "2023-05-22T14:34:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Wallapop-bumper",
+            "description": "A script that automatically bumps all your Wallapop listed items",
+            "score": 2.2677705809154,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/andrsdt/Wallapop-bumper",
+            "updatedAt": "2022-09-19T06:30:21Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 14,
+    "following": 15,
+    "public_repos": 32,
+    "pull_requests_merged": 21,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2029,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "# Hi there \ud83d\udc4b I'm Andr\u00e9s\n\nI'm a software engineer mainly interested in backend/DB development (Django, Flask, Express.js, PostgreSQL, MySQL, MongoDB...), although I'm also interested in many other fields of computer science. I'm always learning new concepts to apply in my side projects \ud83d\ude80\n\n- \ud83c\udf0d  I'm based in Seville, Spain\n- \ud83d\udce9  You can contact me at [andresdt@pm.me](mailto:andresdt@pm.me)\n- \ud83e\udd1d\u00a0 I'm open to collaborating on interesting projects\n- \ud83c\udfbc  I enjoy learning music theory in my free time\n- \u2328\ufe0f  Fun fact: I like to build weird custom keyboards\n\n\ud83d\udc47 Feel free to reach out to me! \n<p align=\"left\"> <a href=\"https://www.linkedin.com/in/andrsdt\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white\"/></a></p>\n",
+    "profile_summary": "As a software engineer based in Seville, Spain, I bring expertise in backend development, backboned by a strong foundation in languages such as Rust, TypeScript, and Python. With a focus on maintaining high standards in database management (PostgreSQL, MySQL, MongoDB) and services like Django, Flask, and Express.js, I leverage my skills to drive innovation in software projects. I'm a seasoned GitHub contributor, fostering collaborations through my active portfolio of 32 public repositories, with an engaged professional network of 14 followers."
+}

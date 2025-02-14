@@ -1,0 +1,76 @@
+{
+    "username": "arrroyoo",
+    "name": "Carlos Arroyo",
+    "bio": "Apasionado por la CiberSeguridad y la programaci\u00f3n!",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147502081?v=4",
+    "profile_url": "https://github.com/arrroyoo",
+    "top_languages": [
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cleanmatic",
+            "description": null,
+            "score": 0.2697511023888739,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arrroyoo/cleanmatic",
+            "updatedAt": "2024-05-30T09:11:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HTML-Layout-",
+            "description": null,
+            "score": 0.2657008430326736,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arrroyoo/HTML-Layout-",
+            "updatedAt": "2024-05-07T10:20:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "html-practica",
+            "description": null,
+            "score": 0.25569047430970365,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arrroyoo/html-practica",
+            "updatedAt": "2024-02-27T11:00:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Web-de-la-ruta-del-viaje",
+            "description": "Ruta de Francia",
+            "score": 0.16127707772553893,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arrroyoo/Web-de-la-ruta-del-viaje",
+            "updatedAt": "2023-10-10T11:18:42Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned web developer with a passionate interest in cybersecurity, I bring to the table expert-level proficiency in HTML, driven by my enthusiasm for creating secure and user-centric online experiences. With a portfolio of 6 active public repositories and a small yet dedicated following, I collaborate with like-minded professionals to push the boundaries of innovative web development. A strong believer in security-first design, I leverage my technical expertise to craft exceptional digital solutions."
+}

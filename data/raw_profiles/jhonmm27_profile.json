@@ -1,0 +1,146 @@
+{
+    "username": "jhonmm27",
+    "name": "jhonmm27",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/189903120?v=4",
+    "profile_url": "https://github.com/JhonMM27",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "PHP",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Practica_laravel",
+            "description": null,
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/JhonMM27/Practica_laravel",
+            "updatedAt": "2025-02-12T23:29:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto__web",
+            "description": null,
+            "score": 1.7295871639286229,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JhonMM27/Proyecto__web",
+            "updatedAt": "2025-01-03T19:05:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Blog_Laravel",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/JhonMM27/Blog_Laravel",
+            "updatedAt": "2025-02-11T03:44:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto_Laravel",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/JhonMM27/Proyecto_Laravel",
+            "updatedAt": "2025-02-06T22:07:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bodega-practica",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JhonMM27/bodega-practica",
+            "updatedAt": "2025-01-11T03:18:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Doom-js",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/JhonMM27/Doom-js",
+            "updatedAt": "2025-01-11T17:09:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ejemplo",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JhonMM27/ejemplo",
+            "updatedAt": "2025-01-09T03:44:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Js",
+            "description": "aprendiendo JS",
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JhonMM27/Js",
+            "updatedAt": "2025-01-11T02:34:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 14,
+    "pull_requests_merged": 4,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 45,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "## Hi there \ud83d\udc4b\n## \ud83d\udd2d I\u2019m currently working on ...\n<!--\n**JhonMM27/JhonMM27** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {
+        "JhonMM27/Practica_laravel": {
+            "link": "https://github.com/JhonMM27/Practica_laravel",
+            "summary": "Recent activities in Practica_laravel repository reveal significant push events on February 12, including completion of migrations and models ('Completado de migraciones y modelos'), the first commit ('Primer Comit'), and final updates ('Ultimos Cambios')."
+        },
+        "JhonMM27/Blog_Laravel": {
+            "link": "https://github.com/JhonMM27/Blog_Laravel",
+            "summary": "The Blog_Laravel repository has seen notable push events on February 11 and 7, characterized by establishing connections with migrations and models ('Conexion con migraciones y modelos'), starting the project ('Comensando el proyecto'), and advancing the project's second part ('segunda parte del proyecto')."
+        },
+        "JhonMM27/Proyecto_Laravel": {
+            "link": "https://github.com/JhonMM27/Proyecto_Laravel",
+            "summary": "Proyecto_Laravel, a Laravel project, has exhibited certain developments, including initiating migration completion ('Haciendo Migraciones'), unifying views with the database ('Unir vista con base de datos'), based on push events on February 6 and 7."
+        }
+    },
+    "profile_summary": "As a software developer with expertise in Python, JavaScript, and PHP, I leverage my skills to drive innovative solutions and streamline processes. With a history of active development, my 14 public repositories showcase my dedication to collaborative and forward-thinking coding. Currently working on a blend of web and scripting projects."
+}

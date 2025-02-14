@@ -1,0 +1,159 @@
+{
+    "username": "aalonsolopez",
+    "name": "Alejandro Alonso L\u00f3pez",
+    "bio": "Software Engineer Graduate by UPM and member of LifeSupportingTechnologies, working on @Gravitate-Health and @IDEA4RC ",
+    "location": "Madrid",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49404378?u=fda209271a8f47b6468fd2f60e4051cb24eac866&v=4",
+    "profile_url": "https://github.com/aalonsolopez",
+    "top_languages": [
+        [
+            "Rust",
+            3
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "fhir-handler",
+            "description": "FHIR Resources Handler",
+            "score": 10.166422215026202,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aalonsolopez/fhir-handler",
+            "updatedAt": "2024-01-04T22:37:18Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "snomed-scrapper",
+            "description": "SNOMED Codes scrapper",
+            "score": 10.165884837046601,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aalonsolopez/snomed-scrapper",
+            "updatedAt": "2023-12-27T17:20:29Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RoastMeBot",
+            "description": "A Twitter Bot made for a competition on my college",
+            "score": 2.84178826304318,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aalonsolopez/RoastMeBot",
+            "updatedAt": "2022-03-17T11:17:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ThundergunCalculator",
+            "description": "This is a little zombie calculator for Call of Duty: Black Ops zombie mode that allows you to know how many thundergun shots you should do to pass the round.",
+            "score": 2.2650073264957484,
+            "stars": 2,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/aalonsolopez/ThundergunCalculator",
+            "updatedAt": "2022-12-11T17:01:26Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Proyecto-SistDist",
+            "description": "Proyecto para Sistemas Distribuidos - Clasificaci\u00f3n y aviso de Correos Electr\u00f3nicos",
+            "score": 1.6980031173161012,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aalonsolopez/Proyecto-SistDist",
+            "updatedAt": "2024-10-24T10:34:31Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "AlexK33per.github.io",
+            "description": "My little blog in construction.",
+            "score": 1.4541406419377048,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aalonsolopez/AlexK33per.github.io",
+            "updatedAt": "2021-05-17T15:02:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "preprocessor",
+            "description": null,
+            "score": 1.3261748193422238,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aalonsolopez/preprocessor",
+            "updatedAt": "2024-10-17T09:51:37Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ros",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Makefile",
+            "url": "https://github.com/aalonsolopez/ros",
+            "updatedAt": "2025-02-08T18:35:18Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 35,
+    "following": 88,
+    "public_repos": 58,
+    "pull_requests_merged": 21,
+    "issues_closed": 13,
+    "achievements": {
+        "total_contributions": 631,
+        "repositories_contributed_to": 33
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/alexxistyping"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/aalonsolopez/"
+        }
+    ],
+    "readme_content": "<div align=\"center\">\n  <h1>Alejandro Alonso L\u00f3pez</h1>\n  <h3>Software Engineer | Master's Student | Backend Developer</h3>\n</div>\n\n---\n\n### \ud83c\udf93 About Me\n\n- \ud83d\udda5\ufe0f Software Engineer Bachelor with passion for technology\n- \ud83d\udcda Pursuing Master's in Embedded and Distributed Systems at Polytechnic University of Madrid\n- \ud83d\udcbc Software Engineer at [LifeSupportingTechnologies](https://lst.tfo.upm.es)\n- \ud83d\ude80 Working on exciting projects:\n  - [GravitateHealth](https://github.com/Gravitate-Health)\n  - [IDEA4RC](https://github.com/idea4rc)\n\n### \ud83c\udf1f Interests & Goals\n\n- \ud83d\udca1 Always eager to learn and explore new technologies\n- \ud83e\udd1d Open to collaborate on innovative projects with motivated people\n- \ud83c\udfaf Focused on personal projects while expanding my skill set\n\n### \ud83d\udceb Connect With Me\n\n<div align=\"center\">\n  \n[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalonsopersonal@gmail.com)\n[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexxistyping/)\n[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aalonsolopz)\n\n</div>\n\n---\n\n### \ud83d\udcbb Technologies & Tools\n\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\n![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)\n![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)\n![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)\n![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)\n![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)\n![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n\n---\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=aalonsolopez&show_icons=true&theme=one_dark_pro\" alt=\"aalonsolopez\" />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=aalonsolopez&layout=compact&theme=one_dark_pro\" alt=\"Top Languages\" />\n</div>\n\n<div align=\"center\">\n  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=aalonsolopez&theme=react-dark\" alt=\"Contribution Graph\" />\n</div>\n",
+    "activity_summary": {
+        "aalonsolopez/migit": {
+            "link": "https://github.com/aalonsolopez/migit",
+            "summary": "The repository has been actively developed with multiple push events between January 23 and January 30, 2025. Recent changes include the implementation of cat-file and hash-object commands, refactoring of init and hash-object commands, and addition of utility functions for path handling."
+        },
+        "aalonsolopez/ros": {
+            "link": "https://github.com/aalonsolopez/ros",
+            "summary": "New genetic file was added to this repository on February 7, 2025, and some necessary changes were made. Additionally, a gitignore was added. The activity is limited to a few push events within a short period of time."
+        },
+        "aalonsolopez/python-microservices": {
+            "link": "https://github.com/aalonsolopez/python-microservices",
+            "summary": "Recent push events on February 7, 2025, indicate some maintenance tasks were conducted, including code removal and feature implementation. The activity is limited to a few push events within a short period of time."
+        },
+        "DA-ETSISI/participa": {
+            "link": "https://github.com/DA-ETSISI/participa",
+            "summary": "A single push event on February 10, 2025, indicates that more feature flags were added to this repository, suggesting it is being actively maintained."
+        }
+    },
+    "profile_summary": "With a background in software engineering and a strong foundation in technical skills, I excel in implementing efficient backend solutions utilizing technologies such as Rust, C, and Go. As a software engineer at LifeSupportingTechnologies, I have been actively working on projects like GravitateHealth and IDEA4RC. My passion for technology drives me to pursue a Master's in Embedded and Distributed Systems."
+}

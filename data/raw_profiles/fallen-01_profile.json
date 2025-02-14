@@ -1,0 +1,109 @@
+{
+    "username": "fallen-01",
+    "name": "Jeffin Basil",
+    "bio": "Enthusiast, code creator. Building, learning, and sharing passionately.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/105587250?u=5becff4ce199c274366fdc4930135b22b324b9f8&v=4",
+    "profile_url": "https://github.com/FALLEN-01",
+    "top_languages": [
+        [
+            "Python",
+            4
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FALLEN-01",
+            "description": "Enthusiast, code creator. Building, learning, and sharing passionately",
+            "score": 0.26177554611825465,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FALLEN-01/FALLEN-01",
+            "updatedAt": "2024-08-26T10:27:26Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Course_Management_System",
+            "description": "Course Management System: Python app for academic admin, user management, and mark entry. Tkinter GUI. Manage profiles and records efficiently.",
+            "score": 0.24007517715985807,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/Course_Management_System",
+            "updatedAt": "2025-01-08T06:59:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "AudioBook_with_GUI",
+            "description": "Python based program, using tkinter and PyPDF2, allows users to convert PDF files into audiobooks. Choose between a male or female voice",
+            "score": 0.16797566365891456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/AudioBook_with_GUI",
+            "updatedAt": "2024-01-27T08:03:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Voice-Assistant",
+            "description": "Utilizing Python's speech recognition library, this voice assistant can interpret spoken commands.",
+            "score": 0.16797566365891456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/Voice-Assistant",
+            "updatedAt": "2024-01-27T06:08:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "saturday-hacknight",
+            "description": "\"Slithering Serpent\" is a timeless classic snake game that will take you on a nostalgic journey back to the era of retro gaming.",
+            "score": 0.1618118616895588,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FALLEN-01/saturday-hacknight",
+            "updatedAt": "2023-10-21T14:32:25Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Turf_Booking_System",
+            "description": "Turf Booking System: C program for managing turf slots, bookings, and profits. Admin features, user bookings, and cancellation.",
+            "score": 0.16005011810657205,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/FALLEN-01/Turf_Booking_System",
+            "updatedAt": "2024-02-03T15:27:57Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 2,
+    "following": 5,
+    "public_repos": 6,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 17,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jeffin-basil"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Jeffin Basil</h1>\n<h3 align=\"center\">Enthusiast, code creator. Building, learning, and sharing passionately.</h3>\n\n- \ud83c\udf31 I\u2019m currently learning **Full Stack Development**\n\n- \ud83d\udceb How to reach me **jeffinbasil@gmail.com**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://linkedin.com/in/jeffin-basil\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"jeffin-basil\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://instagram.com/jeff_clicks_75\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"jeff_clicks_75\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> </p>\n\n<p><img align=\"center\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=fallen-01&show_icons=true&locale=en&layout=compact\" alt=\"fallen-01\" /></p>\n",
+    "profile_summary": "I'm Jeffin Basil, a passionate enthusiast of code creation with a focus on building innovative solutions using Python and C. With over 6 public repositories and a growing network of 2 followers, I'm actively sharing my knowledge and learning from the community. I'm currently expanding my skillset in Full Stack Development, driven by a passion for learning, building, and sharing."
+}

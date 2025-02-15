@@ -1,0 +1,138 @@
+{
+    "username": "sharonkynu",
+    "name": "SHARON SHAJI",
+    "bio": "DevOps Engineer/Cyber security enthusiast",
+    "location": "Alappuzha, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/107600686?u=6ce2a963e5a88147e3176bfed48f42cd1f593832&v=4",
+    "profile_url": "https://github.com/sharonkynu",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DDoS-Attack-detection-using-ML-DL",
+            "description": "ML & DL code to detect DDoS attack ",
+            "score": 1.6184397434169628,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sharonkynu/DDoS-Attack-detection-using-ML-DL",
+            "updatedAt": "2024-05-07T13:28:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "juby-portfolio",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sharonkynu/juby-portfolio",
+            "updatedAt": "2025-02-03T18:50:12Z",
+            "isPinned": false,
+            "homepage": "https://juby-portfolio.vercel.app"
+        },
+        {
+            "name": "nuxt-recipe-app",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sharonkynu/nuxt-recipe-app",
+            "updatedAt": "2025-01-29T16:25:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NuxtDash",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/sharonkynu/NuxtDash",
+            "updatedAt": "2025-01-28T02:13:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cloud-native-monitoring-app-eks",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sharonkynu/cloud-native-monitoring-app-eks",
+            "updatedAt": "2025-01-29T11:54:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Webhooks-for-WhatsApp-cloud-API",
+            "description": null,
+            "score": 0.46600120091970887,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sharonkynu/Webhooks-for-WhatsApp-cloud-API",
+            "updatedAt": "2025-01-22T05:23:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "tour-travel-website",
+            "description": null,
+            "score": 0.4603915146452023,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sharonkynu/tour-travel-website",
+            "updatedAt": "2025-01-28T15:40:35Z",
+            "isPinned": false,
+            "homepage": "https://tour-travel-website-gamma.vercel.app"
+        },
+        {
+            "name": "terraform-aws-static-website",
+            "description": "This Repo created with Terraform",
+            "score": 0.3161267557513874,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sharonkynu/terraform-aws-static-website",
+            "updatedAt": "2024-10-28T12:33:40Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 53,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sharon-shaji-153801230"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

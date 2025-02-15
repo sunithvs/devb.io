@@ -1,0 +1,147 @@
+{
+    "username": "mhernangilp",
+    "name": "Marcos Hernangil",
+    "bio": "",
+    "location": "Madrid, Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/123759990?u=03244888ea18b81dc8ce853616c0eaa8f3791136&v=4",
+    "profile_url": "https://github.com/mhernangilp",
+    "top_languages": [
+        [
+            "C",
+            9
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "webserv",
+            "description": null,
+            "score": 11.333846121224822,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/mhernangilp/webserv",
+            "updatedAt": "2025-02-14T10:17:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "minishell",
+            "description": "As beautifull as a shell",
+            "score": 11.279573834490076,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/mhernangilp/minishell",
+            "updatedAt": "2024-08-20T12:26:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "planetb",
+            "description": "Transform the Unknown",
+            "score": 10.306726567095923,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mhernangilp/planetb",
+            "updatedAt": "2024-10-06T21:15:14Z",
+            "isPinned": true,
+            "homepage": "https://planetb.vip"
+        },
+        {
+            "name": "so_long",
+            "description": "And thanks for all the fish!",
+            "score": 10.229120080449643,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/mhernangilp/so_long",
+            "updatedAt": "2024-05-10T18:35:51Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "philo",
+            "description": "I never thought philosophy would become so lethal",
+            "score": 10.160299448987663,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/mhernangilp/philo",
+            "updatedAt": "2024-02-05T21:29:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ft_printf",
+            "description": "Because putnbr and putstr aren\u2019t enough",
+            "score": 1.6143802640882041,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/mhernangilp/ft_printf",
+            "updatedAt": "2024-11-07T10:50:11Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "challengers_realm",
+            "description": "A PVP game with java",
+            "score": 1.1923340934394517,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/mhernangilp/challengers_realm",
+            "updatedAt": "2024-02-05T21:33:48Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "frikipedia",
+            "description": "A website with nodejs",
+            "score": 1.1915858703412239,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/mhernangilp/frikipedia",
+            "updatedAt": "2024-02-05T21:29:24Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 19,
+    "following": 17,
+    "public_repos": 27,
+    "pull_requests_merged": 38,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 366,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/marcos-hernangil-prats"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Marcos</h1>\n<h3 align=\"center\">Software engineer | 42 Madrid Student | Cybersecurity</h3>\n\n***\n\n<h3 align=\"left\">Proyects at:</h3>\n<p align=\"center\"><a href=\"https://www.42madrid.com/\" target=\"_blank\"><img height=\"100\" src=\"https://user-images.githubusercontent.com/123759990/222996320-ba730dc4-b0dc-4f5c-aabd-d077e3b2b638.png\"\"></a></p>\n<div align=\"center\" style=\"display: inline_block\">\n  <a href=\"https://github.com/mhernangilp/Libft\" target=\"_blank\">\n    <img align=\"center\" alt=\"Libft\"  height=\"100\" src=\"https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/get_next_line\" target=\"_blank\">\n    <img align=\"center\" alt=\"get_next_line\"  height=\"100\" src=\"https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/Born2beroot\" target=\"_blank\">\n    <img align=\"center\" alt=\"get_next_line\"  height=\"100\" src=\"https://user-images.githubusercontent.com/123759990/229471675-fe9d5029-f09e-4d43-b83c-dc14d736ad2a.png\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/ft_printf\" target=\"_blank\">\n    <img align=\"center\" alt=\"get_next_line\"  height=\"100\" src=\"https://user-images.githubusercontent.com/123759990/230787654-f610615d-d974-41b7-877e-7827e9a5f22e.png\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/so_long\">\n    <img align=\"center\" alt=\"so_long\"  height=\"100\" src=\"https://github.com/mhernangilp/so_long/assets/123759990/b3e80e20-da64-45ce-8345-981fe1e66f9f\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/push_swap\">\n    <img align=\"center\" alt=\"push_swap\"  height=\"100\" src=\"https://github.com/mhernangilp/mhernangilp/assets/123759990/8591cd9c-1c51-48e6-a77f-a47fb6989e16\">\n  </a>\n</div>\n<div align=\"center\" style=\"display: inline_block\">\n  <a href=\"https://github.com/mhernangilp/pipex\">\n    <img align=\"center\" alt=\"pipex\"  height=\"100\" src=\"https://github.com/mhernangilp/mhernangilp/assets/123759990/d6a8028b-a098-46a3-86e6-1923b0eac20c\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/philo\">\n    <img align=\"center\" alt=\"philo\"  height=\"100\" src=\"https://github.com/mhernangilp/mhernangilp/assets/123759990/e5772757-ea4f-44e3-80d1-9c4a3f6858e4\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/minishell\">\n    <img align=\"center\" alt=\"minishell\"  height=\"100\" src=\"https://github.com/mhernangilp/mhernangilp/assets/123759990/fa1483b4-f727-4aae-94d1-9549936226f0\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/cub3D\">\n    <img align=\"center\" alt=\"minishell\"  height=\"100\" src=\"https://github.com/mhernangilp/mhernangilp/assets/123759990/307eb97f-f01b-472f-b425-38a726a4f8c5\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/NetPractice\">\n    <img align=\"center\" alt=\"net-practice\"  height=\"100\" src=\"https://github.com/user-attachments/assets/1f9cd7e3-40d1-47ab-be68-06d4b1212e47\">\n  </a>\n  <a href=\"https://github.com/mhernangilp/webserv\">\n    <img align=\"center\" alt=\"webserv\"  height=\"100\" src=\"https://github.com/user-attachments/assets/0841351b-48a1-4881-862d-86633ebab10b\">\n  </a>\n</div>\n\n\n***\n\n\n<h3 align=\"left\">Programming Languages:</h3>\n<p align=\"left\">\n  <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\"     alt=\"c\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img\n    src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n<h3 align=\"left\">Frontend Development:</h3>\n<p align=\"left\">\n  <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://angular.io\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://angular.io/assets/images/logos/angular/angular.svg\" alt=\"angular\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n<h3 align=\"left\">Backend Development:</h3>\n<p align=\"left\">\n  <a href=\"https://spring.io/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://www.vectorlogo.zone/logos/springio/springio-icon.svg\" alt=\"spring\" width=\"40\" height=\"40\"/>\n  </a> \n</p>\n\n<h3 align=\"left\">Database:</h3>\n<p align=\"left\">\n  <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n<h3 align=\"left\">Devops:</h3>\n<p align=\"left\">\n  <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg\" alt=\"docker\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.gnu.org/software/bash/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg\" alt=\"bash\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n<h3 align=\"left\">Software:</h3>\n<p align=\"left\">\n  <a href=\"https://www.photoshop.com/en\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg\" alt=\"photoshop\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://www.vectorlogo.zone/logos/figma/figma-icon.svg\" alt=\"figma\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://postman.com\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg\" alt=\"postman\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n<h3 align=\"left\">Other technologies & Tools:</h3>\n<p align=\"left\">\n  <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/>\n  </a>\n  <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\">\n    <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/>\n  </a>\n</p>\n\n***\n  \n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n  <a href=\"https://es.linkedin.com/in/marcos-hernangil-prats\" target=\"blank\">\n    <img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"marcos hernangil prats\" height=\"30\" width=\"40\" />\n  </a>\n</p>\n  \n***\n\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=mhernangilp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true\" height=\"150\" alt=\"stats graph\"  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=mhernangilp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true\" height=\"150\" alt=\"languages graph\"  />\n</div>\n",
+    "activity_summary": {
+        "webserv": {
+            "link": "https://github.com/mhernangilp/webserv",
+            "summary": "Recent push events on webserv repository include fixing autoindex, removing debug prints and sanitization for eval, adding favicon and resolving a seg fault upload, and fixing cgi with root config."
+        },
+        "CPP_Modules": {
+            "link": "https://github.com/mhernangilp/CPP_Modules",
+            "summary": "The CPP_Modules repository has seen recent push events to finish tasks for ex00, ex01, and ex02 of Module_06. These updates were made to progress through the course of learning in this module."
+        }
+    },
+    "profile_summary": "Here is a concise and SEO-optimized first-person profile description that highlights Marcos Hernangil's strongest technical skills and expertise. \n\nI'm Marcos Hernangil, a software engineer with expertise in low-level programming languages such as C, C++, and Java. Based at 42 Madrid, I have extensive experience in cybersecurity and a strong foundation in software development, reflected in my 27 public repositories and 19 followers. With a keen interest in backend development and systems programming, I'm proficient in HTML, CSS, JavaScript, and frameworks like Angular. I also have knowledge of front-end development tools and expertise in backend development environments including MySQL, Docker, and Bash, along with proficiency in Linux operating systems and Git. Professionals in the field of software development and cybersecurity have confidence in my skills and expertise due to my extensive contributions and open-source projects, aiming to deliver impactful solutions that benefit global tech communities. Connect with me on my journey through the world of tech on LinkedIn."
+}

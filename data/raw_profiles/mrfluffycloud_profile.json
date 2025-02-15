@@ -1,0 +1,138 @@
+{
+    "username": "mrfluffycloud",
+    "name": "Fluffy",
+    "bio": "Your Friendly Neighborhood Fluffy guy? you know the one with a messed up sleep schedule ",
+    "location": "yes",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69788745?u=f9482b754a762a064449bbfb5bd9db6083416b05&v=4",
+    "profile_url": "https://github.com/MrFluffycloud",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Vue",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "the-ultimate-handler",
+            "description": "A Handler That contains almost everything you need! Highly Customizable aswell! Made with discord.js",
+            "score": 11.458666303093718,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MrFluffycloud/the-ultimate-handler",
+            "updatedAt": "2022-05-21T15:21:39Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Volteum",
+            "description": "Volteum",
+            "score": 11.457145626501768,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MrFluffycloud/Volteum",
+            "updatedAt": "2022-10-05T04:51:15Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Codes",
+            "description": "Random Codes, i use? might be helpfull? idk. its very badly made tho",
+            "score": 11.456271446500514,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/MrFluffycloud/Codes",
+            "updatedAt": "2022-10-05T04:51:05Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "IrfanAbdulHameed",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MrFluffycloud/IrfanAbdulHameed",
+            "updatedAt": "2024-08-28T17:21:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sixty-dash",
+            "description": null,
+            "score": 0.28231542423102485,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/MrFluffycloud/sixty-dash",
+            "updatedAt": "2024-08-23T17:23:43Z",
+            "isPinned": false,
+            "homepage": "https://sixty-dash.vercel.app"
+        },
+        {
+            "name": "Req-bot",
+            "description": null,
+            "score": 0.27810596618122624,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MrFluffycloud/Req-bot",
+            "updatedAt": "2024-07-10T16:50:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Slushy-Docs",
+            "description": null,
+            "score": 0.07453693092541022,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MrFluffycloud/Slushy-Docs",
+            "updatedAt": "2022-11-19T13:06:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MrFluffycloud",
+            "description": null,
+            "score": 0.06784628081781412,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MrFluffycloud/MrFluffycloud",
+            "updatedAt": "2022-04-25T13:32:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 21,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 776,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/MrFluffycloudM"
+        }
+    ],
+    "readme_content": "<div align=\"center\">\n\t<h1>\n\t\tHi there, I'm <a href=\"https://github.com/MrFluffycloud/\">MrFluffycloud</a>!\n\t\t\ud83d\udc4b\n\t</h1>\n\t<a href=\"https://discord.com/users/676745968867082250\">\n\t\t<img\n\t\t\tsrc=\"https://lanyard.cnrad.dev/api/676745968867082250?theme=dark&idleMessage=Existing..\"\n\t\t/>\n\t</a>\n\t<br />\n</div>\n<div align=\"center\">\n\t<br />\n\t<a\n\t\thref=\"[https://discord.com/users/676745968867082250](https://ko-fi.com/Z8Z542UDV)\"\n\t>\n\t\t<img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" />\n\t</a>\n\t<br />\n</div>\n\n<div>\n\t<h2 align=\"center\">About Me</h2>\n\t<li>\n\t\t<b>Name:</b>\n\t\t<a href=\"https://MrFluffycloud.xyz\" target=\"_blank\">Fluffy</a>\n\t</li>\n\t<li><b>Gender:</b> He | Him | They</li>\n\t<li><b>Hobbys:</b> Gaming, Tech Stuff, Graphic Design, Web Development</li>\n\t<br />\n</div>\n\n<h2 align=\"center\">Languages and Tools:</h2>\n<div align=\"center\">\n\t<img\n\t\talign=\"center\"\n\t\talt=\"Visual Studio Code\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"JavaScript\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"HTML5\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"CSS3\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"Node.js\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"Git\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png\"\n\t/>\n\t<img\n\t\talign=\"center\"\n\t\talt=\"GitHub\"\n\t\twidth=\"26px\"\n\t\tsrc=\"https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png\"\n\t/>\n\t<br />\n\t<br />\n\t<img\n\t\tsrc=\"https://github-readme-stats.vercel.app/api/top-langs/?username=MrFluffycloud&layout=compact&hide_border=true&theme=radical\"\n\t/>\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

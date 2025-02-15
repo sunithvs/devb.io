@@ -1,0 +1,128 @@
+{
+    "username": "anandkodakkoly",
+    "name": "Anandraj kodakkoly",
+    "bio": "Data Science Enthusiastic with strong analytical and statistical skills who can tell stories using data that will help\r\nto find solutions for business challenge",
+    "location": "Hyderabad",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59995624?u=c39e5c04fe22f7fb91b85cad11f801c134003829&v=4",
+    "profile_url": "https://github.com/anandkodakkoly",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Energy",
+            "description": null,
+            "score": 0.2366455370849696,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/anandkodakkoly/Energy",
+            "updatedAt": "2025-01-31T13:35:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "code",
+            "description": null,
+            "score": 0.15780771673818506,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/code",
+            "updatedAt": "2023-07-31T07:21:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Mycode",
+            "description": "codes",
+            "score": 0.1369394713773214,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/anandkodakkoly/Mycode",
+            "updatedAt": "2023-09-13T20:53:33Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "-Detecting-Contours",
+            "description": null,
+            "score": 0.06928365357103779,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/-Detecting-Contours",
+            "updatedAt": "2021-05-25T06:24:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": ".-Human-Counting-with-OpenCV",
+            "description": null,
+            "score": 0.06928365357103779,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/.-Human-Counting-with-OpenCV",
+            "updatedAt": "2021-05-25T06:27:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Barcode-and-QR-Code-Scanner",
+            "description": null,
+            "score": 0.06928365357103779,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/Barcode-and-QR-Code-Scanner",
+            "updatedAt": "2021-05-25T06:25:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Blur-the-Face",
+            "description": null,
+            "score": 0.06928365357103779,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/Blur-the-Face",
+            "updatedAt": "2021-05-25T06:26:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Cartoonifying-an-Image",
+            "description": null,
+            "score": 0.06928365357103779,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/anandkodakkoly/Cartoonifying-an-Image",
+            "updatedAt": "2021-05-25T06:26:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a Python and Jupyter Notebook expert, I leverage data science capabilities and analytical prowess to extract actionable insights from complex business challenges. With a strong foundation in statistical analysis, I develop data-driven solutions and narratives, driving meaningful outcomes for businesses through data storytelling. With a portfolio of 31 active projects and a passion for harnessing the power of data, I am dedicated to helping companies navigate and resolve their analytical challenges."
+}

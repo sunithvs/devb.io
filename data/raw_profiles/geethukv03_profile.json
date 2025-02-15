@@ -1,0 +1,52 @@
+{
+    "username": "geethukv03",
+    "name": "Geethu K V",
+    "bio": "Hi peeps, I'm Geethu K V, a passionate MERN stack developer with expertise in HTML, CSS, React, TypeScript, EJS, Node. ,javascript, Express, and MongoDB.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/144685400?u=6e7a74b9ecf1197ca1f23d23726078417a01def8&v=4",
+    "profile_url": "https://github.com/Geethukv03",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TO-DO-LIST",
+            "description": null,
+            "score": 0.2765002433508858,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Geethukv03/TO-DO-LIST",
+            "updatedAt": "2024-07-03T19:40:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Myntra-static",
+            "description": null,
+            "score": 0.16241731575520324,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Geethukv03/Myntra-static",
+            "updatedAt": "2023-11-02T08:19:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 2,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm Geethu K V, a skilled MERN stack developer with a focus on building impactful user interfaces through CSS. With expertise in React and Node.js environments, I leverage my knowledge of TypeScript, EJS, Express, and MongoDB to deliver robust and scalable solutions. Through public repositories like [link to repository], I demonstrate my commitment to hands-on development, continually pushing the boundaries of code quality and efficiency."
+}

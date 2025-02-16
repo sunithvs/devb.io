@@ -1,0 +1,137 @@
+{
+    "username": "hadeeb",
+    "name": "Hadeeb Farhan",
+    "bio": "Adding colors to web pages",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16823042?u=a22bc7aedd32083df60eed604340a392d14eed6b&v=4",
+    "profile_url": "https://github.com/hadeeb",
+    "top_languages": [
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "react-lazy-hydration",
+            "description": "Lazy Hydration for Server Rendered React Components",
+            "score": 26.804400140873433,
+            "stars": 384,
+            "forks": 22,
+            "language": "TypeScript",
+            "url": "https://github.com/hadeeb/react-lazy-hydration",
+            "updatedAt": "2025-02-10T12:03:42Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "trpc-worker",
+            "description": "Run tRPC in a web-worker",
+            "score": 15.890037480888662,
+            "stars": 16,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hadeeb/trpc-worker",
+            "updatedAt": "2024-12-18T13:31:53Z",
+            "isPinned": true,
+            "homepage": "https://www.npmjs.com/package/@hadeeb/trpc-worker"
+        },
+        {
+            "name": "simple-barcode-scanner",
+            "description": "Simple barcode scanner",
+            "score": 7.738512659387859,
+            "stars": 12,
+            "forks": 4,
+            "language": "TypeScript",
+            "url": "https://github.com/hadeeb/simple-barcode-scanner",
+            "updatedAt": "2024-06-25T22:57:13Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "mocr-demo",
+            "description": "Demo of https://github.com/hadeeb/malayalam-character-recognition",
+            "score": 4.474913322583474,
+            "stars": 2,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/hadeeb/mocr-demo",
+            "updatedAt": "2024-08-02T06:38:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ml-ocr-reader",
+            "description": null,
+            "score": 3.87613387825817,
+            "stars": 3,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/hadeeb/ml-ocr-reader",
+            "updatedAt": "2019-03-15T04:08:40Z",
+            "isPinned": false,
+            "homepage": "http://mocr.ml"
+        },
+        {
+            "name": "vite-plugin-wasm",
+            "description": "Vite plugin to to import wasm files to cloudflare workers",
+            "score": 3.4443864302569502,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hadeeb/vite-plugin-wasm",
+            "updatedAt": "2024-09-14T16:47:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "reactive",
+            "description": "Reactive global state for react apps with ES6 proxies",
+            "score": 3.35086990507068,
+            "stars": 4,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/hadeeb/reactive",
+            "updatedAt": "2023-03-04T05:21:04Z",
+            "isPinned": false,
+            "homepage": "https://hadeeb.github.io/reactive/"
+        },
+        {
+            "name": "lightbulb",
+            "description": "Frontend for Gopi's text recognition",
+            "score": 3.097877825900344,
+            "stars": 1,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/hadeeb/lightbulb",
+            "updatedAt": "2018-07-15T10:57:21Z",
+            "isPinned": false,
+            "homepage": "https://hadeeb.github.io/lightbulb/"
+        }
+    ],
+    "followers": 78,
+    "following": 138,
+    "public_repos": 65,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 336,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/HadeebFarhan"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**hadeeb/hadeeb** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "Highly skilled Full Stack Developer specializing in TypeScript, JavaScript, and Python, with a passion for enhancing web page experiences through innovative coding. With 65 active public repositories and a professional network of 78 followers, I consistently push the boundaries of web development. Outside of code, I enjoy experimenting with colors and visual effects to add a touch of uniqueness to the web."
+}

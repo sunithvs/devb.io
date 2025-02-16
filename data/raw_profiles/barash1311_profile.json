@@ -1,0 +1,138 @@
+{
+    "username": "barash1311",
+    "name": "barash sharma",
+    "bio": "Barash Sharma | Computer Science Student at CUSAT | Skills: Full-stack Web, DSA, Python, Java, C++ | Passionate about Robotics & Video Editing | OOPS",
+    "location": "KOCHI KERALA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/138241217?v=4",
+    "profile_url": "https://github.com/barash1311",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "java-dsa-pool",
+            "description": null,
+            "score": 12.70435620352151,
+            "stars": 1,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/barash1311/java-dsa-pool",
+            "updatedAt": "2024-10-18T15:32:32Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "power",
+            "description": null,
+            "score": 12.693245804691633,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/barash1311/power",
+            "updatedAt": "2024-08-06T01:23:18Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 11.661255260447565,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/barash1311/portfolio",
+            "updatedAt": "2024-08-06T01:23:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "web-dev-Mern-stack-",
+            "description": null,
+            "score": 10.260609308814965,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/barash1311/web-dev-Mern-stack-",
+            "updatedAt": "2024-04-28T18:27:39Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "python-tour",
+            "description": "starting python from scratch",
+            "score": 10.164850343110668,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/barash1311/python-tour",
+            "updatedAt": "2023-12-13T11:01:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Network-Security-System",
+            "description": null,
+            "score": 0.47839348335570153,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/barash1311/Network-Security-System",
+            "updatedAt": "2025-01-27T13:50:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Machine-Learning-Projects",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/barash1311/Machine-Learning-Projects",
+            "updatedAt": "2025-01-24T12:27:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ML-Projects",
+            "description": "complete machine learning,Data Science and Gen AI",
+            "score": 0.34742423384957516,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/barash1311/ML-Projects",
+            "updatedAt": "2025-01-29T15:50:07Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 9,
+    "public_repos": 45,
+    "pull_requests_merged": 20,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 599,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/the_code_driver/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hey there! \ud83d\udc4b</h1>\n\n<h2 align=\"center\">\ud83d\udc68\u200d\ud83d\udcbb Full-Stack Developer | Innovator | Problem Solver</h2>\n\n<p align=\"center\">\n  <img src=\"https://s3bucket-incpro.s3.eu-north-1.amazonaws.com/2022-02-24T19%3A20%3A18.214Z-logo_m1.png\" width=\"100\" alt=\"Logo\" />\n</p>\n\n---\n\n<h3 align=\"center\">\ud83d\udc68\u200d\ud83d\udcbb About Me</h3>\n\n<p align=\"center\">\n  <strong>Name:</strong> Barash Sharma | <strong>Location:</strong> Jammu and Kashmir, India | <strong>Education:</strong> Bachelor's in Computer Science at <em>CUSAT</em>\n</p>\n\n<h4 align=\"left\">\ud83d\udd11 Key Projects</h4>\n<ul>\n  <li>\ud83d\ude80 <strong>Organizational Chatbot (IIT Jammu):</strong> Streamlined student-faculty interaction with a smart chatbot.</li>\n  <li>\ud83c\udf00 <strong>Disaster Management Website:</strong> Built a platform for efficient disaster response coordination.</li>\n  <li>\ud83d\udc8a <strong>Medical App (IMA):</strong> Developed an app offering medical resources for the Indian Medical Association.</li>\n  <li>\ud83c\udfe2 <strong>Hostel App (Kerala Info Park):</strong> Created a PWA for efficient hostel management operations.</li>\n</ul>\n\n---\n\n<h3 align=\"center\">\ud83d\udd27 Skills</h3>\n\n<ul>\n  <li><strong>Full-Stack Development:</strong> HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL</li>\n  <li><strong>Programming Languages:</strong> Python, Java, C++, C</li>\n  <li><strong>Frameworks:</strong> React Native (Mobile), Expo</li>\n  <li><strong>Tools:</strong> Git, GitHub, VSCode, PyCharm, Microsoft Azure</li>\n  <li><strong>Version Control:</strong> Git, GitHub</li>\n  <li><strong>Other Skills:</strong> Data Structures, Algorithms, Object-Oriented Programming (OOP), SQL</li>\n</ul>\n\n---\n\n<h3 align=\"center\">\ud83c\udf1f Achievements</h3>\n\n<ul>\n  <li>\ud83c\udfc6 Recognized for software development excellence at IIT Jammu</li>\n  <li>\ud83e\udd47 Led teams to success in multiple hackathons</li>\n  <li>\ud83c\udf96 Contributed innovative solutions in disaster management and healthcare sectors</li>\n</ul>\n\n---\n\n<h3 align=\"center\">\ud83d\udee0 Languages and Tools</h3>\n\n<div align=\"center\">\n  <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;\">\n    <img src=\"https://skillicons.dev/icons?i=js,html,css,wasm\" alt=\"JS, HTML, CSS, WebAssembly\" />\n    <img src=\"https://skillicons.dev/icons?i=python,java,cpp,c\" alt=\"Python, Java, C++, C\" />\n    <img src=\"https://skillicons.dev/icons?i=react,nodejs,mongodb,express\" alt=\"React, Node.js, MongoDB, Express.js\" />\n    <img src=\"https://skillicons.dev/icons?i=mysql,git,github,azure\" alt=\"MySQL, Git, GitHub, Azure\" />\n  </div>\n</div>\n\n---\n\n<h3 align=\"center\">\ud83d\udcc8 GitHub Stats</h3>\n\n<!-- GitHub Stats Section -->\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=barash1311&show_icons=true&theme=radical\" alt=\"GitHub Stats\" style=\"max-width: 100%;\" />\n</div>\n\n<!-- GitHub Streak and Visitor Badge Section -->\n<div align=\"center\" style=\"display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=barash1311&theme=radical\" alt=\"GitHub Streak\" style=\"max-width: 45%;\" />\n  <img src=\"https://visitor-badge.laobi.icu/badge?page_id=barash1311.barash1311\" alt=\"Visitor Badge\" style=\"max-width: 10%;\" />\n</div>\n\n<!-- GitHub Language Stats Section -->\n<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=barash1311&layout=compact&langs_count=10&theme=radical\" alt=\"Most Used Languages\" style=\"max-width: 100%;\" />\n</div>\n\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

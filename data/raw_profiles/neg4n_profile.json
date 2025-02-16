@@ -1,0 +1,142 @@
+{
+    "username": "neg4n",
+    "name": "Igor Klepacki",
+    "bio": "\r\n",
+    "location": "Warsaw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/57688858?u=93c6ac2c5b9cd8d8370ae198e5087f90f83e4c25&v=4",
+    "profile_url": "https://github.com/neg4n",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "next-api-og-image",
+            "description": ":bowtie: Easy way to generate open-graph images dynamically  in HTML or React using Next.js API Routes. Suitable for serverless environment.",
+            "score": 25.387186048152365,
+            "stars": 216,
+            "forks": 18,
+            "language": "TypeScript",
+            "url": "https://github.com/neg4n/next-api-og-image",
+            "updatedAt": "2025-01-04T02:37:08Z",
+            "isPinned": true,
+            "homepage": "https://www.npmjs.com/package/next-api-og-image"
+        },
+        {
+            "name": "next-api-compose",
+            "description": "\ud83e\uddec Simple, dependency free, error aware and powerful utility to compose chain of multiple middleware into one Next.js API Route.",
+            "score": 19.899634202460483,
+            "stars": 37,
+            "forks": 4,
+            "language": "TypeScript",
+            "url": "https://github.com/neg4n/next-api-compose",
+            "updatedAt": "2024-12-31T12:29:36Z",
+            "isPinned": true,
+            "homepage": "https://www.npmjs.com/package/next-api-compose"
+        },
+        {
+            "name": "d3-no-dom",
+            "description": " \ud83d\udcca Fully use D3.js (Data Driven Documents) in environments without DOM. Perfect for serverless e.g. Vercel Functions",
+            "score": 16.161542854724186,
+            "stars": 18,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/neg4n/d3-no-dom",
+            "updatedAt": "2024-12-08T17:35:27Z",
+            "isPinned": true,
+            "homepage": "https://www.npmjs.com/package/d3-no-dom"
+        },
+        {
+            "name": "video-dummy",
+            "description": "\ud83c\udfa5 Generate dummy/placeholder videos locally, without installing anything. Right in your browser",
+            "score": 13.05933482327982,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/neg4n/video-dummy",
+            "updatedAt": "2024-10-15T19:29:43Z",
+            "isPinned": true,
+            "homepage": "https://video-dummy.vercel.app"
+        },
+        {
+            "name": "trickster",
+            "description": "user-friendly linux memory debugging library",
+            "score": 10.295229199325801,
+            "stars": 54,
+            "forks": 3,
+            "language": "Rust",
+            "url": "https://github.com/neg4n/trickster",
+            "updatedAt": "2025-02-07T10:37:29Z",
+            "isPinned": false,
+            "homepage": "https://crates.io/crates/trickster"
+        },
+        {
+            "name": "next-hcaptcha",
+            "description": "\ud83e\udd16 Robust, dependency free and highly configurable solution for guarding Next.js API Routes through higher order function with HCaptcha",
+            "score": 8.295210777994537,
+            "stars": 24,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/neg4n/next-hcaptcha",
+            "updatedAt": "2024-08-08T22:59:36Z",
+            "isPinned": false,
+            "homepage": "https://www.npmjs.com/package/next-hcaptcha"
+        },
+        {
+            "name": "poimandres-warp",
+            "description": "Unofficial port of poimandres theme for the Warp terminal",
+            "score": 8.133603018682486,
+            "stars": 30,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/neg4n/poimandres-warp",
+            "updatedAt": "2024-12-28T11:44:27Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "revenant",
+            "description": "minimalistic visual studio code color theme",
+            "score": 6.469701934697681,
+            "stars": 22,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/neg4n/revenant",
+            "updatedAt": "2024-04-19T21:41:03Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 64,
+    "following": 11,
+    "public_repos": 32,
+    "pull_requests_merged": 15,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 413,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/igorklepacki"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/neg4n"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,154 @@
+{
+    "username": "akomplished-bug",
+    "name": "Athul Krishna ",
+    "bio": "Greetings! I'm Athul, a final year student pursuing CSE with great interest in AI/ML and devops. The page consists of my naive projects",
+    "location": "Alappuzha, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97959765?v=4",
+    "profile_url": "https://github.com/AKomplished-bug",
+    "top_languages": [
+        [
+            "Python",
+            8
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Jupyter Notebook",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "oneNote_AI",
+            "description": "Academic note generation multi-agent model",
+            "score": 12.457833886151183,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AKomplished-bug/oneNote_AI",
+            "updatedAt": "2024-08-20T17:16:57Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Diabetes-predicition-SVM-",
+            "description": "Diabetes prediction using svm algorithm",
+            "score": 10.263603734006674,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AKomplished-bug/Diabetes-predicition-SVM-",
+            "updatedAt": "2024-05-15T10:52:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Handwriting",
+            "description": null,
+            "score": 2.6899126854657958,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AKomplished-bug/Handwriting",
+            "updatedAt": "2025-01-29T09:27:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "University-Mark-prediction",
+            "description": null,
+            "score": 2.4569850086302107,
+            "stars": 2,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/AKomplished-bug/University-Mark-prediction",
+            "updatedAt": "2024-08-27T10:58:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "KTU_Studymaterial_Telegrambot",
+            "description": "Study material for KTU Btech students",
+            "score": 1.6536992175428367,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AKomplished-bug/KTU_Studymaterial_Telegrambot",
+            "updatedAt": "2024-08-02T17:27:44Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Akomplished-bug",
+            "description": null,
+            "score": 1.6535250338517158,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AKomplished-bug/Akomplished-bug",
+            "updatedAt": "2025-02-03T06:45:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Medical-chatbot-",
+            "description": null,
+            "score": 1.6486684614991916,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AKomplished-bug/Medical-chatbot-",
+            "updatedAt": "2024-09-23T12:10:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio-main",
+            "description": null,
+            "score": 1.319504068156548,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/AKomplished-bug/Portfolio-main",
+            "updatedAt": "2025-02-02T12:11:48Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-main-black-zeta.vercel.app"
+        }
+    ],
+    "followers": 9,
+    "following": 6,
+    "public_repos": 28,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 402,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "![alt text](haha.gif)\n\n<h1 align=\"center\">Hi there \ud83d\udc4b, I'm Athul Krishna</h1>\n<h3 align=\"center\">\ud83d\ude80 Software Developer (AI/ML) | \ud83d\udca1 Part-Time Project Finisher | \ud83e\udde0 Full-Time Learner</h3>\n\n<p align=\"center\"> \n  <img src=\"https://komarev.com/ghpvc/?username=athulkrishna2002&label=Profile%20views&color=0e75b6&style=flat\" alt=\"athulkrishna2002\" /> \n  <a href=\"https://twitter.com/Athul_06\" target=\"blank\"><img src=\"https://img.shields.io/twitter/follow/Athul_06?logo=twitter&style=for-the-badge\" alt=\"Athul_06\" /></a>\n</p>\n\n---\n\n### \ud83d\udee0\ufe0f Tech Stack\n\n#### \ud83e\udd16 AI/ML\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\n![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)\n![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)\n![LangChain](https://img.shields.io/badge/LangChain-FF8700?style=for-the-badge&logo=langchain&logoColor=white)\n\n#### \ud83c\udf10 Web Development\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)\n![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)\n![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)\n\n#### \ud83d\uddc3\ufe0f Databases\n![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)\n![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)\n\n#### \u2699\ufe0f Tools\n![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)\n![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)\n\n---\n\n### \ud83d\udcca GitHub Stats\n\n<p align=\"center\">\n  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=AKomplished-bug&show_icons=true&theme=dark&hide_border=true&count_private=true\" />\n  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=AKomplished-bug&layout=compact&theme=dark&hide_border=true\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=AKomplished-bug&theme=dark&hide_border=true\" />\n</p>\n\n---\n\n### \ud83c\udfc6 GitHub Trophies\n<p align=\"center\"> \n  <img src=\"https://github-profile-trophy.vercel.app/?username=AKomplished-bug&theme=onedark&no-frame=true&row=1&margin-w=15\" />\n</p>\n\n---\n\n### \ud83e\udd1d Let's Connect\n<p align=\"center\">\n  <a href=\"https://www.linkedin.com/in/athul-krishna-a-826146238/\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"/>\n  </a>\n  <a href=\"https://x.com/Athul_06\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white\" alt=\"Twitter\"/>\n  </a>\n  <a href=\"mailto:athulkrishna8781@gmail.com\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Gmail\"/>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/athulkrishna2002?tab=repositories\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/Check_My_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white\" alt=\"Projects\"/>\n  </a>\n</p>\n\n---\n\n> \"The art of finishing projects is knowing which 90% to abandon.\" \ud83d\ude04",
+    "activity_summary": {
+        "AKomplished-bug/detection-api": {
+            "link": "https://github.com/AKomplished-bug/detection-api",
+            "summary": "Recent activities on AKomplished-bug's detection-api repository include resolving dependency issues, merging pull requests, and implementing new features such as integrating dyslexia handwriting models, adding task retrieval, and creating queue managers."
+        },
+        "AKomplished-bug/Handwriting": {
+            "link": "https://github.com/AKomplished-bug/Handwriting",
+            "summary": "Significant updates have been made to AKomplished-bug's Handwriting repository, including bug fixes, model training, and feature implementations such as adding instructions on how to deploy the model, integrating CNN models, and implementing inference from the model."
+        },
+        "edulex/detection-api": {
+            "link": "https://github.com/edulex/detection-api",
+            "summary": "edulex's detection-api repository has seen activity related to resolving dependency issues, adding new dependencies, and correcting import statements. However, the changes appear to be primarily focused on resolving dependency issues rather than significant new features or updates."
+        },
+        "AKomplished-bug/Portfolio-main": {
+            "link": "https://github.com/AKomplished-bug/Portfolio-main",
+            "summary": "The AKomplished-bug/Portfolio-main repository experienced recent activity, including the addition of requirements.txt."
+        },
+        "AKomplished-bug/Akomplished-bug": {
+            "link": "https://github.com/AKomplished-bug/Akomplished-bug",
+            "summary": "Recent activity on AKomplished-bug's Akomplished-bug repository was minor, with the addition of GitHub stats and typo corrections."
+        }
+    },
+    "profile_summary": "I'm Athul Krishna, a driven software developer with a strong interest in AI/ML and devops, and a knack for completing projects. With extensive experience in languages like Python, TypeScript, and proficiency in Jupyter Notebooks, I'm well-equipped to tackle complex technical challenges. Active in the GitHub community with 28 public repositories and 9 followers, I'm committed to continuous learning and improvement. Follow me on LinkedIn or Twitter to stay updated on my journey."
+}

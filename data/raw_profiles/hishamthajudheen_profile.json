@@ -1,0 +1,146 @@
+{
+    "username": "hishamthajudheen",
+    "name": "Hisham Thajudheen",
+    "bio": "Computer Science Student and Chai Enthusiast.",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/65030098?u=9f294a6a8cae57e489c1f07eb396cc2e979228cc&v=4",
+    "profile_url": "https://github.com/hishamthajudheen",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "iot-machine-monitor",
+            "description": "Mini Project",
+            "score": 2.579236734292575,
+            "stars": 1,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/hishamthajudheen/iot-machine-monitor",
+            "updatedAt": "2023-07-23T11:07:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-crm2",
+            "description": "An advanced version of the Django CRM application",
+            "score": 1.9711012289968108,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/hishamthajudheen/django-crm2",
+            "updatedAt": "2025-02-10T08:26:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-crm",
+            "description": "A basic CRM application ",
+            "score": 1.9401984207231733,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/hishamthajudheen/django-crm",
+            "updatedAt": "2025-02-10T08:26:39Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "DjangoEcom",
+            "description": "A basic ecommerce website built entirely using Python Django",
+            "score": 1.6980031173161012,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/hishamthajudheen/DjangoEcom",
+            "updatedAt": "2025-02-10T08:26:36Z",
+            "isPinned": false,
+            "homepage": "https://django-ecom-seven.vercel.app"
+        },
+        {
+            "name": "diceRoller",
+            "description": "A simple Dice Roller Android Application",
+            "score": 1.5460494510952845,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/hishamthajudheen/diceRoller",
+            "updatedAt": "2024-01-03T19:20:15Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ecommerce-site",
+            "description": "A basic e-commerce site built using Django",
+            "score": 1.5429895709586807,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/hishamthajudheen/ecommerce-site",
+            "updatedAt": "2024-01-03T19:19:53Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "8086",
+            "description": "8086 MASM Programs",
+            "score": 1.536810864526181,
+            "stars": 1,
+            "forks": 0,
+            "language": "Assembly",
+            "url": "https://github.com/hishamthajudheen/8086",
+            "updatedAt": "2023-09-02T05:33:51Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "hospital-management-system",
+            "description": "The Healthcare Patient Management System is a web-based application designed to streamline hospital operations by managing appointments, patient medical records, and doctor-patient interactions. ",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hishamthajudheen/hospital-management-system",
+            "updatedAt": "2024-11-18T10:32:16Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 16,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 59,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hello there \ud83d\udc4b, I'm Hisham Thajudheen</h1>\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=hishamthajudheen&label=Profile%20views&color=0e75b6&style=flat\" alt=\"hishamthajudheen\" /> </p>\n\n<p align=\"left\"> <a href=\"https://github.com/ryo-ma/github-profile-trophy\"><img src=\"https://github-profile-trophy.vercel.app/?username=hishamthajudheen&theme=buddhism\" alt=\"hishamthajudheen\" /></a> </p>\n\n- \ud83d\udcac Ask me about **Django and FastAPI**\n- \ud83d\udceb How to reach me **hishamthajudheen@gmail.com**\n\n<div> <a href=\"https://github.com/hishamthajudheen\" target=\"_blank\"><img src=\"https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white\" target=\"_blank\"></a>\n<a href=\"https://instagram.com/eee_sham\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white\" target=\"_blank\"></a>\n<a href = \"mailto:hishamthajudheen@gmail.com\"><img src=\"https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white\" target=\"_blank\"></a>\n</div><h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://stackoverflow.com/users/hisham-thajudheen\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg\" alt=\"hisham-thajudheen\" height=\"30\" width=\"40\" /></a><a href=\"https://instagram.com/eee_sham\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg\" alt=\"eee_sham\" height=\"30\" width=\"40\" /></a></p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\">\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg\" alt=\"C\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg\" alt=\"CPP\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg\" alt=\"Java\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg\" alt=\"Dart\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg\" alt=\"Javascript\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg\" alt=\"PHP\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg\" alt=\"Python\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg\" alt=\"Bootstrap\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg\" alt=\"React\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg\" alt=\"HTML\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg\" alt=\"Css\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg\" alt=\"Sqlite\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg\" alt=\"Postgresql\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg\" alt=\"Mysql\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg\" alt=\"Firebase\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg\" alt=\"Docker\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg\" alt=\"Android\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg\" alt=\"Flutter\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg\" alt=\"Django\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg\" alt=\"Flask\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg\" alt=\"Blender\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg\" alt=\"Postman\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg\" alt=\"Photoshop\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg\" alt=\"Arduino\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg\" alt=\"Git\" width=\"40\" height=\"40\"/>\n<img src=\"https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg\" alt=\"Linux\" width=\"40\" height=\"40\"/>\n</p>\n\n<h3 align=\"left\">Stars</h3>\n<img align=\"left\" height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=hishamthajudheen&layout=compact&theme=merko\" alt=hishamthajudheen />\n\n<p>&nbsp;<img align=\"center\" height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=hishamthajudheen&show_icons=true&locale=en&theme=merko\" alt=\"hishamthajudheen\" /></p>\n\n<p><img align=\"center\" height=\"180em\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=hishamthajudheen&theme=merko\" alt=\"hishamthajudheen\" /></p>\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"><h3 align=\"center\">Statistics</h3>\n<div align=\"center\">\n<a href=\"https://github.com/hishamthajudheen\">\n<img align=\"center\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hishamthajudheen&theme=2077\" height=\"180em\" />\n<img align=\"center\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hishamthajudheen&theme=2077\" height=\"180em\" />\n<img align=\"center\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hishamthajudheen&theme=2077\" height=\"180em\" />\n<img align=\"center\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hishamthajudheen&theme=2077\" height=\"180em\" />\n<img align=\"center\" src=\"http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hishamthajudheen&theme=2077\" height=\"180em\" />\n</div>\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\"><h2 align=\"left\">\u26a1Activity Graph:</h2>\n<img align=\"center\" src=\"https://github-readme-activity-graph.vercel.app/graph?username=hishamthajudheen&theme=default\"/>\n",
+    "activity_summary": {
+        "hishamthajudheen/django-crm2": {
+            "link": "https://github.com/hishamthajudheen/django-crm2",
+            "summary": "Significant activity was observed in Django CRM2 repository, including updates to README.md, database configuration, and deployment setup. The team made notable changes such as switching from SQLite to PostgreSQL, implementing whitenoise for static file handling, and setting up gunicorn. Various components like lead categories, user authentication, and file styling were also styled and finalised as the development progressed"
+        },
+        "hishamthajudheen/django-crm": {
+            "link": "https://github.com/hishamthajudheen/django-crm",
+            "summary": "A single update to README.md was made in the Django CRM repository, with the date of the update being 2025-02-04."
+        },
+        "hishamthajudheen/hishamthajudheen": {
+            "link": "https://github.com/hishamthajudheen/hishamthajudheen",
+            "summary": "The repository of username hishamthajudheen had a single update to README.md made, with an activity date of 2025-02-04."
+        }
+    },
+    "profile_summary": "I'm Hisham Thajudheen, a Computer Science student with a passion for technology and problem-solving. I've honed my skills in C++, Python, and JavaScript, and I'm always looking to expand my expertise in cutting-edge tools and frameworks. As a dedicated developer with a strong presence online, I've built a community of like-minded individuals and contributed to a wide range of projects. When I'm not coding, you can find me sipping on a cup of chai or exploring new tech trends. If you have any questions about Django, FastAPI, or any other topic, feel free to reach out to me through my GitHub account or via email at hishamthajudheen@gmail.com. I'm here to collaborate, share knowledge, and learn from others in the ever-evolving world of technology."
+}

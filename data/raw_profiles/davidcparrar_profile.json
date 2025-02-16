@@ -1,0 +1,146 @@
+{
+    "username": "davidcparrar",
+    "name": "David Parra",
+    "bio": "Hi, I'm David \u2013 a Chemical Engineer turned Data and Software enthusiast, with a passion for learning, problem-solving, and building impactful solutions.",
+    "location": "Bogot\u00e1, colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25620240?u=a66ab28c315a81a13d896fb8003b1833db7a58db&v=4",
+    "profile_url": "https://github.com/Davidcparrar",
+    "top_languages": [
+        [
+            "Rust",
+            4
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "datawarehouse-redshift",
+            "description": "This is a repo that takes sparkify-data into a AWS Redshift Data Warehouse",
+            "score": 10.072084096625868,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Davidcparrar/datawarehouse-redshift",
+            "updatedAt": "2022-04-25T14:13:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "datamodeling-postgres",
+            "description": null,
+            "score": 10.071718842123545,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Davidcparrar/datamodeling-postgres",
+            "updatedAt": "2022-03-20T02:10:10Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Saltation",
+            "description": null,
+            "score": 10.06349723337851,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/Davidcparrar/Saltation",
+            "updatedAt": "2017-12-07T18:06:53Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "test_ci",
+            "description": null,
+            "score": 1.1136175832693747,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/Davidcparrar/test_ci",
+            "updatedAt": "2022-10-03T12:57:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "KatasRust",
+            "description": null,
+            "score": 0.32501859800329747,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Davidcparrar/KatasRust",
+            "updatedAt": "2024-11-08T16:16:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wc-tool",
+            "description": null,
+            "score": 0.28823944514233185,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Davidcparrar/wc-tool",
+            "updatedAt": "2024-08-19T16:40:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "dbe5",
+            "description": "Django by Example Book",
+            "score": 0.27474613157243294,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Davidcparrar/dbe5",
+            "updatedAt": "2024-06-27T03:21:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Davidcparrar",
+            "description": null,
+            "score": 0.2167419735323562,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Davidcparrar/Davidcparrar",
+            "updatedAt": "2025-01-30T23:06:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 18,
+    "following": 20,
+    "public_repos": 58,
+    "pull_requests_merged": 2,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1031,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/SmallF21"
+        },
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/davidcparrar.bsky.social"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/davidc-parrar/"
+        }
+    ],
+    "readme_content": "\n```bash\ndavidcparrar@PC:~/ echo $DESCRIPTION | grep $ME\n```\n# \ud83d\udc4b About Me  \n\nHi, I'm **David** \u2013 a Chemical Engineer turned **Data** and **Software** enthusiast, with a passion for learning, problem-solving, and building impactful solutions.  \n\n### \ud83c\udf1f Areas of Expertise  \n- \ud83d\udd0d **Data Science** & **Machine Learning**  \n  - Building predictive models and applying real-world insights.  \n- \u2699\ufe0f **Data Engineering**  \n  - Developing scalable data pipelines and managing complex workflows.  \n- \ud83d\udee0\ufe0f **Backend Development**  \n  - Crafting APIs and services using **Python** (Django, Flask) and exploring **Rust** for high-performance applications.\n\n### \ud83d\udee0\ufe0f Tech Stack & Skills  \n- \u2601\ufe0f **Cloud**: AWS services (compute, storage, orchestration)  \n- \ud83d\uddc4\ufe0f **Databases**: PostgreSQL, relational & non-relational systems  \n- \ud83d\udc0d **Languages**: Python, Rust, with curiosity for modern tech  \n\n### \ud83c\udfaf Current Goals  \n- \ud83d\udd27 **Contribute to Open Source** projects  \n- \ud83e\udd1d Collaborate on meaningful data and software solutions  \n- \ud83d\udcda Continuously grow and learn from the tech community  \n\n---\n\n### \ud83d\udceb Let's Connect!  \nFeel free to reach out or connect with me. I\u2019m always open to collaborations, new ideas, or just chatting about **Data**, **Rust**, or **AI innovations**!\n\n---\n\n<!--<p align='center'>\n  <a href=\"#\"><img src=\"https://readme-vercel-eta.vercel.app/api?username=davidcparrar&show_icons=true&count_private=true&theme=merko\" width=\"350\"></a>\n</p>\n<!--\n<p align='center'>\n  <a href=\"#\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=davidcparrar&layout=compact&hide=html\" width=\"350\"></a>\n</p>\n-->\n<!--<p align='center'>\n    <a href=\"https://linkedin.com/in/davidc-parrar/\">\n    <img src=\"https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://twitter.com/SmallF21\">\n    <img src=\"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n</p>\n-->\n### Languages & Tools\n\n<p align='center'>\n    <a href=\"https://www.cplusplus.com/\">\n    <img src=\"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://www.python.org/\">\n    <img src=\"https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://www.r-project.org/\">\n    <img src=\"https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n</p>\n\n\n<p align='center'>\n    <a href=\"https://aws.amazon.com//\">\n    <img src=\"https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://circleci.com/\">\n    <img src=\"https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white\"/>\n  </a>&nbsp;&nbsp;\n  </a>&nbsp;&nbsp;\n  <a href=\"https://github.com/features/actions\">\n    <img src=\"https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white\"/>\n  </a>&nbsp;&nbsp;\n    <a href=\"https://www.tensorflow.org/\">\n    <img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://numpy.org/\">\n    <img src=\"https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"https://pandas.pydata.org/\">\n    <img src=\"https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  <a href=\"\">\n    <img src=\"https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white\" />\n  </a>&nbsp;&nbsp;\n  \n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

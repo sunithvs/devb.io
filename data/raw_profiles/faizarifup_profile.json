@@ -1,0 +1,141 @@
+{
+    "username": "faizarifup",
+    "name": "Faiz Arif U P",
+    "bio": "System Engineer | Linux | Web Hosting | MCA TKM'24 | Co-Founder - TinkerHub FC",
+    "location": "Kozhikode, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68603404?u=6c143960f75a9e112e0f1469bdb04772f6d1cbad&v=4",
+    "profile_url": "https://github.com/FaizArifUP",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Image-Captioning",
+            "description": "A mini project using Deep Learning.",
+            "score": 11.634142659142668,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/FaizArifUP/Image-Captioning",
+            "updatedAt": "2024-05-23T17:06:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Data-Structures-Lab",
+            "description": null,
+            "score": 11.626818912832837,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/FaizArifUP/Data-Structures-Lab",
+            "updatedAt": "2024-05-23T17:07:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Java-Programs",
+            "description": null,
+            "score": 11.626369538279748,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/FaizArifUP/Java-Programs",
+            "updatedAt": "2024-05-23T17:07:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FaizArifUP",
+            "description": null,
+            "score": 4.467619282028355,
+            "stars": 4,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/FaizArifUP",
+            "updatedAt": "2024-12-30T09:03:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "FaizArifUP.github.io",
+            "description": "Portfolio",
+            "score": 1.6852611416836456,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaizArifUP/FaizArifUP.github.io",
+            "updatedAt": "2024-09-19T06:38:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Android-Lab",
+            "description": "Mobile Application Development Lab",
+            "score": 1.6342391691184583,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/Android-Lab",
+            "updatedAt": "2024-05-23T17:06:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "shn-twitter-api",
+            "description": null,
+            "score": 0.07199371112064415,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/FaizArifUP/shn-twitter-api",
+            "updatedAt": "2022-04-16T07:22:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.06968165518384643,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/FaizArifUP/github-slideshow",
+            "updatedAt": "2021-07-20T11:11:57Z",
+            "isPinned": false,
+            "homepage": "https://lab.github.com/githubtraining/introduction-to-github"
+        }
+    ],
+    "followers": 41,
+    "following": 58,
+    "public_repos": 14,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 12,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/faizarifup"
+        },
+        {
+            "provider": "generic",
+            "url": "https://faizarifup.github.io/"
+        }
+    ],
+    "readme_content": "# Hi there \ud83d\udc4b, I'm Faiz Arif U P.\n### Farook College, Kerala, India.\n\n### About:\n\n- \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb I am an enthusiastic and dedicated IT professional with a strong academic foundation and practical experience in technology and systems management.\n\n- \ud83c\udf89 Currently, I am working as a Junior System Engineer at SupportSages Pvt Ltd, where I am honing my technical skills and contributing to impactful projects. Previously, I served as the IT Coordinator at NEST Public School, managing IT infrastructure, teaching IT lessons, and enhancing the school\u2019s digital presence.\n\n- \ud83c\udf1f In addition, I co-founded TinkerHub FC at Farook College Campus under the TinkerHub Foundation. During my tenure, I played a pivotal role in organizing tech events, fostering community learning, and serving in the Tech Team to build a vibrant technology ecosystem on campus.\n\n- \ud83c\udf93 I hold a Master of Computer Applications (MCA) from TKM College of Engineering, where I gained a solid technical foundation and hands-on experience in software development and Linux systems.\n\n- \ud83d\udca1 I am passionate about using technologies to solve real-world challenges, building innovative solutions, and continuously learning to stay ahead in the dynamic IT landscape. Let\u2019s connect and explore opportunities to collaborate!\n\n---\n\n### Skills:\n- Linux\n- Web Hosting\n- Web Dev\n- Python\n- Java\n- HTML\n- CSS\n- JS\n- C\n\n---\n\n[![trophy](https://github-profile-trophy.vercel.app/?username=FaizArifUP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)\n\n[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizArifUP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\n\n![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizArifUP&show_icons=true&theme=radical)  \n\n---\n\n#### Connect With Me:\n[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaizArifUP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faizarifup/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/faiz.arif.3701)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/faiz_arif_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/faizarifup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/faizarifup)  \n",
+    "profile_summary": "seasoned IT professional with over a decade of combined academic and practical experience in technology and systems management. I am enthusiastic about leveraging my skills in C, Python, and Java to develop innovative solutions, manage systems, and drive impactful projects. As a Junior System Engineer at SupportSages Pvt Ltd, I am continuously honing my technical expertise and contributing to exciting initiatives, while also serving as a co-founder of TinkerHub FC and driving efforts in tech events, community learning, and tech ecosystems within the college campus and beyond. Let's connect and explore opportunities to collaborate!"
+}

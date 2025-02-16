@@ -1,0 +1,151 @@
+{
+    "username": "adi-code22",
+    "name": "ADITYAKRISHNAN",
+    "bio": "Java Developer | Flutter Developer | Competitive Programming | Machine Learning | NLP | C/C++, Python, Go-Lang |",
+    "location": "Thrissur, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78801889?u=8b91cf5cf359edcb4839566491872f7ef9b8c367&v=4",
+    "profile_url": "https://github.com/adi-code22",
+    "top_languages": [
+        [
+            "C++",
+            9
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TraWell-App",
+            "description": "your Smart travel buddy, powered by AI. A tourist guide which aids in easy navigation, communication and guidance throughout the journey.",
+            "score": 18.995122199751542,
+            "stars": 20,
+            "forks": 5,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/TraWell-App",
+            "updatedAt": "2024-12-05T13:01:30Z",
+            "isPinned": true,
+            "homepage": "https://trawel01.netlify.app/"
+        },
+        {
+            "name": "Python-Automation-WhatsApp",
+            "description": "An automated Whatsapp Messaging solution built with Selenium using Python allowing to send messages to multiple (saved or unsaved) contacts with ease.",
+            "score": 16.179070547388125,
+            "stars": 6,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/adi-code22/Python-Automation-WhatsApp",
+            "updatedAt": "2025-01-31T01:45:56Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Lyft-App",
+            "description": "Decentralized auto-cab booking application.",
+            "score": 15.65231161793736,
+            "stars": 8,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/Lyft-App",
+            "updatedAt": "2024-05-22T20:32:04Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "AgroMed-App",
+            "description": "Field Level Identification of Pest and Disease in Plants, using Machine Learning, .tflite Model, Flutter App",
+            "score": 15.404395441503642,
+            "stars": 7,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/AgroMed-App",
+            "updatedAt": "2024-09-12T10:23:37Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Face-Recognition-and-Automated-Attendance-Marking",
+            "description": "Face Recognition and Automated Attendance Marking",
+            "score": 15.000657429744086,
+            "stars": 6,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/adi-code22/Face-Recognition-and-Automated-Attendance-Marking",
+            "updatedAt": "2022-11-09T09:38:13Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Personal-Image-Gallery",
+            "description": "This is a Personal Image Gallery used to store favorite images to google cloud, with the protection of FirebaseAuth.",
+            "score": 12.403661876413592,
+            "stars": 2,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/Personal-Image-Gallery",
+            "updatedAt": "2024-02-25T04:09:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ChatGPT-App",
+            "description": "An Android Application which takes in various AI generated APIs under a single point for easy use.",
+            "score": 6.701308815682496,
+            "stars": 8,
+            "forks": 3,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/ChatGPT-App",
+            "updatedAt": "2024-10-02T03:37:11Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Pothole-Detection",
+            "description": " Pothole detection using ML model trained into a Flutter App",
+            "score": 4.476187946776627,
+            "stars": 4,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/adi-code22/Pothole-Detection",
+            "updatedAt": "2024-12-14T16:53:13Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 200,
+    "following": 4,
+    "public_repos": 74,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 45,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/adityakrishnanp"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/adi-code22/"
+        }
+    ],
+    "readme_content": "# [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnan.png?raw=true)](https://www.linkedin.com/in/adi-code22/)\n![](https://komarev.com/ghpvc/?username=adi-code22)\n\n[![GitHub Adityakrishnan](https://img.shields.io/github/followers/adi-code22?label=follow&style=social)](https://github.com/adi-code22)\n<p align='center'>\n<a href=\"https://www.linkedin.com/in/adi-code22/\"><img height=\"30\" src=\"https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true\"></a>\n<a href=\"https://twitter.com/AdityakrishnanP\"><img height=\"30\" src=\"https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true\"></a>&nbsp;&nbsp;\n<a href=\"https://instagram.com/adityakrishnan_22\"><img height=\"30\" src=\"https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true\"></a>&nbsp;&nbsp;\n</p> \n\n \n## AdityA here,   \ud83d\udc4b\nSoftware Engineer, **Bachelor of Technology(B. Tech.)** in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of my client. A Passionate programmer and thriving analyst with the ability to apply ML algorithms to solve real-world problems.\n\n<!-- <p align=\"left\"> <img src=\"https://github-readme-stats.vercel.app/api?username=adi-code22&show_icons=true&theme=gotham\" alt=\"adi-code22\" width=\"453\" height=\"320\"/> -->\n \n<img align=\"right\" alt=\"GIF\" src=\"https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true\" width=\"500\" height=\"320\" />\n\n- \ud83d\udcbb Software Developer Engineer at **Baton Systems**\n- \ud83d\udcbb Ex-Data Analyst Intern at **Ernst & Young (EY)**.\n- \ud83d\udd2d Volunteering as **CEO** of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc-cce.netlify.app/#/) | Christ College of Engineering.\n- \ud83d\udceb How to reach me: adityakrishnanp007@gmail.com\n- \ud83c\udf31 Now learning Advanced Computer Architecture and Spring Boot.\n- \ud83d\udc6f I\u2019m looking forward to collaborate on Flutter and NLP Projects.\n- \ud83d\udcac Ask me about Flutter, Python, ML, C/C++, Competitive Programming.\n- \u26a1 Fun fact: I \u2764\ufe0f to code.\n\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<img align=\"right\" alt=\"GIF\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=adi-code22&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff\" />\n\n## Technically. . .\n- \ud83d\udcbb Languages: C/C++, Java, Python, Dart, GoLang.\n- \ud83d\udcbb Frameworks: Flutter, SpringBoot, NLP, Tensorflow/Keras, Spacy, Arduino.\n- \ud83d\udcbb Database: Firebase, MySQL, MongoDB, Hibernate, JPA.\n- \ud83d\udcbb VCS: Github, Gitlab, Bitbucket.\n- \ud83d\udcbb Hosting: Heroku, Firebase Hosting, AWS, Replit.\n- \ud83d\udcbb Hardware: nodeMCU, arduino NANO, arduino UNO.\n- \ud83d\udcbb OS: Windows, Linux.\n\n\n\n\n<p align=\"center\"><img src=\"https://github-profile-trophy.vercel.app/?username=adi-code22&rank=-C,-A\" alt=\"adi-code22\" /> </p>\n\n\n\n\n\n\n<p align=\"center\">\n  <a href=\"https://www.buymeacoffee.com/aditya22\"> <img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" height=\"50\" width=\"210\" alt=\"aditya22\" /></a>\n<br>\n<br>\n\n\n</p>\n\n\n\n",
+    "activity_summary": {
+        "adi-code22/Miscellaneous": {
+            "link": "https://github.com/adi-code22/Miscellaneous",
+            "summary": "The Miscellaneous repository has seen recent activity on updating README.md and adding functional interface code in Java on January 18, 2025. This indicates ongoing maintenance and development efforts."
+        },
+        "adi-code22/Python-Automation-WhatsApp": {
+            "link": "https://github.com/adi-code22/Python-Automation-WhatsApp",
+            "summary": "The Python-Automation-WhatsApp repository experienced a recent push update to README.md on January 28, 2025, suggesting ongoing progress and refinement."
+        }
+    },
+    "profile_summary": "Here is a concise and SEO-optimized first-person profile description highlighting the developer's strongest technical skills and expertise.\n\n\"I'm a skilled software engineer with expertise in C++, C, and Python, as well as a proficient knowledge of Java and Go-Lang. With a background in Computer Science and Engineering, my passion lies in building mobile applications with Flutter and applying machine learning concepts to tackle real-world problems. As a fast learner and team player, I thrive in diverse environments where I can leverage my skills to deliver innovative solutions. My experience spans software development, data analysis, and leadership, with a current focus on mobile app development and natural language processing.\"\n\nThis summary incorporates the following details from the profile:\n\n- Technical skills (C, C++, Python, Java, Go-Lang, Flutter, Machine Learning)\n- Background and education (Bachelor of Technology in Computer Science and Engineering)\n- Professional experience (Software Developer Engineer at Baton Systems, Ex-Data Analyst Intern at Ernst & Young (EY))\n- Technical capabilities in machine learning, mobile app development, and natural language processing.\n- Desire to collaborate on Flutter and NLP projects and continue learning."
+}

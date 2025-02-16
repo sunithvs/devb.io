@@ -1,0 +1,137 @@
+{
+    "username": "sethukumarj",
+    "name": "Sethukumar J",
+    "bio": "Software Engineer\r\n\r\n\r\n\r\n",
+    "location": "banglore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/114211073?u=5e9cc3ad5e24fe0446de6c6b24efde90d0e79179&v=4",
+    "profile_url": "https://github.com/SethukumarJ",
+    "top_languages": [
+        [
+            "Go",
+            26
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Events_Radar_Developement",
+            "description": "This is an API for managing the structure and promotion organizations  and events organized in colleges and other big communities. Tech stach includes: GO,GIN,POSTGRES,DOCKER,AWS,NGINX,JWT,RAZOR PAY,SWAGGER,POSTMAN,WIRE,OAUTH2,SMTP. Project structure:CLEAN-ARCHITECTURE.",
+            "score": 12.347535803583906,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/Events_Radar_Developement",
+            "updatedAt": "2023-12-08T09:34:24Z",
+            "isPinned": true,
+            "homepage": "https://eventsradar.online/swagger/index.html"
+        },
+        {
+            "name": "DATASTRUCTURES_GOLANG",
+            "description": "I have implemented several data structures using Go. Performed several operations in each data structures. I'll be feeding all the structure i've been implementing. Data structures using golang.",
+            "score": 3.3111627227182705,
+            "stars": 2,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/DATASTRUCTURES_GOLANG",
+            "updatedAt": "2022-11-28T16:00:04Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Go-Mongo-Crud-clean-arch",
+            "description": "This repo includes crud operation using gin-mongo db using clean architecture project structure.",
+            "score": 3.1851774911185755,
+            "stars": 1,
+            "forks": 2,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/Go-Mongo-Crud-clean-arch",
+            "updatedAt": "2023-03-12T15:04:57Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "CV-manager-frontend",
+            "description": "this repo contains the frontend with flutter for basic form validation and file upload.",
+            "score": 3.0046220597910382,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/SethukumarJ/CV-manager-frontend",
+            "updatedAt": "2024-05-20T11:59:39Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "PersonalPortfolio",
+            "description": "This is my Personal website. It included several user friendly designs and are develped in an expertised manner. Website posses DARK THEME option, Websited includes My personal details such as my work experience& Qualification, My WebDevelopment tools and laguages, Provided links to connect with me in social media. Form validation done successfully",
+            "score": 2.4192570383812946,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/SethukumarJ/PersonalPortfolio",
+            "updatedAt": "2024-07-22T17:40:45Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "sellerapp_order_svc",
+            "description": null,
+            "score": 1.54158952947849,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/sellerapp_order_svc",
+            "updatedAt": "2023-07-15T17:30:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Edgedb-Golang",
+            "description": "this repo contains the api with edgedb and golang",
+            "score": 1.5411329521207475,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/Edgedb-Golang",
+            "updatedAt": "2024-01-22T14:32:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CashierX-Transaction-Serivice",
+            "description": "this repo contain s the transaction service micro sercice for CashierX-API",
+            "score": 1.5397233939948751,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/SethukumarJ/CashierX-Transaction-Serivice",
+            "updatedAt": "2023-04-23T18:44:53Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 78,
+    "following": 34,
+    "public_repos": 56,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/sethukumar"
+        }
+    ],
+    "readme_content": "![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)\n<h1 align=\"center\">Hi \ud83d\udc4b, I'm Sethukumar J</h1>\n<h3 align=\"center\">Golang developer from India</h3>\n<img align= \"right\" alt=\"golang\" width=\"150\" src = \"https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif\">\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=sethukumarj&label=Profile%20views&color=0e75b6&style=flat\" alt=\"sethukumarj\" /> </p>\n\n\n\n\n- \ud83c\udf31 I\u2019m working as Software Engineer in sellerapp.\n\n- Click to see my Company github Profile [sethusellerapp](https://github.com/sethusellerapp)\n\n- \ud83d\udc68\u200d\ud83d\udcbb Click to know more about me [sethukumarj.com](https://sethukumarj.com) , [sethu.cusat.me](https://sethu.cusat.me)\n\n- \ud83d\udcac Ask me about **Golang,flutter etc...**\n\n- \ud83d\udceb How to reach me **sethukumarj.76@gmail.com**\n\n- \u26a1 Fun fact **I'm also an artist**\n## \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=sethukumarj&theme=discord&no-frame=false&no-bg=false&margin-w=7)\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/sethukumarj\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"sethukumarj\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://www.youtube.com/c/sethukumar\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg\" alt=\"sethukumar\" height=\"30\" width=\"40\" /></a>\n</p>\n\n# \ud83d\udcbb Tech Stack:\n![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)\n\n\n### \ud83d\udd25 Streak Stats <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30px\">&nbsp;\n<p align=\"center\"><img src=\"https://github-readme-streak-stats.herokuapp.com/?user=sethukumarj&theme=dark&hide_border=false\"  /></p>\n\n\n<hr>\n<p align=\"center\">\n <img src=\"https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif\" width=\"30px\" alt=\"Git\"/>&nbsp;<i><b>Git Activeness</b></i></p>\n \n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=sethukumarj&show_icons=true&locale=en&layout=compact&theme=gruvbox\" alt=\"ovi\" /></p>\n<p>&nbsp;<img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=sethukumarj&show_icons=true&locale=en&theme=gruvbox\" alt=\"ovi\" width=\"410\" /></p>\n<br><br><br><br><br>\n\n<hr>\n\n",
+    "profile_summary": "I'm a software engineer specializing in building scalable solutions with Go, C, and C++. With 6 years of experience in the field and a strong background in engineering, I've developed a personal project on GitHub dedicated to Go development. My work at sellerapp has given me hands-on experience with AWS, Firebase, and other technologies, enhancing my expertise in the field."
+}

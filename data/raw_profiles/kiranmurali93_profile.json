@@ -1,0 +1,137 @@
+{
+    "username": "kiranmurali93",
+    "name": "KIRAN",
+    "bio": "",
+    "location": "Noida - NCR",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44119868?u=c51c33231ecf9ac1e5240993819d79f6bb453fc8&v=4",
+    "profile_url": "https://github.com/kiranmurali93",
+    "top_languages": [
+        [
+            "Go",
+            2
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "Elixir",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gpt-cli",
+            "description": "Gpt on your cli",
+            "score": 14.06394489928029,
+            "stars": 3,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/gpt-cli",
+            "updatedAt": "2025-01-07T14:35:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "coding-challenges-go",
+            "description": "Implementations of probems in codingchallenges.fyi using golang",
+            "score": 12.456568515424575,
+            "stars": 2,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/kiranmurali93/coding-challenges-go",
+            "updatedAt": "2024-12-27T06:00:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DSC-CUSAT",
+            "description": "Website for Developer students club cusat",
+            "score": 4.677176102442927,
+            "stars": 2,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/DSC-CUSAT",
+            "updatedAt": "2021-10-07T15:34:45Z",
+            "isPinned": false,
+            "homepage": "https://kiranmurali93.github.io/DSC-CUSAT/"
+        },
+        {
+            "name": "hacktoberfest",
+            "description": "hello",
+            "score": 2.984844426782452,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/hacktoberfest",
+            "updatedAt": "2020-10-04T16:23:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my_webdevelopment-project",
+            "description": "this project is to learn web development",
+            "score": 2.983718111785612,
+            "stars": 0,
+            "forks": 6,
+            "language": "HTML",
+            "url": "https://github.com/kiranmurali93/my_webdevelopment-project",
+            "updatedAt": "2020-10-01T03:44:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pyopengl_lab",
+            "description": null,
+            "score": 2.4934828484413196,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/pyopengl_lab",
+            "updatedAt": "2021-10-26T15:05:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "greyatom-python-for-data-science",
+            "description": "A collection of projects as part of the Python for Data Science program at GreyAtom EduTech Pvt Ltd",
+            "score": 2.493055561020149,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/kiranmurali93/greyatom-python-for-data-science",
+            "updatedAt": "2020-06-25T14:54:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "elixir-llm-coms",
+            "description": "Elixir server which calls llm api",
+            "score": 1.7497426669069123,
+            "stars": 1,
+            "forks": 0,
+            "language": "Elixir",
+            "url": "https://github.com/kiranmurali93/elixir-llm-coms",
+            "updatedAt": "2024-12-27T06:00:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 87,
+    "following": 118,
+    "public_repos": 68,
+    "pull_requests_merged": 3,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 1910,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/kiran-p-k"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Kiran PK</h1>\n<h3 align=\"center\">I'm a full-stack engineer with experience at multiple startups. I'm passionate about building products. I have a strong background in both front-end and back-end development, with experience in Node.js, React.js, Vue.js, and other technologies.</h3>\n\n- \ud83d\udd2d I\u2019m currently working at **Dexif**\n\n- \ud83c\udf31 I\u2019m currently learning **Golang**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on [GPT-CLI](https://github.com/kiranmurali93/gpt-cli)\n\n- \ud83d\udcdd I regularly write articles on [blog.kiranpk.dev](https://blog.kiranpk.dev/)\n\n- \ud83d\udcac Ask me about **React, Vue, Node**\n\n- \ud83d\udceb How to reach me **kiranmurali93@gmail.com**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/kiran__pk\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"kiran__pk\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/kiran-p-k\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"kiran-p-k\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" alt=\"aws\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.postgresql.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" alt=\"typescript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://vuejs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg\" alt=\"vuejs\" width=\"40\" height=\"40\"/> </a> </p>\n",
+    "profile_summary": "As a full-stack engineer with experience at multiple startups, I bring a unique blend of front-end and back-end expertise to the table. With a strong background in JavaScript, Node.js, React.js, Vue.js and other technologies, I have a solid foundation in building scalable products. I'm currently working on expanding my skills in Go and exploring its applications in my projects."
+}

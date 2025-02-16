@@ -1,0 +1,147 @@
+{
+    "username": "ashmilhussain",
+    "name": "Ashmil Hussain",
+    "bio": "Techie | Developer",
+    "location": "Kozhikode",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29981354?u=e70f34aaca8e489bf46e43225e016120b527f805&v=4",
+    "profile_url": "https://github.com/ashmilhussain",
+    "top_languages": [
+        [
+            "Go",
+            6
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "next-netlify-starter",
+            "description": null,
+            "score": 1.5299262242014549,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ashmilhussain/next-netlify-starter",
+            "updatedAt": "2023-03-05T09:12:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "elk-docker",
+            "description": null,
+            "score": 1.5294072621259702,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/ashmilhussain/elk-docker",
+            "updatedAt": "2023-03-05T09:12:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gatsbyTest",
+            "description": null,
+            "score": 1.5258070035864415,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ashmilhussain/gatsbyTest",
+            "updatedAt": "2023-03-05T09:12:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Kafka",
+            "description": null,
+            "score": 1.5218713646437338,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/ashmilhussain/Kafka",
+            "updatedAt": "2023-03-05T09:12:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GoInterfaceSample",
+            "description": null,
+            "score": 1.5212187901017729,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/ashmilhussain/GoInterfaceSample",
+            "updatedAt": "2023-03-05T09:12:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GO-RestWithUnitTest",
+            "description": null,
+            "score": 1.5204584047302938,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/ashmilhussain/GO-RestWithUnitTest",
+            "updatedAt": "2023-03-05T09:12:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "goCroneExample",
+            "description": "example for crone job in golang",
+            "score": 1.519336185572999,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/ashmilhussain/goCroneExample",
+            "updatedAt": "2023-03-05T09:12:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "goRestAPI_Sample",
+            "description": "Go REST API Sample",
+            "score": 1.519078563929352,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/ashmilhussain/goRestAPI_Sample",
+            "updatedAt": "2023-03-05T09:12:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 12,
+    "following": 21,
+    "public_repos": 46,
+    "pull_requests_merged": 6,
+    "issues_closed": 15,
+    "achievements": {
+        "total_contributions": 207,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ashmilH"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "ashmilhussain/worktoday.today": {
+            "link": "https://github.com/ashmilhussain/worktoday.today",
+            "summary": "Recent activities in the worktoday.today repository involve updates to improve website responsiveness, SEO, and user experience. Added responsive design features, updated images, and fixed bugs to enhance overall performance."
+        },
+        "sirocco-ventures/raggenie": {
+            "link": "https://github.com/sirocco-ventures/raggenie",
+            "summary": "Raggenie activities include updates to the DSLoader, adding MariaDB integration, and refixing the serve Raggenie UI using fastapi. New features include CSV loading, file type validation, and connectors."
+        }
+    },
+    "profile_summary": "I'm Ashmil Hussain, a seasoned developer leveraging my expertise in Go, JavaScript, and Shell scripting to build efficient and scalable solutions. With 46 active repositories and 12 keen followers, I continue to engage with the developer community through open-source contributions and high-quality code."
+}

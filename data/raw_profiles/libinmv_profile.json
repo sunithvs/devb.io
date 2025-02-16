@@ -1,0 +1,132 @@
+{
+    "username": "libinmv",
+    "name": "Libin Mathew",
+    "bio": "Software Engineer\r\n",
+    "location": "Kottayam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/56650178?u=428f7771a9dbba028a626abbce9a7adbc2a988aa&v=4",
+    "profile_url": "https://github.com/libinmv",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Python",
+            6
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "foodundo-web",
+            "description": "Lunch slots booking service Frontend",
+            "score": 10.154466617819706,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/libinmv/foodundo-web",
+            "updatedAt": "2023-05-11T08:41:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "foodindo-app",
+            "description": "Lunch slots booking service",
+            "score": 10.154102083472923,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/libinmv/foodindo-app",
+            "updatedAt": "2023-05-01T11:58:01Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "resume",
+            "description": "Resume Website",
+            "score": 10.073255135528465,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/libinmv/resume",
+            "updatedAt": "2023-01-04T10:13:39Z",
+            "isPinned": true,
+            "homepage": "resume-libinmv.vercel.app"
+        },
+        {
+            "name": "Python",
+            "description": null,
+            "score": 3.181100214209023,
+            "stars": 1,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/libinmv/Python",
+            "updatedAt": "2023-07-19T06:04:00Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "HactoberFest",
+            "description": null,
+            "score": 2.1497018434388373,
+            "stars": 0,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/libinmv/HactoberFest",
+            "updatedAt": "2021-10-16T08:08:39Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "java",
+            "description": null,
+            "score": 1.107713547495768,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/libinmv/java",
+            "updatedAt": "2021-10-04T02:30:41Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Server-Based-Tasks-Manager",
+            "description": "Python http server based tasks manager with minimal UI",
+            "score": 0.28077614189870803,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/libinmv/Server-Based-Tasks-Manager",
+            "updatedAt": "2024-08-02T05:51:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Tasks-Manager",
+            "description": "A terminal tasks manager",
+            "score": 0.2705053201666806,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/libinmv/Tasks-Manager",
+            "updatedAt": "2024-06-06T16:41:24Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 18,
+    "public_repos": 33,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 19,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a software engineer, I leverage my expertise in Rust, Python, and Java to design and develop efficient, scalable solutions. With a strong background in programming, I continually push code improvements and optimizations through active contributions to my 33 public repositories, fostering a sense of community and growth with my network of 11 followers. I'm dedicated to translating innovative ideas into reality through hands-on experience in software development."
+}

@@ -1,0 +1,146 @@
+{
+    "username": "apoteotico",
+    "name": "Apo",
+    "bio": "Open to Work \r\n\r\nBusco trabajo o proyectos donde colaborar como trainee/junior",
+    "location": "Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74223319?u=241f4c6e96eeb2202f33c43084c7f1b78a33efea&v=4",
+    "profile_url": "https://github.com/Apoteotico",
+    "top_languages": [
+        [
+            "JavaScript",
+            14
+        ],
+        [
+            "Ruby",
+            1
+        ],
+        [
+            "HTML",
+            11
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Portfolio",
+            "description": "Its me Portfolio",
+            "score": 12.350480585728143,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Apoteotico/Portfolio",
+            "updatedAt": "2023-05-31T18:54:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Working",
+            "description": "Working!!!",
+            "score": 12.350480585728143,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Apoteotico/Working",
+            "updatedAt": "2023-04-13T22:50:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RgLibrary",
+            "description": null,
+            "score": 11.53526002842145,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Apoteotico/RgLibrary",
+            "updatedAt": "2023-04-14T20:00:52Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Apoteotico",
+            "description": null,
+            "score": 2.427005470370268,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Apoteotico/Apoteotico",
+            "updatedAt": "2025-01-22T14:59:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "library",
+            "description": null,
+            "score": 2.346654865192335,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Apoteotico/library",
+            "updatedAt": "2023-04-13T22:50:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project1",
+            "description": null,
+            "score": 2.346029226129733,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Apoteotico/project1",
+            "updatedAt": "2023-04-13T22:50:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 2.3332694450193676,
+            "stars": 2,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/Apoteotico/github-slideshow",
+            "updatedAt": "2023-04-13T22:50:16Z",
+            "isPinned": false,
+            "homepage": "https://lab.github.com/githubtraining/introduction-to-github"
+        },
+        {
+            "name": "crudsocial",
+            "description": "creaci\u00f3n de red social stack mern: control de usuarios, crud de posts.",
+            "score": 1.5547893615426576,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Apoteotico/crudsocial",
+            "updatedAt": "2024-02-09T18:18:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 11,
+    "following": 28,
+    "public_repos": 54,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 44,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/eitel-belinzoni/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.youtube.com/@ApoteoticoDevApo/playlists"
+        },
+        {
+            "provider": "generic",
+            "url": "https://discord.gg/4rwCrKhCKt"
+        }
+    ],
+    "readme_content": "Open To Work\n\n\u00a1Bienvenido!  \n\nEn este repositorio encontrar\u00e1s proyectos personales que estoy desarrollando para practicar mis habilidades en HTML, CSS y JS y el stack mern.\n\nProyectos incluidos\nActualmente, este repositorio incluye los siguientes proyectos:\n\n[https://apoteotico.github.io/SalchiNFT/](https://apoteotico.github.io/SalchiNFT/)\n\n[https://apoteotico.github.io/Porfolio2024/](https://apoteotico.github.io/Porfolio2024/)\n\n[https://github.com/Apoteotico/Portfolio](https://apoteotico.github.io/Portfolio/)\n\n[https://web-plomeria-cacho.vercel.app/](https://web-plomeria-cacho.vercel.app/)\n\n[https://apoteotico.github.io/Calculadora-interes-compuesto-ual-](https://apoteotico.github.io/Calculadora-interes-compuesto-ual-/)\n\n[Proyecto Full Stack MERN Blog (falta agregar funcion de comentarios y deploy) Click para ver el codigo](https://github.com/Apoteotico/comision-3-Eitel-Hugo-Belinzoni)\n\n******\nPara poder ejecutar cualquiera de estos proyectos en tu m\u00e1quina local, necesitar\u00e1s seguir estos pasos:\n\nClona el repositorio en tu m\u00e1quina local:\n```\ngit clone https://github.com/Apoteotico/\"repository-you-want-to-test\"\n```\nAbre el proyecto que quieras ejecutar en tu editor de c\u00f3digo preferido.\n\nAbre el archivo index.html en tu navegador web.\n\n\u00a1Y listo! Si tienes alguna duda o sugerencia sobre alguno de mis proyectos, no dudes en contactarme. Espero que estos proyectos te resulten interesantes y \u00fatiles para tus propios estudios en HTML, CSS y JS.\n\nContribuci\u00f3n\nPuedes hacer un pull request con tus sugerencias o mejoras. \u00a1Estar\u00e9 feliz de revisarlo y discutirlo contigo!\n\nid discord: 431652232593932299\nname discord: apoteotico\n\nPuede ayudar con un caf\u00e9 o con un curso de udemy que son mas baratos:\nhttps://www.buymeacoffee.com/DevApoteotico\n<!--\n**Apoteotico/Apoteotico** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

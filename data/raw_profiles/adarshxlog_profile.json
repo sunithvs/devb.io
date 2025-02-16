@@ -1,0 +1,40 @@
+{
+    "username": "adarshxlog",
+    "name": "adarshxlog",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/197255121?v=4",
+    "profile_url": "https://github.com/adarshxlog",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "test-repo",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshxlog/test-repo",
+            "updatedAt": "2025-02-09T13:10:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm adarshxlog, a skilled TypeScript developer with a focus on crafting efficient and scalable software solutions. With experience in building and maintaining a range of projects, my expertise spans the development and implementation of robust TypeScript frameworks and tools, allowing for seamless integration into larger system architectures."
+}

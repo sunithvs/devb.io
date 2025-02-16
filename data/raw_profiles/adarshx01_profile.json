@@ -1,0 +1,142 @@
+{
+    "username": "adarshx01",
+    "name": "Adarsh Vishwakarma",
+    "bio": "Web Dev | Web-Scraping | Deep Learning | Computer Vision | Hacking devices |",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/119555180?u=b64bba8400ec8335a5a2f3491f595dc1cd96a3a9&v=4",
+    "profile_url": "https://github.com/adarshx01",
+    "top_languages": [
+        [
+            "TypeScript",
+            15
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Gstreamer-UDP",
+            "description": "Streaming LIVE webcam feed using GStreamer . A Python-based GStreamer application for streaming video between a sender and receiver using UDP transmission over same network.  ",
+            "score": 10.254597858606123,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/adarshx01/Gstreamer-UDP",
+            "updatedAt": "2024-02-21T18:45:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DatingApp",
+            "description": null,
+            "score": 10.253656757859059,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adarshx01/DatingApp",
+            "updatedAt": "2024-03-22T15:02:37Z",
+            "isPinned": true,
+            "homepage": "https://datingapp-blue.vercel.app"
+        },
+        {
+            "name": "MyPortfolio",
+            "description": null,
+            "score": 10.16601788005404,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/adarshx01/MyPortfolio",
+            "updatedAt": "2023-12-31T14:17:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "QwertyRumble",
+            "description": null,
+            "score": 10.162473282848255,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/adarshx01/QwertyRumble",
+            "updatedAt": "2023-11-04T05:47:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio",
+            "description": "A simple portfolio page built using Aeternity, Shadcn, and Tailwind CSS, fetching data from a Neon database connected via Prisma ORM. It includes an admin page for managing content.",
+            "score": 2.724199907011122,
+            "stars": 1,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/Portfolio",
+            "updatedAt": "2025-01-16T13:36:15Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-adarsh-vishwakarmas-projects.vercel.app"
+        },
+        {
+            "name": "Ai-HR",
+            "description": null,
+            "score": 2.683875083188502,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/adarshx01/Ai-HR",
+            "updatedAt": "2025-01-07T11:27:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "uzbpass1",
+            "description": null,
+            "score": 1.9323865015730952,
+            "stars": 0,
+            "forks": 2,
+            "language": "TypeScript",
+            "url": "https://github.com/adarshx01/uzbpass1",
+            "updatedAt": "2024-08-27T17:01:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "clockify",
+            "description": "A Smart Clock with NodeMCU and OLED display featuring time, task management, alarms, timers, task notifications, and Wi-Fi connectivity for enhanced productivity, all controlled using a LocalNetwork Control Console on any browser.",
+            "score": 1.765921665035866,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/adarshx01/clockify",
+            "updatedAt": "2025-02-01T11:39:31Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 69,
+    "following": 70,
+    "public_repos": 83,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 393,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://www.techorb.wiki"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.pexels.com/@adarshvishwakarma"
+        }
+    ],
+    "readme_content": "\n\n<!--\n### Hi there \ud83d\udc4b\n**adarshx01/adarshx01** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n<h1 align=\"center\">Hi \ud83d\udc4b, I'm Adarsh Vishwakarma</h1>\n<h3 align=\"center\">A passionate ML and Web Dev from India</h3>\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=adarshx01&label=Profile%20views&color=0e75b6&style=flat\" alt=\"adarshx01\" /> </p>\n\n<p align=\"left\"> <a href=\"https://github.com/ryo-ma/github-profile-trophy\"><img src=\"https://github-profile-trophy.vercel.app/?username=adarshx01\" alt=\"adarshx01\" /></a> </p>\n\n<p align=\"left\"> <a href=\"https://twitter.com/techorbin\" target=\"blank\"><img src=\"https://img.shields.io/twitter/follow/techorbin?logo=twitter&style=for-the-badge\" alt=\"techorbin\" /></a> </p>\n\n- \ud83d\udd2d I\u2019m currently working on [Gitfted Books (An AI based Book selling and Education Platform)](<link to be hosted>)\n\n- \ud83c\udf31 I\u2019m currently learning **Machine Learning, Data Science, Kotlin**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on [eVillage](<Link to be hosted>)\n\n- \ud83e\udd1d I\u2019m looking for help with [eVillage](<Coming UP>)\n\n- \ud83d\udc68\u200d\ud83d\udcbb All of my projects are available at [adarshx01.vercel.app](adarshx01.vercel.app)\n\n- \ud83d\udcdd I regularly write articles on [<Link yet to be updated>](<Link yet to be updated>)\n\n- \ud83d\udcac Ask me about **react js, next js , javascript , c++ , tensorflow js, machine learning inf**\n\n- \ud83d\udceb How to reach me **vish.adarsh01@gmail.com**\n\n- \ud83d\udcc4 Know about my experiences [https://drive.google.com/file/d/1g0gPPwunsMac9GbCeMymX-tdLjmn5l9O/view?usp=sharing](https://drive.google.com/file/d/1g0gPPwunsMac9GbCeMymX-tdLjmn5l9O/view?usp=sharing)\n\n- \u26a1 Fun fact **Ping me to hack someone's IG**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://dev.to/adarshx01\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg\" alt=\"adarshx01\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://twitter.com/techorbin\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"techorbin\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/https://in.linkedin.com/in/adarshx01\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"https://in.linkedin.com/in/adarshx01\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://instagram.com/techorb.in\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg\" alt=\"techorb.in\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://www.youtube.com/c/techorb\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg\" alt=\"techorb\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<!-- <p align=\"left\"> <a href=\"https://www.arduino.cc/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/arduino-1.svg\" alt=\"arduino\" width=\"40\" height=\"40\"/> </a> <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg\" alt=\"bootstrap\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.cprogramming.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg\" alt=\"c\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg\" alt=\"cplusplus\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.djangoproject.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/django.svg\" alt=\"django\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/figma/figma-icon.svg\" alt=\"figma\" width=\"40\" height=\"40\"/> </a> <a href=\"https://firebase.google.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg\" alt=\"firebase\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.framer.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/framer/framer-icon.svg\" alt=\"framer\" width=\"40\" height=\"40\"/> </a> <a href=\"https://cloud.google.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg\" alt=\"gcp\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nestjs.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg\" alt=\"nestjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/nextjs-2.svg\" alt=\"nextjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.nginx.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg\" alt=\"nginx\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://opencv.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg\" alt=\"opencv\" width=\"40\" height=\"40\"/> </a> <a href=\"https://pandas.pydata.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg\" alt=\"pandas\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.php.net\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg\" alt=\"php\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.postgresql.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://postman.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg\" alt=\"postman\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://scikit-learn.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg\" alt=\"scikit_learn\" width=\"40\" height=\"40\"/> </a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg\" alt=\"tailwind\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.tensorflow.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg\" alt=\"tensorflow\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" alt=\"typescript\" width=\"40\" height=\"40\"/> </a> </p>\n -->\n<h3 align=\"left\">Support:</h3>\n<p><a href=\"https://www.buymeacoffee.com/adarshx01\"> <img align=\"left\" src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" height=\"50\" width=\"210\" alt=\"adarshx01\" /></a><a href=\"https://ko-fi.com/adarshx01\"> <img align=\"left\" src=\"https://cdn.ko-fi.com/cdn/kofi3.png?v=3\" height=\"50\" width=\"210\" alt=\"adarshx01\" /></a></p><br><br>\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=adarshx01&show_icons=true&locale=en&layout=compact\" alt=\"adarshx01\" /></p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=adarshx01&show_icons=true&locale=en\" alt=\"adarshx01\" /></p>\n\n<p><img align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=adarshx01&\" alt=\"adarshx01\" /></p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

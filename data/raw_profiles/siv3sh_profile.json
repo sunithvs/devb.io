@@ -1,0 +1,142 @@
+{
+    "username": "siv3sh",
+    "name": "Sivesh",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135200528?v=4",
+    "profile_url": "https://github.com/siv3sh",
+    "top_languages": [
+        [
+            "Jupyter Notebook",
+            4
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "NLP",
+            "description": null,
+            "score": 10.603644406572768,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/siv3sh/NLP",
+            "updatedAt": "2025-02-05T04:58:28Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Computer-Vision-",
+            "description": null,
+            "score": 10.51896438439179,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/siv3sh/Computer-Vision-",
+            "updatedAt": "2025-01-30T07:58:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Deep-Learning",
+            "description": null,
+            "score": 10.51896438439179,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/siv3sh/Deep-Learning",
+            "updatedAt": "2025-02-05T05:12:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Smart_Garbage_Classification",
+            "description": null,
+            "score": 10.418582969913436,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/siv3sh/Smart_Garbage_Classification",
+            "updatedAt": "2025-01-11T15:25:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Face-Recognition-using-OpenCV",
+            "description": null,
+            "score": 10.362044707463912,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/siv3sh/Face-Recognition-using-OpenCV",
+            "updatedAt": "2024-12-17T07:21:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Linkedin-Clone--React-",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/siv3sh/Linkedin-Clone--React-",
+            "updatedAt": "2024-12-17T07:56:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JAVA",
+            "description": null,
+            "score": 0.3155509708864671,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/siv3sh/JAVA",
+            "updatedAt": "2025-01-07T04:58:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "football_management",
+            "description": null,
+            "score": 0.2993632367870326,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/siv3sh/football_management",
+            "updatedAt": "2024-09-20T09:08:30Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 3,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 50,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "siv3sh/Deep-Learning": {
+            "link": "https://github.com/siv3sh/Deep-Learning",
+            "summary": "Recent activities on siv3sh/Deep-Learning repository include file uploads and push commits related to L1 and L2 regularization, multilayer perceptron, and note taking."
+        },
+        "siv3sh/Computer-Vision-": {
+            "link": "https://github.com/siv3sh/Computer-Vision-",
+            "summary": "A recent commit was made to README.md at siv3sh/Computer-Vision- repository."
+        }
+    },
+    "profile_summary": "I'm Sivesh, a skilled software developer with expertise in data-driven solutions. With proficiency in Python and JavaScript, I excel in creating efficient algorithms and web applications. My hands-on experience with Jupyter Notebooks enables me to effectively explore, visualize, and communicate complex data insights. Through innovative coding and data analysis, I help organizations unlock valuable business intelligence and drive informed decision-making."
+}

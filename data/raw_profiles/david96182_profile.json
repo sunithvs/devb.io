@@ -1,0 +1,132 @@
+{
+    "username": "david96182",
+    "name": "David Puerta Mart\u00edn",
+    "bio": "Software Engineer",
+    "location": "Habana, Cuba",
+    "avatar_url": "https://avatars.githubusercontent.com/u/88980449?u=a0d45afb4e542f8b061b1f3c5f624c03f1e8c137&v=4",
+    "profile_url": "https://github.com/david96182",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ninjemail",
+            "description": "Python library for automated email account creation. Create multiple accounts easily with support for major email providers.",
+            "score": 25.158888444436293,
+            "stars": 119,
+            "forks": 34,
+            "language": "Python",
+            "url": "https://github.com/david96182/ninjemail",
+            "updatedAt": "2025-02-14T08:12:38Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "bot-detection-lab",
+            "description": "Bot detection test environment and tool to obtain characteristics for the detection of bots",
+            "score": 14.029677779573685,
+            "stars": 3,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/david96182/bot-detection-lab",
+            "updatedAt": "2024-09-19T17:56:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "rapidchat",
+            "description": "Real-time chat app built with Django",
+            "score": 12.935118129841177,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/david96182/rapidchat",
+            "updatedAt": "2024-01-15T02:58:09Z",
+            "isPinned": true,
+            "homepage": "https://rapidchat-264d.onrender.com/"
+        },
+        {
+            "name": "PicBookmark",
+            "description": "Django-based social website that allows users to save and share images from other websites.",
+            "score": 12.435920945292883,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/david96182/PicBookmark",
+            "updatedAt": "2024-05-06T20:43:18Z",
+            "isPinned": true,
+            "homepage": "https://picbookmark.onrender.com/account/"
+        },
+        {
+            "name": "dayjango",
+            "description": "Dayjango: A Django-based daily news blog dedicated to providing the latest updates and insights about Django development.",
+            "score": 11.542782989968238,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/david96182/dayjango",
+            "updatedAt": "2024-01-15T01:06:36Z",
+            "isPinned": true,
+            "homepage": "https://dayjango.onrender.com/"
+        },
+        {
+            "name": "pokemon-game",
+            "description": "Pokemon game where you have to guess the Pokemon according to the silhouette created with Vue",
+            "score": 10.071747845462994,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/david96182/pokemon-game",
+            "updatedAt": "2022-03-22T03:29:37Z",
+            "isPinned": true,
+            "homepage": "https://pokemon-guessgame.netlify.app"
+        },
+        {
+            "name": "parallel-dfs-openmp",
+            "description": "Sequential and parallel implementation of depth-first search algorithm using OpenMP.",
+            "score": 1.4578792297221896,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/david96182/parallel-dfs-openmp",
+            "updatedAt": "2022-12-23T05:26:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "log-processor",
+            "description": "Log processor for nginx or apache that extracts user and user sessions and calculates other types of useful data for bot detection or traffic analysis",
+            "score": 1.456865350916945,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/david96182/log-processor",
+            "updatedAt": "2021-11-11T19:24:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16,
+    "following": 20,
+    "public_repos": 33,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 346,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm David</h1>\n\n<p align=\"center\">A passionate Python Developer who loves to bring creative ideas to life through code. I'm fascinated by the power of open source and enjoy exploring new technologies.</p>\n\n---\n\n- \ud83c\udf31 I\u2019m currently working remote as a **Python Developer** specializing in Backend Development.\n- \ud83d\udc6f I\u2019m looking to collaborate on open source projects, particularly those centered around the dynamic world of Django development.\n- \ud83d\udcac Ask me about **Web Development**, especially Django, VueJS, Flask & Javascript.\n- \ud83d\udceb How to reach me [puertadavid96182@gmail.com](mailto:puertadavid96182@gmail.com)\n- \u26a1 Fun fact: When I'm not coding, I'm probably navigating through virtual realms in video games or binge-watching captivating series and movies, indulging in the diverse stories and experiences they offer.\n\n---\n\n<h3 align=\"left\">Connect with me:</h3>\n\n[![Linkedin Badge](https://img.shields.io/badge/-DavidPuerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-puerta-mart\u00edn-9b89b920b/)](https://www.linkedin.com/in/david-puerta-mart\u00edn-9b89b920b/)  [![Website Badge](https://img.shields.io/badge/-portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://david96182.github.io/)](https://david96182.github.io/)  [![Gmail Badge](https://img.shields.io/badge/-puertadavid96182@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puertadavid96182@gmail.com)](mailto:puertadavid96182@gmail.com)\n\n---\n\n<h3 align=\"left\">Languages and Tools:</h3>\n\n<p>\n    <img src=\"https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Python-C5A600?style=flat-square&logo=Python&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Postgresql-5849BE?style=flat-square&logo=Postgresql&logoColor=blue\"/>\n    <img src=\"https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Linux-A80030?style=flat-square&logo=Linux&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Archlinux-000000?style=flat-square&logo=Archlinux&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=Gnubash&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Javascript-F29111?style=flat-square&logo=Javascript&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Docker-23A9F2?style=flat-square&logo=Docker&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-MongoDB-42B883?style=flat-square&logo=MongoDB&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Postman-F29111?style=flat-square&logo=Postman&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-NodeJS-42B883?style=flat-square&logo=NodeJS&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Selenium-66CC66?style=flat-square&logo=Selenium&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Nginx-0D9579?style=flat-square&logo=Nginx&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Django-053B30?style=flat-square&logo=Django&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-uWSGI-000000?style=flat-square&logo=uWSGI&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Redis-990000?style=flat-square&logo=Redis&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Jenkins-990000?style=flat-square&logo=Jenkins&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-UML-BDA558?style=flat-square&logo=UML&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Bootstrap-470E62?style=flat-square&logo=Bootstrap&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Wireshark-87CEEB?style=flat-square&logo=Wireshark&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Lvim-5849BE?style=flat-square&logo=Lvim&logoColor=blue\"/>\n    <img src=\"https://img.shields.io/badge/-Web2py-42B883?style=flat-square&logo=Web2py&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Mariadb-000000?style=flat-square&logo=Mariadb&logoColor=white\"/>\n    <img src=\"https://img.shields.io/badge/-Rust-F29111?style=flat-square&logo=Rust&logoColor=red\"/>\n    <img src=\"https://img.shields.io/badge/-Odoo-875A7B?style=flat-square&logo=Odoo&logoColor=pink\"/>\n    <img src=\"https://img.shields.io/badge/-React-58C4DC?style=flat-square&logo=React\"/>\n</p>\n\n---\n\n<p align = \"center\">\n  <img src = \"https://github-readme-stats.vercel.app/api?username=david96182&show_icons=true&theme=bear\" width = 400>\n  <img src = \"https://github-readme-streak-stats.herokuapp.com?user=david96182&theme=dark&hide_border=true\" width = 400>\n</p>\n",
+    "profile_summary": "As a seasoned software engineer with a passion for bringing creative ideas to life, I've honed expertise in Python, C++ and TypeScript. With extensive experience in backend development and a demonstrated track record of delivering high-quality solutions, I'm well-equipped to tackle complex challenges. Active in the open-source community, I'm also drawn to exploring new technologies and collaborating on innovative projects. Currently working as a remote Python developer, my expertise spans across Django development, web development, and a broad range of technologies."
+}

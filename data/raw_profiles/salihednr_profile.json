@@ -1,0 +1,132 @@
+{
+    "username": "salihednr",
+    "name": "Salih Edneer",
+    "bio": "WEB3 | BLOCKCHAIN | CRYPTO",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98180446?v=4",
+    "profile_url": "https://github.com/salihednr",
+    "top_languages": [
+        [
+            "C++",
+            6
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "DSA-IN-CPP",
+            "description": "Data Structures And Algorithms In C++",
+            "score": 10.073859149672856,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/salihednr/DSA-IN-CPP",
+            "updatedAt": "2023-01-31T20:30:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "HTML-CSS-BOOTSTRAP",
+            "description": null,
+            "score": 10.073348888494175,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/salihednr/HTML-CSS-BOOTSTRAP",
+            "updatedAt": "2022-08-22T11:24:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "JAVA",
+            "description": null,
+            "score": 10.073348888494175,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/salihednr/JAVA",
+            "updatedAt": "2022-08-19T18:56:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CPP",
+            "description": "Complete C++",
+            "score": 10.07257324529449,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/salihednr/CPP",
+            "updatedAt": "2022-08-19T18:49:18Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "javascript-30-days-project",
+            "description": "This Repository Is For 30 Days Javascript Beginner, Intermediate Level Project So That Anyone Can Master  Javascript By Doing This Projects",
+            "score": 0.1602994489876626,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/salihednr/javascript-30-days-project",
+            "updatedAt": "2023-09-24T08:57:33Z",
+            "isPinned": false,
+            "homepage": "https://javascript-30-days-project.vercel.app"
+        },
+        {
+            "name": "swiggy-clone",
+            "description": "creating swiggy clone in react to learn react js",
+            "score": 0.15941648448653353,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/salihednr/swiggy-clone",
+            "updatedAt": "2023-09-06T09:12:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ictest2024",
+            "description": "website made for ictest2024",
+            "score": 0.15707290377140282,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/salihednr/ictest2024",
+            "updatedAt": "2023-07-15T17:20:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Flask-Learn",
+            "description": null,
+            "score": 0.15600198409770594,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/salihednr/Flask-Learn",
+            "updatedAt": "2023-06-19T18:14:29Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 19,
+    "following": 24,
+    "public_repos": 26,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 10,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "<center><h1> Hi \ud83d\udc4b I am <a href=\"http://www.salihedneer.com\">Salih Edneer.</a> </h1></center>\nExploring New Technologies, Improving Myself Everyday <br>\n<br>\n- \ud83d\udcda I\u2019m doing my B.Tech CSE from Model engineering college,Thrikakkara <br>\n-  C++, Problem Solving, CP\n\n<img src=\"https://github-readme-stats.vercel.app/api?username=salihednr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515\">\n",
+    "profile_summary": null
+}

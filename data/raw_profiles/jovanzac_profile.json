@@ -1,0 +1,132 @@
+{
+    "username": "jovanzac",
+    "name": "Jovan George Zacharia",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/68279541?v=4",
+    "profile_url": "https://github.com/jovanzac",
+    "top_languages": [
+        [
+            "Python",
+            13
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Chess",
+            "description": null,
+            "score": 10.151674995492817,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jovanzac/Chess",
+            "updatedAt": "2023-02-18T06:52:47Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CS50-s-Introduction-to-Artificial-Intelligence",
+            "description": "A collection of my work in CS50's Introduction to Artificial Intelligence",
+            "score": 10.13909815939553,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jovanzac/CS50-s-Introduction-to-Artificial-Intelligence",
+            "updatedAt": "2023-07-17T09:27:18Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CS50-Final",
+            "description": null,
+            "score": 10.070062520345896,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jovanzac/CS50-Final",
+            "updatedAt": "2021-12-13T06:33:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Captain",
+            "description": null,
+            "score": 10.06817255895108,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jovanzac/Captain",
+            "updatedAt": "2021-01-28T07:35:27Z",
+            "isPinned": true,
+            "homepage": "http://1337inc-captain.website2.me/"
+        },
+        {
+            "name": "Server",
+            "description": null,
+            "score": 10.06817255895108,
+            "stars": 0,
+            "forks": 0,
+            "language": "Tcl",
+            "url": "https://github.com/jovanzac/Server",
+            "updatedAt": "2020-12-08T10:00:35Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "iris_frontend",
+            "description": null,
+            "score": 2.712469180462114,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/jovanzac/iris_frontend",
+            "updatedAt": "2024-10-19T06:41:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sign-Laguage-Recognition",
+            "description": "A software that uses action recognition to identify signs in Emirati Sign Language. Can also be used to detect signs in other sign languages,",
+            "score": 0.300575145323871,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/jovanzac/Sign-Laguage-Recognition",
+            "updatedAt": "2024-09-23T03:50:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Chat_based_ticket_management",
+            "description": null,
+            "score": 0.2820545609606904,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/jovanzac/Chat_based_ticket_management",
+            "updatedAt": "2024-07-28T12:05:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 7,
+    "public_repos": 31,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 765,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a proficient software developer with a strong background in Python, C, and data analysis with Jupyter Notebook, I utilize my technical expertise to drive innovation and streamline processes. With a proven track record of active development across 31 public repositories, I have established myself as a reliable and skilled professional in my network, with the influence of 6 dedicated followers. Throughout my career, I have been passionate about harnessing the power of technology to simplify complex problems, and I look forward to collaborating with like-minded individuals to shape the future of software development."
+}

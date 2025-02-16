@@ -1,0 +1,41 @@
+{
+    "username": "cletusreji",
+    "name": "Cletus Reji",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/50527452?u=ab8ed787cceebdfb325f4113093ca8c80ef4962a&v=4",
+    "profile_url": "https://github.com/CletusReji",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "emotion-recognition",
+            "description": null,
+            "score": 1.8522955620395996,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/CletusReji/emotion-recognition",
+            "updatedAt": "2025-02-12T09:04:53Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 6,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 6,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

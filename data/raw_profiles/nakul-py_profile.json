@@ -1,0 +1,94 @@
+{
+    "username": "nakul-py",
+    "name": "verma-nakul",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173621577?u=ba7158e3d3a60ad78cd3acfbe9a6db4d3503d4a1&v=4",
+    "profile_url": "https://github.com/nakul-py",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "lukan",
+            "description": "Project in working",
+            "score": 2.751653201060147,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/nakul-py/lukan",
+            "updatedAt": "2025-02-16T10:25:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "pong-game",
+            "description": null,
+            "score": 2.7332157974345743,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/nakul-py/pong-game",
+            "updatedAt": "2024-10-07T15:27:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Python",
+            "description": "A python repo",
+            "score": 1.6925518258934493,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nakul-py/Python",
+            "updatedAt": "2025-02-10T14:29:38Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 8,
+    "public_repos": 50,
+    "pull_requests_merged": "100+",
+    "issues_closed": "100+",
+    "achievements": {
+        "total_contributions": 670,
+        "repositories_contributed_to": 38
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "nakul-py/lukan": {
+            "link": "https://github.com/nakul-py/lukan",
+            "summary": "Multiple significant activities occurred on the repository over the past 24 hours, focusing on license addition, readme updates, and implementing CI/CD pipeline functionalities."
+        },
+        "nakul-py/readme": {
+            "link": "https://github.com/nakul-py/readme",
+            "summary": "Activity on the repository consisted of readme updates and the necessary pull requests and push events to implement the changes."
+        },
+        "nakul-py/license": {
+            "link": "https://github.com/nakul-py/license",
+            "summary": "A license file was created and implemented through multiple pull requests and push events to finalize the addition of a license within the repository."
+        },
+        "nakul-py/nakul-license": {
+            "link": "https://github.com/nakul-py/nakul-license",
+            "summary": "Multiple pull requests and push events were involved in the creation of a license file and the implementation of the necessary changes."
+        },
+        "nakul-py/nakul-py-patch-1": {
+            "link": "https://github.com/nakul-py/nakul-py-patch-1",
+            "summary": "A simpleCI.yml file was created and added to the repository through a series of updates and a merge pull request."
+        },
+        "nakul-py/npm": {
+            "link": "https://github.com/nakul-py/npm",
+            "summary": "An npm package was added to the project through the creation of a pull request and subsequent push event to implement the necessary changes."
+        }
+    },
+    "profile_summary": "Highly skilled full-stack developer with expertise in C++ and JavaScript, leveraging over 50 public repositories to drive innovative solutions. As a seasoned developer with a passion for complex algorithm optimization, I thrive in environments where technical prowess meets problem-solving brilliance. When not refining code, you can find me collaborating with like-minded professionals to build cutting-edge applications that solve real-world challenges. With a strong professional network and a dedication to staying at the forefront of industry advancements, I consistently deliver top-notch software that inspires trust and drives results."
+}

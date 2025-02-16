@@ -1,0 +1,142 @@
+{
+    "username": "afsalkalladi",
+    "name": "Afsal K",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/76440747?v=4",
+    "profile_url": "https://github.com/Afsalkalladi",
+    "top_languages": [
+        [
+            "Python",
+            5
+        ],
+        [
+            "Astro",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "sketch",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Afsalkalladi/sketch",
+            "updatedAt": "2025-01-18T18:57:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "attandence_tracker",
+            "description": "Python code to log our daily college attendece ",
+            "score": 0.2924034339384601,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Afsalkalladi/attandence_tracker",
+            "updatedAt": "2024-09-01T17:06:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git_test",
+            "description": null,
+            "score": 0.26018218186651837,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Afsalkalladi/git_test",
+            "updatedAt": "2024-04-04T07:45:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "odin-recipes",
+            "description": null,
+            "score": 0.26018218186651837,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Afsalkalladi/odin-recipes",
+            "updatedAt": "2024-04-04T11:53:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hirst_painting",
+            "description": null,
+            "score": 0.16309950410660812,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Afsalkalladi/hirst_painting",
+            "updatedAt": "2023-11-15T09:31:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "oop-coffee-machine-start",
+            "description": null,
+            "score": 0.16309950410660812,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Afsalkalladi/oop-coffee-machine-start",
+            "updatedAt": "2023-11-15T09:51:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ping_pong",
+            "description": null,
+            "score": 0.16309950410660812,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Afsalkalladi/ping_pong",
+            "updatedAt": "2023-11-15T09:31:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "snake_game",
+            "description": null,
+            "score": 0.16309950410660812,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Afsalkalladi/snake_game",
+            "updatedAt": "2023-11-15T09:33:02Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 8,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 67,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Afsalkalladi/sketch": {
+            "link": "https://github.com/Afsalkalladi/sketch",
+            "summary": "Recent activities on 'Afsalkalladi/sketch' included corrections to the background image, logo updates, and changes to the header. These modifications, as part of pull requests #3, #2, and #1 from the 'working-on-texts' branch, aimed to improve the overall layout and appearance of the sketch repository."
+        },
+        "Afsalkalladi/sketchrobotics": {
+            "link": "https://github.com/Afsalkalladi/sketchrobotics",
+            "summary": "In the past week, significant contributions were made to 'Afsalkalladi/sketchrobotics'. The main focus was on developing the 'about' section, including creating the mobile view and making essential adjustments for both mobile and desk versions. These enhancements demonstrated substantial progress towards enriching the user experience."
+        }
+    },
+    "profile_summary": "As a dedicated software developer with a strong focus on delivering robust and scalable solutions, I bring expertise in Python programming language, utilizing its extensive libraries and frameworks to drive efficient outcomes. My proficiency in Astro, a modern web framework, enables me to craft high-performance, SEO-optimized applications. Additionally, I possess a solid understanding of HTML, facilitating the creation of visually appealing and user-friendly interfaces. With a portfolio that includes eight public repositories, I continue to actively contribute to and refine my skills through hands-on experience."
+}

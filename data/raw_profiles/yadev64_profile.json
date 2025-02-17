@@ -1,0 +1,145 @@
+{
+    "username": "yadev64",
+    "name": "Yadev Jayachandran",
+    "bio": "FullStack developer . UIUX Designer . Product Engineer . Maker",
+    "location": "Mannam, North Parur, Ernakulam Dist., Kerala, India.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21107275?u=88b62ce5aa1c3f0a41adb78ebaffd04f8d2957d5&v=4",
+    "profile_url": "https://github.com/yadev64",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GMADB",
+            "description": "GUI based Minimal ADB, dedicated for flashing Android devices over ADB (Android Debug Bridge)",
+            "score": 21.2108180705764,
+            "stars": 26,
+            "forks": 18,
+            "language": "C#",
+            "url": "https://github.com/yadev64/GMADB",
+            "updatedAt": "2024-11-29T23:01:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Android-Sensor-Data-Collector",
+            "description": "An Android Application for collecting live accelerometer, gyroscope and GPS data and store it in a CSV file for training models for detecting rash driving.",
+            "score": 18.449705605657996,
+            "stars": 12,
+            "forks": 7,
+            "language": "Java",
+            "url": "https://github.com/yadev64/Android-Sensor-Data-Collector",
+            "updatedAt": "2024-10-19T06:55:01Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DOS_GUI",
+            "description": "It's a GUI for DOS. Its made to mimic the basic features of other OSes like Windows. Coded in Turbo C++.",
+            "score": 17.49381259464616,
+            "stars": 5,
+            "forks": 12,
+            "language": "C++",
+            "url": "https://github.com/yadev64/DOS_GUI",
+            "updatedAt": "2022-06-17T08:21:18Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "convivial",
+            "description": "Convivial is an event management dashboard for admins, where the user can create events, assign ticket values based on category, purchase tickets for customers, see purchase statistics, event performance, and more.",
+            "score": 12.266487114235979,
+            "stars": 2,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/yadev64/convivial",
+            "updatedAt": "2022-01-25T10:58:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "yadev64.github.io",
+            "description": "Welcome to my \"Hello world\"",
+            "score": 10.13164143714181,
+            "stars": 0,
+            "forks": 0,
+            "language": "SCSS",
+            "url": "https://github.com/yadev64/yadev64.github.io",
+            "updatedAt": "2023-12-04T06:17:33Z",
+            "isPinned": true,
+            "homepage": "https://yadev.vercel.app"
+        },
+        {
+            "name": "pehia_website",
+            "description": null,
+            "score": 10.074798660022463,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/yadev64/pehia_website",
+            "updatedAt": "2023-01-03T18:06:03Z",
+            "isPinned": true,
+            "homepage": "https://pehia.netlify.app/#/"
+        },
+        {
+            "name": "recoverkerala",
+            "description": null,
+            "score": 4.569759601130789,
+            "stars": 1,
+            "forks": 7,
+            "language": "HTML",
+            "url": "https://github.com/yadev64/recoverkerala",
+            "updatedAt": "2018-08-21T08:22:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "kites_foundation",
+            "description": null,
+            "score": 2.4809929231629644,
+            "stars": 0,
+            "forks": 4,
+            "language": "HTML",
+            "url": "https://github.com/yadev64/kites_foundation",
+            "updatedAt": "2020-05-14T16:25:30Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 57,
+    "following": 53,
+    "public_repos": 52,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 284,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/yadev64"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/yadev-jayachandran/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.behance.net/yadev64"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n## I'm Yadev Jayachandran\n\n#### Welcome to my profile\n\n<!--\n**yadev64/yadev64** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n-->\n\n- \ud83d\udd2d I\u2019m currently working on building scalable web products\n- \ud83c\udf31 I\u2019m currently learning everything new out there\n- \ud83e\uddf0 I mostly work using: Vue, React, Laravel, Node, Figma but I enjoy working on Android studio, Unity, Scripting on C# and more\n- \ud83d\udcac Ask me about Vue, product development, UIUX or anything that's related to tech or design\n- \ud83d\udceb How to reach me: yadev64@gmail.com\n\n<table><tr><td valign=\"top\" width=\"50%\">\n\n### Frontend\n\n<div align=\"center\">  \n<a href=\"https://www.javascript.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/javascript-original.svg\" alt=\"JavaScript\" height=\"60\" /></a>  \n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/typescript-original.svg\" alt=\"TypeScript\" height=\"60\" /></a>  \n<a href=\"https://vuejs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg\" alt=\"Vue\" height=\"60\" /></a>\n<a href=\"https://reactjs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg\" alt=\"React\" height=\"60\" /></a> \n<a href=\"https://www.tailwindcss.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/tailwindcss.svg\" alt=\"Tailwind CSS\" height=\"60\" /></a>  \n<a href=\"https://www.w3schools.com/css/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg\" alt=\"CSS3\" height=\"60\" /></a>  \n<a href=\"https://en.wikipedia.org/wiki/HTML5\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg\" alt=\"HTML5\" height=\"60\" /></a>  \n<!-- <a href=\"https://sass-lang.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/sass-original.svg\" alt=\"Sass\" height=\"60\" /></a>   -->\n\n</div>\n\n</td><td valign=\"top\" width=\"50%\">\n\n### Backend\n\n<div align=\"center\">  \n<a href=\"https://nodejs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://user-images.githubusercontent.com/96580571/226129855-05044b76-a35f-4476-b8ae-64b85b808794.png\" alt=\"Node.js\" height=\"60\" /></a>\n<a href=\"https://expressjs.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://user-images.githubusercontent.com/96580571/226129583-1a23b263-f3f6-440b-baba-b02a837358da.png\" alt=\"Express.js\" height=\"60\" /></a>\n<a href=\"https://laravel.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png\" alt=\"Laravel\" height=\"60\" /></a>\n<a href=\"https://dotnet.microsoft.com/en-us/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png\" alt=\".NET\" height=\"60\" /></a>\n<a href=\"https://www.mongodb.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg\" alt=\"MongoDB\" height=\"60\" /></a>\n<a href=\"https://www.mysql.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png\" alt=\"MySQL\" height=\"60\" /></a>\n</div>\n\n</td></tr></table>\n<br/>\n\n### \ud83d\udd25 Streak Stats <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30px\">&nbsp;\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=yadev64&show_icons=true&locale=en&layout=compact\" alt=\"yadev64\" /></p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=yadev64&show_icons=true&locale=en\" alt=\"yadev64\" /></p>\n\n<p><img align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=yadev64&\" alt=\"yadev64\" /></p>\n<hr>\n\n<p align=\"center\"><img src=\"https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif\" width=\"60\" /><b>Git profile Trophies</b></h4></p><br>\n<img src=\"https://github-profile-trophy.vercel.app/?username=yadev64&theme=gruvbox\" />\n\n[![](https://visitcount.itsvg.in/api?id=yadev64&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)\n",
+    "profile_summary": null
+}

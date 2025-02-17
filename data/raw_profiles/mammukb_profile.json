@@ -1,0 +1,132 @@
+{
+    "username": "mammukb",
+    "name": "mammukb",
+    "bio": "",
+    "location": "Ernakulam,Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121629009?u=240f9a01a896a35bed298bf3c6d311ac17c2b86e&v=4",
+    "profile_url": "https://github.com/mammukb",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "php",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/mammukb/php",
+            "updatedAt": "2025-01-11T18:28:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "weblabs1",
+            "description": null,
+            "score": 0.3554917077553708,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mammukb/weblabs1",
+            "updatedAt": "2025-01-18T10:36:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DSAs1",
+            "description": null,
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/mammukb/DSAs1",
+            "updatedAt": "2025-01-14T12:09:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Download-ExpenseTrack-app",
+            "description": "This is a Site to download my application developd in java to calculate the expense",
+            "score": 0.30354280454148375,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mammukb/Download-ExpenseTrack-app",
+            "updatedAt": "2024-09-30T18:01:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PrayOnTime",
+            "description": null,
+            "score": 0.267932644410456,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mammukb/PrayOnTime",
+            "updatedAt": "2024-07-11T13:02:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Smart-Travelogue",
+            "description": "Discover nearby hotels, restaurants, attractions, and hospitals. Explore tour packages and enrich your journey with user-generated travel experiences\u2014videos, audios, and travelogues. Start your adventure fully informed and inspired.",
+            "score": 0.26344758823084113,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mammukb/Smart-Travelogue",
+            "updatedAt": "2024-04-26T16:26:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio-mammukb",
+            "description": null,
+            "score": 0.2485302981658783,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mammukb/portfolio-mammukb",
+            "updatedAt": "2024-10-14T14:46:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio-MuhammedKB",
+            "description": null,
+            "score": 0.16568686544391886,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mammukb/portfolio-MuhammedKB",
+            "updatedAt": "2023-12-28T10:02:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16,
+    "following": 7,
+    "public_repos": 22,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 65,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "I'm mammukb, a skilled Software Developer with expertise in C, JavaScript, and PHP. With a strong foundation in programming fundamentals, I design and develop robust, efficient, and scalable software solutions for real-world problems. My experience is reflected in the 22 public repositories I've made available, showcasing my commitment to sharing knowledge and contributing to the open-source community. \n\nThroughout my career, I've focused on mastering the nuances of back-end development, leveraging PHP to create cutting-edge web applications that drive user engagement and retention. My skills in JavaScript enable me to craft fluid, interactive user experiences, while my proficiency in C allows me to optimize performance and ensure reliability in high-stakes applications.\n\nAs a collaborative developer with a growing network of 16 followers, I'm well-connected with like-minded professionals willing to share knowledge, discuss best practices, and explore innovative solutions. When I'm not coding, you can find me diving into new technologies, following trends, and learning from the best in the industry. Through my work, I strive to make a meaningful impact on the tech landscape, one line of code at a time."
+}

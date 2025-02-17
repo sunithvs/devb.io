@@ -1,0 +1,138 @@
+{
+    "username": "wei",
+    "name": "Wei He",
+    "bio": "\ud83d\udc68\u200d\ud83d\udcbb Full Stack Engineer | \u2601\ufe0f Solutions Architect Expert | \ud83d\udcbc M.B.A.",
+    "location": "Florida",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5880908?u=3e4b9ba0b0defdf54203522eb838f65dcf8724d7&v=4",
+    "profile_url": "https://github.com/wei",
+    "top_languages": [
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            11
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pull",
+            "description": "\ud83e\udd16 Keep your forks up-to-date via automated PRs",
+            "score": 37.52495438457146,
+            "stars": 6433,
+            "forks": 684,
+            "language": "TypeScript",
+            "url": "https://github.com/wei/pull",
+            "updatedAt": "2025-02-16T17:18:53Z",
+            "isPinned": true,
+            "homepage": "https://github.com/apps/pull"
+        },
+        {
+            "name": "socialify",
+            "description": "\ud83d\udc9e Socialify your project. \ud83c\udf10 Share with the world!",
+            "score": 32.50917903959642,
+            "stars": 1973,
+            "forks": 115,
+            "language": "TypeScript",
+            "url": "https://github.com/wei/socialify",
+            "updatedAt": "2025-02-17T04:44:24Z",
+            "isPinned": true,
+            "homepage": "http://socialify.git.ci"
+        },
+        {
+            "name": "git-sync",
+            "description": "\ud83d\udd03 A GitHub Action for syncing between two independent repositories using force push",
+            "score": 28.552744796625294,
+            "stars": 258,
+            "forks": 124,
+            "language": "Shell",
+            "url": "https://github.com/wei/git-sync",
+            "updatedAt": "2025-02-09T11:09:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "baota",
+            "description": "\u5b9d\u5854 Linux \u9762\u677f \u6700\u65b0\u7248\u672c\u4e0e\u5386\u53f2\u5b58\u6863",
+            "score": 15.647954397309643,
+            "stars": 114,
+            "forks": 52,
+            "language": null,
+            "url": "https://github.com/wei/baota",
+            "updatedAt": "2024-10-30T14:26:47Z",
+            "isPinned": false,
+            "homepage": "https://baota-releases.vercel.app"
+        },
+        {
+            "name": "curl",
+            "description": "Wraps the curl CLI to be used in Github Actions",
+            "score": 15.18600706598677,
+            "stars": 108,
+            "forks": 41,
+            "language": "Dockerfile",
+            "url": "https://github.com/wei/curl",
+            "updatedAt": "2024-09-23T11:50:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rclone",
+            "description": "Wraps the rclone CLI to be used in Github Actions",
+            "score": 14.147814341600334,
+            "stars": 75,
+            "forks": 33,
+            "language": "Dockerfile",
+            "url": "https://github.com/wei/rclone",
+            "updatedAt": "2024-08-22T12:13:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wget",
+            "description": "Wraps the wget CLI to be used in Github Actions",
+            "score": 9.542435548354034,
+            "stars": 31,
+            "forks": 4,
+            "language": "Dockerfile",
+            "url": "https://github.com/wei/wget",
+            "updatedAt": "2024-12-31T07:04:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "minifier",
+            "description": "\u26a1\ufe0f Offline-first web app for an HTML, JS, CSS minifier.",
+            "score": 9.265920267083372,
+            "stars": 17,
+            "forks": 8,
+            "language": "JavaScript",
+            "url": "https://github.com/wei/minifier",
+            "updatedAt": "2024-05-04T00:35:41Z",
+            "isPinned": false,
+            "homepage": "https://minifier.app"
+        }
+    ],
+    "followers": 880,
+    "following": 223,
+    "public_repos": 139,
+    "pull_requests_merged": 23,
+    "issues_closed": 11,
+    "achievements": {
+        "total_contributions": 1281,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/weicodes"
+        }
+    ],
+    "readme_content": "![Wei He](assets/images/header.png)\n\n<p>\n  <h1 align=\"center\">\n    <b>Hello there, I'm <a href=\"https://github.com/wei\">@wei</a> \ud83d\udc4b</b>\n  </h1>\n  <p align=\"center\">\n    <samp>( \"\ud83d\udc68\u200d\ud83d\udcbb Full Stack Engineer\" | \"\u2601\ufe0f Solutions Architect Expert\" | \"\ud83d\udcbc M.B.A.\" )</samp>\n  </p>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/wei\">\n    <img alt=\"GitHub Stats\" src=\"https://wei.sh/github-stats.svg\" />\n  </a>\n</p>\n\n-----\n<p align=\"center\">\n  <a href=\"https://github.com/wei\">\n    <img src=\"https://img.shields.io/badge/github-@wei-211F1F?logo=github&logoColor=white&style=flat-square\" />\n  </a>\n  <a href=\"https://www.linkedin.com/in/towei\">\n    <img src=\"https://img.shields.io/badge/linkedin-Wei_He-0072B1?logo=linkedin&style=flat-square\" />\n  </a>\n  <a href=\"https://keybase.io/towei\">\n    <img src=\"https://img.shields.io/badge/keybase-towei_849A5C7C-4066E2?logo=keybase&logoColor=white&style=flat-square\" />\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://x.com/weicodes\">\n    <img src=\"https://img.shields.io/badge/@weicodes-000000?logo=x&logoColor=white&style=flat-square\" />\n  </a>\n  <a id=\"cal-booking-link\" data-cal-link=\"wei/meet\" href=\"https://wei.sh/?booking\">\n    <img src=\"https://img.shields.io/badge/Meet_with_me-1a73e8?logo=googlecalendar&logoColor=white&style=flat-square\" />\n  </a>\n  <a class=\"drift-open-chat\" href=\"https://wei.sh/?chat\">\n    <img src=\"https://img.shields.io/badge/Chat_now-46955c?logo=googlemessages&logoColor=white&style=flat-square\" />\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://wei.sh\">\n    <img src=\"https://img.shields.io/badge/website-wei.sh-1BC?logo=react&logoColor=white&style=flat-square\" />\n  </a>\n  <a href=\"https://github.com/wei\">\n    <img src=\"https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat\" />\n  </a>\n</p>\n",
+    "activity_summary": {},
+    "profile_summary": "\"Solutions-driven Full Stack Engineer with 880+ professional connections and 139+ repositories focusing on TypeScript and C, complemented by expertise in JavaScript. An M.B.A. with expertise in Cloud Solutions Architectures, I partner with clients to deliver scalable solutions, reaching millions across the web.\""
+}

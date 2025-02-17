@@ -1,0 +1,142 @@
+{
+    "username": "unaisshemim",
+    "name": "unais k shemim",
+    "bio": "",
+    "location": "Kerala | India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/72747883?u=c2e682fcf1593b368d628ba624ad7b164e909244&v=4",
+    "profile_url": "https://github.com/unaisshemim",
+    "top_languages": [
+        [
+            "JavaScript",
+            24
+        ],
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "UNICART",
+            "description": "Single Cart for Every Product",
+            "score": 10.262223469380478,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/unaisshemim/UNICART",
+            "updatedAt": "2024-05-02T11:33:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Ai_Pdf",
+            "description": null,
+            "score": 10.166973859136883,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/unaisshemim/Ai_Pdf",
+            "updatedAt": "2024-01-15T07:01:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "crinch-project",
+            "description": null,
+            "score": 3.203763332173363,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/unaisshemim/crinch-project",
+            "updatedAt": "2025-02-15T09:40:56Z",
+            "isPinned": false,
+            "homepage": "https://crinch-project.vercel.app"
+        },
+        {
+            "name": "loveflame-connection",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/unaisshemim/loveflame-connection",
+            "updatedAt": "2025-02-15T08:22:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todo_sequlize_psql",
+            "description": null,
+            "score": 1.11538662324404,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/unaisshemim/todo_sequlize_psql",
+            "updatedAt": "2023-02-07T14:05:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "event-management",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/unaisshemim/event-management",
+            "updatedAt": "2025-02-10T12:58:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "no-internet-challenge",
+            "description": null,
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/unaisshemim/no-internet-challenge",
+            "updatedAt": "2025-01-19T10:51:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "fitness-app",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/unaisshemim/fitness-app",
+            "updatedAt": "2024-11-16T03:12:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 11,
+    "public_repos": 50,
+    "pull_requests_merged": 2,
+    "issues_closed": 4,
+    "achievements": {
+        "total_contributions": 88,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/unaisshemim"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/unaisshemim/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

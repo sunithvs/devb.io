@@ -1,0 +1,70 @@
+{
+    "username": "abhishekjohney",
+    "name": "abhishekjohney",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118584609?u=c77b7c6cf753e59d3d4becb91286d9978cd5e664&v=4",
+    "profile_url": "https://github.com/abhishekjohney",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "StayEase",
+            "description": null,
+            "score": 2.0732861710791646,
+            "stars": 0,
+            "forks": 2,
+            "language": "C++",
+            "url": "https://github.com/abhishekjohney/StayEase",
+            "updatedAt": "2025-01-18T12:25:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Android-Project",
+            "description": "S6 project",
+            "score": 1.8105682843945439,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/abhishekjohney/Android-Project",
+            "updatedAt": "2025-02-11T08:30:34Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 7,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Aathma-P-hackathon-tinker": {
+            "link": "https://github.com/Aathma-P/hackathon-tinker",
+            "summary": "Recent activities in hackathon-tinker include pushing trial commits on 08 Feb 2025 to refactor the repository."
+        },
+        "abhishekjohney.Android-Project": {
+            "link": "https://github.com/abhishekjohney/Android-Project",
+            "summary": "A new trial commit was added to Android-Project on 11 Feb 2025 for further project development and improvement."
+        },
+        "abhishekjohney.StayEase": {
+            "link": "https://github.com/abhishekjohney/StayEase",
+            "summary": "Initial notes app commit was made to StayEase on 18 Jan 2025 to lay the foundation for the project's development journey."
+        }
+    },
+    "profile_summary": "As an aspiring software engineer with a passion for building scalable and efficient systems, I leverage my proficiency in C++ and Dart to drive impactful technical solutions. With 3 active public repositories, demonstrating my commitment to ongoing project development, I continuously hone my skills in software development. By combining rigorous coding practices with a curiosity-driven approach to problem-solving, I strive to deliver high-quality solutions that meet real-world needs, from building high-performance applications to crafting innovative proof-of-concept projects."
+}

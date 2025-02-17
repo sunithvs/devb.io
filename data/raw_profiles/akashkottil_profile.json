@@ -1,0 +1,128 @@
+{
+    "username": "akashkottil",
+    "name": "Akash Kottil",
+    "bio": "Hi there! \ud83d\udc4b\r\nI'm Akash Kottil, a self-taught MERN stack developer from India. I thrive on turning innovative ideas into high-quality, user-friendly Web Apps",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/134324568?u=5d6a1a13037a6fafa24ed36567d9a7b85f995a5e&v=4",
+    "profile_url": "https://github.com/akashkottil",
+    "top_languages": [
+        [
+            "JavaScript",
+            15
+        ],
+        [
+            "CSS",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "LinkShortner-Backend",
+            "description": "This is a simple URL shortener backend built with Node.js, Express, and MongoDB. It allows users to generate short URLs, retrieve original URLs, and delete shortened URLs.",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/LinkShortner-Backend",
+            "updatedAt": "2025-02-17T17:11:52Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "EduTech-Website",
+            "description": "EduTech website using React.js.",
+            "score": 10.161757726574336,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/EduTech-Website",
+            "updatedAt": "2023-10-26T16:13:12Z",
+            "isPinned": true,
+            "homepage": "https://akashkottil.github.io/Edu-Tech/"
+        },
+        {
+            "name": "Restaurant-Website",
+            "description": "Restaurant Website Project using React js and React js UI framework Material UI.",
+            "score": 10.161542657269848,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/Restaurant-Website",
+            "updatedAt": "2023-10-26T16:12:44Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Netflix-Clone",
+            "description": "Netflix-Clone React project fetching trending movies to display movie details from TMDB database",
+            "score": 10.156612303011004,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/Netflix-Clone",
+            "updatedAt": "2023-07-05T19:22:24Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ToDo-List-App",
+            "description": "A simple ToDo list app built with React. Manage your tasks, mark them as completed, and stay organized. Boost your productivity with this intuitive and user-friendly app.",
+            "score": 10.156570987174968,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/ToDo-List-App",
+            "updatedAt": "2023-07-05T17:44:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Noor-Al-Shams",
+            "description": null,
+            "score": 1.3017942742964022,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/Noor-Al-Shams",
+            "updatedAt": "2024-06-08T13:50:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pdfly",
+            "description": "A React Native application built with Expo that allows users to view, navigate, and search PDF documents. The app features a welcoming onboarding screen, smooth animations, and custom PDF rendering capabilities.",
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/pdfly",
+            "updatedAt": "2025-01-15T06:56:37Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Reanimated-Tab-Navigator",
+            "description": null,
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/akashkottil/Reanimated-Tab-Navigator",
+            "updatedAt": "2024-12-30T13:43:12Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 24,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 490,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a self-taught MERN stack developer leveraging expertise in JavaScript and CSS, I design and build efficient, user-centric web applications that drive innovation and impact. With a proven track record of delivering high-quality projects, I continually strive to stay at the forefront of industry advancements. By staying focused on clean coding practices and innovative problem-solving, I drive real-world results through collaborative approaches and cutting-edge web development skills."
+}

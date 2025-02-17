@@ -1,0 +1,146 @@
+{
+    "username": "ruvais-p",
+    "name": "ruvais-p",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/146152602?v=4",
+    "profile_url": "https://github.com/ruvais-p",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Python",
+            5
+        ],
+        [
+            "Dart",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "icebreaking_game",
+            "description": null,
+            "score": 1.3668768536208868,
+            "stars": 0,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/icebreaking_game",
+            "updatedAt": "2024-11-17T04:09:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "bipolar_line_coding",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ruvais-p/bipolar_line_coding",
+            "updatedAt": "2025-02-11T15:23:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nrz-i_and_nrz-l",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ruvais-p/nrz-i_and_nrz-l",
+            "updatedAt": "2025-02-11T15:22:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "argus",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/argus",
+            "updatedAt": "2025-02-02T08:55:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "project_task",
+            "description": null,
+            "score": 0.45015244275061966,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/project_task",
+            "updatedAt": "2025-01-21T02:44:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "data_retrieval",
+            "description": null,
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ruvais-p/data_retrieval",
+            "updatedAt": "2025-01-15T17:59:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "first_internship",
+            "description": null,
+            "score": 0.3917838848463363,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/ruvais-p/first_internship",
+            "updatedAt": "2025-01-03T09:01:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "custom_bot",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ruvais-p/custom_bot",
+            "updatedAt": "2025-01-03T08:48:07Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 22,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 62,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "ruvais-p/bipolar_line_coding": {
+            "link": "https://github.com/ruvais-p/bipolar_line_coding",
+            "summary": "Recent activities on bipolar_line_coding repository include creating and updating README.md files."
+        },
+        "ruvais-p/nrz-i_and_nrz-l": {
+            "link": "https://github.com/ruvais-p/nrz-i_and_nrz-l",
+            "summary": "Recent activities on nrz-i_and_nrz-l repository include creating README.md file."
+        },
+        "ruvais-p/project_task": {
+            "link": "https://github.com/ruvais-p/project_task",
+            "summary": "Recent activities on project_task repository include updating README.md file."
+        }
+    },
+    "profile_summary": "I'm a seasoned software developer with expertise in building high-performance applications using C++, Python, and Dart. With over 22 public repositories, I demonstrate my commitment to active development and continuous improvement. I've started to explore various technologies through open-source contributions and aim to utilize my skills in driving innovative solutions for real-world problems. As someone who continuously learns and grows, my pursuit of knowledge remains unwavering in a rapidly evolving tech landscape."
+}

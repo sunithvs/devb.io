@@ -1,0 +1,106 @@
+{
+    "username": "jemsheena",
+    "name": "Jemsheena M",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/166920172?v=4",
+    "profile_url": "https://github.com/jemsheena",
+    "top_languages": [
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "movie-prediction-app",
+            "description": "A flask app for predicting movie ratings.",
+            "score": 0.3940459665207946,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jemsheena/movie-prediction-app",
+            "updatedAt": "2025-01-03T17:14:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "calculator_app",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jemsheena/calculator_app",
+            "updatedAt": "2024-08-31T13:50:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pizza_delivery",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jemsheena/pizza_delivery",
+            "updatedAt": "2024-08-31T13:51:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todoapp",
+            "description": null,
+            "score": 0.29173437419936793,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jemsheena/todoapp",
+            "updatedAt": "2024-08-31T13:49:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "dbms_project",
+            "description": null,
+            "score": 0.28284249651958554,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/jemsheena/dbms_project",
+            "updatedAt": "2024-12-23T11:17:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.2631374174111478,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jemsheena/skills-communicate-using-markdown",
+            "updatedAt": "2024-04-25T18:03:31Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 11,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 23,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "jemsheena/techberry": {
+            "link": "https://github.com/jemsheena/techberry",
+            "summary": "Multiple files were deleted and updated in the repository jemsheena/techberry on January 26, 2025. Contributors made significant changes to the homepage, bus, map, ticket, wallet, server, script, and scan interfaces. Additionally, assets and CSS files were updated and deleted."
+        }
+    },
+    "profile_summary": "As a professional PHP developer with over 11 public repositories and a strong foundation in programming, I leverage my expertise to design and develop scalable web applications. With a focus on delivering efficient, reliable, and high-quality code, I help clients achieve their business goals through custom solutions tailored to their needs. \n\nI maintain a dynamic portfolio on GitHub, actively contributing to the community through repositories that showcase my PHP capabilities and coding skills. When I'm not coding, you can find me exploring new technologies and continuous learning."
+}

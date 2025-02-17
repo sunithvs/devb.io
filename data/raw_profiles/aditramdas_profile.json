@@ -1,0 +1,132 @@
+{
+    "username": "aditramdas",
+    "name": "Adith Ramdas",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/68638084?u=105bc0b43645dcceb60a9819dbaf953446cb55a5&v=4",
+    "profile_url": "https://github.com/aditramdas",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "JavaScript",
+            11
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Assignmentor",
+            "description": null,
+            "score": 13.616193507986488,
+            "stars": 1,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/aditramdas/Assignmentor",
+            "updatedAt": "2023-11-21T11:57:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Expensator",
+            "description": null,
+            "score": 11.538383861567205,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aditramdas/Expensator",
+            "updatedAt": "2023-03-22T12:19:22Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "RoomChat",
+            "description": null,
+            "score": 11.533301413017494,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aditramdas/RoomChat",
+            "updatedAt": "2023-06-11T11:15:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio-Site",
+            "description": null,
+            "score": 10.074402324396758,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aditramdas/Portfolio-Site",
+            "updatedAt": "2022-11-12T05:38:50Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "GmailHack2.0",
+            "description": null,
+            "score": 6.025173454690576,
+            "stars": 7,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/aditramdas/GmailHack2.0",
+            "updatedAt": "2024-12-09T11:36:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DanceOff",
+            "description": null,
+            "score": 4.454506960928923,
+            "stars": 1,
+            "forks": 6,
+            "language": "Python",
+            "url": "https://github.com/aditramdas/DanceOff",
+            "updatedAt": "2023-05-02T08:34:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GenImg",
+            "description": null,
+            "score": 1.6197033230949656,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/aditramdas/GenImg",
+            "updatedAt": "2024-02-24T21:51:45Z",
+            "isPinned": false,
+            "homepage": "https://genimg-drab.vercel.app"
+        },
+        {
+            "name": "Mood-movie-recommender",
+            "description": null,
+            "score": 1.5445029765044487,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aditramdas/Mood-movie-recommender",
+            "updatedAt": "2023-08-22T05:16:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 37,
+    "following": 23,
+    "public_repos": 48,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 70,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "Hey there, I am Adith Ramdas\n<img src=\"https://user-images.githubusercontent.com/68638084/140784917-5dd72146-531e-4c3d-aff8-958340b9d257.gif\" width=\"120\" height=\"90\" align=\"right\"/>\n- \ud83c\udf31 I\u2019m currently learning Web Development \n- \ud83d\udc6f I\u2019m looking to collaborate on projects related to Web Development\n- \ud83d\udcac Ask me about anything and I will find an answer for you :) \n- \ud83d\udceb How to reach me: [Facebook](https://www.facebook.com/adit.ramdas) , [Instagram](https://www.instagram.com/aditramdas/)\n- \ud83d\ude04 Pronouns: I don't care what you add to my name.\n- \u26a1 Fun fact: I like music in all forms. I sing, play piano and sleep.  Connect with me for any help or ideas for collaboration and I would be happy :)\n\n\n\n",
+    "profile_summary": null
+}

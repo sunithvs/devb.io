@@ -1,0 +1,139 @@
+{
+    "username": "machanxd",
+    "name": "Goutham",
+    "bio": "Fivem Developer|\r\nWeb developer\r\n\"Development is a journey of constant learning, adapting, and improving.\"",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/136475700?u=4e0da846f9b792ff0a3c000d9b37de1e823d1f6d&v=4",
+    "profile_url": "https://github.com/MACHANxD",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "M-Spawn",
+            "description": "A Spawn selector script for fivem QBcore developed by machnxd .simple and sleek design .smooth functioning ",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/M-Spawn",
+            "updatedAt": "2025-02-14T15:25:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "MACHANxD",
+            "description": "A Short  Description of Myself ",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/MACHANxD",
+            "updatedAt": "2025-02-15T09:06:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio",
+            "description": "Portfolio of Goutham",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MACHANxD/Portfolio",
+            "updatedAt": "2025-02-15T17:08:06Z",
+            "isPinned": false,
+            "homepage": "https://mxd-alpha.vercel.app"
+        },
+        {
+            "name": "Auto-Revive",
+            "description": "A simple auto revive script  for Fivem ESX framework .Dead players can get revived by pressing a specfic key . (Mainly used in pvp for fast revive)",
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/Auto-Revive",
+            "updatedAt": "2025-02-14T13:52:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "M-Npc",
+            "description": "An Standalone Fivem script which can be used  for controlling npc population .easily configuarble in the config file",
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/M-Npc",
+            "updatedAt": "2025-02-14T14:22:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "M-Carry",
+            "description": "An Simple Carry script for Fivem Qbcore Developed by MXD .Carry script used to carry person by using a command or keyword easily configourable in code ",
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/M-Carry",
+            "updatedAt": "2025-02-12T13:04:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GENX-APPLICATION",
+            "description": null,
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/MACHANxD/GENX-APPLICATION",
+            "updatedAt": "2024-11-14T12:47:04Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 33,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_gouth_m/"
+        }
+    ],
+    "readme_content": "Here\u2019s a customized README file for your GitHub profile based on your request:\n\n---\n\n# Hi, I'm Goutham \n\n**FiveM Developer | Web Developer | Tech Enthusiast**\n\n\n## About Me\nI'm a passionate developer with a focus on creating immersive and functional experiences in Lua and web development. My journey in tech is fueled by curiosity and a drive to build solutions that make a difference.\nPenname:MXD\n- \ud83c\udf31 I\u2019m currently learning more about advanced development techniques.\n- \ud83d\udcac Ask me about FiveM development, HTML, and web development.\n- \ud83d\udceb How to reach me:krishnagoutham058@gmail.com\n\n## Tech Stack\n\n- **FiveM Development**\n- **HTML**\n- **CSS**\n- **JavaScript**\n- **Learning More Development Tools**\n\n---\n\n",
+    "activity_summary": {
+        "MACHANxD/Portfolio": {
+            "link": "https://github.com/MACHANxD/Portfolio",
+            "summary": "On 2025-02-15, MACHANxD engaged in intense development for the Portfolio repository with a series of PushEvents, including file updates, additions, and deletions."
+        },
+        "MACHANxD/MACHANxD": {
+            "link": "https://github.com/MACHANxD/MACHANxD",
+            "summary": "On 2025-02-15, MACHANxD made multiple PushEvents to update README.md within the MACHANxD repository, with a total of 5 updates across different times."
+        },
+        "MACHANxD/M-Spawn": {
+            "link": "https://github.com/MACHANxD/M-Spawn",
+            "summary": "On 2025-02-14, MACHANxD updated the LICENSE file and uploaded additional files via PushEvents to the M-Spawn repository."
+        },
+        "MACHANxD/M-Npc": {
+            "link": "https://github.com/MACHANxD/M-Npc",
+            "summary": "On 2025-02-14, MACHANxD uploaded new files via a PushEvent within the M-Npc repository."
+        },
+        "MACHANxD/Auto-Revive": {
+            "link": "https://github.com/MACHANxD/Auto-Revive",
+            "summary": "On 2025-02-14, MACHANxD uploaded new files via a PushEvent within the Auto-Revive repository."
+        }
+    },
+    "profile_summary": "As a seasoned FiveM developer and web developer, I leverage my expertise in HTML, Lua, and web development to craft immersive and functional experiences. my passion for development stems from a constant pursuit of learning, adapting, and improving. with a focus on creating impactful solutions, i enable users to experience the benefits of cutting-edge technology."
+}

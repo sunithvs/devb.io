@@ -1,0 +1,137 @@
+{
+    "username": "drosay",
+    "name": "Dilan De La Rosa",
+    "bio": "",
+    "location": "Cartagena, Colombia",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43049540?u=6efdb569944bf4fdbf962add5bda3a738375cdd6&v=4",
+    "profile_url": "https://github.com/drosay",
+    "top_languages": [
+        [
+            "JavaScript",
+            8
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "my_web",
+            "description": "My portfolio web",
+            "score": 10.22157744901857,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/drosay/my_web",
+            "updatedAt": "2024-10-15T17:09:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Landy_ToDos",
+            "description": "ToDo App",
+            "score": 10.074756800645963,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/drosay/Landy_ToDos",
+            "updatedAt": "2022-12-07T05:25:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "POO",
+            "description": "Conceptos de programaci\u00f3n orientada a objetos",
+            "score": 10.070894623012833,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/drosay/POO",
+            "updatedAt": "2021-12-22T05:02:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "pruebas_python",
+            "description": null,
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/drosay/pruebas_python",
+            "updatedAt": "2024-11-27T22:36:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "drosay.github.io",
+            "description": null,
+            "score": 0.2691957170131844,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/drosay/drosay.github.io",
+            "updatedAt": "2024-05-30T04:34:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "medical_develop_app",
+            "description": null,
+            "score": 0.15898970131895468,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/drosay/medical_develop_app",
+            "updatedAt": "2023-08-28T13:14:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pruebaInfodesign",
+            "description": null,
+            "score": 0.15711534327144855,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/drosay/pruebaInfodesign",
+            "updatedAt": "2023-07-17T10:27:00Z",
+            "isPinned": false,
+            "homepage": "https://prueba-infodesign.vercel.app"
+        },
+        {
+            "name": "pruebainfodesign_back",
+            "description": null,
+            "score": 0.15711534327144855,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/drosay/pruebainfodesign_back",
+            "updatedAt": "2023-07-17T09:54:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 391,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dilandelarosa"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

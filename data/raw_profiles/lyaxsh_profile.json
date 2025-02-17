@@ -1,0 +1,90 @@
+{
+    "username": "lyaxsh",
+    "name": "Laksh Nahar",
+    "bio": "will think about updating it soon",
+    "location": "Rajasthan, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100501788?u=ad62b9b1174f8e381eedeed16cebca36e90b24b9&v=4",
+    "profile_url": "https://github.com/lyaxsh",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "Dockerfile",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "symmetrical-octo-robot",
+            "description": null,
+            "score": 2.7116057472522543,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/lyaxsh/symmetrical-octo-robot",
+            "updatedAt": "2024-12-06T07:51:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "generator",
+            "description": null,
+            "score": 1.8027570240030213,
+            "stars": 0,
+            "forks": 2,
+            "language": "Dockerfile",
+            "url": "https://github.com/lyaxsh/generator",
+            "updatedAt": "2023-05-22T08:32:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sexilexi",
+            "description": null,
+            "score": 0.2993632367870326,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/lyaxsh/sexilexi",
+            "updatedAt": "2025-01-28T05:58:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "generatorr",
+            "description": null,
+            "score": 0.1634495117730625,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dockerfile",
+            "url": "https://github.com/lyaxsh/generatorr",
+            "updatedAt": "2023-11-21T17:26:30Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 32,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "sexilexi": {
+            "link": "https://github.com/lyaxsh/sexilexi",
+            "summary": "Recent activities in the sexilexi repository included the creation of a new funding configuration file (FUNDING.yml) on January 28, 2025."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with a strong background in Python, I leverage its simplicity and versatility to drive innovation and efficiency in my projects. With a proficiency in Dockerfile and JavaScript, I'm well-equipped to craft scalable, high-impact solutions that meet the demands of modern development. I'm the maintainer of a dozen open-source repositories on GitHub, collaborating with a niche community of passionate developers who value cutting-edge technology and open discussion."
+}

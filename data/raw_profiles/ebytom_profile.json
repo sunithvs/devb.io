@@ -1,0 +1,137 @@
+{
+    "username": "ebytom",
+    "name": "EBY TOM",
+    "bio": "I'm Eby Tom, a final year Computer Science Engineering student with expertise in React.js, Node.js, and web technologies such as HTML, CSS, JavaScript, and Boot",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/73706705?u=150831dea33fa9328172f02f5b05c4e9bc1e1b18&v=4",
+    "profile_url": "https://github.com/ebytom",
+    "top_languages": [
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RPMS-Patient-Panel",
+            "description": null,
+            "score": 5.895748369894319,
+            "stars": 16,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ebytom/RPMS-Patient-Panel",
+            "updatedAt": "2025-02-14T18:35:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Tech-Utsav-ChristUniversity",
+            "description": "Christ University Tech-Utsav Website",
+            "score": 5.894416158595308,
+            "stars": 16,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ebytom/Tech-Utsav-ChristUniversity",
+            "updatedAt": "2025-02-14T18:35:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Foobar-7-ChristUniversity",
+            "description": null,
+            "score": 5.8926027432987516,
+            "stars": 16,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ebytom/Foobar-7-ChristUniversity",
+            "updatedAt": "2025-02-14T18:35:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Portfolio",
+            "description": "Personal Portfolio using HTML, CSS",
+            "score": 5.752986152077225,
+            "stars": 15,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ebytom/Portfolio",
+            "updatedAt": "2025-02-14T18:35:17Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ebytom",
+            "description": null,
+            "score": 5.6499238361363835,
+            "stars": 14,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ebytom/ebytom",
+            "updatedAt": "2025-02-14T18:35:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Project-Showcase-Frontend",
+            "description": null,
+            "score": 5.624901487231597,
+            "stars": 14,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ebytom/Project-Showcase-Frontend",
+            "updatedAt": "2025-02-14T18:35:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EduApply",
+            "description": "System for applying to educational institutions.",
+            "score": 1.5487116768750937,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ebytom/EduApply",
+            "updatedAt": "2023-11-06T06:04:03Z",
+            "isPinned": false,
+            "homepage": "https://alt-admission.vercel.app"
+        },
+        {
+            "name": "Inevitable-Solutions",
+            "description": null,
+            "score": 1.20293626801306,
+            "stars": 0,
+            "forks": 1,
+            "language": "SCSS",
+            "url": "https://github.com/ebytom/Inevitable-Solutions",
+            "updatedAt": "2023-11-17T17:44:45Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 22,
+    "following": 37,
+    "public_repos": 36,
+    "pull_requests_merged": 18,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 278,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/ebytomy7"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n- \ud83d\udd2d I\u2019m currently working at Toyota Industries Engine India Pvt Ltd (TIEI)\n- \ud83c\udf31 I\u2019m currently learning React Native, Flutter\n- \ud83d\udc6f I\u2019m looking to collaborate on projects based on React, Mongo and Express.\n- \ud83e\udd14 I\u2019m looking for help with startup ideas.<br/><br/>\n\n\n### Some Tools I Have Used and Learned\n<img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/mongodb.png\" alt=\"mongodb\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/plasticine/100/react.png\" alt=\"react\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/firebase.png\" alt=\"firebase\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/fluency/48/node-js.png\" alt=\"node-js\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/arduino.png\" alt=\"arduino\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/html.png\" alt=\"flutter\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/css.png\" alt=\"angularjs\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/bootstrap.png\" alt=\"bootstrap\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/python--v1.png\" alt=\"python--v1\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/git.png\" alt=\"git\"/>\n  <img align=\"left\" width=\"48\" height=\"48\" src=\"https://img.icons8.com/color/48/bash.png\" alt=\"bash\"/><br/><br/><br/>\n\n### Most Used Languages\n![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ebytom&theme=blue-green)\n\n<!--\n**Eby-Tom/Eby-Tom** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "Hi, I'm Eby Tom, a final year Computer Science Engineering student with expertise in full-stack web development using JavaScript, Node.js, React.js, HTML, CSS, and Boot. With a strong foundation in C++, I utilize Jupyter Notebook for data analysis and visualization. Currently working at Toyota Industries Engine India Pvt Ltd (TIEI), I'm always looking to collaborate on projects based on React, Mongo, and Express, and willing to bring my fresh perspective and skills to a dynamic team. By day, I drive innovation; by code, I'm Eby Tom, a passionate developer connecting the digital world."
+}

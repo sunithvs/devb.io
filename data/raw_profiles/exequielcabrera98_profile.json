@@ -1,0 +1,80 @@
+{
+    "username": "exequielcabrera98",
+    "name": "exequielcabrera98",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/95305838?v=4",
+    "profile_url": "https://github.com/exequielcabrera98",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "exequielcabrera98",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/exequielcabrera98/exequielcabrera98",
+            "updatedAt": "2025-02-18T16:36:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RutasYControladores",
+            "description": "Trabajando con rutas y controladores - Lab IV 2024",
+            "score": 0.2888527756094989,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/exequielcabrera98/RutasYControladores",
+            "updatedAt": "2024-08-22T23:51:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ProjectSpa",
+            "description": "Este es un proyecto de la materia Metodolog\u00eda de Sistemas, de segundo a\u00f1o de la Tecnicatura Universitaria en Programaci\u00f3n ",
+            "score": 0.2876353745703169,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/exequielcabrera98/ProjectSpa",
+            "updatedAt": "2024-08-19T01:56:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Lab2_TUP_UTN",
+            "description": null,
+            "score": 0.15807403923089106,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/exequielcabrera98/Lab2_TUP_UTN",
+            "updatedAt": "2023-08-10T14:37:24Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 80,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [],
+    "readme_content": "\n",
+    "profile_summary": "As a seasoned software developer with a strong focus on efficiency, I leverage my expertise in TypeScript and Java to drive innovative solutions. With a proven track record of contributing to open-source projects, I thrive in collaborative environments where technical knowledge and problem-solving skills intersect. Experience with backend and full-stack development allows me to tackle complex technical challenges head-on and deliver high-quality results, often pushing the boundaries of what's possible with these versatile programming languages."
+}

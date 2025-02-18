@@ -1,0 +1,141 @@
+{
+    "username": "astridv23",
+    "name": "Astrid Vi\u00f1uela",
+    "bio": "\ud83d\udce7 Contacto: astridcarla123@gmail.com",
+    "location": "Chaco, Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139991692?u=6fe5f199c1c6fadf08420a083905e0b2a35c888d&v=4",
+    "profile_url": "https://github.com/AstridV23",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Java",
+            2
+        ],
+        [
+            "PHP",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio_web",
+            "description": "Apasionada por programar, creando soluciones innovadoras y aprendiendo constantemente.",
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/AstridV23/portfolio_web",
+            "updatedAt": "2025-01-10T23:52:56Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-astrid.vercel.app/"
+        },
+        {
+            "name": "Gestor_Tareas",
+            "description": "Gesti\u00f3n de Tareas tanto para usuarios individuales como para grupos formados",
+            "score": 0.3834333279529972,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AstridV23/Gestor_Tareas",
+            "updatedAt": "2025-01-11T06:06:13Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "AstridV23",
+            "description": null,
+            "score": 0.36344830578702164,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AstridV23/AstridV23",
+            "updatedAt": "2024-12-21T06:35:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TPI_Asociacion_Futbol",
+            "description": "UTN frre - Dise\u00f1o y Admin. de Bases de Datos 2024",
+            "score": 0.3286339992211723,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AstridV23/TPI_Asociacion_Futbol",
+            "updatedAt": "2024-12-13T16:58:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Gestion_Obras",
+            "description": "Proyecto Pagina Web - Casa de Gobierno Subsecretaria de Obras P\u00fablicas",
+            "score": 0.32643327027826385,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/AstridV23/Gestion_Obras",
+            "updatedAt": "2024-11-12T18:38:15Z",
+            "isPinned": false,
+            "homepage": "https://gestion-obras.netlify.app/"
+        },
+        {
+            "name": "Spa_Sentirse_Bien",
+            "description": "UTN frre - Metodolog\u00eda de Sistemas 2024",
+            "score": 0.32572086142743883,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/AstridV23/Spa_Sentirse_Bien",
+            "updatedAt": "2025-01-07T04:24:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto_Lab4_TUP",
+            "description": "UTN frre - Proyecto final Laboratorio 4 TUP 2024",
+            "score": 0.3236435191376674,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AstridV23/Proyecto_Lab4_TUP",
+            "updatedAt": "2024-12-07T17:01:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proyecto_Laravel_UTN_Lab4",
+            "description": null,
+            "score": 0.2888527756094989,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AstridV23/Proyecto_Laravel_UTN_Lab4",
+            "updatedAt": "2024-09-03T19:05:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 99,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/astrid-vi%C3%B1uela-3b191a285/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ast_vinu/"
+        }
+    ],
+    "readme_content": "<!--horizontal divider(gradiant)-->\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n<h1 align=\"center\" > Hello Fellow Developer! My name is Astrid <img src = \"https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif\" width = 30px> </h1>\n<p align='center'>\n</p>\n\n<div size='30px'> Thank You for taking the time to view my GitHub Profile :smile: \n</div>\n\n<br>\n\n<h2> About Me <img src = \"https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true\" width = 40px> </h2>\n\n<img align=\"right\" alt=\"Coding\" width=\"300\" src=\"https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif\" >\n\n- \ud83c\udf93 I\u2019m currently a programming student at UTN in Argentina/Chaco\n  \n- \ud83c\udf31 I\u2019m currently learning SQL, C#, Java y Spring\n  \n- \ud83d\udc6f I\u2019m looking to collaborate on Proyectos\n  \n- \ud83d\udcac Ask me about SQL, Java, C, C#, Nodejs\n\n- \ud83d\udceb Contacto: astridcarla123@gmail.com\n\n<br>\n\n<h2> Skills <img src = \"https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif\" width = 32px> </h2>\n\n<!--tech stack icons-->\n<p align=\"center\">\n  <a href=\"https://skillicons.dev\">\n    <img src=\"https://skillicons.dev/icons?i=git,github,aws,c,cpp,cs,java,py,laravel,php,html,js,ts,css,materialui,django,tailwind,vite,react,nodejs,nextjs,express,docker,postgres,prisma,figma,linux,dotnet,mongodb,mysql,sqlite,vscode,idea,visualstudio&perline=14\" />\n  </a>\n</p>\n\n<br>\n\n<!-- Connect with me -->\n<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=\"100px\"> </h2>\n\n<!--icons and links-->\n<p align=\"center\">\n  <!--linkedin-->\n  <a href=\"https://www.linkedin.com/in/astrid-vi%C3%B1uela-3b191a285/\" target=\"blank\"><img align=\"center\" src=\"https://skillicons.dev/icons?i=linkedin\" alt=\"linkedin\" height=\"50\" width=\"50\" /></a>\n  <!--twitter-->\n  <a href=\"https://twitter.com/\" target=\"blank\"><img align=\"center\" src=\"https://skillicons.dev/icons?i=twitter\" alt=\"twitter\" height=\"50\" width=\"50\" /></a> \n  <!--instagram-->\n  <a href=\"https://www.instagram.com/ast_vinu/\" target=\"blank\"><img align=\"center\" src=\"https://skillicons.dev/icons?i=instagram\" alt=\"instagram\" height=\"50\" width=\"50\" /></a>\n  <!--gmail-->\n  <a href=\"https://mail.google.com/mail/?view=cm&fs=1&to=astridcarla123@gmail.com\" target=\"blank\"><img align=\"center\" src=\"https://skillicons.dev/icons?i=gmail\" alt=\"hashnode\" height=\"50\" width=\"50\" /></a>\n  <!--discord-->\n  <a href=\"https://discordapp.com/users/848673624189829120\" target=\"blank\"><img align=\"center\" src=\"https://skillicons.dev/icons?i=discord\" alt=\"discord\" height=\"50\" width=\"50\" /></a>  \n</p>\n  \n<br>\n\n<h2>GitHub <img src = \"https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true\" width = 40px> </h2>\n\n| ![AstridV23's github stats](https://github-readme-stats.vercel.app/api?username=AstridV23&show_icons=true&theme=tokyonight) | ![AstridV23 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AstridV23&theme=tokyonight) |\n| --- | --- |\n| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstridV23&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AstridV23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |\n\n\n<img src=\"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif\">\n\n<br>\n\n\n-----\n\nLast Edited on: 19/12/2024\n",
+    "profile_summary": "Here is a concise, SEO-optimized first-person profile description that highlights Astrid's strongest technical skills and expertise:\n\n\"I'm a passionate developer with expertise in TypeScript, Java, and PHP, continually expanding my skill set to stay atop industry trends. As a student at UTN in Argentina/Chaco, I've also developed a solid foundation in SQL, C#, and Spring. With a proven track record of actively contributing to 12 public repositories and engaging with a growing network of 1 follower, I'm dedicated to collaborating on projects and sharing my knowledge in areas of expertise, including SQL, Java, and Nodejs. Feel free to reach out to me at astridcarla123@gmail.com to explore opportunities and connect.\""
+}

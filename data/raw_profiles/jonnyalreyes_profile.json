@@ -1,0 +1,96 @@
+{
+    "username": "jonnyalreyes",
+    "name": "jonnyalreyes",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/135357008?v=4",
+    "profile_url": "https://github.com/JonnyalReyes",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "PHP",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "FitnessWeb",
+            "description": null,
+            "score": 1.3661540411181816,
+            "stars": 0,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/JonnyalReyes/FitnessWeb",
+            "updatedAt": "2024-11-25T06:03:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "GiftForHBD",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonnyalReyes/GiftForHBD",
+            "updatedAt": "2025-01-30T19:04:35Z",
+            "isPinned": false,
+            "homepage": "https://gift-for-hbd.vercel.app"
+        },
+        {
+            "name": "Plan-Enjoy",
+            "description": null,
+            "score": 0.31973753336051025,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/JonnyalReyes/Plan-Enjoy",
+            "updatedAt": "2024-12-01T22:12:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "manosdepanama",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonnyalReyes/manosdepanama",
+            "updatedAt": "2024-10-22T20:25:58Z",
+            "isPinned": false,
+            "homepage": "https://manosdepanama.vercel.app"
+        },
+        {
+            "name": "WorkShop-Practica",
+            "description": null,
+            "score": 0.3122384323533469,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonnyalReyes/WorkShop-Practica",
+            "updatedAt": "2024-10-19T18:47:47Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 1,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 39,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

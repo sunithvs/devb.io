@@ -1,0 +1,52 @@
+{
+    "username": "adharshachu",
+    "name": "Adharsh GS",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/71245685?v=4",
+    "profile_url": "https://github.com/adharshachu",
+    "top_languages": [
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "helloworld",
+            "description": null,
+            "score": 0.06946918942667726,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/adharshachu/helloworld",
+            "updatedAt": "2021-06-24T07:14:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "adharshachu",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.06941161351205181,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adharshachu/adharshachu",
+            "updatedAt": "2021-06-15T10:41:25Z",
+            "isPinned": false,
+            "homepage": "https://github.com/adharshachu"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As Adharsh GS, I'm a skilled Java developer with a passion for crafting efficient and scalable software solutions. With a strong background in Java and a proven track record of delivering high-quality results through my public repositories, I excel in tackling complex coding challenges."
+}

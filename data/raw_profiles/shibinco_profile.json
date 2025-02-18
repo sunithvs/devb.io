@@ -1,0 +1,137 @@
+{
+    "username": "shibinco",
+    "name": "Shibin Dotco",
+    "bio": "</>",
+    "location": "Remote",
+    "avatar_url": "https://avatars.githubusercontent.com/u/15375527?u=336561ab8f4e348b7d08baaa8e126628e3ac93db&v=4",
+    "profile_url": "https://github.com/ShibinCo",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Java",
+            5
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TelegramBotSample",
+            "description": "Welcome Bot for Telegram Group/Channel",
+            "score": 16.125837917807676,
+            "stars": 5,
+            "forks": 4,
+            "language": "JavaScript",
+            "url": "https://github.com/ShibinCo/TelegramBotSample",
+            "updatedAt": "2024-01-16T17:29:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "GSheetAsDB",
+            "description": "GoogleSheet as Database for your Android App",
+            "score": 14.001999185655842,
+            "stars": 3,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/ShibinCo/GSheetAsDB",
+            "updatedAt": "2024-11-19T22:58:24Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "RedditTelegramBot",
+            "description": "Telegram Bot to fetch the latest post from your Subreddit",
+            "score": 11.45043272317486,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ShibinCo/RedditTelegramBot",
+            "updatedAt": "2022-09-30T08:28:33Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "RedditTwitterBot",
+            "description": "Twitter Bot to tweet latest post of your Subreddit.",
+            "score": 10.06413836205497,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ShibinCo/RedditTwitterBot",
+            "updatedAt": "2018-06-26T07:25:27Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "VoiceRecorder",
+            "description": "Voice Recorder Android App",
+            "score": 10.063339685194688,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/ShibinCo/VoiceRecorder",
+            "updatedAt": "2017-10-18T10:13:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Webview",
+            "description": "Simple WebView Android App",
+            "score": 8.186741846665683,
+            "stars": 9,
+            "forks": 9,
+            "language": "HTML",
+            "url": "https://github.com/ShibinCo/Webview",
+            "updatedAt": "2023-05-04T00:40:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "StartupFunding",
+            "description": "Curated wiki for Founders & Venture Capital Professionals",
+            "score": 1.4555850667856223,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ShibinCo/StartupFunding",
+            "updatedAt": "2021-12-01T03:06:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Social",
+            "description": "Simple Test App for Tab View--App to get feeds of Facebook,Twitter and Google+ at the same time",
+            "score": 1.1024122568235997,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/ShibinCo/Social",
+            "updatedAt": "2017-03-04T06:41:28Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 75,
+    "following": 99,
+    "public_repos": 76,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 17,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/shibinco"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a seasoned software developer with a strong foundation in languages such as C++, Java, and Python, I create efficient and effective solutions for a wide range of problems. With a professional network of 75 followers and an active presence on GitHub through 76 public repositories, I stay at the forefront of development trends and techniques."
+}

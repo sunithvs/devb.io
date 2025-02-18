@@ -1,0 +1,151 @@
+{
+    "username": "sethumadhavan-k",
+    "name": "Sethumadhavan K",
+    "bio": "Software Engineer\r\n",
+    "location": "Vengara",
+    "avatar_url": "https://avatars.githubusercontent.com/u/37101458?v=4",
+    "profile_url": "https://github.com/sethumadhavan-k",
+    "top_languages": [
+        [
+            "Go",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "git-session",
+            "description": null,
+            "score": 3.9505595763121044,
+            "stars": 1,
+            "forks": 4,
+            "language": "Go",
+            "url": "https://github.com/sethumadhavan-k/git-session",
+            "updatedAt": "2023-03-04T09:02:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "git-hackathon",
+            "description": null,
+            "score": 3.373641017517709,
+            "stars": 0,
+            "forks": 7,
+            "language": null,
+            "url": "https://github.com/sethumadhavan-k/git-hackathon",
+            "updatedAt": "2024-02-21T08:47:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-boilerplate",
+            "description": null,
+            "score": 2.5758093920533387,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/sethumadhavan-k/react-boilerplate",
+            "updatedAt": "2023-03-04T09:02:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "prometheus-hackathon",
+            "description": null,
+            "score": 1.9041065755102011,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/sethumadhavan-k/prometheus-hackathon",
+            "updatedAt": "2024-03-06T08:29:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "helm-value",
+            "description": "golang application for list helm repo properties values",
+            "score": 1.5338630128051358,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/sethumadhavan-k/helm-value",
+            "updatedAt": "2023-03-04T09:02:40Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "job-app-api",
+            "description": null,
+            "score": 1.5229956797573194,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/sethumadhavan-k/job-app-api",
+            "updatedAt": "2023-03-04T09:02:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "doc-app",
+            "description": null,
+            "score": 1.522363022434881,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sethumadhavan-k/doc-app",
+            "updatedAt": "2023-03-04T09:02:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sethumadhavan-k",
+            "description": null,
+            "score": 1.5215301352967205,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sethumadhavan-k/sethumadhavan-k",
+            "updatedAt": "2023-03-04T09:02:40Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 2,
+    "following": 6,
+    "public_repos": 25,
+    "pull_requests_merged": 10,
+    "issues_closed": 7,
+    "achievements": {
+        "total_contributions": 129,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/sethumadhavank_"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sethumadhavan-k"
+        }
+    ],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**sethumadhavan-k/sethumadhavan-k** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {
+        "sirocco-ventures/raggenie": {
+            "link": "https://github.com/sirocco-ventures/raggenie",
+            "summary": "Recent activities on the sirocco-ventures/raggenie repository include significant contributions to enhance database schema description visibility. A pull request was created to address an issue where the description was lost after navigating away and returning to the page. The fix ensures schema visibility remains intact across page navigation, providing a seamless user experience."
+        },
+        "sirocco-ventures/raggenie/pr-142": {
+            "link": "https://github.com/sirocco-ventures/raggenie/pull/142",
+            "summary": "A pr titled 'Fix Database Schema Description Visibility Issue' was created on the 3rd of February, 2025, to resolve a visual glitch in the project, aiming for a bug-free user experience with fully maintained schema details at all stages."
+        }
+    },
+    "profile_summary": "As a software engineer with a strong background in Go, Python, and JavaScript, I bring a versatile skillset to the table. With over 25 public repositories to my name, I have consistently demonstrated my ability to design, develop, and deploy efficient and scalable solutions. When I'm not working on my latest projects, you can find me contributing to the open-source community, learning new technologies, or collaborating with like-minded individuals. I'm always looking for opportunities to grow and improve, so feel free to connect with me and start a conversation."
+}

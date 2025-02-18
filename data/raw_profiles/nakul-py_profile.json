@@ -1,0 +1,73 @@
+{
+    "username": "nakul-py",
+    "name": "verma-nakul",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/173621577?u=ba7158e3d3a60ad78cd3acfbe9a6db4d3503d4a1&v=4",
+    "profile_url": "https://github.com/nakul-py",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pong-game",
+            "description": null,
+            "score": 2.7318083989534094,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/nakul-py/pong-game",
+            "updatedAt": "2024-10-07T15:27:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "lukan",
+            "description": "Project in working",
+            "score": 2.3182967629593083,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/nakul-py/lukan",
+            "updatedAt": "2025-02-18T14:36:50Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Python",
+            "description": "A python repo",
+            "score": 1.6916282457278378,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/nakul-py/Python",
+            "updatedAt": "2025-02-10T14:29:38Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 8,
+    "public_repos": 52,
+    "pull_requests_merged": "100+",
+    "issues_closed": "100+",
+    "achievements": {
+        "total_contributions": 699,
+        "repositories_contributed_to": 38
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

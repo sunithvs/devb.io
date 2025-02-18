@@ -1,0 +1,155 @@
+{
+    "username": "aswinpradeepc",
+    "name": "Aswin Pradeep",
+    "bio": "ML Intern @ Geojit | Ex-Intern @ Agua India & Lascade | CSE Student at CUSAT |Backend Engineer | Linux Guy",
+    "location": "Kochi",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100145929?u=e5651ee83bc9961f471647c830fb72ce88a04991&v=4",
+    "profile_url": "https://github.com/aswinpradeepc",
+    "top_languages": [
+        [
+            "Python",
+            12
+        ],
+        [
+            "C++",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "take-rest",
+            "description": "Eye monitoring system for people with high screen time",
+            "score": 12.996240248798443,
+            "stars": 3,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/take-rest",
+            "updatedAt": "2024-06-03T14:26:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Fidget-a-Ton",
+            "description": "Design files of swag made for Make-A-Ton 6.0",
+            "score": 12.441187777243414,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/aswinpradeepc/Fidget-a-Ton",
+            "updatedAt": "2024-05-16T20:14:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "linkradr",
+            "description": null,
+            "score": 11.887006662162891,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/linkradr",
+            "updatedAt": "2025-02-14T06:29:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "tasks-cli",
+            "description": "CLI todo list app",
+            "score": 11.754163453834636,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/tasks-cli",
+            "updatedAt": "2024-12-24T12:38:40Z",
+            "isPinned": true,
+            "homepage": "https://aswinpradeepc.github.io/tasks-cli/"
+        },
+        {
+            "name": "SOE-Project-Hub",
+            "description": "Complete academic Project Submission streamlining solution",
+            "score": 11.662348233404641,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/aswinpradeepc/SOE-Project-Hub",
+            "updatedAt": "2025-02-14T06:29:57Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Bibliobazaar",
+            "description": "An e-commerce book-selling website developed using Django",
+            "score": 11.619762155470074,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/aswinpradeepc/Bibliobazaar",
+            "updatedAt": "2024-03-30T12:28:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "team4xplor",
+            "description": "Repo for Xplor Hackathon",
+            "score": 2.7866888921820494,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/team4xplor",
+            "updatedAt": "2024-12-31T04:41:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gitpull_automation",
+            "description": null,
+            "score": 1.905258745511681,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/aswinpradeepc/gitpull_automation",
+            "updatedAt": "2025-02-18T09:44:26Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 16,
+    "following": 14,
+    "public_repos": 52,
+    "pull_requests_merged": 2,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 379,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/aswinpradeepc"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">\n  <img src=\"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aswin+\ud83d\udc4b;Backend+%7C+Cloud+%7C+ML;Exploring+life+at+full+throttle!\">\n</h1>\n\n---\n\n## **About Me**\n- \ud83d\udd2d **Currently working on:** Cloud, Backend, and AI projects!  \n- \ud83c\udf31 **Learning:** Advanced **Docker CI/CD**, **Vector DBs**, and **GitHub Actions**  \n- <b>Check out my [portfolio](https://aswin.radr.in)!</b> or [devb.io](https://devb.io/aswinpradeepc) <br>\n\n![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)\n\n---\n\n## \ud83d\udee0 **Tech Stack**\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,nginx,react,flutter,git,github,linux\" />\n</p>\n\n---\n\n\n## \ud83d\udee0\ufe0f Projects  \n\n| **Project**                                                                 | **Description**                                                                                          | **Technologies Used**                                                                                                            |\n|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|\n| [**LinkRadr**](https://github.com/aswinpradeepc/linkradr) |[Live: link.radr.in](https://link.radr.in) A scalable **URL shortener** with features like **custom short links** and **OTP-based authentication**. Deployed with **Dockerized CI/CD**. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white) |\n| [**Edurider (Ongoing)**](https://github.com/aswinpradeepc/edurider_backend) |[Live: edurider.radr.in](https://edurider.radr.in/api/student) A school bus fleet management system with live location sharing and parent-connect features.             | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white) |\n| [**SOE Project Hub**](https://github.com/aswinpradeepc/soe-project-hub)     | An academic project management platform with role-based access, plagiarism detection, and document handling. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |\n| [**Bibliobazaar**](https://github.com/aswinpradeepc/bibliobazaar)           | An e-commerce platform for books featuring secure payments, catalog management, and a user-friendly interface. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat&logo=razorpay&logoColor=white) |\n| [**Tasks CLI**](https://github.com/aswinpradeepc/tasks-cli)                 | A simple command-line to-do list app with features for managing tasks across multiple states.            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white) |\n| [**Take Rest**](https://github.com/aswinpradeepc/take-rest)                 | A Python-based eye monitoring system that tracks blinks and reminds users to take breaks, preventing CVS. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |\n| [**Edurider Frontend (Ongoing)**](https://github.com/aswinpradeepc/edurider) | A Flutter app with Mapbox integrations for real-time notifications and alerts for parents.               | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat&logo=mapbox&logoColor=white) |\n| [**Strabismus Detector**](https://github.com/aswinpradeepc/strabismus-detector) | An end-to-end ML project for strabismus detection and classification using TensorFlow, FastAPI, and React. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) |\n\n---\n\n\ud83d\udd25 **\"Every problem is an opportunity for innovation.\"**  \n",
+    "activity_summary": {
+        "aswinpradeepc/llmsearch": {
+            "link": "https://github.com/aswinpradeepc/llmsearch",
+            "summary": "Recent activities in aswinpradeepc/llmsearch repository included dockerization, updating version 0, and implementing a prototype. These changes suggest improvements to the search functionality and preparation for deployment."
+        },
+        "aswinpradeepc/website": {
+            "link": "https://github.com/aswinpradeepc/website",
+            "summary": "Recent activities in aswinpradeepc/website repository involved updating the resume section, indicating ongoing efforts to maintain a professional online presence and updating personal information."
+        },
+        "aswinpradeepc/pitchmailer": {
+            "link": "https://github.com/aswinpradeepc/pitchmailer",
+            "summary": "A single recent activity in aswinpradeepc/pitchmailer repository included renaming the README file from README.txt to README.md, which is a common and accepted practice in GitHub repositories."
+        },
+        "aswinpradeepc/radr-landing": {
+            "link": "https://github.com/aswinpradeepc/radr-landing",
+            "summary": "Recent activities in aswinpradeepc/radr-landing repository included adding middleware for link redirection, adding a favicon, and implementing features and fixes such as automated updation in deployment and adding services-grid-layout. These changes indicate ongoing development and deployment improvements."
+        }
+    },
+    "profile_summary": "As a seasoned CSE student and industry professional, I leverage my expertise in Python, C++, and TypeScript to drive innovation in Cloud, Backend, and Machine Learning projects. With 52 public repositories, I continue to expand my technical horizons and foster growth through contributions to the developer community. An enthusiastic Backend Engineer and Linux user, I embrace a holistic approach to software development, powered by my passion for coding, problem-solving, and collaboration."
+}

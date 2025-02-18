@@ -1,0 +1,147 @@
+{
+    "username": "jonathandiz",
+    "name": "Jonathan",
+    "bio": "Cloud Computing Management Certificado.\r\nFull Stack Developer certificado from Bootcamp LarnU.\r\nCita ideal: Marat\u00f3n de Netflix en casa con papitas, pizza y pop ",
+    "location": "Quilicura, Santiago de Chile",
+    "avatar_url": "https://avatars.githubusercontent.com/u/114440551?u=b47ca314d14b1cd284c2e7f33e5f62b7f24a4420&v=4",
+    "profile_url": "https://github.com/JonathanDiz",
+    "top_languages": [
+        [
+            "JavaScript",
+            20
+        ],
+        [
+            "TypeScript",
+            4
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Doom_bioshok",
+            "description": null,
+            "score": 10.231045068900364,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JonathanDiz/Doom_bioshok",
+            "updatedAt": "2025-02-11T15:45:08Z",
+            "isPinned": true,
+            "homepage": "https://doom-bioshok.vercel.app"
+        },
+        {
+            "name": "pokedex_angular",
+            "description": null,
+            "score": 10.161542657269848,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/JonathanDiz/pokedex_angular",
+            "updatedAt": "2023-10-20T16:47:37Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "tablero-kanban",
+            "description": "Desarrollado con Vue y ts.",
+            "score": 10.156162788013374,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/JonathanDiz/tablero-kanban",
+            "updatedAt": "2023-06-25T22:10:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "tag-input-app",
+            "description": "Desarrollado con Vue y typescript.",
+            "score": 10.156122456295249,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/JonathanDiz/tag-input-app",
+            "updatedAt": "2023-06-24T15:58:39Z",
+            "isPinned": true,
+            "homepage": "https://tag-input-app.vercel.app"
+        },
+        {
+            "name": "juego_python",
+            "description": null,
+            "score": 10.147718299345712,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/JonathanDiz/juego_python",
+            "updatedAt": "2023-08-23T21:52:18Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "web-api-desafio",
+            "description": null,
+            "score": 10.074217374542133,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JonathanDiz/web-api-desafio",
+            "updatedAt": "2022-10-29T17:44:35Z",
+            "isPinned": true,
+            "homepage": "https://jonathandiz.github.io/web-api-desafio/"
+        },
+        {
+            "name": "McDonalds-sistema-ventas",
+            "description": null,
+            "score": 0.5007123010430011,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JonathanDiz/McDonalds-sistema-ventas",
+            "updatedAt": "2025-01-29T22:14:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "literatura",
+            "description": "Proyecto de Oracle ONE, consumo de api para app de consulta de libros",
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/JonathanDiz/literatura",
+            "updatedAt": "2025-01-20T03:07:06Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 5,
+    "public_repos": 61,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 60,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jonathandiazolivares/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "JonathanDiz/literatura": {
+            "link": "https://github.com/JonathanDiz/literatura",
+            "summary": "Significant activities in literatura repository have included recent push events to refactor business logic and models and services for backend compilation, thereby ensuring optimizations and efficiency."
+        },
+        "JonathanDiz/Doom_bioshok": {
+            "link": "https://github.com/JonathanDiz/Doom_bioshok",
+            "summary": "Optimizations in Doom_bioshok repository have recently been focused on improving performance by optimizing the npc.py file for compilation with pygbag."
+        }
+    },
+    "profile_summary": "As a seasoned developer with expertise in JavaScript, TypeScript, and Go, I drive innovation in cloud-based applications and scalable software systems. Backed by a certification in Cloud Computing Management and a Full Stack Development certification from Bootcamp LarnU, I successfully architect and deliver complex projects. With 61 public repositories and 4 followers, I've established a strong online presence, collaborating and influencing peers within the community. When I'm not developing, you can find me binge-watching movies in a Netflix marathon with family favorites - papitas, pizza, and popcorn."
+}

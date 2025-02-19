@@ -1,0 +1,155 @@
+{
+    "username": "ajuroshan",
+    "name": "Aju Roshan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/70354172?u=36c2e78b7d1451be3c7f34817ec97b74f66d8ef9&v=4",
+    "profile_url": "https://github.com/ajuroshan",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Python",
+            11
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ScreenshotToTelegram",
+            "description": "A Script to take screenshot and send it to a Telegram channel.",
+            "score": 12.269339029049961,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ajuroshan/ScreenshotToTelegram",
+            "updatedAt": "2022-10-26T09:44:42Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ecsa",
+            "description": "The Official Website Repo of Electronics and Communication Students Association CUSAT.",
+            "score": 1.3509059121194649,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/ajuroshan/ecsa",
+            "updatedAt": "2025-02-15T11:51:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "messy",
+            "description": null,
+            "score": 1.3276570386389697,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/ajuroshan/messy",
+            "updatedAt": "2024-12-27T09:37:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SpaceUp_frontend",
+            "description": null,
+            "score": 1.1937508167734947,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/ajuroshan/SpaceUp_frontend",
+            "updatedAt": "2023-05-02T10:56:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "christmas_friend",
+            "description": null,
+            "score": 1.1144359147679759,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/ajuroshan/christmas_friend",
+            "updatedAt": "2022-12-10T16:13:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "cusat-leti-course-website",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ajuroshan/cusat-leti-course-website",
+            "updatedAt": "2025-02-11T23:15:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "medical-data",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ajuroshan/medical-data",
+            "updatedAt": "2025-02-04T19:29:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nutri",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Swift",
+            "url": "https://github.com/ajuroshan/nutri",
+            "updatedAt": "2025-01-22T16:50:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 26,
+    "following": 41,
+    "public_repos": 54,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 626,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/ajuroshan_/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ajuroshan/"
+        }
+    ],
+    "readme_content": "# \ud83d\udc4b Hi, I'm Ajmal Roshan!\n\n<p align=\"left\">\n  <img src=\"https://komarev.com/ghpvc/?username=ajuroshan&label=Profile%20views&color=0e75b6&style=flat\" alt=\"ajuroshan\" />\n</p>\n\n## \ud83d\udcab About Me\n\nI'm currently studying B-Tech Electronics and Communication at Cochin University of Science and Technology. I'm enthusiastic about collaborating on FOSS projects and I'm currently learning Rust. Feel free to ask me about anything interesting!\n\n## \ud83c\udf10 Socials\n\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajuroshan_)\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajuroshan)\n\n### Programming Languages:\n![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\n![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\n![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)\n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\n![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)\n![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)\n\n### Front-end Frameworks:\n![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)\n![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\n![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\n![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\n![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)\n![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\n\n### Cloud Computing:\n![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)\n![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)\n![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)\n\n### Backend Frameworks:\n![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)\n![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)\n\n### Databases:\n![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)\n![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)\n\n### Design:\n![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)\n![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)\n![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)\n![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)\n![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)\n![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\n\n### Other:\n![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)\n![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)\n![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\n![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)\n\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=ajuroshan&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=ajuroshan&theme=merko&hide_border=true)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuroshan&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)\n\n## \ud83c\udfc6 GitHub Trophies\n![](https://github-profile-trophy.vercel.app/?username=ajuroshan&theme=radical&no-frame=true&no-bg=false&margin-w=4)\n\n### \u270d\ufe0f Random Dev Quote\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)\n\n---\n<!-- [![](https://visitcount.itsvg.in/api?id=ajuroshan&icon=7&color=6)](https://visitcount.itsvg.in) -->\n  \n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {
+        "ajuroshan/mini-project": {
+            "link": "https://github.com/ajuroshan/mini-project",
+            "summary": "Recent activities on ajuroshan/mini-project include multiple push events with various commit messages such as adding parent and student models, making admin, and merging pull requests."
+        },
+        "VarshaShaheen/IconMat": {
+            "link": "https://github.com/VarshaShaheen/IconMat",
+            "summary": "Recent activities on VarshaShaheen/IconMat include multiple push events with various commit messages such as fixing issues, adding lunch and dinner scanner, and adding qr scanner."
+        },
+        "ajuroshan/ecsa": {
+            "link": "https://github.com/ajuroshan/ecsa",
+            "summary": "Recent activities on ajuroshan/ecsa include a push event with a commit message indicating id card ready aaki and a pull request event with a title id card ready aaki."
+        }
+    },
+    "profile_summary": "As a B-Tech Electronics and Communication student at Cochin University of Science and Technology, I've developed a strong foundation in programming languages such as Rust, Python, and C. With a passion for contributing to FOSS projects, I'm actively learning and growing as a developer. My experience with front-end frameworks like Next JS, React, and Bootstrap, along with backend frameworks like Django and Flask, has equipped me with a versatile skill set. I'm also proficient in cloud computing platforms like AWS, Heroku, and Firebase, and have experience with databases like SQLite and Postgres. When I'm not coding, you can find me on Instagram or LinkedIn, or exploring new design tools like Adobe Lightroom and Figma. With over 54 public repositories and 26 followers, I'm committed to sharing my knowledge and collaborating with like-minded developers."
+}

@@ -1,0 +1,35 @@
+{
+    "username": "waltercun",
+    "name": "Walter Cun Bustamante",
+    "bio": "",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27817964?u=4eaac2f7b2312e15dc7b12113e68c16a48a1515c&v=4",
+    "profile_url": "https://github.com/WalterCun",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "PyToolsAll",
+            "description": null,
+            "score": 0.3367496740233143,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/WalterCun/PyToolsAll",
+            "updatedAt": "2024-11-26T04:27:18Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 5,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned software engineer with a strong background in computer science, I leverage my expertise in Java, Python, and C++ to drive innovation and efficiency in software development. With a proven track record of delivering high-quality solutions, I've honed my skills in machine learning, data science, and cloud computing. Through my contributions to various open-source projects, I strive to empower others through knowledge sharing and collaboration, as seen in my active participation in the industry. \n\nAs a dedicated developer, I continually explore new technologies to stay ahead of the curve, with a keen interest in emerging trends like DevOps, cybersecurity, and full-stack development. My commitment to learning, growth, and community involvement reflects my passion for building a more robust and connected global tech community.\n\nOutside of my work, I enjoy exploring the intersection of technology and art, seeking new ways to apply programming principles to creative problem-solving. This blend of logic and imagination not only inspires my personal projects but also informs my approach to collaborative work, driving innovative solutions that meet real-world needs."
+}

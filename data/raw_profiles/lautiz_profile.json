@@ -1,0 +1,141 @@
+{
+    "username": "lautiz",
+    "name": "Lautaro Zullo",
+    "bio": "\ud83d\udcbb Backend developer",
+    "location": "C\u00f3rdoba, Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98751835?u=cfe804b279525f5bd74fba1395df7da55f5ae4e9&v=4",
+    "profile_url": "https://github.com/LautiZ",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Java",
+            3
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Taskrr_NestJS",
+            "description": null,
+            "score": 10.295556379861818,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/LautiZ/Taskrr_NestJS",
+            "updatedAt": "2024-09-27T20:09:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "NestJS-cats-mysql-docker-backend-curso-ytbw",
+            "description": null,
+            "score": 10.292067536992656,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw",
+            "updatedAt": "2024-09-06T15:08:50Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "LautiZ",
+            "description": null,
+            "score": 0.29342793099320685,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/LautiZ/LautiZ",
+            "updatedAt": "2025-01-16T15:13:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "capabilia-pt-node",
+            "description": null,
+            "score": 0.25746652460575503,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/LautiZ/capabilia-pt-node",
+            "updatedAt": "2024-03-17T20:21:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "capabilia-pt-php",
+            "description": null,
+            "score": 0.25746652460575503,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/LautiZ/capabilia-pt-php",
+            "updatedAt": "2024-03-17T20:24:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "capabilia-pt-react",
+            "description": null,
+            "score": 0.25746652460575503,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/LautiZ/capabilia-pt-react",
+            "updatedAt": "2024-03-17T20:15:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Frontend-ArgPrograma-Final",
+            "description": null,
+            "score": 0.15205726864554236,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/LautiZ/Frontend-ArgPrograma-Final",
+            "updatedAt": "2023-03-04T19:19:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Backend-ArgPrograma-Final",
+            "description": "Backend hecho en Java para el proyecto final del Argentina programa.",
+            "score": 0.15189698319742156,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/LautiZ/Backend-ArgPrograma-Final",
+            "updatedAt": "2023-02-27T21:11:27Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 5,
+    "following": 3,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 327,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/lautaro-zullo-961288195/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/capzuvl/"
+        }
+    ],
+    "readme_content": "<div align=\"center\">\n<h1 align=\"center\">Hi, I'm <a href=\"https://www.linkedin.com/in/lautaro-zullo-961288195/\">Lautaro Zullo</a>\ud83d\ude80</h1>\n</div>\n\n## Sobre mi\n\n- \ud83d\udcbb Backend developer\n- \ud83d\udc0d Django Python\n- \u2728 Getting started in NodeJs\n<br>\n\n### Languages and Tools \ud83d\udee0 \n![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)\n![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)\n![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)\n![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)\n![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)\n![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)\n![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)\n![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)\n![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)\n![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)\n![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)\n<br>\n\n### \u2699\ufe0f &nbsp;GitHub Analytics\n\n<p align=\"center\">\n<a href=\"https://github.com/LautiZ\">\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=LautiZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true\"/>\n  <img height=\"180em\" src=\"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LautiZ&layout=compact&langs_count=8&theme=algolia\"/>\n</a>\n</p>\n",
+    "profile_summary": "As a seasoned backend developer with expertise in TypeScript, Java, and JavaScript, I leverage my technical skills to drive innovative solutions. With a strong foundation in Python through Django and a growing interest in NodeJs, I continuously expand my skillset to tackle complex problems. My active development on GitHub, with 11 public repositories and a growing professional network, demonstrates my commitment to delivering high-quality code and collaborating with like-minded individuals."
+}

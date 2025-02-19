@@ -1,0 +1,40 @@
+{
+    "username": "alejandroidk",
+    "name": "\u00bfAlejandro?",
+    "bio": "Viva el fulbooooooooooo...",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/148800889?v=4",
+    "profile_url": "https://github.com/AlejandroIdk",
+    "top_languages": [
+        [
+            "PHP",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "QuickCheck",
+            "description": null,
+            "score": 10.27369071762993,
+            "stars": 0,
+            "forks": 0,
+            "language": "PHP",
+            "url": "https://github.com/AlejandroIdk/QuickCheck",
+            "updatedAt": "2024-09-19T12:21:17Z",
+            "isPinned": true,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 1,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 43,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

@@ -1,0 +1,120 @@
+{
+    "username": "sandeepbhuvan",
+    "name": "sandeepbhuvan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/107866552?u=9e97763f239d86079be3209df6829127a56ff1e7&v=4",
+    "profile_url": "https://github.com/sandeepbhuvan",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Java",
+            3
+        ],
+        [
+            "Jupyter Notebook",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "sandeepbhuvan",
+            "description": null,
+            "score": 0.34961290756276386,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/sandeepbhuvan/sandeepbhuvan",
+            "updatedAt": "2024-12-11T08:30:55Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "android",
+            "description": "S3 MAD LAB",
+            "score": 0.3325308619860464,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sandeepbhuvan/android",
+            "updatedAt": "2024-11-21T20:06:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "S3_LAB",
+            "description": "Data Science Lab ",
+            "score": 0.3155509708864671,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/sandeepbhuvan/S3_LAB",
+            "updatedAt": "2024-11-27T02:25:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "INTERVIEW",
+            "description": null,
+            "score": 0.3044292207885664,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/sandeepbhuvan/INTERVIEW",
+            "updatedAt": "2024-10-07T17:59:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "S2-MCA-SABIN",
+            "description": null,
+            "score": 0.25785995122869343,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sandeepbhuvan/S2-MCA-SABIN",
+            "updatedAt": "2024-03-22T09:17:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "S1_LAB",
+            "description": null,
+            "score": 0.24517426765959374,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/sandeepbhuvan/S1_LAB",
+            "updatedAt": "2024-10-05T09:16:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "S2_LAB",
+            "description": null,
+            "score": 0.1683453148833088,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/sandeepbhuvan/S2_LAB",
+            "updatedAt": "2024-02-07T09:12:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 15,
+    "following": 19,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "\n",
+    "profile_summary": "As a seasoned software developer with a strong foundation in C and Java, I leverage my expertise in data analysis and scientific computing using Jupyter Notebook to drive innovation and solve complex problems. With a proven track record of delivering high-quality solutions, I have established a professional network of 15 followers and contributed to 7 public repositories, showcasing my commitment to active development and collaboration. I am passionate about applying technical skills to real-world challenges and continuously seeking opportunities to grow and learn."
+}

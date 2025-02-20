@@ -1,0 +1,98 @@
+{
+    "username": "sayanth-t",
+    "name": "sayanth-t",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/185595425?v=4",
+    "profile_url": "https://github.com/sayanth-t",
+    "top_languages": [
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Thrayi-Food",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sayanth-t/Thrayi-Food",
+            "updatedAt": "2025-02-18T18:22:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-codebase",
+            "description": "A collection of small React projects, experiments, and component tests to enhance my React skills.",
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sayanth-t/react-codebase",
+            "updatedAt": "2025-02-07T15:22:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "eCom-Backend",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/sayanth-t/eCom-Backend",
+            "updatedAt": "2025-01-28T09:48:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "devTinder",
+            "description": null,
+            "score": 0.3111851412795471,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sayanth-t/devTinder",
+            "updatedAt": "2025-01-27T11:37:58Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 48,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "sayanth-t/react-codebase": {
+            "link": "https://github.com/sayanth-t/react-codebase",
+            "summary": "Recent activities on sayanth-t/react-codebase include implementation of search, useEffect practise, filter feature and basic structure for food ordering app UI."
+        },
+        "sayanth-t/eCom-Backend": {
+            "link": "https://github.com/sayanth-t/eCom-Backend",
+            "summary": "Recent activities on sayanth-t/eCom-Backend include data-table pagination, contact feature, about section, product quick view feature and review feature."
+        },
+        "sayanth-t/Thrayi-Food": {
+            "link": "https://github.com/sayanth-t/Thrayi-Food",
+            "summary": "Recent activities on sayanth-t/Thrayi-Food include implementation of online status feature and api call in class component."
+        },
+        "sayanth-t/devTinder": {
+            "link": "https://github.com/sayanth-t/devTinder",
+            "summary": "Recent activities on sayanth-t/devTinder include pagination and feed API implementation."
+        }
+    },
+    "profile_summary": "As a dedicated frontend developer, I have a proven expertise in creating high-quality web applications using JavaScript and CSS. Leveraging my experience with these technologies, I craft intuitive and visually appealing interfaces that deliver seamless user experiences. I'm passionate about staying up-to-date with industry trends and contribute to various projects through my public repositories."
+}

@@ -1,0 +1,142 @@
+{
+    "username": "oa-sid",
+    "name": "oa-sid",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/120921159?u=c5510720518bb6c2baa259d764ee48890e131166&v=4",
+    "profile_url": "https://github.com/OA-sid",
+    "top_languages": [
+        [
+            "Kotlin",
+            3
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Dialer",
+            "description": "calling app",
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/OA-sid/Dialer",
+            "updatedAt": "2025-01-28T18:15:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Simple_Chat_Screen",
+            "description": "Chat Screen Single Page Android App",
+            "score": 0.4551196133134187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/OA-sid/Simple_Chat_Screen",
+            "updatedAt": "2025-01-25T17:10:23Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "htdocs",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/OA-sid/htdocs",
+            "updatedAt": "2025-02-05T09:11:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Vulnerabl-e_Site",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OA-sid/Vulnerabl-e_Site",
+            "updatedAt": "2024-12-16T14:38:56Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ZombieVsTank",
+            "description": null,
+            "score": 0.3062574647735587,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/OA-sid/ZombieVsTank",
+            "updatedAt": "2024-10-10T17:16:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "shopping-site",
+            "description": null,
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/OA-sid/shopping-site",
+            "updatedAt": "2024-09-09T16:51:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PG-room-Finder",
+            "description": null,
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OA-sid/PG-room-Finder",
+            "updatedAt": "2024-06-27T14:37:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PG-rooms-availability",
+            "description": null,
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/OA-sid/PG-rooms-availability",
+            "updatedAt": "2024-06-27T14:54:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 11,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 24,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @OA-sid\n- \ud83d\udc40 I\u2019m interested in development \n- \ud83c\udf31 I\u2019m currently pursuing Btech\n- \ud83d\udc9e\ufe0f I\u2019m looking to an internship from where I can polish my skills\n\n\n<!---\nOA-sid/OA-sid is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {
+        "OA-sid/Dialer": {
+            "link": "https://github.com/OA-sid/Dialer",
+            "summary": "Over the past few weeks, there have been significant updates to the Dialer repository, including the creation of a README.md file by pushing on January 28, 2025, and multiple merge pushes with commit messages mentioning 'My 2nd commit'. There were 3 commits made during this period."
+        },
+        "OA-sid/htdocs": {
+            "link": "https://github.com/OA-sid/htdocs",
+            "summary": "Between February 5, 2025, two new commits were pushed, focusing on editing existing content and creating new content. No further activity is recorded for this repository."
+        }
+    },
+    "profile_summary": "I'm a skilled software developer with expertise in developing scalable and efficient applications using Kotlin, Python, and Dart. With a strong foundation in software development, I'm actively contributing to 11 public repositories and seeking opportunities to further hone my skills through collaborative projects and knowledge sharing. Currently pursuing a Btech degree, I'm excited to leverage my skills and experiences to drive innovation and growth."
+}

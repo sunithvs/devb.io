@@ -1,0 +1,91 @@
+{
+    "username": "ingeze",
+    "name": "Ezequiel Saucedo",
+    "bio": "Hello, my name is Ezequiel. I am a backend developer. I am passionate about learning something new every day.",
+    "location": "Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/126285694?u=00f0057315db0d9179678c47689c95da4b16f0b5&v=4",
+    "profile_url": "https://github.com/ingEze",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gastrobot",
+            "description": "GastroBot is an intelligent assistant that helps you decide what to cook when you're out of ideas, thanks to its integration with artificial intelligence.",
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ingEze/gastrobot",
+            "updatedAt": "2025-02-20T22:29:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "chat-realtime",
+            "description": "This is my first project, I am working on a real-time chat app called FlopiChat.",
+            "score": 0.33334743242371556,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ingEze/chat-realtime",
+            "updatedAt": "2025-02-06T18:07:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rest-api-deploy",
+            "description": "Curso node, clase 4",
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ingEze/rest-api-deploy",
+            "updatedAt": "2024-07-29T23:04:36Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 80,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/ezequiel-rodrigo-saucedo-50451a294"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/backEzequiel_"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "ingezechatrealtime": {
+            "link": "https://github.com/ingEze/chat-realtime",
+            "summary": "Recent contributions to ingEze/chat-realtime include implementing search functions for added friends, fixing general bugs, and improving Gmail sending. Email validation was also implemented during registration, and real-time chat functionality was fully developed."
+        },
+        "ingezegastrobot": {
+            "link": "https://github.com/ingEze/gastrobot",
+            "summary": "Recent work on ingEze/gastrobot involves structuring code, reorganizing bot functionality, and adding the capability to search recipes and add ingredients."
+        },
+        "ingezetelegrambot": {
+            "link": "https://github.com/ingEze/telegram-bot",
+            "summary": "Recent activity on ingEze/telegram-bot includes updating the README.MD file, optimizing the README documentation."
+        }
+    },
+    "profile_summary": "As a seasoned backend developer with expertise in TypeScript and JavaScript, I am committed to crafting robust and scalable applications. With a passion for constant learning and a drive to deliver high-quality solutions, I leverage my technical skills to tackle complex problems. My contributions to 3 public repositories demonstrate my dedication to active development and collaboration. Through my work, I aim to merge technical innovation with real-world impact, driving forward the evolution of software development."
+}

@@ -1,0 +1,137 @@
+{
+    "username": "marinaoreskovic",
+    "name": "Marina Oreskovic",
+    "bio": "Full Stack Developer",
+    "location": "Buenos Aires,Argentina",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44814229?u=fe36f7748c581791265741b68e997af3785e0e0e&v=4",
+    "profile_url": "https://github.com/marinaoreskovic",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "JavaScript",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "arcoiris-libreria",
+            "description": "E-commerce hecho con React JS",
+            "score": 1.1103925165450748,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/marinaoreskovic/arcoiris-libreria",
+            "updatedAt": "2021-12-10T04:19:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pet-shop",
+            "description": "A Node.js-based e-commerce platform for pet accessories, developed for a Coderhouse course.",
+            "score": 0.2751769250533908,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/marinaoreskovic/pet-shop",
+            "updatedAt": "2024-07-04T02:04:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "UMSA-practica-1",
+            "description": "Practica de GIT",
+            "score": 0.2655349337348481,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/marinaoreskovic/UMSA-practica-1",
+            "updatedAt": "2024-05-14T16:35:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "marina-oreskovic-web",
+            "description": "My landing page",
+            "score": 0.2619241974141833,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/marinaoreskovic/marina-oreskovic-web",
+            "updatedAt": "2024-06-07T01:56:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "home-page",
+            "description": "Home page for an exercise",
+            "score": 0.25879659321923154,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/marinaoreskovic/home-page",
+            "updatedAt": "2024-03-30T03:06:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "marinaoreskovic",
+            "description": null,
+            "score": 0.2083859051291262,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/marinaoreskovic/marinaoreskovic",
+            "updatedAt": "2024-06-16T03:22:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Actividades_Java_Coderhouse",
+            "description": null,
+            "score": 0.07106160429162303,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/marinaoreskovic/Actividades_Java_Coderhouse",
+            "updatedAt": "2022-01-17T01:34:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ToDoList-ReactNative",
+            "description": null,
+            "score": 0.07099967081602974,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/marinaoreskovic/ToDoList-ReactNative",
+            "updatedAt": "2022-01-06T01:32:14Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 7,
+    "following": 12,
+    "public_repos": 17,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 34,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/marinaoreskovic"
+        }
+    ],
+    "readme_content": "\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=marinaoreskovic&label=Profile%20views&color=0e75b6&style=flat\" alt=\"marinaoreskovic\" /> </p>\n<h1 align=\"center\">Hi \ud83d\udc4b\ud83c\udffb, I'm Marina Oreskovic</h1>\n<h3 align=\"center\">A passionate Full Stack Developer \ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb from Buenos Aires, Argentina</h3>\n<br/>\n<h2>About me</h2>\nI have nearly 3 years of experience in developing digital solutions for financial institutions.\n<br/>\nCurrently, I am studying the third year of the Bachelor's degree in Systems Analyst at the Universidad de Buenos Aires (UBA) and I am committed to staying updated in my field.\n<br/>\nI am passionate about learning new technologies and applying my knowledge to help others achieve their goals. I am a professional committed to quality and excellence in everything I do. I enjoy working in a team and have effective communication and collaboration skills.\n<br/>\n<br/>\n<h2>Skills</h2>\n<h3>Programming Languages</h3>\n<a href=\"#\"><img alt=\"JavaScript\" src=\"https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black\"></a>\n<a href=\"#\"><img alt=\"Java\" src=\"https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white\"></a>\n<h3>Frontend Technologies</h3>\n<a href=\"#\"><img alt=\"HTML\" src=\"https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white\"></a>\n<a href=\"#\"><img alt=\"CSS\" src=\"https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white\"></a>\n<a href=\"#\"><img alt=\"React\" src=\"https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB\"></a>\n<a href=\"#\"><img alt=\"Redux\" src=\"https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white\"></a>\n<a href=\"#\"><img alt=\"\" src=\"\"></a>\n<a href=\"#\"><img alt=\"\" src=\"\"></a>\n<h3>Backend Technologies</h3>\n<a href=\"#\"><img alt=\"Postman\" src=\"https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white\"></a>\n<a href=\"#\"><img alt=\"MySQL\" src=\"https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white\"></a>\n<h3>Others</h3>\n<a href=\"#\"><img alt=\"Git\" src=\"https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white\"></a>\n<a href=\"#\"><img alt=\"Notion\" src=\"https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white\"></a>\n<br/>\n<br/>\n<p align=\"center\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs?username=marinaoreskovic&show_icons=true&locale=en&layout=compact\" alt=\"marinaoreskovic\" /></p>\n",
+    "profile_summary": "As a devout Full Stack Developer with nearly three years of experience in crafting digital solutions for financial institutions, I leverage my expertise in TypeScript, C++, and JavaScript to deliver high-quality applications. With a strong educational foundation from the Bachelor's degree in Systems Analyst at the Universidad de Buenos Aires, I prioritize staying updated in my field and continuously expand my technical capabilities. Alongside my passion for learning and team collaboration, I aim to make a positive impact through technology."
+}

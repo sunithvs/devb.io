@@ -102,8 +102,22 @@ class GitHubProjectRanker:
         forks = repo.get('forks_count', 0)
 
         # Recency calculation
-        created_at = datetime.strptime(repo.get('created_at', ''), "%Y-%m-%dT%H:%M:%SZ")
-        updated_at = datetime.strptime(repo.get('updated_at', ''), "%Y-%m-%dT%H:%M:%SZ")
+        try:
+            created_at = datetime.strptime(repo.get('created_at', ''), "%Y-%m-%dT%H:%M:%S.%fZ")
+        except ValueError:
+            try:
+                created_at = datetime.strptime(repo.get('created_at', ''), "%Y-%m-%dT%H:%M:%SZ")
+            except ValueError:
+                created_at = datetime.now()
+
+        try:
+            updated_at = datetime.strptime(repo.get('updated_at', ''), "%Y-%m-%dT%H:%M:%S.%fZ")
+        except ValueError:
+            try:
+                updated_at = datetime.strptime(repo.get('updated_at', ''), "%Y-%m-%dT%H:%M:%SZ")
+            except ValueError:
+                updated_at = datetime.now()
+
         days_since_creation = (datetime.now() - created_at).days
         days_since_update = (datetime.now() - updated_at).days
 

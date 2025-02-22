@@ -152,6 +152,28 @@ class TestGitHubProjectRanker:
             assert top_projects[0]['name'] == 'repo2'  # Pinned repo should be first
             assert top_projects[1]['name'] == 'repo1'  # Highest scored non-pinned repo
 
+    def test_get_featured_projects_empty_languages(self, ranker):
+        """Test getting featured projects when no languages are present"""
+        mock_repos = [
+            create_mock_repo('repo1', stars=100, forks=50, language=None),
+            create_mock_repo('repo2', stars=50, forks=25, language=None)
+        ]
+        mock_pinned = ['repo2']
+
+        with patch.object(ranker, 'fetch_user_repos', return_value=mock_repos), \
+             patch.object(ranker, 'fetch_pinned_repos', return_value=mock_pinned):
+
+            featured = ranker.get_featured(SAMPLE_USERNAME, top_n=2)
+            assert isinstance(featured, dict)
+            assert 'top_projects' in featured
+            assert 'top_languages' in featured
+            assert isinstance(featured['top_languages'], list)
+            assert len(featured['top_languages']) == 0  # Should be empty when no languages
+            
+            top_projects = featured['top_projects']
+            assert len(top_projects) == 2
+            assert top_projects[0]['name'] == 'repo2'  # Pinned repo should be first
+
     def test_error_handling(self, ranker):
         """Test error handling in various scenarios"""
         with patch('requests.get') as mock_get:

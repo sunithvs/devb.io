@@ -1,0 +1,132 @@
+{
+    "username": "ashwinharikumar",
+    "name": "Ashwin Harikumar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/144861048?v=4",
+    "profile_url": "https://github.com/AshwinHarikumar",
+    "top_languages": [
+        [
+            "JavaScript",
+            12
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "Dart",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Book-Voyage",
+            "description": "A Book Store Renting Website Using MERN",
+            "score": 11.665110089641711,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshwinHarikumar/Book-Voyage",
+            "updatedAt": "2024-07-21T12:31:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "React-Website",
+            "description": null,
+            "score": 11.659777594535674,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshwinHarikumar/React-Website",
+            "updatedAt": "2025-02-02T06:30:16Z",
+            "isPinned": true,
+            "homepage": "https://keralatourism-ashwins-projects-1c8fc133.vercel.app"
+        },
+        {
+            "name": "Flutter-Parking-App",
+            "description": null,
+            "score": 11.655674245749305,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/AshwinHarikumar/Flutter-Parking-App",
+            "updatedAt": "2024-07-21T12:30:56Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Ktu-C-Programs",
+            "description": "C programs",
+            "score": 10.27147095749868,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/AshwinHarikumar/Ktu-C-Programs",
+            "updatedAt": "2024-06-17T14:37:03Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Turbidity-detector",
+            "description": "Detection of Turbidity of Water using MERN",
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshwinHarikumar/Turbidity-detector",
+            "updatedAt": "2025-01-02T06:00:43Z",
+            "isPinned": false,
+            "homepage": "https://turbidity-detector.vercel.app"
+        },
+        {
+            "name": "Christmas-Countdown-generator",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshwinHarikumar/Christmas-Countdown-generator",
+            "updatedAt": "2024-12-18T14:24:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Driveflow_web",
+            "description": null,
+            "score": 0.3530661833285802,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AshwinHarikumar/Driveflow_web",
+            "updatedAt": "2024-12-18T13:38:02Z",
+            "isPinned": false,
+            "homepage": "https://driveflow.vercel.app"
+        },
+        {
+            "name": "KTU-S3-CSL-201-DS-Lab",
+            "description": null,
+            "score": 0.3293896685627789,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/AshwinHarikumar/KTU-S3-CSL-201-DS-Lab",
+            "updatedAt": "2024-11-19T22:52:16Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 4,
+    "following": 5,
+    "public_repos": 22,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 206,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "# \ud83d\udc4b Hi, I'm Ashwin Harikumar\n\n## \ud83d\udca1 About Me\nI'm a passionate second-year B.Tech Computer Science student at SSET, actively exploring new technologies and working on projects. I love collaborating in open-source, organizing events, and contributing to innovative tech communities.\n\n### \ud83d\udcbc Experience\n- **Tech Head** @ Oratory Society of SSET (OrSo)\n- **Volunteer** @ FOSS Club SSET\n\n### \ud83d\udee0\ufe0f Skills\n- **Languages**: JavaScript, Java, Python, Dart\n- **Frameworks**: React, Flutter\n- **Tools**: Git, MongoDB, Firebase\n\n### \ud83d\udcc8 Contributions\n- **VibrationTracker App**: Real-time graphing and location tracking for vibration intensity using Flutter.\n- **Bookstore Project**: A full-stack MERN bookstore application.\n\n### \ud83d\udceb Let's Connect\n- **LinkedIn**: [Ashwin Harikumar](www.linkedin.com/in/ashwinharikumar)\n- **Email**: [achuhari79@gmail.com](mailto:achuhari79@gmail.com)\n",
+    "profile_summary": "As a passionate second-year B.Tech Computer Science student at SSET, I leverage my expertise in JavaScript, C, and Dart to drive innovation in tech communities. My experience as Tech Head at the Oratory Society of SSET and Volunteer at FOSS Club SSET has honed my skills in collaboration, event organization, and project management. I'm actively contributing to open-source, with 22 public repositories and a growing network of 4 followers, and look forward to connecting with like-minded developers on LinkedIn and through my email at achuhari79@gmail.com."
+}

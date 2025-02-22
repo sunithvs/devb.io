@@ -1,0 +1,102 @@
+{
+    "username": "x1b1t0",
+    "name": "x1b1t0",
+    "bio": "\ud83d\udcbb Computer Science student passionate about cybersecurity and programming.\r\n\ud83c\udfaf Aspiring to build a career in tech.\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/183842281?u=7fea399c75ff8e1fb6dc8af4c848051a7696eb76&v=4",
+    "profile_url": "https://github.com/x1b1t0",
+    "top_languages": [
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Cyber-Skull-Utility",
+            "description": null,
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/x1b1t0/Cyber-Skull-Utility",
+            "updatedAt": "2025-02-22T19:31:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TaskTracker",
+            "description": null,
+            "score": 12.107641881564373,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/x1b1t0/TaskTracker",
+            "updatedAt": "2025-02-22T19:27:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Luanti-Container-Lifter-Project",
+            "description": null,
+            "score": 11.790218123216476,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/x1b1t0/Luanti-Container-Lifter-Project",
+            "updatedAt": "2025-02-21T15:19:06Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "x1b1t0",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/x1b1t0/x1b1t0",
+            "updatedAt": "2025-02-18T14:34:37Z",
+            "isPinned": false,
+            "homepage": "https://github.com/x1b1t0"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 128,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [],
+    "readme_content": "## \ud83d\udc4b Hi, I\u2019m @x1b1t0  \n\n\ud83d\udcbb **CS student** passionate about **cybersecurity** and **programming**.  \n\ud83c\udfaf **Aspiring tech professional** focused on **security and development**.  \n\n## \ud83d\udc40 Interests  \n- **Cybersecurity**  \n- **Ethical hacking**  \n- **Software development**  \n\n## \ud83c\udf31 Currently Learning  \n- **Penetration testing**  \n- **Python for security**  \n- **Reverse engineering**\n- **Advanced programming**\n\n## \ud83d\udc9e\ufe0f Looking to Collaborate On  \n- **Open-source security projects**  \n- **CTF challenges**  \n\n## \ud83d\udceb How to Reach Me  \n- **GitHub**: [@x1b1t0](https://github.com/x1b1t0)\n\n## \ud83d\ude04 Pronouns  \n- **He/Him** \n\n## \u26a1 Fun Fact  \nI love **ethically breaking things to make them stronger!** \ud83d\udd25  \n\n---\n\n# Stats\n\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true)\n```` \u258b\n",
+    "activity_summary": {
+        "x1b1t0/x1b1t0": {
+            "link": "https://github.com/x1b1t0/x1b1t0",
+            "summary": "Recent activities include repeated updates to README.md."
+        },
+        "x1b1t0/TaskTracker": {
+            "link": "https://github.com/x1b1t0/TaskTracker",
+            "summary": "Recent development of TaskTracker involved new commits and finalization of tasks."
+        },
+        "x1b1t0/PassForge": {
+            "link": "https://github.com/x1b1t0/PassForge",
+            "summary": "PassForge has undergone finalization of commits."
+        },
+        "x1b1t0/Luanti-Container-Lifter-Project": {
+            "link": "https://github.com/x1b1t0/Luanti-Container-Lifter-Project",
+            "summary": "Recent activity in Luanti-Container-Lifter-Project includes a new commit for server.js."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized first-person profile description that highlights your technical skills and expertise:\n\n\"As a computer science student with a passion for cybersecurity and programming, I'm dedicated to building a career in tech. My expertise lies in developing software using Python, JavaScript, and HTML, and I'm continuously pushing boundaries in these areas. With a strong focus on security and development, I'm excited to collaborate with like-minded individuals on open-source security projects and CTF challenges.\""
+}

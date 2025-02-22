@@ -1,0 +1,137 @@
+{
+    "username": "vipinvip",
+    "name": "VIPIN K P",
+    "bio": "Just a bored boy\r\n",
+    "location": "Earth ( the round one )",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58673683?u=d399ba88b3950fcc3b58b6c6861c3f73fd7491b5&v=4",
+    "profile_url": "https://github.com/VipinVIP",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Kotlin",
+            3
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "wallpapers",
+            "description": "\ud83d\uddbc\ufe0f Wallpapers to match your Catppuccin setups!",
+            "score": 10.951903444912789,
+            "stars": 6,
+            "forks": 95,
+            "language": null,
+            "url": "https://github.com/VipinVIP/wallpapers",
+            "updatedAt": "2025-02-08T11:26:43Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TTI-converter",
+            "description": "Text To Image Converter - convert your text into images , share them and extract back it from those images \ud83d\ude09",
+            "score": 2.3429385909543052,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/VipinVIP/TTI-converter",
+            "updatedAt": "2023-03-04T10:24:14Z",
+            "isPinned": false,
+            "homepage": "https://vipinvip.github.io/TTI-converter/"
+        },
+        {
+            "name": "VipinVIP.github.io",
+            "description": null,
+            "score": 2.3340884249541385,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/VipinVIP/VipinVIP.github.io",
+            "updatedAt": "2023-03-04T10:24:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-native-test",
+            "description": "test out react native by implementing  a base instagram header clone",
+            "score": 1.640183823352946,
+            "stars": 1,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/VipinVIP/react-native-test",
+            "updatedAt": "2025-02-19T07:00:27Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "VipinVIP",
+            "description": null,
+            "score": 1.5902372038397183,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/VipinVIP/VipinVIP",
+            "updatedAt": "2024-07-15T03:54:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "my-conky",
+            "description": "Nothing , but my minimal conky config.",
+            "score": 1.5408717775175453,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/VipinVIP/my-conky",
+            "updatedAt": "2023-05-26T01:15:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CNLAB",
+            "description": null,
+            "score": 1.5318536370176112,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/VipinVIP/CNLAB",
+            "updatedAt": "2023-03-04T10:24:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "documentss",
+            "description": null,
+            "score": 1.5302817833611788,
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/VipinVIP/documentss",
+            "updatedAt": "2023-03-04T10:24:14Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 51,
+    "following": 73,
+    "public_repos": 59,
+    "pull_requests_merged": 59,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 111,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/VipinVKP"
+        }
+    ],
+    "readme_content": "## \ud835\udddb\ud835\uddf2\ud835\uddf9\ud835\uddf9\ud835\uddfc\uff01<img src=\"https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif\" width=\"24px\"> \n\n\nWelcome to my profile!  \nI am VIPIN K P, a CS engineering Student \ud83d\udcbb  ,living in  **Kerala, India** :india:<br/>I'm passionate about front-end developement ,python:snake: and of course Opensource :octocat: .Even though I normally use JS, I love to learn and contribute to anything that interests me.\n\n- \ud83c\udf31 Currently learning Typescript & Linux :penguin:\n- \ud83d\udd2d Currently working on [RocketMeet-client](https://github.com/RocketMeet/RocketMeet-client)\n- \u2764\ufe0f\ufe0f Loves to Experiment new technologies/stacks \n- \ud83c\udf0c Amazed on how universe works \n\n\n\n### Things I code with\n\n![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) \n![Bootstrap](https://img.shields.io/badge/-Bootstrap-7509f6?style=flat-square&logo=bootstrap&logoColor=white) \n![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)\n![NextJS](https://img.shields.io/badge/-Nextjs-fafafa?style=flat-square&logo=Next.js&logoColor=black) \n<br/>\n<br/>\n\n[![VipinVIP's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VipinVIP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/VipinVIP)\n\n### Where to find me \n\n[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VipinVIP) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinVKP) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-k-p/)\n\n\n",
+    "profile_summary": "As a CS engineering student living in Kerala, India, I utilize my passion for front-end development and open-source contributions to engage with diverse projects and technologies. Although I primarily use JavaScript, I'm enthusiastic about learning and contributing to various aspects, particularly TypeScript and Linux. My background includes experience with React, NextJS, Bootstrap, and npm, among other tools."
+}

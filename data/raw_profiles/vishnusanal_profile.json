@@ -1,0 +1,142 @@
+{
+    "username": "vishnusanal",
+    "name": "Vishnu Sanal T",
+    "bio": "You're Awesome :)",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/50027064?u=ec18f0c7f493d000f2b8819c44aa123973ec0d4e&v=4",
+    "profile_url": "https://github.com/VishnuSanal",
+    "top_languages": [
+        [
+            "Kotlin",
+            7
+        ],
+        [
+            "Rust",
+            1
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Quotes",
+            "description": "Quotes Status Creator lets you share quotations as status images on social media",
+            "score": 22.696733024912284,
+            "stars": 50,
+            "forks": 21,
+            "language": "Java",
+            "url": "https://github.com/VishnuSanal/Quotes",
+            "updatedAt": "2025-02-10T14:48:11Z",
+            "isPinned": true,
+            "homepage": "https://play.google.com/store/apps/details?id=phone.vishnu.quotes"
+        },
+        {
+            "name": "DialogMusicPlayer",
+            "description": "A simple and minimal music player dialog :)",
+            "score": 21.556113853028315,
+            "stars": 86,
+            "forks": 4,
+            "language": "Java",
+            "url": "https://github.com/VishnuSanal/DialogMusicPlayer",
+            "updatedAt": "2025-02-19T15:42:05Z",
+            "isPinned": true,
+            "homepage": "https://vishnusanal.github.io/posts/story-of-dialogmusicplayer/"
+        },
+        {
+            "name": "dotfiles",
+            "description": "I use Arch, BTW :)",
+            "score": 15.759203112012042,
+            "stars": 15,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/VishnuSanal/dotfiles",
+            "updatedAt": "2025-02-13T14:53:19Z",
+            "isPinned": true,
+            "homepage": "https://www.reddit.com/r/unixporn/comments/11bfj1r/bspwm_my_first_rice/"
+        },
+        {
+            "name": "GeethLe",
+            "description": "Forget the Search, Play the Vibe with Geethle! (\u0917\u0940\u0924 \u0932\u0947)",
+            "score": 15.23279668063322,
+            "stars": 11,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/VishnuSanal/GeethLe",
+            "updatedAt": "2024-11-26T15:15:58Z",
+            "isPinned": true,
+            "homepage": "https://geethle.onrender.com"
+        },
+        {
+            "name": "RemindMe",
+            "description": "Set alarms for a specific date in the future (alarm, not a reminder!)",
+            "score": 8.059621498945697,
+            "stars": 27,
+            "forks": 1,
+            "language": "Kotlin",
+            "url": "https://github.com/VishnuSanal/RemindMe",
+            "updatedAt": "2025-02-19T10:34:08Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "PracticalAssignments",
+            "description": "A repo to store practical assignments from my university.",
+            "score": 7.407109906187205,
+            "stars": 6,
+            "forks": 8,
+            "language": "C",
+            "url": "https://github.com/VishnuSanal/PracticalAssignments",
+            "updatedAt": "2025-01-17T05:18:22Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "StatusSaver",
+            "description": "Save WhatsApp Status Updates \u2013 Images and Video with Status Saver for WhatsApp",
+            "score": 6.977476280701074,
+            "stars": 7,
+            "forks": 5,
+            "language": "Java",
+            "url": "https://github.com/VishnuSanal/StatusSaver",
+            "updatedAt": "2023-05-20T00:04:30Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "VishnuSanal",
+            "description": null,
+            "score": 5.066923719267023,
+            "stars": 6,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/VishnuSanal/VishnuSanal",
+            "updatedAt": "2023-12-18T17:37:48Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 168,
+    "following": 215,
+    "public_repos": 56,
+    "pull_requests_merged": 41,
+    "issues_closed": 20,
+    "achievements": {
+        "total_contributions": 866,
+        "repositories_contributed_to": 25
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/VishnuSanalT"
+        },
+        {
+            "provider": "mastodon",
+            "url": "https://fosstodon.org/@VishnuSanal"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">You're Awesome :)</h1>\n\n<h3 align=\"center\">... and I'm Vishnu</h3>\n\n### \ud83d\udcc8 GitHub Stats\n\n<p align=\"center\">\n<a href=\"https://github.com/VishnuSanal\">\n <img height=\"140px\" src=\"https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSanal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true\"/>\n <img height=\"140px\" src=\"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSanal&layout=compact&langs_count=8&theme=tokyonight\"/>\n</a>\n</p>\n\n### \u2764 Let's get connected!\n\n<p align=\"center\">\n<!-- GMail -->\n<a href=\"mailto:t.v.s10123@gmail.com\"><img src=\"https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white\"/></a>\n<!-- LinkedIn -->\n<a href=\"https://www.linkedin.com/in/vishnu-sanal-t\"><img src=\"https://img.shields.io/badge/-LinkedIn-006192?style=flat&logo=Linkedin&logoColor=white\"/></a>\n<!-- StackOverflow -->\n<a href=\"https://stackoverflow.com/users/9652621\"><img src=\"https://img.shields.io/badge/-Stack%20Overflow-F48024?style=flat&logo=StackOverflow&logoColor=white\"/></a>\n<!-- DeveloperPage -->\n<a href=\"https://play.google.com/store/apps/dev?id=5733306165707047154\"><img src=\"https://img.shields.io/badge/-Developer%20Page-FF3333?style=flat&logo=GooglePlay&logoColor=white\"/></a>\n<!-- GitLab -->\n<a href=\"https://gitlab.com/VishnuSanal\"><img src=\"https://img.shields.io/badge/-GitLab-F48024?style=flat&logo=GitLab&logoColor=white\"/></a>\n<!-- DevTo -->\n<a href=\"https://dev.to/vishnusanal\"><img src=\"https://img.shields.io/badge/-Dev%20To-black?style=flat&logo=DevDotTo&logoColor=white\"/></a>\n<!-- Telegram -->\n<a href=\"https://t.me/VishnuSanalT\"><img src=\"https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white\"/></a>\n \n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

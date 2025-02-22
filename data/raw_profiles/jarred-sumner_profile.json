@@ -1,0 +1,147 @@
+{
+    "username": "jarred-sumner",
+    "name": "Jarred Sumner",
+    "bio": "",
+    "location": "San Francisco, CA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/709451?u=c72c2dd8b0368dc63bf2278e0f4f2ff290449cfb&v=4",
+    "profile_url": "https://github.com/Jarred-Sumner",
+    "top_languages": [
+        [
+            "TypeScript",
+            17
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            25
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "git-peek",
+            "description": "git repo to local editor instantly",
+            "score": 17.732737362466718,
+            "stars": 731,
+            "forks": 17,
+            "language": "JavaScript",
+            "url": "https://github.com/Jarred-Sumner/git-peek",
+            "updatedAt": "2025-02-20T16:10:06Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "hop",
+            "description": null,
+            "score": 15.069319431364201,
+            "stars": 353,
+            "forks": 7,
+            "language": "Zig",
+            "url": "https://github.com/Jarred-Sumner/hop",
+            "updatedAt": "2025-02-17T23:24:50Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "styleurl-extension",
+            "description": "Share & export CSS tweaks from Chrome instantly.",
+            "score": 13.982401933501494,
+            "stars": 189,
+            "forks": 8,
+            "language": "JavaScript",
+            "url": "https://github.com/Jarred-Sumner/styleurl-extension",
+            "updatedAt": "2024-12-01T10:02:38Z",
+            "isPinned": false,
+            "homepage": "https://www.styleurl.app"
+        },
+        {
+            "name": "svgj",
+            "description": "Convert svg to jsx. Its fast.",
+            "score": 10.406527881005863,
+            "stars": 57,
+            "forks": 3,
+            "language": "HTML",
+            "url": "https://github.com/Jarred-Sumner/svgj",
+            "updatedAt": "2024-06-07T23:24:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "peek",
+            "description": "1-click from git repo to local editor",
+            "score": 10.299784089807183,
+            "stars": 54,
+            "forks": 3,
+            "language": "TypeScript",
+            "url": "https://github.com/Jarred-Sumner/peek",
+            "updatedAt": "2024-08-26T07:44:19Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "react-native-media-clipboard",
+            "description": "Image support for the clipboard in React Native",
+            "score": 10.181535095812926,
+            "stars": 51,
+            "forks": 3,
+            "language": "Objective-C++",
+            "url": "https://github.com/Jarred-Sumner/react-native-media-clipboard",
+            "updatedAt": "2024-02-29T22:33:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "transmission-rpc",
+            "description": "Control the Transmission BitTorrent client from Ruby",
+            "score": 10.093987723163538,
+            "stars": 24,
+            "forks": 10,
+            "language": "JavaScript",
+            "url": "https://github.com/Jarred-Sumner/transmission-rpc",
+            "updatedAt": "2021-07-01T06:16:40Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "esbuild-plugin-ifdef",
+            "description": null,
+            "score": 9.557287495761791,
+            "stars": 27,
+            "forks": 5,
+            "language": "JavaScript",
+            "url": "https://github.com/Jarred-Sumner/esbuild-plugin-ifdef",
+            "updatedAt": "2025-01-30T23:39:33Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 6838,
+    "following": 27,
+    "public_repos": 270,
+    "pull_requests_merged": 98,
+    "issues_closed": 46,
+    "achievements": {
+        "total_contributions": 3559,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/jarredsumner"
+        }
+    ],
+    "readme_content": "### Hi!\n\n<a href=\"https://twitter.com/jarredsumner\"><img src=\"https://user-images.githubusercontent.com/709451/86995940-2977ea80-c15f-11ea-9575-355389b7f311.png\" height=\"36\" /></a>\n",
+    "activity_summary": {
+        "oven-sh/bun": {
+            "link": "https://github.com/oven-sh/bun",
+            "summary": "The repository oven-sh/bun has seen significant activity recently. Multiple pull requests and push events have been made to implement various features and fixes, including optimizations for barrel files, fixes for mime types, and improvements to the DevServer. The maintainers have also been actively updating the repository's code and documentation, indicating a strong focus on maintaining the project's momentum and quality."
+        },
+        "user-attachments": {
+            "link": "https://github.com/user-attachments",
+            "summary": "Unfortunately, this repository appears to be no longer available. However, based on the given data, we can link it to the original repository which in this case is oven-sh/bun."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with a strong background in TypeScript, C, and JavaScript, I bring a wealth of experience to drive high-performance solutions and scalable applications. With a network of nearly 7,000 followers and over 270 public repositories to my name, I have established myself as a trusted authority in the developer community. I'm passionate about collaboration and innovation, evident through my active engagement on Twitter (@jarredsumner) and my approach to open-source development."
+}

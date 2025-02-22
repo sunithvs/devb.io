@@ -1,0 +1,141 @@
+{
+    "username": "rohit-krish",
+    "name": "ROHIT",
+    "bio": "\u01aa(\u203e.\u203e\u201c)\u2510\u266a\u266c",
+    "location": "Kerala, INDIA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100354219?u=9150baec88b19695c2803244f0edd97b9a6a51db&v=4",
+    "profile_url": "https://github.com/rohit-krish",
+    "top_languages": [
+        [
+            "C",
+            3
+        ],
+        [
+            "Python",
+            12
+        ],
+        [
+            "C++",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CVFS",
+            "description": "Coding computer vision related algorithms from \"scratch\".",
+            "score": 17.539550897831358,
+            "stars": 16,
+            "forks": 2,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/CVFS",
+            "updatedAt": "2025-02-14T06:01:11Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Deeplex",
+            "description": "A Pytorch inspired Deep Learning Framework with GPU Acceleration.",
+            "score": 14.128864385506837,
+            "stars": 6,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/Deeplex",
+            "updatedAt": "2024-08-10T15:57:42Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Content-Based-Movie-Recommendation-System",
+            "description": "Content based movie recommendation ml project.",
+            "score": 12.430516248166228,
+            "stars": 2,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/Content-Based-Movie-Recommendation-System",
+            "updatedAt": "2024-04-02T15:40:56Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Background-Segmentation",
+            "description": "A deep-learning segmentation project.",
+            "score": 12.428540595199028,
+            "stars": 2,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/Background-Segmentation",
+            "updatedAt": "2024-12-01T13:52:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "MLAlgosFromScratch",
+            "description": "Coding Machine Learning Algorithms From Scratch.",
+            "score": 12.348159034415124,
+            "stars": 2,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/MLAlgosFromScratch",
+            "updatedAt": "2023-09-30T17:36:04Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Coding-CNN-Architectures",
+            "description": "Coding Neural Network architectures using PyTorch",
+            "score": 10.150934457078904,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rohit-krish/Coding-CNN-Architectures",
+            "updatedAt": "2023-05-17T04:57:05Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "GridGuide",
+            "description": "Computer Vision Sudoku Solver App.",
+            "score": 3.000530107370781,
+            "stars": 3,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/rohit-krish/GridGuide",
+            "updatedAt": "2024-02-27T23:37:15Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Image-Attendance-Marker",
+            "description": null,
+            "score": 0.6514417228548777,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rohit-krish/Image-Attendance-Marker",
+            "updatedAt": "2025-02-12T18:33:09Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 9,
+    "public_repos": 41,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 42,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/rohit-krish"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/k64zy"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "I'm ROHIT, a seasoned developer and problem solver proficient in C, Python, and C++. With over nine years of experience in crafting robust solutions, I bring a unique blend of technical expertise and creative problem-solving skills to every project. My extensive portfolio, comprising 41 open-source repositories, showcases my ability to develop scalable, reliable, and efficient code."
+}

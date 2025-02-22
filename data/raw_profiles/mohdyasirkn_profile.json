@@ -1,0 +1,120 @@
+{
+    "username": "mohdyasirkn",
+    "name": "Mohd Yasir",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/101822537?v=4",
+    "profile_url": "https://github.com/mohdyasirkn",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Smart-Glasses",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mohdyasirkn/Smart-Glasses",
+            "updatedAt": "2025-01-02T13:48:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Log-Archive-Tool",
+            "description": null,
+            "score": 0.30672656709592333,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/mohdyasirkn/Log-Archive-Tool",
+            "updatedAt": "2024-10-12T07:52:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "medium-blog",
+            "description": null,
+            "score": 0.2751769250533908,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/mohdyasirkn/medium-blog",
+            "updatedAt": "2024-10-12T07:13:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SIMPLR",
+            "description": null,
+            "score": 0.2544787049979559,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mohdyasirkn/SIMPLR",
+            "updatedAt": "2024-02-27T18:33:10Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "basic-paytm",
+            "description": null,
+            "score": 0.25354103597653466,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mohdyasirkn/basic-paytm",
+            "updatedAt": "2024-07-01T14:50:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "zerodha-landing-page",
+            "description": null,
+            "score": 0.16374590670147243,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/mohdyasirkn/zerodha-landing-page",
+            "updatedAt": "2023-12-01T19:08:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "mohdyasirkn",
+            "description": null,
+            "score": 0.1608594760130434,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/mohdyasirkn/mohdyasirkn",
+            "updatedAt": "2023-10-10T11:26:11Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 46,
+    "public_repos": 16,
+    "pull_requests_merged": 5,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**mohdyasirkn/mohdyasirkn** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "As a skilled software developer with expertise in TypeScript, JavaScript, and Shell, I design and build efficient, scalable, and user-centric solutions for complex problems. With a strong focus on collaboration and continuous learning, I have developed a robust set of tools and techniques to tackle even the most challenging projects. My experience in active development, driven by over 16 public repositories and a growing professional network of over 6 followers, has empowered me to tackle real-world challenges with a problem-solving mindset."
+}

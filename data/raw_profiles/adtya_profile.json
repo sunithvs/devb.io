@@ -1,0 +1,138 @@
+{
+    "username": "adtya",
+    "name": "Adithya Nair",
+    "bio": "building stuff that breaks",
+    "location": "/dev/null",
+    "avatar_url": "https://avatars.githubusercontent.com/u/22346805?u=40de8802f7f3dd433f6e0ea123be9f9864d449a6&v=4",
+    "profile_url": "https://github.com/adtya",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "Nix",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "caddy-with-modules",
+            "description": null,
+            "score": 11.681488345353142,
+            "stars": 1,
+            "forks": 0,
+            "language": "Nix",
+            "url": "https://github.com/adtya/caddy-with-modules",
+            "updatedAt": "2025-02-19T13:41:19Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "varnam-nix",
+            "description": "An attempt at making Varnam and friends work on NixOS",
+            "score": 11.653525033851716,
+            "stars": 1,
+            "forks": 0,
+            "language": "Nix",
+            "url": "https://github.com/adtya/varnam-nix",
+            "updatedAt": "2024-05-28T13:55:20Z",
+            "isPinned": true,
+            "homepage": "https://github.com/varnamproject"
+        },
+        {
+            "name": "devshell",
+            "description": "Simple dev shells using nix (mirror)",
+            "score": 11.632546814046872,
+            "stars": 1,
+            "forks": 0,
+            "language": "Nix",
+            "url": "https://github.com/adtya/devshell",
+            "updatedAt": "2025-02-22T00:33:48Z",
+            "isPinned": true,
+            "homepage": "https://git.acomputer.lol/adtya/devshell"
+        },
+        {
+            "name": "acomputer.lol",
+            "description": null,
+            "score": 1.6833325336631493,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/adtya/acomputer.lol",
+            "updatedAt": "2025-02-19T13:41:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "configuration.nix",
+            "description": "NixOS configuration mirror",
+            "score": 1.6351216166897935,
+            "stars": 1,
+            "forks": 0,
+            "language": "Nix",
+            "url": "https://github.com/adtya/configuration.nix",
+            "updatedAt": "2025-02-19T13:41:22Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "calculator-react",
+            "description": null,
+            "score": 1.5899553679567138,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/adtya/calculator-react",
+            "updatedAt": "2025-02-19T13:41:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "adtya.xyz",
+            "description": "The Repository hosting the code for https://adtya.xyz",
+            "score": 1.5896426085984787,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/adtya/adtya.xyz",
+            "updatedAt": "2025-02-21T01:04:06Z",
+            "isPinned": false,
+            "homepage": "https://adtya.xyz"
+        },
+        {
+            "name": "system-software-lab-s5",
+            "description": null,
+            "score": 1.103992526487382,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/adtya/system-software-lab-s5",
+            "updatedAt": "2018-11-25T16:42:59Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 32,
+    "following": 26,
+    "public_repos": 65,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 832,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "adtya/recipes.nix": {
+            "link": "https://github.com/adtya/recipes.nix",
+            "summary": "Recent significant activities on adtya/recipes.nix include refactorings to ezbookkeeping module, improvements to ezbookkeeping build, introduction of ezbookkeeping package, and enhancements to ezbookkeeping configuration. This repository seems to be actively maintained, with recent updates addressing performance and functionality considerations."
+        }
+    },
+    "profile_summary": "As a seasoned software engineer with a strong background in low-level programming languages, I specialize in building robust and scalable systems using C and Go, elevating development efficiency with Nix. With over 65 public repositories and a community of 32 followers, I continuously push the boundaries of innovation and share my expertise through my contributions. I take pride in building stuff that breaks, continually testing and refining my solutions to ensure exceptional reliability, making me a trusted expert in my domain."
+}

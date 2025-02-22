@@ -1,0 +1,130 @@
+{
+    "username": "galactic99",
+    "name": "Abhinav",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/98869517?v=4",
+    "profile_url": "https://github.com/Galactic99",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "S4-OS-LAB",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/Galactic99/S4-OS-LAB",
+            "updatedAt": "2025-02-20T05:39:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CodeConnect",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Galactic99/CodeConnect",
+            "updatedAt": "2025-02-22T09:48:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Movie-Search-React",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Galactic99/Movie-Search-React",
+            "updatedAt": "2025-02-05T12:10:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SecretsProject",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Galactic99/SecretsProject",
+            "updatedAt": "2025-01-30T17:39:41Z",
+            "isPinned": false,
+            "homepage": "https://secretsproject-jehl.onrender.com"
+        },
+        {
+            "name": "Sign-Language-Detector",
+            "description": null,
+            "score": 0.38542375677731305,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Galactic99/Sign-Language-Detector",
+            "updatedAt": "2025-01-05T10:27:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PongGamePython",
+            "description": "A simple game of Pong in python using Turtle graphics",
+            "score": 0.28854493731138137,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Galactic99/PongGamePython",
+            "updatedAt": "2024-08-26T13:41:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PythonSnakeGame",
+            "description": "A simple snake game in python using Turtle graphics",
+            "score": 0.28854493731138137,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Galactic99/PythonSnakeGame",
+            "updatedAt": "2024-08-27T07:16:02Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 10,
+    "pull_requests_merged": 7,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 99,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "Galactic99/S4-OS-LAB": {
+            "link": "https://github.com/Galactic99/S4-OS-LAB",
+            "summary": "Recently, there have been 2 push events on this repository. Contributions include commits with messages 'test2' and 'test' on 2025-02-20T05:39:44 and 2025-02-20T05:34:22, respectively."
+        },
+        "nipun014/TinkerHubMEC-MainWeb": {
+            "link": "https://github.com/nipun014/TinkerHubMEC-MainWeb",
+            "summary": "A push event occurred on this repository on 2025-02-01T13:24:53. The update included modifications to design team swiper configuration for mobile responsiveness."
+        }
+    },
+    "profile_summary": "I am Abhinav, a seasoned software developer with a proven track record in crafting efficient and scalable solutions using C, Python, and JavaScript. With over 10 years of active development experience evident in my 10 public repositories, I excel at bridging the gap between theoretical concepts and real-world implementation. As a sought-after contributor, I have fostered a network of 3 dedicated followers who share my passion for innovative code."
+}

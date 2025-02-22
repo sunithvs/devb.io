@@ -1,0 +1,145 @@
+{
+    "username": "jobinbiju",
+    "name": "Jobin Biju",
+    "bio": "Hooman | Developer | Maker | Mentor. Love to build products.\r\nProduct Engineer @hoomansco ",
+    "location": "Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43461167?u=3d065020f8d2428416e4dda29302fb7fa366b9f4&v=4",
+    "profile_url": "https://github.com/JobinBiju",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Home-Fi",
+            "description": "Home Automation App using Flutter, Adafruit IO & Esp32 dev board.",
+            "score": 26.23959531341822,
+            "stars": 147,
+            "forks": 55,
+            "language": "Dart",
+            "url": "https://github.com/JobinBiju/Home-Fi",
+            "updatedAt": "2025-02-09T08:22:02Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Taskly",
+            "description": "Flutter app to manage tasks.",
+            "score": 26.04597802001285,
+            "stars": 163,
+            "forks": 42,
+            "language": "Dart",
+            "url": "https://github.com/JobinBiju/Taskly",
+            "updatedAt": "2025-02-13T08:54:04Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Wave",
+            "description": "A Music Player App made using Flutter.",
+            "score": 17.494983844517485,
+            "stars": 13,
+            "forks": 3,
+            "language": "Dart",
+            "url": "https://github.com/JobinBiju/Wave",
+            "updatedAt": "2024-01-19T21:16:50Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "JobinBiju.github.io",
+            "description": "My Portfolio website.",
+            "score": 12.266664923903809,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/JobinBiju/JobinBiju.github.io",
+            "updatedAt": "2022-07-25T14:38:34Z",
+            "isPinned": true,
+            "homepage": "https://jobinbiju.github.io"
+        },
+        {
+            "name": "HLF-Chat-App",
+            "description": "This is the final year B.Tech project of Navaneeth Krishna, Jobin Biju, Jeffin Gijo & Alan Thomas Shaji.",
+            "score": 10.072857006809043,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/JobinBiju/HLF-Chat-App",
+            "updatedAt": "2022-07-13T01:56:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Automatic-Hand-Sanitizer",
+            "description": "Automatic hand sanitizer made with Arduino UNO, Ultrasonic distance sensor & servo motors.",
+            "score": 10.066736045079905,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/JobinBiju/Automatic-Hand-Sanitizer",
+            "updatedAt": "2021-06-20T16:47:36Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "JobinBiju",
+            "description": null,
+            "score": 5.894106216077712,
+            "stars": 3,
+            "forks": 6,
+            "language": null,
+            "url": "https://github.com/JobinBiju/JobinBiju",
+            "updatedAt": "2024-09-25T05:29:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Flutter_UI_Experiments",
+            "description": null,
+            "score": 4.759072168790247,
+            "stars": 5,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/JobinBiju/Flutter_UI_Experiments",
+            "updatedAt": "2023-12-11T15:28:30Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 196,
+    "following": 251,
+    "public_repos": 51,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 2226,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/j_ob_z"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/jobinbiju/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/j_o.b_z"
+        }
+    ],
+    "readme_content": "### Howdy Devs !!!\n\n<p align=\"center\">\n  <img src=\"images/working.gif\" width=300>\n  <br /><br />\n  <samp>\n    I'm Jobin Biju \ud83d\udc68\u200d\ud83d\udcbb, a passionate software developer specializing in full-stack web and mobile development \ud83c\udf10\ud83d\udcf1. My experience spans across different startups, where I've excelled in creating user-friendly applications and efficient backend solutions. I'm always eager to explore new technologies \ud83d\ude80 and committed to delivering innovative software experiences \ud83d\udee0\ufe0f.\n  </samp>\n</p>\n\n### Programming Languages\n\n<div style=\"display: flex; justify-content: space-around\">\n<img align=\"left\" alt=\"Dart\" src=\"images/dart.svg\" width=\"40px\" />  \n<img align=\"left\" alt=\"Python\" src=\"images/python.png\" width=\"40px\" />\n<img align=\"left\" alt=\"Go\" src=\"images/go.png\" width=\"90px\" />\n<img align=\"left\" alt=\"C++\" src=\"images/c.png\" width=\"40px\" />\n<img align=\"left\" alt=\"C++\" src=\"images/typescript.png\" width=\"40px\" />\n</div>\n\n<br />\n<br />\n<br />\n\n### Frameworks/Tools\n\n<div style=\"display: flex; justify-content: space-around\">\n<img align=\"left\" alt=\"Flutter\" src=\"images/flutter.png\" width=\"40px\" />  \n<img align=\"left\" alt=\"Arduino\" src=\"images/arduino.png\" width=\"40px\" />\n<img align=\"left\" alt=\"Firebase\" src=\"images/firebase.png\" width=\"40px\" />\n<img align=\"left\" alt=\"Node.js\" src=\"images/node-js.png\" width=\"70px\" />\n<img align=\"left\" alt=\"Next Js\" src=\"images/nextjs.png\" width=\"80px\" />\n<img align=\"left\" alt=\"Astro\" src=\"images/astro.png\" width=\"40px\" />\n<img align=\"left\" alt=\"git\" src=\"images/git.png\" width=\"40px\" />\n<img align=\"left\" alt=\"prisma\" src=\"images/prisma.png\" width=\"40px\" />\n</div>\n\n<br />\n<br />\n<br />\n\n### Design tools I use\n\n<div style=\"display: flex; justify-content: space-around\">\n<img align=\"left\" alt=\"Photoshop\" src=\"images/photoshop.svg\" width=\"40px\" />  \n<img align=\"left\" alt=\"Illustrator\" src=\"images/illustrator.svg\" width=\"40px\" />\n<img align=\"left\" alt=\"Figma\" src=\"images/figma.png\" width=\"40px\" />\n</div>\n\n<br />\n<br />\n<br />\n\n### Get in touch\n\n[<img align=\"left\" alt=\"Jobin_Biju | Whatsapp\" width=\"22px\" src=\"images/whatsapp.svg\" />][whatsapp]\n[<img align=\"left\" alt=\"Jobin_BIju | LinkedIn\" width=\"22px\" src=\"images/linkedin.svg\" />][linkedin]\n[<img align=\"left\" alt=\"Jobin_BIju | Instagram\" width=\"22px\" src=\"images/instagram.svg\" />][instagram]\n[<img align=\"left\" alt=\"Jobin_BIju | Website\" width=\"22px\" src=\"images/link.png\" />][website]\n\n<br />\n<br />\n\n### My Stats\n\n<p align=\"left\"> <img alt=\"Jobin's Github Stats\" src=\"https://github-readme-stats.vercel.app/api?username=JobinBiju&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true\"/>\n\n<br/>\n\n<p align=\"left\"> <img alt=\"Jobin's Language Stats\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=8&layout=donut-vertical&hide=html%22&hide_border=true&theme=github_dark\" />\n\n<br />\n<br />\n  \n[![Holopin board](https://holopin.me/blairripper234)](https://holopin.io/@blairripper234)\n  \n<br />\n<br />\n\n[whatsapp]: https://wa.me/918281392010/\n[website]: https://jobinbiju.me/\n[instagram]: https://www.instagram.com/j_o.b_z/\n[linkedin]: https://www.linkedin.com/in/jobin-biju-55b034179\n\n![](https://hit.yhype.me/github/profile?user_id=43461167)\n\n",
+    "profile_summary": "As a seasoned Product Engineer at hoomansco, I'm Jobin Biju, a passionate software developer with expertise in full-stack web and mobile development. With a strong background in programming languages such as C, C++, and Go, I excel in creating efficient backend solutions and user-friendly applications. My active participation in the developer community, demonstrated by my 196 followers and 51 public repositories, highlights my commitment to delivering innovative software experiences and mentoring others in the field."
+}

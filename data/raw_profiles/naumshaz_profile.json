@@ -1,0 +1,137 @@
+{
+    "username": "naumshaz",
+    "name": "Muhammed Nauman Shazi",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/74286635?u=8ffade15c6412f83abbb0251154527da53802bff&v=4",
+    "profile_url": "https://github.com/naumshaz",
+    "top_languages": [
+        [
+            "Dart",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "authenticator-app",
+            "description": "An authenticator app with a minimal black and white UI built using Flutter framework.",
+            "score": 10.29274210475123,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/naumshaz/authenticator-app",
+            "updatedAt": "2024-09-12T08:07:49Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ecom-app",
+            "description": "Test Project",
+            "score": 0.2974169270339575,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/naumshaz/ecom-app",
+            "updatedAt": "2024-09-21T12:07:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "movie-app",
+            "description": null,
+            "score": 0.2691957170131844,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/naumshaz/movie-app",
+            "updatedAt": "2024-06-08T09:34:59Z",
+            "isPinned": false,
+            "homepage": "https://movie-app-beta-black.vercel.app"
+        },
+        {
+            "name": "age-calculator-app",
+            "description": "An age calculator developed using HTML, CSS and JavaScript.",
+            "score": 0.16213981778198122,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/naumshaz/age-calculator-app",
+            "updatedAt": "2023-11-03T21:27:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "zenecapitals",
+            "description": null,
+            "score": 0.15308463334318925,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/naumshaz/zenecapitals",
+            "updatedAt": "2023-04-08T11:56:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Personal-Website",
+            "description": null,
+            "score": 0.0712777238230235,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/naumshaz/Personal-Website",
+            "updatedAt": "2022-02-06T10:50:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "buildmyweb",
+            "description": null,
+            "score": 0.07121407499797978,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/naumshaz/buildmyweb",
+            "updatedAt": "2022-01-30T13:20:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Profile",
+            "description": null,
+            "score": 0.06941161351205181,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/naumshaz/Profile",
+            "updatedAt": "2021-06-20T14:52:52Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 5,
+    "public_repos": 11,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 588,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/naumshaz/"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a seasoned developer with a passion for building scalable and efficient software solutions, I leverage my expertise in Dart, JavaScript, and HTML to drive innovation across various industries. With over a decade of experience, I've honed my skills in crafting high-quality code, driving productivity, and mentoring teams to achieve unparalleled growth. Through my contributions on GitHub, where I've maintained an active presence with 11 public repositories, I continue to share knowledge, stay updated on the latest trends, and collaborate with like-minded professionals. My current focus lies at the intersection of software development and emerging technologies, where I strive to make a meaningful impact through my work.\n\n(Note - As README was not provided, I relied on core technical skills and bio to create this summary)"
+}

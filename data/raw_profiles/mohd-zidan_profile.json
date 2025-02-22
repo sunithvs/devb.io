@@ -1,0 +1,81 @@
+{
+    "username": "mohd-zidan",
+    "name": "Mohammed Zidan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72930957?v=4",
+    "profile_url": "https://github.com/mohd-zidan",
+    "top_languages": [
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Dart",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Campus-Report-Generator",
+            "description": null,
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mohd-zidan/Campus-Report-Generator",
+            "updatedAt": "2025-01-25T22:28:16Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ecommerce_app",
+            "description": null,
+            "score": 0.3106674672798059,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/mohd-zidan/ecommerce_app",
+            "updatedAt": "2024-11-01T16:49:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "land-registry",
+            "description": "Land Registry System Using Blockchain",
+            "score": 0.15457741639765474,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/mohd-zidan/land-registry",
+            "updatedAt": "2023-05-20T13:40:51Z",
+            "isPinned": false,
+            "homepage": "https://land-registry-ebon.vercel.app"
+        },
+        {
+            "name": "AideaTrader",
+            "description": null,
+            "score": 0.07308215460501517,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/mohd-zidan/AideaTrader",
+            "updatedAt": "2022-08-01T20:04:07Z",
+            "isPinned": false,
+            "homepage": "aideatrader.vercel.app"
+        }
+    ],
+    "followers": 1,
+    "following": 0,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 607,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

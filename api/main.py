@@ -15,6 +15,7 @@ from fastapi_cache.backends.redis import RedisBackend
 # Import your existing modules
 from config.settings import Settings
 from utils.user import get_user_data
+from modules.github_fetcher import GitHubProfileFetcher
 
 redis_client = redis.from_url(
     Settings.REDIS_HOST,
@@ -54,27 +55,11 @@ async def background_manage_users_list(username: str) -> None:
         print(f"Background task error managing users list: {e}")
 
 
-async def validate_github_username(username: str) -> bool:
+async def validate_github_username_handler(username: str) -> bool:
     """
-    Validate GitHub username:
-    - Must be 1-39 characters long
-    - Can only contain alphanumeric characters and hyphens
-    - Cannot start or end with a hyphen
-    - Cannot have consecutive hyphens
+    Handler function that calls the GitHub username validation from the github_fetcher module
     """
-    # Basic pattern without look-ahead
-    pattern = r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
-    if not (re.match(pattern, username) and len(username) <= 39 and '--' not in username):
-        return False
-
-    # Optional: Verify user exists on GitHub
-    async with httpx.AsyncClient() as client:
-        try:
-            response = await client.head(f'https://github.com/{username}')
-            return response.status_code == 200
-        except httpx.HTTPError:
-            # If check fails, fall back to pattern validation
-            return True
+    return await GitHubProfileFetcher.validate_github_username(username)
 
 
 @asynccontextmanager
@@ -110,7 +95,7 @@ async def verify_username(
             )
         ]
 ) -> str:
-    if not await validate_github_username(username):
+    if not await validate_github_username_handler(username):
         raise HTTPException(
             status_code=400,
             detail="Invalid GitHub username. Usernames must be 1-39 characters long and can only contain alphanumeric characters and single hyphens."

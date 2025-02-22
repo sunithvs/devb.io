@@ -1,12 +1,46 @@
 from collections import Counter
 from datetime import datetime, timedelta
 import requests
+import re
+import httpx
 from config.settings import Settings
 from modules.github_projects import GitHubProjectRanker
 
 
 class GitHubProfileFetcher:
     """Fetch comprehensive GitHub user profile data"""
+
+    @staticmethod
+    async def validate_github_username(username: str) -> bool:
+        """
+        Validate GitHub username:
+        - Must be 1-39 characters long
+        - Can only contain alphanumeric characters and hyphens
+        - Cannot start or end with a hyphen
+        - Cannot have consecutive hyphens
+        - Must be an existing GitHub user account
+        - Must be of type 'User' (not Organization)
+        """
+        # Basic pattern validation
+        pattern = r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
+        if not (isinstance(username, str) and re.match(pattern, username) and len(username) <= 39 and '--' not in username):
+            return False
+
+        # Verify user exists on GitHub and check user type
+        async with httpx.AsyncClient() as client:
+            try:
+                headers = {
+                    "Accept": "application/vnd.github.v3+json",
+                    "Authorization": f"token {Settings.get_github_token()}"
+                }
+                response = await client.get(f'https://api.github.com/users/{username}', headers=headers)
+                if response.status_code != 200:
+                    return False
+                data = response.json()
+                return data.get('type') == 'User'
+            except httpx.HTTPError:
+                # If check fails, fall back to pattern validation
+                return True
 
     @staticmethod
     def fetch_user_profile(username):
@@ -20,6 +54,9 @@ class GitHubProfileFetcher:
             dict: Comprehensive user profile data
         """
         try:
+            if not GitHubProfileFetcher.validate_github_username(username):
+                raise ValueError(f"Invalid GitHub username: '{username}'")
+
             one_year_ago = (datetime.now() - timedelta(days=365)).isoformat() + 'Z'
 
             graphql_query = {
@@ -167,6 +204,9 @@ class GitHubProfileFetcher:
             dict: Comprehensive user profile data
         """
         try:
+            if not GitHubProfileFetcher.validate_github_username(username):
+                raise ValueError(f"Invalid GitHub username: '{username}'")
+
             base_url = f"https://api.github.com/users/{username}"
 
             user_response = requests.get(

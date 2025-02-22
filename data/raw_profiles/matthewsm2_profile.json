@@ -1,0 +1,133 @@
+{
+    "username": "matthewsm2",
+    "name": "MATHEWS",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86302350?u=7dab04d2a3074d5482a515dde6a130289b29c21c&v=4",
+    "profile_url": "https://github.com/MatthewsM2",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Kotlin",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "templates-htmls",
+            "description": null,
+            "score": 2.3629772225390657,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MatthewsM2/templates-htmls",
+            "updatedAt": "2024-02-21T15:30:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PasswordManager",
+            "description": "django Project : Password-Manager",
+            "score": 2.36271535387751,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MatthewsM2/PasswordManager",
+            "updatedAt": "2024-02-21T15:30:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Record-Lab-PHP-",
+            "description": "Core PHP",
+            "score": 2.362074920446887,
+            "stars": 2,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/MatthewsM2/Record-Lab-PHP-",
+            "updatedAt": "2024-02-21T15:30:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Dot-Files",
+            "description": "Different Config Files",
+            "score": 2.3613928792875405,
+            "stars": 2,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/MatthewsM2/Dot-Files",
+            "updatedAt": "2024-02-21T15:30:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django_00",
+            "description": "First django Project",
+            "score": 2.3598102681452864,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/MatthewsM2/django_00",
+            "updatedAt": "2024-02-21T15:30:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "climb_2d",
+            "description": null,
+            "score": 2.359419585629726,
+            "stars": 2,
+            "forks": 0,
+            "language": "GDScript",
+            "url": "https://github.com/MatthewsM2/climb_2d",
+            "updatedAt": "2024-02-21T15:30:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "web01",
+            "description": "College Assignment Project Web Programming",
+            "score": 2.3583964187900732,
+            "stars": 2,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/MatthewsM2/web01",
+            "updatedAt": "2023-12-26T04:59:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rows-echelon",
+            "description": "Mathematical Solution Solving Matrix problems",
+            "score": 2.3580840533492626,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/MatthewsM2/rows-echelon",
+            "updatedAt": "2024-02-21T15:30:13Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 30,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 131,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -1,0 +1,80 @@
+{
+    "username": "hibakoiloth",
+    "name": "hibakoiloth",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118441564?v=4",
+    "profile_url": "https://github.com/Hibakoiloth",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "usingQRgenerator",
+            "description": null,
+            "score": 0.2712757458790543,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Hibakoiloth/usingQRgenerator",
+            "updatedAt": "2024-06-15T16:25:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "htmlbasics",
+            "description": "This contains the very basic side of html . made at my day 1 at learning html",
+            "score": 0.2620735034564844,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Hibakoiloth/htmlbasics",
+            "updatedAt": "2024-04-23T11:17:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "eventio",
+            "description": null,
+            "score": 0.2590691396358171,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Hibakoiloth/eventio",
+            "updatedAt": "2024-04-02T07:55:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "test",
+            "description": null,
+            "score": 0.16315741684715643,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Hibakoiloth/test",
+            "updatedAt": "2023-11-21T16:37:02Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 26,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": null
+}

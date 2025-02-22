@@ -1,0 +1,76 @@
+{
+    "username": "akshay6405",
+    "name": "akshay6405",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/162038350?v=4",
+    "profile_url": "https://github.com/Akshay6405",
+    "top_languages": [
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "lock",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Akshay6405/lock",
+            "updatedAt": "2024-10-26T01:18:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "lockedintime2",
+            "description": null,
+            "score": 0.31331646728404366,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Akshay6405/lockedintime2",
+            "updatedAt": "2024-10-26T01:44:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bank-UI-Js",
+            "description": "Banking Ui Designed using HTML CSS & Javascript",
+            "score": 0.2785776535233783,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Akshay6405/Bank-UI-Js",
+            "updatedAt": "2024-07-19T18:02:44Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "modui",
+            "description": null,
+            "score": 0.2616275444903631,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Akshay6405/modui",
+            "updatedAt": "2024-04-20T10:54:53Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 7,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 9,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "\"I'm a skilled and detail-oriented front-end web developer with expertise in CSS, leveraging my extensive experience to build visually stunning and user-friendly interfaces. With 7 public repositories showcasing my latest projects, I continuously push the boundaries of web development by exploring new design patterns, layout structures, and layout possibilities. I strive to deliver efficient, accessible, and adaptable front-end solutions that cater to diverse user needs, thereby elevating the overall user experience.\""
+}

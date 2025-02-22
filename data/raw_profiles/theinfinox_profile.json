@@ -1,0 +1,146 @@
+{
+    "username": "theinfinox",
+    "name": "Govind S R",
+    "bio": "xD",
+    "location": "Trivandrum",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64773624?u=b3ad7295b58aa74517c444952800efc4ffca5b05&v=4",
+    "profile_url": "https://github.com/theinfinox",
+    "top_languages": [
+        [
+            "C++",
+            7
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pc-media-control-lan",
+            "description": "Control PC Media over LAN and sockets",
+            "score": 15.352742564962618,
+            "stars": 3,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/theinfinox/pc-media-control-lan",
+            "updatedAt": "2025-02-22T15:47:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "automation_blynk_iot",
+            "description": "Basic Code for IoT Project using Blynk and NodeMCU",
+            "score": 10.258258126860289,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/theinfinox/automation_blynk_iot",
+            "updatedAt": "2024-03-27T08:21:48Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "haajar_bot",
+            "description": null,
+            "score": 10.258258126860289,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/theinfinox/haajar_bot",
+            "updatedAt": "2024-03-27T16:13:17Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "flutterHaajar",
+            "description": null,
+            "score": 10.257992143758965,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/theinfinox/flutterHaajar",
+            "updatedAt": "2024-03-25T10:05:50Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "theinfinox.github.io",
+            "description": "Portfolio",
+            "score": 10.206377816920742,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/theinfinox/theinfinox.github.io",
+            "updatedAt": "2024-12-14T09:25:39Z",
+            "isPinned": true,
+            "homepage": "https://govindsr.me/"
+        },
+        {
+            "name": "sync-media-player",
+            "description": "play your video in sync while you all are away",
+            "score": 2.9670257722931694,
+            "stars": 1,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/theinfinox/sync-media-player",
+            "updatedAt": "2025-02-20T16:12:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "IoT",
+            "description": "Code",
+            "score": 2.840240410826548,
+            "stars": 3,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/theinfinox/IoT",
+            "updatedAt": "2021-08-05T05:01:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "iot_ecosystem",
+            "description": null,
+            "score": 2.6959533023233577,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/theinfinox/iot_ecosystem",
+            "updatedAt": "2024-06-22T07:10:25Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 93,
+    "following": 109,
+    "public_repos": 64,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 259,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/theinfinox"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/theinfinox/"
+        },
+        {
+            "provider": "youtube",
+            "url": "https://www.youtube.com/@theinfinox"
+        }
+    ],
+    "readme_content": "## What if it does\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

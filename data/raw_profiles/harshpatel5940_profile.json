@@ -1,0 +1,159 @@
+{
+    "username": "harshpatel5940",
+    "name": "Harsh Patel",
+    "bio": "Student \u2022 FreeLancer \u2022 Vibing Golang and Typescript",
+    "location": "Tamil Nadu , India ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/83941233?u=8178a86566c3be30046307b69f85c3295e171ca3&v=4",
+    "profile_url": "https://github.com/HarshPatel5940",
+    "top_languages": [
+        [
+            "TypeScript",
+            10
+        ],
+        [
+            "Go",
+            2
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "EzMs-Backend",
+            "description": "A Simple and Robust API made using  nestJs  (For Educational Purpose)",
+            "score": 16.735734416331596,
+            "stars": 5,
+            "forks": 6,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/EzMs-Backend",
+            "updatedAt": "2024-07-21T07:55:34Z",
+            "isPinned": true,
+            "homepage": "https://documenter.getpostman.com/view/24323329/2sA2xiXCKs"
+        },
+        {
+            "name": "CodeFlick",
+            "description": "Flick it, share it! Open-source Gists for the dev community.",
+            "score": 14.15870517622485,
+            "stars": 6,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/HarshPatel5940/CodeFlick",
+            "updatedAt": "2025-01-07T11:16:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "EzMs-Frontend",
+            "description": "A Clean, simple Frontend made to manage the CMS API using React and Typescript",
+            "score": 13.019769803755526,
+            "stars": 3,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/EzMs-Frontend",
+            "updatedAt": "2024-07-21T07:55:59Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Discord-Helper-Bot",
+            "description": "A Simple and Cool Discord Bot Written in Typescript ",
+            "score": 3.45042512115873,
+            "stars": 2,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/Discord-Helper-Bot",
+            "updatedAt": "2024-06-22T11:27:35Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "gigarick-bot",
+            "description": "For mr fiverr client `stadlerrobert`. Orderid: `#FO82C86704AC6`",
+            "score": 1.3503882381197236,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/gigarick-bot",
+            "updatedAt": "2024-11-01T14:04:24Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "DOW-Bot",
+            "description": "A discord bot for my fiverr client",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/DOW-Bot",
+            "updatedAt": "2025-02-16T11:45:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "aoc",
+            "description": "Advent of Code :D",
+            "score": 0.3403892818747686,
+            "stars": 0,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/HarshPatel5940/aoc",
+            "updatedAt": "2025-01-08T16:29:49Z",
+            "isPinned": false,
+            "homepage": "https://adventofcode.com/2024/about"
+        },
+        {
+            "name": "ragnork-bot",
+            "description": "For mr fiverr client `gabriel_pastro`. Orderid:  `#FO62C47D1F6C8`",
+            "score": 0.300575145323871,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/HarshPatel5940/ragnork-bot",
+            "updatedAt": "2024-11-01T14:04:57Z",
+            "isPinned": false,
+            "homepage": "https://fiverr.com/harshpatel5940"
+        }
+    ],
+    "followers": 85,
+    "following": 191,
+    "public_repos": 34,
+    "pull_requests_merged": 42,
+    "issues_closed": 32,
+    "achievements": {
+        "total_contributions": 536,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/harshpatel5940/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/HarshPatel5940"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.fiverr.com/harshpatel5940"
+        }
+    ],
+    "readme_content": " <h1 align=\"center\"> Hello there! I am Harsh Patel \u270c\ufe0f</h1>\n <h4 align=\"center\"> Student \u2022 Developer \u2022 FreeLancer </h4>\n \n ---\n ## \u270c\ufe0f Fun Things About Me\n \n  - Studying Btech CSE w/s in Cloud Computing @ SRM'26 \n  - **Developer and Tinkerer**\n  - Software Freak & Tech Enthusiast\n  - Someone who loves to make bots :D\n  - *Hobbies: Listening to Music and exploring the tech world*\n\n---\n## \ud83d\udd25 Cool Projects \n Projects I have done\n  - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.\n  - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. Exploring the realm of frontend development.\n  - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's \n    \nProjects I am currently working on\n -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.\n\n--- \n## \ud83d\udd17 Socials \n\n- Linkedin Profile: [HarshPatel5940](https://linkedin.com/in/HarshPatel5940)\n- Discord Profile: [HarshPatel5940](https://discord.com/users/448740493468106753)\n- **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)\n\n---\n<details>\n<summary> Maybe usefull Stats </summary> </br>\n\n## \ud83d\udcbb Tech Stack\n\n![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\n![Go](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)\n![Nest.js](https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB) \n![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express) \n![Javascript](https://img.shields.io/badge/Javascript-%23007ACC.svg?style=for-the-badge&logo=Javascript&logoColor=white) \n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) \n![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) \n![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)\n![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) \n![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) \n![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) \n\n![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) \n\n![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)\n\n</details>\n\n---\n",
+    "activity_summary": {
+        "ProgrammingNotCoding/marai": {
+            "link": "https://github.com/ProgrammingNotCoding/marai",
+            "summary": "Recent activities on the marai repository include the implementation of a new Lawfirm logic, updates to the backend API, and refactoring of authentication middleware. The Pull Request also includes changes to the database schema and routing setup."
+        },
+        "fossunited/fosshack-help": {
+            "link": "https://github.com/fossunited/fosshack-help",
+            "summary": "Recent activities on the fosshack-help repository include the addition of an issue template and personal project option. These changes aim to enhance the user experience and provide better features for users."
+        },
+        "HarshPatel5940/DOW-Bot": {
+            "link": "https://github.com/HarshPatel5940/DOW-Bot",
+            "summary": "Recent activities on the DOW-Bot repository include updates to the bot's functionality, including enhancements to user statistics and match betting interaction. The Pull Request also includes schema updates to improve the betting experience."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized first-person profile description that highlights Harsh Patel's strongest technical skills and expertise:\n\n\"As a seasoned student and dedicated freelancer, I bring a unique blend of technical expertise and enthusiasm to the table. Proficient in typing out TypeScript, integrating with Go, and automating tasks with Shell, I have honed my skills through 34 active public repositories and a growing professional network of 85 followers. From developing innovative bots to crafting robust Content Management System APIs with NestJS, my passion for software development and exploration is contagious. When not tinkering with code, you can find me jamming to music or discovering new frontiers in the tech world.\""
+}

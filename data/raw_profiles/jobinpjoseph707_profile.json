@@ -1,0 +1,138 @@
+{
+    "username": "jobinpjoseph707",
+    "name": "jobinpjoseph707",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/54855287?v=4",
+    "profile_url": "https://github.com/jobinpjoseph707",
+    "top_languages": [
+        [
+            "TypeScript",
+            5
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "C#",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "image-braincell-svm-poc",
+            "description": null,
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/jobinpjoseph707/image-braincell-svm-poc",
+            "updatedAt": "2024-11-05T10:21:45Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Interview-Helper",
+            "description": "Interview-Helper-frontend",
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jobinpjoseph707/Interview-Helper",
+            "updatedAt": "2024-11-05T10:29:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "interview-helper-backend",
+            "description": "interview-helper-backend",
+            "score": 0.2937751700771897,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/jobinpjoseph707/interview-helper-backend",
+            "updatedAt": "2024-09-27T05:34:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "signal-r-",
+            "description": "SignalR demonstration using two Angular applications and one backend.",
+            "score": 0.2847457077824421,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/jobinpjoseph707/signal-r-",
+            "updatedAt": "2024-08-13T05:01:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "SignalR",
+            "description": null,
+            "score": 0.2847457077824421,
+            "stars": 0,
+            "forks": 0,
+            "language": "C#",
+            "url": "https://github.com/jobinpjoseph707/SignalR",
+            "updatedAt": "2024-08-13T05:13:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "untitestexample",
+            "description": null,
+            "score": 0.2738993852101801,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jobinpjoseph707/untitestexample",
+            "updatedAt": "2024-06-29T05:44:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todoangular",
+            "description": null,
+            "score": 0.2732769207513471,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jobinpjoseph707/todoangular",
+            "updatedAt": "2024-06-26T04:01:42Z",
+            "isPinned": false,
+            "homepage": "https://todoangular-pied.vercel.app"
+        },
+        {
+            "name": "tourkerala",
+            "description": null,
+            "score": 0.2730717679880512,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/jobinpjoseph707/tourkerala",
+            "updatedAt": "2024-06-24T21:04:24Z",
+            "isPinned": false,
+            "homepage": "https://tourkeralat.vercel.app"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 33,
+    "pull_requests_merged": 32,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 184,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "aiswaryajayadev/VisitorFormLink": {
+            "link": "https://github.com/aiswaryajayadev/VisitorFormLink",
+            "summary": "A recent push event with commit 'welcom-page-commit' occurred on January 23, 2025 at 6:59 PM UTC."
+        }
+    },
+    "profile_summary": "I'm jobinpjoseph707, a seasoned software developer with expertise in TypeScript, JavaScript, and C#. With a portfolio of 33 public repositories showcasing myactive contributions to various projects, I'm passionate about crafting scalable and maintainable software solutions. Throughout my coding journey, I've built a solid understanding of software development best practices, ensuring high-quality delivery of complex projects."
+}

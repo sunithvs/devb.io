@@ -1,0 +1,137 @@
+{
+    "username": "outoftune2000",
+    "name": "Athul Raj",
+    "bio": "",
+    "location": "Kunnamkulam , Thrissur",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43885340?u=35bfb482de668040c0d61edf723bda2055221dd2&v=4",
+    "profile_url": "https://github.com/outoftune2000",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "cselab",
+            "description": null,
+            "score": 1.713835568414331,
+            "stars": 0,
+            "forks": 2,
+            "language": "C",
+            "url": "https://github.com/outoftune2000/cselab",
+            "updatedAt": "2019-10-11T05:06:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gitnew",
+            "description": "Just for learning some basic git operations",
+            "score": 1.7136269249648115,
+            "stars": 0,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/outoftune2000/gitnew",
+            "updatedAt": "2019-08-17T16:14:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "androidstudio",
+            "description": "DSC PROJECT",
+            "score": 1.1049141093369077,
+            "stars": 0,
+            "forks": 1,
+            "language": "Java",
+            "url": "https://github.com/outoftune2000/androidstudio",
+            "updatedAt": "2019-04-14T07:06:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "on-this-day",
+            "description": "Listing on this day events from Wikipedia ",
+            "score": 0.3874766502109932,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/outoftune2000/on-this-day",
+            "updatedAt": "2025-01-05T18:14:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "website-test",
+            "description": "Test static site using hugo ",
+            "score": 0.3542660059144349,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/outoftune2000/website-test",
+            "updatedAt": "2024-12-16T17:49:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Proxy-rotate",
+            "description": null,
+            "score": 0.28284249651958554,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/outoftune2000/Proxy-rotate",
+            "updatedAt": "2024-08-05T18:57:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Discordbottest",
+            "description": null,
+            "score": 0.2820545609606904,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/outoftune2000/Discordbottest",
+            "updatedAt": "2024-08-03T13:59:03Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "n8n_issue_discord_bot_test",
+            "description": "github repo issue tracker discord  bot using n8n",
+            "score": 0.26298338105721913,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/outoftune2000/n8n_issue_discord_bot_test",
+            "updatedAt": "2024-04-29T10:29:43Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 14,
+    "following": 20,
+    "public_repos": 51,
+    "pull_requests_merged": 0,
+    "issues_closed": 6,
+    "achievements": {
+        "total_contributions": 36,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/0utoftun3"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": "As a seasoned software developer with a passion for building efficient and scalable solutions, I leverage my expertise in C, C++, and Python to drive innovation. With a strong track record of open-source contributions and a network of 14 dedicated followers, I actively engage with the development community through my 51 public repositories."
+}

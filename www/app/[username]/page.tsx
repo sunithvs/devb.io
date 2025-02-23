@@ -2,15 +2,21 @@
 import React, { use } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useGetUserProfile, useGetUserProject } from "@/hooks/user-hook";
+import {
+  useGetUserLinkedInProfile,
+  useGetUserProfile,
+  useGetUserProject,
+} from "@/hooks/user-hook";
 import ProjectCard from "@/components/project-card";
+import Timeline, { transformLinkedInData } from "@/components/timeline"; // Import the Timeline component
 
 const Page = ({ params }: { params: Promise<{ username: string }> }) => {
   const { username } = use(params);
   const { data: user } = useGetUserProfile(username);
   const { data: userProjects } = useGetUserProject(username);
+  const { data: linkedInData } = useGetUserLinkedInProfile(username);
 
-  console.log(userProjects);
+  console.log(linkedInData);
 
   if (!user || !userProjects) {
     return <div>user.not found</div>;
@@ -132,6 +138,26 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
               <ProjectCard key={project.name} {...project} />
             ))}
           </div>
+        </div>
+
+        <div>
+          <h2 className="text-2xl font-bold mb-8">Experience ↓</h2>
+          {linkedInData && linkedInData.experience && (
+            <Timeline
+              items={transformLinkedInData(linkedInData.experience)}
+              backgroundColor="bg-[#B9FF66]"
+            />
+          )}
+        </div>
+
+        <div>
+          <h2 className="text-2xl font-bold mb-8">Education ↓</h2>
+          {linkedInData && linkedInData.education && (
+            <Timeline
+              items={transformLinkedInData(linkedInData.education)}
+              backgroundColor="bg-white"
+            />
+          )}
         </div>
       </div>
     </div>

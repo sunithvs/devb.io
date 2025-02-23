@@ -29,9 +29,7 @@ class Settings:
     PROCESSED_USERS_DIR = os.path.join(BASE_DIR, 'docs/data')
     PROCESSED_USERS_FILE = os.path.join(PROCESSED_USERS_DIR, 'processed_users.json')
     LOGS_DIR = os.path.join(BASE_DIR, 'logs')
-    TEMPLATE_FILES = [file for file in os.listdir(TEMPLATES_DIR) if file.endswith('.html')]
-    if 'index.html' in TEMPLATE_FILES:
-        TEMPLATE_FILES.remove('index.html')
+
     # Generation settings
     MAX_USERS_PER_RUN = 10
     CONTRIBUTION_DAYS = 120

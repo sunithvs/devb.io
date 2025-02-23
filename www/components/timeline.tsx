@@ -29,7 +29,7 @@ const TimelineCard: React.FC<TimelineItem> = ({
 }) => {
   return (
     <div
-      className={`relative p-6 rounded-xl border-2 border-black border-b-4 ${logo ? "bg-[#B9FF66]" : "bg-white"} ${bg}`}
+      className={`relative p-6 rounded-xl border-1 border-black border-b-4 ${logo ? "bg-[#B9FF66]" : "bg-white"} ${bg}`}
     >
       <div className="flex items-start gap-4">
         {logo && (

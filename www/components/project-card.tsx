@@ -14,8 +14,16 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   homepage,
   forks,
 }: Project) => {
+  const previewUrl = `https://api.microlink.io?url=${encodeURIComponent(homepage || url)}&screenshot=true&embed=screenshot.url`;
+
   return (
     <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+      <img
+        src={previewUrl}
+        alt={name}
+        className="w-full h-40 object-cover rounded-lg mb-4"
+      />
+
       <div className="flex items-start justify-between mb-4">
         <div>
           <h3 className="font-bold text-lg mb-2">{name}</h3>

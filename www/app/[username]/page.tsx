@@ -21,8 +21,8 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
   }
 
   return (
-    <div className="container mx-auto px-4 py-8 flex gap-8">
-      <div className="w-[400px] space-y-6">
+    <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
+      <div className="w-full lg:w-[400px] space-y-6">
         <Link href="/" className="block">
           <Image
             src="/images/logo.png"
@@ -33,7 +33,6 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           />
         </Link>
 
-        {/* user.Card */}
         <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
           <div className="flex flex-col items-center text-center mb-6">
             <Image
@@ -71,7 +70,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
         <div>
           <h2 className="text-2xl font-bold mb-8">Get to know me ↓</h2>
 
-          <div className="flex gap-4">
+          <div className="flex flex-col lg:flex-row gap-4">
             <div className={"flex flex-col gap-4 flex-1"}>
               <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4">
                 <h2 className="text-xl font-bold mb-4">📝 Bio</h2>
@@ -95,13 +94,13 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
               </div>
 
-              <div className="flex  gap-4">
-                <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4">
+              <div className="flex flex-col sm:flex-row gap-4">
+                <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4 flex-1">
                   <h3 className="font-bold mb-2">Issue Closed</h3>
                   <p className="text-2xl font-bold">1</p>
                 </div>
 
-                <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+                <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4 flex-1">
                   <h3 className="font-bold mb-2">PR Merged</h3>
                   <p className="text-2xl font-bold">2</p>
                 </div>
@@ -141,7 +140,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
 
         <div>
           <h2 className="text-2xl font-bold mb-8">Projects ↓</h2>
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {userProjects?.top_projects.map((project) => (
               <ProjectCard key={project.name} {...project} />
             ))}

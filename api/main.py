@@ -139,13 +139,13 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
         raise HTTPException(status_code=500, detail=f"Failed to fetch LinkedIn profile: {str(e)}")
 
 # Middleware
-app.add_middleware(APIKeyMiddleware)
+# app.add_middleware(APIKeyMiddleware)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # Allows all origins
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
 )
 
 if __name__ == "__main__":

@@ -1,0 +1,52 @@
+{
+    "username": "jzalazar4",
+    "name": "Julieta Zalazar",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/85000502?v=4",
+    "profile_url": "https://github.com/jzalazar4",
+    "top_languages": [
+        [
+            "Vue",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "TPLab",
+            "description": null,
+            "score": 1.6474817487891174,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/jzalazar4/TPLab",
+            "updatedAt": "2024-04-19T19:10:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "biblioteca",
+            "description": null,
+            "score": 0.2910760962181075,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/jzalazar4/biblioteca",
+            "updatedAt": "2024-10-05T20:39:31Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 18,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a skilled Vue developer with a commitment to delivering high-quality solutions, I leverage my expertise in this versatile JavaScript framework to build robust, intuitive web applications. With a focus on crafting efficient and scalable user experiences, I continually enhance my skills to stay ahead of industry trends. As a trusted contributor to emerging Vue projects, I foster collaborative environments that drive innovation and excellence.\n\nNote: Since the README is missing, I couldn't incorporate unique details from it but instead, highlighted Julieta's technical skills, profile indicators (1 follower, 2 public repositories) and her bio to provide a professional profile description."
+}

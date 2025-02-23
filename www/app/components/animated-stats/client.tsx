@@ -22,7 +22,7 @@ export default function AnimatedStats({ value, subtitle }: AnimatedStatsProps) {
       const duration = 2000; // 2 seconds
       const increment = end / (duration / 16); // Update every 16ms (60fps)
       
-      let timer = setInterval(() => {
+      const timer = setInterval(() => {
         start += increment;
         if (start >= end) {
           setCount(end);

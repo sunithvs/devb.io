@@ -31,7 +31,6 @@ class AIDescriptionGenerator:
             "\n- Limits the bio to 2-3 sentences"
             "\n\nProfile Details:"
             f"\nName: {profile_data['name']}"
-            f"\nCore Technical Skills: {', '.join([lang[0] for lang in profile_data['top_languages']])}"
             f"\n- Followers: {profile_data['followers']} (indicating professional network and influence)"
             f"\n- Public Repositories: {profile_data['public_repos']} (demonstrating active development)"
             f"\n- Bio: {profile_data['bio']}"
@@ -52,6 +51,7 @@ class AIDescriptionGenerator:
             ],
             model="llama-3.1-8b-instant"
         )
+        print(response)
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
 

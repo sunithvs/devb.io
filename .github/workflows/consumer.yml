@@ -1,8 +1,8 @@
 name: Consumer
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Every hour
+#  schedule:
+#    - cron: '0 * * * *' # Every hour
   workflow_dispatch:  # This allows you to manually trigger the workflow from the Actions tab.
 
 permissions:

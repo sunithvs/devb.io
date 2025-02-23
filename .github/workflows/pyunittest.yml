@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  test:
+    name: Run tests & display coverage
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      # Step 1: Checkout the code
+      - uses: actions/checkout@v4
+
+      # Step 2: Set up Python and install dependencies using `uv`
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install uv  # Install uv if it’s needed for dependency management
+          uv venv  # Create a virtual environment using uv
+          uv pip install -r requirements.txt  # Install dependencies within uv-managed environment
+          uv pip install pytest pytest-cov  # Install pytest and coverage plugin within uv-managed environment
+
+      # Step 3: Run pytest with coverage (activate virtual environment first)
+      - name: Run tests with pytest
+        run: |
+          source .venv/bin/activate  # Activate the uv-created virtual environment
+          pytest --cov=.  # Run pytest directly, generating coverage for the entire project
+
+      # Step 4: Generate a coverage report
+      - name: Generate coverage report
+        run: |
+          source .venv/bin/activate  # Activate the virtual environment
+          coverage xml  # Generate an XML report
+
+      # Step 5: Post coverage comment
+      - name: Coverage comment
+        uses: py-cov-action/python-coverage-comment-action@v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

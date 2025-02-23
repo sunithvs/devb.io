@@ -10,7 +10,7 @@ export function TimelineSkeleton() {
         {[1, 2, 3].map((i) => (
           <div
             key={i}
-            className="relative p-6 rounded-xl border-2 border-black border-b-4 bg-white"
+            className="relative p-6 rounded-xl border-1 border-black border-b-4 bg-white"
           >
             <div className="absolute -left-10 top-0 -translate-y-1/2 w-3 h-3 rounded-full border-2 border-black bg-black"></div>
 

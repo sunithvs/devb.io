@@ -2,7 +2,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 
 export function ProfileSkeleton() {
   return (
-    <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+    <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
       <div className="flex flex-col items-center text-center mb-6">
         <Skeleton className="h-24 w-24 rounded-full mb-4" />
         <Skeleton className="h-6 w-40 mb-2" />

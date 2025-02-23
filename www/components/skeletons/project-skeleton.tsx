@@ -2,7 +2,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 
 export function ProjectSkeleton() {
   return (
-    <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+    <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
       <div className="flex items-center justify-between mb-4">
         <Skeleton className="h-6 w-40" />
         <Skeleton className="h-4 w-24" />

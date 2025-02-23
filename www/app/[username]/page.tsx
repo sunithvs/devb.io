@@ -84,20 +84,20 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           <div>
             <div className="flex flex-col lg:flex-row gap-4">
               <div className={"flex flex-col gap-4 flex-1"}>
-                <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4">
+                <div className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">📝 Bio</h2>
                   <p className="text-gray-700">
                     {user?.bio || "i own a computer 💻"}
                   </p>
                 </div>
 
-                <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+                <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">💻 Languages</h2>
                   <div className="flex flex-wrap gap-3">
                     {userProjects?.top_languages.map((language, index) => (
                       <span
                         key={index}
-                        className="px-4 py-2 bg-gray-100 rounded-lg border-2 border-black"
+                        className="px-4 py-2 bg-gray-100 rounded-lg border-black"
                       >
                         {language[0]}
                       </span>
@@ -106,12 +106,12 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4 flex-1">
+                  <div className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 flex-1">
                     <h3 className="font-bold mb-2">Issue Closed</h3>
                     <p className="text-2xl font-bold">1</p>
                   </div>
 
-                  <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4 flex-1">
+                  <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4 flex-1">
                     <h3 className="font-bold mb-2">PR Merged</h3>
                     <p className="text-2xl font-bold">2</p>
                   </div>
@@ -119,7 +119,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
               </div>
 
               <div className={"flex flex-col gap-4"}>
-                <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+                <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">🤔 About</h2>
                   <p className="text-gray-700">
                     {user?.about ||
@@ -127,7 +127,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                   </p>
                 </div>
 
-                <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4 col-span-2">
+                <div className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2">
                   <h2 className="text-xl font-bold mb-2">📍 Location</h2>
                   <p>{user?.location || "Kochi"}</p>
                 </div>
@@ -148,21 +148,6 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
             src={`https://ghchart.rshah.org/191A23/${username}`}
             alt="{{ profile.name }}'s github Chart"
           />
-        </div>
-
-        <div>
-          <h2 className="text-2xl font-bold mb-8">
-            Projects <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
-          {isUserProjectsLoading ? (
-            <ProjectListSkeleton />
-          ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {userProjects?.top_projects.map((project) => (
-                <ProjectCard key={project.name} {...project} />
-              ))}
-            </div>
-          )}
         </div>
 
         <div>
@@ -196,6 +181,21 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 backgroundColor="bg-white"
               />
             )
+          )}
+        </div>
+
+        <div>
+          <h2 className="text-2xl font-bold mb-8">
+            Projects <ArrowDown strokeWidth={2} className="inline" />
+          </h2>
+          {isUserProjectsLoading ? (
+            <ProjectListSkeleton />
+          ) : (
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {userProjects?.top_projects.map((project) => (
+                <ProjectCard key={project.name} {...project} />
+              ))}
+            </div>
           )}
         </div>
       </div>

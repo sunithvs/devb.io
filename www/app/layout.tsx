@@ -1,16 +1,20 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Outfit, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import {QueryClientProvider} from "@/providers/CustomQueryClientProvider";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const outfit = Outfit({
   subsets: ["latin"],
+  variable: "--font-outfit",
+  display: "swap",
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
+  variable: "--font-space-grotesk",
+  display: "swap",
+  weight: ["300", "400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -26,7 +30,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
       <QueryClientProvider>
         {children}

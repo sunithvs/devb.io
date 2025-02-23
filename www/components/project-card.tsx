@@ -16,7 +16,7 @@ const ProjectCard = ({
   const previewUrl = `https://api.microlink.io?url=${encodeURIComponent(homepage || url)}&screenshot=true&embed=screenshot.url`;
 
   return (
-    <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+    <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
       <img
         src={previewUrl}
         alt={name}

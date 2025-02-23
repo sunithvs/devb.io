@@ -51,7 +51,6 @@ class AIDescriptionGenerator:
             ],
             model="llama-3.1-8b-instant"
         )
-        print(response)
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
 

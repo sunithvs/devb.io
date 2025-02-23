@@ -2,15 +2,29 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
+import { Users, GitFork } from "lucide-react";
 
 interface ProfileCardProps {
   name: string;
   username: string;
   avatarUrl: string;
+  bio: string;
+  followers: number;
+  following: number;
+  publicRepos: number;
   index: number;
 }
 
-export default function ProfileCardClient({ name, username, avatarUrl, index }: ProfileCardProps) {
+export default function ProfileCardClient({ 
+  name, 
+  username, 
+  avatarUrl, 
+  bio,
+  followers,
+  following,
+  publicRepos,
+  index 
+}: ProfileCardProps) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -30,14 +44,37 @@ export default function ProfileCardClient({ name, username, avatarUrl, index }: 
       </div>
       <div className="p-4">
         <h3 className="text-lg font-semibold mb-1 truncate">{name}</h3>
-        <p className="text-gray-600 text-sm mb-3 truncate">@{username}</p>
-        <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          className="w-full bg-[#B9FF66] text-black px-3 py-2 rounded-lg text-sm font-medium hover:bg-[#a7eb54] transition-colors"
+        <p className="text-gray-600 text-sm mb-2 truncate">@{username}</p>
+        <p className="text-gray-600 text-sm mb-3 line-clamp-2">{bio}</p>
+        
+        <div className="grid grid-cols-3 gap-2 mb-4 text-sm text-gray-600">
+          <div className="flex items-center gap-1">
+            <Users size={14} />
+            <span>{followers}</span>
+          </div>
+          <div className="flex items-center gap-1">
+            <Users size={14} />
+            <span>{following}</span>
+          </div>
+          <div className="flex items-center gap-1">
+            <GitFork size={14} />
+            <span>{publicRepos}</span>
+          </div>
+        </div>
+
+        <a
+          href={`https://github.com/${username}`}
+          target="_blank"
+          rel="noopener noreferrer"
         >
-          View Profile
-        </motion.button>
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            className="w-full bg-[#B9FF66] text-black px-3 py-2 rounded-lg text-sm font-medium hover:bg-[#a7eb54] transition-colors"
+          >
+            View Profile
+          </motion.button>
+        </a>
       </div>
     </motion.div>
   );

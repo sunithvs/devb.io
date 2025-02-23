@@ -51,65 +51,10 @@ function generateNoisyWave(
   return `M0,0 L${points.join(" L")}`;
 }
 
-const WaveAnimation = () => {
-  const [offset, setOffset] = useState(0);
-
-  useEffect(() => {
-    let animationFrameId: number;
-    let lastTime = 0;
-    const speed = 0.001;
-
-    const animate = (currentTime: number) => {
-      if (lastTime !== 0) {
-        const deltaTime = currentTime - lastTime;
-        setOffset((prev) => (prev + deltaTime * speed) % (2 * Math.PI));
-      }
-      lastTime = currentTime;
-      animationFrameId = requestAnimationFrame(animate);
-    };
-
-    animationFrameId = requestAnimationFrame(animate);
-    return () => cancelAnimationFrame(animationFrameId);
-  }, []);
-
-  const width = 1000;
-  const height = 200;
-
-  // Update wave paths
-  useEffect(() => {
-    const noisyWaveGroup = document.querySelector(".noisy-wave");
-    const cleanWaveGroup = document.querySelector(".clean-wave");
-
-    if (noisyWaveGroup && cleanWaveGroup) {
-      // Noisy wave paths
-      const noisyPaths = noisyWaveGroup.querySelectorAll("path");
-      noisyPaths[0].setAttribute("d", generateNoisyWave(width, height, 2, 30));
-      noisyPaths[1].setAttribute(
-        "d",
-        generateNoisyWave(width, height, 1.5, 25),
-      );
-      noisyPaths[2].setAttribute("d", generateNoisyWave(width, height, 3, 20));
-
-      // Clean wave paths
-      const cleanPaths = cleanWaveGroup.querySelectorAll("path");
-      cleanPaths[0].setAttribute(
-        "d",
-        generateSineWave(width, height, 2, 30, offset),
-      );
-      cleanPaths[1].setAttribute(
-        "d",
-        generateSineWave(width, height, 1.5, 25, offset),
-      );
-    }
-  }, [offset]);
-
-  return null;
-};
-
 const useWaveAnimation = () => {
   useEffect(() => {
     let animationFrameId: number;
-    let startTime = Date.now();
+    const startTime = Date.now();
 
     const animate = () => {
       const currentTime = Date.now();
@@ -187,6 +132,7 @@ export default function Home() {
         setValidationMessage("Invalid GitHub username");
       }
     } catch (error) {
+      console.error(error);
       setValidationMessage("Error validating username");
     }
     setIsValidating(false);

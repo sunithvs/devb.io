@@ -5,6 +5,7 @@ import Counter from "@/components/counter";
 import AnimatedNav from "./components/animated-nav/server";
 import AnimatedHero from "./components/animated-hero/server";
 import AnimatedStats from "./components/animated-stats/server";
+import IntegrationCard from "./components/integration-card/server";
 
 // Types
 interface Profile {
@@ -80,6 +81,26 @@ export default async function Home() {
           </div>
         </section>
 
+        {/* Integrations Section */}
+        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Connect Your Developer Identity
+              </h2>
+              <p className="text-xl text-gray-600">
+                Integrate with your favorite platforms to showcase your complete developer profile
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+              <IntegrationCard type="github" index={0} />
+              <IntegrationCard type="linkedin" index={1} />
+              <IntegrationCard type="medium" index={2} />
+              <IntegrationCard type="more" index={3} />
+            </div>
+          </div>
+        </section>
+
         {/* How It Works Section */}
         <section id="how-to" className="py-10 md:pt-20 mt-10">
           <div className="container md:mx-auto md:px-4">
@@ -137,8 +158,6 @@ export default async function Home() {
           </div>
         </section>
 
-
-
         {/* Recent Profiles Section */}
         <section className="py-10">
           <div className="container mx-auto px-4">
@@ -158,7 +177,6 @@ export default async function Home() {
             </div>
           </div>
         </section>
-
 
       </main>
       <Footer />

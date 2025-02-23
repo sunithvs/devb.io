@@ -95,7 +95,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
               </div>
 
-              <div className="grid grid-cols-2 gap-4">
+              <div className="flex  gap-4">
                 <div className="bg-[#B9FF66] rounded-xl p-6 border-2 border-black border-b-4">
                   <h3 className="font-bold mb-2">Issue Closed</h3>
                   <p className="text-2xl font-bold">1</p>

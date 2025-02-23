@@ -1,5 +1,6 @@
 import React from "react";
 import { Education, Experience } from "@/types/types";
+import {getMonth} from "@/utils/utils";
 
 export type TimelineItem = {
   title: string;
@@ -59,10 +60,8 @@ const Timeline: React.FC<TimelineProps> = ({
 }) => {
   return (
     <div className="relative">
-      {/* Timeline line */}
       <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-black"></div>
 
-      {/* Timeline items */}
       <div className="space-y-6 pl-12">
         {items.map((item, index) => (
           <div key={index} className="relative">
@@ -91,9 +90,9 @@ export const transformLinkedInData = (
         subtitle: exp.company,
         location: exp.location,
         duration: {
-          start: `${exp.duration.start.year} ${exp.duration.start.month ? `${exp.duration.start.month}` : ""}`,
+          start: `${exp.duration.start.year} ${exp.duration.start.month ? `${getMonth(exp.duration.start.month)}` : ""}`,
           end: exp.duration.end
-            ? `${exp.duration.end.year} ${exp.duration.end.month ? `${exp.duration.end.month}` : ""}`
+            ? `${exp.duration.end.year} ${exp.duration.end.month ? `${getMonth(exp.duration.end.month)}` : ""}`
             : undefined,
         },
         logo: `${exp.company[0]}`,

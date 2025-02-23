@@ -1,196 +1,162 @@
 import json
-import re
-from contextlib import asynccontextmanager
-from typing import Annotated, Dict, Any, List
+from typing import Dict, Any, Annotated
 
-import httpx
 import redis.asyncio as redis
-import requests
 import uvicorn
-from fastapi import FastAPI, HTTPException, Path, Depends, BackgroundTasks
-from fastapi.middleware.cors import CORSMiddleware  # Add this import
+from fastapi import FastAPI, HTTPException, Depends, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.redis import RedisBackend
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+from starlette.responses import JSONResponse
 
-# Import your existing modules
 from config.settings import Settings
-from utils.user import get_user_data
+from modules.ai_generator import AIDescriptionGenerator
+from modules.github_fetcher import GitHubProfileFetcher
+from modules.github_projects import GitHubProjectRanker
+from modules.linkedin_fetcher import LinkedInProfileFetcher
+from utils.user import verify_username, verify_linkedin_username, get_user_data
 
-redis_client = redis.from_url(
-    Settings.REDIS_HOST,
-    encoding="utf8",
-    decode_responses=True
-)
-USERS_LIST_KEY = "github_users_list"
-
-
-async def background_manage_users_list(username: str) -> None:
-    """
-    Background task to manage the list of users in Redis.
-    - Retrieve existing users
-    - Add new user if not already in the list
-    - Update the list in Redis
-    """
-    try:
-        # Get existing users list (or initialize if not exists)
-        existing_users_json = await redis_client.get(USERS_LIST_KEY)
-
-        if existing_users_json:
-            existing_users = json.loads(existing_users_json)
-        else:
-            existing_users = []
-
-        # Add user if not already in the list
-        if username not in existing_users:
-            existing_users.append(username)
-
-            # Store updated list back in Redis
-            await redis_client.set(
-                USERS_LIST_KEY,
-                json.dumps(existing_users)
-            )
-    except Exception as e:
-        # Log the error or handle it as appropriate for your application
-        print(f"Background task error managing users list: {e}")
-
-
-async def validate_github_username(username: str) -> bool:
-    """
-    Validate GitHub username:
-    - Must be 1-39 characters long
-    - Can only contain alphanumeric characters and hyphens
-    - Cannot start or end with a hyphen
-    - Cannot have consecutive hyphens
-    """
-    # Basic pattern without look-ahead
-    pattern = r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
-    if not (re.match(pattern, username) and len(username) <= 39 and '--' not in username):
-        return False
-
-    # Optional: Verify user exists on GitHub
-    async with httpx.AsyncClient() as client:
-        try:
-            response = await client.head(f'https://github.com/{username}')
-            return response.status_code == 200
-        except httpx.HTTPError:
-            # If check fails, fall back to pattern validation
-            return True
-
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    # Startup: Initialize Redis cache
-    redis_client = redis.from_url(
-        Settings.REDIS_HOST,
-        encoding="utf8",
-        decode_responses=True
-    )
-    FastAPICache.init(RedisBackend(redis_client), prefix="github-profile-cache:")
-
-    yield
-
-    # Cleanup (if needed)
-    await redis_client.close()
-
-
+# Initialize FastAPI app
 app = FastAPI(
-    title="GitHub Profile API",
+    title="Devb Profile API",
     version="2.0.0",
-    lifespan=lifespan
 )
 
+# Initialize Redis client
+redis_client = redis.Redis(host='redis', port=6379, db=0)
 
-async def verify_username(
-        username: Annotated[
-            str,
-            Path(
-                min_length=1,
-                max_length=39,
-                pattern=r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
+class APIKeyMiddleware(BaseHTTPMiddleware):
+    """Middleware for API key authentication"""
+    EXCLUDED_PATHS = {"/docs", "/redoc", "/openapi.json"}
+
+    async def dispatch(self, request: Request, call_next):
+        if request.url.path in self.EXCLUDED_PATHS or Settings.DEBUG:
+            return await call_next(request)
+
+        api_key = request.headers.get("X-API-Key")
+        if not api_key:
+            return JSONResponse(
+                status_code=401,
+                content={"detail": "API Key header is missing"}
             )
-        ]
-) -> str:
-    if not await validate_github_username(username):
-        raise HTTPException(
-            status_code=400,
-            detail="Invalid GitHub username. Usernames must be 1-39 characters long and can only contain alphanumeric characters and single hyphens."
-        )
-    return username
+        
+        if api_key not in Settings.API_KEYS:
+            return JSONResponse(
+                status_code=403,
+                content={"detail": "Invalid API Key"}
+            )
 
+        return await call_next(request)
 
-@app.get("/user/{username}", response_model=Dict[str, Any])
-async def fetch_user_profile(username: Annotated[str, Depends(verify_username)], background_tasks: BackgroundTasks
-                             ):
-    """
-    Fetch GitHub user profile information with Redis caching.
-    """
+async def get_cached_github_profile(username: str) -> Dict[str, Any]:
+    """Fetch and cache GitHub profile data"""
+    cache_key = f"github_profile_basic:{username}"
+    cached_response = await redis_client.get(cache_key)
+    
+    if cached_response and not Settings.DEBUG:
+        return json.loads(cached_response)
+
+    basic_profile = GitHubProfileFetcher.fetch_user_profile(username)
+    ai_generator = AIDescriptionGenerator()
+    about_data = ai_generator.generate_profile_summary(basic_profile)
+    basic_profile['about'] = about_data
+    await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=3600)
+    return basic_profile
+
+# API Endpoints
+@app.get("/user/{username}/profile", response_model=Dict[str, Any])
+async def fetch_basic_profile(
+    username: Annotated[str, Depends(verify_username)], 
+    background_tasks: BackgroundTasks
+):
+    """Fetch basic GitHub user profile information"""
     username = username.strip().lower()
+    return await get_cached_github_profile(username)
+
+@app.get("/user/{username}/projects", response_model=Dict[str, Any])
+async def fetch_projects_data(username: Annotated[str, Depends(verify_username)]):
+    """Fetch GitHub user's projects and languages data"""
     try:
-        cache_key = f"github_profile:{username.strip().lower()}"
-        # Await Redis GET operation
+        username = username.strip().lower()
+        cache_key = f"github_profile_projects:{username}"
         cached_response = await redis_client.get(cache_key)
-        if cached_response:
+        
+        if cached_response and not Settings.DEBUG:
             return json.loads(cached_response)
 
-        # Fetch user data if not in cache
-        user_data = get_user_data(username)
-        background_tasks.add_task(background_manage_users_list, username)
-
-        await redis_client.setex(name=cache_key, value=json.dumps(user_data), time=3600)
-        return user_data
+        project_data = GitHubProjectRanker().get_featured(username)
+        await redis_client.setex(name=cache_key, value=json.dumps(project_data), time=3600)
+        return project_data
 
     except Exception as e:
-        raise HTTPException(
-            status_code=404,
-            detail=f"User {username} not found: {str(e)}"
-        )
+        raise HTTPException(status_code=404, detail=f"User {username} not found: {str(e)}")
 
-
-@app.get("/users", response_model=List[str])
-async def get_users_list():
-    """
-    Retrieve the list of users from external API and compare with Redis.
-    Returns only new users.
-    """
+@app.get("/user/{username}/about", response_model=Dict[str, Any])
+async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
+    """Fetch GitHub user's README content"""
     try:
-        # Fetch users from external API
-        response = requests.get("https://devb.io/data/processed_users.json")
-        try:
-            response.raise_for_status()
-            external_users_dict = response.json()
-        except requests.HTTPError:
-            external_users_dict = {}
+        username = username.strip().lower()
+        cache_key = f"github_profile_about:{username}"
+        cached_response = await redis_client.get(cache_key)
+        
+        if cached_response and not Settings.DEBUG:
+            return json.loads(cached_response)
 
-        # Get existing users from Redis
-        existing_users_json = await redis_client.get(USERS_LIST_KEY)
-        existing_users = json.loads(existing_users_json) if existing_users_json else []
-        # make case insensitive
-        existing_users = [user.lower() for user in existing_users]
-        external_users_dict = [user.lower() for user in external_users_dict.keys()]
-
-        new_users = set(existing_users) - set(external_users_dict)
-
-        if new_users:
-            await redis_client.set(
-                USERS_LIST_KEY,
-                json.dumps(list(new_users))
-            )
-
-        return new_users
+        user_data = await get_cached_github_profile(username)
+        data = {
+            "about": user_data['about']
+        }
+        await redis_client.setex(name=cache_key, value=json.dumps(data), time=3600)
+        return data
 
     except Exception as e:
-        raise HTTPException(
-            status_code=500,
-            detail=f"Error processing users list: {str(e)}"
-        )
+        raise HTTPException(status_code=404, detail=f"User {username} not found: {str(e)}")
+
+@app.get("/user/{username}/linkedin", response_model=Dict[str, Any])
+async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedin_username)]):
+    """Fetch LinkedIn profile data"""
+    try:
+        cache_key = f"linkedin_profile:{username}"
+        cached_response = await redis_client.get(cache_key)
+        
+        if cached_response and not Settings.DEBUG:
+            return json.loads(cached_response)
+
+        fetcher = LinkedInProfileFetcher()
+        profile_data = await fetcher.fetch_profile_async(username)
+        
+        if "error" in profile_data:
+            raise HTTPException(status_code=400, detail=profile_data["error"])
+            
+        await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=3600)
+        return profile_data
+
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to fetch LinkedIn profile: {str(e)}")
 
 
+
+ALLOWED_ORIGINS = [
+    "https://devb.io",
+    "https://beta.devb.io",
+    "http://localhost:3000",  # For local development
+    "http://localhost:8080"
+]
+
+# Add CORS middleware with specific origins
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins
+    allow_origins=ALLOWED_ORIGINS,  # Use the whitelist instead of "*"
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all methods
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["GET", "OPTIONS"],  # Specify allowed methods
+    allow_headers=["Authorization", "Content-Type", "X-API-Key"],  # Specify allowed headers
+    expose_headers=[],  # Headers that can be exposed to the browser
+    max_age=600,  # How long the results of a preflight request can be cached (in seconds)
+
 )
 
 if __name__ == "__main__":

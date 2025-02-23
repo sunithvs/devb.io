@@ -3,7 +3,6 @@ name: Sync Main to Data Branch
 on:
   workflow_dispatch:
 
-
 permissions:
   contents: write  # Ensure the workflow has write access to contents
 

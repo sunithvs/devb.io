@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8001:8000"
+      - "8002:8000"
     depends_on:
       - redis
     volumes:
@@ -17,7 +17,7 @@ services:
   redis:
     image: redis:7.2-alpine
     ports:
-      - "6379:6379"
+      - "6378:6379"
     networks:
       - app-network
 

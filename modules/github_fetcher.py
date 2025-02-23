@@ -1,12 +1,84 @@
 from collections import Counter
 from datetime import datetime, timedelta
 import requests
+import re
+import httpx
 from config.settings import Settings
 from modules.github_projects import GitHubProjectRanker
 
 
 class GitHubProfileFetcher:
     """Fetch comprehensive GitHub user profile data"""
+
+    @staticmethod
+    def _validate_username_pattern(username: str) -> bool:
+        """
+        Validate GitHub username pattern:
+        - Must be 1-39 characters long
+        - Can only contain alphanumeric characters and hyphens
+        - Cannot start or end with a hyphen
+        - Cannot have consecutive hyphens
+        """
+        pattern = r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
+        return (isinstance(username, str) and 
+                re.match(pattern, username) and 
+                len(username) <= 39 and 
+                '--' not in username)
+
+    @staticmethod
+    def _get_github_headers() -> dict:
+        """Get standard GitHub API headers"""
+        return {
+            "Accept": "application/vnd.github.v3+json",
+            "Authorization": f"token {Settings.get_github_token()}"
+        }
+
+    @staticmethod
+    async def validate_github_username(username: str) -> bool:
+        """
+        Async validate GitHub username including API check:
+        - Validates username pattern
+        - Verifies user exists on GitHub
+        - Confirms account is of type 'User' (not Organization)
+        """
+        if not GitHubProfileFetcher._validate_username_pattern(username):
+            return False
+
+        async with httpx.AsyncClient() as client:
+            try:
+                response = await client.get(
+                    f'https://api.github.com/users/{username}',
+                    headers=GitHubProfileFetcher._get_github_headers()
+                )
+                if response.status_code != 200:
+                    return False
+                data = response.json()
+                return data.get('type') == 'User'
+            except httpx.HTTPError:
+                return True  # Fall back to pattern validation on API error
+
+    @staticmethod
+    def validate_github_username_sync(username: str) -> bool:
+        """
+        Sync validate GitHub username including API check:
+        - Validates username pattern
+        - Verifies user exists on GitHub
+        - Confirms account is of type 'User' (not Organization)
+        """
+        if not GitHubProfileFetcher._validate_username_pattern(username):
+            return False
+
+        try:
+            response = requests.get(
+                f'https://api.github.com/users/{username}',
+                headers=GitHubProfileFetcher._get_github_headers()
+            )
+            if response.status_code != 200:
+                return False
+            data = response.json()
+            return data.get('type') == 'User'
+        except requests.RequestException:
+            return True  # Fall back to pattern validation on API error
 
     @staticmethod
     def fetch_user_profile(username):
@@ -20,6 +92,9 @@ class GitHubProfileFetcher:
             dict: Comprehensive user profile data
         """
         try:
+            if not GitHubProfileFetcher.validate_github_username_sync(username):
+                raise ValueError(f"Invalid GitHub username: '{username}'")
+
             one_year_ago = (datetime.now() - timedelta(days=365)).isoformat() + 'Z'
 
             graphql_query = {
@@ -124,7 +199,7 @@ class GitHubProfileFetcher:
             issues_closed_last_year = sum(
                 1 for issue in graphql_data['issues']['nodes'] if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
             )
-            featured = GitHubProjectRanker().get_featured(username)
+            # featured = GitHubProjectRanker().get_featured(username)
             return {
                 'username': username,
                 'name': graphql_data.get('name') or username,
@@ -132,8 +207,8 @@ class GitHubProfileFetcher:
                 'location': graphql_data.get('location', ''),
                 'avatar_url': graphql_data.get('avatarUrl', ''),
                 'profile_url': graphql_data.get('url', ''),
-                'top_languages': featured['top_languages'],
-                'top_projects': featured['top_projects'],
+                # 'top_languages': featured['top_languages'],
+                # 'top_projects': featured['top_projects'],
                 'followers': graphql_data['followers']['totalCount'],
                 'following': graphql_data['following']['totalCount'],
                 'public_repos': graphql_data['repositories']['totalCount'],
@@ -155,75 +230,6 @@ class GitHubProfileFetcher:
         except Exception as e:
             return {"error": f"An unexpected error occurred: {str(e)}"}
 
-    @staticmethod
-    def fetch_user_profile_rest(username):
-        """
-        Fetch detailed GitHub user profile
-
-        Args:
-            username (str): GitHub username
-
-        Returns:
-            dict: Comprehensive user profile data
-        """
-        try:
-            base_url = f"https://api.github.com/users/{username}"
-
-            user_response = requests.get(
-                base_url,
-                headers={
-                    "Accept": "application/vnd.github.v3+json",
-                    "Authorization": f"token {Settings.get_github_token()}",
-                }
-            )
-            user_response.raise_for_status()
-            user_data = user_response.json()
-
-            repos_response = requests.get(
-                user_data['repos_url'],
-                headers={
-                    "Accept": "application/vnd.github.v3+json",
-                    "Authorization": f"token {Settings.get_github_token()}",
-                }
-            )
-            repos_response.raise_for_status()
-            repos_data = repos_response.json()
-
-            languages = Counter()
-            recent_projects = []
-            for repo in repos_data:
-                if repo.get('language'):
-                    languages[repo['language']] += 1
-                recent_projects.append({
-                    'name': repo['name'],
-                    'description': repo.get('description', ''),
-                    'stars': repo['stargazers_count'],
-                    'url': repo['html_url'],
-                    'updated_at': repo['updated_at']
-                })
-
-            recent_projects.sort(key=lambda x: datetime.strptime(x['updated_at'], '%Y-%m-%dT%H:%M:%SZ'), reverse=True)
-
-            return {
-                'username': username,
-                'name': user_data.get('name', username),
-                'bio': user_data.get('bio', ''),
-                'location': user_data.get('location', ''),
-                'avatar_url': user_data.get('avatar_url', ''),
-                'profile_url': user_data.get('html_url', ''),
-                'top_languages': languages.most_common(3),
-                'recent_projects': recent_projects[:5],
-                'followers': user_data.get('followers', 0),
-                'following': user_data.get('following', 0),
-                'public_repos': user_data.get('public_repos', 0)
-            }
-
-        except requests.exceptions.HTTPError as e:
-            return {"error": f"HTTP Error: {e.response.status_code} - {e.response.reason}"}
-        except requests.exceptions.RequestException as e:
-            return {"error": f"Request failed: {str(e)}"}
-        except Exception as e:
-            return {"error": f"An unexpected error occurred: {str(e)}"}
 
     @staticmethod
     def social_accounts(username):

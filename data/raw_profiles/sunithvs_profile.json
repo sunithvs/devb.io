@@ -1,0 +1,150 @@
+{
+    "username": "sunithvs",
+    "name": "sunith vs",
+    "bio": "Backend Developer @Eduport | CUSATian  | Engineeeeeeeeeeer",
+    "location": "Perinthalmanna, Malappuram,Kerala ,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63339782?u=675f431caf6eb8fbbb9cbeac62f2f17d20a3948f&v=4",
+    "profile_url": "https://github.com/sunithvs",
+    "top_languages": [
+        [
+            "Python",
+            29
+        ],
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "C",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "stories",
+            "description": "A project created for maintinaing life highlights.",
+            "score": null,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sunithvs/stories",
+            "updatedAt": "2025-02-22T10:23:35Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "devb.io",
+            "description": "DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more portfolio maintenance headaches, just pure coding brilliance on display.",
+            "score": 23.426172810236004,
+            "stars": 100,
+            "forks": 12,
+            "language": "Python",
+            "url": "https://github.com/sunithvs/devb.io",
+            "updatedAt": "2025-02-22T17:58:49Z",
+            "isPinned": true,
+            "homepage": "http://devb.io/"
+        },
+        {
+            "name": "kph-products",
+            "description": "A platform for listing products from kph(kerala product hunt) communitiy. ",
+            "score": 12.73823521766958,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sunithvs/kph-products",
+            "updatedAt": "2025-02-17T18:23:45Z",
+            "isPinned": true,
+            "homepage": "https://products.kph.club"
+        },
+        {
+            "name": "event-checkin",
+            "description": "An event checking platform developed for cusat to host International Conclave on Next-Gen Higher Education 2025.",
+            "score": 11.780340327640685,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sunithvs/event-checkin",
+            "updatedAt": "2025-02-17T18:27:24Z",
+            "isPinned": true,
+            "homepage": "https://ticket.radr.in"
+        },
+        {
+            "name": "marine-science",
+            "description": "A Django-based web application for managing marine science conference registrations, abstract submissions, and payments. The system provides a complete solution for conference organization, including user authentication, payment processing, and content management.",
+            "score": 11.289765088613674,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/sunithvs/marine-science",
+            "updatedAt": "2025-01-17T08:11:06Z",
+            "isPinned": true,
+            "homepage": "https://marine.cusat.ac.in/"
+        },
+        {
+            "name": "thanthavibe.in",
+            "description": "A thanthavibe calculator which hit 500+ users in the release date. ",
+            "score": 10.603644406572768,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/sunithvs/thanthavibe.in",
+            "updatedAt": "2025-02-17T18:26:05Z",
+            "isPinned": true,
+            "homepage": "https://thanthavibe.in/"
+        },
+        {
+            "name": "git-session",
+            "description": "a project to learn git and github",
+            "score": 5.643088521599033,
+            "stars": 1,
+            "forks": 11,
+            "language": "HTML",
+            "url": "https://github.com/sunithvs/git-session",
+            "updatedAt": "2025-02-06T15:26:39Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EOC-FRONTEND",
+            "description": null,
+            "score": 4.755247690000395,
+            "stars": 1,
+            "forks": 8,
+            "language": "JavaScript",
+            "url": "https://github.com/sunithvs/EOC-FRONTEND",
+            "updatedAt": "2022-12-05T07:59:49Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 117,
+    "following": 26,
+    "public_repos": 123,
+    "pull_requests_merged": 27,
+    "issues_closed": 11,
+    "achievements": {
+        "total_contributions": 1132,
+        "repositories_contributed_to": 7
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/sunithvs/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@sunithvs"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/sunithvs_/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://devb.io/sunithvs"
+        }
+    ],
+    "readme_content": "[![main Screenshot](images/main_screenshot.png)](https://devb.io/sunithvs)\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

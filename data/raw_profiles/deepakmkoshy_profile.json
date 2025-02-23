@@ -1,0 +1,155 @@
+{
+    "username": "deepakmkoshy",
+    "name": "Deepak Mathews Koshy",
+    "bio": "Software Developer with experience in building cross platform mobile applications using Flutter. Deployed multiple apps to Google Play Store and Apple App Store",
+    "location": "Trivandrum, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/30799970?u=d3f11e6e95d5e7f3b316c181ca470a1ac89f3846&v=4",
+    "profile_url": "https://github.com/deepakmkoshy",
+    "top_languages": [
+        [
+            "C",
+            1
+        ],
+        [
+            "Dart",
+            10
+        ],
+        [
+            "Go",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "megaflixz",
+            "description": "Megaflixz is a movie app for the movie lover in you. Includes all new and upcoming movies and TV series. Also has an option to save movies to watch later list",
+            "score": 16.916511871363916,
+            "stars": 12,
+            "forks": 2,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/megaflixz",
+            "updatedAt": "2023-09-22T06:12:41Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Flash-Chat-App",
+            "description": "Chat application with individual chat rooms and voice chat support",
+            "score": 14.46346286019525,
+            "stars": 4,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/Flash-Chat-App",
+            "updatedAt": "2025-02-23T06:55:45Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Intraday-P-L-Calculator",
+            "description": "Calculates Profit/Loss percentage(including fees) for intraday stock trades. Also calculates buy/sell amount based on expected return percentage.",
+            "score": 13.356018878697562,
+            "stars": 4,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/Intraday-P-L-Calculator",
+            "updatedAt": "2024-01-21T12:07:01Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "AutoEmailCovTrack19",
+            "description": "\ud835\ude49\ud835\ude64\ud835\ude59\ud835\ude5a.\ud835\ude5f\ud835\ude68 backend for CovTrack19 to send automated daily COVID-19 updates via email",
+            "score": 13.287576597070188,
+            "stars": 4,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/deepakmkoshy/AutoEmailCovTrack19",
+            "updatedAt": "2021-04-22T05:40:06Z",
+            "isPinned": true,
+            "homepage": "https://covtrack19.web.app/"
+        },
+        {
+            "name": "Weight_Tracker",
+            "description": "\ud83d\udcc8\ud835\uddea\ud835\uddf2\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01 \ud835\udde7\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\uddf8\ud835\uddf2\ud835\uddff\ud83d\udcc8 Tracks your weight, duh\ud83d\ude44! Download the APK below:",
+            "score": 12.333716038936874,
+            "stars": 2,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/Weight_Tracker",
+            "updatedAt": "2023-12-27T06:01:54Z",
+            "isPinned": true,
+            "homepage": "http://bit.ly/weightTrackerAPK"
+        },
+        {
+            "name": "WeightTracker",
+            "description": "\ud83d\udcc8\ud835\uddea\ud835\uddf2\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01 \ud835\udde7\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\uddf8\ud835\uddf2\ud835\uddff\ud83d\udcc8 Tracks your weight, duh\ud83d\ude44! Download the APK below:",
+            "score": 4.825331393227352,
+            "stars": 5,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/WeightTracker",
+            "updatedAt": "2024-07-08T01:55:53Z",
+            "isPinned": false,
+            "homepage": "http://bit.ly/weight_tracker_apk"
+        },
+        {
+            "name": "Conversion_app",
+            "description": "\u2696\ufe0fConvert It! A simple unit converter app with an intuitive and beautiful UI. Download Convert it! APK:",
+            "score": 3.304212256761167,
+            "stars": 2,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/deepakmkoshy/Conversion_app",
+            "updatedAt": "2020-10-03T15:12:26Z",
+            "isPinned": false,
+            "homepage": "https://bit.ly/Convert_It_arm64-v8"
+        },
+        {
+            "name": "notes-app",
+            "description": "Node.js Note taking application",
+            "score": 1.4549044248542968,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/deepakmkoshy/notes-app",
+            "updatedAt": "2021-03-15T20:52:48Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 56,
+    "following": 89,
+    "public_repos": 52,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 585,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/DeepakKoshy301"
+        },
+        {
+            "provider": "generic",
+            "url": "http://linkedin.com/in/deepakmkoshy"
+        }
+    ],
+    "readme_content": "<p align=\"center\"><img align=\"center\" alt=\"GIF\" height=\"200px\" src=\"https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif\" /></p>\n\n# Hi, I am Deepak Mathews Koshy\n\n- \ud83d\udd2d I\u2019m currently working on App development using Flutter, backend development with Python FastAPI\n\n- \ud83c\udf31 I\u2019m currently learning React.js\n\n- \ud83d\udc6f I\u2019m looking to collaborate on interesting Flutter and Node.js projects\n\n- \ud83d\udceb How to reach me: <a href=\"mailto:deepakmkoshy@gmail.com\">Email Me</a>\n\n## Connect with me:\n\n[![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/deepakmkoshy/)\n[![](https://img.shields.io/badge/@deepakmkoshy-Instagram-Blue?style=for-the-badge&logo=instagram&color=DD2A7B)](https://www.instagram.com/deepakmkoshy/)\n[![Twitter Follow](https://img.shields.io/twitter/follow/DeepakKoshy301?color=08a0e9&logo=twitter&style=for-the-badge)](https://twitter.com/DeepakKoshy301)\n\n## Github Stats\n[![Stats](https://github-readme-stats.vercel.app/api?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/deepakmkoshy)\n[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmkoshy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/deepakmkoshy)\n<!--\n**deepakmkoshy/deepakmkoshy** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "activity_summary": {
+        "rijfas/generator.js": {
+            "link": "https://github.com/rijfas/generator.js",
+            "summary": "Significant activity has been observed in the generator.js repository with recent enhancements to validator template generation, data serialization, and template files for Express.js API generation."
+        },
+        "rijfas/generator.js-cli": {
+            "link": "https://github.com/rijfas/generator.js-cli",
+            "summary": "Notable development has been reported in the generator.js-cli repository with the creation of an npm package generator and major updates to the package name and repository cloning logic."
+        },
+        "deepakmkoshy/deepakmkoshy": {
+            "link": "https://github.com/deepakmkoshy/deepakmkoshy",
+            "summary": "A minor update was made to the README.md file in the deepakmkoshy repository on February 17, 2025."
+        }
+    },
+    "profile_summary": "As a seasoned software developer with a strong presence on GitHub, I'm Deepak Mathews Koshy. With over 52 public repositories and 56 followers, I've established myself as a trusted member of the developer community. My technical expertise lies in building cross-platform mobile applications using Flutter, with multiple apps successfully deployed on Google Play Store and Apple App Store. I'm continuously working on enhancing my skills, currently focusing on backend development with Python FastAPI, while also exploring React.js."
+}

@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { debounce } from "lodash";
 import Footer from "@/components/footer";
 import ProfileCard from "@/components/profile-card";
+import { Dialog, DialogContent, DialogHeader } from "@/components/ui/dialog";
 
 // Types
 interface Profile {
@@ -163,9 +164,7 @@ export default function Home() {
   const [username, setUsername] = useState("");
   const [isValidating, setIsValidating] = useState(false);
   const [validationMessage, setValidationMessage] = useState("");
-  const [mounted, setMounted] = useState(false);
 
-  // Initialize wave animation
   useWaveAnimation();
 
   useEffect(() => {
@@ -194,14 +193,6 @@ export default function Home() {
   };
 
   const debouncedValidation = debounce(validateUsername, 1000);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  if (!mounted) {
-    return null;
-  }
 
   return (
     <>
@@ -542,87 +533,59 @@ export default function Home() {
       </main>
 
       {/* GitHub Modal */}
-      {showGithubModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 z-[100] flex items-center justify-center">
-          <div className="bg-white rounded-xl p-8 w-96 relative mx-3">
-            <button
-              onClick={() => setShowGithubModal(false)}
-              className="absolute top-4 right-4 text-gray-600 hover:text-black"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-6 w-6"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M6 18L18 6M6 6l12 12"
-                />
-              </svg>
-            </button>
-
+      <Dialog open={showGithubModal} onOpenChange={setShowGithubModal}>
+        <DialogContent className="sm:max-w-[425px]">
+          <DialogHeader>
             <div className="text-center mb-6">
               <h3 className="text-2xl font-bold mb-2">Connect with GitHub</h3>
               <p className="text-gray-600">
                 Enter your GitHub username to get started
               </p>
             </div>
-
-            <div className="space-y-4">
-              <div>
-                <label
-                  htmlFor="github-username"
-                  className="block text-sm font-medium text-gray-700 mb-1"
-                >
-                  GitHub Username
-                </label>
-                <input
-                  type="text"
-                  id="github-username"
-                  value={username}
-                  onChange={(e) => {
-                    setUsername(e.target.value);
-                    if (e.target.value) {
-                      debouncedValidation(e.target.value);
-                    }
-                  }}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-lime-500 focus:border-lime-500"
-                  placeholder="e.g. johndoe"
-                />
-                {validationMessage && (
-                  <p
-                    className={`mt-1 text-sm ${validationMessage.includes("Valid") ? "text-green-600" : "text-red-600"}`}
-                  >
-                    {validationMessage}
-                  </p>
-                )}
-              </div>
-
-              <button
-                onClick={() => {
-                  if (username && validationMessage.includes("Valid")) {
-                    window.location.href = `https://github.com/login/oauth/authorize?client_id=YOUR_CLIENT_ID&redirect_uri=${encodeURIComponent(
-                      window.location.origin + "/api/auth/callback",
-                    )}`;
+          </DialogHeader>
+          <div className="space-y-4">
+            <div>
+              <label
+                htmlFor="github-username"
+                className="block text-sm font-medium text-gray-700 mb-1"
+              >
+                GitHub Username
+              </label>
+              <input
+                type="text"
+                id="github-username"
+                value={username}
+                onChange={(e) => {
+                  setUsername(e.target.value);
+                  if (e.target.value) {
+                    debouncedValidation(e.target.value);
                   }
                 }}
-                disabled={
-                  !username ||
-                  !validationMessage.includes("Valid") ||
-                  isValidating
-                }
-                className="w-full bg-[#B9FF66] text-black py-2 rounded-lg font-medium disabled:opacity-50 disabled:cursor-not-allowed hover:bg-opacity-90 transition-colors border-2 border-black border-b-[4px]"
-              >
-                {isValidating ? "Validating..." : "Continue with GitHub"}
-              </button>
+                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-lime-500 focus:border-lime-500"
+                placeholder="e.g. johndoe"
+              />
+              {validationMessage && (
+                <p
+                  className={`mt-1 text-sm ${validationMessage.includes("Valid") ? "text-green-600" : "text-red-600"}`}
+                >
+                  {validationMessage}
+                </p>
+              )}
             </div>
+
+            <button
+              disabled={
+                !username ||
+                !validationMessage.includes("Valid") ||
+                isValidating
+              }
+              className="w-full bg-[#B9FF66] text-black py-2 rounded-lg font-medium disabled:opacity-50 disabled:cursor-not-allowed hover:bg-opacity-90 transition-colors border-2 border-black border-b-[4px]"
+            >
+              {isValidating ? "Validating..." : "Continue with GitHub"}
+            </button>
           </div>
-        </div>
-      )}
+        </DialogContent>
+      </Dialog>
     </>
   );
 }

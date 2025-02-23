@@ -30,16 +30,47 @@ async function getProfiles(): Promise<Profile[]> {
 
 async function getContributors(): Promise<Profile[]> {
   try {
-    const response = await fetch('https://api.github.com/repos/sunithvs/devbv2/contributors');
+    const response = await fetch('https://api.github.com/repos/sunithvs/devb.io/contributors', {
+      headers: {
+        'Accept': 'application/json',
+      },
+      next: {
+        revalidate: 3600 // Revalidate every hour
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
     const contributorsData = await response.json();
+
+    if (!Array.isArray(contributorsData)) {
+      console.error('Contributors data is not an array:', contributorsData);
+      return [];
+    }
     
     // Filter out actions-user and fetch full profile data
-    const cleanedData = contributorsData.filter((profile: any) => profile.login !== 'actions-user');
+    const cleanedData = contributorsData.filter((profile) => 
+      profile && typeof profile === 'object' && profile.login && profile.login !== 'actions-user'
+    );
     
     const contributors = await Promise.all(
-      cleanedData.map(async (profile: any) => {
+      cleanedData.map(async (profile) => {
         try {
-          const userResponse = await fetch(`https://api.github.com/users/${profile.login}`);
+          const userResponse = await fetch(`https://api.github.com/users/${profile.login}`, {
+            headers: {
+              'Accept': 'application/json',
+            },
+            next: {
+              revalidate: 3600 // Revalidate every hour
+            }
+          });
+
+          if (!userResponse.ok) {
+            throw new Error(`HTTP error! status: ${userResponse.status}`);
+          }
+
           const userData = await userResponse.json();
           return {
             name: userData.name || profile.login,
@@ -183,6 +214,31 @@ export default async function Home() {
           </div>
         </section>
 
+               {/* Contributors Section */}
+               <section className="py-20">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Our Contributors
+              </h2>
+              <p className="text-xl text-gray-600">
+                Meet the amazing developers who have contributed to making DevB better
+              </p>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
+              {contributors.map((profile, index) => (
+                <ProfileCard
+                  key={profile.username}
+                  name={profile.name}
+                  username={profile.username}
+                  avatarUrl={profile.avatar_url}
+                  index={index}
+                />
+              ))}
+            </div>
+          </div>
+        </section>
+
         {/* Recent Profiles Section */}
         <section className="py-20 bg-gradient-to-b from-white to-gray-50">
           <div className="container mx-auto px-4">
@@ -208,30 +264,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* Contributors Section */}
-        <section className="py-20">
-          <div className="container mx-auto px-4">
-            <div className="max-w-3xl mx-auto text-center mb-12">
-              <h2 className="text-4xl md:text-5xl font-bold mb-4">
-                Our Contributors
-              </h2>
-              <p className="text-xl text-gray-600">
-                Meet the amazing developers who have contributed to making DevB better
-              </p>
-            </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
-              {contributors.map((profile, index) => (
-                <ProfileCard
-                  key={profile.username}
-                  name={profile.name}
-                  username={profile.username}
-                  avatarUrl={profile.avatar_url}
-                  index={index}
-                />
-              ))}
-            </div>
-          </div>
-        </section>
+ 
       </main>
       <Footer />
     </>

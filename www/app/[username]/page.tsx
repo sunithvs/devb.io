@@ -8,15 +8,13 @@ import {
   useGetUserProject,
 } from "@/hooks/user-hook";
 import ProjectCard from "@/components/project-card";
-import Timeline, { transformLinkedInData } from "@/components/timeline"; // Import the Timeline component
+import Timeline, { transformLinkedInData } from "@/components/timeline";
 
 const Page = ({ params }: { params: Promise<{ username: string }> }) => {
   const { username } = use(params);
   const { data: user } = useGetUserProfile(username);
   const { data: userProjects } = useGetUserProject(username);
   const { data: linkedInData } = useGetUserLinkedInProfile(username);
-
-  console.log(linkedInData);
 
   if (!user || !userProjects) {
     return <div>user.not found</div>;
@@ -129,6 +127,16 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
 
         <div>
           <h2 className="text-2xl font-bold mb-8">Github Activity ↓</h2>
+          <h3 className="text-xl font-bold mb-2 mx-3 text-left ">
+            {user.achievements.total_contributions}
+            Contributions
+          </h3>
+          <img
+            className="w-full rounded-xl p-2 md:p-6 border-[1px] border-b-[6px] border-black"
+            // src="https://ghchart.rshah.org/191A23/{{ profile.username }}"
+            src={`https://ghchart.rshah.org/191A23/${username}`}
+            alt="{{ profile.name }}'s github Chart"
+          />
         </div>
 
         <div>

@@ -6,6 +6,7 @@ import AnimatedStats from "./components/animated-stats/server";
 import IntegrationCard from "./components/integration-card/server";
 import ProfileCard from "./components/profile-card/server";
 import HowItWorksCard from "./components/how-it-works-card/server";
+import BlogCard from "./components/blog-card/server"; // Import BlogCard component
 
 // Types
 interface Profile {
@@ -16,6 +17,11 @@ interface Profile {
   followers: number;
   following: number;
   public_repos: number;
+  social_accounts?: {
+    provider: string;
+    url: string;
+  }[];
+  blogPosts?: any[]; // Add blogPosts property to Profile interface
 }
 
 async function getProfiles(): Promise<Profile[]> {
@@ -23,7 +29,26 @@ async function getProfiles(): Promise<Profile[]> {
     next: { revalidate: 3600 } // Revalidate every hour
   });
   const data: Record<string, Profile> = await response.json();
-  return Object.values(data).slice(-6);
+  
+  // For each profile, fetch blog posts if they have a Medium account
+  const profilesWithBlogs = await Promise.all(
+    Object.values(data).map(async (profile) => {
+      const mediumAccount = profile.social_accounts?.find(
+        account => account.provider === "generic" && account.url.includes("medium.com")
+      );
+
+      if (mediumAccount) {
+        const username = extractMediumUsername(mediumAccount.url);
+        if (username) {
+          const posts = await getMediumBlogPosts(username);
+          return { ...profile, blogPosts: posts };
+        }
+      }
+      return profile;
+    })
+  );
+
+  return profilesWithBlogs.slice(-6);
 }
 
 async function getContributors(): Promise<Profile[]> {
@@ -260,19 +285,34 @@ export default async function Home() {
                 Check out the latest developers who created their portfolios using DevB
               </p>
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
               {profiles.map((profile, index) => (
-                <ProfileCard
-                  key={profile.username}
-                  name={profile.name}
-                  username={profile.username}
-                  avatarUrl={profile.avatar_url}
-                  bio={profile.bio}
-                  followers={profile.followers}
-                  following={profile.following}
-                  publicRepos={profile.public_repos}
-                  index={index}
-                />
+                <div key={profile.username}>
+                  <ProfileCard
+                    name={profile.name}
+                    username={profile.username}
+                    avatarUrl={profile.avatar_url}
+                    bio={profile.bio}
+                    followers={profile.followers}
+                    following={profile.following}
+                    publicRepos={profile.public_repos}
+                    index={index}
+                  />
+                  {profile.blogPosts && profile.blogPosts.length > 0 && (
+                    <div className="mt-8">
+                      <h3 className="text-2xl font-bold mb-4">Latest Blog Posts</h3>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        {profile.blogPosts.slice(0, 4).map((post, blogIndex) => (
+                          <BlogCard
+                            key={post.guid}
+                            post={post}
+                            index={blogIndex}
+                          />
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
               ))}
             </div>
           </div>
@@ -283,4 +323,27 @@ export default async function Home() {
       <Footer />
     </>
   );
+}
+
+// Helper function to extract Medium username from URL
+function extractMediumUsername(url: string): string | null {
+  const match = url.match(/medium\.com\/@([^/]+)/);
+  return match && match[1];
+}
+
+// Helper function to fetch Medium blog posts
+async function getMediumBlogPosts(username: string): Promise<any[]> {
+  const response = await fetch(`https://api.medium.com/v1/users/${username}/posts`, {
+    headers: {
+      'Authorization': 'Bearer YOUR_MEDIUM_API_TOKEN', // Replace with your Medium API token
+      'Content-Type': 'application/json',
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+
+  const data = await response.json();
+  return data.value;
 }

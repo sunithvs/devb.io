@@ -8,16 +8,19 @@ import httpx
 import redis.asyncio as redis
 import requests
 import uvicorn
-from fastapi import FastAPI, HTTPException, Path, Depends, BackgroundTasks
+from fastapi import FastAPI, HTTPException, Path, Depends, BackgroundTasks, Security
 from fastapi.middleware.cors import CORSMiddleware  
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.redis import RedisBackend
+from fastapi.security.api_key import APIKeyHeader, APIKey
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+from starlette.responses import JSONResponse
 
 from modules.ai_generator import AIDescriptionGenerator
 from modules.github_projects import GitHubProjectRanker
 from modules.linkedin_fetcher import LinkedInProfileFetcher
 
-DEBUG = True
 # Import your existing modules
 from config.settings import Settings
 from utils.user import get_user_data
@@ -112,7 +115,7 @@ async def get_cached_github_profile(username: str, ) -> Dict[str, Any]:
     cache_key = f"github_profile_basic:{username}"
     # Check cache
     cached_response = await redis_client.get(cache_key)
-    if cached_response and not DEBUG:
+    if cached_response and not Settings.DEBUG:
         return json.loads(cached_response)
 
     basic_profile = GitHubProfileFetcher.fetch_user_profile(username)
@@ -125,8 +128,39 @@ async def get_cached_github_profile(username: str, ) -> Dict[str, Any]:
     return basic_profile
 
 
+class APIKeyMiddleware(BaseHTTPMiddleware):
+    EXCLUDED_PATHS = {"/docs", "/redoc", "/openapi.json"}  # Add paths to exclude from auth
+
+    async def dispatch(self, request: Request, call_next):
+        # Skip authentication for excluded paths or in debug mode
+        if request.url.path in self.EXCLUDED_PATHS or Settings.DEBUG:
+            return await call_next(request)
+
+        # Get API key from header
+        api_key = request.headers.get("X-API-Key")
+        if not api_key:
+            return JSONResponse(
+                status_code=401,
+                content={"detail": "API Key header is missing"}
+            )
+        
+        if api_key not in Settings.API_KEYS:
+            return JSONResponse(
+                status_code=403,
+                content={"detail": "Invalid API Key"}
+            )
+
+        return await call_next(request)
+
+# Add middleware for authentication
+
+
+
 @app.get("/user/{username}/profile", response_model=Dict[str, Any])
-async def fetch_basic_profile(username: Annotated[str, Depends(verify_username)], background_tasks: BackgroundTasks):
+async def fetch_basic_profile(
+    username: Annotated[str, Depends(verify_username)], 
+    background_tasks: BackgroundTasks
+):
     """
     Fetch basic GitHub user profile information (name, bio, stats, etc.)
     """
@@ -136,16 +170,18 @@ async def fetch_basic_profile(username: Annotated[str, Depends(verify_username)]
 
 
 @app.get("/user/{username}/projects", response_model=Dict[str, Any])
-async def fetch_projects_data(username: Annotated[str, Depends(verify_username)]):
+async def fetch_projects_data(
+    username: Annotated[str, Depends(verify_username)]
+):
     """
     Fetch GitHub user's projects and languages data
     """
-    username = username.strip().lower()
     try:
+        username = username.strip().lower()
         cache_key = f"github_profile_projects:{username}"
         # Check cache
         cached_response = await redis_client.get(cache_key)
-        if cached_response and not DEBUG:
+        if cached_response and not Settings.DEBUG:
             return json.loads(cached_response)
 
         # Fetch user data
@@ -162,23 +198,24 @@ async def fetch_projects_data(username: Annotated[str, Depends(verify_username)]
 
 
 @app.get("/user/{username}/about", response_model=Dict[str, Any])
-async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
+async def fetch_about_data(
+    username: Annotated[str, Depends(verify_username)]
+):
     """
     Fetch GitHub user's README content
     """
-    username = username.strip().lower()
     try:
+        username = username.strip().lower()
         cache_key = f"github_profile_about:{username}"
         # Check cache
         cached_response = await redis_client.get(cache_key)
-        if cached_response and not DEBUG:
+        if cached_response and not Settings.DEBUG:
             return json.loads(cached_response)
 
         # Fetch user data
         user_data = await get_cached_github_profile(username)
         print(f"Fetching about data for {username}",user_data)
 
-        
         ai_generator = AIDescriptionGenerator()
         about_data = ai_generator.generate_profile_summary(user_data)
         print(f"About data for {username}",about_data)
@@ -188,7 +225,6 @@ async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
         await redis_client.setex(name=cache_key, value=json.dumps(data), time=3600)
         return data
 
-
     except Exception as e:
         raise HTTPException(
             status_code=404,
@@ -197,7 +233,9 @@ async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
 
 
 @app.get("/user/{username}/linkedin", response_model=Dict[str, Any])
-async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedin_username)]):
+async def fetch_linkedin_profile(
+    username: Annotated[str, Depends(verify_linkedin_username)]
+):
     """
     Fetch LinkedIn profile data
     
@@ -212,7 +250,7 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
         
         # Check cache
         cached_response = await redis_client.get(cache_key)
-        if cached_response and not DEBUG:
+        if cached_response and not Settings.DEBUG:
             return json.loads(cached_response)
 
         # Fetch fresh data
@@ -240,6 +278,7 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
             detail=f"Failed to fetch LinkedIn profile: {str(e)}"
         )
 
+app.add_middleware(APIKeyMiddleware)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Allows all origins
@@ -247,6 +286,7 @@ app.add_middleware(
     allow_methods=["*"],  # Allows all methods
     allow_headers=["*"],  # Allows all headers
 )
+
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

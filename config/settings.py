@@ -9,6 +9,14 @@ load_dotenv()
 
 class Settings:
     """Central configuration management"""
+    # API Authentication
+    API_KEYS = os.getenv("API_KEYS", "").split(',')
+    if not API_KEYS or API_KEYS == [""]:
+        raise ValueError("API_KEYS environment variable must be set")
+
+    # Debug mode
+    DEBUG = os.getenv("DEBUG", "false").lower() == "true"
+
     # GITHUB_API_TOKEN = os.getenv("API_TOKEN_GITHUB")
     # GROQ_API_KEY = os.getenv("GROQ_API_KEY")
     #

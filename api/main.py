@@ -15,6 +15,7 @@ from fastapi_cache.backends.redis import RedisBackend
 
 from modules.ai_generator import AIDescriptionGenerator
 from modules.github_projects import GitHubProjectRanker
+from modules.linkedin_fetcher import LinkedInProfileFetcher
 
 DEBUG = True
 # Import your existing modules
@@ -28,36 +29,6 @@ redis_client = redis.from_url(
     decode_responses=True
 )
 USERS_LIST_KEY = "github_users_list"
-
-
-async def background_manage_users_list(username: str) -> None:
-    """
-    Background task to manage the list of users in Redis.
-    - Retrieve existing users
-    - Add new user if not already in the list
-    - Update the list in Redis
-    """
-    try:
-        # Get existing users list (or initialize if not exists)
-        existing_users_json = await redis_client.get(USERS_LIST_KEY)
-
-        if existing_users_json:
-            existing_users = json.loads(existing_users_json)
-        else:
-            existing_users = []
-
-        # Add user if not already in the list
-        if username not in existing_users:
-            existing_users.append(username)
-
-            # Store updated list back in Redis
-            await redis_client.set(
-                USERS_LIST_KEY,
-                json.dumps(existing_users)
-            )
-    except Exception as e:
-        # Log the error or handle it as appropriate for your application
-        print(f"Background task error managing users list: {e}")
 
 
 async def validate_github_username_handler(username: str) -> bool:
@@ -104,6 +75,24 @@ async def verify_username(
         raise HTTPException(
             status_code=400,
             detail="Invalid GitHub username. Usernames must be 1-39 characters long and can only contain alphanumeric characters and single hyphens."
+        )
+    return username
+
+
+async def verify_linkedin_username(
+        username: Annotated[
+            str,
+            Path(
+                min_length=1,
+                pattern=r'^[\w\-]+$'
+            )
+        ]
+) -> str:
+    """Verify LinkedIn username format"""
+    if not LinkedInProfileFetcher._validate_linkedin_username(username):
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid LinkedIn username. Username can only contain letters, numbers, and hyphens."
         )
     return username
 
@@ -207,42 +196,48 @@ async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
         )
 
 
-@app.get("/users", response_model=List[str])
-async def get_users_list():
+@app.get("/user/{username}/linkedin", response_model=Dict[str, Any])
+async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedin_username)]):
     """
-    Retrieve the list of users from external API and compare with Redis.
-    Returns only new users.
+    Fetch LinkedIn profile data
+    
+    Args:
+        username: LinkedIn username (e.g., john-doe)
+    
+    Returns:
+        Dict containing processed LinkedIn profile data
     """
     try:
-        # Fetch users from external API
-        response = requests.get("https://devb.io/data/processed_users.json")
-        try:
-            response.raise_for_status()
-            external_users_dict = response.json()
-        except requests.HTTPError:
-            external_users_dict = {}
+        cache_key = f"linkedin_profile:{username}"
+        
+        # Check cache
+        cached_response = await redis_client.get(cache_key)
+        if cached_response and not DEBUG:
+            return json.loads(cached_response)
 
-        # Get existing users from Redis
-        existing_users_json = await redis_client.get(USERS_LIST_KEY)
-        existing_users = json.loads(existing_users_json) if existing_users_json else []
-        # make case insensitive
-        existing_users = [user.lower() for user in existing_users]
-        external_users_dict = [user.lower() for user in external_users_dict.keys()]
-
-        new_users = set(existing_users) - set(external_users_dict)
-
-        if new_users:
-            await redis_client.set(
-                USERS_LIST_KEY,
-                json.dumps(list(new_users))
+        # Fetch fresh data
+        fetcher = LinkedInProfileFetcher()
+        profile_data = await fetcher.fetch_profile_async(username)
+        
+        if "error" in profile_data:
+            raise HTTPException(
+                status_code=400,
+                detail=profile_data["error"]
             )
+            
+        # Cache the result
+        await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=3600)
+        return profile_data
 
-        return new_users
-
+    except ValueError as e:
+        raise HTTPException(
+            status_code=400,
+            detail=str(e)
+        )
     except Exception as e:
         raise HTTPException(
             status_code=500,
-            detail=f"Error processing users list: {str(e)}"
+            detail=f"Failed to fetch LinkedIn profile: {str(e)}"
         )
 
 app.add_middleware(

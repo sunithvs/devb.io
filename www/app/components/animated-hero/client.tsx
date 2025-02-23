@@ -17,7 +17,7 @@ export default function AnimatedHeroClient() {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
-        <h1 className="text-6xl md:text-7xl font-bold leading-tight mb-4">
+        <h1 className="text-6xl md:text-7xl md:font-bold leading-tight mb-4">
           Effortless{" "}
           <span className="block">Portfolios for</span>
           <span className="inline-block bg-[#B9FF66] px-4 py-1 rounded-lg">
@@ -28,12 +28,14 @@ export default function AnimatedHeroClient() {
           Your GitHub profile tells a story.
           <br />Let us help you narrate it
         </p>
-        <button
-          onClick={() => setShowGithubModal(true)}
-          className="bg-[#1A1A1A] text-white px-8 py-4 rounded-lg text-lg font-medium hover:bg-black transition-colors"
-        >
-          Generate Your Portfolio
-        </button>
+        <div className="flex flex-col sm:flex-row gap-4">
+          <button
+            onClick={() => setShowGithubModal(true)}
+            className="bg-[#1A1A1A] text-white px-8 py-4 rounded-lg text-lg font-medium hover:bg-black transition-colors"
+          >
+            Generate Your Portfolio
+          </button>
+        </div>
       </motion.div>
 
       {/* Right side - GitHub Illustration */}

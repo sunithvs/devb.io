@@ -25,7 +25,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           title: "LinkedIn",
           description: "Display your professional experience and achievements",
           color: "bg-blue-50",
-          status: "Available"
+          status: "New"
         };
       case "medium":
         return {
@@ -33,7 +33,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           title: "Medium",
           description: "Share your technical articles and blog posts",
           color: "bg-gray-50",
-          status: "Available"
+          status: "New"
         };
       case "more":
         return {
@@ -62,7 +62,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           {details.icon}
         </div>
         <span className={`text-sm font-medium ${
-          details.status === "Available" ? "text-green-600" : "text-gray-600"
+          details.status === "New" ? "text-blue-600" : "text-gray-600"
         }`}>
           {details.status}
         </span>

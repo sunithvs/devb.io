@@ -138,14 +138,25 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to fetch LinkedIn profile: {str(e)}")
 
-# Middleware
-# app.add_middleware(APIKeyMiddleware)
+
+
+ALLOWED_ORIGINS = [
+    "https://devb.io",
+    "https://beta.devb.io",
+    "http://localhost:3000",  # For local development
+    "http://localhost:8080"
+]
+
+# Add CORS middleware with specific origins
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins
+    allow_origins=ALLOWED_ORIGINS,  # Use the whitelist instead of "*"
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all methods
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["GET", "OPTIONS"],  # Specify allowed methods
+    allow_headers=["Authorization", "Content-Type", "X-API-Key"],  # Specify allowed headers
+    expose_headers=[],  # Headers that can be exposed to the browser
+    max_age=600,  # How long the results of a preflight request can be cached (in seconds)
+
 )
 
 if __name__ == "__main__":

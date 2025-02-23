@@ -1,13 +1,11 @@
 import Image from "next/image";
 import Footer from "@/components/footer";
-import Counter from "@/components/counter";
 import AnimatedNav from "./components/animated-nav/server";
 import AnimatedHero from "./components/animated-hero/server";
 import AnimatedStats from "./components/animated-stats/server";
 import IntegrationCard from "./components/integration-card/server";
 import ProfileCard from "./components/profile-card/server";
 import HowItWorksCard from "./components/how-it-works-card/server";
-import { Github, RefreshCw, Share2 } from "lucide-react";
 
 // Types
 interface Profile {
@@ -75,14 +73,22 @@ async function getContributors(): Promise<Profile[]> {
           return {
             name: userData.name || profile.login,
             username: profile.login,
-            avatar_url: profile.avatar_url
+            avatar_url: profile.avatar_url,
+            bio: userData.bio || "No bio available",
+            followers: userData.followers || 0,
+            following: userData.following || 0,
+            public_repos: userData.public_repos || 0
           };
         } catch (error) {
           console.error(`Error fetching data for ${profile.login}:`, error);
           return {
             name: profile.login,
             username: profile.login,
-            avatar_url: profile.avatar_url
+            avatar_url: profile.avatar_url,
+            bio: "No bio available",
+            followers: 0,
+            following: 0,
+            public_repos: 0
           };
         }
       })
@@ -232,6 +238,10 @@ export default async function Home() {
                   name={profile.name}
                   username={profile.username}
                   avatarUrl={profile.avatar_url}
+                  bio={profile.bio}
+                  followers={profile.followers}
+                  following={profile.following}
+                  publicRepos={profile.public_repos}
                   index={index}
                 />
               ))}
@@ -257,6 +267,10 @@ export default async function Home() {
                   name={profile.name}
                   username={profile.username}
                   avatarUrl={profile.avatar_url}
+                  bio={profile.bio}
+                  followers={profile.followers}
+                  following={profile.following}
+                  publicRepos={profile.public_repos}
                   index={index}
                 />
               ))}

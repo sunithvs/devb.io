@@ -46,6 +46,7 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
         bio: data.bio || "No bio available"
       });
     } catch (err) {
+      console.log(err)
       setError("Invalid GitHub username");
       setProfile(null);
     } finally {

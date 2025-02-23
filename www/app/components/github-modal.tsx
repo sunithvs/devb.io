@@ -186,12 +186,6 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                 )}
               </button>
 
-              <p className="text-xs text-center text-gray-500 mt-3">
-                By continuing, you agree to our{" "}
-                <a href="/terms" className="text-black hover:underline">Terms of Service</a>
-                {" "}and{" "}
-                <a href="/privacy" className="text-black hover:underline">Privacy Policy</a>
-              </p>
             </div>
           </div>
         </div>

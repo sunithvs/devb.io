@@ -6,7 +6,7 @@ export default function HowItWorksCard({
   description, 
   index 
 }: { 
-  iconName: "Github" | "Search" | "Code";
+  iconName: "Github" | "RefreshCw" | "Share2";
   title: string;
   description: string;
   index: number;

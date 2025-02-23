@@ -7,7 +7,7 @@ import AnimatedStats from "./components/animated-stats/server";
 import IntegrationCard from "./components/integration-card/server";
 import ProfileCard from "./components/profile-card/server";
 import HowItWorksCard from "./components/how-it-works-card/server";
-import { Github, Search, Code } from "lucide-react";
+import { Github, RefreshCw, Share2 } from "lucide-react";
 
 // Types
 interface Profile {
@@ -103,17 +103,17 @@ export default async function Home() {
     {
       iconName: "Github" as const,
       title: "Connect GitHub",
-      description: "Link your GitHub account to get started. We'll fetch your repositories and activity."
+      description: "Link your GitHub account to automatically showcase your repositories and contributions."
     },
     {
-      iconName: "Search" as const,
-      title: "Customize Profile",
-      description: "Choose which projects and achievements to highlight in your portfolio."
+      iconName: "RefreshCw" as const,
+      title: "Weekly Updates",
+      description: "Your portfolio stays fresh with automatic weekly updates of your latest projects and activities."
     },
     {
-      iconName: "Code" as const,
+      iconName: "Share2" as const,
       title: "Share Your Work",
-      description: "Get a beautiful portfolio that showcases your developer journey."
+      description: "Share your curated collection of projects and achievements with the world."
     }
   ];
 
@@ -190,7 +190,7 @@ export default async function Home() {
         </section>
 
         {/* How It Works Section */}
-        <section id="how-to" className="py-20">
+        <section className="py-20">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -214,8 +214,8 @@ export default async function Home() {
           </div>
         </section>
 
-               {/* Contributors Section */}
-               <section className="py-20">
+        {/* Contributors Section */}
+        <section className="py-20">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-4xl md:text-5xl font-bold mb-4">

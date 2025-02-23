@@ -1,10 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Search, Code, LucideIcon } from "lucide-react";
+import { Github, RefreshCw, Share2, Search, Code, LucideIcon } from "lucide-react";
 
 const iconMap = {
   Github,
+  RefreshCw,
+  Share2,
   Search,
   Code
 };

@@ -8,6 +8,7 @@ import ProfileCard from "@/components/profile-card";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { motion, AnimatePresence } from "framer-motion";
 import { useInView } from "react-intersection-observer";
+import Counter from "@/components/counter";
 
 // Types
 interface Profile {
@@ -20,91 +21,6 @@ interface Profile {
   public_repos: number;
 }
 
-// Wave animation functions
-function generateSineWave(
-  width: number,
-  height: number,
-  frequency: number,
-  amplitude: number,
-  offset: number = 0,
-): string {
-  const points: string[] = [];
-  for (let x = 0; x <= width; x += 5) {
-    const y =
-      Math.sin((x / width) * 2 * Math.PI * frequency + offset) * amplitude;
-    points.push(`${x},${y}`);
-  }
-  return `M0,0 L${points.join(" L")}`;
-}
-
-function generateNoisyWave(
-  width: number,
-  height: number,
-  frequency: number,
-  amplitude: number,
-  noiseLevel: number = 5,
-): string {
-  const points: string[] = [];
-  for (let x = 0; x <= width; x += 5) {
-    const baseY = Math.sin((x / width) * 2 * Math.PI * frequency) * amplitude;
-    const noise = (Math.random() - 0.5) * noiseLevel;
-    points.push(`${x},${baseY + noise}`);
-  }
-  return `M0,0 L${points.join(" L")}`;
-}
-
-const useWaveAnimation = () => {
-  useEffect(() => {
-    let animationFrameId: number;
-    const startTime = Date.now();
-
-    const animate = () => {
-      const currentTime = Date.now();
-      const elapsed = (currentTime - startTime) / 1000;
-
-      // Get wave paths
-      const noisyWavePaths = document.querySelectorAll(".noisy-wave path");
-      const cleanWavePaths = document.querySelectorAll(".clean-wave path");
-
-      // Update noisy waves (left side)
-      if (noisyWavePaths.length > 0) {
-        const noisyWave1 = generateNoisyWave(600, 100, 3, 30, 15);
-        const noisyWave2 = generateNoisyWave(600, 100, 2, 25, 10);
-        const noisyWave3 = generateNoisyWave(600, 100, 4, 20, 8);
-
-        noisyWavePaths[0].setAttribute("d", noisyWave1);
-        noisyWavePaths[1].setAttribute("d", noisyWave2);
-        noisyWavePaths[2].setAttribute("d", noisyWave3);
-      }
-
-      // Update clean waves (right side)
-      if (cleanWavePaths.length > 0) {
-        const offset = elapsed * 2;
-        const cleanWave1 = generateSineWave(600, 100, 2, 30, offset);
-        const cleanWave2 = generateSineWave(
-          600,
-          100,
-          2,
-          25,
-          offset + Math.PI / 4,
-        );
-
-        cleanWavePaths[0].setAttribute("d", cleanWave1);
-        cleanWavePaths[1].setAttribute("d", cleanWave2);
-      }
-
-      animationFrameId = requestAnimationFrame(animate);
-    };
-
-    animate();
-    return () => {
-      if (animationFrameId) {
-        cancelAnimationFrame(animationFrameId);
-      }
-    };
-  }, []);
-};
-
 export default function Home() {
   const [profiles, setProfiles] = useState<Profile[]>([]);
   const [showGithubModal, setShowGithubModal] = useState(false);
@@ -113,14 +29,14 @@ export default function Home() {
   const [validationMessage, setValidationMessage] = useState("");
   const [profile, setProfile] = useState<Profile | null>(null);
 
-  useWaveAnimation();
 
   useEffect(() => {
     // Load profiles on component mount
     fetch("https://devb.io/data/processed_users.json")
       .then((response) => response.json())
-      .then((data) => {
-        setProfiles(Object.values(data));
+      .then((data: Record<string, Profile>) => {
+        // Type assertion to ensure data matches Profile interface
+        setProfiles(Object.values(data).slice(-6));
       })
       .catch((error) => console.error("Error loading profiles:", error));
   }, []);
@@ -183,15 +99,6 @@ export default function Home() {
     };
   }, [debouncedValidation]);
 
-  const [ref, inView] = useInView({
-    triggerOnce: true,
-    threshold: 0.1,
-  });
-
-  const cardVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 },
-  };
 
   return (
     <>
@@ -353,65 +260,41 @@ export default function Home() {
           </motion.div>
         </section>
 
-        {/* 2024 Unwrapped Section */}
-        <section id="2024-unwrapped" className="py-10 md:pt-20 mt-10">
-          <div className="container md:mx-auto md:px-4">
-            <div className="grid grid-cols-1 gap-8">
-              <div className="p-2 md:p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                <div className="flex flex-col h-full">
-                  <div className="mb-4 md:mb-16 flex flex-col md:flex-row items-center">
-                    <div className="flex flex-col md:flex-row">
-                      <div className="flex items-center mb-4">
-                        <div className="relative">
-                          <svg
-                            className="w-28 h-28 animate-spin-slow"
-                            viewBox="0 0 100 100"
-                          >
-                            <path
-                              id="curve"
-                              d="M 50,50 m -37,0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0"
-                              fill="none"
-                            />
-                            <text>
-                              <textPath href="#curve" className="text-[13px]">
-                                unwrapped <tspan fill="#70CF00">2024</tspan> |
-                                unwrapped <tspan fill="#70CF00">2024</tspan> |
-                              </textPath>
-                            </text>
-                          </svg>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="flex md:ml-8 flex-col md:flex-row items-center flex-grow">
-                      <div className="md:w-4/5 text-center md:text-left">
-                        <span className="bg-[#B9FF66] md:px-4 py-2 mb-4 rounded-lg text-2xl font-medium">
-                          2024 Unwrapped
-                        </span>
-                        <div className="flex flex-col gap-4 mt-6">
-                          <p className="text-md md:text-lg">
-                            Imagine your entire year of coding captured in one
-                            beautiful poster. Share your coding journey with the
-                            world!
-                          </p>
-                          <p className="font-medium">No sign-in required</p>
-                        </div>
-                      </div>
-                      <div className="flex items-end md:ml-2 mt-4 md:mt-0">
-                        <button
-                          className="bg-black text-white px-6 py-3 rounded-lg"
-                          onClick={() => setShowGithubModal(true)}
-                        >
-                          Generate Now
-                        </button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+        {/* Analytics Section */}
+        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+          <div className="container mx-auto px-4 text-center">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6 }}
+              viewport={{ once: true }}
+              className="max-w-3xl mx-auto"
+            >
+              <motion.div className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
+                1425
+              </motion.div>
+              <motion.p
+                className="text-xl md:text-2xl text-gray-600 mb-8"
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: 0.3 }}
+              >
+                Profiles Generated in 2 Months from Around the Globe
+              </motion.p>
+              <motion.button
+                onClick={() => setShowGithubModal(true)}
+                className="bg-[#B9FF66] text-black px-8 py-3 rounded-xl font-medium text-lg hover:bg-opacity-90 transition-all border-2 border-black border-b-[4px] hover:shadow-lg hover:-translate-y-1"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: 0.4 }}
+              >
+                What Are You Waiting For? Generate Yours Now!
+              </motion.button>
+            </motion.div>
           </div>
         </section>
-
         {/* Services Grid */}
         <section className="py-10 md:pt-20">
           <div className="container md:mx-auto md:px-4">
@@ -442,94 +325,6 @@ export default function Home() {
                     />
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wave Animation Section */}
-        <section
-          id="wave-animation"
-          className="pt-12 md:pt-10 lg:mt-20 flex justify-center items-center"
-        >
-          <div className="container">
-            <div className="wave-container rounded-[10px] md:rounded-[30px] flex items-center flex-col bg-[#1E1E1E]">
-              <div className="w-full flex text-[#B9FF66] text-[7px] md:text-xs lg:text-xl mt-3">
-                <div className="w-full text-center">
-                  Scattered Commits, Unstructured Chaos
-                </div>
-                <div className="w-full text-center">
-                  Curated Contributions, Professional Portfolio
-                </div>
-              </div>
-              <div className="w-full h-[200px] relative">
-                <svg viewBox="0 0 1200 200" className="w-full h-full">
-                  {/* Noisy Wave Group */}
-                  <g className="noisy-wave" transform="translate(0, 100)">
-                    <path
-                      className="wave-primary"
-                      strokeWidth="2"
-                      stroke="#B9FF66"
-                      fill="none"
-                    />
-                    <path
-                      className="wave-secondary"
-                      strokeWidth="1.5"
-                      stroke="#B9FF66"
-                      fill="none"
-                      transform="translate(0, 5)"
-                    />
-                    <path
-                      className="wave-detail"
-                      strokeWidth="1"
-                      stroke="#B9FF66"
-                      fill="none"
-                      transform="translate(0, -5)"
-                    />
-                  </g>
-
-                  {/* Logo */}
-                  <g transform="translate(570, 65)">
-                    <circle
-                      className="logo-glow-outer"
-                      cx="30"
-                      cy="30"
-                      r="40"
-                      fill="rgba(185, 255, 102, 0.1)"
-                    />
-                    <circle
-                      className="logo-glow-inner"
-                      cx="30"
-                      cy="30"
-                      r="25"
-                      fill="rgba(185, 255, 102, 0.2)"
-                    />
-                    <image
-                      href="/logo.svg"
-                      x="10"
-                      y="10"
-                      width="40"
-                      height="40"
-                    />
-                  </g>
-
-                  {/* Clean Wave Group */}
-                  <g className="clean-wave" transform="translate(600, 100)">
-                    <path
-                      className="wave-main"
-                      strokeWidth="2"
-                      stroke="#B9FF66"
-                      fill="none"
-                    />
-                    <path
-                      className="wave-secondary"
-                      strokeWidth="1.5"
-                      stroke="#B9FF66"
-                      fill="none"
-                      transform="translate(0, 5)"
-                    />
-                  </g>
-                </svg>
               </div>
             </div>
           </div>
@@ -598,16 +393,17 @@ export default function Home() {
         <section className="py-10">
           <div className="container mx-auto px-4">
             <h2 className="text-2xl font-semibold mb-8 inline-block py-1 px-4 bg-[#B9FF66] rounded-full">
-              Contributors
+              Recent Profiles
             </h2>
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {profiles.map((profile, index) => (
-                <ProfileCard
-                  key={index}
-                  name={profile.name}
-                  username={profile.username}
-                  avatarUrl={profile.avatar_url}
-                />
+                <div key={index} className="rounded-[30px] overflow-hidden">
+                  <ProfileCard
+                    name={profile.name}
+                    username={profile.username}
+                    avatarUrl={profile.avatar_url}
+                  />
+                </div>
               ))}
             </div>
           </div>

@@ -1,15 +1,3 @@
-### 🌐 Quick Links
-- [💻 Live Website](https://devb.io)
-
-
-### 🛠 Tech Stack
-
-- Frontend:  HTML,CSS
-- Backend: Fast API
-- Database: Redis
-- AI Services: Groq
-- Scripting: Python
-
 ![devb.io Banner](https://devb.io/images/banner.png)
 
 # devb.io 🚀

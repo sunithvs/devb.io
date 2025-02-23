@@ -22,6 +22,8 @@ devb.io is an innovative platform that automatically generates professional deve
 
 - [🚀 Product Hunt](https://www.producthunt.com/posts/devb-io)
 - [🚀 Live Website](https://devb.io)
+- [🚀 Beta Link](https://beta.devb.io)
+- [Demo Link](https://youtu.be/vS00Z6eDVuc)
 - [📄 Documentation](https://docs.devb.io)
 - [💬 Community Forum](https://discord.gg/W364NEY6)
 

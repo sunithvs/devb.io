@@ -1,11 +1,13 @@
 import Image from "next/image";
 import Footer from "@/components/footer";
-import ProfileCard from "@/components/profile-card";
 import Counter from "@/components/counter";
 import AnimatedNav from "./components/animated-nav/server";
 import AnimatedHero from "./components/animated-hero/server";
 import AnimatedStats from "./components/animated-stats/server";
 import IntegrationCard from "./components/integration-card/server";
+import ProfileCard from "./components/profile-card/server";
+import HowItWorksCard from "./components/how-it-works-card/server";
+import { Github, Search, Code } from "lucide-react";
 
 // Types
 interface Profile {
@@ -26,8 +28,63 @@ async function getProfiles(): Promise<Profile[]> {
   return Object.values(data).slice(-6);
 }
 
+async function getContributors(): Promise<Profile[]> {
+  try {
+    const response = await fetch('https://api.github.com/repos/sunithvs/devbv2/contributors');
+    const contributorsData = await response.json();
+    
+    // Filter out actions-user and fetch full profile data
+    const cleanedData = contributorsData.filter((profile: any) => profile.login !== 'actions-user');
+    
+    const contributors = await Promise.all(
+      cleanedData.map(async (profile: any) => {
+        try {
+          const userResponse = await fetch(`https://api.github.com/users/${profile.login}`);
+          const userData = await userResponse.json();
+          return {
+            name: userData.name || profile.login,
+            username: profile.login,
+            avatar_url: profile.avatar_url
+          };
+        } catch (error) {
+          console.error(`Error fetching data for ${profile.login}:`, error);
+          return {
+            name: profile.login,
+            username: profile.login,
+            avatar_url: profile.avatar_url
+          };
+        }
+      })
+    );
+    
+    return contributors;
+  } catch (error) {
+    console.error('Error fetching contributors:', error);
+    return [];
+  }
+}
+
 export default async function Home() {
   const profiles = await getProfiles();
+  const contributors = await getContributors();
+
+  const howItWorksSteps = [
+    {
+      iconName: "Github" as const,
+      title: "Connect GitHub",
+      description: "Link your GitHub account to get started. We'll fetch your repositories and activity."
+    },
+    {
+      iconName: "Search" as const,
+      title: "Customize Profile",
+      description: "Choose which projects and achievements to highlight in your portfolio."
+    },
+    {
+      iconName: "Code" as const,
+      title: "Share Your Work",
+      description: "Get a beautiful portfolio that showcases your developer journey."
+    }
+  ];
 
   return (
     <>
@@ -102,82 +159,79 @@ export default async function Home() {
         </section>
 
         {/* How It Works Section */}
-        <section id="how-to" className="py-10 md:pt-20 mt-10">
-          <div className="container md:mx-auto md:px-4">
-            <div className="mb-4 md:mb-16 flex flex-col md:flex-row">
-              <div className="flex items-center">
-                <span className="inline-block bg-[#B9FF66] px-4 rounded-lg text-3xl font-medium mb-4 flex items-center mr-5">
-                  How It Works
-                </span>
-              </div>
-            </div>
-            <div className="grid grid-cols-1 gap-8">
-              <div className="bg-[#B9FF66] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                <div className="flex flex-col h-full">
-                  <div className="flex items-center flex-row">
-                    <div className="flex flex-row text-left items-center">
-                      <span className="text-4xl font-bold mr-4">1</span>
-                      <h3 className="text-2xl font-bold">Connect GitHub</h3>
-                    </div>
-                  </div>
-                  <p className="mt-4 text-lg">
-                    Link your GitHub account to automatically import your
-                    repositories, contributions, and activity.
-                  </p>
-                </div>
-              </div>
-              <div className="bg-white p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                <div className="flex flex-col h-full">
-                  <div className="flex items-center flex-row">
-                    <div className="flex flex-row text-left items-center">
-                      <span className="text-4xl font-bold mr-4">2</span>
-                      <h3 className="text-2xl font-bold">AI Enhancement</h3>
-                    </div>
-                  </div>
-                  <p className="mt-4 text-lg">
-                    Our AI analyzes your GitHub data to create compelling
-                    project descriptions and professional bio.
-                  </p>
-                </div>
-              </div>
-              <div className="bg-[#B9FF66] p-8 rounded-[30px] border-2 border-b-[4px] md:border-b-[5px] border-black">
-                <div className="flex flex-col h-full">
-                  <div className="flex items-center flex-row">
-                    <div className="flex flex-row text-left items-center">
-                      <span className="text-4xl font-bold mr-4">3</span>
-                      <h3 className="text-2xl font-bold">Share & Grow</h3>
-                    </div>
-                  </div>
-                  <p className="mt-4 text-lg">
-                    Get a personalized portfolio URL to share with potential
-                    employers and track your growth.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Recent Profiles Section */}
-        <section className="py-10">
+        <section id="how-to" className="py-20">
           <div className="container mx-auto px-4">
-            <h2 className="text-2xl font-semibold mb-8 inline-block py-1 px-4 bg-[#B9FF66] rounded-full">
-              Recent Profiles
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              {profiles.map((profile) => (
-                <div key={profile.username} className="rounded-[30px] overflow-hidden">
-                  <ProfileCard
-                    name={profile.name}
-                    username={profile.username}
-                    avatarUrl={profile.avatar_url}
-                  />
-                </div>
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                How It Works
+              </h2>
+              <p className="text-xl text-gray-600">
+                Create your developer portfolio in three simple steps
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+              {howItWorksSteps.map((step, index) => (
+                <HowItWorksCard
+                  key={step.title}
+                  iconName={step.iconName}
+                  title={step.title}
+                  description={step.description}
+                  index={index}
+                />
               ))}
             </div>
           </div>
         </section>
 
+        {/* Recent Profiles Section */}
+        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Recent Profiles
+              </h2>
+              <p className="text-xl text-gray-600">
+                Check out the latest developers who created their portfolios using DevB
+              </p>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
+              {profiles.map((profile, index) => (
+                <ProfileCard
+                  key={profile.username}
+                  name={profile.name}
+                  username={profile.username}
+                  avatarUrl={profile.avatar_url}
+                  index={index}
+                />
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Contributors Section */}
+        <section className="py-20">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Our Contributors
+              </h2>
+              <p className="text-xl text-gray-600">
+                Meet the amazing developers who have contributed to making DevB better
+              </p>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
+              {contributors.map((profile, index) => (
+                <ProfileCard
+                  key={profile.username}
+                  name={profile.name}
+                  username={profile.username}
+                  avatarUrl={profile.avatar_url}
+                  index={index}
+                />
+              ))}
+            </div>
+          </div>
+        </section>
       </main>
       <Footer />
     </>

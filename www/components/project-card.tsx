@@ -3,9 +3,8 @@ import Link from "next/link";
 import { Project } from "@/types/types";
 import { Circle, ExternalLink, GitFork, Github, Star } from "lucide-react";
 
-interface ProjectCardProps extends Project {}
 
-const ProjectCard: React.FC<ProjectCardProps> = ({
+const ProjectCard = ({
   name,
   description,
   language,

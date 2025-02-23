@@ -1,0 +1,147 @@
+{
+    "username": "albinjojo",
+    "name": "Albin Jojo",
+    "bio": "Flutter, AI/ML, Web Dev. Building UIs & exploring AI.  This profile is my playground! \r\n",
+    "location": "Kerala,India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/164174214?u=8c4d2ed4035aba5839d065e757d6c3073c6760d3&v=4",
+    "profile_url": "https://github.com/albinjojo",
+    "top_languages": [
+        [
+            "C++",
+            3
+        ],
+        [
+            "Dart",
+            2
+        ],
+        [
+            "HTML",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "KH-13-2025",
+            "description": null,
+            "score": 2.0689737810900186,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/albinjojo/KH-13-2025",
+            "updatedAt": "2025-02-16T09:30:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Rubicon-Nexus24",
+            "description": null,
+            "score": 1.6477745486282291,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/albinjojo/Rubicon-Nexus24",
+            "updatedAt": "2024-05-01T13:09:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "toursandtravels",
+            "description": null,
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/albinjojo/toursandtravels",
+            "updatedAt": "2025-02-19T14:48:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Demo",
+            "description": null,
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/albinjojo/Demo",
+            "updatedAt": "2025-02-14T11:58:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "agrowteinintern",
+            "description": null,
+            "score": 0.40662754602272516,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/albinjojo/agrowteinintern",
+            "updatedAt": "2025-01-14T17:39:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "linuxassignment",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/albinjojo/linuxassignment",
+            "updatedAt": "2025-01-14T17:50:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "osprojectajce",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/albinjojo/osprojectajce",
+            "updatedAt": "2025-01-19T09:41:51Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolioweb",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/albinjojo/portfolioweb",
+            "updatedAt": "2025-01-13T18:49:02Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 11,
+    "public_repos": 16,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 65,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/albin-jojo-3ba318290"
+        }
+    ],
+    "readme_content": "# Hello, World! \ud83d\udc4b\n\nWelcome to my GitHub profile! I'm **Albin Jojo**, a **Computer Application Integrated MCA** student, aspiring **AI Specialist**, and passionate **Web Developer**. I spend my time writing code, learning new tech, and building projects that solve real-world problems (or at least keep my browser tabs organized).\n\n## About Me\n\n- **Current Focus**: Learning new programming languages, improving my algorithms and data structures skills, and building impactful projects.\n- **Tech Stack**:  \n  - Frontend: HTML, CSS, JavaScript, React, Flutter  \n  - Backend: Node.js, Firebase  \n  - Database: Firebase, SQL  \n  - AI/ML: Python, TensorFlow  \n  - Tools: Git, GitHub, VS Code, Google Cloud\n  \n- **Key Interests**:  \n  - Artificial Intelligence and Machine Learning  \n  - Full Stack Web Development  \n  - UI/UX Design  \n  - Building impactful and user-friendly applications\n",
+    "activity_summary": {
+        "KH-13-2025": {
+            "link": "https://github.com/albinjojo/KH-13-2025",
+            "summary": "The KH-13-2025 repository experienced significant activities on February 15th and 16th, 2025. Notable updates include the addition of a chatbot, a dashboard, and a homepage, followed by the addition of a banner and user dashboard."
+        },
+        "albinjojo": {
+            "link": "https://github.com/albinjojo/albinjojo",
+            "summary": "The albinjojo repository saw updates on February 17th, 2025, featuring an update to the README.md file and a pull request to merge this update."
+        }
+    },
+    "profile_summary": "As a Computer Application Integrated MCA student and aspiring AI Specialist, I leverage my expertise in C++, Dart, and HTML to drive innovative solutions. With a strong focus on Flutter and web development, I spend my time crafting user-centric UIs and pushing the boundaries of AI and ML. As a passionate developer with 16 open-source projects and a growing community of 8 followers, I'm committed to building impactful applications that make a real difference. This profile is my playground, where I experiment with cutting-edge tech, write code, and learn from my experiences."
+}

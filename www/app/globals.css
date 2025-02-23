@@ -127,3 +127,64 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Wave Animation Styles */
+.wave-container {
+    background: linear-gradient(180deg, #1E1E1E 0%, #141414 100%);
+    position: relative;
+    overflow: hidden;
+    min-height: 200px;
+}
+
+.wave-container svg {
+    width: 100%;
+    height: 100%;
+}
+
+/* Noisy Wave */
+.noisy-wave {
+    opacity: 0.5;
+}
+
+.noisy-wave path {
+    fill: none;
+    stroke: #B9FF66;
+}
+
+/* Clean Wave */
+.clean-wave {
+    opacity: 0.8;
+}
+
+.clean-wave path {
+    fill: none;
+    stroke: #B9FF66;
+}
+
+/* GitHub Logo */
+.github-logo {
+    fill: #B9FF66;
+}
+
+.logo-glow-outer {
+    fill: rgba(185, 255, 102, 0.1);
+}
+
+.logo-glow-inner {
+    fill: rgba(185, 255, 102, 0.2);
+}
+
+/* Curved Text Animation */
+#curve {
+    fill: transparent;
+}
+
+text {
+    fill: #1E1E1E;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+textPath {
+    fill: #1E1E1E;
+}

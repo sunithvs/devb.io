@@ -264,9 +264,9 @@ const ResumeGenerator: React.FC<{ username: string }> = ({ username }) => {
     };
 
     return (
-        <div onClick={handleOpenInNewTab}>
+        <button onClick={handleOpenInNewTab} style={{ cursor: 'pointer', padding: '10px', fontSize: '16px' }}>
             Download Resume
-        </div>
+        </button>
     );
 };
 

@@ -24,6 +24,8 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
     useGetUserProject(username);
   const { data: linkedInData, isLoading: isUserLinkedInDataLoading } =
     useGetUserLinkedInProfile(username);
+  console.log("userProjects", userProjects);
+    console.log("linkedInData", linkedInData);
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
@@ -88,12 +90,12 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           <div>
             <div className="flex flex-col lg:flex-row gap-4">
               <div className={"flex flex-col gap-4 flex-1"}>
-                <div className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4">
+                {user?.bio && (<div className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">📝 Bio</h2>
                   <p className="text-gray-700">
-                    {user?.bio || "i own a computer 💻"}
+                    {user?.bio}
                   </p>
-                </div>
+                </div>)}
 
                 <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">💻 Languages</h2>
@@ -155,35 +157,42 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
         </div>
 
         <div>
-          <h2 className="text-2xl font-bold mb-8">
-            Experience <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
+
           {isUserLinkedInDataLoading || !linkedInData ? (
             <TimelineSkeleton />
           ) : (
             linkedInData &&
-            linkedInData.experience && (
-              <Timeline
+            linkedInData.experience.length > 0 && (
+             <>
+                 <h2 className="text-2xl font-bold mb-8">
+            Experience <ArrowDown strokeWidth={2} className="inline" />
+          </h2>
+               <Timeline
                 items={transformLinkedInData(linkedInData.experience)}
                 backgroundColor="bg-[#B9FF66]"
               />
+             </>
             )
           )}
         </div>
 
         <div>
-          <h2 className="text-2xl font-bold mb-8">
-            Education <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
+
           {isUserLinkedInDataLoading || !linkedInData ? (
             <TimelineSkeleton />
           ) : (
             linkedInData &&
-            linkedInData.education && (
-              <Timeline
+            linkedInData.education.length > 0 && (
+                <>
+                 <h2 className="text-2xl font-bold mb-8">
+            Education <ArrowDown strokeWidth={2} className="inline" />
+          </h2>
+                <Timeline
                 items={transformLinkedInData(linkedInData.education)}
                 backgroundColor="bg-white"
               />
+                </>
+
             )
           )}
         </div>

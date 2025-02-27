@@ -5,18 +5,12 @@ export default function ProfileCard({
   username, 
   avatarUrl, 
   bio,
-  followers,
-  following,
-  publicRepos,
   index 
 }: { 
   name: string;
   username: string;
   avatarUrl: string;
   bio: string;
-  followers: number;
-  following: number;
-  publicRepos: number;
   index: number;
 }) {
   return (
@@ -25,9 +19,7 @@ export default function ProfileCard({
       username={username} 
       avatarUrl={avatarUrl}
       bio={bio}
-      followers={followers}
-      following={following}
-      publicRepos={publicRepos}
+
       index={index}
     />
   );

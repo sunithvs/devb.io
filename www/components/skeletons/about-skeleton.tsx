@@ -3,8 +3,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 export function AboutSkeleton() {
   return (
     <div>
-      <Skeleton className="h-8 w-48 mb-4" /> {/* "Get to know me" title */}
-      
+
       <div className="flex flex-col lg:flex-row gap-4">
         <div className="flex flex-col gap-4 flex-1">
           {/* Bio Section */}

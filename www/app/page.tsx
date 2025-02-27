@@ -234,7 +234,7 @@ export default async function Home() {
 
         {/* Contributors Section */}
         <section className="py-20">
-          <div className="container mx-auto px-4">
+          <div className="container mx-auto md:px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-4xl md:text-5xl font-bold mb-4">
                 Our Contributors
@@ -251,9 +251,7 @@ export default async function Home() {
                   username={profile.username}
                   avatarUrl={profile.avatar_url}
                   bio={profile.bio}
-                  followers={profile.followers}
-                  following={profile.following}
-                  publicRepos={profile.public_repos}
+
                   index={index}
                 />
               ))}
@@ -280,9 +278,6 @@ export default async function Home() {
                     username={profile.username}
                     avatarUrl={profile.avatar_url}
                     bio={profile.bio}
-                    followers={profile.followers}
-                    following={profile.following}
-                    publicRepos={profile.public_repos}
                     index={index}
                   />
                 </div>

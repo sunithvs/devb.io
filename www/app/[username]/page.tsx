@@ -24,15 +24,13 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
     useGetUserProject(username);
   const { data: linkedInData, isLoading: isUserLinkedInDataLoading } =
     useGetUserLinkedInProfile(username);
-  console.log("userProjects", userProjects);
-    console.log("linkedInData", linkedInData);
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
-      <div className="w-full lg:w-[400px] space-y-6">
+      <div className="w-full lg:w-[400px] space-y-2">
         <Link href="/" className="block">
           <Image
-            src="/images/logo.png"
+            src="/images/logo-full.png"
             alt="devb.io"
             width={120}
             height={40}
@@ -43,7 +41,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
         {isUserDataLoading || !user ? (
           <ProfileSkeleton />
         ) : (
-          <div className="bg-white rounded-xl p-6 border-2 border-black border-b-4">
+          <div className="bg-white rounded-xl p-4 border-2 border-black border-b-4">
             <div className="flex flex-col items-center text-center mb-6">
               <Image
                 src={user.avatar_url}

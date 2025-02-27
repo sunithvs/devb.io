@@ -69,9 +69,9 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                   <p className="text-sm text-gray-600">Repos</p>
                 </div>
               </div>
-              <button className="mt-4 bg-[#B9FF66] border-2 border-black border-b-4 rounded-xl  py-2 px-4 rounded-lg">
+              <div>
                 <ResumeGenerator username={user.username} />
-              </button>
+              </div>
             </div>
           </div>
         )}

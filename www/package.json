@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.6",
+    "@react-pdf/renderer": "^4.2.2",
     "@tanstack/react-query": "^5.66.9",
     "axios": "^1.7.9",
     "class-variance-authority": "^0.7.1",

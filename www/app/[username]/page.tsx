@@ -14,6 +14,7 @@ import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
 import { ArrowDown } from "lucide-react";
+import ResumeGenerator from "@/components/ResumeGenerator";
 
 const Page = ({ params }: { params: Promise<{ username: string }> }) => {
   const { username } = use(params);
@@ -67,6 +68,9 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                   <p className="font-bold text-xl">{user.public_repos}</p>
                   <p className="text-sm text-gray-600">Repos</p>
                 </div>
+              </div>
+              <div>
+                <ResumeGenerator username={user.username} />
               </div>
             </div>
           </div>

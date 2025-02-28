@@ -1,61 +1,45 @@
 import axios from "axios";
 import { LinkedInProfile, Profile, UserProject } from "@/types/types";
 
-const BASE_URL = "https://v2.devb.io";
+const BASE_URL = process.env.API_BASE_URL;
+
+const apiClient = axios.create({
+  baseURL: BASE_URL,
+  withCredentials: false,
+  headers: {
+    "Content-Type": "application/json",
+    Accept: "application/json",
+    "X-Api-Key": process.env.X_API_KEY,
+  },
+});
+
+const fetchResource = async <T>(endpoint: string): Promise<T | null> => {
+  try {
+    const res = await apiClient.get(endpoint);
+    return res.data as T;
+  } catch (error) {
+    console.error(`Error fetching ${endpoint}:`, error);
+    return null;
+  }
+};
 
 export const getUserProfile = async (
   username: string,
 ): Promise<Profile | null> => {
-  try {
-    const res = await axios.get(`${BASE_URL}/user/${username}/profile`, {
-      withCredentials: false,
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-        "X-Api-Key": "1245678765435",
-      },
-    });
-    return res.data as Profile;
-  } catch (error) {
-    console.error("Error fetching profile:", error);
-    return null;
-  }
+  if (!username) return null;
+  return fetchResource<Profile>(`/user/${username}/profile`);
 };
 
 export const getUserProjects = async (
   username: string,
 ): Promise<UserProject | null> => {
-  try {
-    const res = await axios.get(`${BASE_URL}/user/${username}/projects`, {
-      withCredentials: false,
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-        "X-Api-Key": "1245678765435",
-      },
-    });
-    return res.data as UserProject;
-  } catch (error) {
-    console.error("Error fetching projects:", error);
-    return null;
-  }
+  if (!username) return null;
+  return fetchResource<UserProject>(`/user/${username}/projects`);
 };
 
 export const getUserLinkedInProfile = async (
   username: string,
 ): Promise<LinkedInProfile | null> => {
-  try {
-    const res = await axios.get(`${BASE_URL}/user/${username}/linkedin`, {
-      withCredentials: false,
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-        "X-Api-Key": "1245678765435",
-      },
-    });
-    return res.data as LinkedInProfile;
-  } catch (error) {
-    console.error("Error fetching linkedin profile:", error);
-    return null;
-  }
+  if (!username) return null;
+  return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
 };

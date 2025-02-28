@@ -30,6 +30,7 @@ import {
   AnimatedTitle,
 } from "@/app/components/AnimatedContent";
 import { transformLinkedInData } from "@/utils/transform";
+import {Metadata} from "next";
 
 const iconComponents = {
   linkedin: Linkedin,
@@ -45,6 +46,34 @@ const extractDomainName = (url: string) => {
     return url;
   }
 };
+
+export async function generateMetadata({ params }: { params: { username: string } }): Promise<Metadata> {
+  const user = await getUserProfile(params.username);
+
+  return {
+    title: `${user?.name || params.username} - Portfolio`,
+    description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
+    openGraph: {
+      title: `${user?.name || params.username} - Portfolio`,
+      description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
+      images: [
+        {
+          url: user?.avatar_url || "",
+          width: 400,
+          height: 400,
+          alt: user?.name || params.username,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${user?.name || params.username} - Portfolio`,
+      description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
+      images: [user?.avatar_url || ""],
+      creator: `@${params.username}`,
+    },
+  };
+}
 
 export default async function Page({
   params,

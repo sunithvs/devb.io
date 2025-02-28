@@ -2,6 +2,7 @@ import React from 'react';
 import { Document, Page, Text, View, StyleSheet, Link, Image, pdf } from '@react-pdf/renderer';
 import { useGetUserProfile, useGetUserProject, useGetUserLinkedInProfile } from '../hooks/user-hook';
 import type { LinkedInProfile } from '../types/types';
+import {Download} from "lucide-react";
 
 const styles = StyleSheet.create({
     page: {
@@ -264,9 +265,20 @@ const ResumeGenerator: React.FC<{ username: string }> = ({ username }) => {
     };
 
     return (
-        <button onClick={handleOpenInNewTab} style={{ cursor: 'pointer', padding: '10px', fontSize: '16px' }} className="mt-4 bg-[#B9FF66] border-2 border-black border-b-4 rounded-xl  py-2 px-4 rounded-lg">
-            Download Resume
-        </button>
+        // <button onClick={handleOpenInNewTab} style={{ cursor: 'pointer', padding: '10px', fontSize: '16px' }} className="mt-4 bg-[#B9FF66] border-2 border-black border-b-4 rounded-xl  py-2 px-4 rounded-lg">
+        //     Download Resume
+        // </button>
+        <button
+                   onClick={handleOpenInNewTab}
+                    className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300"
+                  >
+                    <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
+                      <Download size={24} strokeWidth={2} className="text-black" />
+                    </span>
+                    <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
+                      Download Resume
+                    </span>
+                  </button>
     );
 };
 

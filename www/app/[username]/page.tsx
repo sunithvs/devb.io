@@ -32,9 +32,9 @@ import {
   Link as LucideLink,
   Database,
   Hash,
-  User
+  User,
+  Download
 } from 'lucide-react';
-
 import ResumeGenerator from "@/components/ResumeGenerator";
 
 const iconComponents = {
@@ -57,12 +57,6 @@ const iconComponents = {
   'generic': LucideLink
 } as const;
 
-const getSocialIcon = (provider: string, url: string) => {
-  if (url.includes('devb.io')) {
-    return 'custom-devb';
-  }
-  return provider.toLowerCase();
-};
 
 const extractDomainName = (url: string) => {
   try {
@@ -89,17 +83,17 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           <Image
             src="/images/logo-full.png"
             alt="devb.io"
-            width={120}
-            height={40}
+            width={140}
+            height={50}
             className="h-10 w-auto"
           />
         </Link>
-
+      
         {isUserDataLoading || !user ? (
           <ProfileSkeleton />
         ) : (
-          <div className="rounded-[32px] border-[1px] border-black bg-white overflow-hidden">
-            <div className="h-36 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
+          <div className="rounded-xl border-[1px] border-black bg-white overflow-hidden">
+            <div className="h-28 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
               <div className="absolute left-8 bottom-0 translate-y-1/2">
                 <div className="bg-[#AFE555] rounded-[19px] w-32 h-32 flex items-center justify-center">
                   <Image
@@ -113,7 +107,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
               </div>
             </div>
             
-            <div className="px-8 pb-8 pt-20">
+            <div className="px-8 pb-4 pt-20">
               <div className="flex flex-col items-start text-left">
                 <h2 className="font-bold text-2xl mb-2 text-black">{user.name.toUpperCase()}</h2>
                 <p className="text-gray-700 text-md">{user.bio}</p>
@@ -169,6 +163,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                       </a>
                     );
                   })}
+                  <ResumeGenerator username={username} />
                 </div>
               </div>
 
@@ -188,24 +183,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
               </div>)}
 
-              <div className="grid grid-cols-3 gap-4 mb-8">
-                <div className="text-center bg-white rounded-[16px] p-4 border-[1px] border-black">
-                  <p className="font-bold text-3xl mb-1">{user.followers}</p>
-                  <p className="text-gray-600">Followers</p>
-                </div>
-                <div className="text-center bg-white rounded-[16px] p-4 border-[1px] border-black">
-                  <p className="font-bold text-3xl mb-1">{user.following}</p>
-                  <p className="text-gray-600">Following</p>
-                </div>
-                <div className="text-center bg-white rounded-[16px] p-4 border-[1px] border-black">
-                  <p className="font-bold text-3xl mb-1">{user.public_repos}</p>
-                  <p className="text-gray-600">Repos</p>
-                </div>
-              </div>
 
-              <div className="flex justify-center">
-                <ResumeGenerator username={user.username} />
-              </div>
             </div>
           </div>
         )}

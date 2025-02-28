@@ -163,7 +163,6 @@ class GitHubProjectRanker:
         # Fetch repositories and pinned repos
         repos = self.fetch_user_repos(username)
         pinned_repos = self.fetch_pinned_repos(username)
-        print(pinned_repos)
         top_languages = self.get_top_languages(repos)
 
         # Calculate scores

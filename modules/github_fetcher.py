@@ -188,11 +188,9 @@ class GitHubProfileFetcher:
                 },
                 json=graphql_query
             )
-            print(f"{graphql_response.json()=}")
             graphql_response.raise_for_status()
 
             graphql_data = graphql_response.json().get('data', {}).get('user', {})
-            print(f"{graphql_data=}")
             if not graphql_data:
                 raise ValueError(f"User '{username}' not found or query returned no data.")
             pr_merged_last_year = sum(

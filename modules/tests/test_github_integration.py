@@ -89,8 +89,7 @@ class TestGitHubIntegration:
         # 2. Get featured projects
         ranker = GitHubProjectRanker()
         featured = ranker.get_featured(username)
-        print(f"\nFeatured projects for {username}:", featured)
-        
+
         assert isinstance(featured, dict)
         assert 'top_projects' in featured
         assert 'top_languages' in featured
@@ -98,7 +97,6 @@ class TestGitHubIntegration:
         
         # 3. Get recent contributions
         contributions = GitHubContributionsFetcher.fetch_recent_contributions(username)
-        print(f"\nRecent contributions for {username}:", contributions)
         assert isinstance(contributions, dict)
         
         # Verify data consistency only if we have both contributions and projects

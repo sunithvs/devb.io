@@ -78,7 +78,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
-      <div className="w-full lg:w-[400px] space-y-2">
+      <div id="left-section" className="w-full lg:w-[400px] lg:sticky lg:top-8 lg:self-start space-y-2">
         <Link href="/" className="block">
           <Image
             src="/images/logo-full.png"

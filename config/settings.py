@@ -40,6 +40,7 @@ class Settings:
     REDIS_HOST = "redis://redis:6379/0"
     API_URL = "https://user.devb.io"
     DEFAULT_CACHE_TTL = 3600 * 24 * 7  # 1 week
+    CACHE_ENABLED = os.getenv("CACHE_ENABLED", "true").lower() == "true"
 
     _GITHUB_API_TOKENS = os.getenv("API_TOKEN_GITHUB", "").split(',')
     _GROQ_API_KEYS = os.getenv("GROQ_API_KEY", "").split(',')

@@ -25,7 +25,9 @@ app = FastAPI(
 )
 
 # Initialize Redis client
-redis_client = redis.Redis(host='redis', port=6379, db=0)
+if Settings.CACHE_ENABLED:
+    redis_client = redis.Redis(host='redis', port=6379, db=0)
+
 
 class APIKeyMiddleware(BaseHTTPMiddleware):
     """Middleware for API key authentication"""
@@ -52,17 +54,24 @@ class APIKeyMiddleware(BaseHTTPMiddleware):
 
 async def get_cached_github_profile(username: str) -> Dict[str, Any]:
     """Fetch and cache GitHub profile data"""
+
     cache_key = f"github_profile_basic:{username}"
-    cached_response = await redis_client.get(cache_key)
-    
-    if cached_response and not Settings.DEBUG:
-        return json.loads(cached_response)
+    if  Settings.CACHE_ENABLED:
+        cached_response = await redis_client.get(cache_key)
+        if cached_response:
+            return json.loads(cached_response)
 
     basic_profile = GitHubProfileFetcher.fetch_user_profile(username)
-    ai_generator = AIDescriptionGenerator()
-    about_data = ai_generator.generate_profile_summary(basic_profile)
-    basic_profile['about'] = about_data
-    await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=Settings.DEFAULT_CACHE_TTL)
+
+    try:
+        ai_generator = AIDescriptionGenerator()
+        about_data = ai_generator.generate_profile_summary(basic_profile)
+        basic_profile['about'] = about_data
+    except Exception as e:
+        print(f"Failed to generate AI description: {str(e)}")
+        basic_profile['about'] = None
+    if Settings.CACHE_ENABLED:
+        await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=Settings.DEFAULT_CACHE_TTL)
     return basic_profile
 
 # API Endpoints
@@ -81,13 +90,15 @@ async def fetch_projects_data(username: Annotated[str, Depends(verify_username)]
     try:
         username = username.strip().lower()
         cache_key = f"github_profile_projects:{username}"
-        cached_response = await redis_client.get(cache_key)
-        
-        if cached_response and not Settings.DEBUG:
-            return json.loads(cached_response)
+        if Settings.CACHE_ENABLED:
+            cached_response = await redis_client.get(cache_key)
+
+            if cached_response and not Settings.DEBUG:
+                return json.loads(cached_response)
 
         project_data = GitHubProjectRanker().get_featured(username)
-        await redis_client.setex(name=cache_key, value=json.dumps(project_data), time=Settings.DEFAULT_CACHE_TTL)
+        if Settings.CACHE_ENABLED:
+            await redis_client.setex(name=cache_key, value=json.dumps(project_data), time=Settings.DEFAULT_CACHE_TTL)
         return project_data
 
     except Exception as e:
@@ -99,16 +110,18 @@ async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
     try:
         username = username.strip().lower()
         cache_key = f"github_profile_about:{username}"
-        cached_response = await redis_client.get(cache_key)
-        
-        if cached_response and not Settings.DEBUG:
-            return json.loads(cached_response)
+        if Settings.CACHE_ENABLED:
+            cached_response = await redis_client.get(cache_key)
+
+            if cached_response and not Settings.DEBUG:
+                return json.loads(cached_response)
 
         user_data = await get_cached_github_profile(username)
         data = {
             "about": user_data['about']
         }
-        await redis_client.setex(name=cache_key, value=json.dumps(data), time=Settings.DEFAULT_CACHE_TTL)
+        if Settings.CACHE_ENABLED:
+            await redis_client.setex(name=cache_key, value=json.dumps(data), time=Settings.DEFAULT_CACHE_TTL)
         return data
 
     except Exception as e:
@@ -119,18 +132,19 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
     """Fetch LinkedIn profile data"""
     try:
         cache_key = f"linkedin_profile:{username}"
-        cached_response = await redis_client.get(cache_key)
+        if Settings.CACHE_ENABLED:
+            cached_response = await redis_client.get(cache_key)
         
-        if cached_response and not Settings.DEBUG:
-            return json.loads(cached_response)
+            if cached_response and not Settings.DEBUG:
+                return json.loads(cached_response)
 
         fetcher = LinkedInProfileFetcher()
         profile_data = await fetcher.fetch_profile_async(username)
         
         if "error" in profile_data:
             raise HTTPException(status_code=400, detail=profile_data["error"])
-            
-        await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=Settings.DEFAULT_CACHE_TTL)
+        if Settings.CACHE_ENABLED:
+            await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=Settings.DEFAULT_CACHE_TTL)
         return profile_data
 
     except ValueError as e:

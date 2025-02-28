@@ -119,10 +119,10 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 <p className="text-gray-700 text-md">{user.bio}</p>
               </div>
 
-              <div className="mt-8">
+              <div className="mt-4">
                 <div className="flex items-center gap-2 mb-4">
                   <User className="w-5 h-5" />
-                  <h2 className="text-xl font-bold">Connect with me</h2>
+                  <h2 className="font-bold">Connect with me</h2>
                 </div>
                 <div className="flex flex-wrap gap-3">
                   <a
@@ -172,13 +172,21 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
               </div>
 
-              <div className="bg-white rounded-[16px] p-4 border-[1px] border-black mb-8">
-                <img
-                  className="w-full"
-                  src={`https://ghchart.rshah.org/2da44e/${user.username}`}
-                  alt={`${user.name}'s GitHub contributions`}
-                />
-              </div>
+              {user.achievements?.total_contributions && ( <div className="mt-4">
+                <h2 className="font-bold mb-4">{user.achievements?.total_contributions } Contributions</h2>
+                <div className=" overflow-hidden">
+                  <div className="relative w-full" style={{ height: '100px' }}>
+                    <img
+                      className="absolute top-[30%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
+                      src={`https://ghchart.rshah.org/5F8417/${user.username}`}
+                      alt={`${user.name}'s GitHub contributions`}
+                      style={{
+                        maxWidth: 'none'
+                      }}
+                    />
+                  </div>
+                </div>
+              </div>)}
 
               <div className="grid grid-cols-3 gap-4 mb-8">
                 <div className="text-center bg-white rounded-[16px] p-4 border-[1px] border-black">
@@ -259,20 +267,6 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
             </div>
           </div>
         )}
-
-        <div>
-          <h2 className="text-2xl font-bold mb-8">
-            Github Activity <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
-          <h3 className="text-xl font-bold mb-2 mx-3 text-left ">
-            {user?.achievements.total_contributions} Contributions
-          </h3>
-          <img
-            className="w-full rounded-xl p-2 md:p-6 border-[1px] border-b-[6px] border-black"
-            src={`https://ghchart.rshah.org/191A23/${username}`}
-            alt="{{ profile.name }}'s github Chart"
-          />
-        </div>
 
         <div>
 

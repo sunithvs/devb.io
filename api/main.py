@@ -62,7 +62,7 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
     ai_generator = AIDescriptionGenerator()
     about_data = ai_generator.generate_profile_summary(basic_profile)
     basic_profile['about'] = about_data
-    await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=3600)
+    await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=Settings.DEFAULT_CACHE_TTL)
     return basic_profile
 
 # API Endpoints
@@ -87,7 +87,7 @@ async def fetch_projects_data(username: Annotated[str, Depends(verify_username)]
             return json.loads(cached_response)
 
         project_data = GitHubProjectRanker().get_featured(username)
-        await redis_client.setex(name=cache_key, value=json.dumps(project_data), time=3600)
+        await redis_client.setex(name=cache_key, value=json.dumps(project_data), time=Settings.DEFAULT_CACHE_TTL)
         return project_data
 
     except Exception as e:
@@ -108,7 +108,7 @@ async def fetch_about_data(username: Annotated[str, Depends(verify_username)]):
         data = {
             "about": user_data['about']
         }
-        await redis_client.setex(name=cache_key, value=json.dumps(data), time=3600)
+        await redis_client.setex(name=cache_key, value=json.dumps(data), time=Settings.DEFAULT_CACHE_TTL)
         return data
 
     except Exception as e:
@@ -130,7 +130,7 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
         if "error" in profile_data:
             raise HTTPException(status_code=400, detail=profile_data["error"])
             
-        await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=3600)
+        await redis_client.setex(name=cache_key, value=json.dumps(profile_data), time=Settings.DEFAULT_CACHE_TTL)
         return profile_data
 
     except ValueError as e:

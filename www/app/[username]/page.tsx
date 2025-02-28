@@ -1,62 +1,28 @@
-"use client";
-import React, { use } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {
-  useGetUserLinkedInProfile,
-  useGetUserProfile,
-  useGetUserProject,
-} from "@/hooks/user-hook";
+  ArrowDown,
+  User,
+  Github,
+  Linkedin,
+  Twitter,
+  Globe,
+  Download
+} from 'lucide-react';
+import ResumeDownloadButton from "@/components/ResumeDownloadButton";
 import ProjectCard from "@/components/project-card";
 import Timeline, { transformLinkedInData } from "@/components/timeline";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
-import { ArrowDown } from "lucide-react";
-import {
-  Github,
-  Linkedin,
-  Twitter,
-  Instagram,
-  Facebook,
-  Youtube,
-  BookOpen,
-  Code,
-  Layers,
-  Globe,
-  Share2,
-  AtSign,
-  Video,
-  Image as ImageIcon,
-  Link as LucideLink,
-  Database,
-  Hash,
-  User,
-  Download
-} from 'lucide-react';
-import ResumeGenerator from "@/components/ResumeGenerator";
+import { getUserProfile, getUserProjects, getUserLinkedInProfile } from "@/lib/api";
 
 const iconComponents = {
   'linkedin': Linkedin,
-  'github': Github,
   'twitter': Twitter,
-  'instagram': Instagram,
-  'facebook': Facebook,
-  'youtube': Youtube,
-  'medium': BookOpen,
-  'dev.to': Code,
-  'stackoverflow': Layers,
-  'hashnode': Hash,
-  'personal_website': Globe,
-  'mastodon': Share2,
-  'threads': AtSign,
-  'tiktok': Video,
-  'pinterest': ImageIcon,
-  'kaggle': Database,
-  'generic': LucideLink
-} as const;
-
+  'generic': Globe,
+};
 
 const extractDomainName = (url: string) => {
   try {
@@ -67,14 +33,12 @@ const extractDomainName = (url: string) => {
   }
 };
 
-const Page = ({ params }: { params: Promise<{ username: string }> }) => {
-  const { username } = use(params);
-  const { data: user, isLoading: isUserDataLoading } =
-    useGetUserProfile(username);
-  const { data: userProjects, isLoading: isUserProjectsLoading } =
-    useGetUserProject(username);
-  const { data: linkedInData, isLoading: isUserLinkedInDataLoading } =
-    useGetUserLinkedInProfile(username);
+export default async function Page({ params }: { params: { username: string } }) {
+  const [user, userProjects, linkedInData] = await Promise.all([
+    getUserProfile(params.username),
+    getUserProjects(params.username),
+    getUserLinkedInProfile(params.username)
+  ]);
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
@@ -89,7 +53,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           />
         </Link>
       
-        {isUserDataLoading || !user ? (
+        {!user ? (
           <ProfileSkeleton />
         ) : (
           <div className="rounded-xl border-[1px] border-black bg-white overflow-hidden">
@@ -120,7 +84,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                 </div>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href={`https://github.com/${username}`}
+                    href={`https://github.com/${params.username}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300"
@@ -163,7 +127,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                       </a>
                     );
                   })}
-                  <ResumeGenerator username={username} />
+                  <ResumeDownloadButton username={params.username} />
                 </div>
               </div>
 
@@ -182,8 +146,6 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
                   </div>
                 </div>
               </div>)}
-
-
             </div>
           </div>
         )}
@@ -194,13 +156,12 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           Get to know me <ArrowDown strokeWidth={2} className="inline" />
         </h2>
 
-        {isUserDataLoading || !user ? (
+        {!user ? (
           <AboutSkeleton />
         ) : (
           <div>
             <div className="flex flex-col lg:flex-row gap-4">
               <div className={"flex flex-col gap-4 flex-1"}>
-              
                 <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4">
                   <h2 className="text-xl font-bold mb-4">💻 Languages</h2>
                   <div className="flex flex-wrap gap-3">
@@ -247,42 +208,39 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
         )}
 
         <div>
-
-          {isUserLinkedInDataLoading || !linkedInData ? (
+          {!linkedInData ? (
             <TimelineSkeleton />
           ) : (
             linkedInData &&
             linkedInData.experience.length > 0 && (
-             <>
-                 <h2 className="text-2xl font-bold mb-8">
-            Experience <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
-               <Timeline
-                items={transformLinkedInData(linkedInData.experience)}
-                backgroundColor="bg-[#B9FF66]"
-              />
-             </>
+              <>
+                <h2 className="text-2xl font-bold mb-8">
+                  Experience <ArrowDown strokeWidth={2} className="inline" />
+                </h2>
+                <Timeline
+                  items={transformLinkedInData(linkedInData.experience)}
+                  backgroundColor="bg-[#B9FF66]"
+                />
+              </>
             )
           )}
         </div>
 
         <div>
-
-          {isUserLinkedInDataLoading || !linkedInData ? (
+          {!linkedInData ? (
             <TimelineSkeleton />
           ) : (
             linkedInData &&
             linkedInData.education.length > 0 && (
-                <>
-                 <h2 className="text-2xl font-bold mb-8">
-            Education <ArrowDown strokeWidth={2} className="inline" />
-          </h2>
+              <>
+                <h2 className="text-2xl font-bold mb-8">
+                  Education <ArrowDown strokeWidth={2} className="inline" />
+                </h2>
                 <Timeline
-                items={transformLinkedInData(linkedInData.education)}
-                backgroundColor="bg-white"
-              />
-                </>
-
+                  items={transformLinkedInData(linkedInData.education)}
+                  backgroundColor="bg-white"
+                />
+              </>
             )
           )}
         </div>
@@ -291,7 +249,7 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
           <h2 className="text-2xl font-bold mb-8">
             Projects <ArrowDown strokeWidth={2} className="inline" />
           </h2>
-          {isUserProjectsLoading ? (
+          {!userProjects ? (
             <ProjectListSkeleton />
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -304,6 +262,4 @@ const Page = ({ params }: { params: Promise<{ username: string }> }) => {
       </div>
     </div>
   );
-};
-
-export default Page;
+}

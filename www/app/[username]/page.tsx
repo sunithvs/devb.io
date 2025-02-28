@@ -267,7 +267,7 @@ export default async function Page({
                 </AnimatedTitle>
                 <div className="flex flex-wrap gap-3">
                   {userProjects?.top_languages?.map((language, index) => (
-                    <AnimatedText key={index}>
+                    <AnimatedText key={index} className={"mb-2"}>
                       <Badge label={language[0]} />
                     </AnimatedText>
                   ))}
@@ -359,7 +359,7 @@ export default async function Page({
           {!userProjects ? (
             <ProjectListSkeleton />
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 ">
               {userProjects?.top_projects?.map((project, index) => (
                 <AnimatedListItem key={project.name} index={index}>
                   <ProjectCard {...project} />

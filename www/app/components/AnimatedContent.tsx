@@ -98,7 +98,6 @@ export function AnimatedListItem({ children, className, index = 0 }: AnimatedPro
         type: "spring",
         damping: 20,
         stiffness: 100,
-        // delay: index * 0.1 // Stagger based on index
       }}
       whileHover={{ scale: 1.02 }}
       whileTap={{ scale: 0.98 }}

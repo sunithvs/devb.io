@@ -24,6 +24,7 @@ const Timeline: React.FC<TimelineProps> = ({
   items,
   backgroundColor = "bg-[#B9FF66]",
 }) => {
+  console.log(items);
   return (
     <div className="relative">
       {/* Continuous timeline line */}

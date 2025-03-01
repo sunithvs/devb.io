@@ -25,7 +25,6 @@ export function TimelineSkeleton() {
                     <Skeleton className="h-4 w-32 mb-1" />
                     <Skeleton className="h-4 w-24" />
                   </div>
-                  <Skeleton className="h-4 w-28" />
                 </div>
               </div>
             </div>

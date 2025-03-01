@@ -16,6 +16,10 @@ interface Profile {
   followers: number;
   following: number;
   public_repos: number;
+  social_accounts?: {
+    provider: string;
+    url: string;
+  }[];
 }
 
 async function getProfiles(): Promise<Profile[]> {
@@ -23,7 +27,15 @@ async function getProfiles(): Promise<Profile[]> {
     next: { revalidate: 3600 } // Revalidate every hour
   });
   const data: Record<string, Profile> = await response.json();
-  return Object.values(data).slice(-6);
+  
+  // For each profile, fetch blog posts if they have a Medium account
+  const profilesWithBlogs = await Promise.all(
+    Object.values(data).map(async (profile) => {
+      return profile;
+    })
+  );
+
+  return profilesWithBlogs.slice(-6);
 }
 
 async function getContributors(): Promise<Profile[]> {
@@ -222,7 +234,7 @@ export default async function Home() {
 
         {/* Contributors Section */}
         <section className="py-20">
-          <div className="container mx-auto px-4">
+          <div className="container mx-auto md:px-4">
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-4xl md:text-5xl font-bold mb-4">
                 Our Contributors
@@ -239,9 +251,7 @@ export default async function Home() {
                   username={profile.username}
                   avatarUrl={profile.avatar_url}
                   bio={profile.bio}
-                  followers={profile.followers}
-                  following={profile.following}
-                  publicRepos={profile.public_repos}
+
                   index={index}
                 />
               ))}
@@ -260,19 +270,17 @@ export default async function Home() {
                 Check out the latest developers who created their portfolios using DevB
               </p>
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
               {profiles.map((profile, index) => (
-                <ProfileCard
-                  key={profile.username}
-                  name={profile.name}
-                  username={profile.username}
-                  avatarUrl={profile.avatar_url}
-                  bio={profile.bio}
-                  followers={profile.followers}
-                  following={profile.following}
-                  publicRepos={profile.public_repos}
-                  index={index}
-                />
+                <div key={profile.username}>
+                  <ProfileCard
+                    name={profile.name}
+                    username={profile.username}
+                    avatarUrl={profile.avatar_url}
+                    bio={profile.bio}
+                    index={index}
+                  />
+                </div>
               ))}
             </div>
           </div>

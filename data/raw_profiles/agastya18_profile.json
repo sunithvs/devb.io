@@ -1,0 +1,155 @@
+{
+    "username": "agastya18",
+    "name": "Agastya Gaur",
+    "bio": "developer",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/71458414?u=abcff7e162752ec27d06e0b864f8e4dc97d681f2&v=4",
+    "profile_url": "https://github.com/Agastya18",
+    "top_languages": [
+        [
+            "Rust",
+            4
+        ],
+        [
+            "TypeScript",
+            19
+        ],
+        [
+            "JavaScript",
+            26
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "agastya-folio",
+            "description": null,
+            "score": 10.232089302702123,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Agastya18/agastya-folio",
+            "updatedAt": "2025-02-24T16:12:56Z",
+            "isPinned": true,
+            "homepage": "https://agastyagaur.tech"
+        },
+        {
+            "name": "gambling-stake",
+            "description": "gambling website like stake in mern satck",
+            "score": 5.940600600760764,
+            "stars": 5,
+            "forks": 3,
+            "language": "JavaScript",
+            "url": "https://github.com/Agastya18/gambling-stake",
+            "updatedAt": "2025-02-19T16:15:55Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "godo",
+            "description": " ai cli for linux related operations.",
+            "score": 1.7456285347404186,
+            "stars": 1,
+            "forks": 0,
+            "language": "Go",
+            "url": "https://github.com/Agastya18/godo",
+            "updatedAt": "2025-01-05T18:12:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Ecommerce-2024",
+            "description": "Full stack  Ecommerce  app  in mern stack.",
+            "score": 1.2047611517203036,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Agastya18/Ecommerce-2024",
+            "updatedAt": "2023-12-31T08:53:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "pied-piper",
+            "description": "compression algo",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Agastya18/pied-piper",
+            "updatedAt": "2025-02-11T18:07:27Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rask",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Agastya18/rask",
+            "updatedAt": "2025-02-06T16:33:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "rust-db",
+            "description": null,
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/Agastya18/rust-db",
+            "updatedAt": "2025-02-06T15:52:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "meet-bot",
+            "description": "google meet bot with screen recording feature",
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Agastya18/meet-bot",
+            "updatedAt": "2025-01-29T05:12:56Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 10,
+    "following": 38,
+    "public_repos": 89,
+    "pull_requests_merged": 21,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 477,
+        "repositories_contributed_to": 13
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://x.com/GaurAgastya"
+        }
+    ],
+    "readme_content": " <div align=\"center\">I'm agastya,  Fullstack dev || web3 & A.I engineer \ud83d\ude80</div>  \n  \n\n- \ud83d\udd2d I\u2019m currently working on [tasvirai.online](https://www.tasvirai.online)  \n  \n\n- \u26a1How to reach me: agastyagaur17@gmail.com  \n  \n\n<br/>  \n\n\n## My Skill Set  \n<table><tr><td valign=\"top\" width=\"33%\">\n\n\n\n### Frontend  \n<div align=\"center\">  \n<a href=\"https://reactjs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg\" alt=\"React\" height=\"25\" /></a>  \n<a href=\"https://www.w3schools.com/css/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg\" alt=\"CSS3\" height=\"25\" /></a>  \n<a href=\"https://en.wikipedia.org/wiki/HTML5\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg\" alt=\"HTML5\" height=\"25\" /></a>  \n<a href=\"https://www.javascript.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/javascript-original.svg\" alt=\"JavaScript\" height=\"25\" /></a>  \n<a href=\"https://redux.js.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/redux-original.svg\" alt=\"Redux\" height=\"25\" /></a>  \n<a href=\"https://graphql.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/graphql.png\" alt=\"GraphQL\" height=\"25\" /></a>  \n<a href=\"https://www.prisma.io/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/prisma.png\" alt=\"Prisma\" height=\"25\" /></a>  \n<a href=\"https://nextjs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/nextjs.png\" alt=\"NextJS\" height=\"25\" /></a>  \n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/typescript-original.svg\" alt=\"TypeScript\" height=\"25\" /></a>  \n<a href=\"https://www.tailwindcss.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/tailwindcss.svg\" alt=\"Tailwind CSS\" height=\"25\" /></a>  \n<a href=\"https://sass-lang.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/sass-original.svg\" alt=\"Sass\" height=\"25\" /></a>  \n<a href=\"https://www.chartjs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/logo-title.svg\" alt=\"Chart.js\" height=\"25\" /></a>  \n</div>\n\n</td><td valign=\"top\" width=\"33%\">\n\n\n\n### Backend  \n<div align=\"center\">  \n<a href=\"https://docs.microsoft.com/en-us/dotnet/csharp/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/csharp-original.svg\" alt=\"C#\" height=\"25\" /></a>  \n<a href=\"https://www.cprogramming.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/c-original.svg\" alt=\"C\" height=\"25\" /></a>  \n<a href=\"https://go.dev/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/go-original.svg\" alt=\"Go\" height=\"25\" /></a>  \n<a href=\"https://redis.io/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg\" alt=\"Redis\" height=\"25\" /></a>  \n<a href=\"https://grafana.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/grafana.png\" alt=\"Grafana\" height=\"25\" /></a>  \n<a href=\"https://www.prisma.io/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/prisma.png\" alt=\"Prisma\" height=\"25\" /></a>  \n<a href=\"https://nodejs.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg\" alt=\"Node.js\" height=\"25\" /></a>  \n<a href=\"https://www.java.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg\" alt=\"Java\" height=\"25\" /></a>  \n<a href=\"https://www.cplusplus.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg\" alt=\"C++\" height=\"25\" /></a>  \n<a href=\"https://www.djangoproject.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/django-original.svg\" alt=\"Django\" height=\"25\" /></a>  \n<a href=\"https://www.javascript.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/javascript-original.svg\" alt=\"JavaScript\" height=\"25\" /></a>  \n<a href=\"https://www.postgresql.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg\" alt=\"PostgreSQL\" height=\"25\" /></a>  \n<a href=\"https://www.python.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/python-original.svg\" alt=\"Python\" height=\"25\" /></a>  \n<a href=\"https://expressjs.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg\" alt=\"Express.js\" height=\"25\" /></a>  \n</div>\n\n</td><td valign=\"top\" width=\"33%\">\n\n\n\n### Devops  \n<div align=\"center\">  \n<a href=\"https://aws.amazon.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg\" alt=\"AWS\" height=\"25\" /></a>  \n<a href=\"https://www.docker.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg\" alt=\"Docker\" height=\"25\" /></a>  \n<a href=\"https://www.linux.org/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/linux-original.svg\" alt=\"Linux\" height=\"25\" /></a>  \n<a href=\"https://www.gnu.org/software/bash/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg\" alt=\"Bash\" height=\"25\" /></a>  \n<a href=\"https://kubernetes.io/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg\" alt=\"Kubernetes\" height=\"25\" /></a>  \n<a href=\"https://www.nginx.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/nginx-original.svg\" alt=\"Nginx\" height=\"25\" /></a>  \n<a href=\"https://www.jenkins.io/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg\" alt=\"Jenkins\" height=\"25\" /></a>  \n<a href=\"https://github.com/\" target=\"_blank\"><img style=\"margin: 10px\" src=\"https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg\" alt=\"Git\" height=\"25\" /></a>  \n</div>\n\n</td></tr></table>  \n\n<br/>  \n\n\n## Connect with me  \n<a href=\"https://github.com/agastya18\" target=\"_blank\">\n<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=\"margin-bottom: 5px;\" />\n</a>\n<a href=\"https://twitter.com/@gauragastya\" target=\"_blank\">\n<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=\"margin-bottom: 5px;\" />\n</a>\n<a href=\"https://dev.to/agastyagaur\" target=\"_blank\">\n<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style=\"margin-bottom: 5px;\" />\n</a>\n<a href=\"https://linkedin.com/in/agastyagaur\" target=\"_blank\">\n<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=\"margin-bottom: 5px;\" />\n</a>\n<a href=\"https://medium.com/agastyagaur\" target=\"_blank\">\n<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style=\"margin-bottom: 5px;\" />\n</a>  \n  \n\n<br/>  \n\n\n## Github Stats  \n<div align=\"center\"><img src=\"https://github-readme-stats.vercel.app/api?username=agastya18&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark\" /></div>  \n\n<br/>  \n\n\n\n  \n\n<br/>  \n\n\n\n<br/>  \n\n<div align=\"center\">\n<img src=\"https://komarev.com/ghpvc/?username=agastya18&&style=flat-square\" align=\"center\" />\n</div>  \n  \n\n<br/>  \n\n<div align=\"center\">\n            <a href=\"https://www.buymeacoffee.com/agastyagaur\" target=\"_blank\" style=\"display: inline-block;\">\n                <img\n                    src=\"https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee\" \n                    align=\"center\"\n                />\n            </a></div>\n<br />\n\n----\n<div align=\"center\">Generated using <a href=\"https://profilinator.rishav.dev/\" target=\"_blank\">Github Profilinator</a></div>\n",
+    "activity_summary": {
+        "treetracker-wallet-app-me": {
+            "link": "https://github.com/Agastya18/treetracker-wallet-app-me",
+            "summary": "Recent activities in the repository include enhancements, bug fixes, and code reorganization. Key updates include the addition of login screen textinput button titles, reusability of code, and improved accessibility of social buttons."
+        },
+        "open-cuak-me": {
+            "link": "https://github.com/Agastya18/open-cuak-me",
+            "summary": "Recent activities in the repository have been focused on code optimization, dependency management, and improved authentication. Key updates include Dockerfile optimizations, multi-stage builds, language chain dependency removal, and efficient disk space cleanup."
+        },
+        "Greenstand/treetracker-wallet-app": {
+            "link": "https://github.com/Greenstand/treetracker-wallet-app",
+            "summary": "A pull request was submitted for enhancing the login screen with social login options. The feature includes improvements to the user interface, component optimization, and added functionality for user authentication."
+        },
+        "agastya-folio": {
+            "link": "https://github.com/Agastya18/agastya-folio",
+            "summary": "A push event updated the repository with minimal changes."
+        }
+    },
+    "profile_summary": "Experienced Fullstack Developer with expertise in Backend engineering leveraging technologies like Rust and TypeScript for high-performance applications. Proficient in web3 and A.I, with a strong foundation in Frontend development using JavaScript and React. Strong understanding of DevOps concepts including Docker, Kubernetes, and continuous integration pipelines. With 89 public repositories and a network of 10 followers, I aim to collaborate on impactful projects and share knowledge through engaging content. I'm currently working on tasvirai.online and can be reached at agastyagaur17@gmail.com for any opportunities or discussions."
+}

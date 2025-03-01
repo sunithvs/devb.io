@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4  # Updated to v4 for latest features
+      with:
+        fetch-depth: 0  # Fetch all history for all branches
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -20,7 +22,7 @@ jobs:
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt
-        git checkout -B data
+        git checkout -b data --track origin/data || git checkout data
         python manage.py fetch
         python manage.py build
       env:

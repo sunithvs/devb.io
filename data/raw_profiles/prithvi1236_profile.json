@@ -1,0 +1,115 @@
+{
+    "username": "prithvi1236",
+    "name": "Prithvi Bhargav",
+    "bio": "\ud83d\udc4b Hi, I'm Prithvi!\r\nAspiring Data Analyst & Software Developer | Passionate about Data Visualization and Backend Engineering.\r\nExploring AI-driven analytics",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/145143234?v=4",
+    "profile_url": "https://github.com/prithvi1236",
+    "top_languages": [
+        [
+            "TypeScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "fosshack25",
+            "description": null,
+            "score": 1.8105682843945439,
+            "stars": 0,
+            "forks": 1,
+            "language": "TypeScript",
+            "url": "https://github.com/prithvi1236/fosshack25",
+            "updatedAt": "2025-02-26T06:08:54Z",
+            "isPinned": false,
+            "homepage": "https://fosshack25.vercel.app"
+        },
+        {
+            "name": "nasaapps",
+            "description": "Climate Story",
+            "score": 1.6872811993398409,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/prithvi1236/nasaapps",
+            "updatedAt": "2024-10-13T06:19:19Z",
+            "isPinned": false,
+            "homepage": "https://nasaapps.vercel.app"
+        },
+        {
+            "name": "IdeaLab",
+            "description": "Landing page for selection procss",
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/prithvi1236/IdeaLab",
+            "updatedAt": "2025-02-17T02:44:01Z",
+            "isPinned": false,
+            "homepage": "https://idea-lab-lac.vercel.app"
+        },
+        {
+            "name": "websight",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.1604505961934153,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/prithvi1236/websight",
+            "updatedAt": "2023-11-05T16:59:08Z",
+            "isPinned": false,
+            "homepage": "https://github.com/prithvi1236"
+        },
+        {
+            "name": "Portfolio",
+            "description": null,
+            "score": 0.1592256325304431,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/prithvi1236/Portfolio",
+            "updatedAt": "2023-10-06T13:53:04Z",
+            "isPinned": false,
+            "homepage": "https://prithvi.vercel.app"
+        }
+    ],
+    "followers": 5,
+    "following": 10,
+    "public_repos": 9,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 130,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/prithvi-bhargav-47742a291"
+        }
+    ],
+    "readme_content": "# React + Vite\n\nThis template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.\n\nCurrently, two official plugins are available:\n\n- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh\n- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh\n",
+    "activity_summary": {
+        "prithvi1236/fosshack25": {
+            "link": "https://github.com/prithvi1236/fosshack25",
+            "summary": "Recent activities on fosshack25 repository include significant updates to the Readme, correction of issues, and improvements to the frontend and backend code. Logo upload, frontend-backend merge, and pdf generation were also performed."
+        },
+        "prithvi1236/v2n": {
+            "link": "https://github.com/prithvi1236/v2n",
+            "summary": "Development on v2n has focused on title improvements for each topic, summarised pdf generation, and initial merge. Additionally, a backend 1.0 version was achieved."
+        },
+        "prithvi1236/IdeaLab": {
+            "link": "https://github.com/prithvi1236/IdeaLab",
+            "summary": "The IdeaLab repository has seen activity in the form of form addition and 2s loading updates. While no further details are available, these activities suggest progress towards an interactive user interface."
+        }
+    },
+    "profile_summary": "As a highly skilled and versatile software developer, I leverage my expertise in TypeScript, Python, and JavaScript to drive innovation in Data Visualization and Backend Engineering. With a keen passion for exploring AI-driven analytics, I deliver actionable insights through robust software solutions. Currently, I focus on dynamic web development using React and Vite, pushing the boundaries of high-performance applications with fast refresh capabilities, as exemplified through my minimal setup React + Vite template."
+}

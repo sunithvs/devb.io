@@ -1,0 +1,151 @@
+{
+    "username": "abhinav-k-e",
+    "name": "Abhinav K E",
+    "bio": "I am a frontend developer with 3+ years of experience in building and delivering high-quality web applications. I am proficient in HTML, CSS, JavaScript, React,",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/109943270?u=689b6cd0b969a417841e5da9e50d4f7a9f13f8d9&v=4",
+    "profile_url": "https://github.com/Abhinav-K-E",
+    "top_languages": [
+        [
+            "JavaScript",
+            20
+        ],
+        [
+            "C++",
+            3
+        ],
+        [
+            "HTML",
+            14
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Taskhive",
+            "description": "Todo list using React",
+            "score": 12.349378717622175,
+            "stars": 2,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/Taskhive",
+            "updatedAt": "2023-05-04T14:26:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "video-streamer",
+            "description": null,
+            "score": 11.539933241061062,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/video-streamer",
+            "updatedAt": "2023-05-04T14:25:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "movietrack",
+            "description": "A movie searching website using react.js",
+            "score": 11.539688655777088,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/movietrack",
+            "updatedAt": "2023-05-04T14:25:57Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Article-summarizer",
+            "description": null,
+            "score": 11.539619379782698,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/Article-summarizer",
+            "updatedAt": "2023-05-04T14:25:58Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Abhinav-K-E",
+            "description": "Config files for my GitHub profile.",
+            "score": 3.4407557048078745,
+            "stars": 4,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Abhinav-K-E/Abhinav-K-E",
+            "updatedAt": "2024-06-19T17:41:54Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Abhinav-K-E"
+        },
+        {
+            "name": "simple-calculator-using-js",
+            "description": null,
+            "score": 3.3669998020593614,
+            "stars": 4,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Abhinav-K-E/simple-calculator-using-js",
+            "updatedAt": "2023-04-04T16:24:10Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "weather-app",
+            "description": null,
+            "score": 2.9240756393770613,
+            "stars": 3,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Abhinav-K-E/weather-app",
+            "updatedAt": "2023-06-14T09:54:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "todo_app-using-js",
+            "description": null,
+            "score": 2.9240444872108116,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Abhinav-K-E/todo_app-using-js",
+            "updatedAt": "2023-04-04T16:24:00Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 30,
+    "following": 37,
+    "public_repos": 59,
+    "pull_requests_merged": 6,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1251,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/abhinav.k.e/"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/abhinavke/"
+        }
+    ],
+    "readme_content": "<h2 align=\"left\">Hey there \ud83d\udc4b ,<br>I'm Abhinav K E<br>Frontend developer & UI/UX Designer based on India.</h2>\n\n###\n\n###\n\n<img align=\"right\" height=\"150\" src=\"https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif\"  />\n\n###\n\n<div align=\"left\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"30\" alt=\"javascript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg\" height=\"30\" alt=\"typescript logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg\" height=\"30\" alt=\"react logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg\" height=\"30\" alt=\"html5 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg\" height=\"30\" alt=\"css3 logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"30\" alt=\"python logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg\" height=\"30\" alt=\"figma logo\"  />\n  <img width=\"12\" />\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg\" height=\"30\" alt=\"cplusplus logo\"  />\n</div>\n\n###\n\n<div align=\"left\">\n  <a href=\"https://www.instagram.com/abhinav.k.e/\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"instagram logo\"  />\n  </a>\n  <a href=\"www.linkedin.com/in/abhinavke\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"linkedin logo\"  />\n  </a>\n  <a href=\"abhinavke091@gmail.com\" target=\"_blank\">\n    <img src=\"https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge\" height=\"35\" alt=\"gmail logo\"  />\n  </a>\n</div>\n\n###\n\n###\n",
+    "activity_summary": {
+        "scrapy-on-vercel": {
+            "link": "https://github.com/Abhinav-K-E/scrapy",
+            "summary": "Significant activities on scrapy repository include multiple push events on 16th and 18th of February 2025, with updates on vercel config, admin database, chat fix, and other minor fixes. Additionally, recent push events were made on 18th of February 2025, updating the backend, making port changes, fixing images, search functionality, and bugs. This suggests developers are actively working on back-end updates, UI fixes, and minor bug resolutions."
+        },
+        "Final-Year-Project": {
+            "link": "https://github.com/iDhanush/FinalYearProject",
+            "summary": "On 19th of February 2025, multiple push events were made to the Final Year Project repository. Developments include adding a feedback button and related UI, adding a signup feature, and updating the login UI. These recent updates suggest that the developers are working on enhancing user interaction with the application, possibly implementing a feedback mechanism and improving the user registration process."
+        }
+    },
+    "profile_summary": "As a seasoned frontend developer with 3+ years of experience, I leverage my expertise in JavaScript, HTML, and React to deliver high-quality web applications that drive business results. A polymath in technologies, I am well-versed in a range of programming languages including C++ and proficient in UI/UX design using tools like Figma. When I'm not coding, you can find me engaging with like-minded developers and designers on social media platforms like Instagram and LinkedIn."
+}

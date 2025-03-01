@@ -1,0 +1,150 @@
+{
+    "username": "amalshaheen",
+    "name": "Amal Shaheen",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/149858542?v=4",
+    "profile_url": "https://github.com/Amalshaheen",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "thought_trail",
+            "description": null,
+            "score": 11.74178606887526,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Amalshaheen/thought_trail",
+            "updatedAt": "2025-03-01T08:08:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "katha_loop",
+            "description": null,
+            "score": 11.353585855548872,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/Amalshaheen/katha_loop",
+            "updatedAt": "2024-11-04T04:59:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "book_api_learn",
+            "description": null,
+            "score": 10.367869092714745,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Amalshaheen/book_api_learn",
+            "updatedAt": "2025-01-02T14:26:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "netflix_clone",
+            "description": null,
+            "score": 10.272262528678107,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/Amalshaheen/netflix_clone",
+            "updatedAt": "2025-01-27T12:29:10Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Amalshaheen.github.io",
+            "description": null,
+            "score": 10.16902735731769,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Amalshaheen/Amalshaheen.github.io",
+            "updatedAt": "2024-02-24T16:23:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "skills-communicate-using-markdown",
+            "description": "My clone repository",
+            "score": 0.49268810812957664,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Amalshaheen/skills-communicate-using-markdown",
+            "updatedAt": "2025-02-09T03:12:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Amalshaheen",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.3710069204250771,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Amalshaheen/Amalshaheen",
+            "updatedAt": "2025-01-04T01:26:05Z",
+            "isPinned": false,
+            "homepage": "https://github.com/Amalshaheen"
+        },
+        {
+            "name": "scl-assignment",
+            "description": null,
+            "score": 0.3678690927147456,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Amalshaheen/scl-assignment",
+            "updatedAt": "2025-01-02T14:56:33Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 14,
+    "public_repos": 14,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 225,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @Amalshaheen\n- \ud83d\udc40 I\u2019m interested in Software Development, Machine Learning\n- \ud83c\udf31 I\u2019m currently learning NodeJS and Flutter\n- \ud83d\udc9e\ufe0f I\u2019m looking to collaborate on Projects involving NodeJS, Flutter, Python and anything related to development\n- \ud83d\udceb How to reach me : \n- \ud83d\ude04 Pronouns: He/Him\n- \u26a1 Fun fact: im currently an undergrad student in ECE!\n\n\n",
+    "activity_summary": {
+        "thunk-0a2p6-thought-trail": {
+            "link": "https://github.com/Amalshaheen/thought_trail",
+            "summary": "Significant activities in this repository include implementing VoicePlayerBloc for voice playback control, enhancing VoiceRecorderBloc for recording functionality, and refactoring MemoryVoice class for improved audio handling."
+        },
+        "skills-communicate-using-markdown": {
+            "link": "https://github.com/Amalshaheen/skills-communicate-using-markdown",
+            "summary": "This repository has seen recent activities focused on learning Markdown, including creating an index.md file, adding code examples, and implementing task lists for Flutter development tasks."
+        },
+        "learn-github-pages": {
+            "link": "https://github.com/Amalshaheen/learn-github-pages",
+            "summary": "Recent activities in this repository include updating the index.html file, likely as part of learning GitHub Pages."
+        },
+        "Github-Enablment-Task": {
+            "link": "https://github.com/gtech-mulearn/Github-Enablment-Task",
+            "summary": "The highlighted activity in this repository is the Pull Request to merge the 'List All Books' feature into the 'Develop' branch."
+        }
+    },
+    "profile_summary": "I'm Amal Shaheen, a software development enthusiast and undergraduate student in Electrical and Computer Engineering (ECE) with a passion for leveraging C++, Python, and JavaScript to drive innovation. Proficient in a wide range of technologies, I am dedicated to delivering efficient and scalable solutions, with a strong interest in Machine Learning."
+}

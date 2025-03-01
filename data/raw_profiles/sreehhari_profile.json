@@ -1,0 +1,146 @@
+{
+    "username": "sreehhari",
+    "name": "Sreehari Sujith",
+    "bio": "i cook",
+    "location": "Irinjalakuda, Kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/65402547?u=4affc142514fc42e89d347b8d9e5e250ca62be45&v=4",
+    "profile_url": "https://github.com/sreehhari",
+    "top_languages": [
+        [
+            "Rust",
+            3
+        ],
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "C",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "gemiCLI",
+            "description": "a google gemini CLI build with Rust",
+            "score": 10.603644406572768,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/sreehhari/gemiCLI",
+            "updatedAt": "2025-02-24T05:31:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ticketile",
+            "description": "movie ticket booking website ",
+            "score": 10.281282411121008,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sreehhari/ticketile",
+            "updatedAt": "2024-10-21T21:29:25Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "termPort",
+            "description": "a linux terminal emulator themed portfolio website.. use the man pages for commands",
+            "score": 10.253772899041003,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sreehhari/termPort",
+            "updatedAt": "2025-01-21T17:21:01Z",
+            "isPinned": true,
+            "homepage": "https://seashells.vercel.app/"
+        },
+        {
+            "name": "texticles",
+            "description": "A basic text editing application in react js aimed at getting my react fundamentals straight",
+            "score": 10.240449173481494,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sreehhari/texticles",
+            "updatedAt": "2024-07-14T06:25:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "lokin",
+            "description": null,
+            "score": 2.3796088985630237,
+            "stars": 0,
+            "forks": 3,
+            "language": "TypeScript",
+            "url": "https://github.com/sreehhari/lokin",
+            "updatedAt": "2024-11-29T17:54:52Z",
+            "isPinned": false,
+            "homepage": "https://lokkin.vercel.app"
+        },
+        {
+            "name": "onClip",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/sreehhari/onClip",
+            "updatedAt": "2025-02-24T14:34:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "gemiCLirustProxy",
+            "description": null,
+            "score": 0.7708475135546261,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/sreehhari/gemiCLirustProxy",
+            "updatedAt": "2025-02-24T05:28:24Z",
+            "isPinned": false,
+            "homepage": "https://gemicliproxy.vercel.app"
+        },
+        {
+            "name": "weather_proxy",
+            "description": "a proxy server for the rust weather app cli",
+            "score": 0.5848068678769202,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/sreehhari/weather_proxy",
+            "updatedAt": "2025-02-16T18:10:26Z",
+            "isPinned": false,
+            "homepage": "https://weather-proxy-sable.vercel.app"
+        }
+    ],
+    "followers": 23,
+    "following": 63,
+    "public_repos": 28,
+    "pull_requests_merged": 21,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 282,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "sreehhari/gemiCLirustProxy": {
+            "link": "https://github.com/sreehhari/gemiCLirustProxy",
+            "summary": "Recent activities on gemiCLirustProxy include multiple PushEvents on February 23 and February 24, indicating changes to the codebase, addition of vercel.json, and deployment on shuttle."
+        },
+        "sreehhari/gemiCLI": {
+            "link": "https://github.com/sreehhari/gemiCLI",
+            "summary": "gemiCLI has seen recent activity on February 19 and February 24, with an addition of the 1.0 release and a change to the proxy URL."
+        },
+        "sreehhari/weather_proxy": {
+            "link": "https://github.com/sreehhari/weather_proxy",
+            "summary": "Recent PushEvents on February 16 on weather_proxy suggest modifications to vercel.json, addition of an API route, and another change in the same file."
+        }
+    },
+    "profile_summary": "As a seasoned developer with a passion for crafting efficient software solutions, I leverage my expertise in Rust, TypeScript, and C to deliver high-quality tools and applications. With a proven track record of active development, I have established a strong online presence, maintaining a network of 23 dedicated followers and contributing to 28 public repositories. In my free time, I enjoy experimenting with new recipes in the kitchen and bringing people together through food."
+}

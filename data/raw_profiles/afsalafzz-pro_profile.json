@@ -1,0 +1,133 @@
+{
+    "username": "afsalafzz-pro",
+    "name": "Muhammed Afsal",
+    "bio": "Hi, I'm Muhammed Afsal \u2013 a 20-year-old Full Stack Developer from India. I'm building SMAFS, diving into advanced ML, cloud architecture, and AI",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/65441220?u=56307209ce4f084ef1336b38f3faee52ccc1e381&v=4",
+    "profile_url": "https://github.com/AfsalAfzz-Pro",
+    "top_languages": [
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AR-Web",
+            "description": null,
+            "score": 0.5294341857971417,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AfsalAfzz-Pro/AR-Web",
+            "updatedAt": "2025-02-13T11:56:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "No-Internet-Day-Challenge",
+            "description": null,
+            "score": 0.401319579628581,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AfsalAfzz-Pro/No-Internet-Day-Challenge",
+            "updatedAt": "2025-01-19T10:53:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Flask-API",
+            "description": null,
+            "score": 0.35674427021903676,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/AfsalAfzz-Pro/Flask-API",
+            "updatedAt": "2024-12-25T13:24:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Malware-Detector-Windows",
+            "description": "Malware Detector \ud83d\udd0d A Python and Django-based malware detection tool that scans .exe files for known malware signatures to help users keep their systems secure. Featuring a user-friendly web interface, real-time detection, and comprehensive reporting, this application enables quick and efficient identification of malicious executable files.",
+            "score": 0.3122384323533469,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AfsalAfzz-Pro/Malware-Detector-Windows",
+            "updatedAt": "2024-12-20T08:31:11Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "JEE-Mains-Insights-Generator",
+            "description": null,
+            "score": 0.2655349337348481,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/AfsalAfzz-Pro/JEE-Mains-Insights-Generator",
+            "updatedAt": "2024-05-26T11:04:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "data-science-learning",
+            "description": "Data Science and Linear Algebra Learning Journey \ud83d\udcca A comprehensive guide through essential data science and linear algebra concepts, with hands-on examples in Python. This repository covers foundational topics like matrices, statistics, probability, data manipulation with Pandas and Numpy, and introductory machine learning models.",
+            "score": 0.2577282863406186,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/AfsalAfzz-Pro/data-science-learning",
+            "updatedAt": "2024-11-02T10:16:08Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "Data-Structures-and-Algorithms-Practice",
+            "description": "A comprehensive repository of data structure and algorithm implementations in Python. Find well-commented code examples for arrays, linked lists, trees, graphs, sorting, searching, and more. Perfect for interview prep or solidifying your DSA foundations.",
+            "score": 0.2569491711848753,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/AfsalAfzz-Pro/Data-Structures-and-Algorithms-Practice",
+            "updatedAt": "2024-03-24T11:06:01Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "AfsalAfzz-Pro",
+            "description": "My Personal Readme \ud83d\ude01",
+            "score": 0.25207361839398373,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/AfsalAfzz-Pro/AfsalAfzz-Pro",
+            "updatedAt": "2025-02-21T08:13:21Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 10,
+    "following": 18,
+    "public_repos": 13,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 119,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Muhammed Afsal</h1>\n<h3 align=\"center\">A passionate Full Stack Developer from India \ud83d\ude80</h3>\n\n<p align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver\" alt=\"Typing SVG\" />\n</p>\n\n## \ud83d\udcab About Me\n- \ud83c\udf93 I'm a 20-year-old data enthusiast transforming complex problems into elegant solutions\n- \ud83d\udd2d Currently building **SMAFS - Student Management and Feedback System**\n- \ud83c\udf31 Learning **Advanced Machine Learning** and **Cloud Architecture**\n- \ud83d\udca1 Always exploring new technologies and methodologies\n- \ud83d\udceb Reach me at **muhammedafsalafzz@gmail.com**\n\n## \ud83d\ude80 What I'm Working On\n- \ud83c\udfaf Developing AI-powered educational tools\n- \ud83d\udcca Building data analytics pipelines\n- \ud83e\udd16 Exploring machine learning applications\n- \ud83c\udf10 Contributing to open-source projects\n\n## \ud83d\udee0\ufe0f Technology Stack\n\n<details>\n<summary>\ud83d\udcbb Programming Languages</summary>\n<br>\n\n![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)\n![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\n![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)\n</details>\n\n<details>\n<summary>\ud83d\udcca Data Science & ML</summary>\n<br>\n\n![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)\n![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)\n![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)\n![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)\n![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)\n</details>\n\n<details>\n<summary>\ud83c\udf10 Web Development</summary>\n<br>\n\n![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)\n![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\n![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\n![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)\n</details>\n\n<details>\n<summary>\u2601\ufe0f Cloud & DevOps</summary>\n<br>\n\n![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)\n![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)\n![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)\n![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)\n</details>\n\n## \ud83d\udccc Featured Projects\n\n### 1. SMAFS - Student Management and Feedback System\nA comprehensive AI-driven educational platform that revolutionizes student feedback and management.\n\n**\ud83d\udee0\ufe0f Built with:** Python, Django, GCS, Plotly, JavaScript\n- \ud83c\udfaf Automated attendance tracking with real-time updates\n- \ud83c\udf99\ufe0f Audio-based task management with AI feedback\n- \ud83d\udcca Advanced analytics and performance visualization\n- \ud83d\udc65 Multi-role access system with tailored functionalities\n- \u2601\ufe0f Secure cloud storage integration\n\n### 2. Malware Detector\nAn intelligent system for detecting malware in executable files.\n\n**\ud83d\udee0\ufe0f Built with:** Python, Django, Scikit-learn, OpenAI API\n- \ud83d\udd0d Real-time malware detection\n- \ud83c\udfaf High accuracy prediction model\n- \ud83d\udcca Detailed scan reports and analytics\n- \ud83d\udd04 Continuous learning system\n\n## \ud83d\udcca GitHub Stats\n\n<p align=\"center\">\n  <img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfsalAfzz-Pro&theme=tokyonight\" alt=\"GitHub Stats\"/>\n</p>\n\n## \ud83e\udd1d Connect With Me\n\n<p align=\"center\">\n  <a href=\"https://www.linkedin.com/in/muhammed-afsal-5ba11b288/\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"/>\n  </a>\n  <a href=\"mailto:muhammedafsalafzz@gmail.com\">\n    <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\"/>\n  </a>\n  <a href=\"https://your-portfolio-url-here\">\n    <img src=\"https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139\" alt=\"Portfolio\"/>\n  </a>\n</p>\n\n<div align=\"center\">\n  <img src=\"https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight\" alt=\"Random Dev Quote\"/>\n</div>\n\n---\n\n<p align=\"center\">\n  <img src=\"https://komarev.com/ghpvc/?username=AfsalAfzz-Pro&color=blueviolet&style=flat-square\" alt=\"Profile Views\"/>\n  <img src=\"https://img.shields.io/github/followers/AfsalAfzz-Pro?label=Followers&style=social\" alt=\"Followers\"/>\n</p>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

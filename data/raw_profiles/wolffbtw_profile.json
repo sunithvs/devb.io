@@ -1,0 +1,35 @@
+{
+    "username": "wolffbtw",
+    "name": "Wolf",
+    "bio": "",
+    "location": "Catalonia, Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/57170467?u=fa1eaac3986cc8696a8d348aa177643f2db0b1e9&v=4",
+    "profile_url": "https://github.com/Wolffbtw",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "Wolffbtw",
+            "description": null,
+            "score": 0.07353962228640917,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Wolffbtw/Wolffbtw",
+            "updatedAt": "2022-09-16T21:30:21Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 2,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "### Hi there \ud83d\udc4b\n\n<!--\n**Wolffbtw/Wolffbtw** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n",
+    "profile_summary": "Certified software engineer and developer with a strong expertise in programming languages including Python and JavaScript. I've successfully contributed to the growth of multiple projects through active development, with notable participation in open-source communities where I have a following of professionals that look up to me for guidance and insights."
+}

@@ -99,7 +99,7 @@ export default function Page({
   const linkedInAccount = user?.social_accounts?.find(
     (e) => e.provider === "linkedin",
   );
-  const linkedInUsername = linkedInAccount?.url?.split("/").pop() || "";
+  const linkedInUsername = linkedInAccount?.url?.split("in/").pop()?.replace("/", "") || "";
   const { data: linkedInData,  } =
     useGetUserLinkedInProfile(linkedInUsername);
 

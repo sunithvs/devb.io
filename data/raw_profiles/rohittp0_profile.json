@@ -1,0 +1,132 @@
+{
+    "username": "rohittp0",
+    "name": "Rohit",
+    "bio": "dig -t txt +trace me.rohittp.com | sed -n 's/.*\"\\(.*\\)\".*/\\1/p' | sort -tZ -k1,1n | cut -dZ -f2-",
+    "location": "Payyanur, Kannur, Kerala, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/45072928?u=aefa3cd0f599858c730de4ce32b74e622e868f60&v=4",
+    "profile_url": "https://github.com/rohittp0",
+    "top_languages": [
+        [
+            "Python",
+            39
+        ],
+        [
+            "C",
+            4
+        ],
+        [
+            "TypeScript",
+            9
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "GramUp",
+            "description": "Unlimited Cloud Storage for ALL!",
+            "score": 24.827660856787148,
+            "stars": 129,
+            "forks": 25,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/GramUp",
+            "updatedAt": "2025-02-23T09:22:20Z",
+            "isPinned": true,
+            "homepage": "http://rohittp.com/GramUp/"
+        },
+        {
+            "name": "chipon",
+            "description": "PyTorch to Verilog transpiler",
+            "score": 17.780701120659195,
+            "stars": 12,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/chipon",
+            "updatedAt": "2025-01-16T06:56:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "not-python",
+            "description": "!Python is a tiny language that I made to learn how compilers do their magic. The compiler of !Python is written in pure python ( no dependencies )",
+            "score": 15.684084095726197,
+            "stars": 3,
+            "forks": 5,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/not-python",
+            "updatedAt": "2024-07-01T15:08:41Z",
+            "isPinned": true,
+            "homepage": "https://rohittp.com/not-python/"
+        },
+        {
+            "name": "IPRM",
+            "description": "An NIC add-on module to parse and process UDP packet on hardware layer itself.",
+            "score": 12.653908518622309,
+            "stars": 1,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/IPRM",
+            "updatedAt": "2024-09-15T18:10:49Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "os",
+            "description": "A simple Operating System",
+            "score": 11.195722754937623,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/rohittp0/os",
+            "updatedAt": "2023-07-03T14:09:45Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "captive-portal",
+            "description": "An unusual DHCP server",
+            "score": 11.191176535810948,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/captive-portal",
+            "updatedAt": "2023-09-13T12:29:10Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "connect-a-ton",
+            "description": null,
+            "score": 6.927006035694457,
+            "stars": 9,
+            "forks": 3,
+            "language": "Python",
+            "url": "https://github.com/rohittp0/connect-a-ton",
+            "updatedAt": "2024-03-22T07:34:32Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "qFind",
+            "description": "A barebones but faster implementation of unix find in c.",
+            "score": 6.476106327424419,
+            "stars": 4,
+            "forks": 7,
+            "language": "C",
+            "url": "https://github.com/rohittp0/qFind",
+            "updatedAt": "2023-11-21T18:31:03Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 254,
+    "following": 7,
+    "public_repos": 166,
+    "pull_requests_merged": 22,
+    "issues_closed": 5,
+    "achievements": {
+        "total_contributions": 1663,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [],
+    "readme_content": "<h1 align=\"center\">Hi <img src=\"https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif\" width=\"30px\">, I am Rohit </h1>\n <p align=\"center\">\n<img src=\"https://img.shields.io/badge/Age-20-blue\" />\n  <img src=\"https://img.shields.io/badge/Focus-Reserch-brightgreen\" />\n  <img src=\"https://img.shields.io/badge/Lives-Kerala-success\" />\n  <img src=\"https://komarev.com/ghpvc/?username=rohittp0&color=brightgreen&style=flat-square\" alt=\"views on github\" />\n  <img src=\"https://img.shields.io/github/followers/rohittp0.svg?style=social&label=Followers\" />\n</p>\n\n---\n\n[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Just+thought+a+typing+animation+will+look+nice+here+%F0%9F%98%81)](https://git.io/typing-svg)\n\n<img align=\"right\" width=200px height=200px alt=\"side_sticker\" src=\"https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif\" />\n\n<h3> Here's some fun facts about me: </h3>\n\n- \ud83d\udd2d I\u2019m currently working on Research Projects\n- \ud83c\udfe2 I\u2019m also working at Trebuchet as R&D.\n- \ud83c\udf31 I'm a contract developer at NPOL\n- \ud83d\udc6f I\u2019m looking to collaborate on FOSS projects.\n- \ud83d\udcac Ask me about Computer Science\n\n<p>Connect with me on\n<br>\t\n<a target=\"_blank\" href=\"https://www.linkedin.com/in/rohit-tp/\"><img src=\"https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white\"></img></a>\n&emsp;\n<a target=\"_blank\" href=\"mailto:tprohit9@gmail.com\"\n><img src=\"https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white\"></img></a>\n&emsp;\n<a target=\"_blank\" href=\"https://twitter.com/tprohit\"><img src=\"https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white\"></img></a>\n&emsp;\n<a target=\"_blank\" href=\"https://rohittp0.medium.com\"><img src=\"https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white\"></img></a>\n\n\n## \ud83d\udcda Publications\n\n| | |\n|---|---|\n| **[Optimal Hardware Generation for Neural Network Acceleration](https://github.com/rohittp0/rohittp0/tree/main/papers/Optimal%20Hardware%20Generation%20for%20Neural%20Network%20Acceleration)** | 03-2024 |\n| **[Multi Block Transformer for Malayalam Language Modeling](https://icaise.cusat.ac.in/ICAISE2023_Web_version.pdf)** | 03-2023 |\n| **[Protocol For Dynamic Load Distributed Low Latency AR & VR](https://link.springer.com/chapter/10.1007/978-3-031-48879-5_10)** | 02-2022 |\n| **[Optimization Technique For Perfect Pairing](https://assets.researchsquare.com/files/rs-2539204/v1_covered.pdf?c=1678265988)** | 2023 |\n\n## \ud83d\udd25 Streak Stats <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"30px\">&nbsp;\n<p align=\"center\">\n <img src=\"https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif\" width=\"30px\" alt=\"Git\"/>&nbsp;<i><b>Git Activeness</b></i></p>\n \n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=rohittp0&show_icons=true&locale=en&layout=compact&theme=gruvbox\" alt=\"ovi\" /></p>\n<p>&nbsp;<img align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=rohittp0&show_icons=true&locale=en&theme=gruvbox\" alt=\"ovi\" width=\"410\" /></p>\n<br><br><br><br><br>\n\n<hr>\n\n## \ud83d\udee0\ufe0f My Skills\n\n### \ud83d\udc49 Programming languages\n\n<p align=\"left\"> \n  \n![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&emsp;![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&emsp;![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&emsp;![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)\n\n</p>\n\n### \ud83d\udc49 Frameworks\n<p align=\"left\"> \n&emsp;\n    <img alt=\"Pytorch\" src=\"https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white\"/>\n  &emsp;\n     <img alt=\"Flutter\" src=\"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB\">\n  &emsp; \n   <img alt=\"TensorFlow\" src=\"https://img.shields.io/badge/Express.js-402DAA?style=for-the-badge\">\n  &emsp;\n    <img alt=\"Scikit Learn\" src=\"https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white\">\n   &emsp;\n    <img alt=\"Keras\" src=\"https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow\"/>\n  &emsp;\n</p>\n\n### \ud83d\udc49 Databases & Cloud Hosting\n<p align=\"left\">\n  &emsp;\n<img alt=\"MySQL\" src=\"https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white\">\n  &emsp;\n  <img alt=\"SQLite\" src =\"https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white\"/>\n  &emsp;\n<img alt=\"GitHub Pages\" src=\"https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white\">\n  &emsp;\n<img alt=\"Firebase\" src =\"https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black\">\n </p>\n\n ### \ud83d\udc49 Software & Tools\n \n<p>\n  &emsp;\n<img alt=\"Codepen\" src=\"https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white\">\n  &emsp;\n<img alt=\"Git\" src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\">\n  &emsp;\n <img alt=\"Linux\" src=\"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black\">\n  &emsp;\n<img alt=\"Google Colab\" src=\"https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252\">\n  &emsp;\n  <img alt=\"Visual Studio Code\" src=\"https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white\">\n  &emsp;\n  <img alt=\"Stack Overflow\" src=\"https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white\">\n&emsp;\n<img alt=\"Stack Overflow\" src=\"https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white\">\n    &emsp;\n    <img alt=\"Docker\" src=\"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white\">\n     &emsp;\n    <img alt=\"Postman\" src=\"https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white\">\n     &emsp;\n <img alt=\"AWS\" src=\"https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white\">\n    &emsp;\n <img alt=\"Trello\" src=\"https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white\">\n    &emsp;\n     <img alt=\"TFigma\" src=\"https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white\">\n    &emsp;<img alt=\"Jira\" src=\"https://img.shields.io/badge/NVIDIA-RTX350-76B900?style=for-the-badge&logo=nvidia&logoColor=white\">\n    &emsp;\n    \n</p>\n<p align=\"center\"><img src=\"https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif\" width=\"60\" /><b>Git profile Trophies</b></h4></p><br>\n<img src=\"https://github-profile-trophy.vercel.app/?username=rohittp0&theme=gruvbox\" />\n\n---\n",
+    "profile_summary": "Highly skilled software engineer and researcher with a passion for developing innovative solutions leveraging Python, TypeScript, and C. With over 166 public repositories and 254 followers, I have established myself as a professional in the community and demonstrated my commitment to collaborative development. As a contract developer at NPOL and Research Projects, I have honed my expertise in research and development, with a focus on optimizing complex systems and delivering cutting-edge results."
+}

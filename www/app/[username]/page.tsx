@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -15,11 +16,6 @@ import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
-import {
-  getUserLinkedInProfile,
-  getUserProfile,
-  getUserProjects,
-} from "@/lib/api";
 import Badge from "@/app/components/Badge";
 import {
   AnimatedCard,
@@ -30,7 +26,12 @@ import {
   AnimatedTitle,
 } from "@/app/components/AnimatedContent";
 import { transformLinkedInData } from "@/utils/transform";
-import {Metadata} from "next";
+import { use } from "react";
+import {
+  useGetUserLinkedInProfile,
+  useGetUserProfile,
+  useGetUserProject,
+} from "@/hooks/user-hook";
 
 const iconComponents = {
   linkedin: Linkedin,
@@ -47,58 +48,66 @@ const extractDomainName = (url: string) => {
   }
 };
 
-export async function generateMetadata({ params }: { params: { username: string } }): Promise<Metadata> {
-  const user = await getUserProfile(params.username);
+// export async function generateMetadata({
+//   params,
+// }: {
+//   params: { username: string };
+// }): Promise<Metadata> {
+//   const user = await getUserProfile(params.username);
+//
+//   return {
+//     title: `${user?.name || params.username} - Portfolio`,
+//     description:
+//       user?.bio ||
+//       `Check out ${user?.name || params.username}'s portfolio and projects`,
+//     openGraph: {
+//       title: `${user?.name || params.username} - Portfolio`,
+//       description:
+//         user?.bio ||
+//         `Check out ${user?.name || params.username}'s portfolio and projects`,
+//       images: [
+//         {
+//           url: user?.avatar_url || "",
+//           width: 400,
+//           height: 400,
+//           alt: user?.name || params.username,
+//         },
+//       ],
+//     },
+//     twitter: {
+//       card: "summary_large_image",
+//       title: `${user?.name || params.username} - Portfolio`,
+//       description:
+//         user?.bio ||
+//         `Check out ${user?.name || params.username}'s portfolio and projects`,
+//       images: [user?.avatar_url || ""],
+//       creator: `@${params.username}`,
+//     },
+//   };
+// }
 
-  return {
-    title: `${user?.name || params.username} - Portfolio`,
-    description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
-    openGraph: {
-      title: `${user?.name || params.username} - Portfolio`,
-      description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
-      images: [
-        {
-          url: user?.avatar_url || "",
-          width: 400,
-          height: 400,
-          alt: user?.name || params.username,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: `${user?.name || params.username} - Portfolio`,
-      description: user?.bio || `Check out ${user?.name || params.username}'s portfolio and projects`,
-      images: [user?.avatar_url || ""],
-      creator: `@${params.username}`,
-    },
-  };
-}
-
-export default async function Page({
+export default function Page({
   params,
 }: {
   params: Promise<{ username: string }>;
 }) {
-  const { username } = await params;
-
-  const user = await getUserProfile(username);
-
+  const { username } = use(params);
+  const { data: user } =
+    useGetUserProfile(username);
+  const { data: userProjects,  } =
+    useGetUserProject(username);
   const linkedInAccount = user?.social_accounts?.find(
     (e) => e.provider === "linkedin",
   );
   const linkedInUsername = linkedInAccount?.url?.split("/").pop() || "";
-
-  const [userProjects, linkedInData] = await Promise.all([
-    getUserProjects(username),
-    linkedInUsername ? getUserLinkedInProfile(linkedInUsername) : null,
-  ]);
+  const { data: linkedInData,  } =
+    useGetUserLinkedInProfile(linkedInUsername);
 
   return (
     <AnimatedPage className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
       <div
         id="left-section"
-        className="w-full lg:w-[400px] lg:sticky lg:top-8 lg:self-start space-y-2"
+        className="w-full lg:w-[400px] lg:sticky lg:top-8 lg:self-start space-y-2 flex flex-col items-center lg:items-start"
       >
         <Link href="/" className="block">
           <Image
@@ -113,9 +122,9 @@ export default async function Page({
         {!user ? (
           <ProfileSkeleton />
         ) : (
-          <AnimatedSection className="rounded-xl border-[1px] border-black bg-white overflow-hidden">
+          <AnimatedSection className="rounded-xl border-[1px] border-black bg-white overflow-hidden w-full max-w-md lg:max-w-none">
             <div className="h-28 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
-              <div className="absolute left-8 bottom-0 translate-y-1/2">
+              <div className="absolute left-1/2 lg:left-8 bottom-0 translate-x-[-50%] lg:translate-x-0 translate-y-1/2">
                 <div className="bg-[#AFE555] rounded-[19px] w-32 h-32 flex items-center justify-center">
                   <Image
                     src={user.avatar_url}
@@ -274,7 +283,7 @@ export default async function Page({
                 </div>
               </AnimatedCard>
 
-              <div className="flex flex-col sm:flex-row gap-4">
+              <div className="flex gap-4">
                 <AnimatedCard className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 flex-1">
                   <AnimatedTitle className="font-bold mb-2">
                     Issue Closed

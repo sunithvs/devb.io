@@ -1,7 +1,7 @@
 import axios from "axios";
 import { LinkedInProfile, Profile, UserProject } from "@/types/types";
 
-const BASE_URL = process.env.API_BASE_URL;
+const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
 
 const apiClient = axios.create({
   baseURL: BASE_URL,
@@ -9,7 +9,7 @@ const apiClient = axios.create({
   headers: {
     "Content-Type": "application/json",
     Accept: "application/json",
-    "X-Api-Key": process.env.X_API_KEY,
+    "X-Api-Key": process.env.NEXT_PUBLIC_X_API_KEY,
   },
 });
 

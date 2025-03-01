@@ -87,7 +87,7 @@ export function AnimatedTitle({ children, className }: AnimatedProps) {
   );
 }
 
-export function AnimatedListItem({ children, className, index = 0 }: AnimatedProps) {
+export function AnimatedListItem({ children, className }: AnimatedProps) {
   return (
     <motion.div
       initial={{ opacity: 0, x: -30 }}

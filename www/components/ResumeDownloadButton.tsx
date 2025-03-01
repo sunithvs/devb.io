@@ -2,12 +2,13 @@
 
 import React from 'react';
 import { Download } from 'lucide-react';
-import { useGetUserProfile, useGetUserProject, useGetUserLinkedInProfile } from '../hooks/user-hook';
+// import { useGetUserProfile, useGetUserProject, useGetUserLinkedInProfile } from '@/hooks/user-hook';
 
 const ResumeDownloadButton = ({ username }: { username: string }) => {
-  const { data: userProfile, isLoading: isLoadingProfile } = useGetUserProfile(username);
-  const { data: userProjects, isLoading: isLoadingProjects } = useGetUserProject(username);
-  const { data: userLinkedInProfile, isLoading: isLoadingLinkedIn } = useGetUserLinkedInProfile(username);
+    console.log(username);
+  // const { data: userProfile, isLoading: isLoadingProfile } = useGetUserProfile(username);
+  // const { data: userProjects, isLoading: isLoadingProjects } = useGetUserProject(username);
+  // const { data: userLinkedInProfile, isLoading: isLoadingLinkedIn } = useGetUserLinkedInProfile(username);
 
   const handleDownload = async () => {
     // Handle download logic here

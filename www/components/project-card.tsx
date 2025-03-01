@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Project } from "@/types/types";
-import { Circle, ExternalLink, GitFork, Github, Star } from "lucide-react";
+import { ExternalLink, GitFork, Github, Star } from "lucide-react";
 import Badge from "@/app/components/Badge";
 
 const ProjectCard = ({

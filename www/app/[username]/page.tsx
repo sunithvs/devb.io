@@ -137,7 +137,7 @@ export default function Page({
               </div>
             </div>
 
-            <div className="px-8 pb-4 pt-20">
+            <div className="px-4 md:px-8 pb-4 pt-20">
               <div className="flex flex-col items-start text-left">
                 <AnimatedTitle className="font-bold text-2xl mb-2 text-black">
                   {user.name.toUpperCase()}
@@ -284,23 +284,23 @@ export default function Page({
               </AnimatedCard>
 
               <div className="flex gap-4">
-                <AnimatedCard className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 flex-1">
+                {user.issues_closed >0 && (<AnimatedCard className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 flex-1">
                   <AnimatedTitle className="font-bold mb-2">
                     Issue Closed
                   </AnimatedTitle>
                   <AnimatedText className="text-2xl font-bold">
                     {user.issues_closed}
                   </AnimatedText>
-                </AnimatedCard>
+                </AnimatedCard>)}
 
-                <AnimatedCard className="bg-white rounded-xl p-6 border-1 border-black border-b-4 flex-1">
+                {user.pull_requests_merged > 0 && (<AnimatedCard className="bg-white rounded-xl p-6 border-1 border-black border-b-4 flex-1">
                   <AnimatedTitle className="font-bold mb-2">
                     PR Merged
                   </AnimatedTitle>
                   <AnimatedText className="text-2xl font-bold">
                     {user.pull_requests_merged}
                   </AnimatedText>
-                </AnimatedCard>
+                </AnimatedCard>)}
               </div>
             </div>
 

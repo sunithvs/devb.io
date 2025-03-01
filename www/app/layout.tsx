@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Outfit, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import {QueryClientProvider} from "@/providers/CustomQueryClientProvider";
+import Script from "next/script";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -28,14 +29,26 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+      <html lang="en">
+      <head>
+          <script type="text/javascript"></script>
+          <Script id="clarity-script" strategy="afterInteractive">
+              {`
+            (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "${process.env.NEXT_PUBLIC_CLARITY_ID}");
+          `}
+          </Script>
+      </head>
       <body
-        className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
+          className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
       <QueryClientProvider>
-        {children}
+          {children}
       </QueryClientProvider>
       </body>
-    </html>
+      </html>
   );
 }

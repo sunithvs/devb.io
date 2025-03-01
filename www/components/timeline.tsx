@@ -30,7 +30,7 @@ const Timeline: React.FC<TimelineProps> = ({
       {/* Continuous timeline line */}
       <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-black"></div>
 
-      <div className="space-y-12">
+      <div className="space-y-6">
         {items.map((item, index) => (
           <div key={index} className="relative">
             {/* Timeline dot */}

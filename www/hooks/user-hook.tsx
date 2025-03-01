@@ -23,5 +23,6 @@ export function useGetUserLinkedInProfile(username: string) {
   return useQuery({
     queryKey: ["user-linkedin-profile", username],
     queryFn: async () => getUserLinkedInProfile(username),
+    enabled: !!username,
   });
 }

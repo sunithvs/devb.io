@@ -1,0 +1,137 @@
+{
+    "username": "cerodah",
+    "name": "Meretec",
+    "bio": "Interested in the infosec :)              \r\n\r\n",
+    "location": "~",
+    "avatar_url": "https://avatars.githubusercontent.com/u/82907557?u=633a3c892c7515108a4e1dca459cb1d451b177aa&v=4",
+    "profile_url": "https://github.com/cerodah",
+    "top_languages": [
+        [
+            "C",
+            2
+        ],
+        [
+            "Python",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "CheatSheet-PrivEsc",
+            "description": "Trucos de escalaci\u00f3n en sistemas Linux y Windows",
+            "score": 14.328651309755665,
+            "stars": 4,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/cerodah/CheatSheet-PrivEsc",
+            "updatedAt": "2022-03-19T18:23:34Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "overlayFS-CVE-2021-3493",
+            "description": "2021 kernel vulnerability in Ubuntu.",
+            "score": 12.63596957074539,
+            "stars": 1,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/cerodah/overlayFS-CVE-2021-3493",
+            "updatedAt": "2025-01-03T19:15:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Corona-polybar",
+            "description": "The script shows you the COVID-19 cases in your area.",
+            "score": 11.526248531881137,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/cerodah/Corona-polybar",
+            "updatedAt": "2024-01-19T22:01:42Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ConfigOs",
+            "description": "This is my config in my ParrotOS.",
+            "score": 3.4274574476806454,
+            "stars": 4,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/cerodah/ConfigOs",
+            "updatedAt": "2024-06-05T00:20:22Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "OffensiveSecurity",
+            "description": "Offensive Security Labs Solutions (OSCP Preparation)",
+            "score": 1.5949197070385384,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/cerodah/OffensiveSecurity",
+            "updatedAt": "2024-09-19T13:21:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Neofetch_configs",
+            "description": "Unos cuantos archivos de configuraci\u00f3n de neofetch",
+            "score": 1.456815458645524,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/cerodah/Neofetch_configs",
+            "updatedAt": "2021-11-18T20:50:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "HackMyVM",
+            "description": "Solutions of some machines of HackMyVM",
+            "score": 1.4560882920396718,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/cerodah/HackMyVM",
+            "updatedAt": "2021-08-22T18:00:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CVE-2021-4034",
+            "description": "PoC de Polkit",
+            "score": 0.24942983847393319,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/cerodah/CVE-2021-4034",
+            "updatedAt": "2024-09-19T13:21:32Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 26,
+    "following": 12,
+    "public_repos": 17,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 80,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "generic",
+            "url": "https://tryhackme.com/p/meretec"
+        }
+    ],
+    "readme_content": "### Meretec Presentation :shipit:\n\nCybersecurity specialist attempt. I do as a hobby ctfs. Cybersecurity student.\n\n*   Certificates:\n    *   Google, INCIBE: Ciberseguridad en el Teletrabajo.\n    *   CISCO Ciberseguridad: \n        *   Introducci\u00f3n en Seguridad Cibern\u00e9tica.\n        *   Cybersecurity Essentials.\n    * CISCO LINUX: \n       *   NDG Linux Unhatched.\n\nContact: \n* :left_speech_bubble: Telegram: cerodah\n\n* :left_speech_bubble: Discord: calomatt#1716\n\n* :envelope_with_arrow: MailTor: meretec@mail2tor.com\n\n\n\n\n\n![meretec](https://tryhackme-badges.s3.amazonaws.com/meretec.png)\n\n![Meretec's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerodah&show_icons=true&theme=radical)                                                                                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerodah&langs_count=8)](https://github.com/cerodah/github-readme-stats)\n\n\n\n\n  \n  \n",
+    "profile_summary": "As a seasoned cybersecurity enthusiast and student, I leverage my expertise in C, Python, and Shell to mitigate threats and refine my skills through_capture_the_flags (ctfs). With a strong foundation in information security, I am well-versed in preventing and responding to cyber threats."
+}

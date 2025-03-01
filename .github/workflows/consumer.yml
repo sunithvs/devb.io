@@ -21,7 +21,6 @@ jobs:
         source venv/bin/activate
         pip install -r requirements.txt
         git checkout -B data
-        git pull origin data --no-rebase || echo "First time pull or branch doesn't exist yet"
         python manage.py fetch
         python manage.py build
       env:

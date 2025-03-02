@@ -1,0 +1,81 @@
+{
+    "username": "dinakaran-k",
+    "name": "Dinakaran Kommunuri",
+    "bio": "Android Developer",
+    "location": "Andhra Pradesh",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85787831?v=4",
+    "profile_url": "https://github.com/Dinakaran-k",
+    "top_languages": [
+        [
+            "Kotlin",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Dinakaran-k",
+            "description": "My personal Repo",
+            "score": 11.723930586292559,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Dinakaran-k/Dinakaran-k",
+            "updatedAt": "2025-01-26T15:24:57Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FoodDeliveryApp",
+            "description": null,
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Dinakaran-k/FoodDeliveryApp",
+            "updatedAt": "2025-01-26T14:56:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AndroidDigitalClock",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Dinakaran-k/AndroidDigitalClock",
+            "updatedAt": "2025-01-18T17:55:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "NotesAppWithRoomDB",
+            "description": null,
+            "score": 0.398808878512278,
+            "stars": 0,
+            "forks": 0,
+            "language": "Kotlin",
+            "url": "https://github.com/Dinakaran-k/NotesAppWithRoomDB",
+            "updatedAt": "2025-01-18T18:13:46Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 5,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 22,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/dinakaran-kommunuri-796a48127/"
+        }
+    ],
+    "readme_content": "# Hi there, I'm Dinakaran Kommunuri \ud83d\udc4b\n\n## \ud83e\udd16 Android Dev | Software Engineer | Kotlin Enthusiast \n\nI'm a dedicated Android Developer with 3.3 years of experience in crafting high-performance mobile applications. Passionate about creating robust, user-centric mobile solutions using cutting-edge technologies.\n\n### \ud83d\udd27 Technologies & Skills\n![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)\n![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)\n![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)\n![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n\n### \ud83d\udcbc Professional Highlights\n- \ud83c\udfc6 Reduced app crash rates by 30% using New Relic\n- \ud83d\udcc8 Increased app user retention by 20%\n- \ud83d\udd0d Achieved 50% code coverage with SonarQube\n- \ud83e\udd1d Experienced in Agile methodologies\n\n### \ud83d\ude80 My Projects\n- [Ascott Star Rewards App](https://github.com/Dinakaran-k/ascott-star-rewards-android) - Native Android app for Capitaland\n- [AMT Site Access](https://github.com/Dinakaran-k/amt-site-access-app) - Cross-platform mobile application using React Native\n- [Android Learning Projects](https://github.com/Dinakaran-k?tab=repositories) - A collection of Android learning projects\n\n### \ud83c\udf31 Currently Learning\n- Advanced Kotlin Programming\n- Jetpack Compose Fundamentals\n- Android Architecture Components\n\n### \ud83d\udcc4 Resume\nYou can view my resume [here](https://drive.google.com/file/d/1eARoB5snH5u_WCo-NhCPXBRZ9J48F0lb/view?usp=drivesdk).\n\n\n### \ud83d\udceb Connect with Me\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinakarankommunuri)\n[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinakarankommunuri@gmail.com)\n\n### \ud83d\udcca GitHub Stats\n![Dinakaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinakaran-k&show_icons=true&theme=radical)\n![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakaran-k&layout=compact&theme=radical)\n![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinakaran-k&theme=radical)\n\n---\n\n\u2b50 From [Dinakaran Kommunuri](https://github.com/Dinakaran-k)\n",
+    "profile_summary": "Highly proficient Android Developer with 3.3 years of experience crafting high-performance mobile applications using cutting-edge technologies like Kotlin and advanced Android architecture components. I'm passionate about creating robust, user-centric mobile solutions and actively contributing to my open source projects on GitHub, with 5 repositories and a growing professional network. As a skilled Kotlin enthusiast and dedicated software engineer, I leverage my expertise to drive meaningful results, including a 30% reduction in app crash rates and 20% increase in user retention."
+}

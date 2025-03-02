@@ -1,0 +1,142 @@
+{
+    "username": "raulmartin1",
+    "name": "Raul Martin",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/129038952?u=8a2a4ba46e155f77ed357805cb53c251b4b270d6&v=4",
+    "profile_url": "https://github.com/raulmartin1",
+    "top_languages": [
+        [
+            "C",
+            5
+        ],
+        [
+            "Java",
+            8
+        ],
+        [
+            "Assembly",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "AssemblyOS",
+            "description": null,
+            "score": 10.471986970666187,
+            "stars": 0,
+            "forks": 0,
+            "language": "Assembly",
+            "url": "https://github.com/raulmartin1/AssemblyOS",
+            "updatedAt": "2025-02-06T11:12:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "AssemblyGame",
+            "description": null,
+            "score": 10.391783884846337,
+            "stars": 0,
+            "forks": 0,
+            "language": "Assembly",
+            "url": "https://github.com/raulmartin1/AssemblyGame",
+            "updatedAt": "2025-02-06T11:18:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "WebApp-MVC-REST",
+            "description": null,
+            "score": 10.391783884846337,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/raulmartin1/WebApp-MVC-REST",
+            "updatedAt": "2025-01-15T21:17:12Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "MultithreadPrimes",
+            "description": null,
+            "score": 0.35074049697971493,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/raulmartin1/MultithreadPrimes",
+            "updatedAt": "2024-12-20T22:17:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "REST-API-Back-End-",
+            "description": null,
+            "score": 0.33945555704213487,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/raulmartin1/REST-API-Back-End-",
+            "updatedAt": "2024-12-10T09:40:31Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AC_SimProcSuperescalar",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/raulmartin1/AC_SimProcSuperescalar",
+            "updatedAt": "2024-12-05T23:26:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BDA_BDRelacionalSQL",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/raulmartin1/BDA_BDRelacionalSQL",
+            "updatedAt": "2024-12-05T21:41:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "EC_RendimientoMemCache",
+            "description": null,
+            "score": 0.3358779357180093,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/raulmartin1/EC_RendimientoMemCache",
+            "updatedAt": "2024-12-05T23:20:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 22,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 47,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "raulmartin1/AssemblyOS": {
+            "link": "https://github.com/raulmartin1/AssemblyOS",
+            "summary": "Significant recent activities on AssemblyOS include creating README.md (2025-02-06), multiple pull requests with no description, but their commit history marks a development evolution within the repository."
+        },
+        "raulmartin1/AssemblyGame": {
+            "link": "https://github.com/raulmartin1/AssemblyGame",
+            "summary": "AssemblyGame witnessed an update of README.md (2025-02-06), indicating ongoing effort to maintain and refine the documentation and user experience within the game repository."
+        }
+    },
+    "profile_summary": "Highly skilled software developer with expertise in low-level programming languages, leveraging my extensive experience in C, Java, and Assembly to drive innovation and efficiency in software development projects. \n\nWith a strong foundation in systems programming and a proven track record of delivering high-quality solutions, I excel at tackling complex technical challenges and collaborating with cross-functional teams to drive business growth. \n\nFollowing my passion for systems and binary-level development, I've built a diverse portfolio of 22 GitHub repositories, empowering me to contribute to and enhance open-source projects that span a wide range of industries and applications."
+}

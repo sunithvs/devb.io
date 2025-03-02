@@ -107,7 +107,7 @@ export default function Page({
     <AnimatedPage className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8">
       <div
         id="left-section"
-        className="w-full lg:w-[400px] lg:sticky lg:top-8 lg:self-start space-y-2 flex flex-col items-center lg:items-start"
+        className="w-full lg:w-[420px] lg:sticky lg:top-8 lg:self-start space-y-2 flex flex-col items-center lg:items-start"
       >
         <Link href="/" className="block">
           <Image

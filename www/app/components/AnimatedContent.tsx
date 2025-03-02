@@ -51,8 +51,8 @@ export function AnimatedSection({ children, className }: AnimatedProps) {
 export function AnimatedText({ children, className }: AnimatedProps) {
   return (
     <motion.div
-      initial={{ opacity: 0, x: -20 }}
-      whileInView={{ opacity: 1, x: 0 }}
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{
         duration: 0.5,
@@ -70,11 +70,11 @@ export function AnimatedText({ children, className }: AnimatedProps) {
 export function AnimatedTitle({ children, className }: AnimatedProps) {
   return (
     <motion.h2
-      initial={{ opacity: 0, x: -30 }}
-      whileInView={{ opacity: 1, x: 0 }}
+      initial={{ opacity: 0, y: 30 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{
-        duration: 0.6,
+        duration: 0.5,
         type: "spring",
         damping: 20,
         stiffness: 100,
@@ -90,16 +90,11 @@ export function AnimatedTitle({ children, className }: AnimatedProps) {
 export function AnimatedListItem({ children, className }: AnimatedProps) {
   return (
     <motion.div
-      initial={{ opacity: 0, x: -30 }}
-      whileInView={{ opacity: 1, x: 0 }}
+      initial={{ opacity: 0, y: 30 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-50px" }}
-      transition={{
-        duration: 0.5,
-        type: "spring",
-        damping: 20,
-        stiffness: 100,
-      }}
-      whileHover={{ scale: 1.02 }}
+       whileHover={{ scale: 1.02 }}
+      transition={{ type: "spring", stiffness: 400, damping: 17 }}
       whileTap={{ scale: 0.98 }}
       className={className}
     >

@@ -13,14 +13,15 @@ const ProjectCard = ({
   homepage,
   forks,
 }: Project) => {
-  const previewUrl = `https://api.microlink.io?url=${encodeURIComponent(homepage || url)}&screenshot=true&embed=screenshot.url`;
+  const previewUrl = homepage ? `https://api.microlink.io?url=${encodeURIComponent(homepage)}&screenshot=true&embed=screenshot.url` :
+    `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`;
 
   return (
     <div className="bg-white rounded-xl border-1 border-black border-b-4">
       <img
         src={previewUrl}
         alt={name}
-        className="w-full h-40 object-cover rounded-t-xl  mb-4"
+        className="w-full h-47 object-cover rounded-t-xl  mb-4"
       />
 
       <div className="p-6 pt-1">

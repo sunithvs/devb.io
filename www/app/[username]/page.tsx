@@ -122,10 +122,10 @@ export default function Page({
         {!user ? (
           <ProfileSkeleton />
         ) : (
-          <AnimatedSection className="rounded-xl border-[1px] border-black bg-white overflow-hidden w-full max-w-md lg:max-w-none">
+          <AnimatedSection className="rounded-xl border-[1px] border-black bg-white overflow-hidden w-full max-w-md lg:max-w-none border-b-6">
             <div className="h-28 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
               <div className="absolute left-1/2 lg:left-8 bottom-0 translate-x-[-50%] lg:translate-x-0 translate-y-1/2">
-                <div className="bg-[#AFE555] rounded-[19px] w-32 h-32 flex items-center justify-center">
+                <div className="bg-[#AFE555] rounded-[19px] w-32 h-32 flex items-center justify-center border-7 border-white">
                   <Image
                     src={user.avatar_url}
                     alt={user?.name}
@@ -161,7 +161,7 @@ export default function Page({
                       target="_blank"
                       rel="noopener noreferrer"
                       title="GitHub"
-                      className="w-full h-full flex items-center justify-center"
+                      className="w-full h-full flex items-center justify-center "
                     >
                       <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
                         <Github
@@ -194,7 +194,7 @@ export default function Page({
                           target="_blank"
                           rel="noopener noreferrer"
                           title={tooltipText}
-                          className="w-full h-full flex items-center justify-center"
+                          className="w-full h-full flex items-center justify-center "
                         >
                           {account.url.includes("devb.io") ? (
                             <Image
@@ -242,7 +242,7 @@ export default function Page({
                       style={{ height: "100px" }}
                     >
                       <img
-                        className="absolute top-[30%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
+                        className="absolute top-[32%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
                         src={`https://ghchart.rshah.org/5F8417/${user.username}`}
                         alt={`${user.name}'s GitHub contributions`}
                         style={{

@@ -19,7 +19,6 @@ import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
 import Badge from "@/app/components/Badge";
 import {
   AnimatedCard,
-  AnimatedListItem,
   AnimatedPage,
   AnimatedSection,
   AnimatedText,

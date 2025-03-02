@@ -25,7 +25,7 @@ const AnimatedTimelineCard = ({
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 0.2 }}
-            className="w-8 h-8 flex items-center justify-center bg-white rounded-lg border-2 border-black"
+            className="w-8 h-8 flex items-center justify-center bg-white rounded-lg border-1 border-black"
           >
             <span className="text-lg">{logo}</span>
           </motion.div>

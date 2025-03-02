@@ -36,7 +36,10 @@ jobs:
         run: |
           source .venv/bin/activate  # Activate the uv-created virtual environment
           pytest --cov=.  # Run pytest directly, generating coverage for the entire project
-
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          API_KEYS: ${{ secrets.API_KEYS }}
       # Step 4: Generate a coverage report
       - name: Generate coverage report
         run: |

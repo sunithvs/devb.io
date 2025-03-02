@@ -1,0 +1,159 @@
+{
+    "username": "haideralipunjabi",
+    "name": "Haider Ali Punjabi",
+    "bio": "25 year old programmer. Usually makes Static Websites + CI, Python Scripts, Apps, etc\r\nPursuing Masters in Computer Applications.",
+    "location": "Srinagar, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/11888687?u=4a143bf2660a0db2c6f902d446294857bad1a4bb&v=4",
+    "profile_url": "https://github.com/haideralipunjabi",
+    "top_languages": [
+        [
+            "Python",
+            27
+        ],
+        [
+            "C",
+            2
+        ],
+        [
+            "TypeScript",
+            7
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "polybar-kdeconnect",
+            "description": "KDEConnect module for Polybar",
+            "score": 24.16986924351734,
+            "stars": 167,
+            "forks": 11,
+            "language": "Shell",
+            "url": "https://github.com/haideralipunjabi/polybar-kdeconnect",
+            "updatedAt": "2025-02-12T17:18:25Z",
+            "isPinned": true,
+            "homepage": "https://blog.haideralipunjabi.com/posts/making-modules-for-polybar-shell-python/"
+        },
+        {
+            "name": "atom-icons",
+            "description": " Custom Atom Editor Icons",
+            "score": 22.24748558514746,
+            "stars": 34,
+            "forks": 26,
+            "language": "Python",
+            "url": "https://github.com/haideralipunjabi/atom-icons",
+            "updatedAt": "2024-04-07T12:56:40Z",
+            "isPinned": true,
+            "homepage": "https://atomicons.hackesta.org/"
+        },
+        {
+            "name": "polybar-browsermediacontrol",
+            "description": "Browser Media Control module for Polybar",
+            "score": 20.97815611848095,
+            "stars": 50,
+            "forks": 6,
+            "language": "Python",
+            "url": "https://github.com/haideralipunjabi/polybar-browsermediacontrol",
+            "updatedAt": "2024-12-08T22:31:41Z",
+            "isPinned": true,
+            "homepage": "https://blog.haideralipunjabi.com/posts/making-modules-for-polybar-shell-python/"
+        },
+        {
+            "name": "covid19kashmir",
+            "description": null,
+            "score": 19.476118877957106,
+            "stars": 18,
+            "forks": 9,
+            "language": "HTML",
+            "url": "https://github.com/haideralipunjabi/covid19kashmir",
+            "updatedAt": "2023-06-19T08:26:43Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "cli-badges",
+            "description": "Quirky little python package for generating badges for your cli apps.",
+            "score": 17.67990862001426,
+            "stars": 24,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/haideralipunjabi/cli-badges",
+            "updatedAt": "2024-10-29T23:36:07Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "polybar-qbittorrent",
+            "description": "qBittorrent Module for Polybar",
+            "score": 16.638671721409665,
+            "stars": 24,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/haideralipunjabi/polybar-qbittorrent",
+            "updatedAt": "2025-01-08T08:06:56Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DBSScouterFont",
+            "description": "Scouter Language Font as seen in Dragon Ball Super: Broly",
+            "score": 9.685578298431022,
+            "stars": 29,
+            "forks": 5,
+            "language": null,
+            "url": "https://github.com/haideralipunjabi/DBSScouterFont",
+            "updatedAt": "2024-10-06T18:25:44Z",
+            "isPinned": false,
+            "homepage": "https://blog.haideralipunjabi.com/posts/dragon-ball-scouter-font/"
+        },
+        {
+            "name": "polybar-speedtest",
+            "description": "speedtest.net module for Polybar",
+            "score": 9.486285457262078,
+            "stars": 27,
+            "forks": 5,
+            "language": "Python",
+            "url": "https://github.com/haideralipunjabi/polybar-speedtest",
+            "updatedAt": "2023-06-25T22:35:18Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 112,
+    "following": 68,
+    "public_repos": 164,
+    "pull_requests_merged": 1,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 232,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/HAliPunjabi"
+        },
+        {
+            "provider": "bluesky",
+            "url": "https://bsky.app/profile/haider.bsky.social"
+        }
+    ],
+    "readme_content": "# Haider Ali Punjabi\n\n![header](https://raw.githubusercontent.com/haideralipunjabi/haideralipunjabi/master/header.png)\n\n<p align=\"center\">\n  <i>Let's connect and chat! Find me on the web...</i>\n  \n   [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/haideralipunjabi)](https://dev.to/haideralipunjabi) \n   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haideralipunjabi/)](https://www.linkedin.com/in/haideralipunjabi/) \n   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@haideralipunjabi)](https://medium.com/@haideralipunjabi) \n   [![Mail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&link=mailto:haideralipunjabi@hackesta.org)](mailto:haideralipunjabi@hackesta.org)\n   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/haideralipunjabi/)](https://instagram.com/haideralipunjabi) \n   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HAliPunjabi)](https://twitter.com/HAliPunjabi)\n\n<h2> \ud835\udc07\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc28 \ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc1e, \ud835\udc1f\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc28\ud835\udc30 <\ud835\ude8c\ud835\ude98\ud835\ude8d\ud835\ude8e\ud835\ude9b\ud835\ude9c/>! <img src=\"https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif\" width=\"30px\"></h2>\n\n- Primary coding language: Python, JS and Flutter.\n- I make web apps about stuff I am interested in.\n- Ask me about anything, I'll be happy to help.\n- From Kashmir\n\n### My Digital Garden \ud83c\udf31\n\nI write regular blog posts which you will find on [my blog](https://blog.haideralipunjabi.com), [dev.to](https://dev.to/haideralipunjabi) & [Medium](https://medium.com/@haideralipunjabi).\n\n\n\n- [Display the time you spent coding in your status bar - WakaTime and Polybar](https://blog.haideralipunjabi.com/posts/displaying-the-time-you-spent-coding-in-your-status-bar-wakatime-and-bash/)\n  \n\n- [Creating a secure Wordle using Serverless Functions](https://blog.haideralipunjabi.com/posts/creating-a-secure-wordle-using-next.js-api-routes-and-vercel-serverless-functions/)\n  \n\n- [Dynamic Twitter Header using Python](https://blog.haideralipunjabi.com/posts/dynamic-twitter-header-using-python/)\n  \n\n- [Analysing YouTube Comments \u2014 Stuff Made Here](https://blog.haideralipunjabi.com/posts/analysing-youtube-comments-stuff-made-here/)\n  \n\n- [Testing PWAs on mobile devices during development](https://blog.haideralipunjabi.com/posts/testing-pwas-on-mobile-devices-during-development/)\n  \n\n<h3 align=\"center\">Show some &nbsp;\u2764\ufe0f&nbsp; by starring some of the repositories!</h3>\n",
+    "activity_summary": {
+        "haideralipunjabi/iftarkar2024": {
+            "link": "https://github.com/haideralipunjabi/iftarkar2024",
+            "summary": "Recent activities involved upgrading TailwindCSS to version 4, updating configurations and styles, and fixing lint issues. Additionally, caniuse-lite was updated and GTM was replaced with analytics."
+        },
+        "haideralipunjabi/bluesky-hugfairy": {
+            "link": "https://github.com/haideralipunjabi/bluesky-hugfairy",
+            "summary": "Recent activities focused on fixing lint issues, adding product hunt, and addressing various style and typography fixes. Paid hugs were also added."
+        },
+        "haideralipunjabi/adhan-dart": {
+            "link": "https://github.com/haideralipunjabi/adhan-dart",
+            "summary": "Recent activities included fixing typos and adding Wifaqul Ulama times."
+        },
+        "haideralipunjabi/jkmeeqat-backend": {
+            "link": "https://github.com/haideralipunjabi/jkmeeqat-backend",
+            "summary": "Recent activity involved improving the README."
+        }
+    },
+    "profile_summary": "As a dedicated programmer with a strong background in Python, C, and TypeScript, I specialize in crafting efficient solutions for various projects, from static websites and CI pipelines to mobile applications. With a keen interest in web development and a continuous flow of 164 public repositories, I actively contribute to the tech community, fostering connections with fellow developers and sharing knowledge through my blog and social media channels. As I pursue my Master's in Computer Applications, I am committed to refining my skills and exploring innovative ideas."
+}

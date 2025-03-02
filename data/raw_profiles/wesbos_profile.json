@@ -1,0 +1,138 @@
+{
+    "username": "wesbos",
+    "name": "Wes Bos",
+    "bio": "I create courses that make learning things like JavaScript easy and fun \ud83d\udd25",
+    "location": "Hamilton, Ontario",
+    "avatar_url": "https://avatars.githubusercontent.com/u/176013?u=1d436e62dc32dbbf1bfefb4d658cd67553154c42&v=4",
+    "profile_url": "https://github.com/wesbos",
+    "top_languages": [
+        [
+            "TypeScript",
+            27
+        ],
+        [
+            "JavaScript",
+            75
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "JavaScript30",
+            "description": "30 Day Vanilla JS Challenge",
+            "score": 46.530158971530525,
+            "stars": 28152,
+            "forks": 38871,
+            "language": "HTML",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "updatedAt": "2025-03-01T16:40:07Z",
+            "isPinned": true,
+            "homepage": "https://JavaScript30.com"
+        },
+        {
+            "name": "beginner-javascript",
+            "description": "Slam Dunk JavaScript",
+            "score": 38.94394313916165,
+            "stars": 6690,
+            "forks": 1669,
+            "language": "HTML",
+            "url": "https://github.com/wesbos/beginner-javascript",
+            "updatedAt": "2025-03-02T09:33:04Z",
+            "isPinned": true,
+            "homepage": "https://BeginnerJavaScript.com"
+        },
+        {
+            "name": "Advanced-React",
+            "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL ",
+            "score": 38.229027193072994,
+            "stars": 3550,
+            "forks": 2423,
+            "language": "JavaScript",
+            "url": "https://github.com/wesbos/Advanced-React",
+            "updatedAt": "2025-02-26T04:31:13Z",
+            "isPinned": true,
+            "homepage": "https://AdvancedReact.com"
+        },
+        {
+            "name": "React-For-Beginners-Starter-Files",
+            "description": "Starter files for learning React.js with React for Beginners",
+            "score": 37.890956638883225,
+            "stars": 2893,
+            "forks": 2549,
+            "language": "JavaScript",
+            "url": "https://github.com/wesbos/React-For-Beginners-Starter-Files",
+            "updatedAt": "2025-03-01T19:13:39Z",
+            "isPinned": true,
+            "homepage": " https://ReactForBeginners.com"
+        },
+        {
+            "name": "dad-jokes",
+            "description": "dad jokes",
+            "score": 34.53495626304692,
+            "stars": 2673,
+            "forks": 302,
+            "language": null,
+            "url": "https://github.com/wesbos/dad-jokes",
+            "updatedAt": "2025-02-28T03:01:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "awesome-uses",
+            "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+            "score": 27.960218245990834,
+            "stars": 4629,
+            "forks": 1422,
+            "language": "JavaScript",
+            "url": "https://github.com/wesbos/awesome-uses",
+            "updatedAt": "2025-02-28T04:08:56Z",
+            "isPinned": false,
+            "homepage": "https://uses.tech"
+        },
+        {
+            "name": "css-grid",
+            "description": "Starter Files + Solutions to my CSSGrid.io Course",
+            "score": 27.442293093727912,
+            "stars": 2104,
+            "forks": 2878,
+            "language": "HTML",
+            "url": "https://github.com/wesbos/css-grid",
+            "updatedAt": "2025-03-01T20:14:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "es6.io",
+            "description": "\ud83d\udd25 Starter Files to Learn with ES6 for Everyone",
+            "score": 26.00603444409208,
+            "stars": 2049,
+            "forks": 1147,
+            "language": "HTML",
+            "url": "https://github.com/wesbos/es6.io",
+            "updatedAt": "2025-02-02T14:04:57Z",
+            "isPinned": false,
+            "homepage": "https://ES6.io"
+        }
+    ],
+    "followers": 34134,
+    "following": 31,
+    "public_repos": 398,
+    "pull_requests_merged": 53,
+    "issues_closed": 56,
+    "achievements": {
+        "total_contributions": 576,
+        "repositories_contributed_to": 43
+    },
+    "social_accounts": [],
+    "readme_content": "# wes bos dot com\n\n![](https://pbs.twimg.com/media/EWIx4y0UYAA7HxO?format=jpg&name=large)\nThis is the codebase behind [wesbos.com](https://wesbos.com)\n",
+    "activity_summary": {
+        "wesbos/wesbos": {
+            "link": "https://github.com/wesbos/wesbos",
+            "summary": "The main wesbos repository has had significant activity recently with 20 pushes, including updates to environment variables, debug requests, a custom 404 page, and fixes to several issues such as #410, #427, and #436."
+        }
+    },
+    "profile_summary": "As a seasoned developer and instructor, I leverage my expertise in TypeScript, JavaScript, and C to create innovative solutions and educational resources. With over 398 projects hosted on GitHub and a following of 34,134 professionals, I've established myself as a trusted source for technical guidance. Through my courses and website, wesbos.com, I aim to simplify complex concepts and make learning enjoyable."
+}

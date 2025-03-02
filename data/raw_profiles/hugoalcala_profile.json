@@ -1,0 +1,90 @@
+{
+    "username": "hugoalcala",
+    "name": "hugoalcala",
+    "bio": null,
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/125819614?u=5166bfa3ca4a1b0125b6a8299d37cd14a307d9c2&v=4",
+    "profile_url": "https://github.com/hugoalcala",
+    "top_languages": [
+        [
+            "C++",
+            1
+        ],
+        [
+            "Java",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "psp-cpp",
+            "description": null,
+            "score": 1.7266836429946593,
+            "stars": 1,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/hugoalcala/psp-cpp",
+            "updatedAt": "2025-02-20T13:57:54Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ProyectoXML",
+            "description": null,
+            "score": 1.7257499181620255,
+            "stars": 1,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/hugoalcala/ProyectoXML",
+            "updatedAt": "2024-12-17T09:55:21Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ProyectoHibernate",
+            "description": null,
+            "score": 0.42899950125401154,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/hugoalcala/ProyectoHibernate",
+            "updatedAt": "2025-02-04T15:43:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "hugoalcala",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.4218996210940925,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/hugoalcala/hugoalcala",
+            "updatedAt": "2025-01-26T19:32:16Z",
+            "isPinned": false,
+            "homepage": "https://github.com/hugoalcala"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 4,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 20,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "About Me \ud83d\udc4b\nHi there! I'm a passionate developer with experience in PHP, Kotlin, Java, and MongoDB. I enjoy building robust applications, optimizing database structures, and creating efficient back-end systems.\n\n\ud83d\udcbb Tech Stack:\nLanguages: PHP, Kotlin, Java, JavaScript\nDatabases: MySQL, MongoDB\nTools & Frameworks: Android Studio, Visual Studio Code, Firebase\nDevelopment Areas: Development, CRUD operations, \n\ud83d\ude80 Current Projects:\nImplementing a management system in PHP \nBuilding a MongoDB CRUD system in Java\nIntegrating Firebase into Android applications\n\ud83c\udf31 Always Learning:\nI'm constantly expanding my knowledge in modern technologies and best practices in software development. Currently, I'm exploring advanced database optimization and cloud services.\n\n\ud83d\udceb Feel free to connect with me or check out my projects!\n\n",
+    "activity_summary": {
+        "hugoalcala/ProyectoHibernate": {
+            "link": "https://github.com/hugoalcala/ProyectoHibernate",
+            "summary": "Recent activities in Hugo Alcala's ProyectoHibernate repository include adding data for teams and players in the database tables through two PushEvents on February 3 and 4, 2025."
+        },
+        "hugoalcala/psp-cpp": {
+            "link": "https://github.com/hugoalcala/psp-cpp",
+            "summary": "PushEvent activities in psp-cpp repository occurred on February 20, 2025, with a message indicating updates on the 4th and 20th of February."
+        }
+    },
+    "profile_summary": "As a seasoned developer, I specialize in designing and building scalable applications using C++ and Java, with a strong focus on optimizing database structures for improved performance. With hands-on experience in a wide range of tools and technologies, including PHP, Kotlin, MongoDB, and Firebase, I excel at crafting efficient back-end systems and refining complex development tasks."
+}

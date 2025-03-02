@@ -17,11 +17,11 @@ const ProjectCard = ({
     `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`;
 
   return (
-    <div className="bg-white rounded-xl border-1 border-black border-b-4 h-full flex flex-col">
+    <div className="bg-white rounded-xl border-1 border-black border-b-4 w-full h-full flex flex-col">
       <img
         src={previewUrl}
         alt={name}
-        className="w-full h-47 object-cover rounded-t-xl"
+        className="w-full object-cover rounded-t-xl aspect-[2/1]"
       />
 
       <div className="p-6 pt-1 flex flex-col flex-1">

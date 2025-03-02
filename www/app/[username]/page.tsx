@@ -368,12 +368,19 @@ export default function Page({
           {!userProjects ? (
             <ProjectListSkeleton />
           ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 auto-rows-fr">
-              {userProjects?.top_projects?.map((project, index) => (
-                <div key={project.name} className="h-full">
-                  <ProjectCard {...project} />
-                </div>
-              ))}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {userProjects?.top_projects?.map((project, index, arr) => {
+                // For desktop view, apply h-full to cards in pairs
+                const isInPair = index % 2 === 0 && index + 1 < arr.length;
+                const nextInPair = index % 2 === 1;
+                const heightClass = (isInPair || nextInPair) ? "h-full" : "";
+                
+                return (
+                  <div key={project.name} className={heightClass}>
+                    <ProjectCard {...project} />
+                  </div>
+                );
+              })}
             </div>
           )}
         </AnimatedSection>

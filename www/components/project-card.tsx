@@ -21,7 +21,7 @@ const ProjectCard = ({
       <img
         src={previewUrl}
         alt={name}
-        className="w-full h-47 object-cover rounded-t-xl  mb-4"
+        className="w-full h-47 object-cover rounded-t-xl"
       />
 
       <div className="p-6 pt-1">

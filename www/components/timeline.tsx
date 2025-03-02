@@ -28,7 +28,7 @@ const Timeline: React.FC<TimelineProps> = ({
   return (
     <div className="relative">
       {/* Continuous timeline line */}
-      <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-black"></div>
+      <div className="absolute left-[15] top-0 bottom-0 w-0.5 bg-black"></div>
 
       <div className="space-y-6">
         {items.map((item, index) => (

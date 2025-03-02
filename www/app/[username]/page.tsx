@@ -368,11 +368,11 @@ export default function Page({
           {!userProjects ? (
             <ProjectListSkeleton />
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 auto-rows-fr">
               {userProjects?.top_projects?.map((project, index) => (
-                <AnimatedListItem key={project.name} index={index}>
+                <div key={project.name} className="h-full">
                   <ProjectCard {...project} />
-                </AnimatedListItem>
+                </div>
               ))}
             </div>
           )}

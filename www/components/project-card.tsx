@@ -17,22 +17,20 @@ const ProjectCard = ({
     `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`;
 
   return (
-    <div className="bg-white rounded-xl border-1 border-black border-b-4">
+    <div className="bg-white rounded-xl border-1 border-black border-b-4 h-full flex flex-col">
       <img
         src={previewUrl}
         alt={name}
         className="w-full h-47 object-cover rounded-t-xl"
       />
 
-      <div className="p-6 pt-1">
-        <div className="flex items-start justify-between mb-4">
-          <div>
-            <h3 className="font-bold text-lg mb-2">{name}</h3>
-            <p className="text-gray-600 text-sm mb-4">{description}</p>
-          </div>
+      <div className="p-6 pt-1 flex flex-col flex-1">
+        <div className="flex-1">
+          <h3 className="font-bold text-lg mb-2">{name}</h3>
+          <p className="text-gray-600 text-sm">{description}</p>
         </div>
 
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between mt-6">
           <div className="flex items-center gap-3">
             {language && <Badge label={language} />}
 

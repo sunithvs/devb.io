@@ -1,0 +1,64 @@
+{
+    "username": "urukais",
+    "name": "Urukais",
+    "bio": "El universo\r\nTeor\u00eda de la relatividad especial",
+    "location": "Reus Tarragona",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44548135?u=87b300415eb66b1c1072d60837f297b022317803&v=4",
+    "profile_url": "https://github.com/Urukais",
+    "top_languages": [
+        [
+            "HTML",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "la-papa-suprema",
+            "description": "Teor\u00eda de la relatividad especial",
+            "score": 0.06454333794050848,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Urukais/la-papa-suprema",
+            "updatedAt": "2018-11-01T22:33:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "El-ser",
+            "description": "El Pensamiento Cr\u00edtico se apoya en la formulaci\u00f3n de lo que se llama criterios de verdad. Un criterio de verdad es aquella caracter\u00edstica o procedimiento por el cual podemos distinguir la verdad de la falsedad y estar \u201cseguros\u201d del valor de un enunciado. El criterio implica el requisito o requisitos que podemos utilizar para la valoraci\u00f3n de una declaraci\u00f3n. ",
+            "score": 0.06452895136037065,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Urukais/El-ser",
+            "updatedAt": "2018-10-28T14:07:52Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "github-slideshow",
+            "description": "A robot powered training repository :robot:",
+            "score": 0.06452895136037065,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Urukais/github-slideshow",
+            "updatedAt": "2018-10-28T14:19:08Z",
+            "isPinned": false,
+            "homepage": "https://lab.github.com/githubtraining/introduction-to-github"
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 3,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a full-stack HTML developer, I leverage my expertise in front-end development to craft visually stunning web experiences. With a strong foundation in HTML, I skillfully bring together the building blocks of the web to create intuitive and engaging user interfaces. Profoundly interested in theoretical models like Einstein's special theory of relativity, I approach web development with a unique blend of creativity and analytical thinking."
+}

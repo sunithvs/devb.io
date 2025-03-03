@@ -1,0 +1,138 @@
+{
+    "username": "yusadankamu",
+    "name": "I Wayan Dirgayusa",
+    "bio": "Code is a poet",
+    "location": "Denpasar, Bali",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94118376?u=45f82e9338bc7e9aa067eefe8d866ef05e3faa57&v=4",
+    "profile_url": "https://github.com/yusadankamu",
+    "top_languages": [
+        [
+            "TypeScript",
+            11
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "CSS",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "kopige",
+            "description": "Imaginary Landing Page for Coffeeshop in Bali called Kopige Republik",
+            "score": 10.355491707755371,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/kopige",
+            "updatedAt": "2024-12-25T20:49:38Z",
+            "isPinned": true,
+            "homepage": "https://kopigerepublik.vercel.app/"
+        },
+        {
+            "name": "pram-tour",
+            "description": "Imaginary Landing Page for Tourism Company in Bali",
+            "score": 10.355491707755371,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yusadankamu/pram-tour",
+            "updatedAt": "2024-12-31T20:05:39Z",
+            "isPinned": true,
+            "homepage": "https://yusadankamu.github.io/pram-tour/"
+        },
+        {
+            "name": "manggala-putra",
+            "description": "Landing page for imaginary Architect Biro called Manggala Putra",
+            "score": 10.347424233849575,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/manggala-putra",
+            "updatedAt": "2024-12-25T21:08:56Z",
+            "isPinned": true,
+            "homepage": "https://manggala-putra.vercel.app/"
+        },
+        {
+            "name": "wanda81",
+            "description": null,
+            "score": 10.25532215931037,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/yusadankamu/wanda81",
+            "updatedAt": "2024-12-31T20:10:21Z",
+            "isPinned": true,
+            "homepage": "https://yusadankamu.github.io/wanda81/"
+        },
+        {
+            "name": "ruangtengah",
+            "description": "The landing page reflects the essence of Ruang Tengah with a clean, modern, and minimalistic aesthetic. Using the power of Vite.js, the page is optimized for lightning-fast performance while delivering an immersive user experience.",
+            "score": 2.5666423960579605,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/ruangtengah",
+            "updatedAt": "2025-01-10T06:53:48Z",
+            "isPinned": false,
+            "homepage": "https://ruangtengah.vercel.app/"
+        },
+        {
+            "name": "yusafolio",
+            "description": "A simple portfolio web app made by vite.js ",
+            "score": 1.0820212806667224,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/yusafolio",
+            "updatedAt": "2025-02-27T19:25:42Z",
+            "isPinned": false,
+            "homepage": "https://yusafolio.vercel.app/"
+        },
+        {
+            "name": "kopigepos",
+            "description": "A modern cafe management system with sleek dashboard, diverse payment options, and seamless order tracking.",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/kopigepos",
+            "updatedAt": "2025-02-09T14:02:26Z",
+            "isPinned": false,
+            "homepage": "https://kopigepos.vercel.app"
+        },
+        {
+            "name": "villakumbahms",
+            "description": "The villa management system for villa in Bali called Villa Kumba",
+            "score": 0.4454613065600551,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/yusadankamu/villakumbahms",
+            "updatedAt": "2025-02-03T08:09:37Z",
+            "isPinned": false,
+            "homepage": "https://villakumbahms.vercel.app"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 25,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 94,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/yusadankamu"
+        }
+    ],
+    "readme_content": "# \ud83d\ude80 I Wayan Dirgayusa\n\n<div align=\"center\">\n  \n  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=50&animation=fadeIn)\n\n</div>\n\n## \ud83c\udf1f About Me\n\n```javascript\nconst developer = {\n  name: 'I Wayan Dirgayusa',\n  role: 'UI/UX Designer & Developer',\n  currentFocus: ['CSS', 'HTML', 'PHP'],\n  passions: ['Coding', 'UI/UX Design'],\n  status: 'Learning and Growing \ud83c\udf31'\n};\n```\n\n## \ud83c\udfaf What I Do\n\n- \ud83c\udfa8 **UI/UX Design**: Crafting beautiful and intuitive user experiences\n- \ud83d\udcbb **Web Development**: Building the web, one line of code at a time\n- \ud83d\udd2e **Learning**: Always expanding my knowledge in modern web technologies\n\n## \ud83d\udee0\ufe0f Tech Stack\n\n<div align=\"center\">\n\n![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)\n![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)\n\n</div>\n\n## \ud83e\udd1d Let's Connect!\n\n<div align=\"center\">\n  \n[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enamsatutiga@gmail.com)\n\n</div>\n\n## \ud83d\udcc8 GitHub Stats\n\n<div align=\"center\">\n  \n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusadankamu&show_icons=true&theme=radical)\n\n</div>\n\n---\n\n<div align=\"center\">\n  \n### \ud83d\udcab \"Designing tomorrow's experiences, today\"\n\n![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)\n\n</div>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

@@ -24,7 +24,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           icon: <Linkedin size={32} className="text-[#0077B5]" />,
           title: "LinkedIn",
           description: "Display your professional experience and achievements",
-          color: "bg-blue-50",
+          color: "bg-blue-100",
           status: "New"
         };
       case "medium":
@@ -32,7 +32,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           icon: <BookOpen size={32} className="text-black" />,
           title: "Medium",
           description: "Share your technical articles and blog posts",
-          color: "bg-gray-50",
+          color: "bg-orange-100",
           status: "New"
         };
       case "more":
@@ -40,7 +40,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           icon: <Plus size={32} className="text-gray-600" />,
           title: "More Coming Soon",
           description: "We're constantly adding new integrations",
-          color: "bg-gray-50",
+          color: "bg-green-100",
           status: "Coming Soon"
         };
     }
@@ -55,7 +55,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
       transition={{ duration: 0.5, delay: index * 0.1 }}
       viewport={{ once: true }}
       whileHover={{ scale: 1.02 }}
-      className={`${details.color} rounded-2xl p-6 transition-shadow hover:shadow-lg`}
+      className={`${details.color} shadow-lg rounded-2xl p-6 transition-shadow hover:shadow-lg`}
     >
       <div className="flex items-start justify-between mb-4">
         <div className="p-3 bg-white rounded-xl shadow-sm">

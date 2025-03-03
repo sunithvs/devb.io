@@ -1,0 +1,150 @@
+{
+    "username": "rsb-23",
+    "name": "Mr. RB",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/57601627?u=c09e07f63077ba5ee49a925c26e38ed1fe50f90d&v=4",
+    "profile_url": "https://github.com/rsb-23",
+    "top_languages": [
+        [
+            "Python",
+            7
+        ],
+        [
+            "JavaScript",
+            3
+        ],
+        [
+            "Batchfile",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Ek-Cup-Tcha",
+            "description": "Captcha solver extension",
+            "score": 13.106765936975826,
+            "stars": 3,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/rsb-23/Ek-Cup-Tcha",
+            "updatedAt": "2025-01-14T18:04:12Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "right-to-be-forgotten",
+            "description": "\u201cRight to be Forgotten\u201d is a right to have private information removed from the internet search engine, database, websites or other public platforms.",
+            "score": 13.060828167382112,
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rsb-23/right-to-be-forgotten",
+            "updatedAt": "2025-01-18T14:27:20Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "digital-literacy",
+            "description": "A quick guide to invoke digital literacy among people and secure their digital life.",
+            "score": 12.412093330594818,
+            "stars": 2,
+            "forks": 0,
+            "language": "Batchfile",
+            "url": "https://github.com/rsb-23/digital-literacy",
+            "updatedAt": "2024-12-13T20:30:48Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "1page-automation",
+            "description": "Simple browser-based automation using 1-page python scripts",
+            "score": 12.409960677887856,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/1page-automation",
+            "updatedAt": "2024-09-27T16:35:09Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "text-linter",
+            "description": "Github action to check typos in diff",
+            "score": 11.717230284813532,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/text-linter",
+            "updatedAt": "2025-01-22T18:10:26Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "infotainer",
+            "description": null,
+            "score": 11.66393448174471,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/rsb-23/infotainer",
+            "updatedAt": "2024-12-26T13:41:59Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "high-on-ai",
+            "description": null,
+            "score": 2.5182292734503946,
+            "stars": 2,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rsb-23/high-on-ai",
+            "updatedAt": "2025-01-05T08:17:31Z",
+            "isPinned": false,
+            "homepage": "https://high-on-ai.tchh.in/"
+        },
+        {
+            "name": "rsb-23",
+            "description": null,
+            "score": 2.479802639617133,
+            "stars": 2,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rsb-23/rsb-23",
+            "updatedAt": "2024-12-26T13:44:20Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 1,
+    "following": 3,
+    "public_repos": 27,
+    "pull_requests_merged": 23,
+    "issues_closed": 3,
+    "achievements": {
+        "total_contributions": 274,
+        "repositories_contributed_to": 10
+    },
+    "social_accounts": [],
+    "readme_content": "## Hi there \ud83d\udc4b\n\nI'm just too passionate to code. \ud83d\ude0e  \nSo, lets automate the whole world - one script at a time \ud83d\ude1c\n\n| | |\n|---|---|\n|**Profile** | https://devb.io/rsb-23  |\n|**Projects** | https://projects.tchh.in|\n|**Gists** | https://gist.github.com/rsb-23|\n\n### Special Mentions:\n1. [High-on-AI](https://high-on-ai.tchh.in) : Surreal Image Gallery\n",
+    "activity_summary": {
+        "rsb-23/yuhi": {
+            "link": "https://github.com/rsb-23/yuhi",
+            "summary": "Recently, significant activity focused on enhancing the pre-commit integration, adding a lint workflow, and updating the README badge. Minor fixes and documentation improvements were also implemented across multiple pushes."
+        },
+        "rsb-23/high-on-ai": {
+            "link": "https://github.com/rsb-23/high-on-ai",
+            "summary": "A painter commit squash with added meta tags was the recent activity observed in high-on-ai repository."
+        },
+        "rsb-23/misc": {
+            "link": "https://github.com/rsb-23/misc",
+            "summary": "A singular push event introduced 'talmud' into the misc repository with no other notable activities detected."
+        },
+        "rsb-23/vobject-poc": {
+            "link": "https://github.com/rsb-23/vobject-poc",
+            "summary": "An iCalendar conversion from icsDiff was the last observed activity in the vobject-poc repository on February 17, 2025."
+        }
+    },
+    "profile_summary": "As a software engineer, I specialize in creating scalable solutions with Python and tackling complex browser-side challenges with JavaScript. \nIn addition to coding, I leverage my experience with batch files to drive automation across various systems. \nYou can also find my journey in programming through a multitude of automated projects on various platforms including public repositories on GitHub and other digital showcases. \nWhen I'm not writing code, I enjoy bringing surreal projects to life like High-on-AI, a surreal image gallery that showcases my passion to code."
+}

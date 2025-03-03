@@ -1,0 +1,134 @@
+{
+    "username": "ajeethcs",
+    "name": "ajeethcs",
+    "bio": "Backend Developer | Node js | MongoDB | JavaScript | Microservices |",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/78351897?u=2a7133d3e4401f2ac14104cb8b85fac71621c2f9&v=4",
+    "profile_url": "https://github.com/ajeethcs",
+    "top_languages": [
+        [
+            "JavaScript",
+            6
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "widget-dnd",
+            "description": null,
+            "score": 0.603644406572767,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajeethcs/widget-dnd",
+            "updatedAt": "2025-02-19T07:12:42Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "streamly",
+            "description": "movie platform",
+            "score": 0.35189130858241585,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajeethcs/streamly",
+            "updatedAt": "2024-12-22T17:41:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "weather-app",
+            "description": "see your current weather conditions",
+            "score": 0.15225154352424916,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajeethcs/weather-app",
+            "updatedAt": "2023-03-22T11:12:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Airbnb",
+            "description": null,
+            "score": 0.14228391284271702,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/ajeethcs/Airbnb",
+            "updatedAt": "2023-12-14T07:22:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "crowdcoin",
+            "description": "crowdfunding dapp",
+            "score": 0.07345563896597997,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajeethcs/crowdcoin",
+            "updatedAt": "2022-09-11T16:29:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Chat-app",
+            "description": "real time chat app",
+            "score": 0.07239289883950897,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajeethcs/Chat-app",
+            "updatedAt": "2022-06-08T13:10:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "spotify",
+            "description": null,
+            "score": 0.07118695320013577,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ajeethcs/spotify",
+            "updatedAt": "2022-02-04T05:23:58Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ajeethcs",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07108829729765102,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ajeethcs/ajeethcs",
+            "updatedAt": "2022-01-25T04:14:09Z",
+            "isPinned": false,
+            "homepage": "https://github.com/ajeethcs"
+        }
+    ],
+    "followers": 0,
+    "following": 1,
+    "public_repos": 9,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 11,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @ajeethcs\n- \ud83d\udc40 I\u2019m interested in web development\n- \ud83c\udf31 I\u2019m currently learning react js\n- \ud83d\udc9e\ufe0f I\u2019m looking to collaborate on various react projects\n- \ud83d\udceb How to reach me ajeethcs18@gmail.com\n\n<!---\najeethcs/ajeethcs is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {
+        "ajeethcs/widget-dnd": {
+            "link": "https://github.com/ajeethcs/widget-dnd",
+            "summary": "The 'widget-dnd' repository recently experienced a significant activity on February 24, 2025, indicating that additional components were added via a PushEvent at 12:36 PM."
+        }
+    },
+    "profile_summary": "Here's a concise and SEO-optimized first-person profile description that incorporates unique details from the profile:\n\nAs a knowledgeable and experienced backend developer with expertise in JavaScript and TypeScript, I develop scalable, efficient solutions for web applications leveraging Node js, MongoDB, and microservices architecture. I'm passionate about building robust and customizable systems, fueled by my interest in web development and my current exploration of react js, aiming to extend my skills and expertise to the front-end world. I'm always eager to engage with like-minded developers and collaborate on innovative projects."
+}

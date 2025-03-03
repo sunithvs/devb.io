@@ -1,0 +1,103 @@
+{
+    "username": "prs96",
+    "name": "Pranav S",
+    "bio": "Hi there! I'm Pranav .\r\nPassionate about Machine Learning, Scripting, and Cybersecurity .\r\n Exploring innovative solutions through AI and Automation\r\n",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/151462261?u=f2ab8404b354d13482b2692d49c2516cae189dd6&v=4",
+    "profile_url": "https://github.com/Prs96",
+    "top_languages": [
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "Shell",
+            1
+        ],
+        [
+            "CSS",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "portfolio-website",
+            "description": null,
+            "score": 2.164042561333445,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Prs96/portfolio-website",
+            "updatedAt": "2025-03-02T17:37:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "TaskMan",
+            "description": "A Todo-list made with Flask, HTML and CSS",
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/Prs96/TaskMan",
+            "updatedAt": "2025-02-28T18:25:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "notes",
+            "description": "Repo to store and share my notes",
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Prs96/notes",
+            "updatedAt": "2025-02-10T07:27:24Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "dotfiles",
+            "description": null,
+            "score": 0.33502058526164546,
+            "stars": 0,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/Prs96/dotfiles",
+            "updatedAt": "2025-03-02T10:43:20Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 2,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 113,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/s-pranav-s"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "portfolio-website": {
+            "link": "https://github.com/Prs96/portfolio-website",
+            "summary": "Significant activity observed in the portfolio website repository on March 2, 2025, with multiple push events indicating updates, bug fixes, and footer updates."
+        },
+        "Portfolio": {
+            "link": "https://github.com/Prs96/Portfolio",
+            "summary": "The Portfolio repository showed notable activity on March 2, 2025, with push events focused on updating the CNAME and deleting it subsequently."
+        },
+        "dotfiles": {
+            "link": "https://github.com/Prs96/dotfiles",
+            "summary": "A quality change was made to the dotfiles repository on March 2, 2025, with a push event indicating improvements to the repository's quality."
+        }
+    },
+    "profile_summary": "I'm Pranav S, a skilled JavaScript developer with expertise in Shell scripting and CSS. \n\nWith a strong passion for Machine Learning, Scripting, and Cybersecurity, I leverage AI and Automation to drive innovation and push boundaries. My active contributions to 9 public repositories reflect my dedication to crafting reliable and efficient solutions."
+}

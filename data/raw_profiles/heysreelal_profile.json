@@ -1,0 +1,151 @@
+{
+    "username": "heysreelal",
+    "name": "Cosmic Kid",
+    "bio": "Blackholes \u2022 Night Skies \u2022 Beaches.\r\n\r\nThe life of a sandy cosmic kid.",
+    "location": "Kozhikode",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94184909?u=add5909e0bb1f3a607441539ac39f1874a39d7c6&v=4",
+    "profile_url": "https://github.com/HeySreelal",
+    "top_languages": [
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Dart",
+            19
+        ],
+        [
+            "C",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Flutter-Everyday",
+            "description": "My mission to build as many Flutter UIs as possible! Daily one UI. \ud83e\udd84",
+            "score": 10.143592838458922,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/HeySreelal/Flutter-Everyday",
+            "updatedAt": "2023-11-15T01:04:22Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "balisia",
+            "description": "Balisia App - A Resort / Trip Booking App Design By @basit.designs on Instagram. And my Everyday Flutter Day 2! \ud83e\udd84",
+            "score": 10.071776954338672,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/balisia",
+            "updatedAt": "2022-04-09T15:07:25Z",
+            "isPinned": true,
+            "homepage": "https://www.instagram.com/p/CcBzcFujbTc"
+        },
+        {
+            "name": "universe",
+            "description": "Personal Website \ud83d\ude80",
+            "score": 10.070973276671147,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/universe",
+            "updatedAt": "2022-04-08T16:38:59Z",
+            "isPinned": true,
+            "homepage": "https://heysreelal.web.app"
+        },
+        {
+            "name": "phonecodes",
+            "description": "A Dart & Flutter package that provides a list of Countries with their name, ISO code, Dial code, Flag.",
+            "score": 5.102276725187149,
+            "stars": 4,
+            "forks": 2,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/phonecodes",
+            "updatedAt": "2024-10-27T13:14:55Z",
+            "isPinned": false,
+            "homepage": "https://pub.dev/packages/phonecodes"
+        },
+        {
+            "name": "TelegramUI",
+            "description": "Flutter & Telegram \ud83d\udc99",
+            "score": 4.4737820903671635,
+            "stars": 4,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/TelegramUI",
+            "updatedAt": "2024-05-21T13:34:04Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "VintageRealEstateUI",
+            "description": "Flutter Everyday - Day 3 \ud83e\udd84 Real Estate App Design by @uk_designer7970! \ud83c\udfa8",
+            "score": 3.4523053907845878,
+            "stars": 2,
+            "forks": 1,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/VintageRealEstateUI",
+            "updatedAt": "2024-12-09T17:26:32Z",
+            "isPinned": false,
+            "homepage": "https://www.instagram.com/p/CcKGz8dJoXd/"
+        },
+        {
+            "name": "CalculatorUI",
+            "description": "Just a Calculator UI with Flutter. Inspired by @juliejamolo's design.",
+            "score": 2.9161232014621046,
+            "stars": 3,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/HeySreelal/CalculatorUI",
+            "updatedAt": "2024-01-19T21:17:18Z",
+            "isPinned": false,
+            "homepage": "https://www.instagram.com/p/CcFMbBHPb8T/"
+        },
+        {
+            "name": "BitLinker",
+            "description": "Just a Telegram Bot to shorten your long links!",
+            "score": 2.26814533063696,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/HeySreelal/BitLinker",
+            "updatedAt": "2022-02-21T03:17:14Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 73,
+    "following": 104,
+    "public_repos": 72,
+    "pull_requests_merged": 98,
+    "issues_closed": 13,
+    "achievements": {
+        "total_contributions": 2605,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/HeySreelal"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://instagram.com/heysreelal"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">\ud83d\udc4b Hey, Sreelal here.</h1>\n<h5 align=\"center\">Under the sun, in search of another sun. \ud83d\udef0</h5>\n<p align=\"center\">\n  <a href=\"https://t.me/heysreelal\">Telegram</a> \u2022\n  <a href=\"https://heysreelal.medium.com\">Blog</a> \u2022\n  <a href=\"https://twitter.com/heysreelal\">Twitter</a>\n</p>\n\n<hr/>\n\n## \ud83e\udd84 Latest From Me \ud83e\udd84\n\n- \ud83c\udd95 **Televerse!!!** - An efficient and easy Telegram Bot API Wrapper for Dart! Check it out [here](https://pub.dev/packages/televerse) \ud83e\udd16\n\n- I've been on a mission to build as many Flutter UIs as possible! Check out [Flutter Everyday](https://github.com/HeySreelal/Flutter-Everyday) \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\n- [Personal website is up and running.](https://heysreelal.web.app/) \ud83c\udf10\n\n- Pokit QR App is now live on Play Store:\n\n  <a href=\"https://play.google.com/store/apps/details?id=com.pokitqr.pokitqr\">\n    <img alt=\"Get it on Google Play\" src=\"https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png\" height=\"80\"/>\n  </a>\n\n<hr>\n\n<br>\n\n## \u270d\ufe0f What do I do?\n\nKinda hanging around the \u2600\ufe0f in every 365 days, along with \ud83c\udf0e and my \ud83d\udcbb.\n\n- \ud83d\udc40 I\u2019m\n  - \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Organizer for Flutter Kozhikode\n  - \ud83c\udfc5 Platinum PE at Google Product Experts Program.\n  - \ud83d\udc99 VUI & Flutter Dev.\n  - \ud83c\udf99 Speaker & Tech Writer\n- \ud83d\udc99 Currently in love with Flutter & Building Telegram Bots \ud83d\udc99\n\n<hr/>\n\n## \ud83d\udcac How to Connect\n\nFeel free to drop a \ud83d\udc4b over [Twitter](https://twitter.com/HeySreelal) or [Telegram](https://t.me/HeySreelal). I always prefer Telegram as I feel more connected to people.\n\n## \ud83c\udfaf Fun Fact\n\nI once made a bot on Telegram to surprise my GF on her birthday!\n\n## \ud83c\udfc6 Stats\n\nSometimes high, sometimes low! I actively use GitHub for my personal projects and to showcase my works! \ud83e\udd84 Also, I love to contribute into Flutter or Node.js projects.\n\n<div align=\"center\">\n\n![](https://github-readme-stats.vercel.app/api?username=heysreelal&show_icons=true&theme=dracula&line_height=27)\n\n</div>\n\n![](https://activity-graph.herokuapp.com/graph?username=heysreelal&theme=redical)\n\n<h1 align=\"center\">Thank You \ud83e\udd84</h1>\n\n[Twitter](https://twitter.com/HeySreelal) | [Telegram](https://t.me/heysreelal)\n",
+    "activity_summary": {
+        "xooniverse/televerse": {
+            "link": "https://github.com/xooniverse/televerse",
+            "summary": "The televerse repository has seen significant activities recently. Notable commits include updates to the Bot API and addition of features such as user and chat verification methods, as well as gift upgrades and payment options. A freeze of Telegram models has also been implemented to conform with Freezed. Versions have also been updated to 8.3 and changelogs have been maintained."
+        },
+        "xooniverse/dev": {
+            "link": "https://github.com/xooniverse/dev",
+            "summary": "The dev repository has contributed updates to the televerse repository. Significant commits include enhancements to the model architecture and improvements to workflow management. Version updates have been maintained and deployment workflows have been modified."
+        }
+    },
+    "profile_summary": "As a seasoned developer with a passion for creating innovative solutions, I've honed my skills in programming languages including Rust, Dart, and C. My experience spans across various projects, from Telegram bot wrappers to robust UI interfaces using Flutter, showcasing my expertise in building cutting-edge applications. Through contributing to open-source projects and actively engaging with the developer community, I've established myself as a reliable professional and influencer, as evident from my network of 73 followers and 72 public repositories. When I'm not coding, you can find me chasing sunsets, exploring the night skies, or relaxing by the beach. I'm always up for a collaboration or conversation, so feel free to connect with me on Twitter or Telegram."
+}

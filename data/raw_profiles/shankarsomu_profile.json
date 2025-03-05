@@ -1,0 +1,58 @@
+{
+    "username": "shankarsomu",
+    "name": "Shankar",
+    "bio": "\ud83d\ude80 AI/ML | Cloud Computing | Automation\r\n\ud83d\udcbb Python | Shell | YAML | SQL | JavaScript\r\n\ud83d\udd0d Exploring AI-driven automation & cloud cost optimization",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/200411099?v=4",
+    "profile_url": "https://github.com/ShankarSomu",
+    "top_languages": [],
+    "top_projects": [
+        {
+            "name": "ShankarSomu",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ShankarSomu/ShankarSomu",
+            "updatedAt": "2025-02-23T08:07:49Z",
+            "isPinned": false,
+            "homepage": "https://github.com/ShankarSomu"
+        }
+    ],
+    "followers": 0,
+    "following": 7,
+    "public_repos": 6,
+    "pull_requests_merged": 2,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 27,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/shankar-somasundaram-0519a918/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://shankarsquest.hashnode.dev/"
+        },
+        {
+            "provider": "twitter",
+            "url": "https://x.com/home"
+        }
+    ],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @ShankarSomu\n- \ud83d\udc40 Interests: AI/ML, Cloud Computing, and Automation\n- \ud83c\udf31 Currently Learning: AI Agents, Web Development, and Business Strategies\n- \ud83d\udc9e\ufe0f Background: 16+ years of experience in automation, cloud solutions, with expertise in process optimization, cost optimization, and cloud architecture.\n- \ud83d\udcbb Programming Skills: Python, Shell scripting, YAML, SQL.\n- \ud83d\udca1 Looking to Collaborate On: AI-powered automation, cloud cost optimization, and innovative tech solutions\n- \ud83d\udceb Reach Me At: [https://github.com/ShankarSomu]\n<!---\nShankarSomu/ShankarSomu is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "activity_summary": {
+        "BugPracticeLab": {
+            "link": "https://github.com/BugPracticeLab/BugPracticeLab",
+            "summary": "Significant activities have been observed in BugPracticeLab repository including updates to README.md file and merge of pull request #3 from Development branch."
+        },
+        "first-contributions": {
+            "link": "https://github.com/first-contributions/first-contributions",
+            "summary": "Recent activities in the first-contributions repository included significant additions of contributors such as ShankarSomu, Krubanandan, Kerim-Demir, and others to the contributors list."
+        }
+    },
+    "profile_summary": "I'm a seasoned software professional with 16+ years of experience in automation, cloud solutions, and process optimization. My expertise lies in AI/ML, Cloud Computing, and Automation, with a passion for leveraging technology to drive business results. I excel in Python, Shell scripting, YAML, SQL, and JavaScript, and am actively exploring AI-driven automation and cloud cost optimization."
+}

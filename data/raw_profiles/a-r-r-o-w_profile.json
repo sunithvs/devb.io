@@ -1,0 +1,142 @@
+{
+    "username": "a-r-r-o-w",
+    "name": "Aryan",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/72266394?v=4",
+    "profile_url": "https://github.com/a-r-r-o-w",
+    "top_languages": [
+        [
+            "C++",
+            5
+        ],
+        [
+            "Python",
+            11
+        ],
+        [
+            "C",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "finetrainers",
+            "description": "Memory-optimized training library for diffusion models",
+            "score": 30.861379726393157,
+            "stars": 910,
+            "forks": 101,
+            "language": "Python",
+            "url": "https://github.com/a-r-r-o-w/finetrainers",
+            "updatedAt": "2025-03-05T11:09:14Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "opengl",
+            "description": "OpenGL Projects",
+            "score": 15.183728778292952,
+            "stars": 11,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/a-r-r-o-w/opengl",
+            "updatedAt": "2025-02-21T22:10:08Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "kanformer",
+            "description": "Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment",
+            "score": 9.787227092009278,
+            "stars": 34,
+            "forks": 4,
+            "language": "Python",
+            "url": "https://github.com/a-r-r-o-w/kanformer",
+            "updatedAt": "2025-03-02T17:49:05Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "building-modelling-vr",
+            "description": "Building Modelling using Blender and Unity for university course UE20CS315 - Fundamentals of Augmented and Virtual Reality",
+            "score": 5.079159455466211,
+            "stars": 6,
+            "forks": 1,
+            "language": "C#",
+            "url": "https://github.com/a-r-r-o-w/building-modelling-vr",
+            "updatedAt": "2023-09-28T19:25:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "infini-attention",
+            "description": "Implementation of \"Leave No Context Behind: Efficient Infinite Context Transformers with Infini-Attention\" - 2024",
+            "score": 4.885015255414283,
+            "stars": 5,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/a-r-r-o-w/infini-attention",
+            "updatedAt": "2024-12-31T04:46:37Z",
+            "isPinned": false,
+            "homepage": "https://youtu.be/SLrSJSL4pdk"
+        },
+        {
+            "name": "capture-the-flag",
+            "description": "Writeups and stuff related to CTFs",
+            "score": 4.8369908581295515,
+            "stars": 5,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/a-r-r-o-w/capture-the-flag",
+            "updatedAt": "2025-01-31T04:59:17Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "chess",
+            "description": "Chess made using C and OpenGL",
+            "score": 3.881557985097788,
+            "stars": 3,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/a-r-r-o-w/chess",
+            "updatedAt": "2022-12-11T15:17:47Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "attention-is-all-you-need",
+            "description": "Pytorch implementation of the reknowned \"Attention Is All You Need\" paper - NeurIPS 2017",
+            "score": 3.832948776930043,
+            "stars": 5,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/a-r-r-o-w/attention-is-all-you-need",
+            "updatedAt": "2025-02-05T17:40:19Z",
+            "isPinned": false,
+            "homepage": "https://youtu.be/Fu1oZdYYQYE"
+        }
+    ],
+    "followers": 481,
+    "following": 329,
+    "public_repos": 53,
+    "pull_requests_merged": "100+",
+    "issues_closed": 21,
+    "achievements": {
+        "total_contributions": 1005,
+        "repositories_contributed_to": 19
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "finetrainers": {
+            "link": "https://github.com/a-r-r-o-w/finetrainers",
+            "summary": "Recent activities have focused on optimizations for model performance and efficiency, including updates to the HunyuanVideo ModelSpec and improvements to local dataset loading, as well as fixes for full rank config and additions of 3DGS dataset examples."
+        },
+        "diffusers": {
+            "link": "https://github.com/huggingface/diffusers",
+            "summary": "Efforts have been directed towards documentation updates and support for Wan through the implementation of LoRA, as well as refinements to the image-to-video pipeline and a fix for copied files."
+        }
+    },
+    "profile_summary": "Highly skilled and accomplished software developer with expertise in low-level programming languages like C and C++. I leverage my proficiency in Python to drive innovation and efficiency in software development, focusing on delivering robust, scalable, and maintainable solutions. With a strong network and recognition in the industry, as evident from 481 followers, I continue to contribute to the developer community through 53 public repositories, driving advancements in software development."
+}

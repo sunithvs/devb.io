@@ -1,0 +1,138 @@
+{
+    "username": "im-rahulr",
+    "name": "Rahul R",
+    "bio": "",
+    "location": "Bangalore",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98765258?v=4",
+    "profile_url": "https://github.com/im-rahulr",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ],
+        [
+            "HTML",
+            11
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "im-rahulr",
+            "description": null,
+            "score": 10.254717453921332,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/im-rahulr/im-rahulr",
+            "updatedAt": "2024-03-09T14:10:09Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "chat-anomous",
+            "description": null,
+            "score": 1.358223877494169,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/im-rahulr/chat-anomous",
+            "updatedAt": "2024-11-14T16:14:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "valentine",
+            "description": null,
+            "score": 0.4852731797230087,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/im-rahulr/valentine",
+            "updatedAt": "2025-02-11T16:13:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "attendance",
+            "description": null,
+            "score": 0.4253677380770001,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/im-rahulr/attendance",
+            "updatedAt": "2025-02-02T14:08:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "care-clinic",
+            "description": null,
+            "score": 0.39638605490466816,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/im-rahulr/care-clinic",
+            "updatedAt": "2025-01-20T13:46:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ai-coder",
+            "description": null,
+            "score": 0.36067376022224085,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/im-rahulr/ai-coder",
+            "updatedAt": "2024-12-31T14:05:07Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "space",
+            "description": null,
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/im-rahulr/space",
+            "updatedAt": "2024-12-03T16:23:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "attendance-app",
+            "description": "Created with StackBlitz \u26a1\ufe0f",
+            "score": 0.32297023066626696,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/im-rahulr/attendance-app",
+            "updatedAt": "2024-11-22T13:18:56Z",
+            "isPinned": false,
+            "homepage": "https://stackblitz.com/edit/sb1-mj8ciz"
+        }
+    ],
+    "followers": 3,
+    "following": 7,
+    "public_repos": 59,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 160,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/im.rahul.u"
+        }
+    ],
+    "readme_content": "# \ud83d\udcab About Me:\nHi, I'm Rahul! \ud83d\udc4b<br>\ud83d\ude80 Front-end developer from India<br>\ud83c\udf31 Building future projects<br>\ud83d\udcbb Let's connect and create cool stuff together!\n\n\n## \ud83c\udf10 Socials:\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.rahul.u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/im.rahul.u) \n\n# \ud83d\udcbb Tech Stack:\n![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)\n# \ud83d\udcca GitHub Stats:\n![](https://github-readme-stats.vercel.app/api?username=im-rahulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=im-rahulr&theme=dark&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-rahulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\n\n### \u270d\ufe0f Random Dev Quote\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

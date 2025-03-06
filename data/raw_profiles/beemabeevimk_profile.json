@@ -1,0 +1,138 @@
+{
+    "username": "beemabeevimk",
+    "name": "Beema Beevi M K",
+    "bio": "Python | Django | PostgreSQL | React.js | REST framework | HTML | CSS | Javascript | Tailwind | Git and GitHub | DSA | OOPS ",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/123344673?v=4",
+    "profile_url": "https://github.com/beemabeevimk",
+    "top_languages": [
+        [
+            "JavaScript",
+            4
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "HTML",
+            5
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Todo-react",
+            "description": null,
+            "score": 1.5452840624388453,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/beemabeevimk/Todo-react",
+            "updatedAt": "2023-09-14T10:19:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ecom",
+            "description": null,
+            "score": 1.5418611973149,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/beemabeevimk/ecom",
+            "updatedAt": "2023-09-19T04:02:06Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Django-map-app",
+            "description": null,
+            "score": 0.5410106403333612,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/beemabeevimk/Django-map-app",
+            "updatedAt": "2025-02-20T03:39:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "eduport_task",
+            "description": null,
+            "score": 0.1681966787265484,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/beemabeevimk/eduport_task",
+            "updatedAt": "2024-02-19T01:48:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Alverno",
+            "description": null,
+            "score": 0.1610671659421366,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/beemabeevimk/Alverno",
+            "updatedAt": "2023-10-27T05:00:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "User-Management-main",
+            "description": null,
+            "score": 0.15965773819182738,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/beemabeevimk/User-Management-main",
+            "updatedAt": "2023-09-28T07:38:43Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "netflix_clone-main",
+            "description": null,
+            "score": 0.15936859383904953,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/beemabeevimk/netflix_clone-main",
+            "updatedAt": "2023-09-22T07:31:40Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "logindjango",
+            "description": null,
+            "score": 0.1538156351548753,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/beemabeevimk/logindjango",
+            "updatedAt": "2023-05-10T20:17:50Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 3,
+    "public_repos": 15,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 3,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "beemabeevimk/Django-map-app": {
+            "link": "https://github.com/beemabeevimk/Django-map-app",
+            "summary": "The Django-map-app repository has seen initial commit activity. On February 20, 2025, an Initial commit was pushed."
+        }
+    },
+    "profile_summary": "As a seasoned developer with expertise in building scalable and efficient applications using Python and JavaScript, I leverage my skills in Django, React.js, and PostgreSQL to deliver innovative solutions. With experience in key technologies such as HTML, CSS, JS, and Tailwind, I excel in crafting visually appealing and user-friendly interfaces. As a GitHub contributor with a strong online presence and influence, I share knowledge through public repositories and engaging with the community to drive collaborative growth and development."
+}

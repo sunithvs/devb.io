@@ -1,0 +1,133 @@
+{
+    "username": "kevinroshann",
+    "name": "Kevin Roshan N",
+    "bio": "ECE engineering student at CUSAT",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/160618150?u=844a481a47888cc88363e6a8cec8de5a0a1bece4&v=4",
+    "profile_url": "https://github.com/kevinroshann",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "test",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/kevinroshann/test",
+            "updatedAt": "2025-03-04T11:55:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Sargam",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kevinroshann/Sargam",
+            "updatedAt": "2025-03-01T04:09:58Z",
+            "isPinned": false,
+            "homepage": "https://sargam-three.vercel.app"
+        },
+        {
+            "name": "hertz",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kevinroshann/hertz",
+            "updatedAt": "2025-03-02T07:10:01Z",
+            "isPinned": false,
+            "homepage": "https://hertz.ecsacusat.com/"
+        },
+        {
+            "name": "kevinroshann_horizon_s4",
+            "description": null,
+            "score": 0.5683847725349267,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/kevinroshann/kevinroshann_horizon_s4",
+            "updatedAt": "2025-02-21T17:44:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Blockchain",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/kevinroshann/Blockchain",
+            "updatedAt": "2025-02-16T14:46:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "portfolio",
+            "description": null,
+            "score": 0.320366928485536,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/kevinroshann/portfolio",
+            "updatedAt": "2025-01-26T14:27:55Z",
+            "isPinned": false,
+            "homepage": "https://portfolio-three-alpha-62.vercel.app"
+        },
+        {
+            "name": "outlinetexteffect",
+            "description": "This is a cool Project to create outline text effect",
+            "score": 0.308164228783138,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/kevinroshann/outlinetexteffect",
+            "updatedAt": "2025-02-12T15:07:29Z",
+            "isPinned": false,
+            "homepage": "https://outlinetexteffect.vercel.app"
+        },
+        {
+            "name": "arthub",
+            "description": null,
+            "score": 0.307200665474766,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/kevinroshann/arthub",
+            "updatedAt": "2025-02-11T18:03:28Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 12,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 103,
+        "repositories_contributed_to": 2
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

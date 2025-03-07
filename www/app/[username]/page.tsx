@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Suspense } from "react";
-import { ArrowDown } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
@@ -11,10 +10,13 @@ import { AboutSection } from "@/app/components/AboutSection";
 import { ExperienceSection } from "@/app/components/ExperienceSection";
 import { EducationSection } from "@/app/components/EducationSection";
 import { ProjectsSection } from "@/app/components/ProjectsSection";
-import ClientResumeButton from "@/components/ClientResumeButton";
 
-export default async function Page({ params }: { params: { username: string } }) {
-  const { username } = params;
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ username: string }>;
+}) {
+  const { username } = await params;
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8 fade-in">

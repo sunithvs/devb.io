@@ -1,28 +1,39 @@
-import axios from "axios";
 import { LinkedInProfile, Profile, UserProject } from "@/types/types";
 
 const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
+const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 
-const apiClient = axios.create({
-  baseURL: BASE_URL,
-  withCredentials: false,
-  headers: {
-    "Content-Type": "application/json",
-    Accept: "application/json",
-    "X-Api-Key": process.env.NEXT_PUBLIC_X_API_KEY,
-  },
-});
-
+/**
+ * Fetch resource with Next.js caching
+ */
 const fetchResource = async <T>(endpoint: string): Promise<T | null> => {
   try {
-    const res = await apiClient.get(endpoint);
-    return res.data as T;
+    const url = `${BASE_URL}${endpoint}`;
+    const response = await fetch(url, {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        "X-Api-Key": API_KEY || "",
+      },
+      next: {
+        revalidate: 3600, // Revalidate every hour
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching ${endpoint}: ${response.status}`);
+    }
+
+    return response.json() as Promise<T>;
   } catch (error) {
     console.error(`Error fetching ${endpoint}:`, error);
     return null;
   }
 };
 
+/**
+ * Get user profile data
+ */
 export const getUserProfile = async (
   username: string,
 ): Promise<Profile | null> => {
@@ -30,6 +41,9 @@ export const getUserProfile = async (
   return fetchResource<Profile>(`/user/${username}/profile`);
 };
 
+/**
+ * Get user projects data
+ */
 export const getUserProjects = async (
   username: string,
 ): Promise<UserProject | null> => {
@@ -37,6 +51,9 @@ export const getUserProjects = async (
   return fetchResource<UserProject>(`/user/${username}/projects`);
 };
 
+/**
+ * Get user LinkedIn profile data
+ */
 export const getUserLinkedInProfile = async (
   username: string,
 ): Promise<LinkedInProfile | null> => {

@@ -1,5 +1,3 @@
-"use client";
-import { motion } from "framer-motion";
 import { TimelineItem } from "./timeline";
 
 const AnimatedTimelineCard = ({
@@ -11,64 +9,52 @@ const AnimatedTimelineCard = ({
   bg,
 }: TimelineItem) => {
   return (
-    <motion.div
-      whileHover={{ scale: 1.02 }}
-      transition={{ type: "spring", stiffness: 400, damping: 17 }}
-      className={`relative p-6 rounded-xl border-1 border-black border-b-4 ${
+    <div
+      className={`relative p-6 rounded-xl border-1 border-black border-b-4 transform transition-all duration-300 ease-out hover:scale-[1.02] hover:shadow-lg will-change-transform ${
         logo ? "bg-[#B9FF66]" : "bg-white"
       } ${bg}`}
     >
       <div className="flex items-start gap-4">
         {logo && (
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ delay: 0.2 }}
-            className="w-8 h-8 flex items-center justify-center bg-white rounded-lg border-1 border-black"
+          <div
+            className="w-8 h-8 flex items-center justify-center bg-white rounded-lg border-1 border-black animate-scale-in will-change-transform"
+            style={{ animationDelay: "0.2s", animationDuration: "0.7s" }}
           >
             <span className="text-lg">{logo}</span>
-          </motion.div>
+          </div>
         )}
         <div className="flex-1">
           <div className="flex items-start justify-between">
             <div>
-              <motion.h3
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.1 }}
-                className="font-bold text-lg"
+              <h3
+                className="font-bold text-lg animate-slide-right will-change-transform"
+                style={{ animationDelay: "0.1s", animationDuration: "0.7s" }}
               >
                 {title}
-              </motion.h3>
-              <motion.p
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.2 }}
-                className="text-gray-600"
+              </h3>
+              <p
+                className="text-gray-600 animate-slide-right will-change-transform"
+                style={{ animationDelay: "0.2s", animationDuration: "0.7s" }}
               >
                 {subtitle}
-              </motion.p>
-              <motion.p
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.3 }}
-                className="text-gray-600 text-sm"
+              </p>
+              <p
+                className="text-gray-600 text-sm animate-slide-right will-change-transform"
+                style={{ animationDelay: "0.3s", animationDuration: "0.7s" }}
               >
                 {location}
-              </motion.p>
+              </p>
             </div>
-            <motion.p
-              initial={{ opacity: 0, x: 20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.2 }}
-              className="text-sm text-gray-600"
+            <p
+              className="text-sm text-gray-600 animate-slide-left will-change-transform"
+              style={{ animationDelay: "0.2s", animationDuration: "0.7s" }}
             >
               {duration.start} - {duration.end || "Present"}
-            </motion.p>
+            </p>
           </div>
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 

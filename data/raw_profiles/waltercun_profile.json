@@ -1,0 +1,77 @@
+{
+    "username": "waltercun",
+    "name": "Walter Cun Bustamante",
+    "bio": "",
+    "location": "Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27817964?u=4eaac2f7b2312e15dc7b12113e68c16a48a1515c&v=4",
+    "profile_url": "https://github.com/WalterCun",
+    "top_languages": [
+        [
+            "Python",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ToolsTranslator",
+            "description": null,
+            "score": 0.682679419970128,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WalterCun/ToolsTranslator",
+            "updatedAt": "2025-03-06T14:53:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "harmonyhotelgroup_server",
+            "description": null,
+            "score": 0.6255485871363695,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WalterCun/harmonyhotelgroup_server",
+            "updatedAt": "2025-02-24T19:35:02Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PyToolsAll",
+            "description": null,
+            "score": 0.32432623078163025,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/WalterCun/PyToolsAll",
+            "updatedAt": "2024-11-26T04:27:18Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "ecu-vias-bot",
+            "description": null,
+            "score": 0.2985739795713382,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/WalterCun/ecu-vias-bot",
+            "updatedAt": "2025-02-19T14:54:51Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 5,
+    "pull_requests_merged": 2,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 115,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {},
+    "profile_summary": null
+}

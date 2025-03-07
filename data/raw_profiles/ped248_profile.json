@@ -1,0 +1,96 @@
+{
+    "username": "ped248",
+    "name": "Pedro Morocho",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/39868778?u=324211652f420fd4513f60dc0c04482fbd9e6fc3&v=4",
+    "profile_url": "https://github.com/PED248",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "JavaScript",
+            2
+        ],
+        [
+            "Python",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "nextjs-dashboard",
+            "description": null,
+            "score": 0.25606301069720333,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/PED248/nextjs-dashboard",
+            "updatedAt": "2024-03-23T02:21:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Training-Atlassian-Forge",
+            "description": null,
+            "score": 0.1677569374670613,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/PED248/Training-Atlassian-Forge",
+            "updatedAt": "2024-02-14T14:16:26Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "electron-vite-react",
+            "description": null,
+            "score": 0.07474289264286027,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/PED248/electron-vite-react",
+            "updatedAt": "2022-12-25T07:25:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CRUD_DJANGO",
+            "description": null,
+            "score": 0.07345563896597997,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/PED248/CRUD_DJANGO",
+            "updatedAt": "2022-10-06T20:01:37Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "PED248",
+            "description": "Config files for my GitHub profile.",
+            "score": 0.07257324529449073,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/PED248/PED248",
+            "updatedAt": "2022-06-30T00:37:46Z",
+            "isPinned": false,
+            "homepage": "https://github.com/PED248"
+        }
+    ],
+    "followers": 1,
+    "following": 1,
+    "public_repos": 9,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 1,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "- \ud83d\udc4b Hi, I\u2019m @PED248\n- \ud83d\udc40 I\u2019m interested in ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc9e\ufe0f I\u2019m looking to collaborate on ...\n- \ud83d\udceb How to reach me ...\n\n<!---\nPED248/PED248 is a \u2728 special \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->\n",
+    "profile_summary": "As a seasoned developer, I leverage my expertise in TypeScript, JavaScript, and Python to drive innovative solutions. With a portfolio of 9 active repositories, I have honed my skills through hands-on experience and continuous learning. My professional network spans over 1 influential follower, and I am committed to delivering high-quality code that meets industry standards. Currently, I am expanding my knowledge in various areas, with a keen interest in exploring new technologies and collaborating with like-minded individuals on impactful projects through GitHub. I can be reached through direct message for opportunities and discussions."
+}

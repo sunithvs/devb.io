@@ -1,0 +1,137 @@
+{
+    "username": "nogyboy",
+    "name": "Geovanny Guaman",
+    "bio": "Software Engineer",
+    "location": "Cuenca, Ecuador",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74337750?u=de0d8a4ef7f6671771b7fd91af000c83170fe2b5&v=4",
+    "profile_url": "https://github.com/Nogyboy",
+    "top_languages": [
+        [
+            "TypeScript",
+            8
+        ],
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "spacefolio",
+            "description": "Spacefolio is a complimentary, open-source blueprint designed to empower you in creating your Personal Portfolio Website. It is crafted using Astro and TailwindCSS, offering a versatile platform to showcase your work and skills to the world.",
+            "score": 1.553338212656204,
+            "stars": 1,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Nogyboy/spacefolio",
+            "updatedAt": "2024-02-18T18:05:16Z",
+            "isPinned": false,
+            "homepage": "https://spacefolio-iota.vercel.app"
+        },
+        {
+            "name": "animation-test",
+            "description": null,
+            "score": 0.3432928028087323,
+            "stars": 0,
+            "forks": 0,
+            "language": "Astro",
+            "url": "https://github.com/Nogyboy/animation-test",
+            "updatedAt": "2024-12-19T23:30:38Z",
+            "isPinned": false,
+            "homepage": "https://animation-test-indol.vercel.app"
+        },
+        {
+            "name": "fullstackjs_tutorial",
+            "description": "Aprender fullstack con JavaScript",
+            "score": 0.33015687334523836,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nogyboy/fullstackjs_tutorial",
+            "updatedAt": "2024-12-23T13:17:13Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "mobile_shop",
+            "description": "Prueba t\u00e9cnica de aplicaci\u00f3n web para la comprar dispositivos m\u00f3viles.",
+            "score": 0.31911632073100404,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Nogyboy/mobile_shop",
+            "updatedAt": "2024-11-19T14:09:03Z",
+            "isPinned": false,
+            "homepage": "https://mobile-shop-nine.vercel.app"
+        },
+        {
+            "name": "frappe_vet",
+            "description": null,
+            "score": 0.308164228783138,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Nogyboy/frappe_vet",
+            "updatedAt": "2024-10-29T14:55:22Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "wsl-portforwarding",
+            "description": "How to portforwarding wsl linux to windows",
+            "score": 0.2613334702053725,
+            "stars": 0,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/Nogyboy/wsl-portforwarding",
+            "updatedAt": "2024-05-01T19:15:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "php-course",
+            "description": null,
+            "score": 0.25520031108745,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/Nogyboy/php-course",
+            "updatedAt": "2024-03-15T20:05:49Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "nextjs-course",
+            "description": "Next.js Course Learn",
+            "score": 0.25459785860612294,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Nogyboy/nextjs-course",
+            "updatedAt": "2024-03-11T14:06:41Z",
+            "isPinned": false,
+            "homepage": "https://nextjs-course-nogyboy.vercel.app"
+        }
+    ],
+    "followers": 0,
+    "following": 5,
+    "public_repos": 30,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 846,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/geovanny-g-11b461a7/"
+        }
+    ],
+    "readme_content": "<h1 align=\"center\">Hi \ud83d\udc4b, I'm Geovanny Guaman</h1>\n<h3 align=\"center\">Full Stack Developer: Crafting Innovative Solutions with a Value-Driven Approach</h3>\n\n- \ud83d\udd2d I\u2019m currently working on my skills.\n\n- \ud83c\udf31 I\u2019m currently learning **TypeScript, React, Tailwind, Express, Astro**\n\n- \ud83d\udc6f I\u2019m looking to collaborate on [Medusa](https://github.com/medusajs/medusa)\n\n- \ud83e\udd1d I\u2019m looking for help with anything\n\n- \ud83d\udc68\u200d\ud83d\udcbb All of my projects are available at [https://www.geovannyguaman.com/](https://www.geovannyguaman.com/)\n\n- \ud83d\udcdd I regularly write articles on [https://www.geovannyguaman.com/blog](https://www.geovannyguaman.com/blog)\n\n- \ud83d\udcac Ask me about **Web Technologies**\n\n- \ud83d\udceb How to reach me **guaman.christian@hotmail.com**\n\n- \ud83d\udcc4 Know about my experiences [https://www.geovannyguaman.com/experience](https://www.geovannyguaman.com/experience)\n\n- \u26a1 Fun fact **I like break things**\n\n<h3 align=\"left\">Connect with me:</h3>\n<p align=\"left\">\n<a href=\"https://dev.to/nogyboy\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg\" alt=\"nogyboy\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/geovanny-g-11b461a7\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"geovanny-g-11b461a7\" height=\"30\" width=\"40\" /></a>\n</p>\n\n<h3 align=\"left\">Languages and Tools:</h3>\n<p align=\"left\"> <a href=\"https://www.w3schools.com/css/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg\" alt=\"css3\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.djangoproject.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/django.svg\" alt=\"django\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg\" alt=\"docker\" width=\"40\" height=\"40\"/> </a> <a href=\"https://expressjs.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg\" alt=\"express\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.figma.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/figma/figma-icon.svg\" alt=\"figma\" width=\"40\" height=\"40\"/> </a> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg\" alt=\"git\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.w3.org/html/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg\" alt=\"html5\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.java.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" alt=\"java\" width=\"40\" height=\"40\"/> </a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://jestjs.io\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg\" alt=\"jest\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.linux.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg\" alt=\"linux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mongodb.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg\" alt=\"mongodb\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.mysql.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://cdn.worldvectorlogo.com/logos/nextjs-2.svg\" alt=\"nextjs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.postgresql.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a> <a href=\"https://postman.com\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg\" alt=\"postman\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.python.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" alt=\"python\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg\" alt=\"react\" width=\"40\" height=\"40\"/> </a> <a href=\"https://reactnative.dev/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://reactnative.dev/img/header_logo.svg\" alt=\"reactnative\" width=\"40\" height=\"40\"/> </a> <a href=\"https://redux.js.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg\" alt=\"redux\" width=\"40\" height=\"40\"/> </a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg\" alt=\"tailwind\" width=\"40\" height=\"40\"/> </a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" alt=\"typescript\" width=\"40\" height=\"40\"/> </a> </p>\n\n<p><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs?username=nogyboy&show_icons=true&locale=en&layout=compact\" alt=\"nogyboy\" /></p>\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=nogyboy&show_icons=true&locale=en\" alt=\"nogyboy\" /></p>\n\n<p><img align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=nogyboy&\" alt=\"nogyboy\" /></p>\n",
+    "profile_summary": "Here's a professional profile summary without heading or unnecessary details:\n\nAs a skilled software engineer with a proven track record of delivering innovative solutions, I specialize in a range of programming languages including TypeScript, C++, and Python. My expertise lies in crafting high-quality, scalable software using a value-driven approach that aligns with industry standards.\n\nThroughout my professional journey, I have consistently demonstrated my ability to work with cross-functional teams, driving software development and maintenance projects from concept to delivery. With a strong passion for lifelong learning, I continuously update my technical skills to stay ahead of the curve in a rapidly evolving tech landscape."
+}

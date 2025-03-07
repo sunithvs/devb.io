@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, BookOpen, Plus } from "lucide-react";
+import { BookOpen, Github, Linkedin, Plus } from "lucide-react";
 
 interface IntegrationCardProps {
   type: "github" | "linkedin" | "medium" | "more";
@@ -15,9 +15,10 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
         return {
           icon: <Github size={32} className="text-black" />,
           title: "GitHub",
-          description: "Showcase your repositories, contributions, and coding activity",
+          description:
+            "Showcase your repositories, contributions, and coding activity",
           color: "bg-[#B9FF66]",
-          status: "Available"
+          status: "Available",
         };
       case "linkedin":
         return {
@@ -25,7 +26,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           title: "LinkedIn",
           description: "Display your professional experience and achievements",
           color: "bg-blue-100",
-          status: "New"
+          status: "New",
         };
       case "medium":
         return {
@@ -33,7 +34,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           title: "Medium",
           description: "Share your technical articles and blog posts",
           color: "bg-orange-100",
-          status: "New"
+          status: "New",
         };
       case "more":
         return {
@@ -41,7 +42,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
           title: "More Coming Soon",
           description: "We're constantly adding new integrations",
           color: "bg-green-100",
-          status: "Coming Soon"
+          status: "Coming Soon",
         };
     }
   };
@@ -58,12 +59,12 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
       className={`${details.color} shadow-lg rounded-2xl p-6 transition-shadow hover:shadow-lg`}
     >
       <div className="flex items-start justify-between mb-4">
-        <div className="p-3 bg-white rounded-xl shadow-sm">
-          {details.icon}
-        </div>
-        <span className={`text-sm font-medium ${
-          details.status === "New" ? "text-blue-600" : "text-gray-600"
-        }`}>
+        <div className="p-3 bg-white rounded-xl shadow-sm">{details.icon}</div>
+        <span
+          className={`text-sm font-medium ${
+            details.status === "New" ? "text-blue-600" : "text-gray-600"
+          }`}
+        >
           {details.status}
         </span>
       </div>

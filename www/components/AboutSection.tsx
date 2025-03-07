@@ -1,4 +1,4 @@
-import Badge from "@/app/components/Badge";
+import Badge from "@/components/Badge";
 import { getUserProfile, getUserProjects } from "@/lib/api";
 import { ArrowDown } from "lucide-react";
 

@@ -5,9 +5,9 @@ import { getUserProjects } from "@/lib/api";
 
 export async function ProjectsSection({ username }: { username: string }) {
   const userProjects = await getUserProjects(username);
-  
+
   if (!userProjects) return <ProjectListSkeleton />;
-  
+
   return (
     <div>
       <h2 className="text-2xl font-bold mb-8">
@@ -18,8 +18,8 @@ export async function ProjectsSection({ username }: { username: string }) {
           // For desktop view, apply h-full to cards in pairs
           const isInPair = index % 2 === 0 && index + 1 < arr.length;
           const nextInPair = index % 2 === 1;
-          const heightClass = (isInPair || nextInPair) ? "h-full" : "";
-          
+          const heightClass = isInPair || nextInPair ? "h-full" : "";
+
           return (
             <div key={project.name} className={heightClass}>
               <ProjectCard {...project} />

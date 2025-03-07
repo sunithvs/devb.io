@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
-import { motion, useInView, useAnimation } from "framer-motion";
+import { useEffect, useRef, useState } from "react";
+import { motion, useAnimation, useInView } from "framer-motion";
 
 interface AnimatedStatsProps {
   value: number;
@@ -21,7 +21,7 @@ export default function AnimatedStats({ value, subtitle }: AnimatedStatsProps) {
       const end = value;
       const duration = 2000; // 2 seconds
       const increment = end / (duration / 16); // Update every 16ms (60fps)
-      
+
       const timer = setInterval(() => {
         start += increment;
         if (start >= end) {
@@ -36,7 +36,7 @@ export default function AnimatedStats({ value, subtitle }: AnimatedStatsProps) {
       controls.start({
         opacity: 1,
         y: 0,
-        transition: { duration: 0.8, ease: "easeOut" }
+        transition: { duration: 0.8, ease: "easeOut" },
       });
 
       return () => clearInterval(timer);
@@ -50,14 +50,10 @@ export default function AnimatedStats({ value, subtitle }: AnimatedStatsProps) {
       animate={controls}
       className="text-center"
     >
-      <motion.div
-        className="text-7xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent"
-      >
+      <motion.div className="text-7xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
         {count}
       </motion.div>
-      <motion.p
-        className="text-xl md:text-2xl text-gray-600"
-      >
+      <motion.p className="text-xl md:text-2xl text-gray-600">
         {subtitle}
       </motion.p>
     </motion.div>

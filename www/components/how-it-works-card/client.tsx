@@ -1,14 +1,14 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, RefreshCw, Share2, Search, Code } from "lucide-react";
+import { Code, Github, RefreshCw, Search, Share2 } from "lucide-react";
 
 const iconMap = {
   Github,
   RefreshCw,
   Share2,
   Search,
-  Code
+  Code,
 };
 
 interface HowItWorksCardProps {
@@ -18,7 +18,12 @@ interface HowItWorksCardProps {
   index: number;
 }
 
-export default function HowItWorksCardClient({ iconName, title, description, index }: HowItWorksCardProps) {
+export default function HowItWorksCardClient({
+  iconName,
+  title,
+  description,
+  index,
+}: HowItWorksCardProps) {
   const Icon = iconMap[iconName];
 
   return (

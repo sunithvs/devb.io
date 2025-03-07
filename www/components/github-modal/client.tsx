@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { Github, X } from "lucide-react";
@@ -43,10 +43,10 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
         login: data.login,
         avatar_url: data.avatar_url,
         name: data.name || data.login,
-        bio: data.bio || "No bio available"
+        bio: data.bio || "No bio available",
       });
     } catch (err) {
-      console.log(err)
+      console.log(err);
       setError("Invalid GitHub username");
       setProfile(null);
     } finally {
@@ -96,9 +96,7 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
                   if (e.key === "Enter") validateGithubUsername(username);
                 }}
               />
-              {error && (
-                <p className="mt-2 text-red-500 text-sm">{error}</p>
-              )}
+              {error && <p className="mt-2 text-red-500 text-sm">{error}</p>}
             </div>
 
             {profile && (

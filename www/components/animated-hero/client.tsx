@@ -11,22 +11,22 @@ export default function AnimatedHeroClient() {
   return (
     <section className="container mx-auto px-4 py-16 flex flex-col md:flex-row items-center justify-between gap-12">
       {/* Left side - Text Content */}
-      <motion.div 
+      <motion.div
         className="flex-1 max-w-2xl"
         initial={{ opacity: 0, x: -50 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
         <h1 className="text-6xl md:text-7xl md:font-bold leading-tight mb-4">
-          Effortless{" "}
-          <span className="block">Portfolios for</span>
+          Effortless <span className="block">Portfolios for</span>
           <span className="inline-block bg-[#B9FF66] px-4 py-1 rounded-lg">
             Developers
           </span>
         </h1>
         <p className="text-xl text-gray-600 mb-8 mt-6">
           Your GitHub profile tells a story.
-          <br />Let us help you narrate it
+          <br />
+          Let us help you narrate it
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <button

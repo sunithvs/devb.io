@@ -1,24 +1,24 @@
-'use client';
+"use client";
 
 import React from "react";
 import Link from "next/link";
 import { Project } from "@/types/types";
 import { ExternalLink, GitFork, Github, Star } from "lucide-react";
-import Badge from "@/app/components/Badge";
+import Badge from "@/components/Badge";
 import { motion } from "framer-motion";
 
 // Array of vibrant colors for the separator
 const SEPARATOR_COLORS = [
-  "bg-[#E63946]",  // Deep Red
-  "bg-[#2A9D8F]",  // Dark Teal
-  "bg-[#1E88E5]",  // Rich Blue
-  "bg-[#2D6A4F]",  // Forest Green
-  "bg-[#FF9F1C]",  // Deep Orange
-  "bg-[#D90429]",  // Crimson
-  "bg-[#5E60CE]",  // Deep Purple
-  "bg-[#023E8A]",  // Navy Blue
-  "bg-[#F94144]",  // Bright Red
-  "bg-[#2B9348]",  // Deep Green
+  "bg-[#E63946]", // Deep Red
+  "bg-[#2A9D8F]", // Dark Teal
+  "bg-[#1E88E5]", // Rich Blue
+  "bg-[#2D6A4F]", // Forest Green
+  "bg-[#FF9F1C]", // Deep Orange
+  "bg-[#D90429]", // Crimson
+  "bg-[#5E60CE]", // Deep Purple
+  "bg-[#023E8A]", // Navy Blue
+  "bg-[#F94144]", // Bright Red
+  "bg-[#2B9348]", // Deep Green
 ];
 
 const ProjectCard = ({
@@ -32,15 +32,16 @@ const ProjectCard = ({
 }: Project) => {
   // Determine if it's a GitHub preview or microlink preview
   const isGithubPreview = !homepage;
-  const previewUrl = isGithubPreview 
+  const previewUrl = isGithubPreview
     ? `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`
     : `https://api.microlink.io?url=${encodeURIComponent(homepage)}&screenshot=true&embed=screenshot.url`;
 
   // Get a random color for the separator
-  const separatorColor = SEPARATOR_COLORS[Math.floor(Math.random() * SEPARATOR_COLORS.length)];
+  const separatorColor =
+    SEPARATOR_COLORS[Math.floor(Math.random() * SEPARATOR_COLORS.length)];
 
   return (
-    <motion.div 
+    <motion.div
       className="bg-white rounded-xl border-1 border-black border-b-4 w-full h-full flex flex-col"
       whileHover={{ scale: 1.02 }}
       transition={{ type: "spring", stiffness: 400, damping: 17 }}
@@ -55,9 +56,9 @@ const ProjectCard = ({
           className="w-full object-cover rounded-t-xl aspect-[2/1]"
         />
         {!isGithubPreview && (
-          <motion.div 
+          <motion.div
             className={`h-2 w-full ${separatorColor}`}
-            initial={{ scaleX: 0,}}
+            initial={{ scaleX: 0 }}
             animate={{ scaleX: 1 }}
             transition={{ duration: 0.3, delay: 0.1 }}
           />
@@ -66,7 +67,7 @@ const ProjectCard = ({
 
       <div className="p-6 pt-1 flex flex-col flex-1">
         <div className="flex-1">
-          <motion.h3 
+          <motion.h3
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3, delay: 0.2 }}
@@ -74,7 +75,7 @@ const ProjectCard = ({
           >
             {name}
           </motion.h3>
-          <motion.p 
+          <motion.p
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3, delay: 0.3 }}
@@ -84,7 +85,7 @@ const ProjectCard = ({
           </motion.p>
         </div>
 
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.3, delay: 0.4 }}
@@ -95,10 +96,12 @@ const ProjectCard = ({
 
             {!isGithubPreview && (
               <div className="flex items-center gap-3 text-gray-600">
-                {stars > 0 && (<div className="flex items-center gap-1.5">
-                  <Star className="w-4 h-4 stroke-[1.5]"/>
-                  <span className="text-sm font-medium">{stars}</span>
-                </div>)}
+                {stars > 0 && (
+                  <div className="flex items-center gap-1.5">
+                    <Star className="w-4 h-4 stroke-[1.5]" />
+                    <span className="text-sm font-medium">{stars}</span>
+                  </div>
+                )}
                 {forks > 0 && (
                   <div className="flex items-center gap-1.5">
                     <GitFork className="w-4 h-4 stroke-[1.5]" />

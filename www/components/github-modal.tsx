@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useMemo } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { debounce } from "lodash";
 import Image from "next/image";
 import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
@@ -20,7 +20,10 @@ interface GitHubModalProps {
   onOpenChange: (open: boolean) => void;
 }
 
-export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) {
+export default function GitHubModal({
+  isOpen,
+  onOpenChange,
+}: GitHubModalProps) {
   const [username, setUsername] = useState("");
   const [isValidating, setIsValidating] = useState(false);
   const [validationMessage, setValidationMessage] = useState("");
@@ -46,13 +49,13 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
     setIsValidating(true);
     try {
       const response = await fetch(`https://api.github.com/users/${username}`);
-      
+
       if (response.status === 403) {
         setValidationMessage("Too many requests. Please try again later.");
         setProfile(null);
         return;
       }
-      
+
       if (response.ok) {
         const data = await response.json();
         setProfile(data);
@@ -72,7 +75,7 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
 
   const debouncedValidation = useMemo(
     () => debounce(validateGitHubUsername, 500),
-    [validateGitHubUsername]
+    [validateGitHubUsername],
   );
 
   return (
@@ -103,10 +106,10 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                   onChange={(e) => {
                     const newUsername = e.target.value.trim();
                     setUsername(newUsername);
-                    
+
                     setValidationMessage("");
                     setProfile(null);
-                    
+
                     if (newUsername) {
                       if (!GITHUB_USERNAME_REGEX.test(newUsername)) {
                         setValidationMessage("Invalid GitHub username format");
@@ -118,7 +121,7 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                     }
                   }}
                   onKeyDown={(e) => {
-                    if (e.key === 'Enter' && username.trim()) {
+                    if (e.key === "Enter" && username.trim()) {
                       if (!GITHUB_USERNAME_REGEX.test(username.trim())) {
                         setValidationMessage("Invalid GitHub username format");
                         return;
@@ -134,7 +137,7 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                 />
                 <div className="absolute right-3 top-1/2 -translate-y-1/2">
                   {isValidating && (
-                    <div className="animate-spin rounded-full h-4 w-4 border-2 border-[#B9FF66] border-t-transparent"/>
+                    <div className="animate-spin rounded-full h-4 w-4 border-2 border-[#B9FF66] border-t-transparent" />
                   )}
                 </div>
               </div>
@@ -144,7 +147,9 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
               )}
             </div>
 
-            <div className={`transition-all duration-300 ${validationMessage.includes("Valid") ? 'opacity-100 max-h-[200px]' : 'opacity-0 max-h-0'} overflow-hidden`}>
+            <div
+              className={`transition-all duration-300 ${validationMessage.includes("Valid") ? "opacity-100 max-h-[200px]" : "opacity-0 max-h-0"} overflow-hidden`}
+            >
               {validationMessage.includes("Valid") && profile && (
                 <div className="px-4 pb-4 flex flex-col items-center">
                   <div className="w-20 h-20 rounded-full overflow-hidden mb-3">
@@ -156,7 +161,9 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                       className="w-full h-full object-cover"
                     />
                   </div>
-                  <h3 className="text-base font-medium mb-1">{profile.name || username}</h3>
+                  <h3 className="text-base font-medium mb-1">
+                    {profile.name || username}
+                  </h3>
                   <p className="text-gray-500 text-sm">@{username}</p>
                 </div>
               )}
@@ -169,14 +176,18 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                     window.location.href = `/generate/${username}`;
                   }
                 }}
-                disabled={!username || !validationMessage.includes("Valid") || isValidating}
+                disabled={
+                  !username ||
+                  !validationMessage.includes("Valid") ||
+                  isValidating
+                }
                 className="w-full bg-[#B9FF66] text-black py-2 px-4 rounded-lg text-sm font-medium
                   disabled:opacity-50 disabled:cursor-not-allowed hover:bg-opacity-90 
                   transition-all flex items-center justify-center gap-2"
               >
                 {isValidating ? (
                   <>
-                    <div className="animate-spin rounded-full h-4 w-4 border-2 border-black border-t-transparent"/>
+                    <div className="animate-spin rounded-full h-4 w-4 border-2 border-black border-t-transparent" />
                     Validating...
                   </>
                 ) : validationMessage.includes("Valid") ? (
@@ -185,7 +196,6 @@ export default function GitHubModal({ isOpen, onOpenChange }: GitHubModalProps) 
                   "Continue with GitHub"
                 )}
               </button>
-
             </div>
           </div>
         </div>

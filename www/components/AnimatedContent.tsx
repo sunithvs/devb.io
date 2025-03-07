@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import { motion } from "framer-motion";
 import { ReactNode } from "react";
@@ -58,7 +58,7 @@ export function AnimatedText({ children, className }: AnimatedProps) {
         duration: 0.5,
         type: "spring",
         damping: 20,
-        stiffness: 100
+        stiffness: 100,
       }}
       className={className}
     >
@@ -78,7 +78,7 @@ export function AnimatedTitle({ children, className }: AnimatedProps) {
         type: "spring",
         damping: 20,
         stiffness: 100,
-        delay: 0.1
+        delay: 0.1,
       }}
       className={className}
     >
@@ -93,7 +93,7 @@ export function AnimatedListItem({ children, className }: AnimatedProps) {
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-50px" }}
-       whileHover={{ scale: 1.02 }}
+      whileHover={{ scale: 1.02 }}
       transition={{ type: "spring", stiffness: 400, damping: 17 }}
       whileTap={{ scale: 0.98 }}
       className={className}

@@ -1,7 +1,6 @@
 import Image from "next/image";
-import { User, Github, Globe, Linkedin, Twitter } from "lucide-react";
+import { Github, Globe, Linkedin, Twitter, User } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
-import ClientResumeButton from "@/components/ClientResumeButton";
 import { getUserProfile } from "@/lib/api";
 
 // Utility functions
@@ -22,9 +21,9 @@ const iconComponents = {
 
 export async function ProfileSection({ username }: { username: string }) {
   const user = await getUserProfile(username);
-  
+
   if (!user) return <ProfileSkeleton />;
-  
+
   return (
     <div className="rounded-xl border-[1px] border-black bg-white overflow-hidden w-full max-w-md lg:max-w-none border-b-6">
       <div className="h-28 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
@@ -46,17 +45,13 @@ export async function ProfileSection({ username }: { username: string }) {
           <h1 className="font-bold text-2xl mb-2 text-black">
             {user.name.toUpperCase()}
           </h1>
-          <p className="text-gray-700 text-md">
-            {user.bio}
-          </p>
+          <p className="text-gray-700 text-md">{user.bio}</p>
         </div>
 
         <div className="mt-4">
           <div className="flex items-center gap-2 mb-4">
             <User className="w-5 h-5" />
-            <h2 className="font-bold">
-              Connect with me
-            </h2>
+            <h2 className="font-bold">Connect with me</h2>
           </div>
           <div className="flex flex-wrap gap-3">
             <div className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300">
@@ -68,11 +63,7 @@ export async function ProfileSection({ username }: { username: string }) {
                 className="w-full h-full flex items-center justify-center "
               >
                 <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
-                  <Github
-                    size={24}
-                    strokeWidth={2}
-                    className="text-black"
-                  />
+                  <Github size={24} strokeWidth={2} className="text-black" />
                 </span>
                 <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
                   GitHub
@@ -80,8 +71,7 @@ export async function ProfileSection({ username }: { username: string }) {
               </a>
             </div>
             {user.social_accounts?.map((account) => {
-              if (account.provider.toLowerCase() === "github")
-                return null;
+              if (account.provider.toLowerCase() === "github") return null;
               const provider = account.provider.toLowerCase();
               const tooltipText =
                 account.provider === "generic"
@@ -131,7 +121,7 @@ export async function ProfileSection({ username }: { username: string }) {
                 </div>
               );
             })}
-            <ClientResumeButton username={username} />
+            {/*<ClientResumeButton username={username} />*/}
           </div>
         </div>
 
@@ -141,10 +131,7 @@ export async function ProfileSection({ username }: { username: string }) {
               {user.achievements?.total_contributions} Contributions
             </h2>
             <div className="overflow-hidden">
-              <div
-                className="relative w-full"
-                style={{ height: "100px" }}
-              >
+              <div className="relative w-full" style={{ height: "100px" }}>
                 <img
                   className="absolute top-[32%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
                   src={`https://ghchart.rshah.org/5F8417/${user.username}`}

@@ -5,11 +5,11 @@ import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
-import { ProfileSection } from "@/app/components/ProfileSection";
-import { AboutSection } from "@/app/components/AboutSection";
-import { ExperienceSection } from "@/app/components/ExperienceSection";
-import { EducationSection } from "@/app/components/EducationSection";
-import { ProjectsSection } from "@/app/components/ProjectsSection";
+import { ProfileSection } from "@/components/ProfileSection";
+import { AboutSection } from "@/components/AboutSection";
+import { ExperienceSection } from "@/components/ExperienceSection";
+import { EducationSection } from "@/components/EducationSection";
+import { ProjectsSection } from "@/components/ProjectsSection";
 
 export default async function Page({
   params,
@@ -17,6 +17,8 @@ export default async function Page({
   params: Promise<{ username: string }>;
 }) {
   const { username } = await params;
+
+  if (!username) return null;
 
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8 fade-in">

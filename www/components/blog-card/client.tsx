@@ -48,7 +48,9 @@ export default function BlogCardClient({ post, index }: BlogCardProps) {
             </span>
           ))}
         </div>
-        <h3 className="text-lg font-semibold mb-2 line-clamp-2">{post.title}</h3>
+        <h3 className="text-lg font-semibold mb-2 line-clamp-2">
+          {post.title}
+        </h3>
         <p className="text-gray-600 text-sm line-clamp-3">
           {post.description.replace(/<[^>]*>/g, "")}
         </p>

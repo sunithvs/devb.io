@@ -3,8 +3,8 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
-import { useState, useEffect } from "react";
-import { Menu, X, Book, GitFork } from "lucide-react";
+import { useEffect, useState } from "react";
+import { Book, GitFork, Menu, X } from "lucide-react";
 
 export default function AnimatedNavClient() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -30,10 +30,7 @@ export default function AnimatedNavClient() {
     >
       <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
-          <Link 
-            href="/" 
-            className="flex items-center gap-2"
-          >
+          <Link href="/www/public" className="flex items-center gap-2">
             <div className="relative w-24 h-8">
               <Image
                 src="/images/logo-full.png"
@@ -55,12 +52,12 @@ export default function AnimatedNavClient() {
               <span>Docs</span>
             </Link>
             <div className="flex items-center">
-              <iframe 
-                src="https://ghbtns.com/github-btn.html?user=sunithvs&repo=devb.io&type=star&count=true" 
-                frameBorder="0" 
-                scrolling="0" 
-                width="100" 
-                height="20" 
+              <iframe
+                src="https://ghbtns.com/github-btn.html?user=sunithvs&repo=devb.io&type=star&count=true"
+                frameBorder="0"
+                scrolling="0"
+                width="100"
+                height="20"
                 title="GitHub"
                 className="transform translate-y-[1px]"
               />
@@ -89,7 +86,10 @@ export default function AnimatedNavClient() {
         <motion.div
           className={`md:hidden ${isMenuOpen ? "block" : "hidden"}`}
           initial={{ opacity: 0, height: 0 }}
-          animate={{ opacity: isMenuOpen ? 1 : 0, height: isMenuOpen ? "auto" : 0 }}
+          animate={{
+            opacity: isMenuOpen ? 1 : 0,
+            height: isMenuOpen ? "auto" : 0,
+          }}
           transition={{ duration: 0.3 }}
         >
           <div className="py-4 space-y-2">
@@ -101,12 +101,12 @@ export default function AnimatedNavClient() {
               <span>Documentation</span>
             </Link>
             <div className="px-4 py-2">
-              <iframe 
-                src="https://ghbtns.com/github-btn.html?user=sunithvs&repo=devb.io&type=star&count=true" 
-                frameBorder="0" 
-                scrolling="0" 
-                width="100" 
-                height="20" 
+              <iframe
+                src="https://ghbtns.com/github-btn.html?user=sunithvs&repo=devb.io&type=star&count=true"
+                frameBorder="0"
+                scrolling="0"
+                width="100"
+                height="20"
                 title="GitHub"
               />
             </div>

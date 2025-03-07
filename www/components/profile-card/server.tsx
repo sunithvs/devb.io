@@ -1,12 +1,12 @@
 import ProfileCardClient from "./client";
 
-export default function ProfileCard({ 
-  name, 
-  username, 
-  avatarUrl, 
+export default function ProfileCard({
+  name,
+  username,
+  avatarUrl,
   bio,
-  index 
-}: { 
+  index,
+}: {
   name: string;
   username: string;
   avatarUrl: string;
@@ -14,12 +14,11 @@ export default function ProfileCard({
   index: number;
 }) {
   return (
-    <ProfileCardClient 
-      name={name} 
-      username={username} 
+    <ProfileCardClient
+      name={name}
+      username={username}
       avatarUrl={avatarUrl}
       bio={bio}
-
       index={index}
     />
   );

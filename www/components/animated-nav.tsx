@@ -5,14 +5,14 @@ import Image from "next/image";
 
 export default function AnimatedNav() {
   return (
-    <motion.nav 
+    <motion.nav
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ type: "spring", stiffness: 100 }}
       className="fixed w-full bg-white/70 backdrop-blur-md z-50 py-4 shadow-sm border-b border-gray-100"
     >
       <div className="container mx-auto px-4 flex items-center justify-between">
-        <motion.div 
+        <motion.div
           className="flex gap-3"
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 400 }}
@@ -29,7 +29,11 @@ export default function AnimatedNav() {
           {["Home", "How It Works", "Services", "People"].map((item, index) => (
             <motion.a
               key={item}
-              href={item === "Home" ? "#" : `#${item.toLowerCase().replace(/\s+/g, '-')}`}
+              href={
+                item === "Home"
+                  ? "#"
+                  : `#${item.toLowerCase().replace(/\s+/g, "-")}`
+              }
               className="hover:text-lime-500 transition-colors relative"
               whileHover={{ scale: 1.1 }}
               initial={{ opacity: 0, y: -20 }}
@@ -46,7 +50,7 @@ export default function AnimatedNav() {
             </motion.a>
           ))}
         </div>
-        <motion.div 
+        <motion.div
           className="flex gap-3 justify-end items-end rounded-lg"
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}

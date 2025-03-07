@@ -1,12 +1,13 @@
 import { ArrowDown } from "lucide-react";
 import ProjectCard from "@/components/project-card";
-import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
 import { getUserProjects } from "@/lib/api";
 
 export async function ProjectsSection({ username }: { username: string }) {
   const userProjects = await getUserProjects(username);
 
-  if (!userProjects) return <ProjectListSkeleton />;
+  const hasProjects = userProjects && userProjects?.top_projects?.length > 0;
+
+  if (!hasProjects) return null;
 
   return (
     <div>

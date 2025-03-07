@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Github, Globe, Linkedin, Twitter, User } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { getUserProfile } from "@/lib/api";
+import ClientResumeButton from "@/components/ClientResumeButton";
 
 // Utility functions
 const extractDomainName = (url: string) => {
@@ -121,7 +122,7 @@ export async function ProfileSection({ username }: { username: string }) {
                 </div>
               );
             })}
-            {/*<ClientResumeButton username={username} />*/}
+            <ClientResumeButton username={username} />
           </div>
         </div>
 

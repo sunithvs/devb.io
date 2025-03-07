@@ -7,7 +7,6 @@ import { ExternalLink, GitFork, Github, Star } from "lucide-react";
 import Badge from "@/components/Badge";
 import { motion } from "framer-motion";
 
-// Array of vibrant colors for the separator
 const SEPARATOR_COLORS = [
   "bg-[#E63946]", // Deep Red
   "bg-[#2A9D8F]", // Dark Teal
@@ -30,15 +29,20 @@ const ProjectCard = ({
   homepage,
   forks,
 }: Project) => {
-  // Determine if it's a GitHub preview or microlink preview
   const isGithubPreview = !homepage;
   const previewUrl = isGithubPreview
     ? `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`
     : `https://api.microlink.io?url=${encodeURIComponent(homepage)}&screenshot=true&embed=screenshot.url`;
 
-  // Get a random color for the separator
-  const separatorColor =
-    SEPARATOR_COLORS[Math.floor(Math.random() * SEPARATOR_COLORS.length)];
+  const getColorIndex = (str: string) => {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+      hash = str.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    return Math.abs(hash) % SEPARATOR_COLORS.length;
+  };
+
+  const separatorColor = SEPARATOR_COLORS[getColorIndex(name)];
 
   return (
     <motion.div

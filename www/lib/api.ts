@@ -60,3 +60,33 @@ export const getUserLinkedInProfile = async (
   if (!username) return null;
   return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
 };
+
+/**
+ * Get user profile data (server-side)
+ */
+export const getProfileData = async (
+  username: string,
+): Promise<Profile | null> => {
+  if (!username) return null;
+  return fetchResource<Profile>(`/user/${username}/profile`);
+};
+
+/**
+ * Get user projects data (server-side)
+ */
+export const getProjectData = async (
+  username: string,
+): Promise<UserProject | null> => {
+  if (!username) return null;
+  return fetchResource<UserProject>(`/user/${username}/projects`);
+};
+
+/**
+ * Get user LinkedIn profile data (server-side)
+ */
+export const getLinkedInProfileData = async (
+  username: string,
+): Promise<LinkedInProfile | null> => {
+  if (!username) return null;
+  return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
+};

@@ -1,4 +1,3 @@
-import React from "react";
 import {
   Document,
   Image,
@@ -9,13 +8,12 @@ import {
   Text,
   View,
 } from "@react-pdf/renderer";
+import type { LinkedInProfile } from "@/types/types";
 import {
-  useGetUserLinkedInProfile,
-  useGetUserProfile,
-  useGetUserProject,
-} from "../hooks/user-hook";
-import type { LinkedInProfile } from "../types/types";
-import { Download } from "lucide-react";
+  getLinkedInProfileData,
+  getProfileData,
+  getProjectData,
+} from "@/lib/api";
 
 const styles = StyleSheet.create({
   page: {
@@ -138,6 +136,7 @@ const getMonthString = (monthNumber: number): string => {
   }
   return monthNames[monthNumber - 1];
 };
+
 const formatExperienceDuration = (
   start: { month?: number; year: number },
   end?: {
@@ -182,13 +181,9 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
             Linkedin
           </Link>
         </View>
-        {/* <Text style={styles.text}><Image style={styles.icon} src='../public/images/gh.png'/> <Link src={data.github_url}>{ data.username} </Link> Linkedin: <Link src={data.linkedin_profile.basic_info.profile_url}> {data.linkedin_profile.basic_info.full_name}</Link></Text> */}
         <Text style={styles.text}>
           {data.linkedin_profile.basic_info.headline}
         </Text>
-        {/* <Text style={styles.text}>Location: {data.location}</Text> */}
-        {/* <Text style={styles.text}>Followers: {data.followers}</Text> */}
-        {/* <Text style={styles.text}>Following: {data.following}</Text> */}
       </View>
       {data.profile_summary && (
         <View style={styles.section}>
@@ -242,7 +237,6 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
               {project.description && (
                 <Text style={styles.text}>{project.description}</Text>
               )}
-              {/* <Text style={styles.text}>Updated: {new Date(project.updatedAt).toLocaleDateString()}</Text> */}
             </View>
           ))}
         </View>
@@ -319,27 +313,10 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
   </Document>
 );
 
-const ResumeGenerator: React.FC<{ username: string }> = ({ username }) => {
-  const {
-    data: userProfile,
-    isLoading: isLoadingProfile,
-    error: errorProfile,
-  } = useGetUserProfile(username);
-  const {
-    data: userProjects,
-    isLoading: isLoadingProjects,
-    error: errorProjects,
-  } = useGetUserProject(username);
-  const {
-    data: userLinkedInProfile,
-    isLoading: isLoadingLinkedIn,
-    error: errorLinkedIn,
-  } = useGetUserLinkedInProfile(username);
-
-  if (isLoadingProfile || isLoadingProjects || isLoadingLinkedIn)
-    return <div>Loading...</div>;
-  if (errorProfile || errorProjects || errorLinkedIn)
-    return <div>Error loading data</div>;
+async function getResumeData(username: string): Promise<ResumeData> {
+  const userProfile = await getProfileData(username);
+  const userProjects = await getProjectData(username);
+  const userLinkedInProfile = await getLinkedInProfileData(username);
 
   const defaultLinkedInProfile: LinkedInProfile = {
     experience: [],
@@ -358,7 +335,7 @@ const ResumeGenerator: React.FC<{ username: string }> = ({ username }) => {
     },
   };
 
-  const combinedData: ResumeData = {
+  return {
     name: userProfile?.name || "",
     bio: userProfile?.bio || "",
     username: userProfile?.username || "",
@@ -379,27 +356,9 @@ const ResumeGenerator: React.FC<{ username: string }> = ({ username }) => {
       issues_closed: userProfile?.issues_closed || 0,
     },
   };
-  const handleDownload = async () => {
-    const pdfInstance = pdf(<ResumeDocument data={combinedData} />);
-    const blob = await pdfInstance.toBlob();
-    const url = URL.createObjectURL(blob);
-    window.open(url, "_blank");
-  };
+}
 
-  return (
-    <a
-      onClick={handleDownload}
-      className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300 cursor-pointer"
-      title="Download Resume"
-    >
-      <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
-        <Download size={24} strokeWidth={2} className="text-black" />
-      </span>
-      <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
-        Download Resume
-      </span>
-    </a>
-  );
-};
-
-export default ResumeGenerator;
+export async function generateResumePDF(username: string) {
+  const resumeData = await getResumeData(username);
+  return pdf(<ResumeDocument data={resumeData} />);
+}

@@ -1,0 +1,147 @@
+{
+    "username": "g-raman",
+    "name": "Raman Gupta",
+    "bio": "Full Stack Developer",
+    "location": "Canada",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94656042?u=66d436ca09a76c0731c863d339617157dd7de4ed&v=4",
+    "profile_url": "https://github.com/g-raman",
+    "top_languages": [
+        [
+            "TypeScript",
+            3
+        ],
+        [
+            "Python",
+            2
+        ],
+        [
+            "JavaScript",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "uenroll",
+            "description": null,
+            "score": 12.468695534834898,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/g-raman/uenroll",
+            "updatedAt": "2025-03-05T16:18:17Z",
+            "isPinned": true,
+            "homepage": "https://uenroll.ca"
+        },
+        {
+            "name": "dotfiles",
+            "description": "@g-raman's dotfiles :)",
+            "score": 11.638478486251714,
+            "stars": 1,
+            "forks": 0,
+            "language": "Shell",
+            "url": "https://github.com/g-raman/dotfiles",
+            "updatedAt": "2024-09-29T21:58:03Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "nvim",
+            "description": "@g-raman's neovim configuration :)",
+            "score": 11.638478486251714,
+            "stars": 1,
+            "forks": 0,
+            "language": "Lua",
+            "url": "https://github.com/g-raman/nvim",
+            "updatedAt": "2024-09-29T21:56:50Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "scraper",
+            "description": "https://uenroll.ca",
+            "score": 10.603644406572768,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/g-raman/scraper",
+            "updatedAt": "2025-03-05T23:57:13Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "uoEnroll",
+            "description": "A modern course selection tool for uOttawa students",
+            "score": 1.6341426591426678,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/g-raman/uoEnroll",
+            "updatedAt": "2024-05-21T14:46:16Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "ikarus-pokedex",
+            "description": null,
+            "score": 0.2955563798618178,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/g-raman/ikarus-pokedex",
+            "updatedAt": "2024-09-29T15:03:55Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "outstem-bootstrap",
+            "description": null,
+            "score": 0.26620337326460874,
+            "stars": 0,
+            "forks": 0,
+            "language": "PowerShell",
+            "url": "https://github.com/g-raman/outstem-bootstrap",
+            "updatedAt": "2024-08-23T17:18:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "leetcode",
+            "description": null,
+            "score": 0.2613334702053725,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/g-raman/leetcode",
+            "updatedAt": "2025-01-03T16:14:55Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 3,
+    "following": 3,
+    "public_repos": 19,
+    "pull_requests_merged": 27,
+    "issues_closed": 14,
+    "achievements": {
+        "total_contributions": 1642,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/gupta-raman/"
+        }
+    ],
+    "readme_content": "[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1000&color=89B4FA&background=7865FF00&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Raman+Gupta)](https://git.io/typing-svg) \n<br />\n\n### A little about me: <br>\n\ud83d\udcda I'm a 3rd year at the University of Ottawa <br>\n\ud83c\udf0e Based in Ottawa, Ontario <br>\n\ud83d\udd0e Exploring the world of DevOps <br>\n\n\u26a1 These days, I'm doing a deep dive into *AWS* and learning its ins and outs.\n\n**\ud83e\uded5 [Checkout My Current Project](https://github.com/uoEnroll/uenrol)**\n\nLet's Connect!\n<div>\n  <a href=\"mailto:gr.gupta.raman@gmail.com\">\n    <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\"/>\n  </a> \n  \n  <a href=\"https://www.linkedin.com/in/gupta-raman/\" target=\"_blank\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white\"/>\n  </a>\n</div>\n\n# My Tech Stack\n**Front End:** <br />\n[![Front End](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass)](https://skillicons.dev)\n\n**Back End:** <br />\n[![Front End](https://skillicons.dev/icons?i=deno,nodejs,postgres,express,supabase,mongodb)](https://skillicons.dev)\n\n**DevOps:** <br />\n[![Frameworks](https://skillicons.dev/icons?i=aws,docker,terraform,jenkins)](https://skillicons.dev)\n\n**Languages:** <br />\n[![Languages](https://skillicons.dev/icons?i=ts,js,python,java,lua,bash,powershell)](https://skillicons.dev)\n\n**Developer tools:** <br />\n[![Tools](https://skillicons.dev/icons?i=linux,neovim,vim,git,github,figma,postman)](https://skillicons.dev)\n\n<picture>\n  <source\n    srcset=\"https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=default\"\n    media=\"(prefers-color-scheme: light)\"\n  />\n  <source\n    srcset=\"https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=github_dark\"\n    media=\"(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)\"\n  />\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=g-raman&layout=compact&theme=default\" />\n</picture>\n\n",
+    "activity_summary": {
+        "g-raman/uenroll": {
+            "link": "https://github.com/g-raman/uenroll",
+            "summary": "Significant activities have been observed on the g-raman/uenroll repository, primarily focusing on UI/UX improvements, bug fixes, and feature enhancements. This includes the addition of a copy link button and the removal of unnecessary imports, as well as the rearrangement of section info and the open section results by default."
+        },
+        "g-raman/scraper": {
+            "link": "https://github.com/g-raman/scraper",
+            "summary": "Moderate activities have been observed on the g-raman/scraper repository, with recent contributions focused on maintaining the repository's structure, including file formatting."
+        }
+    },
+    "profile_summary": "As a Full Stack Developer with expertise in TypeScript, Python, and JavaScript, I'm dedicated to delivering top-notch solutions across the tech spectrum. With a strong foundation in DevOps and proficiency in frameworks such as React, Angular, and Next.js, I stay at the forefront of innovation, continuously exploring new technologies, including AWS, Deno, and Supabase."
+}

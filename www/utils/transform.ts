@@ -14,9 +14,9 @@ export const transformLinkedInData = (
         subtitle: exp.company,
         location: exp.location,
         duration: {
-          start: `${exp.duration.start.year} ${exp.duration.start.month ? `${getMonth(exp.duration.start.month)}` : ""}`,
+          start: `${exp.duration.start?.year} ${exp.duration.start?.month ? `${getMonth(exp.duration.start?.month)}` : ""}`,
           end: exp.duration.end
-            ? `${exp.duration.end.year} ${exp.duration.end.month ? `${getMonth(exp.duration.end.month)}` : ""}`
+            ? `${exp.duration.end?.year} ${exp.duration.end?.month ? `${getMonth(exp.duration.end?.month)}` : ""}`
             : undefined,
         },
         logo: `${exp.company[0]}`,
@@ -29,8 +29,8 @@ export const transformLinkedInData = (
         subtitle: edu.school,
         location: edu.field || "",
         duration: {
-          start: `${edu.duration.start.year}`,
-          end: `${edu.duration.end.year}`,
+          start: `${edu.duration.start?.year}`,
+          end: `${edu.duration.end?.year}`,
         },
         logo: `${edu.school[0]}`,
       };

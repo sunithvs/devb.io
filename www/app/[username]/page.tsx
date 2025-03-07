@@ -7,8 +7,7 @@ import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
 import { ProfileSection } from "@/components/ProfileSection";
 import { AboutSection } from "@/components/AboutSection";
-import { ExperienceSection } from "@/components/ExperienceSection";
-import { EducationSection } from "@/components/EducationSection";
+import { LinkedInSection } from "@/components/LinkedInSection";
 import { ProjectsSection } from "@/components/ProjectsSection";
 
 export default async function Page({
@@ -47,11 +46,7 @@ export default async function Page({
         </Suspense>
 
         <Suspense fallback={<TimelineSkeleton />}>
-          <ExperienceSection username={username} />
-        </Suspense>
-
-        <Suspense fallback={<TimelineSkeleton />}>
-          <EducationSection username={username} />
+          <LinkedInSection username={username} />
         </Suspense>
 
         <Suspense fallback={<ProjectListSkeleton />}>

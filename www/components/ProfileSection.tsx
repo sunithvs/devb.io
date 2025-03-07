@@ -3,6 +3,11 @@ import { Github, Globe, Linkedin, Twitter, User } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { getUserProfile } from "@/lib/api";
 import ClientResumeButton from "@/components/ClientResumeButton";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
 // Utility functions
 const extractDomainName = (url: string) => {
@@ -55,22 +60,28 @@ export async function ProfileSection({ username }: { username: string }) {
             <h2 className="font-bold">Connect with me</h2>
           </div>
           <div className="flex flex-wrap gap-3">
-            <div className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300">
-              <a
-                href={`https://github.com/${username}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="GitHub"
-                className="w-full h-full flex items-center justify-center "
-              >
-                <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
-                  <Github size={24} strokeWidth={2} className="text-black" />
-                </span>
-                <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
-                  GitHub
-                </span>
-              </a>
-            </div>
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <div className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300">
+                  <a
+                    href={`https://github.com/${username}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="GitHub"
+                    className="w-full h-full flex items-center justify-center "
+                  >
+                    <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
+                      <Github
+                        size={24}
+                        strokeWidth={2}
+                        className="text-black"
+                      />
+                    </span>
+                  </a>
+                </div>
+              </TooltipTrigger>
+              <TooltipContent>GitHub</TooltipContent>
+            </Tooltip>
             {user.social_accounts?.map((account) => {
               if (account.provider.toLowerCase() === "github") return null;
               const provider = account.provider.toLowerCase();
@@ -80,46 +91,45 @@ export async function ProfileSection({ username }: { username: string }) {
                   : account.provider;
 
               return (
-                <div
-                  key={account.url}
-                  className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300"
-                >
-                  <a
-                    href={account.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    title={tooltipText}
-                    className="w-full h-full flex items-center justify-center "
-                  >
-                    {account.url.includes("devb.io") ? (
-                      <Image
-                        src="/images/logo.png"
-                        alt="devb.io"
-                        width={24}
-                        height={24}
-                      />
-                    ) : (
-                      <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
-                        {(() => {
-                          const IconComponent =
-                            iconComponents[
-                              provider as keyof typeof iconComponents
-                            ] || iconComponents.generic;
-                          return (
-                            <IconComponent
-                              size={24}
-                              strokeWidth={2}
-                              className="text-black"
-                            />
-                          );
-                        })()}
-                      </span>
-                    )}
-                    <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
-                      {tooltipText}
-                    </span>
-                  </a>
-                </div>
+                <Tooltip key={account.url}>
+                  <TooltipTrigger asChild>
+                    <div className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300">
+                      <a
+                        href={account.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title={tooltipText}
+                        className="w-full h-full flex items-center justify-center "
+                      >
+                        {account.url.includes("devb.io") ? (
+                          <Image
+                            src="/images/logo.png"
+                            alt="devb.io"
+                            width={24}
+                            height={24}
+                          />
+                        ) : (
+                          <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
+                            {(() => {
+                              const IconComponent =
+                                iconComponents[
+                                  provider as keyof typeof iconComponents
+                                ] || iconComponents.generic;
+                              return (
+                                <IconComponent
+                                  size={24}
+                                  strokeWidth={2}
+                                  className="text-black"
+                                />
+                              );
+                            })()}
+                          </span>
+                        )}
+                      </a>
+                    </div>
+                  </TooltipTrigger>
+                  <TooltipContent>{tooltipText}</TooltipContent>
+                </Tooltip>
               );
             })}
             <ClientResumeButton username={username} />

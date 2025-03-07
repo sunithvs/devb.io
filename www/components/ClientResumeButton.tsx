@@ -2,6 +2,11 @@
 
 import { useState } from "react";
 import { Download, Loader2 } from "lucide-react";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
 export default function ClientResumeButton({ username }: { username: string }) {
   const [isLoading, setIsLoading] = useState(false);
@@ -26,25 +31,29 @@ export default function ClientResumeButton({ username }: { username: string }) {
   };
 
   return (
-    <a
-      onClick={handleDownload}
-      className={`group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black ${!isLoading ? "hover:bg-[#B9FF66]" : ""} transition-all duration-300 ${isLoading ? "cursor-wait" : "cursor-pointer"}`}
-      title="Download Resume"
-    >
-      <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
-        {isLoading ? (
-          <Loader2
-            size={24}
-            strokeWidth={2}
-            className="animate-spin text-black"
-          />
-        ) : (
-          <Download size={24} strokeWidth={2} className="text-black" />
-        )}
-      </span>
-      <span className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-black text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap z-10">
+    <Tooltip>
+      <TooltipTrigger asChild>
+        <a
+          onClick={handleDownload}
+          className={`group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black ${!isLoading ? "hover:bg-[#B9FF66]" : ""} transition-all duration-300 ${isLoading ? "cursor-wait" : "cursor-pointer"}`}
+          title="Download Resume"
+        >
+          <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
+            {isLoading ? (
+              <Loader2
+                size={24}
+                strokeWidth={2}
+                className="animate-spin text-black"
+              />
+            ) : (
+              <Download size={24} strokeWidth={2} className="text-black" />
+            )}
+          </span>
+        </a>
+      </TooltipTrigger>
+      <TooltipContent>
         {isLoading ? "Generating Resume..." : "Download Resume"}
-      </span>
-    </a>
+      </TooltipContent>
+    </Tooltip>
   );
 }

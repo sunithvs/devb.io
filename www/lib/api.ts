@@ -12,7 +12,11 @@ const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 /**
  * Fetch resource with Next.js caching
  */
-const fetchResource = async <T>(endpoint: string): Promise<T | null> => {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const fetchResource = async <T>(
+  endpoint: string,
+  options: any = {},
+): Promise<T | null> => {
   try {
     const url = `${BASE_URL}${endpoint}`;
     const response = await fetch(url, {
@@ -23,6 +27,7 @@ const fetchResource = async <T>(endpoint: string): Promise<T | null> => {
       },
       next: {
         revalidate: 3600, // Revalidate every hour
+        ...options.next,
       },
     });
 
@@ -63,8 +68,31 @@ export const getUserProjects = async (
 export const getUserLinkedInProfile = async (
   username: string,
 ): Promise<LinkedInProfile | null> => {
-  if (!username) return null;
-  return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
+  try {
+    if (!username) return null;
+
+    // Add a cache tag for better revalidation
+    const data = await fetchResource<LinkedInProfile>(
+      `/user/${username}/linkedin`,
+      {
+        next: {
+          revalidate: 3600, // 1 hour
+          tags: [`linkedin-${username}`],
+        },
+      },
+    );
+
+    // Validate the returned data structure
+    if (!data || !data.basic_info) {
+      console.warn(`Invalid LinkedIn data structure for user: ${username}`);
+      return null;
+    }
+
+    return data;
+  } catch (error) {
+    console.error(`Error fetching LinkedIn data for ${username}:`, error);
+    return null;
+  }
 };
 
 /**

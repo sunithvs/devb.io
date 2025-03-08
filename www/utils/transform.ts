@@ -10,29 +10,29 @@ export const transformLinkedInData = (
       // Experience item
       const exp = item as Experience;
       return {
-        title: exp.title,
-        subtitle: exp.company,
-        location: exp.location,
+        title: exp.title || "",
+        subtitle: exp.company || "",
+        location: exp.location || "",
         duration: {
-          start: `${exp.duration.start?.year} ${exp.duration.start?.month ? `${getMonth(exp.duration.start?.month)}` : ""}`,
-          end: exp.duration.end
-            ? `${exp.duration.end?.year} ${exp.duration.end?.month ? `${getMonth(exp.duration.end?.month)}` : ""}`
+          start: `${exp.duration?.start?.year || ""} ${exp.duration?.start?.month ? `${getMonth(exp.duration.start.month)}` : ""}`,
+          end: exp.duration?.end
+            ? `${exp.duration.end?.year || ""} ${exp.duration.end?.month ? `${getMonth(exp.duration.end.month)}` : ""}`
             : undefined,
         },
-        logo: `${exp.company[0]}`,
+        logo: exp.company && exp.company.length > 0 ? `${exp.company[0]}` : "",
       };
     } else {
       // Education item
       const edu = item as Education;
       return {
-        title: edu.degree,
-        subtitle: edu.school,
+        title: edu.degree || "",
+        subtitle: edu.school || "",
         location: edu.field || "",
         duration: {
-          start: `${edu.duration.start?.year}`,
-          end: `${edu.duration.end?.year}`,
+          start: `${edu.duration?.start?.year || ""}`,
+          end: `${edu.duration?.end?.year || ""}`,
         },
-        logo: `${edu.school[0]}`,
+        logo: edu.school && edu.school.length > 0 ? `${edu.school[0]}` : "",
       };
     }
   });

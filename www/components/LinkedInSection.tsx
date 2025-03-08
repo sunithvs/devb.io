@@ -19,9 +19,13 @@ export async function LinkedInSection({ username }: { username: string }) {
 
   // Check if we have experience or education data
   const hasExperience =
-    linkedInData?.experience && linkedInData.experience.length > 0;
+    linkedInData?.experience &&
+    Array.isArray(linkedInData.experience) &&
+    linkedInData.experience.length > 0;
   const hasEducation =
-    linkedInData?.education && linkedInData.education.length > 0;
+    linkedInData?.education &&
+    Array.isArray(linkedInData.education) &&
+    linkedInData.education.length > 0;
 
   if (!linkedInData || (!hasExperience && !hasEducation)) return null;
 
@@ -33,7 +37,11 @@ export async function LinkedInSection({ username }: { username: string }) {
             Experience <ArrowDown strokeWidth={2} className="inline" />
           </h2>
           <Timeline
-            items={transformLinkedInData(linkedInData.experience)}
+            items={
+              linkedInData.experience
+                ? transformLinkedInData(linkedInData.experience)
+                : []
+            }
             backgroundColor="bg-[#B9FF66]"
           />
         </div>
@@ -45,7 +53,11 @@ export async function LinkedInSection({ username }: { username: string }) {
             Education <ArrowDown strokeWidth={2} className="inline" />
           </h2>
           <Timeline
-            items={transformLinkedInData(linkedInData.education)}
+            items={
+              linkedInData.education
+                ? transformLinkedInData(linkedInData.education)
+                : []
+            }
             backgroundColor="bg-white"
           />
         </div>

@@ -1,0 +1,138 @@
+{
+    "username": "rihadroshan",
+    "name": "Rihad Roshan",
+    "bio": "Hello Friend.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/152946208?u=670cd08e9af17e5ee39b9cc0701cfeadc660ca2f&v=4",
+    "profile_url": "https://github.com/rihadroshan",
+    "top_languages": [
+        [
+            "Python",
+            6
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "ssh-honeypot",
+            "description": "Logs authentication attempts and command executions, providing insights into potential malicious activities.",
+            "score": 14.119252258482284,
+            "stars": 2,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/rihadroshan/ssh-honeypot",
+            "updatedAt": "2025-03-06T08:43:19Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "SOAR-EDR-Playbook",
+            "description": "This automates threat detection, alerting, and machine isolation using LimaCharlie, Tines, Slack, and Email. ",
+            "score": 10.51896438439179,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rihadroshan/SOAR-EDR-Playbook",
+            "updatedAt": "2025-03-04T04:43:43Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "ADSec-Lab",
+            "description": "A comprehensive security lab environment featuring Active Directory, Splunk monitoring, and security testing capabilities.",
+            "score": 10.460391514645202,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/rihadroshan/ADSec-Lab",
+            "updatedAt": "2025-02-28T09:42:55Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "codesentry",
+            "description": "A comprehensive tool designed to analyze source code and scan web for potential vulnerabilities. ",
+            "score": 10.40131957962858,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rihadroshan/codesentry",
+            "updatedAt": "2025-03-08T05:25:10Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "Ollama-WebUI",
+            "description": "A responsive web interface designed for interacting with local AI models.",
+            "score": 0.4185829699134354,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/rihadroshan/Ollama-WebUI",
+            "updatedAt": "2025-02-27T03:08:49Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "TIME",
+            "description": null,
+            "score": 0.3796273039159753,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/rihadroshan/TIME",
+            "updatedAt": "2025-03-03T09:21:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "packetsniffer",
+            "description": "A tool that captures and analyzes network packets. This script focuses on IP packets such as the protocol type, sender IP address, and target IP address.",
+            "score": 0.2810284400039237,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rihadroshan/packetsniffer",
+            "updatedAt": "2025-02-27T03:10:00Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "keylogger",
+            "description": " Designed for Windows, this keylogger operates discreetly, running silently in the background with the console window hidden.",
+            "score": 0.2805254974550197,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/rihadroshan/keylogger",
+            "updatedAt": "2025-03-08T05:24:45Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 6,
+    "following": 8,
+    "public_repos": 13,
+    "pull_requests_merged": 12,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 607,
+        "repositories_contributed_to": 3
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/rihadroshan"
+        }
+    ],
+    "readme_content": "\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

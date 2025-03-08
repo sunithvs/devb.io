@@ -1,75 +1,80 @@
+"use client";
+
 import { ArrowDown } from "lucide-react";
 import Timeline from "@/components/timeline";
-import { getUserLinkedInProfile, getUserProfile } from "@/lib/api";
 import { transformLinkedInData } from "@/utils/transform";
+import {
+  useGetUserLinkedInProfile,
+  useGetUserProfile,
+} from "@/hooks/user-hook";
+import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 
-export async function LinkedInSection({ username }: { username: string }) {
-  try {
-    const user = await getUserProfile(username);
-    if (!user) return null;
+export function LinkedInSection({ username }: { username: string }) {
+  const { data: user } = useGetUserProfile(username);
 
-    const linkedInAccount = user?.social_accounts?.find(
-      (e) => e.provider === "linkedin",
-    );
-    const linkedInUsername =
-      linkedInAccount?.url?.split("in/").pop()?.replace("/", "") || "";
+  // Find LinkedIn account from user's social accounts
+  const linkedInAccount = user?.social_accounts?.find(
+    (e) => e.provider === "linkedin",
+  );
 
-    if (!linkedInUsername) return null;
+  const linkedInUsername =
+    linkedInAccount?.url?.split("in/").pop()?.replace("/", "") || "";
 
-    const linkedInData = await getUserLinkedInProfile(linkedInUsername);
+  // Only fetch LinkedIn data if we have a username
+  const { data: linkedInData, isLoading } =
+    useGetUserLinkedInProfile(linkedInUsername);
 
-    // If linkedInData is null or undefined, return early
-    if (!linkedInData) return null;
+  // Show loading state while fetching data
+  if (isLoading) return <TimelineSkeleton />;
 
-    // Check if we have experience or education data
-    const hasExperience =
-      linkedInData?.experience &&
-      Array.isArray(linkedInData.experience) &&
-      linkedInData.experience.length > 0;
-    const hasEducation =
-      linkedInData?.education &&
-      Array.isArray(linkedInData.education) &&
-      linkedInData.education.length > 0;
+  // If no LinkedIn username or data, return null
+  if (!linkedInUsername || !linkedInData) return null;
 
-    if (!hasExperience && !hasEducation) return null;
+  // Check if we have experience or education data
+  const hasExperience =
+    linkedInData?.experience &&
+    Array.isArray(linkedInData.experience) &&
+    linkedInData.experience.length > 0;
+  const hasEducation =
+    linkedInData?.education &&
+    Array.isArray(linkedInData.education) &&
+    linkedInData.education.length > 0;
 
-    return (
-      <>
-        {hasExperience && (
-          <div className="mb-8">
-            <h2 className="text-2xl font-bold mb-8">
-              Experience <ArrowDown strokeWidth={2} className="inline" />
-            </h2>
-            <Timeline
-              items={
-                linkedInData.experience
-                  ? transformLinkedInData(linkedInData.experience)
-                  : []
-              }
-              backgroundColor="bg-[#B9FF66]"
-            />
-          </div>
-        )}
+  if (!hasExperience && !hasEducation) return null;
 
-        {hasEducation && (
-          <div>
-            <h2 className="text-2xl font-bold mb-8">
-              Education <ArrowDown strokeWidth={2} className="inline" />
-            </h2>
-            <Timeline
-              items={
-                linkedInData.education
-                  ? transformLinkedInData(linkedInData.education)
-                  : []
-              }
-              backgroundColor="bg-white"
-            />
-          </div>
-        )}
-      </>
-    );
-  } catch (error) {
-    console.error("Error in LinkedInSection:", error);
-    return null; // Return null instead of crashing on error
-  }
+  return (
+    <>
+      {hasExperience && (
+        <div className="mb-8">
+          <h2 className="text-2xl font-bold mb-8">
+            Experience <ArrowDown strokeWidth={2} className="inline" />
+          </h2>
+          <Timeline
+            items={
+              linkedInData.experience
+                ? transformLinkedInData(linkedInData.experience)
+                : []
+            }
+            backgroundColor="bg-[#B9FF66]"
+          />
+        </div>
+      )}
+
+      {hasEducation && (
+        <div>
+          <h2 className="text-2xl font-bold mb-8">
+            Education <ArrowDown strokeWidth={2} className="inline" />
+          </h2>
+          <Timeline
+            items={
+              linkedInData.education
+                ? transformLinkedInData(linkedInData.education)
+                : []
+            }
+            backgroundColor="bg-white"
+          />
+        </div>
+      )}
+    </>
+  );
 }

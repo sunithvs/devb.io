@@ -3,7 +3,6 @@ import Link from "next/link";
 import { Suspense } from "react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
-import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
 import { MediumBlogsSkeleton } from "@/components/skeletons/medium-blogs-skeleton";
 import { ProfileSection } from "@/components/ProfileSection";
@@ -47,9 +46,8 @@ export default async function Page({
           <AboutSection username={username} />
         </Suspense>
 
-        <Suspense fallback={<TimelineSkeleton />}>
-          <LinkedInSection username={username} />
-        </Suspense>
+        {/* Client component - no need for Suspense */}
+        <LinkedInSection username={username} />
 
         <Suspense fallback={<ProjectListSkeleton />}>
           <ProjectsSection username={username} />

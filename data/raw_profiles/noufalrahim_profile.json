@@ -1,0 +1,163 @@
+{
+    "username": "noufalrahim",
+    "name": "Noufal Rahim",
+    "bio": "Full Stack Web & App Developer | React, React Native, Node.js, Express, Next.js | Passionate about seamless user experiences and scalable solutions \ud83d\udcbb\ud83d\ude80",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/120470585?u=f3e86308e33d76ede638eb3fa20654d97bc46d73&v=4",
+    "profile_url": "https://github.com/noufalrahim",
+    "top_languages": [
+        [
+            "TypeScript",
+            22
+        ],
+        [
+            "C",
+            1
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "insightLink",
+            "description": null,
+            "score": 11.658757516192342,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/insightLink",
+            "updatedAt": "2024-07-11T01:11:14Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CodeIt",
+            "description": "CodeIt is an online ide which can be used to write different programming languages including c, cpp, verilog etc",
+            "score": 11.642357371817093,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/CodeIt",
+            "updatedAt": "2024-07-19T10:08:09Z",
+            "isPinned": true,
+            "homepage": "https://codeitnow.vercel.app"
+        },
+        {
+            "name": "Calculus",
+            "description": "Calculus is an accounting desktop software with ai integration and business analytics.",
+            "score": 11.641011815041223,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/Calculus",
+            "updatedAt": "2024-07-11T01:07:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Sudoku-App",
+            "description": null,
+            "score": 11.641011815041223,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/Sudoku-App",
+            "updatedAt": "2024-03-31T14:51:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "LeetCode-App",
+            "description": null,
+            "score": 11.640536072475967,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/LeetCode-App",
+            "updatedAt": "2024-07-09T18:39:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "personal-portfolio",
+            "description": "A website about me!",
+            "score": 11.632730292676195,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/personal-portfolio",
+            "updatedAt": "2024-07-20T06:30:18Z",
+            "isPinned": true,
+            "homepage": "https://noufalrahim.vercel.app"
+        },
+        {
+            "name": "website-builder",
+            "description": null,
+            "score": 1.6742306289189424,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/noufalrahim/website-builder",
+            "updatedAt": "2024-09-09T01:26:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "minor-allocation-system",
+            "description": null,
+            "score": 1.6549432357758667,
+            "stars": 1,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/noufalrahim/minor-allocation-system",
+            "updatedAt": "2024-10-14T07:36:59Z",
+            "isPinned": false,
+            "homepage": "https://minor-allocation-system.vercel.app"
+        }
+    ],
+    "followers": 3,
+    "following": 4,
+    "public_repos": 60,
+    "pull_requests_merged": 30,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 534,
+        "repositories_contributed_to": 6
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/noufalrahim/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/noufalrahim__"
+        }
+    ],
+    "readme_content": "# NOUFAL RAHIM - Full Stack Web and App Developer\n\nWelcome to my GitHub repository! I am Noufal Rahim, a passionate Full Stack Web and App Developer with expertise in a wide range of technologies. I specialize in creating seamless and user-friendly applications using cutting-edge technologies.\n\n## About Me\n\nI am dedicated to crafting high-quality solutions that meet the needs of users and businesses alike. With a strong foundation in both frontend and backend development, I bring a holistic approach to my projects.\n\n## Key Strengths\n\n- **React and React Native Excellence:** I excel in building dynamic and responsive user interfaces using React for web applications and React Native for cross-platform mobile app development.\n\n- **Node.js and Express Mastery:** Leveraging the power of Node.js and Express, I create robust and scalable server-side applications, ensuring optimal performance.\n\n- **Database Expertise:** My proficiency in MySQL allows me to design efficient database architectures, ensuring data integrity and reliability.\n\n## Projects\n\nExplore my repositories to find a collection of projects that showcase my skills and passion for creating innovative solutions. Whether it's a web application, mobile app, or a full-stack project, I strive for excellence in every line of code.\n\n## Contact\n\nFeel free to reach out if you have any questions, collaboration opportunities, or just want to connect. You can find me on <a href = \"https://linkedin.com/noufalrahim\">LinkedIn</a>.\n\nLet's build something amazing together! \ud83d\ude80\n",
+    "activity_summary": {
+        "noufalrahim/intpurple_be": {
+            "link": "https://github.com/noufalrahim/intpurple_be",
+            "summary": "In the past week, the repository has seen multiple push events. The changelogs indicate significant modifications to the project, including adding and modifying files in the project files, requirements, and settings. These changes suggest efforts to improve or refactor existing functionality."
+        },
+        "noufalrahim/website-crawler": {
+            "link": "https://github.com/noufalrahim/website-crawler",
+            "summary": "Recent pushes point to improvements in UI responsiveness and active engagement with UI. Gitignore was modified, and the background color was changed. Google analytics UI was added, and for its integration additional code was added."
+        },
+        "noufalrahim/Milestone-Tracker-For-Infants": {
+            "link": "https://github.com/noufalrahim/Milestone-Tracker-For-Infants",
+            "summary": "Recent activities have primarily focused on adding features to the project. A system requirements specification (SRS) document was uploaded, and features like a timeline were added, along with other amenities."
+        },
+        "noufalrahim/cmc_fe": {
+            "link": "https://github.com/noufalrahim/cmc_fe",
+            "summary": "A recent push brought surgeons, nurse, and anesthesia pages to the project."
+        },
+        "noufalrahim/doit_server": {
+            "link": "https://github.com/noufalrahim/doit_server",
+            "summary": "There has been a single push event to the repository in the past couple of weeks. This event suggests that some files have been updated, with the specific changes mentioned in the changelog."
+        }
+    },
+    "profile_summary": "As a seasoned full stack web and app developer, I bring a unique combination of expertise in frontend and backend development to the table. With a strong foundation in TypeScript, C, and C++, I've honed my skills in crafting scalable solutions using React, React Native, Node.js, and Express. My passion for seamless user experiences and robust application design drives me to deliver high-quality projects that meet the needs of users and businesses alike. Whether it's building dynamic web applications or cross-platform mobile apps, I thrive on innovation and collaboration."
+}

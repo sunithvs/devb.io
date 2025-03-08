@@ -1,0 +1,151 @@
+{
+    "username": "7h3cyb3rm0nk",
+    "name": "Ramees Mohammed M M",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/70532769?u=9642334425ff821d0f3d6587d12ac2fb9f032467&v=4",
+    "profile_url": "https://github.com/7h3cyb3rm0nk",
+    "top_languages": [
+        [
+            "Rust",
+            11
+        ],
+        [
+            "C",
+            4
+        ],
+        [
+            "C++",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "chumma-ttf",
+            "description": "A TTF File that can replace glyphs using WebAssembly",
+            "score": 11.657182829770646,
+            "stars": 1,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/7h3cyb3rm0nk/chumma-ttf",
+            "updatedAt": "2024-06-30T06:33:05Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "alfred-rs",
+            "description": "subdomain and port scanner wriiten in Rust",
+            "score": 10.261480187508338,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/7h3cyb3rm0nk/alfred-rs",
+            "updatedAt": "2024-05-02T21:09:02Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "dwm-config",
+            "description": "dwm config files and dwmblocks config files",
+            "score": 10.259482192195895,
+            "stars": 0,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/7h3cyb3rm0nk/dwm-config",
+            "updatedAt": "2024-11-09T12:17:10Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "rust-os",
+            "description": "An Operating System built on Rust",
+            "score": 10.246993084206354,
+            "stars": 0,
+            "forks": 0,
+            "language": "Rust",
+            "url": "https://github.com/7h3cyb3rm0nk/rust-os",
+            "updatedAt": "2024-07-22T21:07:00Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "termigram",
+            "description": null,
+            "score": 4.115415732466345,
+            "stars": 3,
+            "forks": 1,
+            "language": "Go",
+            "url": "https://github.com/7h3cyb3rm0nk/termigram",
+            "updatedAt": "2025-03-08T17:29:33Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "sora",
+            "description": "Micro blogging Social media platform for cs department U.C College",
+            "score": 2.6999145171699883,
+            "stars": 1,
+            "forks": 1,
+            "language": "PHP",
+            "url": "https://github.com/7h3cyb3rm0nk/sora",
+            "updatedAt": "2024-12-28T17:25:25Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "drowsiness-detect",
+            "description": null,
+            "score": 1.297845638540235,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/7h3cyb3rm0nk/drowsiness-detect",
+            "updatedAt": "2024-04-09T06:00:28Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "curiosity",
+            "description": "website for curisoty quiz competition C.S department, Union Christian College Aluva",
+            "score": 1.2068348497828107,
+            "stars": 0,
+            "forks": 1,
+            "language": "CSS",
+            "url": "https://github.com/7h3cyb3rm0nk/curiosity",
+            "updatedAt": "2024-03-01T10:02:16Z",
+            "isPinned": false,
+            "homepage": ""
+        }
+    ],
+    "followers": 46,
+    "following": 96,
+    "public_repos": 57,
+    "pull_requests_merged": 28,
+    "issues_closed": 1,
+    "achievements": {
+        "total_contributions": 673,
+        "repositories_contributed_to": 5
+    },
+    "social_accounts": [
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/__ramees._/"
+        }
+    ],
+    "readme_content": "# About Me:\n\n### just a Tech guy who likes to learn new things :)\n### my field of interests include : Cyber Security,Linux, Systems Level Programming and Reverse Engineering \n\n\n## \ud83c\udf10Socials\n[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ramees._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramees-mohammmed-mm) \n\n\n ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) \n ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\n\n\n![](https://github-readme-stats.vercel.app/api?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false&hide_progress=false&exclude_repo=res,qrcodesite,cs-puller,exploria,mulearn-bootstrap,heart-disease-prediction,WebCon-2023,theboys,docs,book-dl&hide=css,typescript,javascript,html,php,jupyter-notebook&size_weight=1&count_weight=0)\n\n\n### \u270d\ufe0fRandom Dev Quote\n![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)\n\n---\n[![](https://visitcount.itsvg.in/api?id=7h3cyb3rm0nk&icon=0&color=0)](https://visitcount.itsvg.in)\n",
+    "activity_summary": {
+        "7h3cyb3rm0nk/parseable": {
+            "link": "https://github.com/7h3cyb3rm0nk/parseable",
+            "summary": "Recently, the 'parseable' repository saw significant refactoring efforts, particularly in handling errors. Multiple commits reflected changes to error handling, with several feature updates and fixes, such as improving staging file counts in metrics and merging functionality for arrow and parquet file processing."
+        },
+        "7h3cyb3rm0nk/7h3cyb3rm0nk": {
+            "link": "https://github.com/7h3cyb3rm0nk/7h3cyb3rm0nk",
+            "summary": "Updates to the '7h3cyb3rm0nk' repository were focused on a single task of updating README.md. This involved multiple identical commits, indicating the ongoing refinement of the repository's documentation."
+        },
+        "7h3cyb3rm0nk/termigram": {
+            "link": "https://github.com/7h3cyb3rm0nk/termigram",
+            "summary": "A fix for the 'termigram' repository resolved an issue with logCommand() functionality, ensuring the smooth operation of the project."
+        }
+    },
+    "profile_summary": "I'm Ramees Mohammed M M, a skilled developer with a passion for learning and pushing boundaries in Cyber Security, Linux, Systems Level Programming, and Reverse Engineering. With 57 public repositories and a strong network of 46 followers, I've established myself as a reliable and innovative force in the development community. I specialize in Rust, C, and C++, and I'm always eager to explore new technologies and techniques to further my growth and contribute to the world of tech."
+}

@@ -1,11 +1,8 @@
 import React from "react";
+import { Badge as ShadCnBadge } from "@/components/ui/badge";
 
 const Badge = ({ label }: { label: string }) => {
-  return (
-    <span className="px-4 py-2 bg-gray-100 rounded-lg border-black">
-      {label}
-    </span>
-  );
+  return <ShadCnBadge variant="secondary">{label}</ShadCnBadge>;
 };
 
 export default Badge;

@@ -20,12 +20,9 @@ const fetchResource = async <T>(
   try {
     const url = `${BASE_URL}${endpoint}`;
 
-    // Check if this is a LinkedIn API call to apply longer timeout
-    const isLinkedInCall = endpoint.includes("/linkedin");
-
     // Create AbortController for timeout
     const controller = new AbortController();
-    const timeoutMs = isLinkedInCall ? 30000 : 10000; // 30 seconds for LinkedIn, 10 seconds for others
+    const timeoutMs = 30000; // 30 seconds for LinkedIn, 10 seconds for others
     const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
 
     const response = await fetch(url, {

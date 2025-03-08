@@ -2,18 +2,6 @@ import { ArrowDown } from "lucide-react";
 import Timeline from "@/components/timeline";
 import { getUserLinkedInProfile, getUserProfile } from "@/lib/api";
 import { transformLinkedInData } from "@/utils/transform";
-import { cache } from "react";
-
-// Cache the LinkedIn data fetch to prevent multiple fetches
-const getLinkedInData = cache(async (linkedInUsername: string) => {
-  try {
-    if (!linkedInUsername) return null;
-    return await getUserLinkedInProfile(linkedInUsername);
-  } catch (error) {
-    console.error("Error fetching LinkedIn data:", error);
-    return null;
-  }
-});
 
 export async function LinkedInSection({ username }: { username: string }) {
   try {
@@ -28,7 +16,7 @@ export async function LinkedInSection({ username }: { username: string }) {
 
     if (!linkedInUsername) return null;
 
-    const linkedInData = await getLinkedInData(linkedInUsername);
+    const linkedInData = await getUserLinkedInProfile(linkedInUsername);
 
     console.log({ linkedInData });
 

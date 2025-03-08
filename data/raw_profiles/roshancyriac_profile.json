@@ -1,0 +1,146 @@
+{
+    "username": "roshancyriac",
+    "name": "Roshan Cyriac",
+    "bio": "Not just coding\u2014engineering the extraordinary",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/147191540?u=8713309df5e50b98a705e0bab64e8e96042be452&v=4",
+    "profile_url": "https://github.com/RoshanCyriac",
+    "top_languages": [
+        [
+            "JavaScript",
+            7
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "Java",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Expenditure_tracker",
+            "description": "Expenditure Management App A simple yet powerful app to track daily expenses efficiently. Users can add spending categories, log transactions, and view categorized expense summaries. Built with Node.js, Express, PostgreSQL, and EJS, the app ensures seamless tracking with a user-friendly interface. \ud83d\ude80",
+            "score": 10.387476650210994,
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/RoshanCyriac/Expenditure_tracker",
+            "updatedAt": "2025-03-01T13:14:47Z",
+            "isPinned": true,
+            "homepage": ""
+        },
+        {
+            "name": "auto-clicker-multi-window",
+            "description": null,
+            "score": 0.7213475204444817,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RoshanCyriac/auto-clicker-multi-window",
+            "updatedAt": "2025-03-02T10:58:57Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "RoshanCyriac",
+            "description": null,
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/RoshanCyriac/RoshanCyriac",
+            "updatedAt": "2025-02-21T23:26:20Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "data-structures-and-algoritham",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/RoshanCyriac/data-structures-and-algoritham",
+            "updatedAt": "2025-02-07T19:24:08Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "server_selfhost",
+            "description": null,
+            "score": 0.4410211556928091,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/RoshanCyriac/server_selfhost",
+            "updatedAt": "2025-02-07T19:17:24Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "frontend_react",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RoshanCyriac/frontend_react",
+            "updatedAt": "2025-01-30T09:19:53Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react-frontend",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RoshanCyriac/react-frontend",
+            "updatedAt": "2024-10-19T19:54:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "react_main",
+            "description": null,
+            "score": 0.30310623938664655,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/RoshanCyriac/react_main",
+            "updatedAt": "2024-10-19T20:22:35Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 2,
+    "public_repos": 15,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 58,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/roshancyriac7"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/__.roshan__.7/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://medium.com/@roshancyriac.k"
+        }
+    ],
+    "readme_content": "# Hi there \ud83d\udc4b\n\n<!--\n**RoshanCyriac/RoshanCyriac** is a \u2728 _special_ \u2728 repository because its `README.md` (this file) appears on your GitHub profile.\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-RoshanCyriac7-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RoshanCyriac7)\n\nHere are some ideas to get you started:\n\n- \ud83d\udd2d I\u2019m currently working on ...\n- \ud83c\udf31 I\u2019m currently learning ...\n- \ud83d\udc6f I\u2019m looking to collaborate on ...\n- \ud83e\udd14 I\u2019m looking for help with ...\n- \ud83d\udcac Ask me about ...\n- \ud83d\udceb How to reach me: ...\n- \ud83d\ude04 Pronouns: ...\n- \u26a1 Fun fact: ...\n-->\n<a href=\"https://www.linkedin.com/in/RoshanCyriac7\" target=\"_blank\">\n    <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg\" width=\"20\" height=\"20\" alt=\"LinkedIn\">\n    RoshanCyriac7\n</a>\n<a href=\"mailto:roshancyriac.k@gmail.com\" target=\"_blank\">\n    <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg\" width=\"20\" height=\"20\" alt=\"Gmail\">\n    roshancyriac.k@gmail.com\n</a>\n",
+    "activity_summary": {},
+    "profile_summary": null
+}

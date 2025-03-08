@@ -16,11 +16,16 @@ export async function LinkedInSection({ username }: { username: string }) {
 
     if (!linkedInUsername) return null;
 
-    // Using the enhanced getUserLinkedInProfile with retry mechanism
+    // Using the enhanced getUserLinkedInProfile with robust retry and timeout mechanism
+    console.log(`Fetching LinkedIn data for ${linkedInUsername}...`);
     const linkedInData = await getUserLinkedInProfile(linkedInUsername);
 
-    // If linkedInData is null or undefined, return early
-    if (!linkedInData) return null;
+    if (!linkedInData) {
+      console.warn(
+        `Failed to fetch LinkedIn data for ${linkedInUsername} after retries`,
+      );
+      return null;
+    }
 
     // Check if we have experience or education data
     const hasExperience =
@@ -32,8 +37,14 @@ export async function LinkedInSection({ username }: { username: string }) {
       Array.isArray(linkedInData.education) &&
       linkedInData.education.length > 0;
 
-    if (!hasExperience && !hasEducation) return null;
+    if (!hasExperience && !hasEducation) {
+      console.log(
+        `No experience or education data found for ${linkedInUsername}`,
+      );
+      return null;
+    }
 
+    console.log(`Successfully fetched LinkedIn data for ${linkedInUsername}`);
     return (
       <>
         {hasExperience && (

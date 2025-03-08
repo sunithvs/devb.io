@@ -10,26 +10,36 @@ const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
 const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 
 /**
- * Fetch resource with Next.js caching
+ * Fetch resource with Next.js caching and timeout
  */
 const fetchResource = async <T>(
   endpoint: string,
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   options: any = {},
+  timeoutMs = 10000, // Default timeout of 10 seconds
 ): Promise<T | null> => {
   try {
     const url = `${BASE_URL}${endpoint}`;
+
+    // Create an AbortController to handle timeouts
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
     const response = await fetch(url, {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
         "X-Api-Key": API_KEY || "",
       },
+      signal: controller.signal,
       next: {
         revalidate: 3600, // Revalidate every hour
         ...options.next,
       },
     });
+
+    // Clear the timeout since the request completed
+    clearTimeout(timeoutId);
 
     if (!response.ok) {
       throw new Error(`Error fetching ${endpoint}: ${response.status}`);
@@ -37,9 +47,9 @@ const fetchResource = async <T>(
 
     return response.json() as Promise<T>;
   } catch (error) {
-    // @ts-expect-error -- asflasdlkfjasdlf
+    // @ts-expect-error -- Error type handling
     if (error?.name === "AbortError") {
-      console.error(`Request timeout for ${endpoint}`);
+      console.error(`Request timeout (${timeoutMs}ms) for ${endpoint}`);
     } else {
       console.error(`Error fetching ${endpoint}:`, error);
     }
@@ -68,7 +78,7 @@ export const getUserProjects = async (
 };
 
 /**
- * Get user LinkedIn profile data with retry mechanism
+ * Get user LinkedIn profile data with enhanced retry mechanism
  */
 export const getUserLinkedInProfile = async (
   username: string,
@@ -80,18 +90,25 @@ export const getUserLinkedInProfile = async (
   let retries = 0;
   let lastError: unknown = null;
 
+  // Increase timeout for each retry
+  const baseTimeout = 15000; // 15 seconds base timeout
+
   // Implement retry logic
   while (retries < maxRetries) {
     try {
-      // Add a cache tag for better revalidation
+      // Increase timeout with each retry
+      const currentTimeout = baseTimeout * (retries + 1);
+
+      // Add a cache tag for better revalidation with unique tag per retry
       const data = await fetchResource<LinkedInProfile>(
         `/user/${username}/linkedin`,
         {
           next: {
-            revalidate: 3600, // 1 hour
-            tags: [`linkedin-${username}`],
+            revalidate: 0, // Disable revalidation cache during retries
+            tags: [`linkedin-${username}-${retries}`],
           },
         },
+        currentTimeout, // Pass the current timeout value
       );
 
       // Validate the returned data structure
@@ -116,7 +133,7 @@ export const getUserLinkedInProfile = async (
 
       // Implement exponential backoff
       const backoffDelay = retryDelay * Math.pow(2, retries - 1);
-      console.log(`Retrying in ${backoffDelay}ms...`);
+      console.log(`Retrying in ${backoffDelay}ms with increased timeout...`);
 
       // Wait before retrying
       await new Promise((resolve) => setTimeout(resolve, backoffDelay));

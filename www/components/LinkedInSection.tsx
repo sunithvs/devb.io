@@ -17,6 +17,8 @@ export async function LinkedInSection({ username }: { username: string }) {
 
   const linkedInData = await getUserLinkedInProfile(linkedInUsername);
 
+  console.log({ linkedInData });
+
   // Check if we have experience or education data
   const hasExperience =
     linkedInData?.experience &&

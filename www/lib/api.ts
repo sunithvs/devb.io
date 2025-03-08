@@ -19,12 +19,6 @@ const fetchResource = async <T>(
 ): Promise<T | null> => {
   try {
     const url = `${BASE_URL}${endpoint}`;
-
-    // Create AbortController for timeout
-    const controller = new AbortController();
-    const timeoutMs = 30000; // 30 seconds for LinkedIn, 10 seconds for others
-    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
-
     const response = await fetch(url, {
       headers: {
         "Content-Type": "application/json",
@@ -35,11 +29,7 @@ const fetchResource = async <T>(
         revalidate: 3600, // Revalidate every hour
         ...options.next,
       },
-      signal: controller.signal,
     });
-
-    // Clear the timeout
-    clearTimeout(timeoutId);
 
     if (!response.ok) {
       throw new Error(`Error fetching ${endpoint}: ${response.status}`);

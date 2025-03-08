@@ -2,14 +2,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { Suspense } from "react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
-// import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
-import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
+import { ProjectListSkeleton } from "@/components/skeletons/project-skeleton";
+// import { TimelineSkeleton } from "@/components/skeletons/timeline-skeleton";
 import { AboutSkeleton } from "@/components/skeletons/about-skeleton";
 import { MediumBlogsSkeleton } from "@/components/skeletons/medium-blogs-skeleton";
 import { ProfileSection } from "@/components/ProfileSection";
 import { AboutSection } from "@/components/AboutSection";
-import { LinkedInSection } from "@/components/LinkedInSection";
-// import { ProjectsSection } from "@/components/ProjectsSection";
+// import { LinkedInSection } from "@/components/LinkedInSection";
+import { ProjectsSection } from "@/components/ProjectsSection";
 import { MediumBlogsSection } from "@/components/MediumBlogsSection";
 
 export default async function Page({
@@ -47,13 +47,13 @@ export default async function Page({
           <AboutSection username={username} />
         </Suspense>
 
-        <Suspense fallback={<TimelineSkeleton />}>
-          <LinkedInSection username={username} />
-        </Suspense>
-
-        {/*<Suspense fallback={<ProjectListSkeleton />}>*/}
-        {/*  <ProjectsSection username={username} />*/}
+        {/*<Suspense fallback={<TimelineSkeleton />}>*/}
+        {/*  <LinkedInSection username={username} />*/}
         {/*</Suspense>*/}
+
+        <Suspense fallback={<ProjectListSkeleton />}>
+          <ProjectsSection username={username} />
+        </Suspense>
 
         <Suspense fallback={<MediumBlogsSkeleton />}>
           <MediumBlogsSection username={username} />

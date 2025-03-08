@@ -19,6 +19,15 @@ const fetchResource = async <T>(
 ): Promise<T | null> => {
   try {
     const url = `${BASE_URL}${endpoint}`;
+
+    // Check if this is a LinkedIn API call to apply longer timeout
+    const isLinkedInCall = endpoint.includes("/linkedin");
+
+    // Create AbortController for timeout
+    const controller = new AbortController();
+    const timeoutMs = isLinkedInCall ? 30000 : 10000; // 30 seconds for LinkedIn, 10 seconds for others
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
     const response = await fetch(url, {
       headers: {
         "Content-Type": "application/json",
@@ -29,7 +38,11 @@ const fetchResource = async <T>(
         revalidate: 3600, // Revalidate every hour
         ...options.next,
       },
+      signal: controller.signal,
     });
+
+    // Clear the timeout
+    clearTimeout(timeoutId);
 
     if (!response.ok) {
       throw new Error(`Error fetching ${endpoint}: ${response.status}`);
@@ -37,7 +50,12 @@ const fetchResource = async <T>(
 
     return response.json() as Promise<T>;
   } catch (error) {
-    console.error(`Error fetching ${endpoint}:`, error);
+    // @ts-expect-error -- asflasdlkfjasdlf
+    if (error?.name === "AbortError") {
+      console.error(`Request timeout for ${endpoint}`);
+    } else {
+      console.error(`Error fetching ${endpoint}:`, error);
+    }
     return null;
   }
 };

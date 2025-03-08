@@ -18,8 +18,6 @@ export async function LinkedInSection({ username }: { username: string }) {
 
     const linkedInData = await getUserLinkedInProfile(linkedInUsername);
 
-    console.log({ linkedInData });
-
     // If linkedInData is null or undefined, return early
     if (!linkedInData) return null;
 

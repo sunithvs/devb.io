@@ -12,6 +12,8 @@ import { LinkedInSection } from "@/components/LinkedInSection";
 import { ProjectsSection } from "@/components/ProjectsSection";
 import { MediumBlogsSection } from "@/components/MediumBlogsSection";
 
+export const maxDuration = 60;
+
 export default async function Page({
   params,
 }: {

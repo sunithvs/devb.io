@@ -10,36 +10,26 @@ const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
 const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 
 /**
- * Fetch resource with Next.js caching and timeout
+ * Fetch resource with Next.js caching
  */
 const fetchResource = async <T>(
   endpoint: string,
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   options: any = {},
-  timeoutMs = 10000, // Default timeout of 10 seconds
 ): Promise<T | null> => {
   try {
     const url = `${BASE_URL}${endpoint}`;
-
-    // Create an AbortController to handle timeouts
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
-
     const response = await fetch(url, {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
         "X-Api-Key": API_KEY || "",
       },
-      signal: controller.signal,
       next: {
         revalidate: 3600, // Revalidate every hour
         ...options.next,
       },
     });
-
-    // Clear the timeout since the request completed
-    clearTimeout(timeoutId);
 
     if (!response.ok) {
       throw new Error(`Error fetching ${endpoint}: ${response.status}`);
@@ -47,9 +37,9 @@ const fetchResource = async <T>(
 
     return response.json() as Promise<T>;
   } catch (error) {
-    // @ts-expect-error -- Error type handling
+    // @ts-expect-error -- asflasdlkfjasdlf
     if (error?.name === "AbortError") {
-      console.error(`Request timeout (${timeoutMs}ms) for ${endpoint}`);
+      console.error(`Request timeout for ${endpoint}`);
     } else {
       console.error(`Error fetching ${endpoint}:`, error);
     }
@@ -78,74 +68,36 @@ export const getUserProjects = async (
 };
 
 /**
- * Get user LinkedIn profile data with enhanced retry mechanism
+ * Get user LinkedIn profile data
  */
 export const getUserLinkedInProfile = async (
   username: string,
-  maxRetries = 3,
-  retryDelay = 1000,
 ): Promise<LinkedInProfile | null> => {
-  if (!username) return null;
+  try {
+    if (!username) return null;
 
-  let retries = 0;
-  let lastError: unknown = null;
-
-  // Increase timeout for each retry
-  const baseTimeout = 15000; // 15 seconds base timeout
-
-  // Implement retry logic
-  while (retries < maxRetries) {
-    try {
-      // Increase timeout with each retry
-      const currentTimeout = baseTimeout * (retries + 1);
-
-      // Add a cache tag for better revalidation with unique tag per retry
-      const data = await fetchResource<LinkedInProfile>(
-        `/user/${username}/linkedin`,
-        {
-          next: {
-            revalidate: 0, // Disable revalidation cache during retries
-            tags: [`linkedin-${username}-${retries}`],
-          },
+    // Add a cache tag for better revalidation
+    const data = await fetchResource<LinkedInProfile>(
+      `/user/${username}/linkedin`,
+      {
+        next: {
+          revalidate: 3600, // 1 hour
+          tags: [`linkedin-${username}`],
         },
-        currentTimeout, // Pass the current timeout value
-      );
+      },
+    );
 
-      // Validate the returned data structure
-      if (!data || !data.basic_info) {
-        console.warn(`Invalid LinkedIn data structure for user: ${username}`);
-        return null;
-      }
-
-      return data;
-    } catch (error) {
-      lastError = error;
-      retries++;
-
-      // Log retry attempt
-      console.warn(
-        `LinkedIn API call failed (attempt ${retries}/${maxRetries}):`,
-        error,
-      );
-
-      // If we've reached max retries, break out of the loop
-      if (retries >= maxRetries) break;
-
-      // Implement exponential backoff
-      const backoffDelay = retryDelay * Math.pow(2, retries - 1);
-      console.log(`Retrying in ${backoffDelay}ms with increased timeout...`);
-
-      // Wait before retrying
-      await new Promise((resolve) => setTimeout(resolve, backoffDelay));
+    // Validate the returned data structure
+    if (!data || !data.basic_info) {
+      console.warn(`Invalid LinkedIn data structure for user: ${username}`);
+      return null;
     }
-  }
 
-  // If we've exhausted all retries, log the final error and return null
-  console.error(
-    `Error fetching LinkedIn data for ${username} after ${maxRetries} attempts:`,
-    lastError,
-  );
-  return null;
+    return data;
+  } catch (error) {
+    console.error(`Error fetching LinkedIn data for ${username}:`, error);
+    return null;
+  }
 };
 
 /**

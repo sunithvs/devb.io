@@ -12,9 +12,9 @@ const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 /**
  * Fetch resource with Next.js caching
  */
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const fetchResource = async <T>(
   endpoint: string,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   options: any = {},
 ): Promise<T | null> => {
   try {

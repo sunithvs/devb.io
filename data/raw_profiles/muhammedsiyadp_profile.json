@@ -1,0 +1,139 @@
+{
+    "username": "muhammedsiyadp",
+    "name": "muhammedsiyadp",
+    "bio": "",
+    "location": "India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44540253?u=86e428658f4251ce1f0f43341dd3d2a6dce21ce1&v=4",
+    "profile_url": "https://github.com/muhammedsiyadp",
+    "top_languages": [
+        [
+            "C++",
+            2
+        ],
+        [
+            "Python",
+            4
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "pure-pursuit-controller-movebase",
+            "description": "pure pursuit controller implementation for ros1 movebase",
+            "score": 11.322563267359504,
+            "stars": 0,
+            "forks": 1,
+            "language": null,
+            "url": "https://github.com/muhammedsiyadp/pure-pursuit-controller-movebase",
+            "updatedAt": "2024-08-21T11:36:44Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "ros-map-drawer",
+            "description": null,
+            "score": 11.31853649936174,
+            "stars": 0,
+            "forks": 1,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/ros-map-drawer",
+            "updatedAt": "2024-08-26T06:49:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "volta",
+            "description": null,
+            "score": 1.3653588399402563,
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/muhammedsiyadp/volta",
+            "updatedAt": "2025-03-07T10:53:41Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "water-level-controller",
+            "description": null,
+            "score": 1.358223877494169,
+            "stars": 0,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/muhammedsiyadp/water-level-controller",
+            "updatedAt": "2025-02-22T10:56:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "DRL-robot-navigation-1",
+            "description": "Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic Policy Gradient (TD3) neural network, a robot learns to navigate to a random goal point in a simulated environment while avoiding obstacles.",
+            "score": 0.5539040596032826,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/DRL-robot-navigation-1",
+            "updatedAt": "2025-03-09T14:09:28Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "test_bot",
+            "description": null,
+            "score": 0.26705734912771484,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/test_bot",
+            "updatedAt": "2024-06-08T04:42:46Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "opengl",
+            "description": null,
+            "score": 0.16404671587218408,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/muhammedsiyadp/opengl",
+            "updatedAt": "2023-12-22T08:33:14Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 6,
+    "following": 15,
+    "public_repos": 20,
+    "pull_requests_merged": 7,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 155,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://linkedin.com/in/muhammedsiyadp"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "DRL-robot-navigation-1": {
+            "link": "https://github.com/muhammedsiyadp/DRL-robot-navigation-1",
+            "summary": "DRL-robot-navigation-1 has seen significant recent activity, including the implementation of EKFs for removing wheel slip, improvement of init sketches, and the enabling of GUI and IMU sensors. Further enhancements included improved world naming and simulation speed. Additionally, key updates include reduced Velodyne heights and the addition of Copernicus files. These developments demonstrate the ongoing effort to refine and improve simulation performance."
+        },
+        "volta": {
+            "link": "https://github.com/muhammedsiyadp/volta",
+            "summary": "Recent activity on volta has focused on addressing an odometry issue, resulting in a corrected output for the VoLTa platform. Additionally, a minor fix was applied for indentation. These updates suggest a dedicated approach to fine-tuning volta for optimizing performance and resolving known issues."
+        },
+        "ROS2-VMX": {
+            "link": "https://github.com/muhammedsiyadp/ROS2-VMX",
+            "summary": "A Pull request was merged into ROS2-VMX, applying a refactor for consistent naming conventions and updating parameter messages. Other changes included separating the diff drive, refining variable names, and addressing bugs. This demonstrates significant improvement efforts for optimization and performance enhancements."
+        },
+        "water-level-controller": {
+            "link": "https://github.com/muhammedsiyadp/water-level-controller",
+            "summary": "Water-level-controller has seen significant activity with one pull request being implemented. This request focused on a modification of the webpage by removing the voltage buffering function, demonstrating targeted updates to refine the system's capabilities."
+        }
+    },
+    "profile_summary": "Highly motivated full-stack developer specializing in C++ and Python, with a strong foundation in software development and a proven track record of consistently delivering high-quality solutions. I excel in creating efficient and scalable code, as visible in my 20 public repositories and growing network of 6 followers, which demonstrates my professional network and influence in the developer community.\n\nBased on my experience with numerous projects and contributions, I stay updated with the latest industry trends and technologies, constantly refining my skills to meet the evolving needs of my clients and teammates. When I'm not writing code, you can find me exploring new coding challenges and innovative solutions that push the boundaries of what's possible."
+}

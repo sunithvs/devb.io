@@ -1,7 +1,5 @@
-'use client';
-
 import React from "react";
-import AnimatedTimelineCard from './animated-timeline-card';
+import AnimatedTimelineCard from "./animated-timeline-card";
 
 export type TimelineItem = {
   title: string;
@@ -24,7 +22,6 @@ const Timeline: React.FC<TimelineProps> = ({
   items,
   backgroundColor = "bg-[#B9FF66]",
 }) => {
-  console.log(items);
   return (
     <div className="relative">
       {/* Continuous timeline line */}

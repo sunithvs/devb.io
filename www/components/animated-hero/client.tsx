@@ -2,11 +2,21 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import GitHubModal from "../github-modal/client";
 
 export default function AnimatedHeroClient() {
   const [showGithubModal, setShowGithubModal] = useState(false);
+
+  useEffect(() => {
+    // Check if URL has modal=true parameter
+    const searchParams = new URLSearchParams(window.location.search);
+    const shouldShowModal = searchParams.get("modal") === "true";
+
+    if (shouldShowModal) {
+      setShowGithubModal(true);
+    }
+  }, []);
 
   return (
     <section className="container mx-auto px-4 py-16 flex flex-col md:flex-row items-center justify-between gap-12">

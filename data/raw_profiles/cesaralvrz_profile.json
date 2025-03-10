@@ -1,0 +1,146 @@
+{
+    "username": "cesaralvrz",
+    "name": "C\u00e9sar \u00c1lvarez Llaneza",
+    "bio": "Software Engineer. Founder of @Acadeller. ",
+    "location": "Spain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/57325703?u=9d0a23a6883376894ad56d14315b2700faf2c069&v=4",
+    "profile_url": "https://github.com/cesaralvrz",
+    "top_languages": [
+        [
+            "TypeScript",
+            6
+        ],
+        [
+            "Python",
+            8
+        ],
+        [
+            "R",
+            3
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Ecommerce-Django",
+            "description": "Website that simulates an E-Commerce using Django, JavaScript &  Bootstrap.",
+            "score": 11.520302830196643,
+            "stars": 1,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/cesaralvrz/Ecommerce-Django",
+            "updatedAt": "2023-04-24T19:15:23Z",
+            "isPinned": true,
+            "homepage": "https://ecommerce-django-cesar.herokuapp.com/"
+        },
+        {
+            "name": "VisualCovid",
+            "description": "Aplicaci\u00f3n para visualizar la evoluci\u00f3n de la COVID-19 en Espa\u00f1a, desarrollada con Vue, Chart.js y Bootstrap.",
+            "score": 11.455328456138123,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/cesaralvrz/VisualCovid",
+            "updatedAt": "2021-06-26T18:25:18Z",
+            "isPinned": true,
+            "homepage": "https://kind-aryabhata-bdbd63.netlify.app/"
+        },
+        {
+            "name": "VentanaModal",
+            "description": "Chat con autenticaci\u00f3n con Google que te permite mandar mensajes y archivos, creado con Vue.js, Firebase y Tailwind.",
+            "score": 11.455260586699408,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/cesaralvrz/VentanaModal",
+            "updatedAt": "2021-05-23T12:28:32Z",
+            "isPinned": true,
+            "homepage": "https://vuechat-7d278.web.app/"
+        },
+        {
+            "name": "bucket-list",
+            "description": "Bucket List Template Website \ud83d\udcdd",
+            "score": 10.257728286340619,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/cesaralvrz/bucket-list",
+            "updatedAt": "2024-04-08T16:41:37Z",
+            "isPinned": true,
+            "homepage": "https://cesaralvrz.github.io/bucket-list/"
+        },
+        {
+            "name": "sunset-sunrise",
+            "description": "Select the dates to show sunrise & sunset. \u2600\ufe0f",
+            "score": 10.154801051170711,
+            "stars": 0,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/cesaralvrz/sunset-sunrise",
+            "updatedAt": "2023-06-11T10:13:38Z",
+            "isPinned": true,
+            "homepage": "https://darling-pasca-c23e2a.netlify.app/"
+        },
+        {
+            "name": "Pokemon-Battle-Simulator",
+            "description": "Turn-based battle simulator based on the popular game Pokemon. Code written in Python.",
+            "score": 3.9774167347552987,
+            "stars": 2,
+            "forks": 2,
+            "language": "Python",
+            "url": "https://github.com/cesaralvrz/Pokemon-Battle-Simulator",
+            "updatedAt": "2023-12-23T00:18:34Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AppFutbol",
+            "description": "AppF\u00fatbol es una aplicaci\u00f3n web desarrollada con Angular, Bootstrap y Firebase, que mediante una API de f\u00fatbol recopila toda su informaci\u00f3n para mostrarla a sus usuarios.",
+            "score": 2.26589931913388,
+            "stars": 2,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/cesaralvrz/AppFutbol",
+            "updatedAt": "2021-09-20T10:46:42Z",
+            "isPinned": false,
+            "homepage": "https://appfutbol-27128.web.app/"
+        },
+        {
+            "name": "Vue-Chartjs",
+            "description": "Repositorio para realizar pruebas con Vue.js y Chart.js",
+            "score": 1.4551799506436258,
+            "stars": 1,
+            "forks": 0,
+            "language": "Vue",
+            "url": "https://github.com/cesaralvrz/Vue-Chartjs",
+            "updatedAt": "2021-04-21T12:47:24Z",
+            "isPinned": false,
+            "homepage": "https://trusting-varahamihira-6b628a.netlify.app/"
+        }
+    ],
+    "followers": 14,
+    "following": 15,
+    "public_repos": 46,
+    "pull_requests_merged": 0,
+    "issues_closed": 2,
+    "achievements": {
+        "total_contributions": 414,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [],
+    "readme_content": "[![C\u00e9sar \u00c1lvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner2.png)](https://cesaralvarez.dev/)\n\n# Hey, I'm C\u00e9sar!\n\n[![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20\u00c1lvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)\n[![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cesaralvrzll@gmail.com)](mailto:cesaralvrzll@gmail.com)\n[![GitHub followers](https://img.shields.io/github/followers/cesaralvrz?label=Follow&style=social)](https://github.com/cesaralvrz) \n\n<!--\n Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM \n-->\n\n* I am a Frontend Developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) \ud83c\uddea\ud83c\uddf8\n* Visit my [personal website](https://cesaralvarez.dev/) \n* Techstack: `.js`, `.vue`, `.jsx`, `.html`, `.css`, `.py` \n* Founder of [Acadeller](https://github.com/Acadeller) \ud83d\udca1\n\n### Github Stats:\n\n![Stats Overview](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/overview.svg)\n![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)\n\n![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)\n[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)\n\n",
+    "activity_summary": {
+        "cesaralvrz/WildTopDogs": {
+            "link": "https://github.com/cesaralvrz/WildTopDogs",
+            "summary": "Significant updates occurred on February 10 and 18, including the addition of styles, correct link, horizontal scroll for mobile, and update photos. Additionally, a 'Move button after video' improvement was made on February 18."
+        },
+        "acadeller/core": {
+            "link": "https://github.com/acadeller/core",
+            "summary": "A push event occurred on February 25, after which a new blog entry was added and 'merge' changes were implemented."
+        },
+        "cesaralvrz/register": {
+            "link": "https://github.com/cesaralvrz/register",
+            "summary": "Only a single push event was observed on February 12, where 'Create tu-dominio.json' was initiated."
+        }
+    },
+    "profile_summary": "Here is a concise, SEO-optimized first-person profile description based on the provided details:\n\nAs a seasoned software engineer with a strong focus on backend development, I bring expertise in languages such as TypeScript, Python, and R to drive innovative solutions. With a background in building scalable systems, I am also passionate about making software accessible through services and education, as evident in my work as the founder of Acadeller."
+}

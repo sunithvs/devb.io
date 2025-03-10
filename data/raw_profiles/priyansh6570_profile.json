@@ -1,0 +1,143 @@
+{
+    "username": "priyansh6570",
+    "name": "Priyansh Mishra",
+    "bio": "Hey there, I'm Priyansh Mishra, your friendly neighborhood tech enthusiast! I'm passionate about all things innovative and love diving into new technologies.",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/92854250?u=22c2f64a0bef8267c30f91ab701765adf699d7fd&v=4",
+    "profile_url": "https://github.com/Priyansh6570",
+    "top_languages": [
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "C++",
+            1
+        ],
+        [
+            "TypeScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Social-Media-Fake-Profile-Detection",
+            "description": null,
+            "score": 11.639835397096425,
+            "stars": 1,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/Priyansh6570/Social-Media-Fake-Profile-Detection",
+            "updatedAt": "2025-01-31T14:12:23Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "GeoCountyMapper",
+            "description": "python script to get the county from latitude and longitude using OpenStreetMap's Nominatim API",
+            "score": 10.327889566586505,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/Priyansh6570/GeoCountyMapper",
+            "updatedAt": "2024-12-04T05:41:20Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "FocusTrack",
+            "description": null,
+            "score": 10.256439855270548,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/FocusTrack",
+            "updatedAt": "2024-06-18T16:11:21Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "Project-Ar-Object-Transfer",
+            "description": "Real World Object Transfer Using AR with realtime objection isolation using BASNet. ",
+            "score": 10.252406299677249,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/Priyansh6570/Project-Ar-Object-Transfer",
+            "updatedAt": "2024-11-29T09:09:24Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "CssTricksCard",
+            "description": null,
+            "score": 10.073624458095537,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/Priyansh6570/CssTricksCard",
+            "updatedAt": "2022-10-03T08:53:51Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "videoHub-react-chakra-App",
+            "description": null,
+            "score": 1.1138084600636118,
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/videoHub-react-chakra-App",
+            "updatedAt": "2022-11-08T19:30:17Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Buildorite_backend",
+            "description": null,
+            "score": 0.5094349078426629,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/Buildorite_backend",
+            "updatedAt": "2025-03-09T14:15:09Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "django-quiz-app",
+            "description": null,
+            "score": 0.33945555704213487,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/Priyansh6570/django-quiz-app",
+            "updatedAt": "2024-12-18T16:44:22Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 9,
+    "following": 10,
+    "public_repos": 43,
+    "pull_requests_merged": 3,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 69,
+        "repositories_contributed_to": 4
+    },
+    "social_accounts": [
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/priyansh6570/"
+        }
+    ],
+    "readme_content": "",
+    "activity_summary": {
+        "Priyansh6570/Buildorite-backend": {
+            "link": "https://github.com/Priyansh6570/Buildorite-backend",
+            "summary": "This repository has seen recent activity with a push event on March 9, 2025, which included updating the version number to v1.0.1."
+        }
+    },
+    "profile_summary": "As a seasoned developer with a passion for innovative technologies, I leverage my expertise in JavaScript, C++, and TypeScript to deliver scalable and efficient solutions. With 43 public repositories and a growing following, I've established myself as a trusted resource within the developer community. When not contributing to open-source projects or exploring new tech trends, I'm always looking for ways to collaborate and drive meaningful impact through coding."
+}

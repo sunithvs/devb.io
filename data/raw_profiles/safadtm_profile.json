@@ -1,0 +1,147 @@
+{
+    "username": "safadtm",
+    "name": "Safad T M",
+    "bio": "A Flutter mobile app developer passionate about creating engaging and user-friendly experiences.",
+    "location": "kochi,kerala",
+    "avatar_url": "https://avatars.githubusercontent.com/u/106598178?u=9ea226b4ed0d34d9aa57a8a1b5231dc87666d4dd&v=4",
+    "profile_url": "https://github.com/safadtm",
+    "top_languages": [
+        [
+            "C++",
+            4
+        ],
+        [
+            "Go",
+            1
+        ],
+        [
+            "JavaScript",
+            12
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "bus_reservation_flutter",
+            "description": null,
+            "score": 11.619644615412405,
+            "stars": 1,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/safadtm/bus_reservation_flutter",
+            "updatedAt": "2024-05-21T16:31:52Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "bus_reservation_springboot",
+            "description": null,
+            "score": 10.155882289287975,
+            "stars": 0,
+            "forks": 0,
+            "language": "Java",
+            "url": "https://github.com/safadtm/bus_reservation_springboot",
+            "updatedAt": "2023-07-09T13:57:04Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "myportfolio",
+            "description": null,
+            "score": 10.153603735473213,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/safadtm/myportfolio",
+            "updatedAt": "2023-08-31T14:46:41Z",
+            "isPinned": true,
+            "homepage": "https://safad-tm-portfolio.web.app/"
+        },
+        {
+            "name": "28DaysOfFlutter",
+            "description": null,
+            "score": 10.15308463334319,
+            "stars": 0,
+            "forks": 0,
+            "language": "Dart",
+            "url": "https://github.com/safadtm/28DaysOfFlutter",
+            "updatedAt": "2023-04-29T11:41:40Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "space_attacker_game",
+            "description": "Space attacker game built in dart & flutter .",
+            "score": 2.500115700809416,
+            "stars": 1,
+            "forks": 1,
+            "language": "C++",
+            "url": "https://github.com/safadtm/space_attacker_game",
+            "updatedAt": "2022-11-11T14:16:47Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Bouncing-balls",
+            "description": null,
+            "score": 1.6306845053511112,
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/safadtm/Bouncing-balls",
+            "updatedAt": "2024-09-06T11:50:15Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "CinemaPeedika",
+            "description": null,
+            "score": 1.6252755940905295,
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/safadtm/CinemaPeedika",
+            "updatedAt": "2024-07-26T01:03:56Z",
+            "isPinned": false,
+            "homepage": "https://cinema-peedika.web.app/"
+        },
+        {
+            "name": "safadtm",
+            "description": "Config files for my GitHub profile.",
+            "score": 1.459761946093504,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/safadtm/safadtm",
+            "updatedAt": "2023-03-10T06:33:50Z",
+            "isPinned": false,
+            "homepage": "https://github.com/safadtm"
+        }
+    ],
+    "followers": 27,
+    "following": 127,
+    "public_repos": 70,
+    "pull_requests_merged": 1,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 527,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/safad_tm"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/safadtm"
+        }
+    ],
+    "readme_content": " <h1 align=\"center\">Hi \ud83d\udc4b, I'm Safad T M</h1>\n\n- \ud83d\udd2d I\u2019m currently working on Flutter\n- \ud83d\udcac Ask me anything about Flutter \n- \ud83d\udceb How to reach me: safadtm2004@gmail.com\n- \ud83d\ude04 My website: https://safad-tm-portfolio.web.app\n  \n### Connect with me:\n<div id=\"badges\">\n  <a href=\"https://github.com/safadtm\">\n    <img src=\"https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black\" alt=\"Github Badge\"/>\n  </a>\n   <a href=\"https://www.instagram.com/safadtm\">\n    <img src=\"https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white\" alt=\"Instagram Badge\"/>\n  </a>\n   <a href=\"https://fb.com/safadtm\">\n    <img src=\"https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white\" alt=\"Facebook Badge\"/>\n  </a>\n   <a href=\"https://twitter.com/safad_tm\">\n    <img src=\"https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white\" alt=\"Twitter Badge\"/>\n  </a>\n</div>\n\n### Languages and Tools:\n[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,js,html,css,php,react,androidstudio,vscode&perline=5)](https://skillicons.dev)\n\n![Safad T M's GitHub stats](https://github-readme-stats.vercel.app/api?username=safadtm&show_icons=true&theme=dark)\n\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safadtm&theme=dark)\n\n\n<br>\n\u2b50\ufe0f From [safad tm](https://github.com/safadtm)\n",
+    "activity_summary": {
+        "safadtm/linux-lab": {
+            "link": "https://github.com/safadtm/linux-lab",
+            "summary": "The recent activity on linux-lab repository is maintaining and updating individual bash scripts for various git pages."
+        }
+    },
+    "profile_summary": "As a seasoned Flutter mobile app developer with a strong background in C++, Go, and JavaScript, I'm passionate about crafting engaging and user-friendly experiences. With 27 followers and 70 public repositories, I've built a professional network and demonstrated my commitment to active development. I'm currently working on a Flutter project, and I'd love to connect on my journey - feel free to ask me anything about Flutter, or reach out through safadtm2004@gmail.com for further collaboration opportunities."
+}

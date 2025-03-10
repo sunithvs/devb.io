@@ -42,20 +42,7 @@ export default function RootLayout({
           data-position="Right"
           data-x_margin="18"
           data-y_margin="18"
-        />
-        <Script
-          id="bmc-widget"
-          data-name="BMC-Widget"
-          data-cfasync="false"
-          src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-          data-id="nayanprasad"
-          data-description="Support me on Buy me a coffee!"
-          data-message="Support Us"
-          data-color="#B9FF66"
-          data-position="Right"
-          data-x_margin="18"
-          data-y_margin="18"
-          strategy="lazyOnload"
+          defer
         />
         <Script id="clarity-script" strategy="afterInteractive">
           {`

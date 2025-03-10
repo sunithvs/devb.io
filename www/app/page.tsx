@@ -6,6 +6,7 @@ import AnimatedStats from "@/components/animated-stats/server";
 import IntegrationCard from "@/components/integration-card/server";
 import ProfileCard from "@/components/profile-card/server";
 import HowItWorksCard from "@/components/how-it-works-card/server";
+import NextContributorCard from "@/components/next-contributor-card";
 
 // Types
 interface Profile {
@@ -269,6 +270,7 @@ export default async function Home() {
                   index={index}
                 />
               ))}
+              <NextContributorCard index={contributors.length} />
             </div>
           </div>
         </section>

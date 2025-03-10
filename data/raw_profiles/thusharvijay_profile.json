@@ -1,0 +1,102 @@
+{
+    "username": "thusharvijay",
+    "name": "Thushar Vijay",
+    "bio": "",
+    "location": "Thiruvananthapuram",
+    "avatar_url": "https://avatars.githubusercontent.com/u/141836999?u=293134c0e603ccbeb52761e03f44841e11c10dc8&v=4",
+    "profile_url": "https://github.com/thusharvijay",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "Jupyter Notebook",
+            3
+        ],
+        [
+            "JavaScript",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "Video-Summary-Assistant",
+            "description": "Analyzes online video segments to create summaries",
+            "score": 0.4719869706661873,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/thusharvijay/Video-Summary-Assistant",
+            "updatedAt": "2025-03-08T06:10:36Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Public-Facility-Locator",
+            "description": null,
+            "score": 0.3815021672160634,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/thusharvijay/Public-Facility-Locator",
+            "updatedAt": "2025-01-31T13:14:38Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Face-Recognition",
+            "description": null,
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/thusharvijay/Face-Recognition",
+            "updatedAt": "2024-10-08T19:54:12Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "Handwritten-Digit-Recognition",
+            "description": null,
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/thusharvijay/Handwritten-Digit-Recognition",
+            "updatedAt": "2024-10-08T19:41:29Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "spam-news-detection",
+            "description": null,
+            "score": 0.29818477505131347,
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/thusharvijay/spam-news-detection",
+            "updatedAt": "2024-10-08T19:50:08Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 0,
+    "following": 0,
+    "public_repos": 10,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 29,
+        "repositories_contributed_to": 1
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "activity_summary": {
+        "thusharvijay/Synergy": {
+            "link": "https://github.com/thusharvijay/Synergy",
+            "summary": "The Synergy repository experienced a multitude of Push Events on 2025-03-08 and 2025-03-09, primarily focused on updating README.md and uploading files via upload. These modifications suggest significant changes were made to the repository, likely in preparation for a release or update."
+        }
+    },
+    "profile_summary": "I'm Thushar Vijay, a dedicated developer with expertise in shaping robust software solutions using TypeScript, JavaScript, and the interactive power of Jupyter Notebook. With a strong foundation in type-safe programming and dynamic scripting, I leverage my skills to craft efficient and scalable applications.\n\nThrough my active contributions to the open-source community, I maintain 10 public repositories, continually honing my technical abilities and developing a keen sense of data-driven problem-solving. Beyond development, I thrive in environments where technology meets innovation, driving impactful solutions that propel growth."
+}

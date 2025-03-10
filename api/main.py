@@ -62,6 +62,7 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
             return json.loads(cached_response)
 
     basic_profile = GitHubProfileFetcher.fetch_user_profile(username)
+    basic_profile['cached'] = False
 
     try:
         ai_generator = AIDescriptionGenerator()
@@ -71,6 +72,7 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
         print(f"Failed to generate AI description: {str(e)}")
         basic_profile['about'] = None
     if Settings.CACHE_ENABLED:
+        basic_profile['cached'] = True
         await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=Settings.DEFAULT_CACHE_TTL)
     return basic_profile
 

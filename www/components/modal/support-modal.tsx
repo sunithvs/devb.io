@@ -13,6 +13,7 @@ import {
   DEVB_GITHUB_LINK,
   DEVB_INVITE_LINK,
 } from "@/lib/constants";
+import Image from "next/image";
 
 export const SupportModal = ({ user }: { user: Profile | null }) => {
   const [open, setOpen] = useState(false);
@@ -96,10 +97,12 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
               <h3 className="mb-2 text-lg font-semibold transition-all duration-300 group-hover:text-[#b07800]">
                 Fuel our code
               </h3>
-              <div className="bg-white text-black hover:bg-gray-100 flex items-center gap-2 mt-1 px-3 py-1 rounded-full border border-gray-200 text-sm transition-all duration-300 hover:shadow-md">
-                <div className="text-xl">🥤</div>
-                <span className="italic">Buy me a coffee</span>
-              </div>
+              <Image
+                src={"/images/bmc.svg"}
+                alt={"bmc"}
+                height={150}
+                width={150}
+              />
             </div>
 
             {/* Star GitHub Card */}

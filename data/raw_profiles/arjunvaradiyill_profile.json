@@ -1,0 +1,159 @@
+{
+    "username": "arjunvaradiyill",
+    "name": "ARJUN V",
+    "bio": "Web Developer & Cybersecurity Enthusiast | Building Secure and Scalable Web Solutions",
+    "location": "MALAPPURAM",
+    "avatar_url": "https://avatars.githubusercontent.com/u/83506541?u=66ac04f9200de2e47a8f26183d7eaec9eb1005bd&v=4",
+    "profile_url": "https://github.com/arjunvaradiyill",
+    "top_languages": [
+        [
+            "C",
+            4
+        ],
+        [
+            "JavaScript",
+            21
+        ],
+        [
+            "Python",
+            6
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "-Weather-Dashboard-using-html-and-css-and-js",
+            "description": null,
+            "score": 10.303983772196831,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/-Weather-Dashboard-using-html-and-css-and-js",
+            "updatedAt": "2024-10-26T13:38:54Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DataStructHub",
+            "description": null,
+            "score": 10.297038172543258,
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/arjunvaradiyill/DataStructHub",
+            "updatedAt": "2024-10-07T07:17:24Z",
+            "isPinned": true,
+            "homepage": "https://data-struct-hub.vercel.app"
+        },
+        {
+            "name": "personalbudgettracker",
+            "description": null,
+            "score": 10.294834711946832,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/personalbudgettracker",
+            "updatedAt": "2024-10-02T03:42:34Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "productgrid",
+            "description": null,
+            "score": 10.278341071561702,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/arjunvaradiyill/productgrid",
+            "updatedAt": "2024-08-08T16:43:55Z",
+            "isPinned": true,
+            "homepage": null
+        },
+        {
+            "name": "DSLAB-CUSAT",
+            "description": "thi",
+            "score": 2.99182278653205,
+            "stars": 0,
+            "forks": 6,
+            "language": "Java",
+            "url": "https://github.com/arjunvaradiyill/DSLAB-CUSAT",
+            "updatedAt": "2022-10-25T17:41:20Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "c-prgms-cusat",
+            "description": null,
+            "score": 1.1104094367571522,
+            "stars": 0,
+            "forks": 1,
+            "language": "C",
+            "url": "https://github.com/arjunvaradiyill/c-prgms-cusat",
+            "updatedAt": "2022-10-29T14:23:42Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "arjunvaradiyil",
+            "description": null,
+            "score": 1.108761686863317,
+            "stars": 0,
+            "forks": 1,
+            "language": "HTML",
+            "url": "https://github.com/arjunvaradiyill/arjunvaradiyil",
+            "updatedAt": "2022-02-07T06:22:19Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "coursewebapp",
+            "description": null,
+            "score": 0.8371659398268708,
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/arjunvaradiyill/coursewebapp",
+            "updatedAt": "2025-03-05T07:43:29Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 9,
+    "public_repos": 92,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 178,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/VaradiyilArjun"
+        },
+        {
+            "provider": "linkedin",
+            "url": "https://www.linkedin.com/in/arjunvaradiyill/"
+        },
+        {
+            "provider": "instagram",
+            "url": "https://www.instagram.com/_arjuo__/"
+        },
+        {
+            "provider": "generic",
+            "url": "https://www.threads.net/@_arjuoo__"
+        }
+    ],
+    "readme_content": "<a href=\"#\"><img width=\"100%\" height=\"auto\" src=\"https://i.imgur.com/iXuL1HG.png\" alt=\"Profile Banner\"/></a>\n\n<h1 align=\"center\">Hi <img src=\"https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif\" width=\"30px\" alt=\"wave\">, I'm Arjun</h1>\n<h3 align=\"center\">Web Developer & Cybersecurity Enthusiast | Building Secure Digital Experiences</h3>\n\n---\n\n### \ud83c\udf1f About Me\n\n- \ud83c\udf93 **B.Tech Graduate** in Computer Science Engineering from **Cochin University of Science and Technology**.\n- \ud83c\udf31 Currently learning **MERN Stack Development** and advancing in **Cybersecurity**.\n- \ud83d\udd0d Exploring opportunities in **Full-Stack Development** and **Digital Security**.\n- \ud83e\uddd1\u200d\ud83c\udfeb Aspiring **Tech Educator** \u2013 sharing knowledge through blogs and tutorials.\n- \u2728 **Personal Goal:** Build a collaborative tech community and mentor aspiring developers.\n\n---\n\n### \ud83d\ude80 Skills & Tools\n\n<p align=\"center\">\n    <img src=\"https://img.icons8.com/color/48/000000/html-5.png\" alt=\"HTML5\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/css3.png\" alt=\"CSS3\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/javascript.png\" alt=\"JavaScript\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/react-native.png\" alt=\"React\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/nodejs.png\" alt=\"Node.js\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/mongodb.png\" alt=\"MongoDB\"/>\n    <img src=\"https://img.icons8.com/fluent/48/000000/python.png\" alt=\"Python\"/>\n    <img src=\"https://img.icons8.com/color/48/000000/git.png\" alt=\"Git\"/>\n</p>\n\n---\n\n\n### \ud83c\udf0d Connect with Me\n\n<p align=\"center\">\n    <a href=\"https://www.linkedin.com/in/arjunvaradiyill/\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/linkedin.png\" alt=\"LinkedIn\"/></a>\n    <a href=\"https://twitter.com/VaradiyilArjun\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/twitter.png\" alt=\"Twitter\"/></a>\n    <a href=\"https://www.instagram.com/_arjuoo__/\" target=\"_blank\"><img src=\"https://img.icons8.com/fluent/48/000000/instagram-new.png\" alt=\"Instagram\"/></a>\n    <a href=\"https://github.com/arjunvaradiyill\" target=\"_blank\"><img src=\"https://img.icons8.com/ios-glyphs/50/000000/github.png\" alt=\"GitHub\"/></a>\n</p>\n\n---\n\n\n### \ud83d\udcc8 Current Projects\n\n- \ud83c\udf10 **coursewebapp**:\"An Educational Course Purchase Web App Using the MERN Stack\"\n\n- \ud83d\udd12 **Cybersecurity Blog**: A platform sharing cybersecurity tips, tools, and best practices.\n\n---\n\n### \u2728 Fun Fact\n\n> **\"The only way to do great work is to love what you do.\" \u2013 Steve Jobs**\n",
+    "activity_summary": {
+        "arjunvaradiyill/arjunvaradiyill": {
+            "link": "https://github.com/arjunvaradiyill/arjunvaradiyill",
+            "summary": "The user made a recent push on March 5, 2025, to update README.md, suggesting recent changes to their personal profile or documentation."
+        },
+        "arjunvaradiyill/igen-e-commerce-back-end": {
+            "link": "https://github.com/arjunvaradiyill/igen-e-commerce-back-end",
+            "summary": "The user had an update on February 16, 2025, suggesting progress in designing the back-end infrastructure for an e-commerce system."
+        }
+    },
+    "profile_summary": "Here's a concise, SEO-optimized first-person profile description:\n\nAs a seasoned web developer and cybersecurity enthusiast, I leverage my technical expertise in C, JavaScript, and Python to build secure and scalable web solutions. With a strong foundation in software development and a passion for digital security, I continue to learn and grow, currently exploring opportunities in full-stack development and digital security. Through collaborative projects like coursewebapp and my cybersecurity blog, I aim to share knowledge and mentor aspiring developers in the tech community."
+}

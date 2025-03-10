@@ -24,6 +24,7 @@ export type Profile = {
   social_accounts: SocialAccount[];
   readme_content: string;
   about: string;
+  cached: boolean;
 };
 
 export type Project = {

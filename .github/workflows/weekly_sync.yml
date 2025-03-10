@@ -24,7 +24,7 @@ jobs:
     - name: Profile generation
       run: |
         git checkout -B data
-        git pull origin data
+        git pull origin data --ff-only || git pull origin data --rebase
         python -m venv venv
         source venv/bin/activate
         pip install -r requirements.txt

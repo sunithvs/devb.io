@@ -1,0 +1,137 @@
+{
+    "username": "vaisgit",
+    "name": "Vaisakhan S",
+    "bio": "Product Manager @asteriaaerospace \r\nCS Undergrad - Model Engineering College, Kochi.",
+    "location": "Bengaluru, India",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16983651?u=25af96d6d1103290328d95436072fa4f9fc176b4&v=4",
+    "profile_url": "https://github.com/vaisgit",
+    "top_languages": [
+        [
+            "TypeScript",
+            1
+        ],
+        [
+            "R",
+            1
+        ],
+        [
+            "Ruby",
+            2
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "RedditDataAnalyser",
+            "description": "Statistical analysis for a particular query can be done based on reddit data.",
+            "score": 1.1024041557106117,
+            "stars": 0,
+            "forks": 1,
+            "language": "R",
+            "url": "https://github.com/vaisgit/RedditDataAnalyser",
+            "updatedAt": "2017-03-23T03:44:29Z",
+            "isPinned": false,
+            "homepage": "https://redditdata.shinyapps.io/shiny/"
+        },
+        {
+            "name": "micro-frontend",
+            "description": "Test Micro frontend",
+            "score": 0.06655469908147213,
+            "stars": 0,
+            "forks": 0,
+            "language": "TypeScript",
+            "url": "https://github.com/vaisgit/micro-frontend",
+            "updatedAt": "2020-07-20T18:32:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AlexaSkill-XKCD",
+            "description": "This skills gets you the latest of famous web comics xkcd. For those who don't know,  XKCD is a webcomic of romance, sarcasm, math, and language.",
+            "score": 0.06447884322622532,
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/vaisgit/AlexaSkill-XKCD",
+            "updatedAt": "2018-10-22T14:10:00Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "AsteriaSupport",
+            "description": null,
+            "score": 0.06305292346200403,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vaisgit/AsteriaSupport",
+            "updatedAt": "2017-08-01T06:32:14Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "BasicProjects",
+            "description": null,
+            "score": 0.06278129379328201,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vaisgit/BasicProjects",
+            "updatedAt": "2017-04-25T20:35:01Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "JekyllPersonal",
+            "description": "A simple and elegant personal landing page, created using jekyll.",
+            "score": 0.06273486911653392,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/vaisgit/JekyllPersonal",
+            "updatedAt": "2018-04-18T05:18:13Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "vaisgit.github.io",
+            "description": "Github Pages repo. Only for hosting purpose.",
+            "score": 0.06269148598368182,
+            "stars": 0,
+            "forks": 0,
+            "language": "Ruby",
+            "url": "https://github.com/vaisgit/vaisgit.github.io",
+            "updatedAt": "2019-08-23T06:18:47Z",
+            "isPinned": false,
+            "homepage": "https://vaisgit.github.io/"
+        },
+        {
+            "name": "CommerceNinja",
+            "description": "Commerce Ninja e-commerce website design challenge submission. Duration : 24Hrs.",
+            "score": 0.06268878445208498,
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/vaisgit/CommerceNinja",
+            "updatedAt": "2017-03-23T03:42:34Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 8,
+    "following": 5,
+    "public_repos": 13,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 0,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [
+        {
+            "provider": "twitter",
+            "url": "https://twitter.com/vaisakhanx"
+        }
+    ],
+    "readme_content": "",
+    "profile_summary": null
+}

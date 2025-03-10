@@ -1,10 +1,12 @@
-from collections import Counter
-from datetime import datetime, timedelta
-import requests
+import base64
+import difflib
 import re
+from datetime import datetime, timedelta
+
 import httpx
+import requests
+
 from config.settings import Settings
-from modules.github_projects import GitHubProjectRanker
 
 
 class GitHubProfileFetcher:
@@ -19,11 +21,11 @@ class GitHubProfileFetcher:
         - Cannot start or end with a hyphen
         - Cannot have consecutive hyphens
         """
-        pattern = r'^[a-zA-Z0-9][-a-zA-Z0-9]*[a-zA-Z0-9]$'
-        return (isinstance(username, str) and 
-                re.match(pattern, username) and 
-                len(username) <= 39 and 
-                '--' not in username)
+        if not isinstance(username, str) or not username:
+            return False
+            
+        pattern = r'^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$'
+        return bool(re.match(pattern, username))
 
     @staticmethod
     def _get_github_headers() -> dict:
@@ -194,10 +196,13 @@ class GitHubProfileFetcher:
             if not graphql_data:
                 raise ValueError(f"User '{username}' not found or query returned no data.")
             pr_merged_last_year = sum(
-                1 for pr in graphql_data['pullRequests']['nodes'] if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+                1 for pr in graphql_data['pullRequests']['nodes'] if
+                pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
             )
             issues_closed_last_year = sum(
-                1 for issue in graphql_data['issues']['nodes'] if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+                1 for issue in graphql_data['issues']['nodes'] if
+                issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(
+                    days=365)
             )
             # featured = GitHubProjectRanker().get_featured(username)
             return {
@@ -215,12 +220,14 @@ class GitHubProfileFetcher:
                 'pull_requests_merged': pr_merged_last_year if pr_merged_last_year < 100 else f"{100}+",
                 'issues_closed': issues_closed_last_year if issues_closed_last_year < 100 else f"{100}+",
                 'achievements': {
-                    'total_contributions': graphql_data['contributionsCollection']['contributionCalendar']['totalContributions'],
+                    'total_contributions': graphql_data['contributionsCollection']['contributionCalendar'][
+                        'totalContributions'],
                     'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
                 },
                 'social_accounts': GitHubProfileFetcher.social_accounts(username),
-                'readme_content' :( graphql_data.get('repository', {}).get('object', {}).get('text', '') 
-                                  if ( graphql_data.get('repository') and graphql_data.get('repository', {}).get('object') ) else '' )    # empty string if falsy values
+                'readme_content': (graphql_data.get('repository', {}).get('object', {}).get('text', '')
+                                   if (graphql_data.get('repository') and graphql_data.get('repository', {}).get(
+                    'object')) else '')  # empty string if falsy values
             }
 
         except requests.exceptions.HTTPError as e:
@@ -230,19 +237,21 @@ class GitHubProfileFetcher:
         except Exception as e:
             return {"error": f"An unexpected error occurred: {str(e)}"}
 
-
     @staticmethod
     def social_accounts(username):
         """
-        Fetch social accounts of the user
+        Fetch social accounts of the user from GitHub API and README.md
 
         Args:
             username (str): GitHub username
 
         Returns:
-            dict: Social accounts of the user
+            dict: Social accounts of the user including LinkedIn and Medium
         """
+        social_accounts = []
+
         try:
+            # First try the GitHub API
             base_url = f"https://api.github.com/users/{username}/social_accounts"
 
             user_response = requests.get(
@@ -253,11 +262,187 @@ class GitHubProfileFetcher:
                 }
             )
             user_response.raise_for_status()
-            return user_response.json()
+            api_accounts = user_response.json()
+
+            # Extract accounts from API response
+            for account in api_accounts:
+                social_accounts.append(account)
+
+            # Check if we need to look for LinkedIn and Medium in README
+            has_linkedin = False
+            has_medium = False
+
+            # Check if LinkedIn or Medium is already in the results (accounting for provider variations)
+            for account in social_accounts:
+                provider = account.get('provider', '').lower()
+                url = account.get('url', '').lower()
+
+                if provider == 'linkedin' or 'linkedin.com' in url:
+                    has_linkedin = True
+                elif provider == 'medium' or 'medium.com' in url:
+                    has_medium = True
+
+            # If LinkedIn or Medium not found, check README.md
+            if not has_linkedin or not has_medium:
+                readme_accounts = GitHubProfileFetcher.get_social_from_readme(username)
+
+                # Add LinkedIn if not already present
+                if not has_linkedin and 'linkedin' in readme_accounts:
+                    social_accounts.append({
+                        'provider': 'linkedin',
+                        'url': readme_accounts['linkedin']
+                    })
+
+                # Add Medium if not already present
+                if not has_medium and 'medium' in readme_accounts:
+                    social_accounts.append({
+                        'provider': 'generic',
+                        'url': readme_accounts['medium']
+                    })
+
+            return social_accounts
 
         except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 404:
+                # If API fails, try README approach
+                readme_accounts = GitHubProfileFetcher.get_social_from_readme(username)
+                return [{'provider': k, 'url': v} for k, v in readme_accounts.items()]
             return {"error": f"HTTP Error: {e.response.status_code} - {e.response.reason}"}
         except requests.exceptions.RequestException as e:
             return {"error": f"Request failed: {str(e)}"}
         except Exception as e:
             return {"error": f"An unexpected error occurred: {str(e)}"}
+
+    @staticmethod
+    def get_social_from_readme(username):
+        """
+        Extract social media links from a user's GitHub README.md file
+
+        Args:
+            username (str): GitHub username
+
+        Returns:
+            dict: Social accounts found in README
+        """
+        try:
+            # Get README content
+            readme_url = f"https://api.github.com/repos/{username}/{username}/readme"
+            readme_response = requests.get(
+                readme_url,
+                headers={
+                    "Accept": "application/vnd.github.v3+json",
+                    "Authorization": f"token {Settings.get_github_token()}",
+                }
+            )
+            readme_response.raise_for_status()
+
+            # Decode the content (it's base64 encoded)
+            content_encoded = readme_response.json().get('content', '')
+            content = base64.b64decode(content_encoded).decode('utf-8')
+
+            # Find social links
+            social_links = {
+                'linkedin': GitHubProfileFetcher.find_best_match(content, username, [
+                    r'https?://(?:www\.)?linkedin\.com/in/([a-zA-Z0-9_-]+)/?',
+                    r'linkedin\.com/in/([a-zA-Z0-9_-]+)/?'
+                ]),
+                'medium': GitHubProfileFetcher.find_best_match(content, username, [
+                    r'https?://(?:www\.)?medium\.com/@?([a-zA-Z0-9_-]+)/?',
+                    r'medium\.com/@?([a-zA-Z0-9_-]+)/?',
+                    r'https?://([a-zA-Z0-9_-]+)\.medium\.com/?'  # Pattern for username.medium.com
+                ])
+            }
+
+            # Filter out None values
+            return {k: v for k, v in social_links.items() if v}
+
+        except requests.exceptions.HTTPError as e:
+            # Try alternative README locations if first attempt fails
+            try:
+                # Some users have README in their main profile repository with different names
+                alt_readme_url = f"https://api.github.com/repos/{username}/{username}/contents/README.md"
+                alt_response = requests.get(
+                    alt_readme_url,
+                    headers={
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {Settings.get_github_token()}",
+                    }
+                )
+                alt_response.raise_for_status()
+
+                content_encoded = alt_response.json().get('content', '')
+                content = base64.b64decode(content_encoded).decode('utf-8')
+
+                # Process content same as above
+                social_links = {
+                    'linkedin': GitHubProfileFetcher.find_best_match(content, username, [
+                        r'https?://(?:www\.)?linkedin\.com/in/([a-zA-Z0-9_-]+)/?',
+                        r'linkedin\.com/in/([a-zA-Z0-9_-]+)/?'
+                    ]),
+                    'medium': GitHubProfileFetcher.find_best_match(content, username, [
+                        r'https?://(?:www\.)?medium\.com/@?([a-zA-Z0-9_-]+)/?',
+                        r'medium\.com/@?([a-zA-Z0-9_-]+)/?',
+                        r'https?://([a-zA-Z0-9_-]+)\.medium\.com/?'  # Pattern for username.medium.com
+                    ])
+                }
+
+                return {k: v for k, v in social_links.items() if v}
+
+            except:
+                return {}
+        except Exception as e:
+            return {}
+
+    @staticmethod
+    def find_best_match(content, username, patterns):
+        """
+        Find the best matching URL from the content based on similarity to the username
+
+        Args:
+            content (str): README content
+            username (str): GitHub username
+            patterns (list): List of regex patterns to match
+
+        Returns:
+            str: The best matching URL or None if no match
+        """
+        all_matches = []
+
+        for pattern in patterns:
+            # Find all matches for the current pattern
+            matches = re.finditer(pattern, content, re.IGNORECASE)
+            
+            for match in matches:
+                # Get the full match and the username group
+                full_url = match.group(0)
+                handle = match.group(1) if match.groups() else ''
+                
+                # Clean up the handle and URL
+                handle = handle.strip('/@')
+                if not full_url.startswith('http'):
+                    full_url = 'https://' + full_url.lstrip('/')
+
+                # Calculate similarity score
+                similarity = GitHubProfileFetcher.calculate_similarity(username.lower(), handle.lower())
+                all_matches.append((full_url, similarity))
+
+        # Sort by similarity score (highest first)
+        all_matches.sort(key=lambda x: x[1], reverse=True)
+
+        # Return the best match or None
+        return all_matches[0][0] if all_matches else None
+
+    @staticmethod
+    def calculate_similarity(str1, str2):
+        """
+        Calculate similarity between two strings using Levenshtein distance
+
+        Args:
+            str1 (str): First string
+            str2 (str): Second string
+
+        Returns:
+            float: Similarity score between 0 and 1
+        """
+        # Simple implementation using difflib
+        return difflib.SequenceMatcher(None, str1, str2).ratio()

@@ -50,12 +50,12 @@ class LinkedInProfileFetcher:
                     "description": exp.get('description'),
                     "duration": {
                         "start": {
-                            "month": exp.get('starts_at', {}).get('month'),
-                            "year": exp.get('starts_at', {}).get('year')
+                            "month": exp.get('starts_at', {}).get('month') if exp.get('starts_at') else 'N/A',
+                            "year": exp.get('starts_at', {}).get('year') if exp.get('starts_at') else 'N/A'
                         },
                         "end": {
-                            "month": exp.get('ends_at', {}).get('month'),
-                            "year": exp.get('ends_at', {}).get('year')
+                            "month": exp.get('ends_at', {}).get('month') if exp.get('ends_at') else None,
+                            "year": exp.get('ends_at', {}).get('year') if exp.get('ends_at') else None
                         } if exp.get('ends_at') else None
                     }
                 }

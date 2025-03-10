@@ -100,3 +100,12 @@ export type LinkedInProfile = {
   experience: Experience[];
   education: Education[];
 };
+
+export interface MediumBlog {
+  title: string;
+  link: string;
+  pubDate: string;
+  preview: string;
+  categories: string;
+  thumbnail?: string;
+}

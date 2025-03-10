@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { DEVB_BUY_ME_A_COFFEE_LINK, DEVB_GITHUB_LINK } from "@/lib/constants";
 
 const Footer = () => {
   return (
@@ -32,26 +33,18 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/www/public"
+                  href={DEVB_GITHUB_LINK}
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
-                  Home
+                  Star us on Github
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/how-it-works"
+                  href={DEVB_BUY_ME_A_COFFEE_LINK}
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
-                  How It Works
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/contribute"
-                  className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
-                >
-                  Contribute
+                  Support us
                 </Link>
               </li>
             </ul>

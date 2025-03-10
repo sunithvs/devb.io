@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Github, Globe, Linkedin, Twitter, User } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
-import { getUserProfile } from "@/lib/api";
+import { addUserToNocodb, getUserProfile } from "@/lib/api";
 import ClientResumeButton from "@/components/ClientResumeButton";
 import {
   Tooltip,
@@ -28,6 +28,7 @@ const iconComponents = {
 
 export async function ProfileSection({ username }: { username: string }) {
   const user = await getUserProfile(username);
+  await addUserToNocodb(user);
 
   if (!user) return <ProfileSkeleton />;
 

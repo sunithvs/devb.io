@@ -23,7 +23,7 @@ interface Profile {
 }
 
 async function getProfiles(): Promise<Profile[]> {
-  const response = await fetch("https://devb.io/data/processed_users.json", {
+  const response = await fetch("https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/docs/data/processed_users.json", {
     next: { revalidate: 3600 }, // Revalidate every hour
   });
   const data: Record<string, Profile> = await response.json();

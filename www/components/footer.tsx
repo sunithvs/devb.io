@@ -40,7 +40,8 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/how-it-works"
+                  href="https://docs.devb.io"
+                  target={"_blank"}
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
                   How It Works
@@ -48,10 +49,18 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/contribute"
+                  href="https://github.com/sunithvs/devb.io/fork"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
                   Contribute
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="https://buymeacoffee.com/sunithvs20p"
+                  className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
+                >
+                  Support
                 </Link>
               </li>
             </ul>

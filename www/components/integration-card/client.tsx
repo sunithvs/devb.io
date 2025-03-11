@@ -24,7 +24,7 @@ export default function IntegrationCard({ type, index }: IntegrationCardProps) {
         return {
           icon: <Linkedin size={32} className="text-[#0077B5]" />,
           title: "LinkedIn",
-          description: "Display your professional experience and achievements",
+          description: "Display your professional experience and Education",
           color: "bg-blue-100",
           status: "New",
         };

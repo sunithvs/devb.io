@@ -4,7 +4,7 @@ import { Profile } from "@/types/types";
 import { useBannerStore } from "@/hooks/banner-store";
 
 export const UserProfileBanner = ({ user }: { user: Profile | null }) => {
-  const { setBanner } = useBannerStore();
+  const { setBanner, hideBanner } = useBannerStore();
 
   useEffect(() => {
     if (user) {
@@ -22,6 +22,10 @@ export const UserProfileBanner = ({ user }: { user: Profile | null }) => {
         });
       }
     }
+
+    return () => {
+      hideBanner();
+    };
   }, [user, setBanner]);
 
   return null;

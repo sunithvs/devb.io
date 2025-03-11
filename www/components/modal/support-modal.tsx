@@ -20,7 +20,7 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
-    setOpen(user?.cached || false);
+    setOpen(!user?.cached || false);
   }, [user]);
 
   const copyToClipboard = () => {

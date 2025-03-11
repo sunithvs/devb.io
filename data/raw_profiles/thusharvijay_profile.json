@@ -92,11 +92,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "thusharvijay/Synergy": {
-            "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "The repository thusharvijay/Synergy has experienced a surge in activities over the past 24 hours, with multiple PushEvents triggered. Notably, there were frequent updates to the README.md file, indicating ongoing developments and improvements to the project."
-        }
-    },
-    "profile_summary": "As a seasoned software developer with a strong background in TypeScript, I leverage my expertise in developing and maintaining scalable, efficient applications. My experience with Jupyter Notebook and JavaScript enables me to effectively work on both data-driven projects and complex front-end tasks. I am committed to delivering high-quality code, collaborating with like-minded developers, and constantly pushing the boundaries of innovation in the tech industry."
+    "activity_summary": {},
+    "profile_summary": null
 }

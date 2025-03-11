@@ -34,6 +34,8 @@ const Footer = () => {
               <li>
                 <Link
                   href={DEVB_GITHUB_LINK}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
                   Star us on Github
@@ -42,6 +44,8 @@ const Footer = () => {
               <li>
                 <Link
                   href={DEVB_BUY_ME_A_COFFEE_LINK}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
                   Support us

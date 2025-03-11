@@ -5,8 +5,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import { Book, GitFork, Menu, X } from "lucide-react";
+import { useBannerStore } from "@/hooks/banner-store";
 
 export default function AnimatedNavClient() {
+  const { data } = useBannerStore();
+  const isBannerVisible = data.show;
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -21,9 +24,11 @@ export default function AnimatedNavClient() {
 
   return (
     <motion.nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 backdrop-blur-md ${
+      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 backdrop-blur-md ${
         isScrolled ? "bg-white/75 shadow-sm" : "bg-transparent"
-      }`}
+      }
+        ${isBannerVisible ? "top-10" : "top-0"}
+        `}
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.6 }}

@@ -26,7 +26,8 @@
     "react-intersection-observer": "^9.15.1",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
-    "xml2js": "^0.6.2"
+    "xml2js": "^0.6.2",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

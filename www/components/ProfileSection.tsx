@@ -9,6 +9,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { SupportModal } from "@/components/modal/support-modal";
+import { UserProfileBanner } from "@/components/UserProfileBanner";
 
 // Utility functions
 const extractDomainName = (url: string) => {
@@ -34,6 +35,7 @@ export async function ProfileSection({ username }: { username: string }) {
 
   return (
     <>
+      <UserProfileBanner user={user} />
       <div className="rounded-xl border-[1px] border-black bg-white overflow-hidden w-full max-w-md lg:max-w-none border-b-6">
         <div className="h-28 bg-[linear-gradient(94.26deg,#EAFFD1_31.3%,#B9FF66_93.36%)] relative">
           <div className="absolute left-1/2 lg:left-8 bottom-0 translate-x-[-50%] lg:translate-x-0 translate-y-1/2">

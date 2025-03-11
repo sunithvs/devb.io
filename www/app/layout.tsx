@@ -3,6 +3,7 @@ import { Outfit, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { QueryClientProvider } from "@/providers/CustomQueryClientProvider";
 import Script from "next/script";
+import { Banner } from "@/components/banner";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -70,7 +71,10 @@ export default function RootLayout({
       <body
         className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
-        <QueryClientProvider>{children}</QueryClientProvider>
+        <QueryClientProvider>
+          <Banner />
+          {children}
+        </QueryClientProvider>
       </body>
     </html>
   );

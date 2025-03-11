@@ -36,7 +36,7 @@ export default function RootLayout({
           data-name="BMC-Widget"
           data-cfasync="false"
           src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-          data-id="sunithvs20p"
+          data-id="sunithvs"
           data-description="Support me on Buy me a coffee!"
           data-color="#B9FF66"
           data-position="Right"

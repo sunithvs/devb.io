@@ -47,7 +47,7 @@
         {
             "name": "Face-Recognition",
             "description": null,
-            "score": 0.29779910958090483,
+            "score": 0.2974169270339575,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -59,7 +59,7 @@
         {
             "name": "Handwritten-Digit-Recognition",
             "description": null,
-            "score": 0.29779910958090483,
+            "score": 0.2974169270339575,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -71,7 +71,7 @@
         {
             "name": "spam-news-detection",
             "description": null,
-            "score": 0.29779910958090483,
+            "score": 0.2974169270339575,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -95,8 +95,8 @@
     "activity_summary": {
         "thusharvijay/Synergy": {
             "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "The Synergy repository has seen high activity over the past two days with a total of 21 PushEvents. The primary focus of these events has been updating README.md with multiple uploads and updates."
+            "summary": "Recent activities for Synergy repository have been focused on rapid updates to README.md file, indicating development and potentially documentation efforts. These push events span across multiple days and occurred at regular intervals, suggesting an organized approach to content updates."
         }
     },
-    "profile_summary": "As a seasoned developer with a strong background in TypeScript, JavaScript, and data-driven tools like Jupyter Notebook, I design and develop scalable software solutions that prioritize coding efficiency and ease of use. \n\nThroughout my career, I have focused on leveraging my technical expertise to drive innovative projects forward, resulting in a growing portfolio of ten actively maintained public repositories on GitHub. I continuously strive to blend seamless user experiences with robust backend systems, all while staying up-to-date with the latest industry trends and technologies."
+    "profile_summary": "As a seasoned software developer, I bring a unique combination of technical expertise and problem-solving skills to drive innovative solutions. With a strong background in TypeScript, JavaScript, and Jupyter Notebook, I have streamlined complex workflows, optimized system performance, and fostered scalability in my projects. \n\nI'm an active contributor, maintaining a portfolio of 10 public repositories that demonstrate my commitment to collaborative development."
 }

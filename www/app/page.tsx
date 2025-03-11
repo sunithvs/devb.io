@@ -7,6 +7,7 @@ import IntegrationCard from "@/components/integration-card/server";
 import ProfileCard from "@/components/profile-card/server";
 import HowItWorksCard from "@/components/how-it-works-card/server";
 import NextContributorCard from "@/components/next-contributor-card";
+import { Compare } from "@/components/ui/compare";
 
 // Types
 interface Profile {
@@ -172,6 +173,31 @@ export default async function Home() {
               <AnimatedStats
                 value={1425}
                 subtitle="Profiles Generated in 2 Months from Around the Globe"
+              />
+            </div>
+          </div>
+        </section>
+
+        {/* Compare Section */}
+        <section className="py-20">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Before & After
+              </h2>
+              <p className="text-xl text-gray-600">
+                See the difference DevB makes to your portfolio
+              </p>
+            </div>
+            <div className="flex justify-center">
+              <Compare
+                firstImage="/images/compare-1.png"
+                secondImage="/images/compare-2.png"
+                firstImageClassName="object-cover object-left-top"
+                secondImageClassname="object-cover object-left-top"
+                className="h-[350px] w-[400px] md:h-[650px] md:w-[500px]"
+                slideMode="hover"
+                // autoplay
               />
             </div>
           </div>

@@ -51,7 +51,7 @@ export default function AnimatedStats({ value, subtitle }: AnimatedStatsProps) {
       className="text-center"
     >
       <motion.div className="text-7xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
-        {count}
+        {count}+
       </motion.div>
       <motion.p className="text-xl md:text-2xl text-gray-600">
         {subtitle}

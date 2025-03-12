@@ -92,11 +92,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "thusharvijay/Synergy": {
-            "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "The thusharvijay/Synergy repository has seen significant activity in the past 24 hours with multiple push events, indicating substantial updates to the README.md file. A large number of files have also been added via upload, suggesting new content has been added to the repository."
-        }
-    },
-    "profile_summary": "Highly skilled software engineer specializing in the development of scalable and efficient applications with TypeScript, JavaScript, and Jupyter Notebook. With a strong passion for data analysis and machine learning, I leverage my technical expertise to drive business growth through data-driven insights.\n\nMy experience with key technologies enables me to craft robust codebases and deliver results-driven solutions. A seasoned developer with a strong portfolio of 10 public repositories, demonstrating my commitment to active development and collaboration. Through my work, I strive to continually bridge the gap between technology and innovation."
+    "activity_summary": {},
+    "profile_summary": null
 }

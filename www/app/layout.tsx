@@ -55,7 +55,7 @@ export default function RootLayout({
             storageBucket: "devbio1.firebasestorage.app",
             messagingSenderId: "205729381961",
             appId: "1:205729381961:web:b3d6306656a5c93c068998",
-            measurementId: ${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID},
+            measurementId: "${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}",
         };
 
         // Initialize Firebase

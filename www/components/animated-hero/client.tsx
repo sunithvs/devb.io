@@ -17,7 +17,7 @@ export default function AnimatedHeroClient() {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
-        <h1 className="text-6xl md:text-7xl md:font-bold leading-tight mb-4">
+        <h1 className="text-6xl md:text-7xl md:font-medium leading-tight mb-4">
           Effortless <span className="block">Portfolios for</span>
           <span className="inline-block bg-[#B9FF66] px-4 py-1 rounded-lg">
             Developers

@@ -24,6 +24,7 @@ export type Profile = {
   social_accounts: SocialAccount[];
   readme_content: string;
   about: string;
+  cached: boolean;
 };
 
 export type Project = {
@@ -100,3 +101,12 @@ export type LinkedInProfile = {
   experience: Experience[];
   education: Education[];
 };
+
+export interface MediumBlog {
+  title: string;
+  link: string;
+  pubDate: string;
+  preview: string;
+  categories: string;
+  thumbnail?: string;
+}

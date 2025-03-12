@@ -1,11 +1,13 @@
 import Image from "next/image";
 import Footer from "@/components/footer";
-import AnimatedNav from "./components/animated-nav/server";
-import AnimatedHero from "./components/animated-hero/server";
-import AnimatedStats from "./components/animated-stats/server";
-import IntegrationCard from "./components/integration-card/server";
-import ProfileCard from "./components/profile-card/server";
-import HowItWorksCard from "./components/how-it-works-card/server";
+import AnimatedNav from "@/components/animated-nav/server";
+import AnimatedHero from "@/components/animated-hero/server";
+import AnimatedStats from "@/components/animated-stats/server";
+import IntegrationCard from "@/components/integration-card/server";
+import ProfileCard from "@/components/profile-card/server";
+import HowItWorksCard from "@/components/how-it-works-card/server";
+import NextContributorCard from "@/components/next-contributor-card";
+import { Compare } from "@/components/ui/compare";
 
 // Types
 interface Profile {
@@ -24,30 +26,42 @@ interface Profile {
 
 async function getProfiles(): Promise<Profile[]> {
   const response = await fetch("https://devb.io/data/processed_users.json", {
-    next: { revalidate: 3600 } // Revalidate every hour
+    next: { revalidate: 3600 }, // Revalidate every hour
   });
-  const data: Record<string, Profile> = await response.json();
-  
-  // For each profile, fetch blog posts if they have a Medium account
-  const profilesWithBlogs = await Promise.all(
-    Object.values(data).map(async (profile) => {
-      return profile;
-    })
-  );
 
-  return profilesWithBlogs.slice(-6);
+  if (!response.ok) {
+    return [];
+  }
+
+  if (response.headers.get("content-type")?.includes("application/json")) {
+    const data: Record<string, Profile> = await response.json();
+
+    // For each profile, fetch blog posts if they have a Medium account
+    const profilesWithBlogs = await Promise.all(
+      Object.values(data).map(async (profile) => {
+        return profile;
+      }),
+    );
+
+    return profilesWithBlogs.slice(-6);
+  } else {
+    throw new Error("Unexpected content type");
+  }
 }
 
 async function getContributors(): Promise<Profile[]> {
   try {
-    const response = await fetch('https://api.github.com/repos/sunithvs/devb.io/contributors', {
-      headers: {
-        'Accept': 'application/json',
+    const response = await fetch(
+      "https://api.github.com/repos/sunithvs/devb.io/contributors",
+      {
+        headers: {
+          Accept: "application/json",
+        },
+        next: {
+          revalidate: 3600, // Revalidate every hour
+        },
       },
-      next: {
-        revalidate: 3600 // Revalidate every hour
-      }
-    });
+    );
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -56,26 +70,33 @@ async function getContributors(): Promise<Profile[]> {
     const contributorsData = await response.json();
 
     if (!Array.isArray(contributorsData)) {
-      console.error('Contributors data is not an array:', contributorsData);
+      console.error("Contributors data is not an array:", contributorsData);
       return [];
     }
-    
+
     // Filter out actions-user and fetch full profile data
-    const cleanedData = contributorsData.filter((profile) => 
-      profile && typeof profile === 'object' && profile.login && profile.login !== 'actions-user'
+    const cleanedData = contributorsData.filter(
+      (profile) =>
+        profile &&
+        typeof profile === "object" &&
+        profile.login &&
+        profile.login !== "actions-user",
     );
-    
+
     const contributors = await Promise.all(
       cleanedData.map(async (profile) => {
         try {
-          const userResponse = await fetch(`https://api.github.com/users/${profile.login}`, {
-            headers: {
-              'Accept': 'application/json',
+          const userResponse = await fetch(
+            `https://api.github.com/users/${profile.login}`,
+            {
+              headers: {
+                Accept: "application/json",
+              },
+              next: {
+                revalidate: 3600, // Revalidate every hour
+              },
             },
-            next: {
-              revalidate: 3600 // Revalidate every hour
-            }
-          });
+          );
 
           if (!userResponse.ok) {
             throw new Error(`HTTP error! status: ${userResponse.status}`);
@@ -89,7 +110,7 @@ async function getContributors(): Promise<Profile[]> {
             bio: userData.bio || "No bio available",
             followers: userData.followers || 0,
             following: userData.following || 0,
-            public_repos: userData.public_repos || 0
+            public_repos: userData.public_repos || 0,
           };
         } catch (error) {
           console.error(`Error fetching data for ${profile.login}:`, error);
@@ -100,15 +121,15 @@ async function getContributors(): Promise<Profile[]> {
             bio: "No bio available",
             followers: 0,
             following: 0,
-            public_repos: 0
+            public_repos: 0,
           };
         }
-      })
+      }),
     );
-    
+
     return contributors;
   } catch (error) {
-    console.error('Error fetching contributors:', error);
+    console.error("Error fetching contributors:", error);
     return [];
   }
 }
@@ -121,24 +142,27 @@ export default async function Home() {
     {
       iconName: "Github" as const,
       title: "Connect GitHub",
-      description: "Link your GitHub account to automatically showcase your repositories and contributions."
+      description:
+        "Link your GitHub account to automatically showcase your repositories and contributions.",
     },
     {
       iconName: "RefreshCw" as const,
       title: "Weekly Updates",
-      description: "Your portfolio stays fresh with automatic weekly updates of your latest projects and activities."
+      description:
+        "Your portfolio stays fresh with automatic weekly updates of your latest projects and activities.",
     },
     {
       iconName: "Share2" as const,
       title: "Share Your Work",
-      description: "Share your curated collection of projects and achievements with the world."
-    }
+      description:
+        "Share your curated collection of projects and achievements with the world.",
+    },
   ];
 
   return (
     <>
       <AnimatedNav />
-      
+
       <main className="min-h-screen px-10 pt-20 md:px-24 md:pt-32 pb-0 overflow-hidden">
         <AnimatedHero />
 
@@ -146,9 +170,34 @@ export default async function Home() {
         <section className="py-20 bg-gradient-to-b from-white to-gray-50">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
-              <AnimatedStats 
-                value={1425} 
-                subtitle="Profiles Generated in 2 Months from Around the Globe" 
+              <AnimatedStats
+                value={1425}
+                subtitle="Profiles Generated in 2 Months from Around the Globe"
+              />
+            </div>
+          </div>
+        </section>
+
+        {/* Compare Section */}
+        <section className="py-20">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Before & After
+              </h2>
+              <p className="text-xl text-gray-600">
+                See the difference DevB makes to your portfolio
+              </p>
+            </div>
+            <div className="flex justify-center">
+              <Compare
+                firstImage="/images/compare-1.png"
+                secondImage="/images/compare-2.png"
+                firstImageClassName="object-cover object-left-top"
+                secondImageClassname="object-cover object-left-top"
+                className="h-[350px] w-[400px] md:h-[650px] md:w-[500px]"
+                slideMode="hover"
+                // autoplay
               />
             </div>
           </div>
@@ -195,7 +244,8 @@ export default async function Home() {
                 Connect Your Developer Identity
               </h2>
               <p className="text-xl text-gray-600">
-                Integrate with your favorite platforms to showcase your complete developer profile
+                Integrate with your favorite platforms to showcase your complete
+                developer profile
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
@@ -240,7 +290,8 @@ export default async function Home() {
                 Our Contributors
               </h2>
               <p className="text-xl text-gray-600">
-                Meet the amazing developers who have contributed to making DevB better
+                Meet the amazing developers who have contributed to making DevB
+                better
               </p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-6xl mx-auto">
@@ -251,42 +302,43 @@ export default async function Home() {
                   username={profile.username}
                   avatarUrl={profile.avatar_url}
                   bio={profile.bio}
-
                   index={index}
                 />
               ))}
+              <NextContributorCard index={contributors.length} />
             </div>
           </div>
         </section>
 
         {/* Recent Profiles Section */}
-        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
-          <div className="container mx-auto px-4">
-            <div className="max-w-3xl mx-auto text-center mb-12">
-              <h2 className="text-4xl md:text-5xl font-bold mb-4">
-                Recent Profiles
-              </h2>
-              <p className="text-xl text-gray-600">
-                Check out the latest developers who created their portfolios using DevB
-              </p>
+        {profiles.length > 0 && (
+          <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+            <div className="container mx-auto px-4">
+              <div className="max-w-3xl mx-auto text-center mb-12">
+                <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                  Recent Profiles
+                </h2>
+                <p className="text-xl text-gray-600">
+                  Check out the latest developers who created their portfolios
+                  using DevB
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+                {profiles.map((profile, index) => (
+                  <div key={profile.username}>
+                    <ProfileCard
+                      name={profile.name}
+                      username={profile.username}
+                      avatarUrl={profile.avatar_url}
+                      bio={profile.bio}
+                      index={index}
+                    />
+                  </div>
+                ))}
+              </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-              {profiles.map((profile, index) => (
-                <div key={profile.username}>
-                  <ProfileCard
-                    name={profile.name}
-                    username={profile.username}
-                    avatarUrl={profile.avatar_url}
-                    bio={profile.bio}
-                    index={index}
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
- 
+          </section>
+        )}
       </main>
       <Footer />
     </>

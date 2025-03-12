@@ -4,7 +4,7 @@ import React from "react";
 export function TimelineSkeleton() {
   return (
     <div className="relative">
-      <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-black"></div>
+      <div className="absolute left-[14] top-0 bottom-0 w-0.5 bg-black"></div>
 
       <div className="space-y-6 pl-12">
         {[1, 2, 3].map((i) => (

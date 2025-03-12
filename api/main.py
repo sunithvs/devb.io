@@ -1,3 +1,4 @@
+import copy
 import json
 from typing import Dict, Any, Annotated
 
@@ -72,8 +73,10 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
         print(f"Failed to generate AI description: {str(e)}")
         basic_profile['about'] = None
     if Settings.CACHE_ENABLED:
-        basic_profile['cached'] = True
-        await redis_client.setex(name=cache_key, value=json.dumps(basic_profile), time=Settings.DEFAULT_CACHE_TTL)
+        # deep copy the object to avoid modifying the original object
+        tobe_cached = copy.deepcopy(basic_profile)
+        tobe_cached['cached'] = True
+        await redis_client.setex(name=cache_key, value=json.dumps(tobe_cached), time=Settings.DEFAULT_CACHE_TTL)
     return basic_profile
 
 # API Endpoints

@@ -41,6 +41,28 @@ export default function RootLayout({
             })(window, document, "clarity", "script", "${process.env.NEXT_PUBLIC_CLARITY_ID}");
           `}
           </Script>
+          <Script id="google-analytics" strategy="afterInteractive">
+                {`
+                import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
+
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+            apiKey: "AIzaSyDNfTJ9M8Bd4ZmnpJ3ZHdJT_Hs9CTvd1Mw",
+            authDomain: "devbio1.firebaseapp.com",
+            projectId: "devbio1",
+            storageBucket: "devbio1.firebasestorage.app",
+            messagingSenderId: "205729381961",
+            appId: "1:205729381961:web:b3d6306656a5c93c068998",
+            measurementId: ${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID},
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+            `}
+          </Script>
       </head>
       <body
           className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}

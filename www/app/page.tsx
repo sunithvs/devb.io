@@ -6,6 +6,8 @@ import AnimatedStats from "@/components/animated-stats/server";
 import IntegrationCard from "@/components/integration-card/server";
 import ProfileCard from "@/components/profile-card/server";
 import HowItWorksCard from "@/components/how-it-works-card/server";
+import NextContributorCard from "@/components/next-contributor-card";
+import { Compare } from "@/components/ui/compare";
 
 // Types
 interface Profile {
@@ -26,16 +28,25 @@ async function getProfiles(): Promise<Profile[]> {
   const response = await fetch("https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/docs/data/processed_users.json", {
     next: { revalidate: 3600 }, // Revalidate every hour
   });
-  const data: Record<string, Profile> = await response.json();
 
-  // For each profile, fetch blog posts if they have a Medium account
-  const profilesWithBlogs = await Promise.all(
-    Object.values(data).map(async (profile) => {
-      return profile;
-    }),
-  );
+  if (!response.ok) {
+    return [];
+  }
 
-  return profilesWithBlogs.slice(-6);
+  if (response.headers.get("content-type")?.includes("application/json")) {
+    const data: Record<string, Profile> = await response.json();
+
+    // For each profile, fetch blog posts if they have a Medium account
+    const profilesWithBlogs = await Promise.all(
+      Object.values(data).map(async (profile) => {
+        return profile;
+      }),
+    );
+
+    return profilesWithBlogs.slice(-6);
+  } else {
+    throw new Error("Unexpected content type");
+  }
 }
 
 async function getContributors(): Promise<Profile[]> {
@@ -167,6 +178,31 @@ export default async function Home() {
           </div>
         </section>
 
+        {/* Compare Section */}
+        <section className="py-20">
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl mx-auto text-center mb-12">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                Before & After
+              </h2>
+              <p className="text-xl text-gray-600">
+                See the difference DevB makes to your portfolio
+              </p>
+            </div>
+            <div className="flex justify-center">
+              <Compare
+                firstImage="/images/compare-1.png"
+                secondImage="/images/compare-2.png"
+                firstImageClassName="object-cover object-left-top"
+                secondImageClassname="object-cover object-left-top"
+                className="h-[350px] w-[400px] md:h-[650px] md:w-[500px]"
+                slideMode="hover"
+                // autoplay
+              />
+            </div>
+          </div>
+        </section>
+
         {/* Services Grid */}
         <section className="py-10 md:pt-20">
           <div className="container md:mx-auto md:px-4">
@@ -269,37 +305,40 @@ export default async function Home() {
                   index={index}
                 />
               ))}
+              <NextContributorCard index={contributors.length} />
             </div>
           </div>
         </section>
 
         {/* Recent Profiles Section */}
-        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
-          <div className="container mx-auto px-4">
-            <div className="max-w-3xl mx-auto text-center mb-12">
-              <h2 className="text-4xl md:text-5xl font-bold mb-4">
-                Recent Profiles
-              </h2>
-              <p className="text-xl text-gray-600">
-                Check out the latest developers who created their portfolios
-                using DevB
-              </p>
+        {profiles.length > 0 && (
+          <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+            <div className="container mx-auto px-4">
+              <div className="max-w-3xl mx-auto text-center mb-12">
+                <h2 className="text-4xl md:text-5xl font-bold mb-4">
+                  Recent Profiles
+                </h2>
+                <p className="text-xl text-gray-600">
+                  Check out the latest developers who created their portfolios
+                  using DevB
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+                {profiles.map((profile, index) => (
+                  <div key={profile.username}>
+                    <ProfileCard
+                      name={profile.name}
+                      username={profile.username}
+                      avatarUrl={profile.avatar_url}
+                      bio={profile.bio}
+                      index={index}
+                    />
+                  </div>
+                ))}
+              </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-              {profiles.map((profile, index) => (
-                <div key={profile.username}>
-                  <ProfileCard
-                    name={profile.name}
-                    username={profile.username}
-                    avatarUrl={profile.avatar_url}
-                    bio={profile.bio}
-                    index={index}
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+          </section>
+        )}
       </main>
       <Footer />
     </>

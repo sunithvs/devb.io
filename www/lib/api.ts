@@ -226,3 +226,31 @@ export const getLinkedInProfileData = async (
   if (!username) return null;
   return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
 };
+
+/**
+ * API to add user to Nocodb table for analytics
+ */
+export const addUserToNocodb = async (user: Profile | null) => {
+  if (!user) return;
+  const url = `https://app.nocodb.com/api/v2/tables/${process.env.NOCODB_TABLE_ID}/records`;
+  const headers = {
+    accept: "application/json",
+    "xc-token": process.env.NOCODB_API_KEY || "",
+    "Content-Type": "application/json",
+  };
+
+  const data = {
+    name: user.name,
+    socials: user.social_accounts,
+  };
+
+  try {
+    await fetch(url, {
+      method: "POST",
+      headers: headers,
+      body: JSON.stringify(data),
+    });
+  } catch (error) {
+    console.error("Error:", error);
+  }
+};

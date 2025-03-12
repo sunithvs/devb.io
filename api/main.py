@@ -73,7 +73,7 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
         basic_profile['about'] = None
     if Settings.CACHE_ENABLED:
         # deep copy the object to avoid modifying the original object
-        tobe_cached = basic_profile.copy()
+        tobe_cached = copy.deepcopy(basic_profile)
         tobe_cached['cached'] = True
         await redis_client.setex(name=cache_key, value=json.dumps(tobe_cached), time=Settings.DEFAULT_CACHE_TTL)
     return basic_profile

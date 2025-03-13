@@ -47,7 +47,7 @@
         {
             "name": "99problems_erlang",
             "description": "99 problems (ala https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/) in Erlang",
-            "score": 3.4129196851437875,
+            "score": 3.412915584604736,
             "stars": 2,
             "forks": 1,
             "language": "Erlang",
@@ -71,7 +71,7 @@
         {
             "name": "mybatis-coherence",
             "description": "coherence plugin for mybatis caching",
-            "score": 1.7074089833409587,
+            "score": 1.7074073993501957,
             "stars": 0,
             "forks": 2,
             "language": "Java",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "Highly skilled software developer with expertise in concurrent programming languages, including Scala, Rust, and Erlang. Energetically delivering scalable and efficient solutions across multiple industries, leveraging my strong understanding of functional programming principles and open-source technologies. As an experienced developer with a track record of influencing others through collaborative projects and innovative problem-solving, I thrive in fast-paced environments where complexity meets simplicity."
+    "profile_summary": "As a seasoned software engineer with 195 public repositories and 39 followers, I leverage my expertise in Scala, Rust, and Erlang to design, develop, and maintain high-performance applications and systems. I thrive in collaborative environments where innovation meets problem-solving, and my passion for concurrent programming and distributed systems drives me to stay at the forefront of technological advancements in these fields."
 }

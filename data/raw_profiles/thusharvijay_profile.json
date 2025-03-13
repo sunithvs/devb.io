@@ -47,7 +47,7 @@
         {
             "name": "Face-Recognition",
             "description": null,
-            "score": 0.2970381725432588,
+            "score": 0.2966627924641947,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -59,7 +59,7 @@
         {
             "name": "Handwritten-Digit-Recognition",
             "description": null,
-            "score": 0.2970381725432588,
+            "score": 0.2966627924641947,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -71,7 +71,7 @@
         {
             "name": "spam-news-detection",
             "description": null,
-            "score": 0.2970381725432588,
+            "score": 0.2966627924641947,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -92,6 +92,11 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "thusharvijay/Synergy": {
+            "link": "https://github.com/thusharvijay/Synergy",
+            "summary": "Recent activities on repository Synergy include multiple push events between 2025-03-08 and 2025-03-09, primarily updating README.md files and adding files via upload. These events suggest significant contributions and refinements to the repository on the mentioned dates."
+        }
+    },
+    "profile_summary": "Highly skilled and detail-driven software developer with expertise in crafting scalable and efficient code with TypeScript. I have extensive experience in leveraging Jupyter Notebook for data-driven insights and have a solid foundation in JavaScript for client-side development. \n\nI utilize my proficiency in these technologies to build innovative solutions that meet real-world challenges across various industries. \n\n\nCurrently, I'm actively contributing to and managing a portfolio of 10+ public repositories, solidifying my ability to work independently and effectively in collaboration with cross-functional teams. \n\nWith a strong passion for learning and experimentation, I strive to stay up-to-date with the latest industry trends and best practices."
 }

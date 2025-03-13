@@ -163,7 +163,7 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
             <div className="flex gap-3">
               <button
                 disabled={!profile}
-                onClick={() => router.push(`/${profile?.login}`)}
+                onClick={() => router.push(`/${profile?.login}?ref=modal`)}
                 className={cn(
                   "flex-1 bg-[#CCFF00] text-black px-6 py-3 rounded-lg font-semibold hover:bg-[#b8e600] transition-colors",
                   !profile && "opacity-50 cursor-not-allowed",

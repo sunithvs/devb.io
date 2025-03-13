@@ -92,6 +92,11 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "thusharvijay/Synergy": {
+            "link": "https://github.com/thusharvijay/Synergy",
+            "summary": "Recent activities on Synergy repository have been dominated by updates and additions to the README.md file, indicating ongoing development and refinement of documentation."
+        }
+    },
+    "profile_summary": "As a seasoned software engineer, I leverage my expertise in TypeScript and JavaScript to drive innovation in data science and machine learning applications. I'm well-versed in utilizing Jupyter Notebook for collaborative exploration and experimentation with large datasets. With over 10 publicly available repositories showcasing my active development, I'm committed to contributing meaningful solutions to the open-source community and staying at the forefront of technological advancements."
 }

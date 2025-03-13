@@ -83,7 +83,7 @@
         {
             "name": "hinduinterest",
             "description": null,
-            "score": 1.5882400719484076,
+            "score": 1.588223913926306,
             "stars": 1,
             "forks": 0,
             "language": "CSS",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "As a seasoned software engineer, I specialize in building scalable and high-performance systems using modern programming languages like Scala, Rust, and Erlang. With strong expertise in concurrent programming and distributed systems, I've developed extensive experience in crafting complex, fault-tolerant software solutions. \n\nMy extensive experience with Scala has allowed me to excel in large-scale data processing and analysis, leveraging frameworks like Apache Spark to drive business insights. In Rust, I've honed skills in systems programming, optimizing low-level memory management to boost system efficiency."
+    "profile_summary": null
 }

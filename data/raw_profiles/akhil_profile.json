@@ -1,0 +1,132 @@
+{
+    "username": "akhil",
+    "name": "Akhil Kodali",
+    "bio": "",
+    "location": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/50161?u=c7856ed922f7ecf29f4b1cafa750ac04ab4a5279&v=4",
+    "profile_url": "https://github.com/akhil",
+    "top_languages": [
+        [
+            "Scala",
+            16
+        ],
+        [
+            "Rust",
+            1
+        ],
+        [
+            "Erlang",
+            1
+        ]
+    ],
+    "top_projects": [
+        {
+            "name": "intellij-ocaml",
+            "description": "my mirror of https://code.google.com/p/intellij-ocaml/",
+            "score": 5.358827528919261,
+            "stars": 4,
+            "forks": 3,
+            "language": "Java",
+            "url": "https://github.com/akhil/intellij-ocaml",
+            "updatedAt": "2021-01-14T07:45:30Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "traefik-docker-swarm-example",
+            "description": null,
+            "score": 3.98165900554063,
+            "stars": 2,
+            "forks": 2,
+            "language": null,
+            "url": "https://github.com/akhil/traefik-docker-swarm-example",
+            "updatedAt": "2023-05-22T22:32:48Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "99problems_erlang",
+            "description": "99 problems (ala https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/) in Erlang",
+            "score": 3.4129196851437875,
+            "stars": 2,
+            "forks": 1,
+            "language": "Erlang",
+            "url": "https://github.com/akhil/99problems_erlang",
+            "updatedAt": "2025-02-24T06:45:50Z",
+            "isPinned": false,
+            "homepage": "http://chad.github.com"
+        },
+        {
+            "name": "benchmarks",
+            "description": "Rust web frameworks benchmarks",
+            "score": 2.1431034260801836,
+            "stars": 0,
+            "forks": 3,
+            "language": "Rust",
+            "url": "https://github.com/akhil/benchmarks",
+            "updatedAt": "2020-01-17T11:15:13Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "mybatis-coherence",
+            "description": "coherence plugin for mybatis caching",
+            "score": 1.7074089833409587,
+            "stars": 0,
+            "forks": 2,
+            "language": "Java",
+            "url": "https://github.com/akhil/mybatis-coherence",
+            "updatedAt": "2014-08-06T19:37:33Z",
+            "isPinned": false,
+            "homepage": ""
+        },
+        {
+            "name": "hinduinterest",
+            "description": null,
+            "score": 1.5882400719484076,
+            "stars": 1,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/akhil/hinduinterest",
+            "updatedAt": "2024-07-23T10:10:11Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "akka-jms-client",
+            "description": "Akka Jms Client",
+            "score": 1.5707414692583197,
+            "stars": 1,
+            "forks": 0,
+            "language": "Scala",
+            "url": "https://github.com/akhil/akka-jms-client",
+            "updatedAt": "2025-02-24T06:45:59Z",
+            "isPinned": false,
+            "homepage": null
+        },
+        {
+            "name": "akhil.github.com",
+            "description": "akhil.github.com",
+            "score": 1.5649091866405556,
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/akhil/akhil.github.com",
+            "updatedAt": "2025-02-24T06:45:54Z",
+            "isPinned": false,
+            "homepage": null
+        }
+    ],
+    "followers": 39,
+    "following": 14,
+    "public_repos": 195,
+    "pull_requests_merged": 0,
+    "issues_closed": 0,
+    "achievements": {
+        "total_contributions": 4,
+        "repositories_contributed_to": 0
+    },
+    "social_accounts": [],
+    "readme_content": "",
+    "profile_summary": "As a seasoned developer with 195 public repositories, I bring a decade of expertise in crafting scalable and efficient software solutions using languages like Scala, Rust, and Erlang. With a strong foundation in functional programming and experience with concurrent systems, I effectively balance functionality and performance in my code. Through contributions to various open-source projects, I have established a professional network of 39 followers who value my insights on programming best practices."
+}

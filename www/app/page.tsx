@@ -25,9 +25,12 @@ interface Profile {
 }
 
 async function getProfiles(): Promise<Profile[]> {
-  const response = await fetch("https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/docs/data/processed_users.json", {
-    next: { revalidate: 3600 }, // Revalidate every hour
-  });
+  const response = await fetch(
+    "https://raw.githubusercontent.com/sunithvs/devb.io/refs/heads/data/docs/data/processed_users.json",
+    {
+      next: { revalidate: 3600 }, // Revalidate every hour
+    },
+  );
 
   if (!response.ok) {
     return [];
@@ -45,7 +48,8 @@ async function getProfiles(): Promise<Profile[]> {
 
     return profilesWithBlogs.slice(-6);
   } else {
-    throw new Error("Unexpected content type");
+    // throw new Error("Unexpected content type");
+    return [];
   }
 }
 

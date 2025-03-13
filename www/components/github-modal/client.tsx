@@ -1,10 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { Github, X } from "lucide-react";
+import { Github, Loader, X } from "lucide-react";
+import { cn } from "@/lib/utils";
 
 interface GitHubModalProps {
   onClose: () => void;
@@ -17,6 +18,23 @@ interface GitHubProfile {
   bio: string;
 }
 
+// Debounce function to limit API calls
+function useDebounce<T>(value: T, delay: number): T {
+  const [debouncedValue, setDebouncedValue] = useState<T>(value);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDebouncedValue(value);
+    }, delay);
+
+    return () => {
+      clearTimeout(timer);
+    };
+  }, [value, delay]);
+
+  return debouncedValue;
+}
+
 export default function GitHubModal({ onClose }: GitHubModalProps) {
   const [username, setUsername] = useState("");
   const [isValidating, setIsValidating] = useState(false);
@@ -24,35 +42,54 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
   const [profile, setProfile] = useState<GitHubProfile | null>(null);
   const router = useRouter();
 
-  const validateGithubUsername = async (username: string) => {
-    if (!username) {
-      setError("Please enter a GitHub username");
-      return;
-    }
+  // Debounce the username input to prevent excessive API calls
+  const debouncedUsername = useDebounce(username, 500);
 
-    setIsValidating(true);
-    setError("");
-
-    try {
-      const response = await fetch(`https://api.github.com/users/${username}`);
-      if (!response.ok) {
-        throw new Error("GitHub user not found");
+  const validateGithubUsername = useCallback(
+    async (usernameToValidate: string) => {
+      if (!usernameToValidate) {
+        setError("");
+        setProfile(null);
+        return;
       }
-      const data = await response.json();
-      setProfile({
-        login: data.login,
-        avatar_url: data.avatar_url,
-        name: data.name || data.login,
-        bio: data.bio || "No bio available",
-      });
-    } catch (err) {
-      console.log(err);
-      setError("Invalid GitHub username");
+
+      setIsValidating(true);
+      setError("");
+
+      try {
+        const response = await fetch(
+          `https://api.github.com/users/${usernameToValidate}`,
+        );
+        if (!response.ok) {
+          throw new Error("GitHub user not found");
+        }
+        const data = await response.json();
+        setProfile({
+          login: data.login,
+          avatar_url: data.avatar_url,
+          name: data.name || data.login,
+          bio: data.bio || "No bio available",
+        });
+      } catch (err) {
+        console.log(err);
+        setError("Invalid GitHub username");
+        setProfile(null);
+      } finally {
+        setIsValidating(false);
+      }
+    },
+    [],
+  );
+
+  // Effect to trigger validation when debounced username changes
+  useEffect(() => {
+    if (debouncedUsername) {
+      validateGithubUsername(debouncedUsername);
+    } else {
       setProfile(null);
-    } finally {
-      setIsValidating(false);
+      setError("");
     }
-  };
+  }, [debouncedUsername, validateGithubUsername]);
 
   return (
     <AnimatePresence>
@@ -86,16 +123,20 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
 
           <div className="space-y-6">
             <div>
-              <input
-                type="text"
-                value={username}
-                onChange={(e) => setUsername(e.target.value)}
-                placeholder="Enter GitHub username"
-                className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#CCFF00] focus:border-transparent text-lg"
-                onKeyDown={(e) => {
-                  if (e.key === "Enter") validateGithubUsername(username);
-                }}
-              />
+              <div className="relative">
+                <input
+                  type="text"
+                  value={username}
+                  onChange={(e) => setUsername(e.target.value)}
+                  placeholder="Enter GitHub username"
+                  className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#CCFF00] focus:border-transparent text-lg"
+                />
+                {isValidating && (
+                  <div className="absolute right-3 top-1/2 -translate-y-1/2">
+                    <Loader className={"animate-spin"} />
+                  </div>
+                )}
+              </div>
               {error && <p className="mt-2 text-red-500 text-sm">{error}</p>}
             </div>
 
@@ -120,22 +161,16 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
             )}
 
             <div className="flex gap-3">
-              {profile ? (
-                <button
-                  onClick={() => router.push(`/${profile.login}`)}
-                  className="flex-1 bg-[#CCFF00] text-black px-6 py-3 rounded-lg font-semibold hover:bg-[#b8e600] transition-colors"
-                >
-                  View Profile
-                </button>
-              ) : (
-                <button
-                  onClick={() => validateGithubUsername(username)}
-                  disabled={isValidating}
-                  className="flex-1 bg-black text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-800 transition-colors disabled:bg-gray-400"
-                >
-                  {isValidating ? "Validating..." : "Continue"}
-                </button>
-              )}
+              <button
+                disabled={!profile}
+                onClick={() => router.push(`/${profile?.login}`)}
+                className={cn(
+                  "flex-1 bg-[#CCFF00] text-black px-6 py-3 rounded-lg font-semibold hover:bg-[#b8e600] transition-colors",
+                  !profile && "opacity-50 cursor-not-allowed",
+                )}
+              >
+                View Profile
+              </button>
               <button
                 onClick={onClose}
                 className="px-6 py-3 border border-gray-200 rounded-lg font-semibold hover:bg-gray-50 transition-colors"

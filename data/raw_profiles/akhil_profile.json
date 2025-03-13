@@ -23,7 +23,7 @@
         {
             "name": "intellij-ocaml",
             "description": "my mirror of https://code.google.com/p/intellij-ocaml/",
-            "score": 5.358827528919261,
+            "score": 5.358825640887535,
             "stars": 4,
             "forks": 3,
             "language": "Java",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "I'm Akhil Kodali, a seasoned software engineer with expertise in developing scalable and efficient systems using Scala, Rust, and Erlang. With over 15 years of industry experience, I've honed my skills in building high-performance applications that tackle complex problems. Through my contributions to the developer community, including a professional network of 39 followers and 195 public repositories, I continuously share knowledge and insights with fellow engineers, shaping the future of software development.\n\nPlease find my source code and contributions at: https://github.com/akhilkodali \n\nThis summary quickly highlights Akhil's key technical skills and professional experience while also showcasing his influence and community involvement, making him an attractive professional profile for GitHub developers."
+    "profile_summary": "Highly skilled software developer with expertise in concurrent programming languages, including Scala, Rust, and Erlang. Energetically delivering scalable and efficient solutions across multiple industries, leveraging my strong understanding of functional programming principles and open-source technologies. As an experienced developer with a track record of influencing others through collaborative projects and innovative problem-solving, I thrive in fast-paced environments where complexity meets simplicity."
 }

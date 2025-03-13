@@ -59,7 +59,7 @@
         {
             "name": "benchmarks",
             "description": "Rust web frameworks benchmarks",
-            "score": 2.1431034260801836,
+            "score": 2.1431002802348074,
             "stars": 0,
             "forks": 3,
             "language": "Rust",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "I'm Akhil Kodali, a seasoned software developer with a passion for building scalable and reliable systems. I specialize in designing and implementing production-ready code using Scala, Rust, and Erlang, with a strong focus on concurrent programming and distributed systems. With over 195 public repositories and a network of 39 dedicated followers, I'm committed to sharing knowledge and expertise to drive innovation and growth in the software development community."
+    "profile_summary": "As a seasoned software engineer, I leverage my expertise in Scala, Rust, and Erlang to architect scalable and resilient systems. With over 195 public repositories and 39 industry peers following my work, I stay at the forefront of language innovations and collaborative development. Most notably, my expertise in systems programming and functional paradigms has led to notable projects in concurrency, distributed systems, and applications for large-scale data processing, fostering improved efficiency and fault-tolerance in software applications. I'm always eager to join forces with like-minded developers to tackle complex challenges and amplify the impact of technology."
 }

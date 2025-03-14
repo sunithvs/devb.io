@@ -47,7 +47,7 @@
         {
             "name": "Face-Recognition",
             "description": null,
-            "score": 0.2966627924641947,
+            "score": 0.2962907343396846,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -59,7 +59,7 @@
         {
             "name": "Handwritten-Digit-Recognition",
             "description": null,
-            "score": 0.2966627924641947,
+            "score": 0.2962907343396846,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -71,7 +71,7 @@
         {
             "name": "spam-news-detection",
             "description": null,
-            "score": 0.2966627924641947,
+            "score": 0.2962907343396846,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -92,6 +92,11 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {},
-    "profile_summary": null
+    "activity_summary": {
+        "thusharvijay/Synergy": {
+            "link": "https://github.com/thusharvijay/Synergy",
+            "summary": "A series of push events indicate significant updates to a repository, specifically README.md, over the course of multiple days, likely involving file uploads and version control actions."
+        }
+    },
+    "profile_summary": "As a software developer, I have expertise in building scalable and efficient applications using TypeScript and JavaScript. Proficient in working with data-driven tools like Jupyter Notebook, I leverage coding skills to analyze and visualize complex data. With an active portfolio of 10 public repositories and a commitment to staying up-to-date with industry trends, I am dedicated to delivering high-quality solutions for real-world problems."
 }

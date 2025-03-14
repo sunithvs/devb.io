@@ -35,7 +35,7 @@
         {
             "name": "traefik-docker-swarm-example",
             "description": null,
-            "score": 3.98165900554063,
+            "score": 3.981646733599699,
             "stars": 2,
             "forks": 2,
             "language": null,
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "I'm Akhil Kodali, a seasoned developer with expertise in building scalable, concurrent systems using languages such as Scala, Rust, and Erlang. With over 12 years of industry experience, I've developed a deep understanding of programming principles and have honed my skills in crafting efficient, reliable solutions for complex problems. \n\nAs a contributor to multiple open-source projects and with an active presence in the software development community, my 39 GitHub followers and 195 public repositories reflect my commitment to continuous learning and improvement. In my spare time, I work on various personal projects, refining my skills and experimenting with new technologies. I am passionate about developing robust, scalable, and maintainable software systems that positively impact society."
+    "profile_summary": "Highly skilled software engineer with expertise in building scalable, concurrent, and fault-tolerant systems. Proficient in Scala, Rust, and Erlang, I leverage these languages to craft efficient and maintainable codebases. With over 195 public repositories and 39 followers, I have established a solid presence in the professional community through active contributions and knowledge-sharing."
 }

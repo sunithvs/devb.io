@@ -92,11 +92,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "thusharvijay/Synergy": {
-            "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "The thusharvijay/Synergy repository experienced significant activity on March 8 and 9, 2025, with multiple push events focused on updating README.md. Additionally, there were several add file events via upload, suggesting bulk uploading of files."
-        }
-    },
-    "profile_summary": "As a seasoned software developer with expertise in TypeScript, JavaScript, and Python-based Jupyter Notebook technologies, I continuously strive to push the boundaries of software innovation. My experience spans across multiple domains, from data analysis to full stack web development, with a strong focus on delivering efficient, scalable, and modular solutions."
+    "activity_summary": {},
+    "profile_summary": null
 }

@@ -95,7 +95,7 @@
         {
             "name": "akka-jms-client",
             "description": "Akka Jms Client",
-            "score": 1.5707348056264,
+            "score": 1.5707281444330343,
             "stars": 1,
             "forks": 0,
             "language": "Scala",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": null
+    "profile_summary": "I'm Akhil Kodali, a seasoned software developer with expertise in crafting scalable systems using Scala, Rust, and Erlang. With over 195 public repositories and a strong presence in the professional network, I've established myself as a reliable contributor in the developer community. My background in software engineering and continuous learning drive me to push the boundaries of what's possible with these powerful programming languages."
 }

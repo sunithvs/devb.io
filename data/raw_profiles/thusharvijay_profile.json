@@ -47,7 +47,7 @@
         {
             "name": "Face-Recognition",
             "description": null,
-            "score": 0.2962907343396846,
+            "score": 0.2959219468663434,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -59,7 +59,7 @@
         {
             "name": "Handwritten-Digit-Recognition",
             "description": null,
-            "score": 0.2962907343396846,
+            "score": 0.2959219468663434,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -71,7 +71,7 @@
         {
             "name": "spam-news-detection",
             "description": null,
-            "score": 0.2962907343396846,
+            "score": 0.2959219468663434,
             "stars": 0,
             "forks": 0,
             "language": "Jupyter Notebook",
@@ -93,10 +93,10 @@
     "social_accounts": [],
     "readme_content": "",
     "activity_summary": {
-        "Synergy": {
+        "ThusharVijay/Synergy": {
             "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "A recent surge of activity has been observed on Synergy as multiple PushEvents were recorded. These events indicate frequent updates to README.md, suggesting enhancements and refinements to the repository's documentation."
+            "summary": "Significant recent activity on ThusharVijay/Synergy due to multiple PushEvents which indicate frequent updates and additions to the repository, mainly focusing on the README.md file with some file uploads."
         }
     },
-    "profile_summary": "I'm Thushar Vijay, a dedicated software professional driven by a passion for delivering high-quality solutions. With expertise in leading-edge technologies such as TypeScript, Jupyter Notebook, and JavaScript, I help bridge the gap between cutting-edge innovation and real-world application. Utilizing these skills, I strive to create user-centric experiences that exceed expectations and drive meaningful impact, and I'm currently working on pushing the boundaries of what's possible with these technologies in my projects."
+    "profile_summary": "I'm Thushar Vijay, a detail-driven software developer with a strong background in creating scalable and maintainable applications. With expertise in TypeScript and JavaScript, I've successfully delivered high-quality code that meets the ever-evolving needs of complex projects. My proficiency in Jupyter Notebook enables me to expedite data exploration, analysis, and visualization. \n\nAs a diligent developer, I've consistently pushed code updates to my 10 public repositories, emphasizing my commitment to building and refining technical projects. I'm excited to expand my professional network and collaborate with like-minded individuals who share my passion for software development."
 }

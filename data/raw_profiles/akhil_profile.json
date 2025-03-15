@@ -47,7 +47,7 @@
         {
             "name": "99problems_erlang",
             "description": "99 problems (ala https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/) in Erlang",
-            "score": 3.41291148507105,
+            "score": 3.4129073865422788,
             "stars": 2,
             "forks": 1,
             "language": "Erlang",
@@ -71,7 +71,7 @@
         {
             "name": "mybatis-coherence",
             "description": "coherence plugin for mybatis caching",
-            "score": 1.7074058157981529,
+            "score": 1.7074042326846077,
             "stars": 0,
             "forks": 2,
             "language": "Java",
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": null
+    "profile_summary": "As a seasoned software engineer with a passion for scalable and high-performance systems, I specialize in building robust applications with Scala, Rust, and Erlang. With a strong foundation in functional programming and distributed systems, I leverage my technical expertise to architect and deliver efficient solutions, driving business value through code quality and maintainability. My experiences have prepared me to navigate complex technical landscapes and collaborate with cross-functional teams to drive innovation and growth."
 }

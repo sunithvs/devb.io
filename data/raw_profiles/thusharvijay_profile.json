@@ -92,11 +92,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "thusharvijay-Synergy": {
-            "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "The Synergy repository has witnessed significant activity with frequent push events over the past two days. Multiple commits were made to update the README.md file and add files via upload."
-        }
-    },
-    "profile_summary": "I'm Thushar Vijay, a well-rounded developer with a strong background in building scalable and maintainable software applications using TypeScript and JavaScript. With experience in advanced Jupyter Notebook usage, I deliver data-driven solutions and optimize workflows for maximum efficiency."
+    "activity_summary": {},
+    "profile_summary": null
 }

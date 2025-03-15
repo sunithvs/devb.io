@@ -80,13 +80,13 @@ export async function AboutSection({ username }: { username: string }) {
             </p>
           </div>
 
-          <div
-            className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"
-            style={{ animationDelay: "500ms" }}
+          {user?.location && (<div
+              className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"
+              style={{animationDelay: "500ms"}}
           >
             <h2 className="text-xl font-bold mb-2">📍 Location</h2>
-            <p>{user?.location || "Kochi"}</p>
-          </div>
+            <p>{user?.location}</p>
+          </div>)}
         </div>
       </div>
     </>

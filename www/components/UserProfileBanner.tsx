@@ -2,12 +2,15 @@
 import { useEffect } from "react";
 import { Profile } from "@/types/types";
 import { useBannerStore } from "@/hooks/banner-store";
+import { useSearchParams } from "next/navigation";
 
 export const UserProfileBanner = ({ user }: { user: Profile | null }) => {
+  const searchParams = useSearchParams();
+  const ref = searchParams.get("ref");
   const { setBanner, hideBanner } = useBannerStore();
 
   useEffect(() => {
-    if (user) {
+    if (user && ref === "modal") {
       const hasLinkedIn = user.social_accounts?.some(
         (account) => account.provider.toLowerCase() === "linkedin",
       );
@@ -26,7 +29,7 @@ export const UserProfileBanner = ({ user }: { user: Profile | null }) => {
     return () => {
       hideBanner();
     };
-  }, [user, setBanner]);
+  }, [user, setBanner, ref]);
 
   return null;
 };

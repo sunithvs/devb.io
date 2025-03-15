@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { Outfit, Space_Grotesk } from "next/font/google";
 import "./globals.css";
-import {QueryClientProvider} from "@/providers/CustomQueryClientProvider";
+import { QueryClientProvider } from "@/providers/CustomQueryClientProvider";
 import Script from "next/script";
+import { Banner } from "@/components/banner";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -68,12 +69,13 @@ export default function RootLayout({
         </Script>
       </head>
       <body
-          className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
+        className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
-      <QueryClientProvider>
+        <QueryClientProvider>
+          <Banner />
           {children}
-      </QueryClientProvider>
+        </QueryClientProvider>
       </body>
-      </html>
+    </html>
   );
 }

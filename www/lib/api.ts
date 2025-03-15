@@ -240,7 +240,7 @@ export const addUserToNocodb = async (user: Profile | null) => {
   };
 
   const data = {
-    name: user.name,
+    name: user.username,
     socials: user.social_accounts,
   };
 

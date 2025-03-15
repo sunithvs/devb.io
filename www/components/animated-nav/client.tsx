@@ -35,7 +35,7 @@ export default function AnimatedNavClient() {
     >
       <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
-          <Link href="/www/public" className="flex items-center gap-2">
+          <Link href="/" className="flex items-center gap-2">
             <div className="relative w-24 h-8">
               <Image
                 src="/images/logo-full.png"

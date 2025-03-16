@@ -85,7 +85,7 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
 
             {/* Fuel Code Card */}
             <div
-              onClick={() => openInNewTab(DEVB_GITHUB_LINK)}
+              onClick={() => openInNewTab(DEVB_BUY_ME_A_COFFEE_LINK)}
               className="flex flex-col items-center p-5 text-center bg-[#ffde30] rounded-xl cursor-pointer transition-all duration-300 hover:scale-[1.03] hover:shadow-lg relative group overflow-hidden"
             >
               <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -107,7 +107,7 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
 
             {/* Star GitHub Card */}
             <div
-              onClick={() => openInNewTab(DEVB_BUY_ME_A_COFFEE_LINK)}
+              onClick={() => openInNewTab(DEVB_GITHUB_LINK)}
               className="flex flex-col items-center p-5 text-center bg-[#fff8d8] rounded-xl cursor-pointer transition-all duration-300 hover:scale-[1.03] hover:shadow-lg relative group overflow-hidden"
             >
               <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">

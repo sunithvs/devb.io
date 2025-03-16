@@ -1,8 +1,6 @@
 name: Weekly sync
 
 on:
-  schedule:
-    - cron: '0 0 * * 0' # Every Sunday
   workflow_dispatch:  # This allows you to manually trigger the workflow from the Actions tab.
 
 permissions:

@@ -92,11 +92,6 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "activity_summary": {
-        "thusharvijay-Synergy": {
-            "link": "https://github.com/thusharvijay/Synergy",
-            "summary": "Developer thusharvijay has made significant updates to the README.md file over a 9-hour period, suggesting major documentation refresh and preparation for a project update or release."
-        }
-    },
-    "profile_summary": "As a seasoned full-stack developer with expertise in TypeScript, Jupyter Notebook, and JavaScript, I leverage my skills to drive data-driven solutions for complex challenges. With experience in leveraging interactive tools like Jupyter Notebook to simplify data analysis, I enhance efficiency in developing scalable and maintainable software applications. My proficiency across the front-end, back-end, and data science domains, validates my ability to handle diverse projects, making me a versatile and valuable contributor to collaborative development environments. A passionate advocate for code readability and maintainable software, I commit to implementing tested, modular code with exemplary documentation, adhering to high standards of professional coding best practices."
+    "activity_summary": {},
+    "profile_summary": null
 }

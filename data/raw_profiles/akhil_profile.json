@@ -107,7 +107,7 @@
         {
             "name": "akhil.github.com",
             "description": "akhil.github.com",
-            "score": 1.5648996044388848,
+            "score": 1.5648948153419036,
             "stars": 1,
             "forks": 0,
             "language": null,
@@ -128,5 +128,5 @@
     },
     "social_accounts": [],
     "readme_content": "",
-    "profile_summary": "As a seasoned software engineer with expertise in scalable programming languages, I leverage my proficiency in Scala, Rust, and Erlang to craft high-performance applications and systems. With a sizable professional network of 39 followers, I have cultivated an environment of collaboration and knowledge-sharing in the developer community, fueling my passion for contributing to open-source projects and mentoring junior developers. I currently maintain 195 public repositories, showcasing my ongoing dedication to innovation and technological advancements."
+    "profile_summary": "As a seasoned developer with extensive experience in functional programming languages, I specialize in designing and implementing scalable software solutions using Scala, Rust, and Erlang. I've spent nearly two decades mastering the intricacies of each language, delivering high-quality products and collaborating effectively with teams on complex projects. \n\nMy passion lies in distilling complexity through elegant code, simplicity, and pragmatic design, alongside leveraging the strengths of my favorite languages to create robust, maintainable, and scalable software systems."
 }

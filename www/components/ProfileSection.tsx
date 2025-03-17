@@ -46,6 +46,7 @@ export async function ProfileSection({ username }: { username: string }) {
                 width={120}
                 height={120}
                 className="rounded-[16px]"
+                unoptimized
               />
             </div>
           </div>

@@ -1,6 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
-import { DEVB_BUY_ME_A_COFFEE_LINK, DEVB_GITHUB_LINK } from "@/lib/constants";
+import {
+  DEVB_BUY_ME_A_COFFEE_LINK,
+  DEVB_DISCORD_LINK,
+  DEVB_GITHUB_LINK,
+  DEVB_INSTAGRAM_LINK,
+  DEVB_LINKEDIN_LINK,
+  DEVB_X_LINK,
+} from "@/lib/constants";
 
 const Footer = () => {
   return (
@@ -33,12 +40,22 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <Link
+                  href={DEVB_DISCORD_LINK}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
+                >
+                  Join Discord
+                </Link>
+              </li>
+              <li>
+                <Link
                   href={DEVB_GITHUB_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
-                  Star us on Github
+                  Star Us On GitHub
                 </Link>
               </li>
               <li>
@@ -48,7 +65,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
                 >
-                  Support us
+                  Support Us
                 </Link>
               </li>
             </ul>
@@ -60,7 +77,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="https://x.com/devb_io"
+                  href={DEVB_X_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
@@ -70,7 +87,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="https://github.com/devb-io"
+                  href={DEVB_GITHUB_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
@@ -80,7 +97,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="https://instagram.com/devb_io"
+                  href={DEVB_INSTAGRAM_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"
@@ -90,7 +107,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="https://linkedin.com/company/devb-io"
+                  href={DEVB_LINKEDIN_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#F3F3F3] opacity-60 hover:opacity-100 text-sm"

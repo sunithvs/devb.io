@@ -28,7 +28,13 @@ export default function ProfileCardClient({
       className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow"
     >
       <div className="aspect-square relative">
-        <Image src={avatarUrl} alt={name} fill className="object-cover" />
+        <Image
+          src={avatarUrl}
+          alt={name}
+          fill
+          className="object-cover"
+          unoptimized
+        />
       </div>
       <div className="p-4">
         <h3 className="text-lg font-semibold mb-1 truncate">{name}</h3>

@@ -23,9 +23,9 @@ devb.io is an innovative platform that automatically generates professional deve
 - [🚀 Product Hunt](https://www.producthunt.com/posts/devb-io)
 - [🚀 Live Website](https://devb.io)
 - [🚀 Beta Link](https://beta.devb.io)
-- [Demo Link](https://youtu.be/vS00Z6eDVuc)
+- [🎥 Demo Link](https://youtu.be/vS00Z6eDVuc)
 - [📄 Documentation](https://docs.devb.io)
-- [💬 Community Forum](https://discord.gg/W364NEY6)
+- [💬 Community Forum](https://discord.gg/se8fhSWSw9)
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ devb.io is an innovative platform that automatically generates professional deve
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/devb-io/devb.io.git
+   git clone https://github.com/sunithvs/devb.io.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
@@ -56,8 +56,8 @@ devb.io is an innovative platform that automatically generates professional deve
 
 ### 🤝 Contributing
 
-We welcome contributions! Please see our [Contribution Guidelines](https://github.com/devb-io/devb.io/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions! Please see our [Contribution Guidelines](https://github.com/sunithvs/devb.io/blob/main/CONTRIBUTING.md) for more information.
 
 ### 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/devb-io/devb.io/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sunithvs/devb.io/blob/main/LICENSE) file for details.

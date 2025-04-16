@@ -54,6 +54,56 @@ devb.io is an innovative platform that automatically generates professional deve
    uvicorn main:app --reload
    ```
 
+## 🌱 Environment Setup
+
+To configure your environment variables, follow these steps:
+
+### 1. Copy the Example Environment File
+
+Start by copying the `.env.example` file to `.env`:
+
+```bash
+cp .env.example .env
+```
+
+This creates a working `.env` file where you can securely store your environment-specific settings.
+
+---
+
+### 2. Environment Variables Explained
+
+| Variable            | Description |
+|---------------------|-------------|
+| `API_TOKEN_GITHUB`  | Comma-separated list of GitHub API tokens. These help increase your rate limits when accessing GitHub’s APIs. |
+| `GROQ_API_KEY`      | Groq API keys used for accessing Groq’s AI models. |
+| `API_KEYS`          | Custom API keys your application uses for authenticating users or services. |
+| `DEBUG`             | Set to `True` to enable verbose logging for debugging. Keep it `False` in production. |
+| `CACHE_ENABLED`     | Enables/disables in-memory or disk-based caching to boost performance. |
+
+---
+
+### 3. Generating Your API Keys
+
+#### 🔑 GitHub API Tokens
+1. Go to [GitHub Developer Settings → Personal Access Tokens](https://github.com/settings/tokens)
+2. Click **Generate new token (classic)** or use **Fine-grained tokens**
+3. Select required scopes (e.g., `repo`, `read:org`, `user`)
+4. Copy the token(s) and paste them into the `API_TOKEN_GITHUB` field, comma-separated if multiple
+
+#### 🤖 Groq API Key
+1. Sign in at [https://console.groq.com](https://console.groq.com)
+2. Navigate to **API Keys**
+3. Click **Generate Key** and copy it
+4. Paste it into the `GROQ_API_KEY` field (comma-separated if using multiple keys)
+
+#### 🛡️ Application API Keys
+1. Use a secure random string generator such as:
+   - Linux/macOS: `openssl rand -hex 32`
+   - Node.js: `require('crypto').randomBytes(32).toString('hex')`
+   - Python: `import secrets; secrets.token_hex(32)`
+2. Paste the key(s) into the `API_KEYS` field, separated by commas if multiple
+
+
 ### 🤝 Contributing
 
 We welcome contributions! Please see our [Contribution Guidelines](https://github.com/sunithvs/devb.io/blob/main/CONTRIBUTING.md) for more information.

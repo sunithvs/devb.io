@@ -3,6 +3,7 @@ import json
 from groq import Groq
 
 from config.settings import Settings
+import re
 
 
 class AIDescriptionGenerator:
@@ -11,6 +12,18 @@ class AIDescriptionGenerator:
     def __init__(self):
         """Initialize Groq client"""
         self.client = Groq(api_key=Settings.get_groq_key())
+
+    @staticmethod
+    def _clean_summary(text: str) -> str:
+        """Remove leading phrases like 'here the summary' from the output"""
+        patterns = [
+            r"^\s*here(?:'s| is)?\s+(?:the\s+)?summary[:,]?\s*",
+            r"^\s*summary[:,]?\s*",
+        ]
+        cleaned = text
+        for pattern in patterns:
+            cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
+        return cleaned.strip()
 
     def generate_profile_summary(self, profile_data):
         """
@@ -54,7 +67,8 @@ class AIDescriptionGenerator:
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
 
-        return response.choices[0].message.content
+        raw_text = response.choices[0].message.content
+        return self._clean_summary(raw_text)
 
     def generate_activity_summary(self, contributions):
         """

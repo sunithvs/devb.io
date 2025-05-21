@@ -8,7 +8,7 @@ import {
   Text,
   View,
 } from "@react-pdf/renderer";
-import type { LinkedInProfile } from "@/types/types";
+import type { LinkedInProfile, Profile, SocialAccount } from "@/types/types";
 import {
   getLinkedInProfileData,
   getProfileData,
@@ -142,7 +142,7 @@ const formatExperienceDuration = (
   end?: {
     month?: number;
     year?: number;
-  } | null,
+  } | null
 ) => {
   const startMonth = start.month ? getMonthString(start.month) : "";
   const startYear = start.year;
@@ -208,7 +208,7 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
                 <Text style={styles.text}>
                   {formatExperienceDuration(
                     experience.duration.start,
-                    experience.duration.end,
+                    experience.duration.end
                   )}
                 </Text>
               </View>
@@ -313,10 +313,22 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
   </Document>
 );
 
+const getLinkedInUsername = (userProfile: Profile | any) => {
+  if (!userProfile) return null;
+  const linkedInAccount = userProfile?.social_accounts?.find(
+    (account: SocialAccount) => account.provider === "linkedin"
+  );
+  const username =
+    linkedInAccount?.url?.split("in/").pop()?.replace("/", "") || "";
+
+  return username || null;
+};
+
 async function getResumeData(username: string): Promise<ResumeData> {
   const userProfile = await getProfileData(username);
   const userProjects = await getProjectData(username);
-  const userLinkedInProfile = await getLinkedInProfileData(username);
+  const linkedInUsername = getLinkedInUsername(userProfile);
+  const userLinkedInProfile = await getLinkedInProfileData(linkedInUsername);
 
   const defaultLinkedInProfile: LinkedInProfile = {
     experience: [],

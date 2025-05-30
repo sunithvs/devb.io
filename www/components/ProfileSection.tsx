@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Github, Globe, Linkedin, Twitter, User } from "lucide-react";
+import { Github, Globe, Linkedin, Twitter, User, BookOpen, Instagram } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { addUserToNocodb, getUserProfile } from "@/lib/api";
 import ClientResumeButton from "@/components/ClientResumeButton";
@@ -25,6 +25,17 @@ const iconComponents = {
   linkedin: Linkedin,
   twitter: Twitter,
   generic: Globe,
+  medium: BookOpen,
+  instagram: Instagram,
+  huggingface: Globe, // Using Globe for now as Lucide doesn't have a Hugging Face icon
+};
+
+const detectProvider = (url: string): string => {
+  const urlLower = url.toLowerCase();
+  if (urlLower.includes('medium.com')) return 'medium';
+  if (urlLower.includes('instagram.com')) return 'instagram';
+  if (urlLower.includes('huggingface.co')) return 'huggingface';
+  return 'generic';
 };
 
 export async function ProfileSection({ username }: { username: string }) {
@@ -90,11 +101,14 @@ export async function ProfileSection({ username }: { username: string }) {
               </Tooltip>
               {user.social_accounts?.map((account) => {
                 if (account.provider.toLowerCase() === "github") return null;
-                const provider = account.provider.toLowerCase();
-                const tooltipText =
-                  account.provider === "generic"
-                    ? extractDomainName(account.url)
-                    : account.provider;
+                
+                const provider = account.provider.toLowerCase() === "generic" 
+                ? detectProvider(account.url)
+                : account.provider.toLowerCase();
+                
+                const tooltipText = provider === "generic"
+                ? extractDomainName(account.url)
+                : provider;
 
                 return (
                   <Tooltip key={account.url}>

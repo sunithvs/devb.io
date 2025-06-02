@@ -70,15 +70,16 @@ class GitHubContributionsFetcher:
                     ]
 
                     contributions[repo].append(contribution)
-            # clean up empty repositories
+            # Remove repositories without contributions
             contributions = {k: v for k, v in contributions.items() if v}
-            # get last 5 contributions if more than 5
-            # sort by most contributions
-            contributions = dict(sorted(contributions.items(), key=lambda x: len(x[1]), reverse=True))
-            # get last 5 contributions
-            contributions = {k: v for k, v in list(contributions.items())[:5]}
-            # get last 10 contributions
-            contributions = {k: v for k, v in list(contributions.items())[:10]}
+
+            # Sort by most contributions and limit to the top 10 repositories
+            contributions = dict(
+                sorted(contributions.items(), key=lambda x: len(x[1]), reverse=True)
+            )
+            contributions = {
+                k: v for k, v in list(contributions.items())[:10]
+            }
 
             return contributions
         except Exception as e:

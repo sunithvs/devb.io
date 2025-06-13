@@ -12,6 +12,52 @@ class AIDescriptionGenerator:
         """Initialize Groq client"""
         self.client = Groq(api_key=Settings.get_groq_key())
 
+    def generate_seo_contents(self, profile_data):
+        """
+        Generate a professional SEO-optimized profile content like title, description, keywords
+
+        Args:
+            profile_data (dict): GitHub user profile data
+
+        Returns:
+            str: AI-generated SEO-optimized profile content
+        """
+        prompt = (
+            "Generate a concise, professional, and SEO-optimized profile snippet for a developer profile page."
+            "\n\nReturn the output strictly in the following JSON format (without any additional commentary):"
+            '\n{\n  "title": "<Max 10 words. Format: FirstName (@username). Role passionate about [what they do]>",'
+            '\n  "description": "<Max 30 words (120–160 characters). Meta-style description that highlights skills and invites engagement>",'
+            '\n  "keywords": "<8–15 comma-separated keywords or phrases. Focus on Next.js-related terms, long-tail SEO phrases, and specific skills>"\n}'
+            "\n\nUse this input data to personalize the content, handling missing or empty fields gracefully:"
+            f"\n- Name: {profile_data.get('name', 'Anonymous Developer')}"
+            f"\n- Username: {profile_data.get('username', 'username')}"
+            f"\n- Followers: {profile_data.get('followers', 0)} (highlight if over 500)"
+            f"\n- Public Repositories: {profile_data.get('public_repos', 0)} (highlight if over 20)"
+            f"\n- Bio: {profile_data.get('bio', '')} (infer core skills or passions)"
+            f"\n- README: {profile_data.get('readme_content', '')} (extract unique traits or standout projects)"
+            "\n\nIf data is sparse, infer likely skills or focus areas. Avoid filler or generic phrases. Prioritize precision and clarity."
+        )
+
+        response = self.client.chat.completions.create(
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are an SEO-optimized profile content generator for developer portfolios and GitHub profiles. Create search engine friendly, professional profile summaries that enhance discoverability and professional presence. Generate content in natural paragraph format without headings, lists, or bullet points. Focus on keyword integration, meta-friendly descriptions, and compelling copy that drives engagement and showcases technical expertise effectively.",
+                },
+                {"role": "user", "content": prompt},
+            ],
+            model="llama-3.1-8b-instant",
+        )
+        if not response.choices or response.choices[0].message.content == "":
+            raise Exception("No response from AI model")
+
+        result = json.loads(response.choices[0].message.content)
+        return {
+            "title": result["title"],
+            "description": result["description"],
+            "keywords": result["keywords"],
+        }
+
     def generate_profile_summary(self, profile_data):
         """
         Generate a professional profile summary
@@ -42,14 +88,11 @@ class AIDescriptionGenerator:
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a professional profile summarizer for GitHub developers. create a professional profile summary without any heading ,list or bullet points."
+                    "content": "You are a professional profile summarizer for GitHub developers. create a professional profile summary without any heading ,list or bullet points.",
                 },
-                {
-                    "role": "user",
-                    "content": prompt
-                }
+                {"role": "user", "content": prompt},
             ],
-            model="llama-3.1-8b-instant"
+            model="llama-3.1-8b-instant",
         )
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
@@ -97,7 +140,7 @@ class AIDescriptionGenerator:
                 for repo, details in parsed.items():
                     if not isinstance(details, dict):
                         return False
-                    if 'link' not in details or 'summary' not in details:
+                    if "link" not in details or "summary" not in details:
                         return False
 
                 return parsed
@@ -111,15 +154,12 @@ class AIDescriptionGenerator:
                     messages=[
                         {
                             "role": "system",
-                            "content": "You are a GitHub activity summarizer. Provide a precise JSON summary of repository activities."
+                            "content": "You are a GitHub activity summarizer. Provide a precise JSON summary of repository activities.",
                         },
-                        {
-                            "role": "user",
-                            "content": construct_prompt(contributions)
-                        }
+                        {"role": "user", "content": construct_prompt(contributions)},
                     ],
                     model="llama-3.1-8b-instant",
-                response_format={"type": "json_object"}
+                    response_format={"type": "json_object"},
                 )
 
                 # Extract response content

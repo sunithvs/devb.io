@@ -68,10 +68,13 @@ async def get_cached_github_profile(username: str) -> Dict[str, Any]:
     try:
         ai_generator = AIDescriptionGenerator()
         about_data = ai_generator.generate_profile_summary(basic_profile)
+        seo_data = ai_generator.generate_seo_contents(basic_profile)
         basic_profile['about'] = about_data
+        basic_profile['seo'] = seo_data
     except Exception as e:
         print(f"Failed to generate AI description: {str(e)}")
         basic_profile['about'] = None
+        basic_profile['seo'] = None
     if Settings.CACHE_ENABLED:
         # deep copy the object to avoid modifying the original object
         tobe_cached = copy.deepcopy(basic_profile)

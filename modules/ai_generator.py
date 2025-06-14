@@ -12,7 +12,7 @@ class AIDescriptionGenerator:
         """Initialize Groq client"""
         self.client = Groq(api_key=Settings.get_groq_key())
 
-    def generate_seo_contents(self, profile_data):
+    def generate_seo_contents(self, profile_data: dict):
         """
         Generate a professional SEO-optimized profile content like title, description, keywords
 
@@ -20,7 +20,7 @@ class AIDescriptionGenerator:
             profile_data (dict): GitHub user profile data
 
         Returns:
-            str: AI-generated SEO-optimized profile content
+            dict: AI-generated SEO-optimized profile content
         """
         prompt = (
             "Generate a concise, professional, and SEO-optimized profile snippet for a developer profile page."
@@ -42,20 +42,39 @@ class AIDescriptionGenerator:
             messages=[
                 {
                     "role": "system",
-                    "content": "You are an SEO-optimized profile content generator for developer portfolios and GitHub profiles. Create search engine friendly, professional profile summaries that enhance discoverability and professional presence. Generate content in natural paragraph format without headings, lists, or bullet points. Focus on keyword integration, meta-friendly descriptions, and compelling copy that drives engagement and showcases technical expertise effectively.",
+                    "content": "You are an SEO-optimized profile content generator for developer portfolios and GitHub profiles. Create search engine friendly, professional profile summaries that enhance discoverability and professional presence. Generate content in natural paragraph format without headings, lists, or bullet points. Focus on keyword integration, meta-friendly descriptions, and compelling copy that drives engagement and showcases technical expertise effectively. Your output should be properly formatted JSON when requested, with each field containing well-crafted, SEO-optimized content.",
                 },
                 {"role": "user", "content": prompt},
             ],
             model="llama-3.1-8b-instant",
+            response_format={"type": "json_object"},
         )
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
+        try:
+            result = json.loads(response.choices[0].message.content)
+        except json.JSONDecodeError as e:
+            raise Exception(f"AI response was not valid JSON. Content: {response.choices[0].message.content}") from e
 
-        result = json.loads(response.choices[0].message.content)
+        title = result["title"]
+        description = result["description"]
+        keywords = result["keywords"]
+
+        if not (title and description and keywords):
+            missing = []
+            if not title:
+                missing.append("title")
+            if not description:
+                missing.append("description")
+            if not keywords:
+                missing.append("keywords")
+            raise Exception(
+                f"AI response missing required SEO fields: {', '.join(missing)}. Received: {result}"
+            )
         return {
-            "title": result["title"],
-            "description": result["description"],
-            "keywords": result["keywords"],
+            "title": title,
+            "description": description,
+            "keywords": keywords,
         }
 
     def generate_profile_summary(self, profile_data):

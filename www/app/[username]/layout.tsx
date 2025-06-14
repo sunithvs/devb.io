@@ -10,13 +10,13 @@ export async function generateMetadata({
   const { username } = await params;
   const user = await getProfileData(username);
   return {
-    title: user
+    title: user?.seo?.title
       ? user.seo.title
       : `Devb.io - Build Stunning Developer Portfolios in Minutes`,
-    description: user
+    description: user?.seo?.description
       ? user.seo.description
       : `Passionate developer skilled in modern technologies, building and learning through real-world projects and daily challenges.`,
-    keywords: user
+    keywords: user?.seo?.keywords
       ? user.seo.keywords
       : "Developer Portfolio, Devb.io, Software Engineer, Projects, Resume, GitHub Showcase",
 

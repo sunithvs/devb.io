@@ -313,7 +313,7 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
   </Document>
 );
 
-const getLinkedInUsername = (userProfile: Profile | any) => {
+const getLinkedInUsername = (userProfile: Profile ) => {
   if (!userProfile) return null;
   const linkedInAccount = userProfile?.social_accounts?.find(
     (account: SocialAccount) => account.provider === "linkedin"
@@ -327,8 +327,17 @@ const getLinkedInUsername = (userProfile: Profile | any) => {
 async function getResumeData(username: string): Promise<ResumeData> {
   const userProfile = await getProfileData(username);
   const userProjects = await getProjectData(username);
+  if (!userProfile || !userProjects) {
+    throw new Error("User profile or projects not found");
+  }
+  if (!userProfile?.social_accounts) {
+        userProfile.social_accounts = [];
+  }
+
   const linkedInUsername = getLinkedInUsername(userProfile);
-  const userLinkedInProfile = await getLinkedInProfileData(linkedInUsername);
+  let userLinkedInProfile = null;
+  if (linkedInUsername) userLinkedInProfile = await getLinkedInProfileData(linkedInUsername);
+
 
   const defaultLinkedInProfile: LinkedInProfile = {
     experience: [],

@@ -12,6 +12,7 @@ export default function ClientResumeButton({ username }: { username: string }) {
   const [isLoading, setIsLoading] = useState(false);
 
   const handleDownload = async () => {
+    const newWindow = window.open("", "_blank");
     try {
       setIsLoading(true);
       const response = await fetch(`/api/resume?username=${username}`);
@@ -22,9 +23,14 @@ export default function ClientResumeButton({ username }: { username: string }) {
 
       const blob = await response.blob();
       const url = URL.createObjectURL(blob);
-      window.open(url, "_blank");
+      if (newWindow) {
+        newWindow.location.href = url;
+      } else {
+        window.open(url, "_blank");
+      }
     } catch (error) {
       console.error("Error downloading resume:", error);
+      if (newWindow) newWindow.close();
     } finally {
       setIsLoading(false);
     }

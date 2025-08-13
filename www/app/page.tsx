@@ -8,6 +8,7 @@ import ProfileCard from "@/components/profile-card/server";
 import HowItWorksCard from "@/components/how-it-works-card/server";
 import NextContributorCard from "@/components/next-contributor-card";
 import { Compare } from "@/components/ui/compare";
+import CompareButton from "@/components/CompareButton";
 
 // Types
 interface Profile {
@@ -343,6 +344,9 @@ export default async function Home() {
             </div>
           </section>
         )}
+        <div className="fixed z-41 bottom-0 right-0 left-0 md:w-1/2 flex align-center px-10 mb-5">
+        <CompareButton />
+      </div>
       </main>
       <Footer />
     </>

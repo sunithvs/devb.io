@@ -41,7 +41,15 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
   const [error, setError] = useState("");
   const [profile, setProfile] = useState<GitHubProfile | null>(null);
   const router = useRouter();
+  const [loading, setLoading] = useState(false);
 
+  const redirectToProfilePage = async () => {
+    if (!profile) return;
+    setLoading(true);
+    await router.push(`/${profile?.login}?ref=modal`);
+
+    // no need to setLoading(false) because navigation will replace this page
+  };
   // Debounce the username input to prevent excessive API calls
   const debouncedUsername = useDebounce(username, 500);
 
@@ -58,7 +66,7 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
 
       try {
         const response = await fetch(
-          `https://api.github.com/users/${usernameToValidate}`,
+          `https://api.github.com/users/${usernameToValidate}`
         );
         if (!response.ok) {
           throw new Error("GitHub user not found");
@@ -78,7 +86,7 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
         setIsValidating(false);
       }
     },
-    [],
+    []
   );
 
   // Effect to trigger validation when debounced username changes
@@ -162,14 +170,19 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
 
             <div className="flex gap-3">
               <button
-                disabled={!profile}
-                onClick={() => router.push(`/${profile?.login}?ref=modal`)}
+                disabled={!profile || loading}
+                onClick={redirectToProfilePage}
                 className={cn(
-                  "flex-1 bg-[#CCFF00] text-black px-6 py-3 rounded-lg font-semibold hover:bg-[#b8e600] transition-colors",
-                  !profile && "opacity-50 cursor-not-allowed",
+                  "flex-1 bg-[#CCFF00] text-black px-6 py-3 rounded-lg font-semibold hover:bg-[#b8e600] transition-colors flex items-center justify-center gap-2",
+                  (!profile || loading) && "opacity-50 cursor-not-allowed"
                 )}
               >
-                View Profile
+                {loading ? (
+                  // 🔹 Tailwind-only spinner (no external libs)
+                  <div className="h-5 w-5 border-2 border-black border-t-transparent rounded-full animate-spin" />
+                ) : (
+                  "View Profile"
+                )}
               </button>
               <button
                 onClick={onClose}

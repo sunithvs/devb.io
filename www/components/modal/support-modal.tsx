@@ -20,12 +20,50 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
+    const checkShouldShowModal = () => {
+      try {
+        const modalData = localStorage.getItem('devb-support-modal');
+        
+        if (!modalData) {
+          // First time visit - show modal
+          return true;
+        }
+        
+        const { timestamp } = JSON.parse(modalData);
+        const oneDayInMs = 24 * 60 * 60 * 1000; // 1 day in milliseconds
+        const now = Date.now();
+        
+        // Show modal if more than 1 day has passed
+        return (now - timestamp) > oneDayInMs;
+      } catch (error) {
+        // If there's any error with localStorage, show modal
+        console.warn('Error checking modal state:', error);
+        return true;
+      }
+    };
+
     const timer = setTimeout(() => {
-      setOpen(!user?.cached || false);
+      const shouldShow = checkShouldShowModal();
+      setOpen(shouldShow && (!user?.cached || false));
     }, 4000);
 
     return () => clearTimeout(timer);
   }, [user]);
+
+  const handleModalClose = (isOpen: boolean) => {
+    setOpen(isOpen);
+    if (!isOpen) {
+      try {
+        // Save timestamp when modal is closed
+        const modalData = {
+          timestamp: Date.now(),
+        };
+        localStorage.setItem('devb-support-modal', JSON.stringify(modalData));
+      } catch (error) {
+        console.warn('Error saving modal state:', error);
+      }
+    }
+  };
 
   const copyToClipboard = () => {
     navigator.clipboard
@@ -44,7 +82,7 @@ export const SupportModal = ({ user }: { user: Profile | null }) => {
   };
 
   return (
-    <Dialog open={open} onOpenChange={setOpen}>
+    <Dialog open={open} onOpenChange={handleModalClose}>
       <DialogContent className="sm:max-w-[700px] p-0 overflow-hidden border-black border-1 border-b-4 rounded-3xl">
         <div className="p-6 pt-8">
           <div className="bg-[#B9FF66] inline-block px-4 py-2 rounded-lg mb-4">

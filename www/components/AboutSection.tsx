@@ -72,13 +72,14 @@ export async function AboutSection({ username }: { username: string }) {
           className="flex flex-col gap-4 animate-slide-left"
           style={{ animationDelay: "200ms" }}
         >
-          <div className="bg-white rounded-xl p-6 border-1 border-black border-b-4 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
-            <h2 className="text-xl font-bold mb-4">🤔 About</h2>
-            <p className="text-gray-700">
-              {user?.about ||
-                "Here's a professional profile summary that incorporates unique details from your profile: As a seasoned full-stack developer, I leverage my expertise in programming languages such as TypeScript, C, and JavaScript to drive business growth and innovation. With over 29 followers and 81 public repositories, I have established a strong online presence and contributed significantly to the developer community. Currently, I'm learning web development, blockchain, and Data Structures and Algorithms (DSA) to stay ahead of the curve. I'm excited to collaborate with like-minded professionals and tackle exciting projects. You can reach me on LinkedIn or Twitter, or email me at nayanprasad096@gmail.com."}
-            </p>
-          </div>
+            { user?.about &&
+                <div
+                    className="bg-white rounded-xl p-6 border-1 border-black border-b-4 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                    <h2 className="text-xl font-bold mb-4">🤔 About</h2>
+                    <p className="text-gray-700">
+                        {user?.about}
+                    </p>
+                </div>}
 
           {user?.location && (<div
               className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"

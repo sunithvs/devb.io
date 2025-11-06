@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
-import { useRouter } from "next/navigation";
 import { Github, Loader, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -40,7 +39,6 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
   const [isValidating, setIsValidating] = useState(false);
   const [error, setError] = useState("");
   const [profile, setProfile] = useState<GitHubProfile | null>(null);
-  const router = useRouter();
   const [loading, setLoading] = useState(false);
 
   const redirectToProfilePage = () => {

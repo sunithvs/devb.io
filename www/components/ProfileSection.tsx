@@ -57,7 +57,10 @@ export async function ProfileSection({
     });
   }
   
-  await addUserToSupabase(user, urlSearchParams);
+  // Run Supabase call in background without blocking UI
+  addUserToSupabase(user, urlSearchParams).catch((error) => {
+    console.error('Background analytics call failed:', error);
+  });
 
   if (!user) return <ProfileSkeleton />;
 

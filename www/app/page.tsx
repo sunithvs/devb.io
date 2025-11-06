@@ -175,8 +175,8 @@ export default async function Home() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
               <AnimatedStats
-                value={2050}
-                subtitle="Profiles Generated in 2 Months from Around the Globe"
+                value={6010}
+                subtitle="Profiles Generated in 8 Months from Around the Globe"
               />
             </div>
           </div>

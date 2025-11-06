@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Github, Globe, Linkedin, Twitter, User, BookOpen, Instagram } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
-import { addUserToNocodb, getUserProfile } from "@/lib/api";
+import { addUserToSupabase, getUserProfile } from "@/lib/api";
 import ClientResumeButton from "@/components/ClientResumeButton";
 import {
   Tooltip,
@@ -38,9 +38,29 @@ const detectProvider = (url: string): string => {
   return 'generic';
 };
 
-export async function ProfileSection({ username }: { username: string }) {
+export async function ProfileSection({ 
+  username, 
+  searchParams 
+}: { 
+  username: string;
+  searchParams?: { [key: string]: string | string[] | undefined };
+}) {
   const user = await getUserProfile(username);
-  await addUserToNocodb(user);
+  
+  // Convert search params to URLSearchParams for easier handling
+  const urlSearchParams = new URLSearchParams();
+  if (searchParams) {
+    Object.entries(searchParams).forEach(([key, value]) => {
+      if (value && typeof value === 'string') {
+        urlSearchParams.set(key, value);
+      }
+    });
+  }
+  
+  // Run Supabase call in background without blocking UI
+  addUserToSupabase(user, urlSearchParams).catch((error) => {
+    console.error('Background analytics call failed:', error);
+  });
 
   if (!user) return <ProfileSkeleton />;
 

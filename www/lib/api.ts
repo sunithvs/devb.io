@@ -9,6 +9,15 @@ import { parseStringPromise } from "xml2js";
 const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
 const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
 
+// Utility function to detect provider from URL
+const detectProvider = (url: string): string => {
+  const urlLower = url.toLowerCase();
+  if (urlLower.includes('medium.com')) return 'medium';
+  if (urlLower.includes('instagram.com')) return 'instagram';
+  if (urlLower.includes('huggingface.co')) return 'huggingface';
+  return 'generic';
+};
+
 /**
  * Fetch resource with Next.js caching
  */
@@ -228,29 +237,108 @@ export const getLinkedInProfileData = async (
 };
 
 /**
- * API to add user to Nocodb table for analytics
+ * API to add user to Supabase via edge function for analytics
  */
-export const addUserToNocodb = async (user: Profile | null) => {
+export const addUserToSupabase = async (user: Profile | null, searchParams?: URLSearchParams) => {
   if (!user) return;
-  const url = `https://app.nocodb.com/api/v2/tables/${process.env.NOCODB_TABLE_ID}/records`;
-  const headers = {
-    accept: "application/json",
-    "xc-token": process.env.NOCODB_API_KEY || "",
-    "Content-Type": "application/json",
+  
+  const supabaseUrl = process.env.SUPABASE_URL;
+  const supabaseAnonKey = process.env.SUPABASE_KEY;
+  
+  if (!supabaseUrl || !supabaseAnonKey) {
+    console.error("Supabase configuration missing");
+    return;
+  }
+
+  const url = `${supabaseUrl}/functions/v1/devb-io`;
+  
+  // Map user data to match Supabase function whitelist
+  const mappedData: Record<string, string> = {
+    name: user.username,
+    "full name": user.name,
+      "devb profile": `https://devb.io/${user.username}`,
+      github: `https://github.com/${user.username}`,
   };
 
-  const data = {
-    name: user.username,
-    socials: user.social_accounts,
+  // Add query parameters if available
+  if (searchParams) {
+    // UTM parameters
+    const utmSource = searchParams.get('utm_source');
+    const utmMedium = searchParams.get('utm_medium');
+    const utmCampaign = searchParams.get('utm_campaign');
+    const utmTerm = searchParams.get('utm_term');
+    const utmContent = searchParams.get('utm_content');
+    
+    // Referral parameter
+    const ref = searchParams.get('ref');
+    
+    // Add to mapped data if they exist
+    if (utmSource) mappedData['utm_source'] = utmSource;
+    if (utmMedium) mappedData['utm_medium'] = utmMedium;
+    if (utmCampaign) mappedData['utm_campaign'] = utmCampaign;
+    if (utmTerm) mappedData['utm_term'] = utmTerm;
+    if (utmContent) mappedData['utm_content'] = utmContent;
+    if (ref) mappedData['ref'] = ref;
+  }
+
+  // Counter for generic URLs
+  let genericCounter = 1;
+
+  // Add social accounts based on provider
+  user.social_accounts?.forEach((account) => {
+    const provider = account.provider.toLowerCase();
+    
+    // If provider is generic, detect the actual platform
+    const actualProvider = provider === "generic" ? detectProvider(account.url) : provider;
+    
+    switch (actualProvider) {
+      case "linkedin":
+        mappedData["Linkedin"] = account.url;
+        break;
+      case "twitter":
+        mappedData["twitter"] = account.url;
+        break;
+      case "medium":
+        mappedData["Medium"] = account.url;
+        break;
+      case "instagram":
+        mappedData["instagram"] = account.url;
+        break;
+      case "huggingface":
+        // Could add huggingface to whitelist if needed
+        break;
+      case "generic":
+        // Check if it's a devb.io link
+        if (account.url.includes("devb.io")) {
+          mappedData["devb"] = account.url;
+        } else {
+          // For other generic URLs, number them
+          mappedData[`generic ${genericCounter}`] = account.url;
+          genericCounter++;
+        }
+        break;
+    }
+  });
+
+  const headers = {
+    "Content-Type": "application/json",
+    "Authorization": `Bearer ${supabaseAnonKey}`,
   };
 
   try {
-    await fetch(url, {
+    const response = await fetch(url, {
       method: "POST",
       headers: headers,
-      body: JSON.stringify(data),
+      body: JSON.stringify(mappedData),
     });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const result = await response.json();
+    console.log("User data sent to Supabase:", result);
   } catch (error) {
-    console.error("Error:", error);
+    console.error("Error sending data to Supabase:", error);
   }
 };

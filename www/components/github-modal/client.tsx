@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
-import { useRouter } from "next/navigation";
 import { Github, Loader, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -40,15 +39,29 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
   const [isValidating, setIsValidating] = useState(false);
   const [error, setError] = useState("");
   const [profile, setProfile] = useState<GitHubProfile | null>(null);
-  const router = useRouter();
   const [loading, setLoading] = useState(false);
 
-  const redirectToProfilePage = async () => {
+  const redirectToProfilePage = () => {
     if (!profile) return;
     setLoading(true);
-    await router.push(`/${profile?.login}?ref=modal`);
+    
+    // Get current search params and preserve them
+    const currentParams = new URLSearchParams(window.location.search);
+    currentParams.set('ref', 'modal');
+    
+    // Use window.location for instant navigation
+    window.location.href = `/${profile?.login}?${currentParams.toString()}`;
+  };
 
-    // no need to setLoading(false) because navigation will replace this page
+  const redirectToProfilePageFromCard = () => {
+    if (!profile) return;
+    
+    // Get current search params and preserve them
+    const currentParams = new URLSearchParams(window.location.search);
+    currentParams.set('ref', 'modelv2');
+    
+    // Use window.location for instant navigation
+    window.location.href = `/${profile?.login}?${currentParams.toString()}`;
   };
   // Debounce the username input to prevent excessive API calls
   const debouncedUsername = useDebounce(username, 500);
@@ -152,7 +165,8 @@ export default function GitHubModal({ onClose }: GitHubModalProps) {
               <motion.div
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
-                className="bg-gray-50 rounded-lg p-4 flex items-center gap-4"
+                onClick={redirectToProfilePageFromCard}
+                className="bg-gray-50 rounded-lg p-4 flex items-center gap-4 cursor-pointer hover:bg-gray-100 transition-colors"
               >
                 <Image
                   src={profile.avatar_url}

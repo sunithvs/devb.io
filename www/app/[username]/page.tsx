@@ -16,10 +16,13 @@ export const maxDuration = 60;
 
 export default async function Page({
   params,
+  searchParams,
 }: {
   params: Promise<{ username: string }>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
   const { username } = await params;
+  const urlSearchParams = await searchParams;
 
   if (!username) return null;
 
@@ -40,7 +43,7 @@ export default async function Page({
         </Link>
 
         <Suspense fallback={<ProfileSkeleton />}>
-          <ProfileSection username={username} />
+          <ProfileSection username={username} searchParams={urlSearchParams} />
         </Suspense>
       </div>
 

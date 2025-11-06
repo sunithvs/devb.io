@@ -41,7 +41,7 @@ export default function ProfileCardClient({
         <p className="text-gray-600 text-sm mb-2 truncate">@{username}</p>
         <p className="text-gray-600 text-sm mb-3 line-clamp-2">{bio}</p>
 
-        <a href={`/${username}`} target="_blank" rel="noopener noreferrer">
+        <a href={`/${username}?utm_source=devb_io&utm_medium=contributor&utm_campaign=devb_io`} target="_blank" rel="noopener noreferrer">
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}

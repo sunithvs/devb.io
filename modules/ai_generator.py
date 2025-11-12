@@ -88,7 +88,8 @@ class AIDescriptionGenerator:
             str: AI-generated profile summary
         """
         prompt = (
-            "Craft a Concise, SEO-optimized first-person profile description that:"
+            "Write only the final profile summary text — no introductions, no explanations, and no meta sentences."
+            "\nCraft a Concise, SEO-optimized first-person profile description that:"
             "\n- Highlights the developer's strongest technical skills and expertise"
             "\n- Concise and on to the point"
             "\n- Uses simple, direct language without excessive superlatives"

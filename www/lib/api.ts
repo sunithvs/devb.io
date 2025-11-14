@@ -1,5 +1,7 @@
 import {
   LinkedInProfile,
+  ContributionsData,
+  GitHubUser,
   MediumBlog,
   Profile,
   UserProject,
@@ -340,5 +342,29 @@ export const addUserToSupabase = async (user: Profile | null, searchParams?: URL
     console.log("User data sent to Supabase:", result);
   } catch (error) {
     console.error("Error sending data to Supabase:", error);
+  }
+};
+
+export const getMemeProfileData = async (username: string):Promise<ContributionsData | null> => {
+try {
+    const response = await fetch(`https://github-contributions-api.jogruber.de/v4/${username}`);
+    if (!response.ok) throw new Error("Network response was not ok");
+    const data = await response.json();
+    return data;  
+} catch (error) {
+  console.error(`Error fetching profile data for ${username}:`, error);
+  return null;
+}
+};
+
+export const getGithubInfo = async (username: string):Promise<GitHubUser | null> => {
+  try {
+    const response = await fetch(`https://api.github.com/users/${username}`);
+    if (!response.ok) throw new Error("Network response was not ok");
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error(`Error fetching GitHub info for ${username}:`, error);
+    return null;
   }
 };

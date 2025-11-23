@@ -8,3 +8,8 @@ venv/
 temp_preview
 .coverage
 htmlcov
+.DS_Store
+.temp
+/supabase/.temp/
+.supabase/branches
+/supabase/.branches/

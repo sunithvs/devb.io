@@ -13,6 +13,7 @@ serve(async (req) => {
     try {
         const url = new URL(req.url)
         const username = url.searchParams.get('username')?.toLowerCase()
+        const includeAll = url.searchParams.get('all') === 'true'
 
         if (!username) {
             return new Response(
@@ -33,21 +34,7 @@ serve(async (req) => {
             )
         }
 
-        // 1. Get User ID
-        const { data: user, error: userError } = await supabase
-            .from('users')
-            .select('id')
-            .eq('username', username)
-            .single()
-
-        if (userError || !user) {
-            return new Response(
-                JSON.stringify({ error: 'User not found. Please fetch profile first.' }),
-                { headers: { ...corsHeaders, 'Content-Type': 'application/json' }, status: 404 }
-            )
-        }
-
-        // 2. Fetch from GitHub
+        // 1. Fetch from GitHub (no user lookup needed)
         const githubToken = Deno.env.get('GITHUB_ACCESS_TOKEN')
         if (!githubToken) throw new Error('GITHUB_ACCESS_TOKEN not set')
 
@@ -99,12 +86,21 @@ serve(async (req) => {
         // We only cache the response now.
 
 
-        // 5. Return Top Projects
-        const topProjects = projects.sort((a, b) => (b.score || 0) - (a.score || 0)).slice(0, 8)
-        const responseData = { top_projects: topProjects }
+        // 5. Prepare response data
+        const sortedProjects = projects.sort((a, b) => (b.score || 0) - (a.score || 0))
+        const topProjects = sortedProjects.slice(0, 8)
 
-        // 6. Set API Cache
-        await setCache(supabase, cacheKey, responseData)
+        // Always cache both top_projects and all_projects
+        const fullCacheData = {
+            top_projects: topProjects,
+            all_projects: sortedProjects
+        }
+
+        // 6. Set API Cache (store everything)
+        await setCache(supabase, cacheKey, fullCacheData)
+
+        // 7. Return based on 'all' parameter
+        const responseData = includeAll ? fullCacheData : { top_projects: topProjects }
 
         return new Response(
             JSON.stringify(responseData),

@@ -13,3 +13,4 @@ htmlcov
 /supabase/.temp/
 .supabase/branches
 /supabase/.branches/
+test

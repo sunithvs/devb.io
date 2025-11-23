@@ -70,19 +70,37 @@ serve(async (req) => {
 
         // 4. Return Data
         const responseData = {
-            id: 'generated-id', // Placeholder or remove if not needed by frontend
             username: username,
-            full_name: ghUser.name,
+            name: ghUser.name,
             bio: ghUser.bio,
             location: ghUser.location,
             avatar_url: ghUser.avatarUrl,
-            website: ghUser.url,
-            readme_content: readmeContent,
-            social_accounts: [],
+            profile_url: ghUser.url,
+            followers: ghUser.followers.totalCount,
+            following: ghUser.following.totalCount,
+            public_repos: ghUser.repositories.totalCount,
+            pull_requests_merged: prCount,
+            issues_closed: issueCount,
             achievements: {
                 total_contributions: ghUser.contributionsCollection.contributionCalendar.totalContributions,
                 repositories_contributed_to: ghUser.repositoriesContributedTo.totalCount
-            }
+            },
+            social_accounts: [
+                ...(ghUser.socialAccounts?.nodes?.map((node: any) => ({
+                    provider: node.provider.toLowerCase(),
+                    url: node.url,
+                    display_name: node.displayName
+                })) || []),
+                ...(ghUser.websiteUrl ? [{
+                    provider: 'generic',
+                    url: ghUser.websiteUrl,
+                    display_name: 'Website'
+                }] : [])
+            ],
+            readme_content: readmeContent,
+            cached: false,
+            about: null,
+            seo: null
         }
 
         // 5. Set API Cache

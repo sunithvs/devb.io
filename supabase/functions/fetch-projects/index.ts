@@ -28,8 +28,13 @@ serve(async (req) => {
         const cacheKey = `projects:${username}`
         const cachedResponse = await getCache(supabase, cacheKey)
         if (cachedResponse) {
+            // Return based on 'all' parameter to avoid sending unnecessary data
+            const responseData = includeAll
+                ? cachedResponse
+                : { top_projects: cachedResponse.top_projects }
+
             return new Response(
-                JSON.stringify(cachedResponse),
+                JSON.stringify(responseData),
                 { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
             )
         }

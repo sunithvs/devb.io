@@ -1,0 +1,16 @@
+
+[functions.fetch-profile]
+enabled = true
+verify_jwt = false
+
+[functions.fetch-projects]
+enabled = true
+verify_jwt = false
+
+[functions.fetch-about]
+enabled = true
+verify_jwt = false
+
+[functions.fetch-linkedin]
+enabled = true
+verify_jwt = false

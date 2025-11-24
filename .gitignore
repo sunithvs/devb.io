@@ -14,3 +14,4 @@ htmlcov
 .supabase/branches
 /supabase/.branches/
 test
+planning

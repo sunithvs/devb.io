@@ -3,6 +3,65 @@ import { createAdminSupabaseClient } from "../_shared/supabase-client.ts"
 import { corsHeaders } from "../_shared/cors.ts"
 import { getCache, setCache } from "../_shared/cache-utils.ts"
 
+const LINKEDIN_API_URL = "https://notes.cleve.ai/api/linkedin-unwrapped"
+const LINKEDIN_USERNAME_PATTERN = /^[\w\-]+$/
+
+function validateLinkedInUsername(username: string): boolean {
+    return LINKEDIN_USERNAME_PATTERN.test(username)
+}
+
+function processLinkedInResponse(data: any): any {
+    if (!data.profile) {
+        return { error: "No profile data found" }
+    }
+
+    const profile = data.profile
+
+    return {
+        basic_info: {
+            full_name: profile.full_name,
+            headline: profile.headline,
+            location: {
+                city: profile.city,
+                state: profile.state,
+                country: profile.country
+            },
+            summary: profile.summary,
+            profile_url: `https://linkedin.com/in/${profile.public_identifier}`,
+            connections: profile.connections
+        },
+        experience: (profile.experiences || []).map((exp: any) => ({
+            title: exp.title,
+            company: exp.company,
+            location: exp.location,
+            description: exp.description,
+            duration: {
+                start: {
+                    month: exp.starts_at?.month || 'N/A',
+                    year: exp.starts_at?.year || 'N/A'
+                },
+                end: exp.ends_at ? {
+                    month: exp.ends_at.month,
+                    year: exp.ends_at.year
+                } : null
+            }
+        })),
+        education: (profile.education || []).map((edu: any) => ({
+            school: edu.school,
+            degree: edu.degree_name,
+            field: edu.field_of_study,
+            duration: {
+                start: {
+                    year: edu.starts_at?.year || null
+                },
+                end: edu.ends_at ? {
+                    year: edu.ends_at.year
+                } : null
+            }
+        }))
+    }
+}
+
 serve(async (req) => {
     if (req.method === 'OPTIONS') {
         return new Response('ok', { headers: corsHeaders })
@@ -19,6 +78,13 @@ serve(async (req) => {
             )
         }
 
+        if (!validateLinkedInUsername(username)) {
+            return new Response(
+                JSON.stringify({ error: `Invalid LinkedIn username: '${username}'` }),
+                { headers: { ...corsHeaders, 'Content-Type': 'application/json' }, status: 400 }
+            )
+        }
+
         const supabase = createAdminSupabaseClient()
 
         // 0. Check API Cache
@@ -31,44 +97,44 @@ serve(async (req) => {
             )
         }
 
-        // 1. Get User ID
-        const { data: user } = await supabase
-            .from('users')
-            .select('id')
-            .eq('username', username)
-            .single()
+        // 1. Fetch from LinkedIn API
+        const payload = {
+            action: "wrapped",
+            cache: false,
+            email: "mail@example.com",
+            linkedinUrl: `https://linkedin.com/in/${username}`,
+            user: false
+        }
 
-        if (!user) {
+        const response = await fetch(LINKEDIN_API_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        })
+
+        if (!response.ok) {
+            throw new Error(`LinkedIn API error: ${response.statusText}`)
+        }
+
+        const responseData = await response.json()
+        const data = responseData.data
+
+        // 2. Process response
+        const processedData = processLinkedInResponse(data)
+
+        if (processedData.error) {
             return new Response(
-                JSON.stringify({ error: 'User not found' }),
+                JSON.stringify(processedData),
                 { headers: { ...corsHeaders, 'Content-Type': 'application/json' }, status: 404 }
             )
         }
 
-        // 2. Check Platform Profiles for LinkedIn
-        const { data: linkedinProfile } = await supabase
-            .from('platform_profiles')
-            .select('*')
-            .eq('user_id', user.id)
-            .eq('platform', 'linkedin')
-            .single()
-
-        if (linkedinProfile) {
-            const responseData = linkedinProfile.data
-            await setCache(supabase, cacheKey, responseData)
-
-            return new Response(
-                JSON.stringify(responseData),
-                { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
-            )
-        }
-
-        // 3. Fetch from External Source (Not implemented yet)
-        // In the future, we would call a LinkedIn scraper/API here.
+        // 3. Set API Cache
+        await setCache(supabase, cacheKey, processedData)
 
         return new Response(
-            JSON.stringify({ error: 'LinkedIn profile not found or not linked' }),
-            { headers: { ...corsHeaders, 'Content-Type': 'application/json' }, status: 404 }
+            JSON.stringify(processedData),
+            { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
         )
 
     } catch (error) {

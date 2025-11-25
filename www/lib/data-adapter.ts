@@ -34,7 +34,7 @@ export async function getCompleteProfileData(username: string): Promise<ProfileD
             linkedin: null, // Will be fetched by theme page with Suspense
             blogs: null,    // Will be fetched by theme page with Suspense
             customizations: {
-                theme_id: 'default', // TODO: Fetch from database
+                theme_id: 'minimal-resume', // Change to 'default' to switch back
                 section_visibility: {
                     about: true,
                     projects: true,

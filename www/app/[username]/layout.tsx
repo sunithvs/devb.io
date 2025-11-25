@@ -8,22 +8,33 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { username } = await params;
   const user = await getUserProfile(username);
-  return {
-    title: user?.seo?.title
-      ? user.seo.title
-      : `Devb.io - Build Stunning Developer Portfolios in Minutes`,
-    description: user?.seo?.description
-      ? user.seo.description
-      : `Passionate developer skilled in modern technologies, building and learning through real-world projects and daily challenges.`,
-    keywords: user?.seo?.keywords
-      ? user.seo.keywords
-      : "Developer Portfolio, Devb.io, Software Engineer, Projects, Resume, GitHub Showcase",
 
+  const title = user?.seo?.title || `${user?.name || username} | Developer Portfolio`;
+  const description = user?.seo?.description || user?.bio || `Check out ${user?.name || username}'s developer portfolio on Devb.io. Built with passion and code.`;
+  const images = user?.avatar_url ? [user.avatar_url] : [];
+
+  return {
+    title,
+    description,
+    keywords: user?.seo?.keywords || "Developer Portfolio, Devb.io, Software Engineer, Projects, Resume, GitHub Showcase",
+    icons: {
+      icon: user?.avatar_url || '/favicon.ico',
+      shortcut: user?.avatar_url || '/favicon.ico',
+      apple: user?.avatar_url || '/favicon.ico',
+    },
     openGraph: {
-      images: user?.avatar_url,
+      title,
+      description,
+      images,
+      type: 'profile',
+      siteName: 'Devb.io',
     },
     twitter: {
-      images: user?.avatar_url,
+      card: 'summary_large_image',
+      title,
+      description,
+      images,
+      creator: '@devb_io',
     },
   };
 }

@@ -2,9 +2,11 @@ import { notFound } from 'next/navigation';
 import { getTheme, registerTheme } from '@/lib/theme-registry';
 import { getCompleteProfileData } from '@/lib/data-adapter';
 import { manifest as defaultManifest } from '@/themes/default/manifest';
+import { manifest as minimalResumeManifest } from '@/themes/minimal-resume/manifest';
 
-// Register themes
+// Register all themes
 registerTheme(defaultManifest);
+registerTheme(minimalResumeManifest);
 
 export const maxDuration = 60;
 

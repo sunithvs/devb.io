@@ -33,8 +33,6 @@ export default function EditorSidebar({
     // Initialize local socials on mount or when data changes externally (careful to avoid loops)
     React.useEffect(() => {
         if (data.profile.social_accounts) {
-            // Only update if length differs or if we don't have IDs yet
-            // This is a simplification; ideally we track if it's an external update
             setLocalSocials(prev => {
                 if (prev.length === data.profile.social_accounts.length && prev.every((p, i) => p.url === data.profile.social_accounts[i].url)) {
                     return prev;
@@ -69,83 +67,39 @@ export default function EditorSidebar({
     );
 
     return (
-        <div className="p-6 space-y-8">
+        <div className="p-6 space-y-8 bg-white min-h-screen">
             {/* Header Section */}
             <div>
-                <h1 className="text-2xl font-bold mb-6">Customise website</h1>
-
-                {/* Website Domain */}
-                <div className="mb-6">
-                    <label className="block text-sm font-medium text-gray-700 mb-2">Website domain</label>
-                    <div className="flex items-center w-full px-4 py-2.5 border border-gray-200 rounded-lg bg-white focus-within:ring-2 focus-within:ring-black/5 focus-within:border-black transition-all">
-                        <input
-                            type="text"
-                            value={data.profile.username}
-                            onChange={(e) => onDataUpdate({
-                                profile: { ...data.profile, username: e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, '') }
-                            })}
-                            className="flex-1 bg-transparent border-none p-0 focus:ring-0 focus:outline-none text-gray-900 placeholder-gray-400"
-                            placeholder="username"
-                        />
-                        <span className="text-gray-400 select-none">.devb.io</span>
-                    </div>
-                    <p className="mt-2 text-xs text-green-600 font-medium">Domain is available!</p>
-                </div>
+                <h1 className="text-xl font-bold text-gray-900 mb-1">Edit Your Profile</h1>
+                <p className="text-sm text-gray-500">Changes are saved automatically and shown in the preview.</p>
             </div>
 
-            {/* Profile Information */}
+            {/* Website Domain */}
             <section className="space-y-4">
-                <h2 className="text-sm font-medium text-gray-700">Profile Information</h2>
-
-                <div className="space-y-3">
-                    <div>
-                        <label className="text-xs text-gray-500 mb-1 block">Display Name</label>
-                        <input
-                            type="text"
-                            value={data.profile.name}
-                            onChange={(e) => onDataUpdate({
-                                profile: { ...data.profile, name: e.target.value }
-                            })}
-                            className="w-full px-3 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 focus:border-black transition-all"
-                            placeholder="Your Name"
-                        />
-                    </div>
-
-                    <div>
-                        <label className="text-xs text-gray-500 mb-1 block">Bio (Short)</label>
-                        <textarea
-                            value={data.profile.bio || ''}
-                            onChange={(e) => onDataUpdate({
-                                profile: { ...data.profile, bio: e.target.value }
-                            })}
-                            className="w-full px-3 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 focus:border-black transition-all min-h-[60px]"
-                            placeholder="Software Engineer @ Company..."
-                        />
-                    </div>
-
-                    <div>
-                        <label className="text-xs text-gray-500 mb-1 block">About (Long)</label>
-                        <textarea
-                            value={data.profile.about || ''}
-                            onChange={(e) => onDataUpdate({
-                                profile: { ...data.profile, about: e.target.value }
-                            })}
-                            className="w-full px-3 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 focus:border-black transition-all min-h-[100px]"
-                            placeholder="Tell your story..."
-                        />
-                    </div>
+                <h2 className="text-base font-bold text-gray-900">Domain</h2>
+                <div className="flex items-center w-full px-4 py-3 bg-gray-100 rounded-lg focus-within:ring-2 focus-within:ring-black/5 transition-all">
+                    <input
+                        type="text"
+                        value={data.profile.username}
+                        onChange={(e) => onDataUpdate({
+                            profile: { ...data.profile, username: e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, '') }
+                        })}
+                        className="flex-1 bg-transparent border-none p-0 focus:ring-0 focus:outline-none text-gray-900 placeholder-gray-400 font-medium text-sm"
+                        placeholder="username"
+                    />
+                    <span className="text-gray-400 select-none text-sm font-medium">.devb.io</span>
                 </div>
             </section>
 
             {/* Theme Selection */}
-            <section>
-                <h2 className="text-sm font-medium text-gray-700 mb-3">Choose a theme</h2>
+            <section className="space-y-4">
+                <h2 className="text-base font-bold text-gray-900">Theme</h2>
                 <div className="relative">
                     <button
                         onClick={() => setIsThemeDropdownOpen(!isThemeDropdownOpen)}
-                        className="w-full px-4 py-2.5 border border-gray-200 rounded-lg bg-white flex items-center justify-between hover:border-gray-300 transition-all focus:outline-none focus:ring-2 focus:ring-black/5 focus:border-black"
+                        className="w-full px-4 py-3 bg-gray-100 rounded-lg flex items-center justify-between hover:bg-gray-200 transition-all focus:outline-none focus:ring-2 focus:ring-black/5"
                     >
-                        <span className="font-medium capitalize text-gray-900">
+                        <span className="font-medium capitalize text-gray-900 text-sm">
                             {activeTheme.replace('-', ' ')}
                         </span>
                         <ChevronDown size={16} className={`text-gray-500 transition-transform duration-200 ${isThemeDropdownOpen ? 'rotate-180' : ''}`} />
@@ -179,15 +133,47 @@ export default function EditorSidebar({
                 </div>
             </section>
 
+            {/* Profile Information */}
+            <section className="space-y-6">
+                <h2 className="text-base font-bold text-gray-900">Profile</h2>
+
+                <div className="space-y-4">
+                    <div>
+                        <label className="text-xs font-semibold text-gray-700 mb-1.5 block">Name</label>
+                        <input
+                            type="text"
+                            value={data.profile.name}
+                            onChange={(e) => onDataUpdate({
+                                profile: { ...data.profile, name: e.target.value }
+                            })}
+                            className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900"
+                            placeholder="Your Name"
+                        />
+                    </div>
+
+                    <div>
+                        <label className="text-xs font-semibold text-gray-700 mb-1.5 block">Bio</label>
+                        <textarea
+                            value={data.profile.bio || ''}
+                            onChange={(e) => onDataUpdate({
+                                profile: { ...data.profile, bio: e.target.value }
+                            })}
+                            className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all min-h-[80px] resize-none placeholder-gray-400 font-medium text-gray-900"
+                            placeholder="Short bio..."
+                        />
+                    </div>
+                </div>
+            </section>
+
             {/* Socials Section */}
-            <section>
-                <div className="flex items-center justify-between mb-3">
+            <section className="space-y-4">
+                <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                        <h2 className="text-sm font-medium text-gray-700">Socials</h2>
+                        <h2 className="text-base font-bold text-gray-900">Socials</h2>
                         {isFetching && (
                             <div className="flex items-center gap-1 text-xs text-blue-600 animate-pulse">
                                 <Loader2 size={12} className="animate-spin" />
-                                <span>Updating data...</span>
+                                <span>Updating...</span>
                             </div>
                         )}
                     </div>
@@ -199,10 +185,9 @@ export default function EditorSidebar({
                                 display_name: '',
                                 id: crypto.randomUUID()
                             };
-                            // Add to TOP (unshift)
                             updateSocials([newSocial, ...localSocials]);
                         }}
-                        className="text-xs flex items-center gap-1 text-blue-600 hover:text-blue-700 font-medium transition-colors"
+                        className="text-xs flex items-center gap-1 text-gray-500 hover:text-black font-medium transition-colors"
                     >
                         <Plus size={14} />
                         Add
@@ -212,109 +197,123 @@ export default function EditorSidebar({
                 <Reorder.Group axis="y" values={localSocials} onReorder={updateSocials} className="space-y-3">
                     {localSocials.map((social, index) => (
                         <Reorder.Item key={social.id} value={social}>
-                            <div className="flex items-start gap-2 group bg-white rounded-lg">
-                                <div className="mt-4 cursor-grab active:cursor-grabbing text-gray-300 hover:text-gray-500 transition-colors">
-                                    <GripVertical size={16} />
+                            <div className="flex items-center gap-3 group">
+                                {/* Drag Handle & Icon */}
+                                <div className="flex items-center gap-3 text-gray-400 shrink-0">
+                                    <div className="cursor-grab active:cursor-grabbing hover:text-gray-600 transition-colors">
+                                        <GripVertical size={16} />
+                                    </div>
+                                    <div className="text-gray-500">
+                                        {(() => {
+                                            switch (social.provider) {
+                                                case 'github': return <Github size={20} />;
+                                                case 'linkedin': return <Linkedin size={20} />;
+                                                case 'twitter': return <Twitter size={20} />;
+                                                case 'youtube': return <Youtube size={20} />;
+                                                case 'gitlab': return <Gitlab size={20} />;
+                                                case 'twitch': return <Twitch size={20} />;
+                                                case 'dribbble': return <Dribbble size={20} />;
+                                                case 'stackoverflow': return <Layers size={20} />;
+                                                case 'devto': return <Code2 size={20} />;
+                                                case 'producthunt': return <Target size={20} />;
+                                                case 'instagram': return <Instagram size={20} />;
+                                                case 'facebook': return <Facebook size={20} />;
+                                                case 'email': return <Mail size={20} />;
+                                                case 'medium': return <BookText size={20} />;
+                                                default: return <Globe size={20} />;
+                                            }
+                                        })()}
+                                    </div>
                                 </div>
-                                <div className="flex-1 space-y-2 p-3 border border-gray-200 rounded-lg group-hover:border-gray-300 transition-all">
-                                    <div className="flex items-center gap-2">
-                                        {/* Icon based on provider */}
-                                        <div className="p-2 bg-gray-50 rounded-lg text-gray-600">
-                                            {social.provider === 'github' && <Github size={18} />}
-                                            {social.provider === 'linkedin' && <Linkedin size={18} />}
-                                            {social.provider === 'twitter' && <Twitter size={18} />}
-                                            {social.provider === 'youtube' && <Youtube size={18} />}
-                                            {social.provider === 'gitlab' && <Gitlab size={18} />}
-                                            {social.provider === 'twitch' && <Twitch size={18} />}
-                                            {social.provider === 'dribbble' && <Dribbble size={18} />}
-                                            {social.provider === 'stackoverflow' && <Layers size={18} />}
-                                            {social.provider === 'devto' && <Code2 size={18} />}
-                                            {social.provider === 'producthunt' && <Target size={18} />}
-                                            {social.provider === 'instagram' && <Instagram size={18} />}
-                                            {social.provider === 'facebook' && <Facebook size={18} />}
-                                            {social.provider === 'email' && <Mail size={18} />}
-                                            {social.provider === 'medium' && <BookText size={18} />}
-                                            {/* Generic icons for others */}
-                                            {['custom', 'website', 'medium', 'behance', 'tiktok', 'discord', 'reddit'].includes(social.provider) && <Globe size={18} />}
+
+                                {/* Input Field */}
+                                <div className="flex-1 relative">
+                                    <input
+                                        type="text"
+                                        value={social.url}
+                                        onChange={(e) => {
+                                            const newSocials = [...localSocials];
+                                            const newUrl = e.target.value;
+                                            const detectedProvider = detectProvider(newUrl);
+                                            const isNewProvider = detectedProvider !== 'custom' && detectedProvider !== social.provider;
+                                            const currentProvider = isNewProvider ? detectedProvider : social.provider;
+
+                                            let newLabel = social.display_name;
+                                            if (newUrl && (social.display_name === '' || social.display_name.includes('http') || isNewProvider)) {
+                                                const username = extractUsername(newUrl, currentProvider);
+                                                if (username) {
+                                                    newLabel = currentProvider === 'linkedin' ? `in/${username}` :
+                                                        currentProvider === 'medium' ? `@${username}` :
+                                                            currentProvider === 'twitter' ? `@${username}` :
+                                                                username;
+                                                } else if (isNewProvider) {
+                                                    newLabel = SOCIAL_PLATFORMS[currentProvider]?.name || currentProvider;
+                                                }
+                                            }
+
+                                            newSocials[index] = {
+                                                ...social,
+                                                url: newUrl,
+                                                display_name: newLabel,
+                                                provider: currentProvider
+                                            };
+
+                                            updateSocials(newSocials);
+
+                                            const isValid = isValidSocialUrl(currentProvider, newUrl);
+                                            if (isValid && SOCIAL_PLATFORMS[currentProvider]?.autoFetch) {
+                                                debouncedFetch(currentProvider, newUrl);
+                                            }
+                                        }}
+                                        className={`w-full pl-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900 ${!isValidSocialUrl(social.provider, social.url) && social.url ? 'ring-2 ring-red-100 pr-16' : 'pr-10'}`}
+                                        placeholder={`${SOCIAL_PLATFORMS[social.provider]?.name || 'Social'} URL`}
+                                    />
+                                    {!isValidSocialUrl(social.provider, social.url) && social.url && (
+                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 text-red-500" title="Invalid URL format">
+                                            <AlertCircle size={16} />
                                         </div>
-                                        <span className="flex-1 text-sm font-medium text-gray-900 capitalize">
-                                            {SOCIAL_PLATFORMS[social.provider]?.name || social.provider}
-                                        </span>
-                                        <button
-                                            onClick={() => {
-                                                const newSocials = localSocials.filter((_, i) => i !== index);
-                                                updateSocials(newSocials);
-                                            }}
-                                            className="text-gray-400 hover:text-red-500 transition-colors p-1"
-                                        >
-                                            <Trash2 size={14} />
-                                        </button>
-                                    </div>
-                                    <div className="relative">
-                                        <input
-                                            type="text"
-                                            value={social.url}
-                                            onChange={(e) => {
-                                                const newSocials = [...localSocials];
-                                                const newUrl = e.target.value;
-
-                                                // Detect provider from URL
-                                                const detectedProvider = detectProvider(newUrl);
-                                                const isNewProvider = detectedProvider !== 'custom' && detectedProvider !== social.provider;
-                                                const currentProvider = isNewProvider ? detectedProvider : social.provider;
-
-                                                // Auto-generate label
-                                                let newLabel = social.display_name;
-                                                if (newUrl && (social.display_name === '' || social.display_name.includes('http') || isNewProvider)) {
-                                                    const username = extractUsername(newUrl, currentProvider);
-                                                    if (username) {
-                                                        newLabel = currentProvider === 'linkedin' ? `in/${username}` :
-                                                            currentProvider === 'medium' ? `@${username}` :
-                                                                currentProvider === 'twitter' ? `@${username}` :
-                                                                    username;
-                                                    } else if (isNewProvider) {
-                                                        newLabel = SOCIAL_PLATFORMS[currentProvider]?.name || currentProvider;
-                                                    }
-                                                }
-
-                                                newSocials[index] = {
-                                                    ...social,
-                                                    url: newUrl,
-                                                    display_name: newLabel,
-                                                    provider: currentProvider
-                                                };
-
-                                                updateSocials(newSocials);
-
-                                                // Trigger fetch if valid and supported
-                                                const isValid = isValidSocialUrl(currentProvider, newUrl);
-                                                if (isValid && SOCIAL_PLATFORMS[currentProvider]?.autoFetch) {
-                                                    debouncedFetch(currentProvider, newUrl);
-                                                }
-                                            }}
-                                            className={`w-full text-xs text-gray-500 bg-gray-50 border rounded px-2 py-1.5 focus:outline-none focus:bg-white transition-all ${!isValidSocialUrl(social.provider, social.url) && social.url
-                                                ? 'border-red-300 focus:border-red-500'
-                                                : 'border-gray-100 focus:border-gray-300'
-                                                }`}
-                                            placeholder="https://..."
-                                        />
-                                        {!isValidSocialUrl(social.provider, social.url) && social.url && (
-                                            <div className="absolute right-2 bottom-2 text-red-500" title="Invalid URL format">
-                                                <AlertCircle size={12} />
-                                            </div>
-                                        )}
-                                    </div>
+                                    )}
+                                    <button
+                                        onClick={() => {
+                                            const newSocials = localSocials.filter((_, i) => i !== index);
+                                            updateSocials(newSocials);
+                                        }}
+                                        className={`absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-red-500 transition-colors p-1 ${!isValidSocialUrl(social.provider, social.url) && social.url ? 'mr-6' : ''} opacity-0 group-hover:opacity-100`}
+                                    >
+                                        <Trash2 size={16} />
+                                    </button>
                                 </div>
                             </div>
                         </Reorder.Item>
                     ))}
-
-                    {(!data.profile.social_accounts || data.profile.social_accounts.length === 0) && (
-                        <div className="text-center py-6 border border-dashed border-gray-200 rounded-lg bg-gray-50/50">
-                            <p className="text-sm text-gray-500">No social links added yet</p>
-                        </div>
-                    )}
                 </Reorder.Group>
+            </section>
+
+            {/* About Section */}
+            <section className="space-y-4">
+                <h2 className="text-base font-bold text-gray-900">About</h2>
+                <textarea
+                    value={data.profile.about || ''}
+                    onChange={(e) => onDataUpdate({
+                        profile: { ...data.profile, about: e.target.value }
+                    })}
+                    className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all min-h-[120px] resize-none placeholder-gray-400 font-medium text-gray-900"
+                    placeholder="Tell your story..."
+                />
+            </section>
+
+            {/* Location Section */}
+            <section className="space-y-4">
+                <h2 className="text-base font-bold text-gray-900">Location</h2>
+                <input
+                    type="text"
+                    value={data.profile.location || ''}
+                    onChange={(e) => onDataUpdate({
+                        profile: { ...data.profile, location: e.target.value }
+                    })}
+                    className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900"
+                    placeholder="City, Country"
+                />
             </section>
 
             {/* Create Website Button */}

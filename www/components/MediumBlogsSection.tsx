@@ -1,5 +1,4 @@
 import { ArrowDown, ExternalLink } from "lucide-react";
-import { getUserMediumBlogs, getUserProfile } from "@/lib/api";
 import Badge from "./Badge";
 import {
   Tooltip,
@@ -8,27 +7,16 @@ import {
 } from "@/components/ui/tooltip";
 import Link from "next/link";
 import React from "react";
-import { MediumBlog } from "@/types/types";
+import { MediumBlog, Profile } from "@/types/types";
 
-export async function MediumBlogsSection({ username }: { username: string }) {
-  const user = await getUserProfile(username);
-  if (!user) return null;
-
-  // Find the Medium account in social accounts
-  const mediumAccount = user?.social_accounts?.find(
-    (account) =>
-      account.provider === "generic" && account.url.includes("medium.com"),
-  );
-
-  if (!mediumAccount) return null;
-
-  // Extract username from URL (format: https://medium.com/@username)
-  const mediumUsername = mediumAccount.url.split("@")[1];
-  if (!mediumUsername) return null;
-
-  const blogs = await getUserMediumBlogs(mediumUsername);
-
-  if (!blogs || blogs.length === 0) return null;
+export async function MediumBlogsSection({
+  user,
+  blogs
+}: {
+  user: Profile | null;
+  blogs: MediumBlog[] | null;
+}) {
+  if (!user || !blogs || blogs.length === 0) return null;
 
   return (
     <>

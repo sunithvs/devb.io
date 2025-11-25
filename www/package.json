@@ -20,6 +20,7 @@
     "@tsparticles/slim": "^3.8.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dotenv": "^17.2.3",
     "framer-motion": "^12.4.7",
     "install": "^0.13.0",
     "lodash": "^4.17.21",

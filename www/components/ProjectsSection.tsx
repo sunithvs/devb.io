@@ -1,10 +1,12 @@
 import { ArrowDown } from "lucide-react";
 import ProjectCard from "@/components/project-card";
-import { getUserProjects } from "@/lib/api";
+import { UserProject } from "@/types/types";
 
-export async function ProjectsSection({ username }: { username: string }) {
-  const userProjects = await getUserProjects(username);
-
+export async function ProjectsSection({
+  userProjects
+}: {
+  userProjects: UserProject | null;
+}) {
   const hasProjects = userProjects && userProjects?.top_projects?.length > 0;
 
   if (!hasProjects) return null;

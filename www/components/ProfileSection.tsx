@@ -1,7 +1,8 @@
 import Image from "next/image";
 import { Github, Globe, Linkedin, Twitter, User, BookOpen, Instagram } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
-import { addUserToSupabase, getUserProfile } from "@/lib/api";
+import { addUserToSupabase } from "@/lib/api";
+import { Profile } from "@/types/types";
 import ClientResumeButton from "@/components/ClientResumeButton";
 import {
   Tooltip,
@@ -38,15 +39,15 @@ const detectProvider = (url: string): string => {
   return 'generic';
 };
 
-export async function ProfileSection({ 
-  username, 
-  searchParams 
-}: { 
+export async function ProfileSection({
+  user,
+  username,
+  searchParams
+}: {
+  user: Profile | null;
   username: string;
   searchParams?: { [key: string]: string | string[] | undefined };
 }) {
-  const user = await getUserProfile(username);
-  
   // Convert search params to URLSearchParams for easier handling
   const urlSearchParams = new URLSearchParams();
   if (searchParams) {
@@ -56,7 +57,7 @@ export async function ProfileSection({
       }
     });
   }
-  
+
   // Run Supabase call in background without blocking UI
   addUserToSupabase(user, urlSearchParams).catch((error) => {
     console.error('Background analytics call failed:', error);
@@ -121,14 +122,14 @@ export async function ProfileSection({
               </Tooltip>
               {user.social_accounts?.map((account) => {
                 if (account.provider.toLowerCase() === "github") return null;
-                
-                const provider = account.provider.toLowerCase() === "generic" 
-                ? detectProvider(account.url)
-                : account.provider.toLowerCase();
-                
+
+                const provider = account.provider.toLowerCase() === "generic"
+                  ? detectProvider(account.url)
+                  : account.provider.toLowerCase();
+
                 const tooltipText = provider === "generic"
-                ? extractDomainName(account.url)
-                : provider;
+                  ? extractDomainName(account.url)
+                  : provider;
 
                 return (
                   <Tooltip key={account.url}>
@@ -153,7 +154,7 @@ export async function ProfileSection({
                               {(() => {
                                 const IconComponent =
                                   iconComponents[
-                                    provider as keyof typeof iconComponents
+                                  provider as keyof typeof iconComponents
                                   ] || iconComponents.generic;
                                 return (
                                   <IconComponent

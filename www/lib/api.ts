@@ -118,10 +118,11 @@ export const getUserMediumBlogs = async (
   if (!username) return null;
 
   try {
-    // Build the URL for the user's Medium RSS feed
-    const url = `https://medium.com/feed/@${username}`;
+    // Use RSS2JSON API to bypass Medium's 403 blocking
+    const mediumRssUrl = `https://medium.com/feed/@${username}`;
+    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(mediumRssUrl)}`;
 
-    const response = await fetch(url, {
+    const response = await fetch(rss2jsonUrl, {
       next: {
         revalidate: 3600, // Revalidate every hour
       },
@@ -131,52 +132,33 @@ export const getUserMediumBlogs = async (
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
 
-    const xmlData = await response.text();
-
-    // Parse the XML response
-    const parser = { explicitArray: false };
-    const result = await parseStringPromise(xmlData, parser);
+    const data = await response.json();
 
     // Check if we have items in the feed
-    if (!result.rss || !result.rss.channel || !result.rss.channel.item) {
+    if (!data.items || data.items.length === 0) {
       console.log("No items found in the RSS feed");
       return [];
     }
 
-    // Get all items (make sure it's an array even if there's only one item)
-    const items = Array.isArray(result.rss.channel.item)
-      ? result.rss.channel.item
-      : [result.rss.channel.item];
-
     // Format the blog posts
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    return items.map((item: any) => {
+    return data.items.map((item: any) => {
       // Try to extract thumbnail image from content
       let thumbnail = "";
 
-      // First try to get image from content:encoded
-      if (item["content:encoded"]) {
-        // Look for the first image tag with src attribute
-        const imgMatch = item["content:encoded"].match(
-          /<img[^>]+src="([^">]+)"/,
-        );
+      // First try to get image from thumbnail field
+      if (item.thumbnail) {
+        thumbnail = item.thumbnail;
+      }
+      // If no thumbnail, try to extract from content
+      else if (item.content) {
+        const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
         if (imgMatch && imgMatch[1]) {
           thumbnail = imgMatch[1];
         }
       }
-
-      // If no image found in content, try to get from media:content
-      if (!thumbnail && item["media:content"] && item["media:content"].$.url) {
-        thumbnail = item["media:content"].$.url;
-      }
-
-      // If still no image, check for enclosure
-      if (!thumbnail && item.enclosure && item.enclosure.$.url) {
-        thumbnail = item.enclosure.$.url;
-      }
-
-      // If still no image, try to find an image URL in the description
-      if (!thumbnail && item.description) {
+      // Try description as fallback
+      else if (item.description) {
         const descImgMatch = item.description.match(/<img[^>]+src="([^">]+)"/);
         if (descImgMatch && descImgMatch[1]) {
           thumbnail = descImgMatch[1];
@@ -185,17 +167,17 @@ export const getUserMediumBlogs = async (
 
       return {
         title: item.title || "No title",
-        link: item.link || "",
+        link: item.link || item.guid || "",
         pubDate: item.pubDate || "",
         // Remove HTML tags from content
-        preview: item["content:encoded"]
-          ? item["content:encoded"].replace(/<[^>]*>/g, "")
+        preview: item.description
+          ? item.description.replace(/<[^>]*>/g, "").substring(0, 200)
           : "No preview available",
         // Get categories if available
-        categories: item.category
-          ? Array.isArray(item.category)
-            ? item.category.join(", ")
-            : item.category
+        categories: item.categories
+          ? Array.isArray(item.categories)
+            ? item.categories.join(", ")
+            : item.categories
           : "",
         thumbnail: thumbnail,
       };
@@ -241,23 +223,23 @@ export const getLinkedInProfileData = async (
  */
 export const addUserToSupabase = async (user: Profile | null, searchParams?: URLSearchParams) => {
   if (!user) return;
-  
+
   const supabaseUrl = process.env.SUPABASE_URL;
   const supabaseAnonKey = process.env.SUPABASE_KEY;
-  
+
   if (!supabaseUrl || !supabaseAnonKey) {
     console.error("Supabase configuration missing");
     return;
   }
 
   const url = `${supabaseUrl}/functions/v1/devb-io`;
-  
+
   // Map user data to match Supabase function whitelist
   const mappedData: Record<string, string> = {
     name: user.username,
     "full name": user.name,
-      "devb profile": `https://devb.io/${user.username}`,
-      github: `https://github.com/${user.username}`,
+    "devb profile": `https://devb.io/${user.username}`,
+    github: `https://github.com/${user.username}`,
   };
 
   // Add query parameters if available
@@ -268,10 +250,10 @@ export const addUserToSupabase = async (user: Profile | null, searchParams?: URL
     const utmCampaign = searchParams.get('utm_campaign');
     const utmTerm = searchParams.get('utm_term');
     const utmContent = searchParams.get('utm_content');
-    
+
     // Referral parameter
     const ref = searchParams.get('ref');
-    
+
     // Add to mapped data if they exist
     if (utmSource) mappedData['utm_source'] = utmSource;
     if (utmMedium) mappedData['utm_medium'] = utmMedium;
@@ -287,10 +269,10 @@ export const addUserToSupabase = async (user: Profile | null, searchParams?: URL
   // Add social accounts based on provider
   user.social_accounts?.forEach((account) => {
     const provider = account.provider.toLowerCase();
-    
+
     // If provider is generic, detect the actual platform
     const actualProvider = provider === "generic" ? detectProvider(account.url) : provider;
-    
+
     switch (actualProvider) {
       case "linkedin":
         mappedData["Linkedin"] = account.url;

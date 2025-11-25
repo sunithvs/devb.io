@@ -1,31 +1,17 @@
 import { ArrowDown } from "lucide-react";
 import Timeline from "@/components/timeline";
-import { getUserLinkedInProfile, getUserProfile } from "@/lib/api";
 import { transformLinkedInData } from "@/utils/transform";
+import { Profile, LinkedInProfile } from "@/types/types";
 
-export async function LinkedInSection({ username }: { username: string }) {
+export async function LinkedInSection({
+  user,
+  linkedInData
+}: {
+  user: Profile | null;
+  linkedInData: LinkedInProfile | null;
+}) {
   try {
-    const user = await getUserProfile(username);
-    if (!user) return null;
-
-    const linkedInAccount = user?.social_accounts?.find(
-      (e) => e.provider === "linkedin",
-    );
-    const linkedInUsername =
-      linkedInAccount?.url?.split("in/").pop()?.replace("/", "") || "";
-
-    if (!linkedInUsername) return null;
-
-    // Using the enhanced getUserLinkedInProfile with robust retry and timeout mechanism
-    console.log(`Fetching LinkedIn data for ${linkedInUsername}...`);
-    const linkedInData = await getUserLinkedInProfile(linkedInUsername);
-
-    if (!linkedInData) {
-      console.warn(
-        `Failed to fetch LinkedIn data for ${linkedInUsername} after retries`,
-      );
-      return null;
-    }
+    if (!user || !linkedInData) return null;
 
     // Check if we have experience or education data
     const hasExperience =
@@ -38,13 +24,9 @@ export async function LinkedInSection({ username }: { username: string }) {
       linkedInData.education.length > 0;
 
     if (!hasExperience && !hasEducation) {
-      console.log(
-        `No experience or education data found for ${linkedInUsername}`,
-      );
       return null;
     }
 
-    console.log(`Successfully fetched LinkedIn data for ${linkedInUsername}`);
     return (
       <>
         {hasExperience && (

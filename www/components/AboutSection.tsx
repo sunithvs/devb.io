@@ -1,11 +1,14 @@
 import Badge from "@/components/Badge";
-import { getUserProfile, getUserProjects } from "@/lib/api";
+import { Profile, UserProject } from "@/types/types";
 import { ArrowDown } from "lucide-react";
 
-export async function AboutSection({ username }: { username: string }) {
-  const user = await getUserProfile(username);
-  const userProjects = await getUserProjects(username);
-
+export async function AboutSection({
+  user,
+  userProjects
+}: {
+  user: Profile | null;
+  userProjects: UserProject | null;
+}) {
   if (!user) return null;
 
   return (
@@ -35,7 +38,7 @@ export async function AboutSection({ username }: { username: string }) {
             </div>
           </div>
 
-          <div className="flex gap-4">
+          <div className="flex gap-4 mb-8">
             {user.issues_closed > 0 && (
               <div
                 className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 flex-1 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"
@@ -81,8 +84,8 @@ export async function AboutSection({ username }: { username: string }) {
           </div>
 
           {user?.location && (<div
-              className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"
-              style={{animationDelay: "500ms"}}
+            className="bg-[#B9FF66] rounded-xl p-6 border-1 border-black border-b-4 col-span-2 transition-all duration-300 hover:shadow-lg hover:-translate-y-1 animate-fade-in"
+            style={{ animationDelay: "500ms" }}
           >
             <h2 className="text-xl font-bold mb-2">📍 Location</h2>
             <p>{user?.location}</p>

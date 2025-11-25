@@ -2,7 +2,7 @@ import { ArrowDown } from "lucide-react";
 import ProjectCard from "@/components/project-card";
 import { UserProject } from "@/types/types";
 
-export async function ProjectsSection({
+export function ProjectsSection({
   userProjects
 }: {
   userProjects: UserProject | null;

@@ -43,9 +43,15 @@ export default async function UserPage({
 
         console.log(`[Theme System] Profile data loaded for: ${username}`);
 
-        // 2. Determine theme (from customizations or default to 'default')
-        const themeId = profileData.customizations?.theme_id || 'default';
-        console.log(`[Theme System] Using theme: ${themeId}`);
+        // 2. Determine theme (from query param override, customizations, or default)
+        const themeOverride = urlSearchParams?.theme as string;
+        const themeId = themeOverride || profileData.customizations?.theme_id || 'default';
+
+        if (themeOverride) {
+            console.log(`[Theme System] Previewing theme override: ${themeOverride}`);
+        } else {
+            console.log(`[Theme System] Using stored theme: ${themeId}`);
+        }
 
         const theme = getTheme(themeId);
 

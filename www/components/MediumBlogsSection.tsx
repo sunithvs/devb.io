@@ -9,7 +9,7 @@ import Link from "next/link";
 import React from "react";
 import { MediumBlog, Profile } from "@/types/types";
 
-export async function MediumBlogsSection({
+export function MediumBlogsSection({
   user,
   blogs
 }: {

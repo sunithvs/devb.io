@@ -3,7 +3,7 @@ import Timeline from "@/components/timeline";
 import { transformLinkedInData } from "@/utils/transform";
 import { Profile, LinkedInProfile } from "@/types/types";
 
-export async function LinkedInSection({
+export function LinkedInSection({
   user,
   linkedInData
 }: {

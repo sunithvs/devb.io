@@ -2,7 +2,7 @@ import Badge from "@/components/Badge";
 import { Profile, UserProject } from "@/types/types";
 import { ArrowDown } from "lucide-react";
 
-export async function AboutSection({
+export function AboutSection({
   user,
   userProjects
 }: {

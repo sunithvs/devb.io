@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import { Github, Globe, Linkedin, Twitter, User, BookOpen, Instagram } from "lucide-react";
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
@@ -11,6 +13,7 @@ import {
 } from "@/components/ui/tooltip";
 import { SupportModal } from "@/components/modal/support-modal";
 import { UserProfileBanner } from "@/components/UserProfileBanner";
+import { useEffect } from 'react';
 
 // Utility functions
 const extractDomainName = (url: string) => {
@@ -39,7 +42,7 @@ const detectProvider = (url: string): string => {
   return 'generic';
 };
 
-export async function ProfileSection({
+export function ProfileSection({
   user,
   username,
   searchParams
@@ -59,9 +62,13 @@ export async function ProfileSection({
   }
 
   // Run Supabase call in background without blocking UI
-  addUserToSupabase(user, urlSearchParams).catch((error) => {
-    console.error('Background analytics call failed:', error);
-  });
+  useEffect(() => {
+    if (user) {
+      addUserToSupabase(user, urlSearchParams).catch((error) => {
+        console.error('Background analytics call failed:', error);
+      });
+    }
+  }, [user]);
 
   if (!user) return <ProfileSkeleton />;
 

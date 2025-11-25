@@ -6,7 +6,7 @@ export default function EditorLayout({
     children: React.ReactNode;
 }) {
     return (
-        <div className="min-h-screen bg-gray-50 flex flex-col">
+        <div className="h-screen bg-gray-50 flex flex-col overflow-hidden">
             {/* Simple Header */}
             <header className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between h-14">
                 <div className="flex items-center gap-2">

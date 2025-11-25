@@ -33,18 +33,18 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <script type="text/javascript"></script>
-        <script
-          data-name="BMC-Widget"
-          data-cfasync="false"
-          src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-          data-id="sunithvs"
-          data-description="Support me on Buy me a coffee!"
-          data-color="#B9FF66"
-          data-position="Right"
-          data-x_margin="18"
-          data-y_margin="18"
-          defer
-        />
+        {/*<script*/}
+        {/*  data-name="BMC-Widget"*/}
+        {/*  data-cfasync="false"*/}
+        {/*  src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"*/}
+        {/*  data-id="sunithvs"*/}
+        {/*  data-description="Support me on Buy me a coffee!"*/}
+        {/*  data-color="#B9FF66"*/}
+        {/*  data-position="Right"*/}
+        {/*  data-x_margin="18"*/}
+        {/*  data-y_margin="18"*/}
+        {/*  defer*/}
+        {/*/>*/}
         <Script id="clarity-script" strategy="afterInteractive">
           {`
             (function(c,l,a,r,i,t,y){

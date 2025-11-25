@@ -4,13 +4,15 @@ import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
 import MinimalResumeTheme from '@/themes/minimal-resume/components/MinimalResumeTheme';
 import DefaultTheme from '@/themes/default/components/DefaultTheme';
-import { Monitor, Smartphone } from 'lucide-react';
-import {ProfileData} from "@/types/types";
+import { Monitor, Smartphone, Maximize, Minimize } from 'lucide-react';
+import { ProfileData } from "@/types/types";
 
 interface PreviewFrameProps {
     username: string;
     themeId: string;
     data: ProfileData;
+    isFullScreen: boolean;
+    onToggleFullScreen: () => void;
 }
 
 type ViewMode = 'desktop' | 'mobile';
@@ -68,7 +70,7 @@ const ResponsiveIframe = ({
     );
 };
 
-export default function PreviewFrame({ username, themeId, data }: PreviewFrameProps) {
+export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen }: PreviewFrameProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
     // Render the selected theme component directly
@@ -115,15 +117,28 @@ export default function PreviewFrame({ username, themeId, data }: PreviewFramePr
                     </button>
                 </div>
 
-                <div className="w-16"></div>
+                <div className="flex items-center gap-2">
+                    <button
+                        onClick={onToggleFullScreen}
+                        className="p-1.5 rounded-md text-gray-500 hover:text-gray-700 hover:bg-gray-100 transition-all"
+                        title={isFullScreen ? "Exit Full Screen" : "Enter Full Screen"}
+                    >
+                        {isFullScreen ? <Minimize size={16} /> : <Maximize size={16} />}
+                    </button>
+                </div>
             </div>
 
             {/* Preview Container with Independent Scroll */}
-            <div className="flex-1 bg-gray-100 border border-gray-200 rounded-b-lg shadow-inner overflow-hidden relative flex justify-center">
-                <div className={`transition-all duration-300 shadow-sm bg-white ${viewMode === 'mobile'
-                    ? 'w-[375px] h-[667px] my-8 border border-gray-300 rounded-xl overflow-hidden'
-                    : 'w-full h-full'
+            {/* Preview Container with Independent Scroll */}
+            <div className="flex-1 bg-gray-100 border border-gray-200 rounded-b-lg shadow-inner overflow-hidden relative flex items-center justify-center">
+                <div className={`transition-all duration-500 ease-in-out shadow-2xl bg-white border border-gray-200 overflow-hidden relative ${viewMode === 'mobile'
+                    ? 'w-[375px] h-[667px] rounded-[3rem]'
+                    : 'w-full h-full rounded-none'
                     }`}>
+
+                    {/* Mobile Notch (only visible in mobile view) */}
+                    <div className={`absolute top-0 left-1/2 -translate-x-1/2 h-7 w-32 bg-black rounded-b-2xl z-50 transition-opacity duration-300 ${viewMode === 'mobile' ? 'opacity-100' : 'opacity-0'}`}></div>
+
                     {viewMode === 'mobile' ? (
                         <ResponsiveIframe
                             title="Mobile Preview"
@@ -132,7 +147,7 @@ export default function PreviewFrame({ username, themeId, data }: PreviewFramePr
                             {renderTheme()}
                         </ResponsiveIframe>
                     ) : (
-                        <div className="w-full h-full overflow-y-auto">
+                        <div className="w-full h-full overflow-y-auto scrollbar-hide">
                             {renderTheme()}
                         </div>
                     )}

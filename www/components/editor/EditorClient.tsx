@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import EditorSidebar from './EditorSidebar';
 import PreviewFrame from './PreviewFrame';
-import {ProfileData} from "@/types/types";
+import { ProfileData } from "@/types/types";
 
 interface EditorClientProps {
     initialData: ProfileData;
@@ -14,6 +14,8 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     const [data, setData] = useState<ProfileData>(initialData);
     const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
     // const [isDirty, setIsDirty] = useState(false); // TODO: Implement save functionality
+
+    const [isFullScreen, setIsFullScreen] = useState(false);
 
     // Handle theme change
     const handleThemeChange = (themeId: string) => {
@@ -37,21 +39,25 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     return (
         <div className="flex w-full h-full">
             {/* Left Sidebar - Customization Controls */}
-            <div className="w-[400px] border-r border-gray-200 bg-white flex flex-col overflow-y-auto">
-                <EditorSidebar
-                    data={data}
-                    activeTheme={activeTheme}
-                    onThemeChange={handleThemeChange}
-                    onDataUpdate={handleDataUpdate}
-                />
-            </div>
+            {!isFullScreen && (
+                <div className="w-[400px] border-r border-gray-200 bg-white flex flex-col overflow-y-auto transition-all duration-300">
+                    <EditorSidebar
+                        data={data}
+                        activeTheme={activeTheme}
+                        onThemeChange={handleThemeChange}
+                        onDataUpdate={handleDataUpdate}
+                    />
+                </div>
+            )}
 
             {/* Right Panel - Live Preview */}
-            <div className="flex-1 bg-gray-100 p-8 flex flex-col items-center justify-center overflow-hidden">
+            <div className="flex-1 bg-gray-100 p-8 flex flex-col items-center justify-center overflow-hidden transition-all duration-300">
                 <PreviewFrame
                     username={username}
                     themeId={activeTheme}
                     data={data}
+                    isFullScreen={isFullScreen}
+                    onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
                 />
             </div>
         </div>

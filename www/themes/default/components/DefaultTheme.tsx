@@ -6,7 +6,7 @@ import { AboutSection } from "@/components/AboutSection";
 import { LinkedInSection } from "@/components/LinkedInSection";
 import { ProjectsSection } from "@/components/ProjectsSection";
 import { MediumBlogsSection } from "@/components/MediumBlogsSection";
-import {ProfileData} from "@/types/types";
+import { ProfileData } from "@/types/types";
 
 interface DefaultThemeProps {
     data: ProfileData;

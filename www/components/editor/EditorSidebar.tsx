@@ -3,7 +3,7 @@
 import React from 'react';
 import { ProfileData, SocialAccount } from "@/types/types";
 import { extractUsername, detectProvider, isValidSocialUrl, SOCIAL_PLATFORMS } from "@/lib/api";
-import { Plus, Trash2, Github, Linkedin, Twitter, Globe, ChevronDown, Check, Loader2, AlertCircle, Youtube, Gitlab, Twitch, Dribbble, Layers, Code2, Target, GripVertical } from 'lucide-react';
+import { Plus, Trash2, Github, Linkedin, Twitter, Globe, ChevronDown, Check, Loader2, AlertCircle, Youtube, Gitlab, Twitch, Dribbble, Layers, Code2, Target, GripVertical, Instagram, Facebook, Mail, BookText } from 'lucide-react';
 import { debounce } from 'lodash';
 import { Reorder } from "framer-motion";
 
@@ -230,7 +230,12 @@ export default function EditorSidebar({
                                             {social.provider === 'stackoverflow' && <Layers size={18} />}
                                             {social.provider === 'devto' && <Code2 size={18} />}
                                             {social.provider === 'producthunt' && <Target size={18} />}
-                                            {['custom', 'website', 'medium', 'instagram', 'behance'].includes(social.provider) && <Globe size={18} />}
+                                            {social.provider === 'instagram' && <Instagram size={18} />}
+                                            {social.provider === 'facebook' && <Facebook size={18} />}
+                                            {social.provider === 'email' && <Mail size={18} />}
+                                            {social.provider === 'medium' && <BookText size={18} />}
+                                            {/* Generic icons for others */}
+                                            {['custom', 'website', 'medium', 'behance', 'tiktok', 'discord', 'reddit'].includes(social.provider) && <Globe size={18} />}
                                         </div>
                                         <span className="flex-1 text-sm font-medium text-gray-900 capitalize">
                                             {SOCIAL_PLATFORMS[social.provider]?.name || social.provider}

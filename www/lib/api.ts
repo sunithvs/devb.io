@@ -85,12 +85,12 @@ export const SOCIAL_PLATFORMS: Record<string, {
     autoFetch: false,
     usernameGroup: 1,
   },
-  producthunt: {
-    name: 'Product Hunt',
-    urlPattern: /producthunt\.com\/@([^/?&]+)/i,
-    autoFetch: false,
-    usernameGroup: 1,
-  },
+  producthunt: { name: 'Product Hunt', urlPattern: /producthunt\.com\/@([\w-]+)/, autoFetch: false, usernameGroup: 1 },
+  facebook: { name: 'Facebook', urlPattern: /facebook\.com\/([\w.]+)/, autoFetch: false, usernameGroup: 1 },
+  tiktok: { name: 'TikTok', urlPattern: /tiktok\.com\/@([\w.]+)/, autoFetch: false, usernameGroup: 1 },
+  discord: { name: 'Discord', urlPattern: /discord\.gg\/([\w]+)/, autoFetch: false, usernameGroup: 1 },
+  reddit: { name: 'Reddit', urlPattern: /reddit\.com\/user\/([\w-]+)/, autoFetch: false, usernameGroup: 1 },
+  email: { name: 'Email', urlPattern: /mailto:([\w@.]+)/, autoFetch: false, usernameGroup: 1 },
 };
 
 // Utility function to detect provider from URL

@@ -130,7 +130,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
             {/* Preview Container with Independent Scroll */}
             {/* Preview Container with Independent Scroll */}
-            <div className="flex-1 bg-gray-100 border border-gray-200 rounded-b-lg shadow-inner overflow-hidden relative flex items-center justify-center">
+            <div className="flex-1 relative overflow-auto bg-gray-100 p-8 flex items-center justify-center">
                 <div className={`transition-all duration-500 ease-in-out shadow-2xl bg-white border border-gray-200 overflow-hidden relative ${viewMode === 'mobile'
                     ? 'w-[375px] h-[667px] rounded-[3rem]'
                     : 'w-full h-full rounded-none'
@@ -144,10 +144,12 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                             title="Mobile Preview"
                             className="w-full h-full border-0"
                         >
-                            {renderTheme()}
+                            <div className="pt-14 px-4 min-h-full">
+                                {renderTheme()}
+                            </div>
                         </ResponsiveIframe>
                     ) : (
-                        <div className="w-full h-full overflow-y-auto scrollbar-hide">
+                        <div className="h-full w-full overflow-y-auto scrollbar-hide">
                             {renderTheme()}
                         </div>
                     )}

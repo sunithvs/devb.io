@@ -2,7 +2,9 @@
 
 import React from 'react';
 import { ProfileData } from "@/types/types";
-import { Plus, Trash2, Github, Linkedin, Twitter, Globe, ChevronDown, Check } from 'lucide-react';
+import { extractUsername, detectProvider, isValidSocialUrl, SOCIAL_PLATFORMS } from "@/lib/api";
+import { Plus, Trash2, Github, Linkedin, Twitter, Globe, ChevronDown, Check, Loader2, AlertCircle, Youtube, Gitlab, Twitch, Dribbble, Layers, Code2, Target } from 'lucide-react';
+import { debounce } from 'lodash';
 
 
 interface EditorSidebarProps {
@@ -10,15 +12,29 @@ interface EditorSidebarProps {
     activeTheme: string;
     onThemeChange: (themeId: string) => void;
     onDataUpdate: (data: Partial<ProfileData>) => void;
+    onSocialFetch?: (provider: string, url: string) => void;
+    isFetching?: boolean;
 }
 
 export default function EditorSidebar({
     data,
     activeTheme,
     onThemeChange,
-    onDataUpdate
+    onDataUpdate,
+    onSocialFetch,
+    isFetching
 }: EditorSidebarProps) {
     const [isThemeDropdownOpen, setIsThemeDropdownOpen] = React.useState(false);
+
+    // Debounced fetch handler
+    const debouncedFetch = React.useMemo(
+        () => debounce((provider: string, url: string) => {
+            if (onSocialFetch) {
+                onSocialFetch(provider, url);
+            }
+        }, 1000),
+        [onSocialFetch]
+    );
 
     return (
         <div className="p-6 space-y-8">
@@ -90,7 +106,15 @@ export default function EditorSidebar({
             {/* Socials Section */}
             <section>
                 <div className="flex items-center justify-between mb-3">
-                    <h2 className="text-sm font-medium text-gray-700">Socials</h2>
+                    <div className="flex items-center gap-2">
+                        <h2 className="text-sm font-medium text-gray-700">Socials</h2>
+                        {isFetching && (
+                            <div className="flex items-center gap-1 text-xs text-blue-600 animate-pulse">
+                                <Loader2 size={12} className="animate-spin" />
+                                <span>Updating data...</span>
+                            </div>
+                        )}
+                    </div>
                     <button
                         onClick={() => {
                             const newSocials = [
@@ -113,12 +137,20 @@ export default function EditorSidebar({
                         <div key={index} className="flex items-start gap-2 group">
                             <div className="flex-1 space-y-2 p-3 border border-gray-200 rounded-lg bg-white group-hover:border-gray-300 transition-all">
                                 <div className="flex items-center gap-2">
-                                    {social.provider === 'github' && <Github size={16} className="text-gray-500" />}
-                                    {social.provider === 'linkedin' && <Linkedin size={16} className="text-gray-500" />}
-                                    {social.provider === 'twitter' && <Twitter size={16} className="text-gray-500" />}
-                                    {social.provider !== 'github' && social.provider !== 'linkedin' && social.provider !== 'twitter' && (
-                                        <Globe size={16} className="text-gray-500" />
-                                    )}
+                                    {/* Icon based on provider */}
+                                    <div className="p-2 bg-gray-50 rounded-lg text-gray-600">
+                                        {social.provider === 'github' && <Github size={18} />}
+                                        {social.provider === 'linkedin' && <Linkedin size={18} />}
+                                        {social.provider === 'twitter' && <Twitter size={18} />}
+                                        {social.provider === 'youtube' && <Youtube size={18} />}
+                                        {social.provider === 'gitlab' && <Gitlab size={18} />}
+                                        {social.provider === 'twitch' && <Twitch size={18} />}
+                                        {social.provider === 'dribbble' && <Dribbble size={18} />}
+                                        {social.provider === 'stackoverflow' && <Layers size={18} />}
+                                        {social.provider === 'devto' && <Code2 size={18} />}
+                                        {social.provider === 'producthunt' && <Target size={18} />}
+                                        {['custom', 'website', 'medium', 'instagram', 'behance'].includes(social.provider) && <Globe size={18} />}
+                                    </div>
                                     <input
                                         type="text"
                                         value={social.display_name}
@@ -138,14 +170,55 @@ export default function EditorSidebar({
                                     value={social.url}
                                     onChange={(e) => {
                                         const newSocials = [...(data.profile.social_accounts || [])];
-                                        newSocials[index] = { ...social, url: e.target.value };
+                                        const newUrl = e.target.value;
+
+                                        // Detect provider from URL
+                                        const detectedProvider = detectProvider(newUrl);
+                                        const isNewProvider = detectedProvider !== 'custom' && detectedProvider !== social.provider;
+                                        const currentProvider = isNewProvider ? detectedProvider : social.provider;
+
+                                        // Auto-generate label
+                                        let newLabel = social.display_name;
+                                        if (newUrl && (social.display_name === '' || social.display_name.includes('http') || isNewProvider)) {
+                                            const username = extractUsername(newUrl, currentProvider);
+                                            if (username) {
+                                                newLabel = currentProvider === 'linkedin' ? `in/${username}` :
+                                                    currentProvider === 'medium' ? `@${username}` :
+                                                        currentProvider === 'twitter' ? `@${username}` :
+                                                            username;
+                                            } else if (isNewProvider) {
+                                                newLabel = SOCIAL_PLATFORMS[currentProvider]?.name || currentProvider;
+                                            }
+                                        }
+
+                                        newSocials[index] = {
+                                            ...social,
+                                            url: newUrl,
+                                            display_name: newLabel,
+                                            provider: currentProvider
+                                        };
+
                                         onDataUpdate({
                                             profile: { ...data.profile, social_accounts: newSocials }
                                         });
+
+                                        // Trigger fetch if valid and supported
+                                        const isValid = isValidSocialUrl(currentProvider, newUrl);
+                                        if (isValid && SOCIAL_PLATFORMS[currentProvider]?.autoFetch) {
+                                            debouncedFetch(currentProvider, newUrl);
+                                        }
                                     }}
-                                    className="w-full text-xs text-gray-500 bg-gray-50 border border-gray-100 rounded px-2 py-1.5 focus:outline-none focus:border-gray-300 focus:bg-white transition-all"
+                                    className={`w-full text-xs text-gray-500 bg-gray-50 border rounded px-2 py-1.5 focus:outline-none focus:bg-white transition-all ${!isValidSocialUrl(social.provider, social.url) && social.url
+                                        ? 'border-red-300 focus:border-red-500'
+                                        : 'border-gray-100 focus:border-gray-300'
+                                        }`}
                                     placeholder="https://..."
                                 />
+                                {!isValidSocialUrl(social.provider, social.url) && social.url && (
+                                    <div className="absolute right-2 bottom-2 text-red-500" title="Invalid URL format">
+                                        <AlertCircle size={12} />
+                                    </div>
+                                )}
                             </div>
                             <button
                                 onClick={() => {

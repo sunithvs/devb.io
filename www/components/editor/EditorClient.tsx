@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import EditorSidebar from './EditorSidebar';
 import PreviewFrame from './PreviewFrame';
 import { ProfileData } from "@/types/types";
+import { getUserLinkedInProfile, getUserMediumBlogs, extractUsername } from "@/lib/api";
 
 interface EditorClientProps {
     initialData: ProfileData;
@@ -36,6 +37,32 @@ export default function EditorClient({ initialData, username }: EditorClientProp
         // setIsDirty(true);
     };
 
+    const [isFetching, setIsFetching] = useState(false);
+
+    const handleSocialFetch = async (provider: string, url: string) => {
+        const username = extractUsername(url, provider);
+        if (!username) return;
+
+        setIsFetching(true);
+        try {
+            if (provider === 'linkedin') {
+                const linkedInData = await getUserLinkedInProfile(username);
+                if (linkedInData) {
+                    setData(prev => ({ ...prev, linkedin: linkedInData }));
+                }
+            } else if (provider === 'medium') {
+                const mediumData = await getUserMediumBlogs(username);
+                if (mediumData) {
+                    setData(prev => ({ ...prev, blogs: mediumData }));
+                }
+            }
+        } catch (error) {
+            console.error(`Error fetching ${provider} data:`, error);
+        } finally {
+            setIsFetching(false);
+        }
+    };
+
     return (
         <div className="flex w-full h-full">
             {/* Left Sidebar - Customization Controls */}
@@ -46,6 +73,8 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                         activeTheme={activeTheme}
                         onThemeChange={handleThemeChange}
                         onDataUpdate={handleDataUpdate}
+                        onSocialFetch={handleSocialFetch}
+                        isFetching={isFetching}
                     />
                 </div>
             )}

@@ -6,13 +6,139 @@ import {
 } from "@/types/types";
 import { supabase } from "./supabase";
 
+// Social Platform Configuration
+export const SOCIAL_PLATFORMS: Record<string, {
+  name: string;
+  urlPattern: RegExp;
+  autoFetch: boolean;
+  usernameGroup: number; // The regex group index for the username
+}> = {
+  linkedin: {
+    name: 'LinkedIn',
+    urlPattern: /linkedin\.com\/in\/([^/?&]+)/i,
+    autoFetch: true,
+    usernameGroup: 1,
+  },
+  medium: {
+    name: 'Medium',
+    urlPattern: /medium\.com\/@?([^/?&]+)/i,
+    autoFetch: true,
+    usernameGroup: 1,
+  },
+  twitter: {
+    name: 'Twitter',
+    urlPattern: /(?:twitter\.com|x\.com)\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  github: {
+    name: 'GitHub',
+    urlPattern: /github\.com\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  instagram: {
+    name: 'Instagram',
+    urlPattern: /instagram\.com\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  youtube: {
+    name: 'YouTube',
+    urlPattern: /(?:youtube\.com\/@|youtube\.com\/channel\/|youtube\.com\/user\/)([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  stackoverflow: {
+    name: 'Stack Overflow',
+    urlPattern: /stackoverflow\.com\/users\/(?:\d+\/)?([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  gitlab: {
+    name: 'GitLab',
+    urlPattern: /gitlab\.com\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  devto: {
+    name: 'Dev.to',
+    urlPattern: /dev\.to\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  twitch: {
+    name: 'Twitch',
+    urlPattern: /twitch\.tv\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  dribbble: {
+    name: 'Dribbble',
+    urlPattern: /dribbble\.com\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  behance: {
+    name: 'Behance',
+    urlPattern: /behance\.net\/([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+  producthunt: {
+    name: 'Product Hunt',
+    urlPattern: /producthunt\.com\/@([^/?&]+)/i,
+    autoFetch: false,
+    usernameGroup: 1,
+  },
+};
+
 // Utility function to detect provider from URL
-const detectProvider = (url: string): string => {
+export const detectProvider = (url: string): string => {
   const urlLower = url.toLowerCase();
-  if (urlLower.includes('medium.com')) return 'medium';
-  if (urlLower.includes('instagram.com')) return 'instagram';
-  if (urlLower.includes('huggingface.co')) return 'huggingface';
-  return 'generic';
+  for (const [provider, config] of Object.entries(SOCIAL_PLATFORMS)) {
+    if (config.urlPattern.test(urlLower)) {
+      return provider;
+    }
+  }
+  return 'custom';
+};
+
+export const extractUsername = (url: string, provider: string): string | null => {
+  try {
+    const urlObj = new URL(url.startsWith('http') ? url : `https://${url}`);
+    // Use the full URL string for regex matching to handle paths correctly
+    const fullUrl = urlObj.toString();
+
+    const config = SOCIAL_PLATFORMS[provider];
+    if (config) {
+      const match = fullUrl.match(config.urlPattern);
+      if (match && match[config.usernameGroup]) {
+        return match[config.usernameGroup];
+      }
+    }
+
+    // Fallback for generic/custom if needed, or return null
+    return null;
+  } catch (e) {
+    // If URL parsing fails, try matching the raw string
+    const config = SOCIAL_PLATFORMS[provider];
+    if (config) {
+      const match = url.match(config.urlPattern);
+      if (match && match[config.usernameGroup]) {
+        return match[config.usernameGroup];
+      }
+    }
+    console.error('Error parsing URL:', e);
+  }
+  return null;
+};
+
+export const isValidSocialUrl = (provider: string, url: string): boolean => {
+  if (provider === 'custom') return true; // Accept any URL for custom
+  const config = SOCIAL_PLATFORMS[provider];
+  if (!config) return true; // Unknown provider, be lenient
+  return config.urlPattern.test(url);
 };
 
 /**

@@ -80,7 +80,7 @@ export default function EditorClient({ initialData, username }: EditorClientProp
             )}
 
             {/* Right Panel - Live Preview */}
-            <div className="flex-1 bg-gray-100 p-8 flex flex-col items-center justify-center overflow-hidden transition-all duration-300">
+            <div className="flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300">
                 <PreviewFrame
                     username={username}
                     themeId={activeTheme}

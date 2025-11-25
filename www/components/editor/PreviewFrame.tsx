@@ -4,6 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
 import MinimalResumeTheme from '@/themes/minimal-resume/components/MinimalResumeTheme';
 import DefaultTheme from '@/themes/default/components/DefaultTheme';
+import Image from 'next/image';
 import { Monitor, Smartphone, Maximize, Minimize } from 'lucide-react';
 import { ProfileData } from "@/types/types";
 
@@ -86,44 +87,49 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
     return (
         <div className="w-full h-full flex flex-col">
-            <div className="bg-white border border-gray-200 border-b-0 rounded-t-lg px-4 py-2 flex items-center justify-between shrink-0">
+            <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shrink-0">
                 <div className="flex items-center gap-2">
-                    <div className="w-3 h-3 rounded-full bg-red-400"></div>
-                    <div className="w-3 h-3 rounded-full bg-yellow-400"></div>
-                    <div className="w-3 h-3 rounded-full bg-green-400"></div>
+                    <Image
+                        src="/images/logo-full.png"
+                        alt="devb.io"
+                        width={100}
+                        height={32}
+                        className="h-8 w-auto"
+                        priority
+                    />
                 </div>
 
-                {/* View Mode Switcher */}
-                <div className="flex items-center bg-gray-100 rounded-lg p-1 gap-1">
-                    <button
-                        onClick={() => setViewMode('desktop')}
-                        className={`p-1.5 rounded-md transition-all ${viewMode === 'desktop'
-                            ? 'bg-white shadow-sm text-gray-900'
-                            : 'text-gray-500 hover:text-gray-700'
-                            }`}
-                        title="Desktop View"
-                    >
-                        <Monitor size={16} />
-                    </button>
-                    <button
-                        onClick={() => setViewMode('mobile')}
-                        className={`p-1.5 rounded-md transition-all ${viewMode === 'mobile'
-                            ? 'bg-white shadow-sm text-gray-900'
-                            : 'text-gray-500 hover:text-gray-700'
-                            }`}
-                        title="Mobile View"
-                    >
-                        <Smartphone size={16} />
-                    </button>
-                </div>
+                <div className="flex items-center gap-4">
+                    {/* View Mode Switcher */}
+                    <div className="flex items-center bg-gray-100 rounded-lg p-1">
+                        <button
+                            onClick={() => setViewMode('desktop')}
+                            className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${viewMode === 'desktop'
+                                ? 'bg-white shadow-sm text-gray-900'
+                                : 'text-gray-500 hover:text-gray-700'
+                                }`}
+                        >
+                            <Monitor size={16} />
+                            <span>Desktop</span>
+                        </button>
+                        <button
+                            onClick={() => setViewMode('mobile')}
+                            className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${viewMode === 'mobile'
+                                ? 'bg-white shadow-sm text-gray-900'
+                                : 'text-gray-500 hover:text-gray-700'
+                                }`}
+                        >
+                            <Smartphone size={16} />
+                            <span>Mobile</span>
+                        </button>
+                    </div>
 
-                <div className="flex items-center gap-2">
                     <button
                         onClick={onToggleFullScreen}
-                        className="p-1.5 rounded-md text-gray-500 hover:text-gray-700 hover:bg-gray-100 transition-all"
+                        className="p-2 rounded-lg text-gray-500 hover:text-gray-700 hover:bg-gray-100 transition-all"
                         title={isFullScreen ? "Exit Full Screen" : "Enter Full Screen"}
                     >
-                        {isFullScreen ? <Minimize size={16} /> : <Maximize size={16} />}
+                        {isFullScreen ? <Minimize size={20} /> : <Maximize size={20} />}
                     </button>
                 </div>
             </div>

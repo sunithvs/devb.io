@@ -51,24 +51,24 @@ export function ProfileSection({
   username: string;
   searchParams?: { [key: string]: string | string[] | undefined };
 }) {
-  // Convert search params to URLSearchParams for easier handling
-  const urlSearchParams = new URLSearchParams();
-  if (searchParams) {
-    Object.entries(searchParams).forEach(([key, value]) => {
-      if (value && typeof value === 'string') {
-        urlSearchParams.set(key, value);
-      }
-    });
-  }
-
   // Run Supabase call in background without blocking UI
   useEffect(() => {
     if (user) {
+      // Convert search params to URLSearchParams for easier handling
+      const urlSearchParams = new URLSearchParams();
+      if (searchParams) {
+        Object.entries(searchParams).forEach(([key, value]) => {
+          if (value && typeof value === 'string') {
+            urlSearchParams.set(key, value);
+          }
+        });
+      }
+
       addUserToSupabase(user, urlSearchParams).catch((error) => {
         console.error('Background analytics call failed:', error);
       });
     }
-  }, [user]);
+  }, [user, searchParams]);
 
   if (!user) return <ProfileSkeleton />;
 
@@ -191,13 +191,16 @@ export function ProfileSection({
               </h2>
               <div className="overflow-hidden">
                 <div className="relative w-full" style={{ height: "100px" }}>
-                  <img
-                    className="absolute top-[32%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
+                  <Image
+                    className="absolute top-[32%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-[1]"
                     src={`https://ghchart.rshah.org/5F8417/${user.username}`}
                     alt={`${user.name}'s GitHub contributions`}
+                    width={800}
+                    height={120}
                     style={{
                       maxWidth: "none",
                     }}
+                    unoptimized
                   />
                 </div>
               </div>

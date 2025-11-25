@@ -1,7 +1,8 @@
 'use client';
 
 import React from 'react';
-import { ProfileData } from '@/types/types';
+import {ProfileData} from "@/types/types";
+
 
 interface EditorSidebarProps {
     data: ProfileData;

@@ -2,10 +2,10 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
-import { ProfileData } from '@/types/types';
 import MinimalResumeTheme from '@/themes/minimal-resume/components/MinimalResumeTheme';
 import DefaultTheme from '@/themes/default/components/DefaultTheme';
 import { Monitor, Smartphone } from 'lucide-react';
+import {ProfileData} from "@/types/types";
 
 interface PreviewFrameProps {
     username: string;
@@ -96,8 +96,8 @@ export default function PreviewFrame({ username, themeId, data }: PreviewFramePr
                     <button
                         onClick={() => setViewMode('desktop')}
                         className={`p-1.5 rounded-md transition-all ${viewMode === 'desktop'
-                                ? 'bg-white shadow-sm text-gray-900'
-                                : 'text-gray-500 hover:text-gray-700'
+                            ? 'bg-white shadow-sm text-gray-900'
+                            : 'text-gray-500 hover:text-gray-700'
                             }`}
                         title="Desktop View"
                     >
@@ -106,8 +106,8 @@ export default function PreviewFrame({ username, themeId, data }: PreviewFramePr
                     <button
                         onClick={() => setViewMode('mobile')}
                         className={`p-1.5 rounded-md transition-all ${viewMode === 'mobile'
-                                ? 'bg-white shadow-sm text-gray-900'
-                                : 'text-gray-500 hover:text-gray-700'
+                            ? 'bg-white shadow-sm text-gray-900'
+                            : 'text-gray-500 hover:text-gray-700'
                             }`}
                         title="Mobile View"
                     >
@@ -121,8 +121,8 @@ export default function PreviewFrame({ username, themeId, data }: PreviewFramePr
             {/* Preview Container with Independent Scroll */}
             <div className="flex-1 bg-gray-100 border border-gray-200 rounded-b-lg shadow-inner overflow-hidden relative flex justify-center">
                 <div className={`transition-all duration-300 shadow-sm bg-white ${viewMode === 'mobile'
-                        ? 'w-[375px] h-[667px] my-8 border border-gray-300 rounded-xl overflow-hidden'
-                        : 'w-full h-full'
+                    ? 'w-[375px] h-[667px] my-8 border border-gray-300 rounded-xl overflow-hidden'
+                    : 'w-full h-full'
                     }`}>
                     {viewMode === 'mobile' ? (
                         <ResponsiveIframe

@@ -6,6 +6,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import Link from "next/link";
+import Image from "next/image";
 import React from "react";
 import { MediumBlog, Profile } from "@/types/types";
 
@@ -58,11 +59,13 @@ const BlogCard = ({ blog, index }: { blog: MediumBlog; index: number }) => {
   return (
     <div className="bg-white rounded-xl border-1 border-black border-b-4 flex flex-col h-full transform transition-all duration-300 ease-out hover:scale-[1.02] hover:shadow-lg will-change-transform overflow-hidden">
       <div className="relative w-full h-40">
-        <img
+        <Image
           src={blog.thumbnail || defaultImage}
           alt={blog.title}
-          className="w-full h-full object-cover animate-fade-in will-change-opacity"
+          fill
+          className="object-cover animate-fade-in will-change-opacity"
           style={{ animationDuration: "0.7s" }}
+          unoptimized
         />
       </div>
 

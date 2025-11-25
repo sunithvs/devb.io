@@ -1,9 +1,9 @@
 import React from 'react';
-import { ThemePageProps } from '@/types/theme';
 import Image from 'next/image';
 import BlogCard from './BlogCard';
-import { ProfileData } from '@/types/types';
+
 import '../styles/theme.css';
+import {ProfileData} from "@/types/types";
 
 interface MinimalResumeThemeProps {
     data: ProfileData;

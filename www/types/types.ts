@@ -30,6 +30,43 @@ export type Profile = {
   cached: boolean;
 };
 
+/**
+ * Standardized profile data structure that all themes receive
+ * This is the contract between the data layer and theme layer
+ */
+export interface ProfileData {
+  claimed: boolean;
+  user_id?: string;
+
+  // Core profile information
+  profile: Profile;
+
+  // Projects data
+  projects: UserProject;
+
+  // LinkedIn profile (optional)
+  linkedin?: LinkedInProfile | null;
+
+  // Medium blogs (optional)
+  blogs?: MediumBlog[] | null;
+
+  // Theme customizations
+  customizations?: {
+    theme_id: string;
+    layout_config?: Record<string, string>;
+    color_scheme?: Record<string, string>;
+    section_visibility?: {
+      about: boolean;
+      projects: boolean;
+      experience: boolean;
+      education: boolean;
+      skills: boolean;
+      blogs: boolean;
+    };
+  };
+}
+
+
 export type Project = {
   name: string;
   description: string | null;

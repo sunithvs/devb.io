@@ -1,12 +1,12 @@
 import React from 'react';
 import Image from "next/image";
 import Link from "next/link";
-import { ProfileData } from "@/types/types";
 import { ProfileSection } from "@/components/ProfileSection";
 import { AboutSection } from "@/components/AboutSection";
 import { LinkedInSection } from "@/components/LinkedInSection";
 import { ProjectsSection } from "@/components/ProjectsSection";
 import { MediumBlogsSection } from "@/components/MediumBlogsSection";
+import {ProfileData} from "@/types/types";
 
 interface DefaultThemeProps {
     data: ProfileData;

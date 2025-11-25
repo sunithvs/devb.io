@@ -20,6 +20,9 @@ interface GitHubModalProps {
   onOpenChange: (open: boolean) => void;
 }
 
+// GitHub username validation regex
+const GITHUB_USERNAME_REGEX = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i;
+
 export default function GitHubModal({
   isOpen,
   onOpenChange,
@@ -28,9 +31,6 @@ export default function GitHubModal({
   const [isValidating, setIsValidating] = useState(false);
   const [validationMessage, setValidationMessage] = useState("");
   const [profile, setProfile] = useState<Profile | null>(null);
-
-  // GitHub username validation regex
-  const GITHUB_USERNAME_REGEX = /^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i;
 
   // Validate GitHub username
   const validateGitHubUsername = useCallback(async (username: string) => {

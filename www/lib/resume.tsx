@@ -165,6 +165,7 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
         </Text>
         <View style={styles.iconsContainer}>
           <Image
+
             style={styles.icon}
             src="https://img.icons8.com/ios-glyphs/480/github.png"
           />

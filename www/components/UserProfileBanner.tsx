@@ -29,7 +29,7 @@ export const UserProfileBanner = ({ user }: { user: Profile | null }) => {
     return () => {
       hideBanner();
     };
-  }, [user, setBanner, ref]);
+  }, [user, setBanner, hideBanner, ref]);
 
   return null;
 };

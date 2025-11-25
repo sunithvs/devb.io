@@ -1,4 +1,5 @@
-import { ProfileData } from '@/types/theme';
+import {ProfileData} from "@/types/types";
+
 import {
     getUserProfile,
     getUserProjects,

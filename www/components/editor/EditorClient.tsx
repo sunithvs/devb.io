@@ -1,9 +1,9 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
-import { ProfileData } from '@/types/types';
+import React, { useState } from 'react';
 import EditorSidebar from './EditorSidebar';
 import PreviewFrame from './PreviewFrame';
+import {ProfileData} from "@/types/types";
 
 interface EditorClientProps {
     initialData: ProfileData;
@@ -13,7 +13,7 @@ interface EditorClientProps {
 export default function EditorClient({ initialData, username }: EditorClientProps) {
     const [data, setData] = useState<ProfileData>(initialData);
     const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
-    const [isDirty, setIsDirty] = useState(false);
+    // const [isDirty, setIsDirty] = useState(false); // TODO: Implement save functionality
 
     // Handle theme change
     const handleThemeChange = (themeId: string) => {
@@ -25,13 +25,13 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                 theme_id: themeId
             }
         }));
-        setIsDirty(true);
+        // setIsDirty(true);
     };
 
     // Handle data updates from sidebar
     const handleDataUpdate = (newData: Partial<ProfileData>) => {
         setData(prev => ({ ...prev, ...newData }));
-        setIsDirty(true);
+        // setIsDirty(true);
     };
 
     return (

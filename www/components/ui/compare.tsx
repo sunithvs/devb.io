@@ -1,5 +1,6 @@
 "use client";
 import React, { useCallback, useEffect, useRef, useState } from "react";
+import Image from "next/image";
 import { SparklesCore } from "@/components/ui/sparkles";
 import { AnimatePresence, motion } from "motion/react";
 import { cn } from "@/lib/utils";
@@ -194,14 +195,16 @@ export const Compare = ({
               }}
               transition={{ duration: 0 }}
             >
-              <img
+              <Image
                 alt="first image"
                 src={firstImage}
+                fill
                 className={cn(
-                  "absolute inset-0  z-20 rounded-2xl shrink-0 w-full h-full select-none",
+                  "object-cover absolute inset-0  z-20 rounded-2xl shrink-0 w-full h-full select-none",
                   firstImageClassName,
                 )}
                 draggable={false}
+                unoptimized
               />
             </motion.div>
           ) : null}
@@ -210,15 +213,21 @@ export const Compare = ({
 
       <AnimatePresence initial={false}>
         {secondImage ? (
-          <motion.img
+          <motion.div
             className={cn(
               "absolute top-0 left-0 z-[19]  rounded-2xl w-full h-full select-none",
               secondImageClassname,
             )}
-            alt="second image"
-            src={secondImage}
-            draggable={false}
-          />
+          >
+            <Image
+              alt="second image"
+              src={secondImage}
+              fill
+              className="object-cover rounded-2xl select-none"
+              draggable={false}
+              unoptimized
+            />
+          </motion.div>
         ) : null}
       </AnimatePresence>
     </div>

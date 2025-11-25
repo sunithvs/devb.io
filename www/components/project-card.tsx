@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Project } from "@/types/types";
 import { ExternalLink, GitFork, Github, Star } from "lucide-react";
 import Badge from "@/components/Badge";
@@ -44,12 +45,14 @@ const ProjectCard = (project: Project) => {
 
   return (
     <div className="bg-white rounded-xl border-1 border-black border-b-4 w-full h-full flex flex-col transform transition-all duration-300 ease-out hover:scale-[1.02] hover:shadow-lg will-change-transform">
-      <div className="relative mb-1">
-        <img
+      <div className="relative mb-1 aspect-[2/1]">
+        <Image
           src={previewUrl}
           alt={name}
-          className="w-full object-cover rounded-t-xl aspect-[2/1] animate-fade-in will-change-opacity"
+          fill
+          className="object-cover rounded-t-xl animate-fade-in will-change-opacity"
           style={{ animationDuration: "0.7s" }}
+          unoptimized
         />
         {!isGithubPreview && (
           <div

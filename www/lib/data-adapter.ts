@@ -2,9 +2,8 @@ import { ProfileData } from '@/types/theme';
 import {
     getUserProfile,
     getUserProjects,
-    getUserLinkedInProfile,
-    getUserMediumBlogs
 } from './api';
+import type { Profile, SocialAccount } from '@/types/types';
 
 /**
  * Data Adapter
@@ -13,48 +12,36 @@ import {
  */
 
 /**
- * Fetch and transform complete profile data for themes
+ * Fetch and transform profile data for themes
+ * Only fetches FAST data (profile, projects)
+ * Slow data (LinkedIn, Medium) should be fetched by theme pages with Suspense
  */
 export async function getCompleteProfileData(username: string): Promise<ProfileData | null> {
     try {
-        // Fetch core profile data
+        // Fetch ONLY fast API calls
         const profile = await getUserProfile(username);
         if (!profile) return null;
 
-        // Fetch projects data
         const projects = await getUserProjects(username);
 
-        // Fetch LinkedIn data (if available)
-        const linkedInAccount = profile.social_accounts?.find(
-            (account) => account.provider === 'linkedin'
-        );
-        const linkedInUsername = linkedInAccount?.url?.split('in/').pop()?.replace('/', '');
-        const linkedin = linkedInUsername ? await getUserLinkedInProfile(linkedInUsername) : null;
-
-        // Fetch Medium blogs (if available)
-        const mediumAccount = profile.social_accounts?.find(
-            (account) => account.provider === 'generic' && account.url.includes('medium.com')
-        );
-        const mediumUsername = mediumAccount?.url.split('@')[1];
-        const blogs = mediumUsername ? await getUserMediumBlogs(mediumUsername) : null;
-
         // Transform into ProfileData structure
+        // LinkedIn and blogs are null - theme pages will fetch them with Suspense
         const profileData: ProfileData = {
             claimed: true, // TODO: Fetch from database
             user_id: undefined, // TODO: Fetch from database if claimed
             profile,
-            projects: projects || { top_projects: [], top_languages: [], all_projects: [] },
-            linkedin,
-            blogs,
+            projects: projects || { top_projects: [], top_languages: [] },
+            linkedin: null, // Will be fetched by theme page with Suspense
+            blogs: null,    // Will be fetched by theme page with Suspense
             customizations: {
                 theme_id: 'default', // TODO: Fetch from database
                 section_visibility: {
                     about: true,
                     projects: true,
-                    experience: !!linkedin,
-                    education: !!linkedin,
+                    experience: true, // Theme will check if LinkedIn data exists
+                    education: true,  // Theme will check if LinkedIn data exists
                     skills: true,
-                    blogs: !!blogs && blogs.length > 0,
+                    blogs: true,      // Theme will check if blogs exist
                 },
             },
         };
@@ -64,4 +51,24 @@ export async function getCompleteProfileData(username: string): Promise<ProfileD
         console.error(`Error fetching complete profile data for ${username}:`, error);
         return null;
     }
+}
+
+/**
+ * Helper to get LinkedIn username from profile
+ */
+export function getLinkedInUsername(profile: Profile): string | null {
+    const linkedInAccount = profile.social_accounts?.find(
+        (account: SocialAccount) => account.provider === 'linkedin'
+    );
+    return linkedInAccount?.url?.split('in/').pop()?.replace('/', '') || null;
+}
+
+/**
+ * Helper to get Medium username from profile
+ */
+export function getMediumUsername(profile: Profile): string | null {
+    const mediumAccount = profile.social_accounts?.find(
+        (account: SocialAccount) => account.provider === 'generic' && account.url.includes('medium.com')
+    );
+    return mediumAccount?.url.split('@')[1] || null;
 }

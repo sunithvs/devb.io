@@ -12,17 +12,41 @@ import { AboutSection } from "@/components/AboutSection";
 import { LinkedInSection } from "@/components/LinkedInSection";
 import { ProjectsSection } from "@/components/ProjectsSection";
 import { MediumBlogsSection } from "@/components/MediumBlogsSection";
+import { getUserLinkedInProfile, getUserMediumBlogs } from "@/lib/api";
+import { getLinkedInUsername, getMediumUsername } from "@/lib/data-adapter";
+
+// Wrapper component for LinkedIn data with streaming
+async function LinkedInSectionWrapper({ profile }: { profile: any }) {
+    const linkedInUsername = getLinkedInUsername(profile);
+
+    if (!linkedInUsername) return null;
+
+    const linkedInData = await getUserLinkedInProfile(linkedInUsername);
+
+    return <LinkedInSection user={profile} linkedInData={linkedInData} />;
+}
+
+// Wrapper component for Medium blogs with streaming
+async function MediumBlogsSectionWrapper({ profile }: { profile: any }) {
+    const mediumUsername = getMediumUsername(profile);
+
+    if (!mediumUsername) return null;
+
+    const blogs = await getUserMediumBlogs(mediumUsername);
+
+    return <MediumBlogsSection user={profile} blogs={blogs} />;
+}
 
 /**
  * Default Theme - Index Page
- * Main profile page showing all sections
+ * Main profile page showing all sections with streaming support
  */
 export default async function DefaultThemeIndexPage({
     data,
     username,
     searchParams
 }: ThemePageProps) {
-    const { profile, projects, linkedin, blogs } = data;
+    const { profile, projects } = data;
 
     return (
         <div className="container mx-auto px-4 py-8 flex flex-col lg:flex-row gap-8 fade-in">
@@ -50,21 +74,17 @@ export default async function DefaultThemeIndexPage({
                     <AboutSection user={profile} userProjects={projects} />
                 </Suspense>
 
-                {linkedin && (
-                    <Suspense fallback={<TimelineSkeleton />}>
-                        <LinkedInSection user={profile} linkedInData={linkedin} />
-                    </Suspense>
-                )}
+                <Suspense fallback={<TimelineSkeleton />}>
+                    <LinkedInSectionWrapper profile={profile} />
+                </Suspense>
 
                 <Suspense fallback={<ProjectListSkeleton />}>
                     <ProjectsSection userProjects={projects} />
                 </Suspense>
 
-                {blogs && blogs.length > 0 && (
-                    <Suspense fallback={<MediumBlogsSkeleton />}>
-                        <MediumBlogsSection user={profile} blogs={blogs} />
-                    </Suspense>
-                )}
+                <Suspense fallback={<MediumBlogsSkeleton />}>
+                    <MediumBlogsSectionWrapper profile={profile} />
+                </Suspense>
             </div>
         </div>
     );

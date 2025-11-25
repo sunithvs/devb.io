@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { TooltipProvider } from "@/components/ui/tooltip";
 import { getUserProfile } from "@/lib/api";
 
 export async function generateMetadata({

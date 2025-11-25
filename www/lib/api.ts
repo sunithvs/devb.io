@@ -4,7 +4,6 @@ import {
   Profile,
   UserProject,
 } from "@/types/types";
-import { parseStringPromise } from "xml2js";
 import { supabase } from "./supabase";
 
 // Utility function to detect provider from URL

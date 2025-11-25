@@ -1,6 +1,6 @@
-import React from "react";
-import { Metadata } from "next";
-import { getProfileData } from "@/lib/api";
+import type { Metadata } from "next";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { getUserProfile } from "@/lib/api";
 
 export async function generateMetadata({
   params,
@@ -8,7 +8,7 @@ export async function generateMetadata({
   params: Promise<{ username: string }>;
 }): Promise<Metadata> {
   const { username } = await params;
-  const user = await getProfileData(username);
+  const user = await getUserProfile(username);
   return {
     title: user?.seo?.title
       ? user.seo.title

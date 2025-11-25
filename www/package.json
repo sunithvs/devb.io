@@ -13,6 +13,7 @@
     "@radix-ui/react-slot": "^1.1.2",
     "@radix-ui/react-tooltip": "^1.1.8",
     "@react-pdf/renderer": "^4.2.2",
+    "@supabase/supabase-js": "^2.84.0",
     "@tabler/icons-react": "^3.31.0",
     "@tanstack/react-query": "^5.66.9",
     "@tsparticles/engine": "^3.8.1",

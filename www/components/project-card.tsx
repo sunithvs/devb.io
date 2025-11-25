@@ -24,19 +24,13 @@ const SEPARATOR_COLORS = [
   "bg-[#2B9348]", // Deep Green
 ];
 
-const ProjectCard = ({
-  name,
-  description,
-  language,
-  stars,
-  url,
-  homepage,
-  forks,
-}: Project) => {
-  const isGithubPreview = !homepage;
+const ProjectCard = (project: Project) => {
+  const { name, description, languages, stars, url, preview_url, forks } = project;
+
+  const isGithubPreview = !preview_url;
   const previewUrl = isGithubPreview
     ? `https://opengraph.githubassets.com/317f0ed00d6d6d4a22f24b956b3988bc254e791fcfe1955acef5add1764cfb42/${encodeURIComponent(url.split("/")[3])}/${encodeURIComponent(url.split("/")[4])}`
-    : `https://api.microlink.io?url=${encodeURIComponent(homepage)}&screenshot=true&embed=screenshot.url`;
+    : `https://api.microlink.io?url=${encodeURIComponent(preview_url)}&screenshot=true&embed=screenshot.url`;
 
   const getColorIndex = (str: string) => {
     let hash = 0;
@@ -86,7 +80,7 @@ const ProjectCard = ({
           style={{ animationDuration: "0.7s", animationDelay: "0.4s" }}
         >
           <div className="flex items-center gap-3">
-            {language && <Badge label={language} />}
+            {languages && languages.length > 0 && <Badge label={languages[0]} />}
 
             {!isGithubPreview && (
               <div className="flex items-center gap-3 text-gray-600">
@@ -120,11 +114,11 @@ const ProjectCard = ({
               <TooltipContent>View on GitHub</TooltipContent>
             </Tooltip>
 
-            {homepage && (
+            {preview_url && (
               <Tooltip>
                 <TooltipTrigger asChild>
                   <Link
-                    href={homepage}
+                    href={preview_url}
                     target="_blank"
                     className="group p-2 bg-white rounded-lg border-1 border-black hover:bg-gray-50 transition-all duration-300 ease-out hover:shadow-[2px_2px_0px_rgba(0,0,0,1)]"
                   >

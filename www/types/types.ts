@@ -1,7 +1,9 @@
 export type SocialAccount = {
   provider: string;
   url: string;
+  display_name: string;
 };
+
 
 export type Achievements = {
   total_contributions: number;
@@ -11,7 +13,7 @@ export type Achievements = {
 export type Profile = {
   username: string;
   name: string;
-  bio: string;
+  bio?: string;
   location: string;
   avatar_url: string;
   profile_url: string;
@@ -23,22 +25,23 @@ export type Profile = {
   achievements: Achievements;
   social_accounts: SocialAccount[];
   readme_content: string;
-  about: string;
-  seo: SEOContent;
+  about?: string;
+  seo?: SEOContent;
   cached: boolean;
 };
 
 export type Project = {
   name: string;
   description: string | null;
-  score: number | null;
+  score: number;
   stars: number;
   forks: number;
-  language: string;
+  languages: string[];
   url: string;
-  updatedAt: string;
-  isPinned: boolean;
-  homepage: string | null;
+  updated_at: string;
+  is_pinned: boolean;
+  platform: string;
+  preview_url: string | null;
 };
 
 export type LanguageUsage = [string, number];
@@ -47,6 +50,7 @@ export type UserProject = {
   top_projects: Project[];
   top_languages: LanguageUsage[];
 };
+
 
 
 export type Location = {
@@ -91,9 +95,9 @@ export type Education = {
     start: {
       year: number;
     };
-    end: {
+    end?: {
       year: number;
-    };
+    } | null;
   };
 };
 

@@ -5,9 +5,7 @@ import {
   UserProject,
 } from "@/types/types";
 import { parseStringPromise } from "xml2js";
-
-const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL;
-const API_KEY = process.env.NEXT_PUBLIC_X_API_KEY;
+import { supabase } from "./supabase";
 
 // Utility function to detect provider from URL
 const detectProvider = (url: string): string => {
@@ -19,65 +17,53 @@ const detectProvider = (url: string): string => {
 };
 
 /**
- * Fetch resource with Next.js caching
- */
-const fetchResource = async <T>(
-  endpoint: string,
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  options: any = {},
-): Promise<T | null> => {
-  try {
-    const url = `${BASE_URL}${endpoint}`;
-    const response = await fetch(url, {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-        "X-Api-Key": API_KEY || "",
-      },
-      next: {
-        revalidate: 3600, // Revalidate every hour
-        ...options.next,
-      },
-    });
-
-    if (!response.ok) {
-      throw new Error(`Error fetching ${endpoint}: ${response.status}`);
-    }
-
-    return response.json() as Promise<T>;
-  } catch (error) {
-    // @ts-expect-error -- asflasdlkfjasdlf
-    if (error?.name === "AbortError") {
-      console.error(`Request timeout for ${endpoint}`);
-    } else {
-      console.error(`Error fetching ${endpoint}:`, error);
-    }
-    return null;
-  }
-};
-
-/**
- * Get user profile data
+ * Get user profile data using Supabase Edge Function
  */
 export const getUserProfile = async (
   username: string,
 ): Promise<Profile | null> => {
   if (!username) return null;
-  return fetchResource<Profile>(`/user/${username}/profile`);
+
+  try {
+    const { data, error } = await supabase.functions.invoke(`fetch-profile?username=${username.toLowerCase()}`);
+
+    if (error) {
+      console.error(`Error fetching profile for ${username}:`, error);
+      return null;
+    }
+
+    return data as Profile;
+  } catch (error) {
+    console.error(`Error fetching profile for ${username}:`, error);
+    return null;
+  }
 };
 
 /**
- * Get user projects data
+ * Get user projects data using Supabase Edge Function
  */
 export const getUserProjects = async (
   username: string,
 ): Promise<UserProject | null> => {
   if (!username) return null;
-  return fetchResource<UserProject>(`/user/${username}/projects`);
+
+  try {
+    const { data, error } = await supabase.functions.invoke(`fetch-projects?username=${username.toLowerCase()}`);
+
+    if (error) {
+      console.error(`Error fetching projects for ${username}:`, error);
+      return null;
+    }
+
+    return data as UserProject;
+  } catch (error) {
+    console.error(`Error fetching projects for ${username}:`, error);
+    return null;
+  }
 };
 
 /**
- * Get user LinkedIn profile data
+ * Get user LinkedIn profile data using Supabase Edge Function
  */
 export const getUserLinkedInProfile = async (
   username: string,
@@ -85,16 +71,12 @@ export const getUserLinkedInProfile = async (
   try {
     if (!username) return null;
 
-    // Add a cache tag for better revalidation
-    const data = await fetchResource<LinkedInProfile>(
-      `/user/${username}/linkedin`,
-      {
-        next: {
-          revalidate: 3600, // 1 hour
-          tags: [`linkedin-${username}`],
-        },
-      },
-    );
+    const { data, error } = await supabase.functions.invoke(`fetch-linkedin?username=${username.toLowerCase()}`);
+
+    if (error) {
+      console.error(`Error fetching LinkedIn data for ${username}:`, error);
+      return null;
+    }
 
     // Validate the returned data structure
     if (!data || !data.basic_info) {
@@ -102,7 +84,7 @@ export const getUserLinkedInProfile = async (
       return null;
     }
 
-    return data;
+    return data as LinkedInProfile;
   } catch (error) {
     console.error(`Error fetching LinkedIn data for ${username}:`, error);
     return null;
@@ -188,35 +170,7 @@ export const getUserMediumBlogs = async (
   }
 };
 
-/**
- * Get user profile data (server-side)
- */
-export const getProfileData = async (
-  username: string,
-): Promise<Profile | null> => {
-  if (!username) return null;
-  return fetchResource<Profile>(`/user/${username}/profile`);
-};
-
-/**
- * Get user projects data (server-side)
- */
-export const getProjectData = async (
-  username: string,
-): Promise<UserProject | null> => {
-  if (!username) return null;
-  return fetchResource<UserProject>(`/user/${username}/projects`);
-};
-
-/**
- * Get user LinkedIn profile data (server-side)
- */
-export const getLinkedInProfileData = async (
-  username: string,
-): Promise<LinkedInProfile | null> => {
-  if (!username) return null;
-  return fetchResource<LinkedInProfile>(`/user/${username}/linkedin`);
-};
+// Deprecated functions removed - use getUserProfile, getUserProjects, getUserLinkedInProfile instead
 
 /**
  * API to add user to Supabase via edge function for analytics
@@ -224,7 +178,7 @@ export const getLinkedInProfileData = async (
 export const addUserToSupabase = async (user: Profile | null, searchParams?: URLSearchParams) => {
   if (!user) return;
 
-  const supabaseUrl = process.env.SUPABASE_URL;
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const supabaseAnonKey = process.env.SUPABASE_KEY;
 
   if (!supabaseUrl || !supabaseAnonKey) {

@@ -10,9 +10,9 @@ import {
 } from "@react-pdf/renderer";
 import type { LinkedInProfile, Profile, SocialAccount } from "@/types/types";
 import {
-  getLinkedInProfileData,
-  getProfileData,
-  getProjectData,
+  getUserLinkedInProfile,
+  getUserProfile,
+  getUserProjects,
 } from "@/lib/api";
 
 const styles = StyleSheet.create({
@@ -97,14 +97,15 @@ interface ResumeData {
   top_projects: {
     name: string;
     description: string | null;
-    score: number | null;
+    score: number;
     stars: number;
     forks: number;
-    language: string | null;
+    languages: string[];
     url: string;
-    updatedAt: string;
-    isPinned: boolean;
-    homepage: string | null;
+    updated_at: string;
+    is_pinned: boolean;
+    platform: string;
+    preview_url: string | null;
   }[];
   achievements: {
     total_contributions: number;
@@ -225,10 +226,10 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
                 <Link style={styles.link} src={project.url}>
                   Github
                 </Link>{" "}
-                {project.homepage && (
+                {project.preview_url && (
                   <>
                     |{" "}
-                    <Link style={styles.link} src={project.homepage}>
+                    <Link style={styles.link} src={project.preview_url}>
                       Link
                     </Link>
                   </>
@@ -254,7 +255,7 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
                 <Text style={styles.text}>{education.school}</Text>
                 <Text style={styles.text}>
                   {education.duration.start.year} -{" "}
-                  {education.duration.end.year}
+                  {education.duration.end?.year || "Present"}
                 </Text>
               </View>
             ))}
@@ -266,9 +267,9 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
           Programming Languages:{" "}
           {Array.isArray(data.top_languages)
             ? data.top_languages
-                .slice(0, 3)
-                .map((lang) => lang[0])
-                .join(", ")
+              .slice(0, 3)
+              .map((lang) => lang[0])
+              .join(", ")
             : "No languages available"}
         </Text>
       </View>
@@ -313,7 +314,7 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
   </Document>
 );
 
-const getLinkedInUsername = (userProfile: Profile ) => {
+const getLinkedInUsername = (userProfile: Profile) => {
   if (!userProfile) return null;
   const linkedInAccount = userProfile?.social_accounts?.find(
     (account: SocialAccount) => account.provider === "linkedin"
@@ -325,18 +326,18 @@ const getLinkedInUsername = (userProfile: Profile ) => {
 };
 
 async function getResumeData(username: string): Promise<ResumeData> {
-  const userProfile = await getProfileData(username);
-  const userProjects = await getProjectData(username);
+  const userProfile = await getUserProfile(username);
+  const userProjects = await getUserProjects(username);
   if (!userProfile || !userProjects) {
     throw new Error("User profile or projects not found");
   }
   if (!userProfile?.social_accounts) {
-        userProfile.social_accounts = [];
+    userProfile.social_accounts = [];
   }
 
   const linkedInUsername = getLinkedInUsername(userProfile);
   let userLinkedInProfile = null;
-  if (linkedInUsername) userLinkedInProfile = await getLinkedInProfileData(linkedInUsername);
+  if (linkedInUsername) userLinkedInProfile = await getUserLinkedInProfile(linkedInUsername);
 
 
   const defaultLinkedInProfile: LinkedInProfile = {

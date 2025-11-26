@@ -31,6 +31,21 @@ export default async function UserPage({
             return notFound();
         }
 
+        // Validate username to prevent system paths from being treated as usernames
+        // GitHub Username Rules:
+        // 1. Alphanumeric and hyphens only
+        // 2. Cannot start or end with a hyphen
+        // 3. Max 39 characters
+        // 4. No consecutive hyphens (optional, but good practice)
+        // Regex: Starts with alphanumeric, followed by optional alphanumeric/hyphens, ends with alphanumeric. Max 39 chars.
+        // This automatically blocks paths with dots like .well-known, favicon.ico, etc.
+        const githubUsernameRegex = /^[a-z0-9](?:[a-z0-9]|-(?=[a-z0-9])){0,38}$/i;
+
+        if (!githubUsernameRegex.test(username)) {
+            console.log(`[Theme System] Blocking invalid username request (regex mismatch): ${username}`);
+            return notFound();
+        }
+
         console.log(`[Theme System] Loading profile for: ${username}, slug: ${slug.join('/')}`);
 
         // 1. Fetch complete profile data

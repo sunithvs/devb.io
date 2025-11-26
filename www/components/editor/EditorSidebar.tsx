@@ -67,7 +67,7 @@ export default function EditorSidebar({
     );
 
     return (
-        <div className="p-6 space-y-8 bg-white min-h-screen mb-10 pb-20">
+        <div className="p-6 space-y-8 bg-white min-h-screen ">
             {/* Header Section */}
             <div>
                 <h1 className="text-xl font-bold text-gray-900 mb-1">Edit Your Profile</h1>
@@ -314,6 +314,10 @@ export default function EditorSidebar({
                     className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900"
                     placeholder="City, Country"
                 />
+            </section>
+
+            <section className="h-8">
+
             </section>
         </div>
     );

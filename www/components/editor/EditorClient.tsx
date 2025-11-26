@@ -41,7 +41,36 @@ export default function EditorClient({ initialData, username }: EditorClientProp
 
     const [isFetching, setIsFetching] = useState(false);
     const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+    const [user, setUser] = useState<any>(null);
     const supabase = createClient();
+
+    // Restore state and fetch user on mount
+    React.useEffect(() => {
+        // Restore state
+        const savedData = localStorage.getItem('editor_backup_data');
+        const savedTheme = localStorage.getItem('editor_backup_theme');
+
+        if (savedData) {
+            try {
+                setData(JSON.parse(savedData));
+                localStorage.removeItem('editor_backup_data');
+            } catch (e) {
+                console.error('Failed to parse saved data', e);
+            }
+        }
+
+        if (savedTheme) {
+            setActiveTheme(savedTheme);
+            localStorage.removeItem('editor_backup_theme');
+        }
+
+        // Fetch user
+        const getUser = async () => {
+            const { data: { user } } = await supabase.auth.getUser();
+            setUser(user);
+        };
+        getUser();
+    }, []);
 
     const handleSocialFetch = async (provider: string, url: string) => {
         const username = extractUsername(url, provider);
@@ -88,6 +117,8 @@ export default function EditorClient({ initialData, username }: EditorClientProp
             <AuthModal
                 isOpen={isAuthModalOpen}
                 onClose={() => setIsAuthModalOpen(false)}
+                currentData={data}
+                currentTheme={activeTheme}
             />
             {/* Left Sidebar - Customization Controls */}
             <AnimatePresence>
@@ -125,6 +156,7 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                     isFullScreen={isFullScreen}
                     onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
                     onPublish={handlePublish}
+                    user={user}
                 />
             </motion.div>
 

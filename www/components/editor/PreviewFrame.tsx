@@ -7,6 +7,8 @@ import DefaultTheme from '@/themes/default/components/DefaultTheme';
 import Image from 'next/image';
 import { Monitor, Smartphone, Maximize, Minimize, Rocket } from 'lucide-react';
 import { ProfileData } from "@/types/types";
+import { motion } from 'framer-motion';
+import UserMenu from '@/components/auth/UserMenu';
 
 interface PreviewFrameProps {
     username: string;
@@ -15,6 +17,7 @@ interface PreviewFrameProps {
     isFullScreen: boolean;
     onToggleFullScreen: () => void;
     onPublish?: () => void;
+    user?: any;
 }
 
 type ViewMode = 'desktop' | 'mobile';
@@ -72,9 +75,7 @@ const ResponsiveIframe = ({
     );
 };
 
-import { motion } from 'framer-motion';
-
-export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish }: PreviewFrameProps) {
+export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish, user }: PreviewFrameProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
     // Render the selected theme component directly
@@ -103,6 +104,13 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                 </div>
 
                 <div className="flex items-center gap-4">
+                    {/* User Profile */}
+                    {user && (
+                        <div className="mr-2">
+                            <UserMenu user={user} />
+                        </div>
+                    )}
+
                     {/* View Mode Switcher */}
                     <div className="flex items-center bg-gray-100 rounded-lg p-1">
                         <button

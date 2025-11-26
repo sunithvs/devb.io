@@ -9,19 +9,32 @@ import { motion, AnimatePresence } from 'framer-motion';
 interface AuthModalProps {
     isOpen: boolean;
     onClose: () => void;
+    currentData?: any;
+    currentTheme?: string;
 }
 
-export default function AuthModal({ isOpen, onClose }: AuthModalProps) {
+export default function AuthModal({ isOpen, onClose, currentData, currentTheme }: AuthModalProps) {
     const [isLoading, setIsLoading] = useState(false);
     const supabase = createClient();
 
     const handleGitHubLogin = async () => {
         setIsLoading(true);
         try {
+            // Save state before redirecting
+            if (currentData) {
+                localStorage.setItem('editor_backup_data', JSON.stringify(currentData));
+            }
+            if (currentTheme) {
+                localStorage.setItem('editor_backup_theme', currentTheme);
+            }
+
+            // Save current URL to redirect back to
+            const returnUrl = window.location.href;
+
             const { error } = await supabase.auth.signInWithOAuth({
                 provider: 'github',
                 options: {
-                    redirectTo: `${window.location.origin}/auth/callback`,
+                    redirectTo: `${window.location.origin}/auth/callback?next=${encodeURIComponent(window.location.pathname)}`,
                 },
             });
 

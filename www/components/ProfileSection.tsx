@@ -11,7 +11,7 @@ import {
   TooltipContent,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import { SupportModal } from "@/components/modal/support-modal";
+// import { SupportModal } from "@/components/modal/support-modal";
 import { UserProfileBanner } from "@/components/UserProfileBanner";
 import { useEffect } from 'react';
 
@@ -208,7 +208,7 @@ export function ProfileSection({
           )}
         </div>
       </div>
-      <SupportModal user={user} />
+      {/*<SupportModal user={user} />*/}
     </>
   );
 }

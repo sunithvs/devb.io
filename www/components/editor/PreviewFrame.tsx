@@ -2,13 +2,13 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
-import MinimalResumeTheme from '@/themes/minimal-resume/components/MinimalResumeTheme';
-import DefaultTheme from '@/themes/default/components/DefaultTheme';
+import { getTheme } from '@/themes/registry';
 import Image from 'next/image';
 import { Monitor, Smartphone, Maximize, Minimize, Rocket } from 'lucide-react';
 import { ProfileData } from "@/types/types";
 import { motion } from 'framer-motion';
 import UserMenu from '@/components/auth/UserMenu';
+import MadeWithBadge from '@/components/ui/MadeWithBadge';
 
 interface PreviewFrameProps {
     username: string;
@@ -17,6 +17,7 @@ interface PreviewFrameProps {
     isFullScreen: boolean;
     onToggleFullScreen: () => void;
     onPublish?: () => void;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     user?: any;
 }
 
@@ -80,13 +81,8 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
     // Render the selected theme component directly
     const renderTheme = () => {
-        switch (themeId) {
-            case 'minimal-resume':
-                return <MinimalResumeTheme data={data} username={username} />;
-            case 'default':
-            default:
-                return <DefaultTheme data={data} username={username} />;
-        }
+        const ThemeComponent = getTheme(themeId);
+        return <ThemeComponent data={data} username={username} />;
     };
 
     return (
@@ -181,11 +177,13 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                         >
                             <div className="pt-4 px-4 min-h-full">
                                 {renderTheme()}
+                                <MadeWithBadge />
                             </div>
                         </ResponsiveIframe>
                     ) : (
-                        <div className="h-full w-full overflow-y-auto scrollbar-hide">
+                        <div className="h-full w-full overflow-y-auto scrollbar-hide relative">
                             {renderTheme()}
+                            <MadeWithBadge />
                         </div>
                     )}
                 </motion.div>

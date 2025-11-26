@@ -67,7 +67,7 @@ export default function EditorSidebar({
     );
 
     return (
-        <div className="p-6 space-y-8 bg-white min-h-screen">
+        <div className="p-6 space-y-8 bg-white min-h-screen mb-10 pb-20">
             {/* Header Section */}
             <div>
                 <h1 className="text-xl font-bold text-gray-900 mb-1">Edit Your Profile</h1>

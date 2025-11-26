@@ -12,6 +12,7 @@ interface EditorClientProps {
 }
 
 import { Eye, Pencil } from 'lucide-react';
+import { AnimatePresence, motion } from 'framer-motion';
 
 // ... (imports remain same)
 
@@ -65,23 +66,36 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     };
 
     return (
-        <div className="flex w-full h-full relative">
+        <div className="flex w-full h-full relative overflow-hidden">
             {/* Left Sidebar - Customization Controls */}
-            {!isFullScreen && (
-                <div className={`w-full md:w-[400px] border-r border-gray-200 bg-white flex flex-col overflow-y-auto transition-all duration-300 ${mobileTab === 'preview' ? 'hidden md:flex' : 'flex'}`}>
-                    <EditorSidebar
-                        data={data}
-                        activeTheme={activeTheme}
-                        onThemeChange={handleThemeChange}
-                        onDataUpdate={handleDataUpdate}
-                        onSocialFetch={handleSocialFetch}
-                        isFetching={isFetching}
-                    />
-                </div>
-            )}
+            <AnimatePresence>
+                {!isFullScreen && (mobileTab === 'editor') && (
+                    <motion.div
+                        initial={{ width: 0, opacity: 0 }}
+                        animate={{ width: 400, opacity: 1 }}
+                        exit={{ width: 0, opacity: 0 }}
+                        transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                        className="border-r border-gray-200 bg-white flex flex-col overflow-hidden z-10 shrink-0 h-full absolute md:relative"
+                    >
+                        <div className="w-[400px] h-full overflow-y-auto">
+                            <EditorSidebar
+                                data={data}
+                                activeTheme={activeTheme}
+                                onThemeChange={handleThemeChange}
+                                onDataUpdate={handleDataUpdate}
+                                onSocialFetch={handleSocialFetch}
+                                isFetching={isFetching}
+                            />
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
 
             {/* Right Panel - Live Preview */}
-            <div className={`flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300 ${mobileTab === 'editor' ? 'hidden md:flex' : 'flex'}`}>
+            <motion.div
+                layout
+                className={`flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300 ${mobileTab === 'editor' ? 'hidden md:flex' : 'flex'}`}
+            >
                 <PreviewFrame
                     username={username}
                     themeId={activeTheme}
@@ -90,7 +104,7 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                     onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
                     onPublish={() => console.log('Publish clicked')}
                 />
-            </div>
+            </motion.div>
 
             {/* Mobile Toggle Button (Floating) */}
             <div className="md:hidden fixed bottom-6 right-6 z-50">

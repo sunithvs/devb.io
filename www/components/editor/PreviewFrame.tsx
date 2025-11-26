@@ -72,6 +72,10 @@ const ResponsiveIframe = ({
     );
 };
 
+import { motion } from 'framer-motion';
+
+// ... (previous code)
+
 export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish }: PreviewFrameProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
@@ -88,7 +92,9 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
     return (
         <div className="w-full h-full flex flex-col">
+            {/* Header code remains same */}
             <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shrink-0">
+                {/* ... header content ... */}
                 <div className="flex items-center gap-2">
                     <Image
                         src="/images/logo-full.png"
@@ -144,13 +150,22 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
             </div>
 
             {/* Preview Container with Independent Scroll */}
-            {/* Preview Container with Independent Scroll */}
             <div className="flex-1 relative overflow-auto bg-gray-100 p-8 flex items-center justify-center">
-                <div className={`transition-all duration-500 ease-in-out shadow-2xl bg-white border border-gray-200 overflow-hidden relative ${viewMode === 'mobile'
-                    ? 'w-[375px] h-[667px] rounded-[3rem]'
-                    : 'w-full h-full rounded-none'
-                    }`}>
-
+                <motion.div
+                    layout
+                    initial={false}
+                    animate={{
+                        width: viewMode === 'mobile' ? 375 : '100%',
+                        height: viewMode === 'mobile' ? 667 : '100%',
+                        borderRadius: viewMode === 'mobile' ? 48 : 0,
+                    }}
+                    transition={{
+                        type: "spring",
+                        stiffness: 200,
+                        damping: 25
+                    }}
+                    className={`bg-white border border-gray-200 overflow-hidden relative shadow-2xl`}
+                >
                     {viewMode === 'mobile' ? (
                         <ResponsiveIframe
                             title="Mobile Preview"
@@ -165,7 +180,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                             {renderTheme()}
                         </div>
                     )}
-                </div>
+                </motion.div>
             </div>
         </div>
     );

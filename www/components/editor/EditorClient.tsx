@@ -13,8 +13,8 @@ interface EditorClientProps {
 
 import { Eye, Pencil } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
-
-// ... (imports remain same)
+import AuthModal from '@/components/auth/AuthModal';
+import { createClient } from '@/lib/supabase/client';
 
 export default function EditorClient({ initialData, username }: EditorClientProps) {
     const [data, setData] = useState<ProfileData>(initialData);
@@ -40,6 +40,8 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     };
 
     const [isFetching, setIsFetching] = useState(false);
+    const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+    const supabase = createClient();
 
     const handleSocialFetch = async (provider: string, url: string) => {
         const username = extractUsername(url, provider);
@@ -65,8 +67,28 @@ export default function EditorClient({ initialData, username }: EditorClientProp
         }
     };
 
+    const handlePublish = async () => {
+        console.log('handlePublish called');
+        const { data: { session } } = await supabase.auth.getSession();
+        console.log('Session status:', !!session);
+
+        if (!session) {
+            console.log('No session, opening modal');
+            setIsAuthModalOpen(true);
+            return;
+        }
+
+        // Proceed with publish logic
+        console.log('Publishing data:', data);
+        // TODO: Implement actual publish call
+    };
+
     return (
         <div className="flex w-full h-full relative overflow-hidden">
+            <AuthModal
+                isOpen={isAuthModalOpen}
+                onClose={() => setIsAuthModalOpen(false)}
+            />
             {/* Left Sidebar - Customization Controls */}
             <AnimatePresence>
                 {!isFullScreen && (mobileTab === 'editor') && (
@@ -102,7 +124,7 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                     data={data}
                     isFullScreen={isFullScreen}
                     onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
-                    onPublish={() => console.log('Publish clicked')}
+                    onPublish={handlePublish}
                 />
             </motion.div>
 

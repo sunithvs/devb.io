@@ -74,8 +74,6 @@ const ResponsiveIframe = ({
 
 import { motion } from 'framer-motion';
 
-// ... (previous code)
-
 export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish }: PreviewFrameProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
@@ -92,9 +90,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
     return (
         <div className="w-full h-full flex flex-col">
-            {/* Header code remains same */}
             <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shrink-0">
-                {/* ... header content ... */}
                 <div className="flex items-center gap-2">
                     <Image
                         src="/images/logo-full.png"
@@ -140,7 +136,11 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                     </button>
 
                     <button
-                        onClick={onPublish}
+                        onClick={() => {
+                            console.log('Publish button clicked in PreviewFrame');
+                            if (onPublish) onPublish();
+                            else console.log('onPublish prop is missing');
+                        }}
                         className="flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5"
                     >
                         <Rocket size={16} />

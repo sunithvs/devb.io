@@ -5,7 +5,7 @@ import { createPortal } from 'react-dom';
 import MinimalResumeTheme from '@/themes/minimal-resume/components/MinimalResumeTheme';
 import DefaultTheme from '@/themes/default/components/DefaultTheme';
 import Image from 'next/image';
-import { Monitor, Smartphone, Maximize, Minimize } from 'lucide-react';
+import { Monitor, Smartphone, Maximize, Minimize, Rocket } from 'lucide-react';
 import { ProfileData } from "@/types/types";
 
 interface PreviewFrameProps {
@@ -14,6 +14,7 @@ interface PreviewFrameProps {
     data: ProfileData;
     isFullScreen: boolean;
     onToggleFullScreen: () => void;
+    onPublish?: () => void;
 }
 
 type ViewMode = 'desktop' | 'mobile';
@@ -71,7 +72,7 @@ const ResponsiveIframe = ({
     );
 };
 
-export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen }: PreviewFrameProps) {
+export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish }: PreviewFrameProps) {
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
     // Render the selected theme component directly
@@ -131,6 +132,14 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                     >
                         {isFullScreen ? <Minimize size={20} /> : <Maximize size={20} />}
                     </button>
+
+                    <button
+                        onClick={onPublish}
+                        className="flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5"
+                    >
+                        <Rocket size={16} />
+                        <span>Publish</span>
+                    </button>
                 </div>
             </div>
 
@@ -142,15 +151,12 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                     : 'w-full h-full rounded-none'
                     }`}>
 
-                    {/* Mobile Notch (only visible in mobile view) */}
-                    <div className={`absolute top-0 left-1/2 -translate-x-1/2 h-7 w-32 bg-black rounded-b-2xl z-50 transition-opacity duration-300 ${viewMode === 'mobile' ? 'opacity-100' : 'opacity-0'}`}></div>
-
                     {viewMode === 'mobile' ? (
                         <ResponsiveIframe
                             title="Mobile Preview"
                             className="w-full h-full border-0"
                         >
-                            <div className="pt-14 px-4 min-h-full">
+                            <div className="pt-4 px-4 min-h-full">
                                 {renderTheme()}
                             </div>
                         </ResponsiveIframe>

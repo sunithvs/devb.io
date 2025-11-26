@@ -315,13 +315,6 @@ export default function EditorSidebar({
                     placeholder="City, Country"
                 />
             </section>
-
-            {/* Create Website Button */}
-            <div className="pt-4">
-                <button className="w-full bg-black text-white font-medium py-3 rounded-lg hover:bg-gray-900 transition-colors shadow-lg shadow-black/5">
-                    Create Website
-                </button>
-            </div>
         </div>
     );
 }

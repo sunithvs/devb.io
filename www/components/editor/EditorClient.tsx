@@ -11,12 +11,15 @@ interface EditorClientProps {
     username: string;
 }
 
+import { Eye, Pencil } from 'lucide-react';
+
+// ... (imports remain same)
+
 export default function EditorClient({ initialData, username }: EditorClientProps) {
     const [data, setData] = useState<ProfileData>(initialData);
     const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
-    // const [isDirty, setIsDirty] = useState(false); // TODO: Implement save functionality
-
     const [isFullScreen, setIsFullScreen] = useState(false);
+    const [mobileTab, setMobileTab] = useState<'editor' | 'preview'>('editor');
 
     // Handle theme change
     const handleThemeChange = (themeId: string) => {
@@ -28,13 +31,11 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                 theme_id: themeId
             }
         }));
-        // setIsDirty(true);
     };
 
     // Handle data updates from sidebar
     const handleDataUpdate = (newData: Partial<ProfileData>) => {
         setData(prev => ({ ...prev, ...newData }));
-        // setIsDirty(true);
     };
 
     const [isFetching, setIsFetching] = useState(false);
@@ -64,10 +65,10 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     };
 
     return (
-        <div className="flex w-full h-full">
+        <div className="flex w-full h-full relative">
             {/* Left Sidebar - Customization Controls */}
             {!isFullScreen && (
-                <div className="w-[400px] border-r border-gray-200 bg-white flex flex-col overflow-y-auto transition-all duration-300">
+                <div className={`w-full md:w-[400px] border-r border-gray-200 bg-white flex flex-col overflow-y-auto transition-all duration-300 ${mobileTab === 'preview' ? 'hidden md:flex' : 'flex'}`}>
                     <EditorSidebar
                         data={data}
                         activeTheme={activeTheme}
@@ -80,14 +81,25 @@ export default function EditorClient({ initialData, username }: EditorClientProp
             )}
 
             {/* Right Panel - Live Preview */}
-            <div className="flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300">
+            <div className={`flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300 ${mobileTab === 'editor' ? 'hidden md:flex' : 'flex'}`}>
                 <PreviewFrame
                     username={username}
                     themeId={activeTheme}
                     data={data}
                     isFullScreen={isFullScreen}
                     onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
+                    onPublish={() => console.log('Publish clicked')}
                 />
+            </div>
+
+            {/* Mobile Toggle Button (Floating) */}
+            <div className="md:hidden fixed bottom-6 right-6 z-50">
+                <button
+                    onClick={() => setMobileTab(mobileTab === 'editor' ? 'preview' : 'editor')}
+                    className="bg-black text-white p-4 rounded-full shadow-xl hover:bg-gray-900 transition-all active:scale-95"
+                >
+                    {mobileTab === 'editor' ? <Eye size={24} /> : <Pencil size={24} />}
+                </button>
             </div>
         </div>
     );

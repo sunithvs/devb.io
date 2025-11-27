@@ -87,7 +87,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
 
     return (
         <div className="w-full h-full flex flex-col">
-            <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shrink-0">
+            <div className="hidden md:flex bg-white border-b border-gray-200 px-6 py-3 items-center justify-between shrink-0">
                 <div className="flex items-center gap-2">
                     <Image
                         src="/images/logo-full.png"
@@ -108,7 +108,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                     )}
 
                     {/* View Mode Switcher */}
-                    <div className="flex items-center bg-gray-100 rounded-lg p-1">
+                    <div className="hidden md:flex items-center bg-gray-100 rounded-lg p-1">
                         <button
                             onClick={() => setViewMode('desktop')}
                             className={`flex items-center gap-2 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${viewMode === 'desktop'
@@ -145,7 +145,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                             if (onPublish) onPublish();
                             else console.log('onPublish prop is missing');
                         }}
-                        className="flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5"
+                        className="hidden md:flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5"
                     >
                         <Rocket size={16} />
                         <span>Publish</span>
@@ -154,7 +154,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
             </div>
 
             {/* Preview Container with Independent Scroll */}
-            <div className="flex-1 relative overflow-auto bg-gray-100 p-8 flex items-center justify-center">
+            <div className="flex-1 relative overflow-auto bg-gray-100 p-0 md:p-8 flex items-center justify-center">
                 <motion.div
                     layout
                     initial={false}

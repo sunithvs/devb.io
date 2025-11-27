@@ -21,6 +21,17 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
     const [isFullScreen, setIsFullScreen] = useState(false);
     const [mobileTab, setMobileTab] = useState<'editor' | 'preview'>('editor');
+    const [isMobile, setIsMobile] = useState(false);
+
+    // Handle window resize to detect mobile
+    React.useEffect(() => {
+        const checkMobile = () => {
+            setIsMobile(window.innerWidth < 768);
+        };
+        checkMobile();
+        window.addEventListener('resize', checkMobile);
+        return () => window.removeEventListener('resize', checkMobile);
+    }, []);
 
     // Handle theme change
     const handleThemeChange = (themeId: string) => {
@@ -121,16 +132,17 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                 currentTheme={activeTheme}
             />
             {/* Left Sidebar - Customization Controls */}
-            <AnimatePresence>
-                {!isFullScreen && (mobileTab === 'editor') && (
+            <AnimatePresence mode="wait">
+                {(!isMobile || mobileTab === 'editor') && !isFullScreen && (
                     <motion.div
-                        initial={{ width: 0, opacity: 0 }}
-                        animate={{ width: 400, opacity: 1 }}
-                        exit={{ width: 0, opacity: 0 }}
-                        transition={{ type: "spring", stiffness: 300, damping: 30 }}
-                        className="border-r border-gray-200 bg-white flex flex-col overflow-hidden z-10 shrink-0 h-full absolute md:relative"
+                        key="sidebar"
+                        initial={{ opacity: 0, x: -20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        exit={{ opacity: 0, x: -20 }}
+                        transition={{ duration: 0.2 }}
+                        className="border-r border-gray-200 bg-white flex flex-col overflow-hidden z-10 shrink-0 h-full w-full md:w-[400px] absolute md:relative pb-20 md:pb-0"
                     >
-                        <div className="w-[400px] h-full overflow-y-auto">
+                        <div className="w-full h-full overflow-y-auto">
                             <EditorSidebar
                                 data={data}
                                 activeTheme={activeTheme}
@@ -145,30 +157,56 @@ export default function EditorClient({ initialData, username }: EditorClientProp
             </AnimatePresence>
 
             {/* Right Panel - Live Preview */}
-            <motion.div
-                layout
-                className={`flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden transition-all duration-300 ${mobileTab === 'editor' ? 'hidden md:flex' : 'flex'}`}
-            >
-                <PreviewFrame
-                    username={username}
-                    themeId={activeTheme}
-                    data={data}
-                    isFullScreen={isFullScreen}
-                    onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
-                    onPublish={handlePublish}
-                    user={user}
-                />
-            </motion.div>
+            <AnimatePresence mode="wait">
+                {(!isMobile || mobileTab === 'preview') && (
+                    <motion.div
+                        key="preview"
+                        initial={{ opacity: 0, x: 20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        exit={{ opacity: 0, x: 20 }}
+                        transition={{ duration: 0.2 }}
+                        className={`flex-1 bg-gray-100 flex flex-col items-center justify-center overflow-hidden w-full h-full absolute md:relative pb-20 md:pb-0`}
+                    >
+                        <PreviewFrame
+                            username={username}
+                            themeId={activeTheme}
+                            data={data}
+                            isFullScreen={isFullScreen}
+                            onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
+                            onPublish={handlePublish}
+                            user={user}
+                        />
+                    </motion.div>
+                )}
+            </AnimatePresence>
 
-            {/* Mobile Toggle Button (Floating) */}
-            <div className="md:hidden fixed bottom-6 right-6 z-50">
+            {/* Mobile Bottom Bar */}
+            <div className="md:hidden fixed bottom-0 left-0 right-0 bg-white/80 backdrop-blur-xl border-t border-gray-200/50 p-4 z-50 flex items-center gap-3 shadow-[0_-4px_6px_-1px_rgba(0,0,0,0.1)]">
                 <button
                     onClick={() => setMobileTab(mobileTab === 'editor' ? 'preview' : 'editor')}
-                    className="bg-black text-white p-4 rounded-full shadow-xl hover:bg-gray-900 transition-all active:scale-95"
+                    className="flex-1 py-3 px-4 rounded-lg bg-gray-100 text-gray-900 font-medium text-sm hover:bg-gray-200 transition-colors flex items-center justify-center gap-2"
                 >
-                    {mobileTab === 'editor' ? <Eye size={24} /> : <Pencil size={24} />}
+                    {mobileTab === 'editor' ? (
+                        <>
+                            <Eye size={18} />
+                            Preview
+                        </>
+                    ) : (
+                        <>
+                            <Pencil size={18} />
+                            Edit
+                        </>
+                    )}
+                </button>
+                <button
+                    onClick={handlePublish}
+                    className="flex-1 py-3 px-4 rounded-lg bg-[#a3e635] text-black font-bold text-sm hover:bg-[#8cd321] transition-colors shadow-sm"
+                >
+                    Save Changes
                 </button>
             </div>
+
+
         </div>
     );
 }

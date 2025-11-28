@@ -1,27 +1,20 @@
-
 import { getCompleteProfileData, getLinkedInUsername, getMediumUsername } from '@/lib/data-adapter';
 import { getUserLinkedInProfile, getUserMediumBlogs } from '@/lib/api';
 import EditorClient from '@/components/editor/EditorClient';
-import { createClient } from '@/lib/supabase/server';
-import { redirect } from 'next/navigation';
 
-export default async function EditorPage() {
-    const supabase = await createClient();
-    const { data: { user } } = await supabase.auth.getUser();
+interface EditorPageProps {
+    params: {
+        username: string;
+    };
+}
 
-    if (!user) {
-        redirect('/');
-    }
-
-    // For now, we assume the username is stored in user metadata or we fetch it from a profile table
-    // Since we don't have a robust profile table yet, we might need to rely on metadata or a placeholder
-    // TODO: Fetch actual username from DB. For now, using a placeholder or metadata if available.
-    const username = user.user_metadata?.user_name || 'sunithvs'; // Fallback for dev
+export default async function EditorPage({ params }: EditorPageProps) {
+    const { username } = params;
 
     const baseProfileData = await getCompleteProfileData(username);
 
     if (!baseProfileData) {
-        return <div>Error loading profile data</div>;
+        return <div>Profile not found</div>;
     }
 
     const linkedInUsername = getLinkedInUsername(baseProfileData.profile);
@@ -42,7 +35,6 @@ export default async function EditorPage() {
         <EditorClient
             initialData={profileData}
             username={username}
-            isOwner={true}
         />
     );
 }

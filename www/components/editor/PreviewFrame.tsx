@@ -154,7 +154,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
             </div>
 
             {/* Preview Container with Independent Scroll */}
-            <div className="flex-1 relative overflow-auto bg-gray-100 p-0 md:p-8 flex items-center justify-center">
+            <div className="flex-1 relative overflow-auto bg-gray-100 p-0 md:p-4 flex items-center justify-center">
                 <motion.div
                     layout
                     initial={false}

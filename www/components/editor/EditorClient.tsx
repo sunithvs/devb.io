@@ -9,14 +9,17 @@ import { getUserLinkedInProfile, getUserMediumBlogs, extractUsername } from "@/l
 interface EditorClientProps {
     initialData: ProfileData;
     username: string;
+    isOwner?: boolean;
 }
 
-import { Eye, Pencil } from 'lucide-react';
+import { Eye, Pencil, AlertTriangle, LogOut, User } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
 import AuthModal from '@/components/auth/AuthModal';
 import { createClient } from '@/lib/supabase/client';
+import * as Dialog from '@radix-ui/react-dialog';
+import { useRouter } from 'next/navigation';
 
-export default function EditorClient({ initialData, username }: EditorClientProps) {
+export default function EditorClient({ initialData, username, isOwner = false }: EditorClientProps) {
     const [data, setData] = useState<ProfileData>(initialData);
     const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
     const [isFullScreen, setIsFullScreen] = useState(false);
@@ -56,6 +59,11 @@ export default function EditorClient({ initialData, username }: EditorClientProp
     const supabase = createClient();
 
     // Restore state and fetch user on mount
+    const [isConflictModalOpen, setIsConflictModalOpen] = useState(false);
+    const [conflictUser, setConflictUser] = useState<string | null>(null);
+    const router = useRouter();
+
+    // Restore state and fetch user on mount
     React.useEffect(() => {
         // Restore state
         const savedData = localStorage.getItem('editor_backup_data');
@@ -79,9 +87,21 @@ export default function EditorClient({ initialData, username }: EditorClientProp
         const getUser = async () => {
             const { data: { user } } = await supabase.auth.getUser();
             setUser(user);
+
+            // Check for conflict: Logged in but viewing someone else's profile
+            if (user && !isOwner) {
+                // Assuming we can get the username from metadata or we compare IDs
+                // For now, just checking if a user exists and we are not the owner is enough to warn
+                // But ideally we check if user.username !== username
+                const loggedInUsername = user.user_metadata?.user_name;
+                if (loggedInUsername && loggedInUsername !== username) {
+                    setConflictUser(loggedInUsername);
+                    setIsConflictModalOpen(true);
+                }
+            }
         };
         getUser();
-    }, []);
+    }, [isOwner, username]);
 
     const handleSocialFetch = async (provider: string, url: string) => {
         const username = extractUsername(url, provider);
@@ -131,6 +151,76 @@ export default function EditorClient({ initialData, username }: EditorClientProp
                 currentData={data}
                 currentTheme={activeTheme}
             />
+
+            {/* Conflict Modal */}
+            <Dialog.Root open={isConflictModalOpen} onOpenChange={setIsConflictModalOpen}>
+                <AnimatePresence>
+                    {isConflictModalOpen && (
+                        <Dialog.Portal forceMount>
+                            <Dialog.Overlay asChild>
+                                <motion.div
+                                    initial={{ opacity: 0 }}
+                                    animate={{ opacity: 1 }}
+                                    exit={{ opacity: 0 }}
+                                    className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50"
+                                />
+                            </Dialog.Overlay>
+                            <Dialog.Content asChild>
+                                <motion.div
+                                    initial={{ opacity: 0, scale: 0.95, y: 20 }}
+                                    animate={{ opacity: 1, scale: 1, y: 0 }}
+                                    exit={{ opacity: 0, scale: 0.95, y: 20 }}
+                                    transition={{ type: "spring", duration: 0.5 }}
+                                    className="fixed left-[50%] top-[50%] z-50 w-full max-w-md translate-x-[-50%] translate-y-[-50%] bg-white p-6 shadow-xl rounded-2xl focus:outline-none"
+                                >
+                                    <div className="flex flex-col items-center text-center space-y-4">
+                                        <div className="h-12 w-12 bg-yellow-100 rounded-full flex items-center justify-center text-yellow-600">
+                                            <AlertTriangle className="h-6 w-6" />
+                                        </div>
+
+                                        <div className="space-y-2">
+                                            <Dialog.Title className="text-xl font-bold text-gray-900">
+                                                You are editing {username}
+                                            </Dialog.Title>
+                                            <Dialog.Description className="text-sm text-gray-500">
+                                                You are currently logged in as <span className="font-semibold text-gray-900">{conflictUser}</span>.
+                                                Edits made here will not be saved to your profile.
+                                            </Dialog.Description>
+                                        </div>
+
+                                        <div className="flex flex-col gap-3 w-full pt-2">
+                                            <button
+                                                onClick={() => router.push('/editor')}
+                                                className="w-full flex items-center justify-center gap-2 bg-black text-white px-4 py-3 rounded-xl font-medium hover:bg-gray-800 transition-colors"
+                                            >
+                                                <User className="h-4 w-4" />
+                                                <span>Go to My Profile</span>
+                                            </button>
+                                            <button
+                                                onClick={async () => {
+                                                    await supabase.auth.signOut();
+                                                    setIsConflictModalOpen(false);
+                                                    window.location.reload();
+                                                }}
+                                                className="w-full flex items-center justify-center gap-2 bg-white border border-gray-200 text-gray-700 px-4 py-3 rounded-xl font-medium hover:bg-gray-50 transition-colors"
+                                            >
+                                                <LogOut className="h-4 w-4" />
+                                                <span>Logout & Continue Here</span>
+                                            </button>
+                                            <button
+                                                onClick={() => setIsConflictModalOpen(false)}
+                                                className="text-xs text-gray-400 hover:text-gray-600 transition-colors"
+                                            >
+                                                Stay here (edits won't save to your profile)
+                                            </button>
+                                        </div>
+                                    </div>
+                                </motion.div>
+                            </Dialog.Content>
+                        </Dialog.Portal>
+                    )}
+                </AnimatePresence>
+            </Dialog.Root>
             {/* Left Sidebar - Customization Controls */}
             <AnimatePresence mode="wait">
                 {(!isMobile || mobileTab === 'editor') && !isFullScreen && (

@@ -190,9 +190,9 @@ export function ProfileSection({
                 {user.achievements?.total_contributions} Contributions
               </h2>
               <div className="overflow-hidden">
-                <div className="relative w-full" style={{ height: "100px" }}>
+                <div className="relative w-full flex justify-center items-center" style={{ height: "100px" }}>
                   <Image
-                    className="absolute top-[32%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-[1]"
+                              className="absolute top-[25%]  left-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-[1] "
                     src={`https://ghchart.rshah.org/5F8417/${user.username}`}
                     alt={`${user.name}'s GitHub contributions`}
                     width={800}

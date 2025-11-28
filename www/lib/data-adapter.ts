@@ -1,10 +1,12 @@
-import {ProfileData} from "@/types/types";
+import { ProfileData } from "@/types/types";
 
 import {
     getUserProfile,
     getUserProjects,
 } from './api';
-import type { Profile, SocialAccount } from '@/types/types';
+import type { Profile, SocialAccount, UserProject } from '@/types/types';
+import { createClient } from '@/lib/supabase/server';
+
 
 /**
  * Data Adapter
@@ -17,9 +19,125 @@ import type { Profile, SocialAccount } from '@/types/types';
  * Only fetches FAST data (profile, projects)
  * Slow data (LinkedIn, Medium) should be fetched by theme pages with Suspense
  */
+/**
+ * Fetch profile data from Supabase Database
+ */
+async function fetchProfileFromDB(username: string): Promise<ProfileData | null> {
+    console.time(`[DataAdapter] DB Fetch ${username}`);
+    const supabase = await createClient();
+
+    // 1. Fetch User
+    const { data: user, error: userError } = await supabase
+        .from('users')
+        .select('*')
+        .eq('username', username)
+        .single();
+
+    if (userError || !user) return null;
+
+    // 2. Fetch related data
+    const [
+        { data: projects },
+        { data: socialLinks },
+        { data: settings }
+    ] = await Promise.all([
+        supabase.from('projects').select('*').eq('user_id', user.id),
+        supabase.from('social_links').select('*').eq('user_id', user.id),
+        supabase.from('settings').select('*').eq('user_id', user.id).single()
+    ]);
+
+    // 3. Map to ProfileData
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const profile: Profile = {
+        username: user.username,
+        name: user.full_name,
+        bio: user.bio,
+        location: user.location,
+        avatar_url: user.avatar_url,
+        profile_url: user.website,
+        about: user.about_summary,
+        followers: 0, // Not in DB
+        following: 0, // Not in DB
+        public_repos: 0, // Not in DB
+        pull_requests_merged: 0, // Not in DB
+        issues_closed: 0, // Not in DB
+        achievements: { total_contributions: 0, repositories_contributed_to: 0 }, // Not in DB
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        social_accounts: socialLinks?.map((link: any) => ({
+            provider: link.platform,
+            url: link.url,
+            display_name: link.username
+        })) || [],
+        readme_content: '', // Not in DB
+        cached: true
+    };
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const userProjects: UserProject = {
+        top_projects: projects?.map((p: any) => ({
+            name: p.name,
+            description: p.description,
+            url: p.url,
+            stars: p.stars,
+            forks: p.forks,
+            languages: p.languages || [],
+            platform: p.platform || 'github',
+            updated_at: p.updated_at,
+            score: 0,
+            is_pinned: false,
+            preview_url: null
+        })) || [],
+        top_languages: [] // Not in DB
+    };
+
+    const result: ProfileData = {
+        claimed: true,
+        user_id: user.id,
+        profile,
+        projects: userProjects,
+        linkedin: null,
+        blogs: null,
+        customizations: settings ? {
+            theme_id: settings.theme,
+            section_visibility: settings.section_visibility
+        } : {
+            theme_id: 'minimal-resume',
+            section_visibility: {
+                about: true,
+                projects: true,
+                experience: true,
+                education: true,
+                skills: true,
+                blogs: true,
+            },
+        }
+    };
+    console.timeEnd(`[DataAdapter] DB Fetch ${username}`);
+    return result;
+}
+
+/**
+ * Fetch and transform profile data for themes
+ * Only fetches FAST data (profile, projects)
+ * Slow data (LinkedIn, Medium) should be fetched by theme pages with Suspense
+ */
 export async function getCompleteProfileData(username: string): Promise<ProfileData | null> {
     try {
-        // Fetch ONLY fast API calls
+        // 1. Try fetching from DB first
+        try {
+            const dbProfile = await fetchProfileFromDB(username);
+            if (dbProfile) {
+                return dbProfile;
+            }
+            console.log(`[DataAdapter] DB miss for ${username}, falling back to Edge Function`);
+        } catch (dbError) {
+            console.error(`[DataAdapter] DB fetch failed for ${username}:`, dbError);
+            // Fallthrough to Edge Function
+        }
+
+        console.time(`[DataAdapter] Edge Function Fetch ${username}`);
+
+        // 2. Fallback to Edge Function (existing logic)
         const profile = await getUserProfile(username);
         if (!profile) return null;
 
@@ -28,8 +146,8 @@ export async function getCompleteProfileData(username: string): Promise<ProfileD
         // Transform into ProfileData structure
         // LinkedIn and blogs are null - theme pages will fetch them with Suspense
         const profileData: ProfileData = {
-            claimed: true, // TODO: Fetch from database
-            user_id: undefined, // TODO: Fetch from database if claimed
+            claimed: false, // Not in DB
+            user_id: undefined,
             profile,
             projects: projects || { top_projects: [], top_languages: [] },
             linkedin: null, // Will be fetched by theme page with Suspense
@@ -47,6 +165,7 @@ export async function getCompleteProfileData(username: string): Promise<ProfileD
             },
         };
 
+        console.timeEnd(`[DataAdapter] Edge Function Fetch ${username}`);
         return profileData;
     } catch (error) {
         console.error(`Error fetching complete profile data for ${username}:`, error);

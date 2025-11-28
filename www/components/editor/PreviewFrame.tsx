@@ -168,19 +168,6 @@ export default function PreviewFrame({ username, onPublish, isPublishing = false
                         {isFullScreen ? <Minimize size={20} /> : <Maximize size={20} />}
                     </button>
 
-                    <div className="flex items-center gap-2 text-xs text-gray-400 font-medium ml-2 w-[80px]">
-                        {saveStatus === 'saving' ? (
-                            <>
-                                <div className="h-3 w-3 border-2 border-gray-300 border-t-gray-600 rounded-full animate-spin" />
-                                <span>Saving...</span>
-                            </>
-                        ) : saveStatus === 'saved' ? (
-                            <>
-                                <CheckCircle2 size={14} className="text-green-500" />
-                                <span>Saved</span>
-                            </>
-                        ) : null}
-                    </div>
                 </div>
 
                 {/* Right: Actions & Profile */}

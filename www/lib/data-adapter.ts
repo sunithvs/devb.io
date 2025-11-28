@@ -24,99 +24,102 @@ import { createClient } from '@/lib/supabase/server';
  */
 async function fetchProfileFromDB(username: string): Promise<ProfileData | null> {
     console.time(`[DataAdapter] DB Fetch ${username}`);
-    const supabase = await createClient();
+    try {
+        const supabase = await createClient();
 
-    // 1. Fetch User
-    const { data: user, error: userError } = await supabase
-        .from('users')
-        .select('*')
-        .eq('username', username)
-        .single();
+        // 1. Fetch User
+        const { data: user, error: userError } = await supabase
+            .from('users')
+            .select('*')
+            .eq('username', username)
+            .single();
 
-    if (userError || !user) return null;
+        if (userError || !user) return null;
 
-    // 2. Fetch related data
-    const [
-        { data: projects },
-        { data: socialLinks },
-        { data: settings }
-    ] = await Promise.all([
-        supabase.from('projects').select('*').eq('user_id', user.id),
-        supabase.from('social_links').select('*').eq('user_id', user.id),
-        supabase.from('settings').select('*').eq('user_id', user.id).single()
-    ]);
+        // 2. Fetch related data
+        const [
+            { data: projects },
+            { data: socialLinks },
+            { data: settings }
+        ] = await Promise.all([
+            supabase.from('projects').select('*').eq('user_id', user.id),
+            supabase.from('social_links').select('*').eq('user_id', user.id),
+            supabase.from('settings').select('*').eq('user_id', user.id).single()
+        ]);
 
-    // 3. Map to ProfileData
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const profile: Profile = {
-        username: user.username,
-        name: user.full_name,
-        bio: user.bio,
-        location: user.location,
-        avatar_url: user.avatar_url,
-        profile_url: user.website,
-        about: user.about_summary,
-        followers: 0, // Not in DB
-        following: 0, // Not in DB
-        public_repos: 0, // Not in DB
-        pull_requests_merged: user.pull_requests_merged || 0,
-        issues_closed: user.issues_closed || 0,
-        achievements: {
-            total_contributions: user.total_contributions || 0,
-            repositories_contributed_to: 0
-        },
+        // 3. Map to ProfileData
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        social_accounts: socialLinks?.map((link: any) => ({
-            provider: link.platform,
-            url: link.url,
-            display_name: link.username
-        })) || [],
-        readme_content: '', // Not in DB
-        cached: true
-    };
-
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const userProjects: UserProject = {
-        top_projects: projects?.map((p: any) => ({
-            name: p.name,
-            description: p.description,
-            url: p.url,
-            stars: p.stars,
-            forks: p.forks,
-            languages: p.languages || [],
-            platform: p.platform || 'github',
-            updated_at: p.updated_at,
-            score: 0,
-            is_pinned: false,
-            preview_url: null
-        })) || [],
-        top_languages: [] // Not in DB
-    };
-
-    const result: ProfileData = {
-        claimed: true,
-        user_id: user.id,
-        profile,
-        projects: userProjects,
-        linkedin: null,
-        blogs: null,
-        customizations: settings ? {
-            theme_id: settings.theme,
-            section_visibility: settings.section_visibility
-        } : {
-            theme_id: 'minimal-resume',
-            section_visibility: {
-                about: true,
-                projects: true,
-                experience: true,
-                education: true,
-                skills: true,
-                blogs: true,
+        const profile: Profile = {
+            username: user.username,
+            name: user.full_name,
+            bio: user.bio,
+            location: user.location,
+            avatar_url: user.avatar_url,
+            profile_url: user.website,
+            about: user.about_summary,
+            followers: 0, // Not in DB
+            following: 0, // Not in DB
+            public_repos: 0, // Not in DB
+            pull_requests_merged: user.pull_requests_merged || 0,
+            issues_closed: user.issues_closed || 0,
+            achievements: {
+                total_contributions: user.total_contributions || 0,
+                repositories_contributed_to: 0
             },
-        }
-    };
-    console.timeEnd(`[DataAdapter] DB Fetch ${username}`);
-    return result;
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            social_accounts: socialLinks?.map((link: any) => ({
+                provider: link.platform,
+                url: link.url,
+                display_name: link.username
+            })) || [],
+            readme_content: '', // Not in DB
+            cached: true
+        };
+
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const userProjects: UserProject = {
+            top_projects: projects?.map((p: any) => ({
+                name: p.name,
+                description: p.description,
+                url: p.url,
+                stars: p.stars,
+                forks: p.forks,
+                languages: p.languages || [],
+                platform: p.platform || 'github',
+                updated_at: p.updated_at,
+                score: 0,
+                is_pinned: false,
+                preview_url: null
+            })) || [],
+            top_languages: [] // Not in DB
+        };
+
+        const result: ProfileData = {
+            claimed: true,
+            user_id: user.id,
+            profile,
+            projects: userProjects,
+            linkedin: null,
+            blogs: null,
+            customizations: settings ? {
+                theme_id: settings.theme,
+                section_visibility: settings.section_visibility
+            } : {
+                theme_id: 'minimal-resume',
+                section_visibility: {
+                    about: true,
+                    projects: true,
+                    experience: true,
+                    education: true,
+                    skills: true,
+                    blogs: true,
+                },
+            }
+        };
+        return result;
+    } finally {
+        console.timeEnd(`[DataAdapter] DB Fetch ${username}`);
+    }
 }
 
 /**

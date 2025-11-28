@@ -5,11 +5,12 @@ import { createClient } from '@/lib/supabase/client';
 import { Github, Loader2 } from 'lucide-react';
 import * as Dialog from '@radix-ui/react-dialog';
 import { motion, AnimatePresence } from 'framer-motion';
+import { ProfileData } from "@/types/types";
 
 interface AuthModalProps {
     isOpen: boolean;
     onClose: () => void;
-    currentData?: any;
+    currentData?: ProfileData;
     currentTheme?: string;
 }
 
@@ -29,7 +30,7 @@ export default function AuthModal({ isOpen, onClose, currentData, currentTheme }
             }
 
             // Save current URL to redirect back to
-            const returnUrl = window.location.href;
+            // const returnUrl = window.location.href;
 
             const { error } = await supabase.auth.signInWithOAuth({
                 provider: 'github',

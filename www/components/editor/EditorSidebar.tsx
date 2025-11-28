@@ -1,30 +1,16 @@
 'use client';
 
 import React from 'react';
-import { ProfileData, SocialAccount } from "@/types/types";
-import { extractUsername, detectProvider, isValidSocialUrl, SOCIAL_PLATFORMS } from "@/lib/api";
+import { SocialAccount } from "@/types/types";
+import { extractUsername, detectProvider, isValidSocialUrl, SOCIAL_PLATFORMS, getUserLinkedInProfile, getUserMediumBlogs } from "@/lib/api";
 import { Plus, Trash2, Github, Linkedin, Twitter, Globe, ChevronDown, Check, Loader2, AlertCircle, Youtube, Gitlab, Twitch, Dribbble, Layers, Code2, Target, GripVertical, Instagram, Facebook, Mail, BookText } from 'lucide-react';
 import { debounce } from 'lodash';
 import { Reorder } from "framer-motion";
+import { useEditorStore } from "@/lib/store/editor-store";
 
+export default function EditorSidebar() {
+    const { data, activeTheme, isFetching, updateData, setTheme, setIsFetching } = useEditorStore();
 
-interface EditorSidebarProps {
-    data: ProfileData;
-    activeTheme: string;
-    onThemeChange: (themeId: string) => void;
-    onDataUpdate: (data: Partial<ProfileData>) => void;
-    onSocialFetch?: (provider: string, url: string) => void;
-    isFetching?: boolean;
-}
-
-export default function EditorSidebar({
-    data,
-    activeTheme,
-    onThemeChange,
-    onDataUpdate,
-    onSocialFetch,
-    isFetching
-}: EditorSidebarProps) {
     const [isThemeDropdownOpen, setIsThemeDropdownOpen] = React.useState(false);
 
     // Local state for social accounts with stable IDs for drag and drop
@@ -32,7 +18,7 @@ export default function EditorSidebar({
 
     // Initialize local socials on mount or when data changes externally (careful to avoid loops)
     React.useEffect(() => {
-        if (data.profile.social_accounts) {
+        if (data?.profile.social_accounts) {
             setLocalSocials(prev => {
                 if (prev.length === data.profile.social_accounts.length && prev.every((p, i) => p.url === data.profile.social_accounts[i].url)) {
                     return prev;
@@ -40,31 +26,58 @@ export default function EditorSidebar({
                 return data.profile.social_accounts.map(s => ({ ...s, id: crypto.randomUUID() }));
             });
         }
-    }, [data.profile.social_accounts]);
+    }, [data?.profile.social_accounts]);
 
     const updateSocials = (newSocials: (SocialAccount & { id: string })[]) => {
         setLocalSocials(newSocials);
-        onDataUpdate({
-            profile: {
-                ...data.profile,
-                social_accounts: newSocials.map(s => ({
-                    provider: s.provider,
-                    url: s.url,
-                    display_name: s.display_name
-                }))
+        if (data) {
+            updateData({
+                profile: {
+                    ...data.profile,
+                    social_accounts: newSocials.map(s => ({
+                        provider: s.provider,
+                        url: s.url,
+                        display_name: s.display_name
+                    }))
+                }
+            });
+        }
+    };
+
+    const handleSocialFetch = async (provider: string, url: string) => {
+        const username = extractUsername(url, provider);
+        if (!username) return;
+
+        setIsFetching(true);
+        try {
+            if (provider === 'linkedin') {
+                const linkedInData = await getUserLinkedInProfile(username);
+                if (linkedInData && data) {
+                    updateData({ linkedin: linkedInData });
+                }
+            } else if (provider === 'medium') {
+                const mediumData = await getUserMediumBlogs(username);
+                if (mediumData && data) {
+                    updateData({ blogs: mediumData });
+                }
             }
-        });
+        } catch (error) {
+            console.error(`Error fetching ${provider} data:`, error);
+        } finally {
+            setIsFetching(false);
+        }
     };
 
     // Debounced fetch handler
     const debouncedFetch = React.useMemo(
         () => debounce((provider: string, url: string) => {
-            if (onSocialFetch) {
-                onSocialFetch(provider, url);
-            }
+            handleSocialFetch(provider, url);
         }, 1000),
-        [onSocialFetch]
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+        []
     );
+
+    if (!data) return null;
 
     return (
         <div className="p-6 space-y-8 bg-white min-h-screen ">
@@ -81,7 +94,7 @@ export default function EditorSidebar({
                     <input
                         type="text"
                         value={data.profile.username}
-                        onChange={(e) => onDataUpdate({
+                        onChange={(e) => updateData({
                             profile: { ...data.profile, username: e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, '') }
                         })}
                         className="flex-1 bg-transparent border-none p-0 focus:ring-0 focus:outline-none text-gray-900 placeholder-gray-400 font-medium text-sm"
@@ -116,7 +129,7 @@ export default function EditorSidebar({
                                     <button
                                         key={theme}
                                         onClick={() => {
-                                            onThemeChange(theme);
+                                            setTheme(theme);
                                             setIsThemeDropdownOpen(false);
                                         }}
                                         className={`w-full text-left px-4 py-3 text-sm hover:bg-gray-50 transition-colors flex items-center justify-between ${activeTheme === theme ? 'bg-gray-50' : ''}`}
@@ -143,7 +156,7 @@ export default function EditorSidebar({
                         <input
                             type="text"
                             value={data.profile.name}
-                            onChange={(e) => onDataUpdate({
+                            onChange={(e) => updateData({
                                 profile: { ...data.profile, name: e.target.value }
                             })}
                             className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900"
@@ -155,7 +168,7 @@ export default function EditorSidebar({
                         <label className="text-xs font-semibold text-gray-700 mb-1.5 block">Bio</label>
                         <textarea
                             value={data.profile.bio || ''}
-                            onChange={(e) => onDataUpdate({
+                            onChange={(e) => updateData({
                                 profile: { ...data.profile, bio: e.target.value }
                             })}
                             className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all min-h-[80px] resize-none placeholder-gray-400 font-medium text-gray-900"
@@ -294,7 +307,7 @@ export default function EditorSidebar({
                 <h2 className="text-base font-bold text-gray-900">About</h2>
                 <textarea
                     value={data.profile.about || ''}
-                    onChange={(e) => onDataUpdate({
+                    onChange={(e) => updateData({
                         profile: { ...data.profile, about: e.target.value }
                     })}
                     className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all min-h-[120px] resize-none placeholder-gray-400 font-medium text-gray-900"
@@ -308,7 +321,7 @@ export default function EditorSidebar({
                 <input
                     type="text"
                     value={data.profile.location || ''}
-                    onChange={(e) => onDataUpdate({
+                    onChange={(e) => updateData({
                         profile: { ...data.profile, location: e.target.value }
                     })}
                     className="w-full px-4 py-3 text-sm bg-gray-100 border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-black/5 transition-all placeholder-gray-400 font-medium text-gray-900"

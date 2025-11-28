@@ -3,13 +3,13 @@ import { getUserLinkedInProfile, getUserMediumBlogs } from '@/lib/api';
 import EditorClient from '@/components/editor/EditorClient';
 
 interface EditorPageProps {
-    params: {
+    params: Promise<{
         username: string;
-    };
+    }>;
 }
 
 export default async function EditorPage({ params }: EditorPageProps) {
-    const { username } = params;
+    const { username } = await params;
 
     const baseProfileData = await getCompleteProfileData(username);
 

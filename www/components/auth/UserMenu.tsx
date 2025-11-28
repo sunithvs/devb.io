@@ -3,13 +3,15 @@
 import { useState, useRef, useEffect } from 'react';
 import { createClient } from '@/lib/supabase/client';
 import { motion, AnimatePresence } from 'framer-motion';
-import { LogOut, LayoutDashboard, Settings, User } from 'lucide-react';
+import { LogOut, LayoutDashboard, Settings, User as UserIcon } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 
+import { User } from '@supabase/supabase-js';
+
 interface UserMenuProps {
-    user: any;
+    user: User;
 }
 
 export default function UserMenu({ user }: UserMenuProps) {
@@ -53,7 +55,7 @@ export default function UserMenu({ user }: UserMenuProps) {
                     />
                 ) : (
                     <div className="h-8 w-8 bg-gray-100 rounded-full flex items-center justify-center border border-gray-200">
-                        <User size={16} className="text-gray-500" />
+                        <UserIcon size={16} className="text-gray-500" />
                     </div>
                 )}
             </button>

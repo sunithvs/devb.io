@@ -1,10 +1,10 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useEffect } from 'react';
 import EditorSidebar from './EditorSidebar';
 import PreviewFrame from './PreviewFrame';
 import { ProfileData } from "@/types/types";
-import { getUserLinkedInProfile, getUserMediumBlogs, extractUsername } from "@/lib/api";
+import { useEditorStore } from "@/lib/store/editor-store";
 
 interface EditorClientProps {
     initialData: ProfileData;
@@ -20,51 +20,50 @@ import * as Dialog from '@radix-ui/react-dialog';
 import { useRouter } from 'next/navigation';
 
 export default function EditorClient({ initialData, username, isOwner = false }: EditorClientProps) {
-    const [data, setData] = useState<ProfileData>(initialData);
-    const [activeTheme, setActiveTheme] = useState(initialData.customizations?.theme_id || 'default');
-    const [isFullScreen, setIsFullScreen] = useState(false);
-    const [mobileTab, setMobileTab] = useState<'editor' | 'preview'>('editor');
-    const [isMobile, setIsMobile] = useState(false);
+    // Zustand Store
+    const {
+        data,
+        activeTheme,
+        isFullScreen,
+        mobileTab,
+        isMobile,
+        setData,
+        setTheme,
+        setMobileTab,
+        setIsMobile,
+        setUser
+    } = useEditorStore();
+
+    // Initialize Store with Server Data
+    const initialized = React.useRef(false);
+    if (!initialized.current) {
+        useEditorStore.setState({
+            data: initialData,
+            activeTheme: initialData.customizations?.theme_id || 'default'
+        });
+        initialized.current = true;
+    }
 
     // Handle window resize to detect mobile
-    React.useEffect(() => {
+    useEffect(() => {
         const checkMobile = () => {
             setIsMobile(window.innerWidth < 768);
         };
         checkMobile();
         window.addEventListener('resize', checkMobile);
         return () => window.removeEventListener('resize', checkMobile);
-    }, []);
+    }, [setIsMobile]);
 
-    // Handle theme change
-    const handleThemeChange = (themeId: string) => {
-        setActiveTheme(themeId);
-        setData(prev => ({
-            ...prev,
-            customizations: {
-                ...prev.customizations,
-                theme_id: themeId
-            }
-        }));
-    };
-
-    // Handle data updates from sidebar
-    const handleDataUpdate = (newData: Partial<ProfileData>) => {
-        setData(prev => ({ ...prev, ...newData }));
-    };
-
-    const [isFetching, setIsFetching] = useState(false);
-    const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
-    const [user, setUser] = useState<any>(null);
+    const [isAuthModalOpen, setIsAuthModalOpen] = React.useState(false);
     const supabase = createClient();
 
     // Restore state and fetch user on mount
-    const [isConflictModalOpen, setIsConflictModalOpen] = useState(false);
-    const [conflictUser, setConflictUser] = useState<string | null>(null);
+    const [isConflictModalOpen, setIsConflictModalOpen] = React.useState(false);
+    const [conflictUser, setConflictUser] = React.useState<string | null>(null);
     const router = useRouter();
 
     // Restore state and fetch user on mount
-    React.useEffect(() => {
+    useEffect(() => {
         // Restore state
         const savedData = localStorage.getItem('editor_backup_data');
         const savedTheme = localStorage.getItem('editor_backup_theme');
@@ -79,7 +78,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
         }
 
         if (savedTheme) {
-            setActiveTheme(savedTheme);
+            setTheme(savedTheme);
             localStorage.removeItem('editor_backup_theme');
         }
 
@@ -90,9 +89,6 @@ export default function EditorClient({ initialData, username, isOwner = false }:
 
             // Check for conflict: Logged in but viewing someone else's profile
             if (user && !isOwner) {
-                // Assuming we can get the username from metadata or we compare IDs
-                // For now, just checking if a user exists and we are not the owner is enough to warn
-                // But ideally we check if user.username !== username
                 const loggedInUsername = user.user_metadata?.user_name;
                 if (loggedInUsername && loggedInUsername !== username) {
                     setConflictUser(loggedInUsername);
@@ -101,31 +97,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
             }
         };
         getUser();
-    }, [isOwner, username]);
-
-    const handleSocialFetch = async (provider: string, url: string) => {
-        const username = extractUsername(url, provider);
-        if (!username) return;
-
-        setIsFetching(true);
-        try {
-            if (provider === 'linkedin') {
-                const linkedInData = await getUserLinkedInProfile(username);
-                if (linkedInData) {
-                    setData(prev => ({ ...prev, linkedin: linkedInData }));
-                }
-            } else if (provider === 'medium') {
-                const mediumData = await getUserMediumBlogs(username);
-                if (mediumData) {
-                    setData(prev => ({ ...prev, blogs: mediumData }));
-                }
-            }
-        } catch (error) {
-            console.error(`Error fetching ${provider} data:`, error);
-        } finally {
-            setIsFetching(false);
-        }
-    };
+    }, [isOwner, username, setData, setTheme, setUser, supabase.auth]);
 
     const handlePublish = async () => {
         console.log('handlePublish called');
@@ -142,6 +114,8 @@ export default function EditorClient({ initialData, username, isOwner = false }:
         console.log('Publishing data:', data);
         // TODO: Implement actual publish call
     };
+
+    if (!data) return null;
 
     return (
         <div className="flex w-full h-full relative overflow-hidden">
@@ -211,7 +185,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
                                                 onClick={() => setIsConflictModalOpen(false)}
                                                 className="text-xs text-gray-400 hover:text-gray-600 transition-colors"
                                             >
-                                                Stay here (edits won't save to your profile)
+                                                Stay here (edits won&apos;t save to your profile)
                                             </button>
                                         </div>
                                     </div>
@@ -233,14 +207,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
                         className="border-r border-gray-200 bg-white flex flex-col overflow-hidden z-10 shrink-0 h-full w-full md:w-[400px] absolute md:relative pb-20 md:pb-0"
                     >
                         <div className="w-full h-full overflow-y-auto">
-                            <EditorSidebar
-                                data={data}
-                                activeTheme={activeTheme}
-                                onThemeChange={handleThemeChange}
-                                onDataUpdate={handleDataUpdate}
-                                onSocialFetch={handleSocialFetch}
-                                isFetching={isFetching}
-                            />
+                            <EditorSidebar />
                         </div>
                     </motion.div>
                 )}
@@ -259,12 +226,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
                     >
                         <PreviewFrame
                             username={username}
-                            themeId={activeTheme}
-                            data={data}
-                            isFullScreen={isFullScreen}
-                            onToggleFullScreen={() => setIsFullScreen(!isFullScreen)}
                             onPublish={handlePublish}
-                            user={user}
                         />
                     </motion.div>
                 )}

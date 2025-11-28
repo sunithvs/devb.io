@@ -5,20 +5,14 @@ import { createPortal } from 'react-dom';
 import { getTheme } from '@/themes/registry';
 import Image from 'next/image';
 import { Monitor, Smartphone, Maximize, Minimize, Rocket } from 'lucide-react';
-import { ProfileData } from "@/types/types";
 import { motion } from 'framer-motion';
 import UserMenu from '@/components/auth/UserMenu';
 import MadeWithBadge from '@/components/ui/MadeWithBadge';
+import { useEditorStore } from "@/lib/store/editor-store";
 
 interface PreviewFrameProps {
     username: string;
-    themeId: string;
-    data: ProfileData;
-    isFullScreen: boolean;
-    onToggleFullScreen: () => void;
     onPublish?: () => void;
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    user?: any;
 }
 
 type ViewMode = 'desktop' | 'mobile';
@@ -76,14 +70,25 @@ const ResponsiveIframe = ({
     );
 };
 
-export default function PreviewFrame({ username, themeId, data, isFullScreen, onToggleFullScreen, onPublish, user }: PreviewFrameProps) {
+export default function PreviewFrame({ username, onPublish }: PreviewFrameProps) {
+    const {
+        data,
+        activeTheme,
+        isFullScreen,
+        toggleFullScreen,
+        user
+    } = useEditorStore();
+
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
     // Render the selected theme component directly
     const renderTheme = () => {
-        const ThemeComponent = getTheme(themeId);
+        if (!data) return null;
+        const ThemeComponent = getTheme(activeTheme);
         return <ThemeComponent data={data} username={username} />;
     };
+
+    if (!data) return null;
 
     return (
         <div className="w-full h-full flex flex-col">
@@ -132,7 +137,7 @@ export default function PreviewFrame({ username, themeId, data, isFullScreen, on
                     </div>
 
                     <button
-                        onClick={onToggleFullScreen}
+                        onClick={toggleFullScreen}
                         className="p-2 rounded-lg text-gray-500 hover:text-gray-700 hover:bg-gray-100 transition-all"
                         title={isFullScreen ? "Exit Full Screen" : "Enter Full Screen"}
                     >

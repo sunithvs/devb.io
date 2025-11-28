@@ -31,6 +31,9 @@ export async function saveProfile(data: ProfileData) {
                     avatar_url: data.profile.avatar_url,
                     website: data.profile.profile_url,
                     about_summary: data.profile.about,
+                    issues_closed: data.profile.issues_closed,
+                    pull_requests_merged: data.profile.pull_requests_merged,
+                    total_contributions: data.profile.achievements?.total_contributions || 0,
                     updated_at: new Date().toISOString(),
                 })
                 .eq('id', user.id);

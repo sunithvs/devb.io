@@ -59,9 +59,12 @@ async function fetchProfileFromDB(username: string): Promise<ProfileData | null>
         followers: 0, // Not in DB
         following: 0, // Not in DB
         public_repos: 0, // Not in DB
-        pull_requests_merged: 0, // Not in DB
-        issues_closed: 0, // Not in DB
-        achievements: { total_contributions: 0, repositories_contributed_to: 0 }, // Not in DB
+        pull_requests_merged: user.pull_requests_merged || 0,
+        issues_closed: user.issues_closed || 0,
+        achievements: {
+            total_contributions: user.total_contributions || 0,
+            repositories_contributed_to: 0
+        },
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         social_accounts: socialLinks?.map((link: any) => ({
             provider: link.platform,

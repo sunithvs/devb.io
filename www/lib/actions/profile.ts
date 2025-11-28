@@ -36,16 +36,33 @@ export async function saveProfile(data: ProfileData) {
 
         // 2. Update Settings Table
         if (data.customizations) {
-            const { error: settingsError } = await supabase
+            // Try insert first (assuming row might be missing)
+            const { error: insertError } = await supabase
                 .from('settings')
-                .update({
+                .insert({
+                    user_id: user.id,
                     theme: data.customizations.theme_id,
                     section_visibility: data.customizations.section_visibility,
                     updated_at: new Date().toISOString(),
-                })
-                .eq('user_id', user.id);
+                });
 
-            if (settingsError) throw new Error(`Settings update failed: ${settingsError.message}`);
+            // If insert failed due to duplicate key (row exists), try update
+            if (insertError) {
+                if (insertError.code === '23505') { // unique_violation
+                    const { error: updateError } = await supabase
+                        .from('settings')
+                        .update({
+                            theme: data.customizations.theme_id,
+                            section_visibility: data.customizations.section_visibility,
+                            updated_at: new Date().toISOString(),
+                        })
+                        .eq('user_id', user.id);
+
+                    if (updateError) throw new Error(`Settings update failed: ${updateError.message}`);
+                } else {
+                    throw new Error(`Settings insert failed: ${insertError.message}`);
+                }
+            }
         }
 
         // 3. Update Social Links (Delete all and re-insert)

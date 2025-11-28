@@ -18,6 +18,8 @@ import AuthModal from '@/components/auth/AuthModal';
 import { createClient } from '@/lib/supabase/client';
 import * as Dialog from '@radix-ui/react-dialog';
 import { useRouter } from 'next/navigation';
+import { saveProfile } from '@/lib/actions/profile';
+import { toast } from 'sonner';
 
 export default function EditorClient({ initialData, username, isOwner = false }: EditorClientProps) {
     // Zustand Store
@@ -99,20 +101,38 @@ export default function EditorClient({ initialData, username, isOwner = false }:
         getUser();
     }, [isOwner, username, setData, setTheme, setUser, supabase.auth]);
 
+    const [isPublishing, setIsPublishing] = React.useState(false);
+
     const handlePublish = async () => {
-        console.log('handlePublish called');
         const { data: { session } } = await supabase.auth.getSession();
-        console.log('Session status:', !!session);
 
         if (!session) {
-            console.log('No session, opening modal');
             setIsAuthModalOpen(true);
             return;
         }
 
-        // Proceed with publish logic
-        console.log('Publishing data:', data);
-        // TODO: Implement actual publish call
+        setIsPublishing(true);
+        const toastId = toast.loading('Publishing your portfolio...');
+
+        if (!data) {
+            toast.error('No data to publish', { id: toastId });
+            setIsPublishing(false);
+            return;
+        }
+
+        try {
+            const result = await saveProfile(data);
+            if (result.error) {
+                toast.error(result.error, { id: toastId });
+            } else {
+                toast.success('Portfolio published successfully!', { id: toastId });
+            }
+        } catch (error) {
+            console.error('Publish error:', error);
+            toast.error('An unexpected error occurred', { id: toastId });
+        } finally {
+            setIsPublishing(false);
+        }
     };
 
     if (!data) return null;
@@ -227,6 +247,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
                         <PreviewFrame
                             username={username}
                             onPublish={handlePublish}
+                            isPublishing={isPublishing}
                         />
                     </motion.div>
                 )}

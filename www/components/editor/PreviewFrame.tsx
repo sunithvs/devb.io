@@ -13,6 +13,7 @@ import { useEditorStore } from "@/lib/store/editor-store";
 interface PreviewFrameProps {
     username: string;
     onPublish?: () => void;
+    isPublishing?: boolean;
 }
 
 type ViewMode = 'desktop' | 'mobile';
@@ -70,7 +71,7 @@ const ResponsiveIframe = ({
     );
 };
 
-export default function PreviewFrame({ username, onPublish }: PreviewFrameProps) {
+export default function PreviewFrame({ username, onPublish, isPublishing = false }: PreviewFrameProps) {
     const {
         data,
         activeTheme,
@@ -150,10 +151,15 @@ export default function PreviewFrame({ username, onPublish }: PreviewFrameProps)
                             if (onPublish) onPublish();
                             else console.log('onPublish prop is missing');
                         }}
-                        className="hidden md:flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5"
+                        disabled={isPublishing}
+                        className="hidden md:flex items-center gap-2 bg-black text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-900 transition-colors shadow-lg shadow-black/5 disabled:opacity-50 disabled:cursor-not-allowed"
                     >
-                        <Rocket size={16} />
-                        <span>Publish</span>
+                        {isPublishing ? (
+                            <div className="h-4 w-4 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+                        ) : (
+                            <Rocket size={16} />
+                        )}
+                        <span>{isPublishing ? 'Publishing...' : 'Publish'}</span>
                     </button>
                 </div>
             </div>

@@ -4,6 +4,7 @@ import "./globals.css";
 import { QueryClientProvider } from "@/providers/CustomQueryClientProvider";
 import Script from "next/script";
 import { Banner } from "@/components/banner";
+import { Toaster } from "sonner";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -74,6 +75,7 @@ export default function RootLayout({
         <QueryClientProvider>
           <Banner />
           {children}
+          <Toaster />
         </QueryClientProvider>
       </body>
     </html>

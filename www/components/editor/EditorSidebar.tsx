@@ -89,7 +89,7 @@ export default function EditorSidebar() {
 
             {/* Website Domain */}
             <section className="space-y-4">
-                <h2 className="text-base font-bold text-gray-900">Domain</h2>
+                <h2 className="text-base font-bold text-gray-900">Subdomain</h2>
                 <div className="flex items-center w-full px-4 py-3 bg-gray-100 rounded-lg focus-within:ring-2 focus-within:ring-black/5 transition-all">
                     <input
                         type="text"

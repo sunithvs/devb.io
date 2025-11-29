@@ -6,6 +6,7 @@ import { User } from '@supabase/supabase-js';
 interface EditorState {
     // Data
     data: ProfileData | null;
+    initialData: ProfileData | null;
     user: User | null; // Supabase user
 
     // UI State
@@ -24,6 +25,8 @@ interface EditorState {
 
     // Actions
     setData: (data: ProfileData) => void;
+    setInitialData: (data: ProfileData) => void;
+    syncInitialData: () => void;
     updateData: (partial: Partial<ProfileData>) => void;
     setTheme: (themeId: string) => void;
     toggleFullScreen: () => void;
@@ -38,6 +41,7 @@ interface EditorState {
 export const useEditorStore = create<EditorState>((set, get) => ({
     // Initial State
     data: null,
+    initialData: null,
     user: null,
     activeTheme: 'default',
     isFullScreen: false,
@@ -49,6 +53,9 @@ export const useEditorStore = create<EditorState>((set, get) => ({
     saveStatus: 'idle',
 
     // Actions
+    setInitialData: (initialData) => set({ initialData }),
+    syncInitialData: () => set((state) => ({ initialData: state.data })),
+
     setData: (data) => {
         const { data: currentData } = get();
         if (currentData) {

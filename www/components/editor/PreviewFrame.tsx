@@ -85,6 +85,12 @@ export default function PreviewFrame({ username, onPublish, isPublishing = false
         saveStatus
     } = useEditorStore();
 
+    const hasChanges = useEditorStore(state => {
+        if (!state.data || !state.initialData) return false;
+        // Simple deep comparison
+        return JSON.stringify(state.data) !== JSON.stringify(state.initialData);
+    });
+
     const [viewMode, setViewMode] = useState<ViewMode>('desktop');
 
     // Render the selected theme component directly
@@ -178,7 +184,7 @@ export default function PreviewFrame({ username, onPublish, isPublishing = false
                             if (onPublish) onPublish();
                             else console.log('onPublish prop is missing');
                         }}
-                        disabled={isPublishing}
+                        disabled={isPublishing || !hasChanges}
                         className="hidden md:flex items-center gap-2 bg-[#B9FF66] text-black px-4 py-2 rounded-lg text-sm font-bold hover:bg-[#a3e635] transition-colors shadow-sm disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                         {isPublishing ? (

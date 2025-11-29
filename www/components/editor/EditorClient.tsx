@@ -33,7 +33,8 @@ export default function EditorClient({ initialData, username, isOwner = false }:
         setTheme,
         setMobileTab,
         setIsMobile,
-        setUser
+        setUser,
+        syncInitialData
     } = useEditorStore();
 
     // Initialize Store with Server Data
@@ -41,6 +42,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
     if (!initialized.current) {
         useEditorStore.setState({
             data: initialData,
+            initialData: initialData, // Set initial data for dirty checking
             activeTheme: initialData.customizations?.theme_id || 'default'
         });
         initialized.current = true;
@@ -126,6 +128,7 @@ export default function EditorClient({ initialData, username, isOwner = false }:
                 toast.error(result.error, { id: toastId });
             } else {
                 toast.success('Portfolio published successfully!', { id: toastId });
+                syncInitialData(); // Reset dirty state
             }
         } catch (error) {
             console.error('Publish error:', error);

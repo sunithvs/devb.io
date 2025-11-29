@@ -128,8 +128,10 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
             <View style={styles.section}>
                 <Text style={styles.headerSection}>{(data.linkedin_profile.basic_info.full_name || data.name).split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}</Text>
                 <View style={styles.iconsContainer}>
+                    {/* eslint-disable-next-line jsx-a11y/alt-text */}
                     <Image style={styles.icon} src='https://img.icons8.com/ios-glyphs/480/github.png' />
                     <Link style={styles.link} src={`https://github.com/${data.username}`}>Github</Link>
+                    {/* eslint-disable-next-line jsx-a11y/alt-text */}
                     <Image style={styles.icon} src='https://img.icons8.com/ios-filled/480/linkedin.png' />
                     <Link style={styles.link} src={data.linkedin_profile.basic_info.profile_url}>Linkedin</Link>
                 </View>

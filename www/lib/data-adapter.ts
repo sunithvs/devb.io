@@ -48,7 +48,6 @@ async function fetchProfileFromDB(username: string): Promise<ProfileData | null>
         ]);
 
         // 3. Map to ProfileData
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         const profile: Profile = {
             username: user.username,
             name: user.full_name,
@@ -66,8 +65,7 @@ async function fetchProfileFromDB(username: string): Promise<ProfileData | null>
                 total_contributions: user.total_contributions || 0,
                 repositories_contributed_to: 0
             },
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            social_accounts: socialLinks?.map((link: any) => ({
+            social_accounts: socialLinks?.map((link) => ({
                 provider: link.platform,
                 url: link.url,
                 display_name: link.username
@@ -76,9 +74,8 @@ async function fetchProfileFromDB(username: string): Promise<ProfileData | null>
             cached: true
         };
 
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         const userProjects: UserProject = {
-            top_projects: projects?.map((p: any) => ({
+            top_projects: projects?.map((p) => ({
                 name: p.name,
                 description: p.description,
                 url: p.url,

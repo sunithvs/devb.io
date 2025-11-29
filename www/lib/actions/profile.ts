@@ -50,13 +50,14 @@ export async function saveProfile(data: ProfileData) {
     // Also, we can check if they are trying to *keep* a custom domain active.
 
     // Fetch current user's premium status
-    const { data: userPremium } = await supabase
-        .from('users')
-        .select('premium_until')
-        .eq('id', user.id)
-        .single();
+    // Fetch current user's premium status
+    // const { data: userPremium } = await supabase
+    //     .from('users')
+    //     .select('premium_until')
+    //     .eq('id', user.id)
+    //     .single();
 
-    const isPremium = userPremium?.premium_until && new Date(userPremium.premium_until) > new Date();
+    // const isPremium = userPremium?.premium_until && new Date(userPremium.premium_until) > new Date();
 
     // If we had a custom_domain field in ProfileData, we would check:
     // if (data.custom_domain && !isPremium) return { error: 'Custom domains require a premium subscription.' };

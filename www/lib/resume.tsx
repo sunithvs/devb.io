@@ -164,14 +164,15 @@ const ResumeDocument = ({ data }: { data: ResumeData }) => (
             .join(" ")}
         </Text>
         <View style={styles.iconsContainer}>
+          {/* eslint-disable-next-line jsx-a11y/alt-text */}
           <Image
-
             style={styles.icon}
             src="https://img.icons8.com/ios-glyphs/480/github.png"
           />
           <Link style={styles.link} src={`https://github.com/${data.username}`}>
             Github
           </Link>
+          {/* eslint-disable-next-line jsx-a11y/alt-text */}
           <Image
             style={styles.icon}
             src="https://img.icons8.com/ios-filled/480/linkedin.png"

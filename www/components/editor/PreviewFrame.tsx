@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
 import { getTheme } from '@/themes/registry';
 import Image from 'next/image';
-import { Monitor, Smartphone, Maximize, Minimize, Rocket, ChevronLeft, RotateCcw, RotateCw, CheckCircle2 } from 'lucide-react';
+import { Monitor, Smartphone, Maximize, Minimize, Rocket, ChevronLeft, RotateCcw, RotateCw } from 'lucide-react';
 import { motion } from 'framer-motion';
 import UserMenu from '@/components/auth/UserMenu';
 import MadeWithBadge from '@/components/ui/MadeWithBadge';
@@ -81,8 +81,7 @@ export default function PreviewFrame({ username, onPublish, isPublishing = false
         undo,
         redo,
         past,
-        future,
-        saveStatus
+        future
     } = useEditorStore();
 
     const hasChanges = useEditorStore(state => {

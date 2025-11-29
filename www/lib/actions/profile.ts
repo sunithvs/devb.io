@@ -15,33 +15,51 @@ export async function saveProfile(data: ProfileData) {
         return { error: 'Unauthorized' };
     }
 
+    // Verify that the user is updating their own profile
+    // Fetch the current username from the database
+    const { data: currentUserData, error: userFetchError } = await supabase
+        .from('users')
+        .select('username')
+        .eq('id', user.id)
+        .single();
+
+    // Allow if user doesn't exist (new user) or if usernames match
+    if (userFetchError && userFetchError.code !== 'PGRST116') {
+        console.error('Error fetching user:', userFetchError);
+        return { error: 'Failed to verify user identity' };
+    }
+
+    if (currentUserData && currentUserData.username !== data.profile.username) {
+        return { error: 'You can only edit your own profile' };
+    }
+
     try {
+        // 1. Update Users Table FIRST (Critical for FK constraints)
+        console.log(user.id)
+        const { error: userError } = await supabase
+            .from('users')
+            .upsert({
+                id: user.id,
+                username: data.profile.username,
+                full_name: data.profile.name,
+                bio: data.profile.bio,
+                location: data.profile.location,
+                avatar_url: data.profile.avatar_url,
+                website: data.profile.profile_url,
+                about_summary: data.profile.about,
+                issues_closed: data.profile.issues_closed,
+                pull_requests_merged: data.profile.pull_requests_merged,
+                total_contributions: data.profile.achievements?.total_contributions || 0,
+                updated_at: new Date().toISOString(),
+            })
+            .eq('id', user.id);
+
+        if (userError) throw new Error(`User update failed: ${userError.message}`);
+
+        // 2. Update Dependent Tables (Parallel)
         const updates = [];
 
-        // 1. Update Users Table
-        updates.push((async () => {
-            console.log(user.id)
-            const { error: userError } = await supabase
-                .from('users')
-                .update({
-                    username: data.profile.username,
-                    full_name: data.profile.name,
-                    bio: data.profile.bio,
-                    location: data.profile.location,
-                    avatar_url: data.profile.avatar_url,
-                    website: data.profile.profile_url,
-                    about_summary: data.profile.about,
-                    issues_closed: data.profile.issues_closed,
-                    pull_requests_merged: data.profile.pull_requests_merged,
-                    total_contributions: data.profile.achievements?.total_contributions || 0,
-                    updated_at: new Date().toISOString(),
-                })
-                .eq('id', user.id);
-
-            if (userError) throw new Error(`User update failed: ${userError.message}`);
-        })());
-
-        // 2. Update Settings Table
+        // Update Settings Table
         if (data.customizations) {
             updates.push((async () => {
                 // Try insert first (assuming row might be missing)
@@ -74,7 +92,7 @@ export async function saveProfile(data: ProfileData) {
             })());
         }
 
-        // 3. Update Social Links (Delete all and re-insert)
+        // Update Social Links (Delete all and re-insert)
         if (data.profile.social_accounts) {
             updates.push((async () => {
                 // Delete existing
@@ -98,7 +116,7 @@ export async function saveProfile(data: ProfileData) {
             })());
         }
 
-        // 4. Update Projects (Delete all and re-insert)
+        // Update Projects (Delete all and re-insert)
         if (data.projects && data.projects.top_projects) {
             updates.push((async () => {
                 // Delete existing

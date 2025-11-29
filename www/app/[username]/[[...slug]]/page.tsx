@@ -41,8 +41,8 @@ export default async function UserPage({
         // This automatically blocks paths with dots like .well-known, favicon.ico, etc.
         const githubUsernameRegex = /^[a-z0-9](?:[a-z0-9]|-(?=[a-z0-9])){0,38}$/i;
 
-        if (!githubUsernameRegex.test(username)) {
-            console.log(`[Theme System] Blocking invalid username request (regex mismatch): ${username}`);
+        if (username === '404' || !githubUsernameRegex.test(username)) {
+            console.log(`[Theme System] Blocking invalid username request: ${username}`);
             return notFound();
         }
 

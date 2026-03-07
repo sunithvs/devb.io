@@ -199,7 +199,7 @@ export default async function Home() {
                 secondImage="/images/compare-2.png"
                 firstImageClassName="object-cover object-left-top"
                 secondImageClassname="object-cover object-left-top"
-                className="h-[350px] w-[400px] md:h-[650px] md:w-[500px]"
+                className="w-full max-w-5xl h-[350px] md:h-[500px]"
                 slideMode="hover"
                 // autoplay
               />

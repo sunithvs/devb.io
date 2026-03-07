@@ -34,7 +34,7 @@ export default function AnimatedHeroClient() {
                     alt="Laurel left"
                     width={28}
                     height={52}
-                    className="w-auto h-8 md:h-12 opacity-80 shrink-0"
+                    className="hidden sm:block w-auto h-8 md:h-12 opacity-80 shrink-0"
                 />
                 <div className="flex items-center gap-2 md:gap-3 mx-2 md:mx-4">
                     <div className="flex -space-x-3 shrink-0">
@@ -72,7 +72,7 @@ export default function AnimatedHeroClient() {
                     alt="Laurel right"
                     width={28}
                     height={52}
-                    className="w-auto h-8 md:h-12 opacity-80 shrink-0"
+                    className="hidden sm:block w-auto h-8 md:h-12 opacity-80 shrink-0"
                 />
             </motion.div>
 

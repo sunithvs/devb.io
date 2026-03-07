@@ -5,6 +5,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import GitHubModal from "../github-modal/client";
 import { Info, Github, GitFork } from "lucide-react";
+import Counter from "../counter";
 
 export default function AnimatedHeroClient() {
   const [showGithubModal, setShowGithubModal] = useState(false);
@@ -100,16 +101,31 @@ export default function AnimatedHeroClient() {
           <GitFork className="w-4 h-4 text-black" /> Contribute
         </button>
       </motion.div>
-      {/* Logos Section */}
+      {/* Metrics Section */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.4 }}
-        className="mt-14 w-full max-w-5xl border-t border-gray-100"
+        className="mt-20 w-full max-w-4xl border-t border-gray-100 pt-12"
       >
-        <p className="text-center text-sm font-medium text-purple-600 mb-8">
-          6010+ Profiles Generated in 8 Months from Around the Globe
-        </p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-4 divide-y md:divide-y-0 md:divide-x divide-gray-100">
+          <div className="flex flex-col items-center justify-center pt-4 md:pt-0">
+            <span className="text-4xl md:text-5xl font-bold tracking-tight text-[#111] mb-2 flex items-center">
+              <Counter from={0} to={6010} duration={2} />+
+            </span>
+            <span className="text-xs md:text-sm font-medium text-gray-500 uppercase tracking-widest text-center">Profiles Generated</span>
+          </div>
+          <div className="flex flex-col items-center justify-center pt-8 md:pt-0">
+            <span className="text-4xl md:text-5xl font-bold tracking-tight text-[#111] mb-2 flex items-baseline">
+              <Counter from={0} to={8} duration={2} /><span className="text-3xl font-semibold text-gray-300 ml-1">mo</span>
+            </span>
+            <span className="text-xs md:text-sm font-medium text-gray-500 uppercase tracking-widest text-center">Continuously Active</span>
+          </div>
+          <div className="flex flex-col items-center justify-center pt-8 md:pt-0">
+            <span className="text-4xl md:text-5xl font-bold tracking-tight text-[#111] mb-2">Global</span>
+            <span className="text-xs md:text-sm font-medium text-gray-500 uppercase tracking-widest text-center">Developer Reach</span>
+          </div>
+        </div>
       </motion.div>
 
 

@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import GitHubModal from "../github-modal/client";
-import { Info, Github } from "lucide-react";
+import { Info, Github, GitFork } from "lucide-react";
 
 export default function AnimatedHeroClient() {
   const [showGithubModal, setShowGithubModal] = useState(false);
@@ -26,16 +26,38 @@ export default function AnimatedHeroClient() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-        className="flex items-center gap-3 px-4 py-2 rounded-full border border-gray-200 bg-white/50 backdrop-blur-sm shadow-sm mb-10"
+        className="flex items-center mb-10"
       >
-        <div className="flex -space-x-2">
-          <div className="w-6 h-6 rounded-full bg-blue-100 border-2 border-white flex items-center justify-center text-[10px]">🧑‍💻</div>
-          <div className="w-6 h-6 rounded-full bg-green-100 border-2 border-white flex items-center justify-center text-[10px]">👩‍💻</div>
-          <div className="w-6 h-6 rounded-full bg-purple-100 border-2 border-white flex items-center justify-center text-[10px]">👨‍💻</div>
+        <Image src="/images/leaf-l.png" alt="Laurel left" width={28} height={52} className="w-auto h-12 opacity-80" />
+        <div className="flex items-center gap-3">
+          <div className="flex -space-x-3">
+            <Image
+              src="https://avatars.githubusercontent.com/u/1024025?v=4"
+              alt="Customer 1"
+              width={36} height={36}
+              priority
+              className="w-9 h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-0"
+            />
+            <Image
+              src="https://avatars.githubusercontent.com/u/499550?v=4"
+              alt="Customer 2"
+              width={36} height={36}
+              priority
+              className="w-9 h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-10"
+            />
+            <Image
+              src="https://avatars.githubusercontent.com/u/11260973?v=4"
+              alt="Customer 3"
+              width={36} height={36}
+              priority
+              className="w-9 h-9 rounded-full border-2 border-white bg-purple-100 object-cover shadow-sm relative z-20"
+            />
+          </div>
+          <span className="text-[17px] font-medium text-[#7a7a7a] tracking-tight">
+            Trusted by 2k+ Customers
+          </span>
         </div>
-        <span className="text-sm font-medium text-gray-600">
-          Trusted by 6k+ Developers
-        </span>
+        <Image src="/images/leaf-r.png" alt="Laurel right" width={28} height={52} className="w-auto h-12 opacity-80" />
       </motion.div>
 
       {/* Main Headline */}
@@ -75,50 +97,21 @@ export default function AnimatedHeroClient() {
           <Github className="w-5 h-5" /> Generate Portfolio
         </button>
         <button className="bg-white border text-gray-700 border-gray-200 px-8 py-3.5 rounded-full text-base font-medium hover:bg-gray-50 transition-colors flex items-center justify-center gap-2 shadow-sm">
-          <Info className="w-4 h-4 text-gray-400" /> Learn more
+          <GitFork className="w-4 h-4 text-black" /> Contribute
         </button>
       </motion.div>
-
       {/* Logos Section */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.4 }}
-        className="mt-24 w-full max-w-5xl border-t border-gray-100 pt-10"
+        className="mt-14 w-full max-w-5xl border-t border-gray-100"
       >
         <p className="text-center text-sm font-medium text-purple-600 mb-8">
-          DevB is utilized by over 6,010 developers worldwide.
+          6010+ Profiles Generated in 8 Months from Around the Globe
         </p>
-
-        <div className="flex flex-wrap justify-center items-center gap-x-12 gap-y-8 opacity-60 grayscale filter">
-          {/* Faking some logos with text and simple flex layouts */}
-          <div className="flex items-center gap-2 font-bold text-xl tracking-tight">
-            <div className="w-6 h-6 bg-current" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}></div>
-            tropic
-          </div>
-          <div className="flex items-center gap-2 font-bold text-xl">
-            <div className="text-2xl font-black">N</div> Netcore
-          </div>
-          <div className="flex items-center gap-2 font-semibold text-lg">
-            <span className="font-bold text-xl">A</span> ANNEX CLOUD
-          </div>
-          <div className="flex items-center gap-2 font-bold text-xl">
-            <div className="flex flex-wrap w-5 h-5 gap-[2px]">
-               <div className="w-2 h-2 bg-current rounded-sm"></div>
-               <div className="w-2 h-2 bg-current rounded-sm"></div>
-               <div className="w-2 h-2 bg-current rounded-sm"></div>
-               <div className="w-2 h-2 bg-current rounded-sm"></div>
-            </div>
-            cansaas
-          </div>
-          <div className="flex items-center gap-2 font-bold text-xl italic tracking-tighter">
-            ramp
-          </div>
-          <div className="flex items-center gap-2 font-bold text-lg uppercase tracking-widest">
-            ORACLE
-          </div>
-        </div>
       </motion.div>
+
 
       {showGithubModal && (
         <GitHubModal onClose={() => setShowGithubModal(false)} />

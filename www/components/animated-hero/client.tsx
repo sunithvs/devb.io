@@ -33,21 +33,21 @@ export default function AnimatedHeroClient() {
         <div className="flex items-center gap-3">
           <div className="flex -space-x-3">
             <Image
-              src="https://avatars.githubusercontent.com/u/1024025?v=4"
+              src="https://avatars.githubusercontent.com/u/63339782?v=4"
               alt="Customer 1"
               width={36} height={36}
               priority
               className="w-9 h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-0"
             />
             <Image
-              src="https://avatars.githubusercontent.com/u/499550?v=4"
+              src="https://avatars.githubusercontent.com/u/93549213?v=4"
               alt="Customer 2"
               width={36} height={36}
               priority
               className="w-9 h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-10"
             />
             <Image
-              src="https://avatars.githubusercontent.com/u/11260973?v=4"
+              src="https://avatars.githubusercontent.com/u/135146135?v=4"
               alt="Customer 3"
               width={36} height={36}
               priority

@@ -4,8 +4,9 @@ import { motion } from 'framer-motion';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import GitHubModal from '../github-modal/client';
-import { Info, Github, GitFork } from 'lucide-react';
+import { Github, GitFork } from 'lucide-react';
 import Counter from '../counter';
+import Link from 'next/link';
 
 export default function AnimatedHeroClient() {
     const [showGithubModal, setShowGithubModal] = useState(false);
@@ -19,6 +20,27 @@ export default function AnimatedHeroClient() {
             setShowGithubModal(true);
         }
     }, []);
+
+    const contributorAvatars = [
+        {
+            src: 'https://avatars.githubusercontent.com/u/63339782?v=4',
+            alt: 'Customer 1',
+            zIndex: 'z-0',
+            extraClass: '',
+        },
+        {
+            src: 'https://avatars.githubusercontent.com/u/93549213?v=4',
+            alt: 'Customer 2',
+            zIndex: 'z-10',
+            extraClass: '',
+        },
+        {
+            src: 'https://avatars.githubusercontent.com/u/135146135?v=4',
+            alt: 'Customer 3',
+            zIndex: 'z-20',
+            extraClass: 'bg-purple-100',
+        },
+    ];
 
     return (
         <section className="w-full flex flex-col items-center justify-center pb-16 md:pb-24">
@@ -38,30 +60,17 @@ export default function AnimatedHeroClient() {
                 />
                 <div className="flex items-center gap-2 md:gap-3 mx-2 md:mx-4">
                     <div className="flex -space-x-3 shrink-0">
-                        <Image
-                            src="https://avatars.githubusercontent.com/u/63339782?v=4"
-                            alt="Customer 1"
-                            width={36}
-                            height={36}
-                            priority
-                            className="w-7 h-7 md:w-9 md:h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-0"
-                        />
-                        <Image
-                            src="https://avatars.githubusercontent.com/u/93549213?v=4"
-                            alt="Customer 2"
-                            width={36}
-                            height={36}
-                            priority
-                            className="w-7 h-7 md:w-9 md:h-9 rounded-full border-2 border-white object-cover shadow-sm relative z-10"
-                        />
-                        <Image
-                            src="https://avatars.githubusercontent.com/u/135146135?v=4"
-                            alt="Customer 3"
-                            width={36}
-                            height={36}
-                            priority
-                            className="w-7 h-7 md:w-9 md:h-9 rounded-full border-2 border-white bg-purple-100 object-cover shadow-sm relative z-20"
-                        />
+                        {contributorAvatars.map((avatar, index) => (
+                            <Image
+                                key={index}
+                                src={avatar.src}
+                                alt={avatar.alt}
+                                width={36}
+                                height={36}
+                                priority
+                                className={`w-7 h-7 md:w-9 md:h-9 rounded-full border-2 border-white object-cover shadow-sm relative ${avatar.zIndex} ${avatar.extraClass}`}
+                            />
+                        ))}
                     </div>
                     <span className="text-sm md:text-[17px] font-medium text-[#7a7a7a] tracking-tight whitespace-nowrap">
                         Trusted by 2k+ Customers
@@ -86,20 +95,28 @@ export default function AnimatedHeroClient() {
                 <span className="whitespace-nowrap">
                     Effortless{' '}
                     <motion.span
+                        aria-hidden="true"
                         animate={{ y: [4, -8, 4] }}
-                        transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
-                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white rotate-6 items-center justify-center bg-indigo-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-md"
+                        transition={{ repeat: Infinity, duration: 4, ease: 'easeInOut' }}
+                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white rotate-6 items-center justify-center bg-indigo-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-lg shadow-[#B9FF66]/30"
                     >
                         👨‍💻
                     </motion.span>
                 </span>{' '}
-                <span className="whitespace-nowrap">Portfolios</span> <br className="hidden md:block" />
+                <span className="whitespace-nowrap">Portfolios</span>{' '}
+                <br className="hidden md:block" />
                 <span className="whitespace-nowrap">
                     for{' '}
                     <motion.span
+                      aria-hidden="true"
                         animate={{ y: [4, -10, 4] }}
-                        transition={{ repeat: Infinity, duration: 3.5, ease: "easeInOut", delay: 0.5 }}
-                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white -rotate-6 items-center justify-center bg-rose-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-md"
+                        transition={{
+                            repeat: Infinity,
+                            duration: 3.5,
+                            ease: 'easeInOut',
+                            delay: 0.5,
+                        }}
+                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white -rotate-6 items-center justify-center bg-rose-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-lg shadow-[#B9FF66]/30"
                     >
                         💻
                     </motion.span>
@@ -107,9 +124,15 @@ export default function AnimatedHeroClient() {
                 <span className="whitespace-nowrap">
                     Developers{' '}
                     <motion.span
+                      aria-hidden="true"
                         animate={{ y: [4, -6, 4] }}
-                        transition={{ repeat: Infinity, duration: 4.5, ease: "easeInOut", delay: 1 }}
-                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white -rotate-12 items-center justify-center bg-amber-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-md"
+                        transition={{
+                            repeat: Infinity,
+                            duration: 4.5,
+                            ease: 'easeInOut',
+                            delay: 1,
+                        }}
+                        className="inline-flex relative -top-1 md:-top-2 border-2 md:border-[3px] border-white -rotate-12 items-center justify-center bg-amber-50 w-10 h-10 md:w-16 md:h-16 rounded-xl md:rounded-2xl mx-1 shadow-inner text-[22px] md:text-3xl shadow-lg shadow-[#B9FF66]/30"
                     >
                         📁
                     </motion.span>
@@ -123,7 +146,8 @@ export default function AnimatedHeroClient() {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="text-lg md:text-xl text-gray-500 mt-8 max-w-2xl text-center px-4"
             >
-                Automatic portfolio generation powered by your GitHub profile. <br className="hidden md:block" />
+                Automatic portfolio generation powered by your GitHub profile.{' '}
+                <br className="hidden md:block" />
                 Zero maintenance required. Setup once, let it narrate your story.
             </motion.p>
 
@@ -140,9 +164,14 @@ export default function AnimatedHeroClient() {
                 >
                     <Github className="w-5 h-5" /> Generate Portfolio
                 </button>
-                <button className="bg-white border text-gray-700 border-gray-200 px-8 py-3.5 rounded-full text-base font-medium hover:bg-gray-50 transition-colors flex items-center justify-center gap-2 shadow-sm">
+                <Link
+                    href="https://github.com/sunithvs/devb.io"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-white border text-gray-700 border-gray-200 px-8 py-3.5 rounded-full text-base font-medium hover:bg-gray-50 transition-colors flex items-center justify-center gap-2 shadow-sm"
+                >
                     <GitFork className="w-4 h-4 text-black" /> Contribute
-                </button>
+                </Link>
             </motion.div>
             {/* Metrics Section */}
             <motion.div

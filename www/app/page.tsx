@@ -2,7 +2,6 @@ import Image from "next/image";
 import Footer from "@/components/footer";
 import AnimatedNav from "@/components/animated-nav/server";
 import AnimatedHero from "@/components/animated-hero/server";
-import AnimatedStats from "@/components/animated-stats/server";
 import IntegrationCard from "@/components/integration-card/server";
 import ProfileCard from "@/components/profile-card/server";
 import HowItWorksCard from "@/components/how-it-works-card/server";

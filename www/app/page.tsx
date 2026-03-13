@@ -171,7 +171,7 @@ export default async function Home() {
         <AnimatedHero />
 
         {/* Analytics Section */}
-        <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+        {/* <section className="py-20 bg-gradient-to-b from-white to-gray-50">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
               <AnimatedStats
@@ -180,7 +180,7 @@ export default async function Home() {
               />
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Compare Section */}
         <section className="py-20">
@@ -199,7 +199,7 @@ export default async function Home() {
                 secondImage="/images/compare-2.png"
                 firstImageClassName="object-cover object-left-top"
                 secondImageClassname="object-cover object-left-top"
-                className="h-[350px] w-[400px] md:h-[650px] md:w-[500px]"
+                className="w-full max-w-5xl h-[350px] md:h-[500px]"
                 slideMode="hover"
                 // autoplay
               />

@@ -181,17 +181,13 @@ export async function ProfileSection({
               <h2 className="font-bold mb-4">
                 {user.achievements?.total_contributions} Contributions
               </h2>
-              <div className="overflow-hidden">
-                <div className="relative w-full" style={{ height: "100px" }}>
-                  <img
-                    className="absolute top-[32%] left-1/2 transform -translate-x-124 -translate-y-1/2 scale-[1]"
-                    src={`https://ghchart.rshah.org/5F8417/${user.username}`}
-                    alt={`${user.name}'s GitHub contributions`}
-                    style={{
-                      maxWidth: "none",
-                    }}
-                  />
-                </div>
+              <div className="w-full overflow-hidden rounded-lg relative" style={{ height: "100px" }}>
+                <img
+                  className="absolute right-0 top-0 h-full w-auto block"
+                  style={{ maxWidth: "none" }}
+                  src={`https://ghchart.rshah.org/5F8417/${user.username}`}
+                  alt={`${user.name}'s GitHub contributions`}
+                />
               </div>
             </div>
           )}

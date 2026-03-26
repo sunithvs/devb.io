@@ -1,6 +1,11 @@
-import requests
+import asyncio
+import httpx
+import logging
 from typing import Annotated
+
 from fastapi import Path, HTTPException
+
+logger = logging.getLogger(__name__)
 
 from config.settings import Settings
 from modules.ai_generator import AIDescriptionGenerator
@@ -19,61 +24,53 @@ async def verify_username(
         )
     ]
 ) -> str:
-    """
-    Validate GitHub username format and existence
-    """
+    """Validate GitHub username format and existence"""
     if not await GitHubProfileFetcher.validate_github_username(username):
-        raise HTTPException(
-            status_code=400,
-            detail="Invalid GitHub username. Usernames must be 1-39 characters long and can only contain alphanumeric characters and single hyphens."
-        )
+        raise HTTPException(status_code=400, detail="Invalid GitHub username.")
     return username
 
 
 async def verify_linkedin_username(
     username: Annotated[
         str,
-        Path(
-            min_length=1,
-            pattern=r'^[\w\-]+$'
-        )
+        Path(min_length=1, pattern=r'^[\w\-]+$')
     ]
 ) -> str:
-    """
-    Validate LinkedIn username format
-    """
+    """Validate LinkedIn username format"""
     if not LinkedInProfileFetcher._validate_linkedin_username(username):
-        raise HTTPException(
-            status_code=400,
-            detail="Invalid LinkedIn username. Username can only contain letters, numbers, and hyphens."
-        )
+        raise HTTPException(status_code=400, detail="Invalid LinkedIn username.")
     return username
 
 
-def get_user_data(username, force=True):
+async def get_user_data(username: str, force: bool = True) -> dict:
+    """Get complete user data (profile + contributions + AI summary)"""
     if not force:
-        print("Fetching user data from cache")
-        res = requests.get(f"{Settings.API_URL}/user/{username}")
+        logger.debug("Fetching user data from cache for: %s", username)
+        async with httpx.AsyncClient() as client:
+            res = await client.get(f"{Settings.API_URL}/user/{username}")
         if res.status_code == 200:
             return res.json()
-    profile_data = GitHubProfileFetcher.fetch_user_profile(username)
-    # Fetch contributions
-    contributions_data = GitHubContributionsFetcher.fetch_recent_contributions(
-        username,
-        Settings.CONTRIBUTION_DAYS
+
+    profile_data, contributions_data = await asyncio.gather(
+        GitHubProfileFetcher.fetch_user_profile(username),
+        asyncio.to_thread(GitHubContributionsFetcher.fetch_recent_contributions, username, Settings.CONTRIBUTION_DAYS)
     )
 
-    # Generate AI descriptions
+    if "error" in profile_data:
+        return profile_data
+
     ai_generator = AIDescriptionGenerator()
-    try:
-        profile_summary = ai_generator.generate_profile_summary(profile_data)
-    except Exception as e:
-        profile_summary = None
+    ai_tasks = [asyncio.to_thread(ai_generator.generate_profile_summary, profile_data)]
     if contributions_data:
-        activity_summary = ai_generator.generate_activity_summary(contributions_data)
+        ai_tasks.append(asyncio.to_thread(ai_generator.generate_activity_summary, contributions_data))
+
+    results = await asyncio.gather(*ai_tasks, return_exceptions=True)
+
+    profile_summary = results[0] if not isinstance(results[0], BaseException) else None
+    activity_summary = results[1] if len(results) > 1 and not isinstance(results[1], BaseException) else None
+
+    if contributions_data:
         profile_data['activity_summary'] = activity_summary if activity_summary else {}
 
-    # Add summaries to profile data
     profile_data['profile_summary'] = profile_summary
-
     return profile_data

@@ -60,7 +60,7 @@ async def get_user_data(username: str, force: bool = True) -> dict:
         if res.status_code == 200:
             return res.json()
 
-    # Parallel fetch profile + contributions
+    # Parallel fetch
     profile_data, contributions_data = await asyncio.gather(
         GitHubProfileFetcher.fetch_user_profile(username),
         asyncio.to_thread(
@@ -70,23 +70,20 @@ async def get_user_data(username: str, force: bool = True) -> dict:
         )
     )
 
-    # Early return if GitHub fetch failed
     if "error" in profile_data:
         return profile_data
 
     ai_generator = AIDescriptionGenerator()
 
-    # Parallel AI summary generation
-    try:
-        profile_summary, activity_summary = await asyncio.gather(
-            asyncio.to_thread(ai_generator.generate_profile_summary, profile_data),
-            asyncio.to_thread(ai_generator.generate_activity_summary, contributions_data) if contributions_data else None,
-            return_exceptions=True
-        )
-    except Exception as e:
-        logger.exception("Failed to generate AI summaries for user %s", username)
-        profile_summary = None
-        activity_summary = None
+    # Robust parallel AI summaries
+    ai_tasks = [asyncio.to_thread(ai_generator.generate_profile_summary, profile_data)]
+    if contributions_data:
+        ai_tasks.append(asyncio.to_thread(ai_generator.generate_activity_summary, contributions_data))
+
+    results = await asyncio.gather(*ai_tasks, return_exceptions=True)
+
+    profile_summary = results[0] if not isinstance(results[0], BaseException) else None
+    activity_summary = results[1] if len(results) > 1 and not isinstance(results[1], BaseException) else None
 
     if contributions_data:
         profile_data['activity_summary'] = activity_summary if activity_summary else {}

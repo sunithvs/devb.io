@@ -52,7 +52,7 @@ class GitHubProfileFetcher:
                 data = response.json()
                 return data.get('type') == 'User'
             except httpx.HTTPError:
-                return True  # Fall back to pattern validation on API error
+                return True
 
     @staticmethod
     async def fetch_user_profile(username: str) -> dict:
@@ -61,8 +61,8 @@ class GitHubProfileFetcher:
             if not await GitHubProfileFetcher.validate_github_username(username):
                 raise ValueError(f"Invalid GitHub username: '{username}'")
 
-            one_year_ago = (datetime.now() - timedelta(days=365)).isoformat() + 'Z'
-            one_year_ago_dt = datetime.now() - timedelta(days=365)   # pre-calculated for loops
+            one_year_ago_dt = datetime.utcnow() - timedelta(days=365)
+            one_year_ago = one_year_ago_dt.isoformat() + 'Z'
 
             graphql_query = {
                 "query": f"""
@@ -109,7 +109,7 @@ class GitHubProfileFetcher:
 
             graphql_data = graphql_response.json().get('data', {}).get('user', {})
             if not graphql_data:
-                raise ValueError(f"User '{username}' not found or query returned no data.")
+                raise ValueError(f"User '{username}' not found")
 
             pr_merged_last_year = sum(
                 1 for pr in graphql_data.get('pullRequests', {}).get('nodes', [])
@@ -155,56 +155,44 @@ class GitHubProfileFetcher:
 
     @staticmethod
     async def social_accounts(username):
-        """Fetch social accounts of the user from GitHub API.
-        If the API returns a 404, it attempts to extract social links from the user's README.md.
-
-        Returns:
-            list: A list of dictionaries, each representing a social account.
-        """
+        """Fetch social accounts. Returns list or {"error": "..."} for consistency."""
         try:
             base_url = f"https://api.github.com/users/{username}/social_accounts"
             async with httpx.AsyncClient() as client:
-                user_response = await client.get(
+                resp = await client.get(
                     base_url,
                     headers={
                         "Accept": "application/vnd.github.v3+json",
-                        "Authorization": f"token {Settings.get_github_token()}",
+                        "Authorization": f"token {Settings.get_github_token()}"
                     }
                 )
-                user_response.raise_for_status()
-                return user_response.json()
+                resp.raise_for_status()
+                return resp.json()
         except httpx.HTTPStatusError as e:
             if e.response.status_code == 404:
                 return await GitHubProfileFetcher.get_social_from_readme(username)
-            return []
+            return {"error": f"HTTP Error: {e.response.status_code}"}
         except Exception as e:
             logger.exception("Unexpected error in social_accounts for user %s", username)
-            return []
+            return {"error": "Failed to fetch social accounts"}
 
     @staticmethod
     async def get_social_from_readme(username):
-        """Extract LinkedIn link from user's README.md (simplified - only LinkedIn for reliability)"""
+        """Extract LinkedIn link from README (simplified for reliability)"""
         try:
-            readme_url = f"https://api.github.com/repos/{username}/{username}/readme"
+            url = f"https://api.github.com/repos/{username}/{username}/readme"
             async with httpx.AsyncClient() as client:
-                readme_response = await client.get(
-                    readme_url,
+                r = await client.get(
+                    url,
                     headers={
                         "Accept": "application/vnd.github.v3+json",
-                        "Authorization": f"token {Settings.get_github_token()}",
+                        "Authorization": f"token {Settings.get_github_token()}"
                     }
                 )
-                readme_response.raise_for_status()
-                readme_content = base64.b64decode(readme_response.json()['content']).decode('utf-8')
-
-            social_accounts_list = []
-            linkedin_match = re.search(r'linkedin\.com/in/([a-zA-Z0-9-]+)', readme_content, re.I)
-            if linkedin_match:
-                social_accounts_list.append({
-                    "provider": "linkedin",
-                    "url": f"https://linkedin.com/in/{linkedin_match.group(1)}"
-                })
-            return social_accounts_list
+                r.raise_for_status()
+                content = base64.b64decode(r.json()['content']).decode('utf-8')
+            match = re.search(r'linkedin\.com/in/([a-zA-Z0-9-]+)', content, re.I)
+            return [{"provider": "linkedin", "url": f"https://linkedin.com/in/{match.group(1)}"}] if match else []
         except Exception as e:
             logger.exception("Unexpected error in get_social_from_readme for user %s", username)
             return []

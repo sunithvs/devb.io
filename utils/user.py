@@ -19,9 +19,6 @@ async def verify_username(
         )
     ]
 ) -> str:
-    """
-    Validate GitHub username format and existence
-    """
     if not await GitHubProfileFetcher.validate_github_username(username):
         raise HTTPException(
             status_code=400,
@@ -39,9 +36,6 @@ async def verify_linkedin_username(
         )
     ]
 ) -> str:
-    """
-    Validate LinkedIn username format
-    """
     if not LinkedInProfileFetcher._validate_linkedin_username(username):
         raise HTTPException(
             status_code=400,
@@ -50,30 +44,24 @@ async def verify_linkedin_username(
     return username
 
 
-def get_user_data(username, force=True):
+async def get_user_data(username, force=True):
     if not force:
         print("Fetching user data from cache")
         res = requests.get(f"{Settings.API_URL}/user/{username}")
         if res.status_code == 200:
             return res.json()
-    profile_data = GitHubProfileFetcher.fetch_user_profile(username)
-    # Fetch contributions
+    profile_data = await GitHubProfileFetcher.fetch_user_profile(username)
     contributions_data = GitHubContributionsFetcher.fetch_recent_contributions(
         username,
         Settings.CONTRIBUTION_DAYS
     )
-
-    # Generate AI descriptions
     ai_generator = AIDescriptionGenerator()
     try:
         profile_summary = ai_generator.generate_profile_summary(profile_data)
-    except Exception as e:
+    except Exception:
         profile_summary = None
     if contributions_data:
         activity_summary = ai_generator.generate_activity_summary(contributions_data)
         profile_data['activity_summary'] = activity_summary if activity_summary else {}
-
-    # Add summaries to profile data
     profile_data['profile_summary'] = profile_summary
-
     return profile_data

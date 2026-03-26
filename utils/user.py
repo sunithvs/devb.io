@@ -1,7 +1,11 @@
 import asyncio
-import requests
+import httpx
+import logging
 from typing import Annotated
+
 from fastapi import Path, HTTPException
+
+logger = logging.getLogger(__name__)
 
 from config.settings import Settings
 from modules.ai_generator import AIDescriptionGenerator
@@ -20,6 +24,7 @@ async def verify_username(
         )
     ]
 ) -> str:
+    """Validate GitHub username format and existence"""
     if not await GitHubProfileFetcher.validate_github_username(username):
         raise HTTPException(
             status_code=400,
@@ -37,6 +42,7 @@ async def verify_linkedin_username(
         )
     ]
 ) -> str:
+    """Validate LinkedIn username format"""
     if not LinkedInProfileFetcher._validate_linkedin_username(username):
         raise HTTPException(
             status_code=400,
@@ -46,21 +52,31 @@ async def verify_linkedin_username(
 
 
 async def get_user_data(username, force=True):
+    """Get complete user data (profile + contributions + AI summary)"""
     if not force:
         print("Fetching user data from cache")
         async with httpx.AsyncClient() as client:
             res = await client.get(f"{Settings.API_URL}/user/{username}")
         if res.status_code == 200:
             return res.json()
+
     profile_data = await GitHubProfileFetcher.fetch_user_profile(username)
-    contributions_data = await asyncio.to_thread(GitHubContributionsFetcher.fetch_recent_contributions, username, Settings.CONTRIBUTION_DAYS)
+    contributions_data = await asyncio.to_thread(
+        GitHubContributionsFetcher.fetch_recent_contributions,
+        username,
+        Settings.CONTRIBUTION_DAYS
+    )
+
     ai_generator = AIDescriptionGenerator()
     try:
         profile_summary = ai_generator.generate_profile_summary(profile_data)
-    except Exception:
+    except Exception as e:
+        logger.exception("Failed to generate profile summary for user %s", username)
         profile_summary = None
+
     if contributions_data:
         activity_summary = ai_generator.generate_activity_summary(contributions_data)
         profile_data['activity_summary'] = activity_summary if activity_summary else {}
+
     profile_data['profile_summary'] = profile_summary
     return profile_data

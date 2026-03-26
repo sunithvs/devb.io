@@ -1,3 +1,4 @@
+import asyncio
 import requests
 from typing import Annotated
 from fastapi import Path, HTTPException
@@ -47,14 +48,12 @@ async def verify_linkedin_username(
 async def get_user_data(username, force=True):
     if not force:
         print("Fetching user data from cache")
-        res = requests.get(f"{Settings.API_URL}/user/{username}")
+        async with httpx.AsyncClient() as client:
+            res = await client.get(f"{Settings.API_URL}/user/{username}")
         if res.status_code == 200:
             return res.json()
     profile_data = await GitHubProfileFetcher.fetch_user_profile(username)
-    contributions_data = GitHubContributionsFetcher.fetch_recent_contributions(
-        username,
-        Settings.CONTRIBUTION_DAYS
-    )
+    contributions_data = await asyncio.to_thread(GitHubContributionsFetcher.fetch_recent_contributions, username, Settings.CONTRIBUTION_DAYS)
     ai_generator = AIDescriptionGenerator()
     try:
         profile_summary = ai_generator.generate_profile_summary(profile_data)

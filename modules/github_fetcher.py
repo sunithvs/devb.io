@@ -189,10 +189,10 @@ class GitHubProfileFetcher:
                 )
                 readme_response.raise_for_status()
                 readme_content = base64.b64decode(readme_response.json()['content']).decode('utf-8')
-            social = {}
+            social_accounts_list = []
             linkedin_match = re.search(r'linkedin\.com/in/([a-zA-Z0-9-]+)', readme_content, re.I)
             if linkedin_match:
-                social['linkedin'] = f"https://linkedin.com/in/{linkedin_match.group(1)}"
-            return social
+                social_accounts_list.append({"provider": "linkedin", "url": f"https://linkedin.com/in/{linkedin_match.group(1)}"})
+            return social_accounts_list
         except Exception:
             return {}

@@ -61,6 +61,11 @@ async def get_user_data(username: str, force: bool = True) -> dict:
             return res.json()
 
     profile_data = await GitHubProfileFetcher.fetch_user_profile(username)
+
+    # Early return if GitHub fetch failed
+    if "error" in profile_data:
+        return profile_data
+
     contributions_data = await asyncio.to_thread(
         GitHubContributionsFetcher.fetch_recent_contributions,
         username,

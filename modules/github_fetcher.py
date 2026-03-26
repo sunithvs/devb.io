@@ -55,26 +55,6 @@ class GitHubProfileFetcher:
                 return True  # Fall back to pattern validation on API error
 
     @staticmethod
-    def validate_github_username_sync(username: str) -> bool:
-        """Sync validate GitHub username including API check:
-        - Validates username pattern
-        - Verifies user exists on GitHub
-        - Confirms account is of type 'User' (not Organization)"""
-        if not GitHubProfileFetcher._validate_username_pattern(username):
-            return False
-        try:
-            response = requests.get(
-                f'https://api.github.com/users/{username}',
-                headers=GitHubProfileFetcher._get_github_headers()
-            )
-            if response.status_code != 200:
-                return False
-            data = response.json()
-            return data.get('type') == 'User'
-        except requests.RequestException:
-            return True  # Fall back to pattern validation on API error
-
-    @staticmethod
     async def fetch_user_profile(username: str) -> dict:
         """Fetch detailed GitHub user profile with extended metrics"""
         try:
@@ -146,14 +126,17 @@ class GitHubProfileFetcher:
                 'location': graphql_data.get('location', ''),
                 'avatar_url': graphql_data.get('avatarUrl', ''),
                 'profile_url': graphql_data.get('url', ''),
-                'followers': graphql_data['followers']['totalCount'],
-                'following': graphql_data['following']['totalCount'],
-                'public_repos': graphql_data['repositories']['totalCount'],
+                'followers': graphql_data.get('followers', {}).get('totalCount', 0),
+                'following': graphql_data.get('following', {}).get('totalCount', 0),
+                'public_repos': graphql_data.get('repositories', {}).get('totalCount', 0),
                 'pull_requests_merged': pr_merged_last_year if pr_merged_last_year < 100 else f"{100}+",
                 'issues_closed': issues_closed_last_year if issues_closed_last_year < 100 else f"{100}+",
                 'achievements': {
-                    'total_contributions': graphql_data['contributionsCollection']['contributionCalendar']['totalContributions'],
-                    'repositories_contributed_to': graphql_data['repositoriesContributedTo']['totalCount'],
+                    'total_contributions': graphql_data.get('contributionsCollection', {})
+                                           .get('contributionCalendar', {})
+                                           .get('totalContributions', 0),
+                    'repositories_contributed_to': graphql_data.get('repositoriesContributedTo', {})
+                                                             .get('totalCount', 0),
                 },
                 'social_accounts': await GitHubProfileFetcher.social_accounts(username),
                 'readme_content': (graphql_data.get('repository', {}).get('object', {}).get('text', '')
@@ -199,7 +182,7 @@ class GitHubProfileFetcher:
 
     @staticmethod
     async def get_social_from_readme(username):
-        """Extract LinkedIn link from user's README.md (simplified version)"""
+        """Extract LinkedIn link from user's README.md (simplified - only LinkedIn for reliability)"""
         try:
             readme_url = f"https://api.github.com/repos/{username}/{username}/readme"
             async with httpx.AsyncClient() as client:

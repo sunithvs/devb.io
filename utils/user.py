@@ -51,10 +51,10 @@ async def verify_linkedin_username(
     return username
 
 
-async def get_user_data(username, force=True):
+async def get_user_data(username: str, force: bool = True) -> dict:
     """Get complete user data (profile + contributions + AI summary)"""
     if not force:
-        print("Fetching user data from cache")
+        logger.debug("Fetching user data from cache for: %s", username)
         async with httpx.AsyncClient() as client:
             res = await client.get(f"{Settings.API_URL}/user/{username}")
         if res.status_code == 200:
@@ -69,14 +69,22 @@ async def get_user_data(username, force=True):
 
     ai_generator = AIDescriptionGenerator()
     try:
-        profile_summary = ai_generator.generate_profile_summary(profile_data)
+        profile_summary = await asyncio.to_thread(
+            ai_generator.generate_profile_summary, profile_data
+        )
     except Exception as e:
         logger.exception("Failed to generate profile summary for user %s", username)
         profile_summary = None
 
     if contributions_data:
-        activity_summary = ai_generator.generate_activity_summary(contributions_data)
-        profile_data['activity_summary'] = activity_summary if activity_summary else {}
+        try:
+            activity_summary = await asyncio.to_thread(
+                ai_generator.generate_activity_summary, contributions_data
+            )
+            profile_data['activity_summary'] = activity_summary if activity_summary else {}
+        except Exception as e:
+            logger.exception("Failed to generate activity summary for user %s", username)
+            profile_data['activity_summary'] = {}
 
     profile_data['profile_summary'] = profile_summary
     return profile_data

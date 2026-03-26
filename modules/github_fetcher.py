@@ -1,6 +1,5 @@
 import base64
 import re
-import requests
 import logging
 from datetime import datetime, timedelta
 
@@ -16,7 +15,11 @@ class GitHubProfileFetcher:
 
     @staticmethod
     def _validate_username_pattern(username: str) -> bool:
-        """Validate GitHub username pattern"""
+        """Validate GitHub username pattern:
+        - Must be 1-39 characters long
+        - Can only contain alphanumeric characters and hyphens
+        - Cannot start or end with a hyphen
+        - Cannot have consecutive hyphens"""
         if not isinstance(username, str) or not username:
             return False
         pattern = r'^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$'
@@ -32,7 +35,10 @@ class GitHubProfileFetcher:
 
     @staticmethod
     async def validate_github_username(username: str) -> bool:
-        """Async validate GitHub username including API check"""
+        """Async validate GitHub username including API check:
+        - Validates username pattern
+        - Verifies user exists on GitHub
+        - Confirms account is of type 'User' (not Organization)"""
         if not GitHubProfileFetcher._validate_username_pattern(username):
             return False
         async with httpx.AsyncClient() as client:
@@ -50,7 +56,10 @@ class GitHubProfileFetcher:
 
     @staticmethod
     def validate_github_username_sync(username: str) -> bool:
-        """Sync validate GitHub username including API check"""
+        """Sync validate GitHub username including API check:
+        - Validates username pattern
+        - Verifies user exists on GitHub
+        - Confirms account is of type 'User' (not Organization)"""
         if not GitHubProfileFetcher._validate_username_pattern(username):
             return False
         try:
@@ -66,7 +75,7 @@ class GitHubProfileFetcher:
             return True  # Fall back to pattern validation on API error
 
     @staticmethod
-    async def fetch_user_profile(username):
+    async def fetch_user_profile(username: str) -> dict:
         """Fetch detailed GitHub user profile with extended metrics"""
         try:
             if not await GitHubProfileFetcher.validate_github_username(username):
@@ -154,14 +163,20 @@ class GitHubProfileFetcher:
         except httpx.HTTPStatusError as e:
             return {"error": f"HTTP Error: {e.response.status_code}"}
         except httpx.RequestError as e:
-            return {"error": f"Request failed: {str(e)}"}
+            logger.exception("Request failed for user %s", username)
+            return {"error": "A network error occurred while fetching GitHub data"}
         except Exception as e:
             logger.exception("Unexpected error in fetch_user_profile for user %s", username)
             return {"error": "An unexpected error occurred"}
 
     @staticmethod
     async def social_accounts(username):
-        """Fetch social accounts of the user from GitHub API. Falls back to README on 404."""
+        """Fetch social accounts of the user from GitHub API.
+        If the API returns a 404, it attempts to extract social links from the user's README.md.
+
+        Returns:
+            list: A list of dictionaries, each representing a social account.
+        """
         try:
             base_url = f"https://api.github.com/users/{username}/social_accounts"
             async with httpx.AsyncClient() as client:
@@ -184,7 +199,7 @@ class GitHubProfileFetcher:
 
     @staticmethod
     async def get_social_from_readme(username):
-        """Extract LinkedIn link from user's README.md"""
+        """Extract LinkedIn link from user's README.md (simplified version)"""
         try:
             readme_url = f"https://api.github.com/repos/{username}/{username}/readme"
             async with httpx.AsyncClient() as client:

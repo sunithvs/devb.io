@@ -52,7 +52,7 @@ class GitHubProfileFetcher:
                 data = response.json()
                 return data.get('type') == 'User'
             except httpx.HTTPError:
-                return True
+                return False   # API failed → treat as invalid (safer)
 
     @staticmethod
     async def fetch_user_profile(username: str) -> dict:
@@ -68,11 +68,7 @@ class GitHubProfileFetcher:
                 "query": f"""
                     query {{
                       user(login: "{username}") {{
-                        name
-                        bio
-                        location
-                        avatarUrl
-                        url
+                        name bio location avatarUrl url
                         followers {{ totalCount }}
                         following {{ totalCount }}
                         repository(name: "{username}") {{
@@ -97,28 +93,19 @@ class GitHubProfileFetcher:
             }
 
             async with httpx.AsyncClient() as client:
-                graphql_response = await client.post(
+                resp = await client.post(
                     "https://api.github.com/graphql",
-                    headers={
-                        "Authorization": f"Bearer {Settings.get_github_token()}",
-                        "Content-Type": "application/json"
-                    },
+                    headers={"Authorization": f"Bearer {Settings.get_github_token()}", "Content-Type": "application/json"},
                     json=graphql_query
                 )
-                graphql_response.raise_for_status()
+                resp.raise_for_status()
 
-            graphql_data = graphql_response.json().get('data', {}).get('user', {})
+            graphql_data = resp.json().get('data', {}).get('user', {})
             if not graphql_data:
                 raise ValueError(f"User '{username}' not found")
 
-            pr_merged_last_year = sum(
-                1 for pr in graphql_data.get('pullRequests', {}).get('nodes', [])
-                if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt
-            )
-            issues_closed_last_year = sum(
-                1 for issue in graphql_data.get('issues', {}).get('nodes', [])
-                if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt
-            )
+            pr_merged = sum(1 for pr in graphql_data.get('pullRequests', {}).get('nodes', []) if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt)
+            issues_closed = sum(1 for issue in graphql_data.get('issues', {}).get('nodes', []) if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt)
 
             return {
                 'username': username,
@@ -130,18 +117,14 @@ class GitHubProfileFetcher:
                 'followers': graphql_data.get('followers', {}).get('totalCount', 0),
                 'following': graphql_data.get('following', {}).get('totalCount', 0),
                 'public_repos': graphql_data.get('repositories', {}).get('totalCount', 0),
-                'pull_requests_merged': pr_merged_last_year if pr_merged_last_year < 100 else f"{100}+",
-                'issues_closed': issues_closed_last_year if issues_closed_last_year < 100 else f"{100}+",
+                'pull_requests_merged': pr_merged if pr_merged < 100 else f"{100}+",
+                'issues_closed': issues_closed if issues_closed < 100 else f"{100}+",
                 'achievements': {
-                    'total_contributions': graphql_data.get('contributionsCollection', {})
-                                           .get('contributionCalendar', {})
-                                           .get('totalContributions', 0),
-                    'repositories_contributed_to': graphql_data.get('repositoriesContributedTo', {})
-                                                             .get('totalCount', 0),
+                    'total_contributions': graphql_data.get('contributionsCollection', {}).get('contributionCalendar', {}).get('totalContributions', 0),
+                    'repositories_contributed_to': graphql_data.get('repositoriesContributedTo', {}).get('totalCount', 0),
                 },
                 'social_accounts': await GitHubProfileFetcher.social_accounts(username),
-                'readme_content': (graphql_data.get('repository', {}).get('object', {}).get('text', '')
-                                   if graphql_data.get('repository') and graphql_data.get('repository', {}).get('object') else '')
+                'readme_content': graphql_data.get('repository', {}).get('object', {}).get('text', '')
             }
 
         except httpx.HTTPStatusError as e:
@@ -154,8 +137,8 @@ class GitHubProfileFetcher:
             return {"error": "An unexpected error occurred"}
 
     @staticmethod
-    async def social_accounts(username):
-        """Fetch social accounts. Returns list or {"error": "..."} for consistency."""
+    async def social_accounts(username) -> list:
+        """Fetch social accounts. Always returns list (empty on error)."""
         try:
             base_url = f"https://api.github.com/users/{username}/social_accounts"
             async with httpx.AsyncClient() as client:
@@ -171,13 +154,14 @@ class GitHubProfileFetcher:
         except httpx.HTTPStatusError as e:
             if e.response.status_code == 404:
                 return await GitHubProfileFetcher.get_social_from_readme(username)
-            return {"error": f"HTTP Error: {e.response.status_code}"}
+            logger.warning("HTTP error fetching social accounts for %s: %s", username, e)
+            return []
         except Exception as e:
             logger.exception("Unexpected error in social_accounts for user %s", username)
-            return {"error": "Failed to fetch social accounts"}
+            return []
 
     @staticmethod
-    async def get_social_from_readme(username):
+    async def get_social_from_readme(username) -> list:
         """Extract LinkedIn link from README (simplified for reliability)"""
         try:
             url = f"https://api.github.com/repos/{username}/{username}/readme"

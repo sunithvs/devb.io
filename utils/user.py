@@ -26,28 +26,19 @@ async def verify_username(
 ) -> str:
     """Validate GitHub username format and existence"""
     if not await GitHubProfileFetcher.validate_github_username(username):
-        raise HTTPException(
-            status_code=400,
-            detail="Invalid GitHub username. Usernames must be 1-39 characters long and can only contain alphanumeric characters and single hyphens."
-        )
+        raise HTTPException(status_code=400, detail="Invalid GitHub username.")
     return username
 
 
 async def verify_linkedin_username(
     username: Annotated[
         str,
-        Path(
-            min_length=1,
-            pattern=r'^[\w\-]+$'
-        )
+        Path(min_length=1, pattern=r'^[\w\-]+$')
     ]
 ) -> str:
     """Validate LinkedIn username format"""
     if not LinkedInProfileFetcher._validate_linkedin_username(username):
-        raise HTTPException(
-            status_code=400,
-            detail="Invalid LinkedIn username. Username can only contain letters, numbers, and hyphens."
-        )
+        raise HTTPException(status_code=400, detail="Invalid LinkedIn username.")
     return username
 
 
@@ -60,22 +51,15 @@ async def get_user_data(username: str, force: bool = True) -> dict:
         if res.status_code == 200:
             return res.json()
 
-    # Parallel fetch
     profile_data, contributions_data = await asyncio.gather(
         GitHubProfileFetcher.fetch_user_profile(username),
-        asyncio.to_thread(
-            GitHubContributionsFetcher.fetch_recent_contributions,
-            username,
-            Settings.CONTRIBUTION_DAYS
-        )
+        asyncio.to_thread(GitHubContributionsFetcher.fetch_recent_contributions, username, Settings.CONTRIBUTION_DAYS)
     )
 
     if "error" in profile_data:
         return profile_data
 
     ai_generator = AIDescriptionGenerator()
-
-    # Robust parallel AI summaries
     ai_tasks = [asyncio.to_thread(ai_generator.generate_profile_summary, profile_data)]
     if contributions_data:
         ai_tasks.append(asyncio.to_thread(ai_generator.generate_activity_summary, contributions_data))

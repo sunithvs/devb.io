@@ -60,36 +60,36 @@ async def get_user_data(username: str, force: bool = True) -> dict:
         if res.status_code == 200:
             return res.json()
 
-    profile_data = await GitHubProfileFetcher.fetch_user_profile(username)
+    # Parallel fetch profile + contributions
+    profile_data, contributions_data = await asyncio.gather(
+        GitHubProfileFetcher.fetch_user_profile(username),
+        asyncio.to_thread(
+            GitHubContributionsFetcher.fetch_recent_contributions,
+            username,
+            Settings.CONTRIBUTION_DAYS
+        )
+    )
 
     # Early return if GitHub fetch failed
     if "error" in profile_data:
         return profile_data
 
-    contributions_data = await asyncio.to_thread(
-        GitHubContributionsFetcher.fetch_recent_contributions,
-        username,
-        Settings.CONTRIBUTION_DAYS
-    )
-
     ai_generator = AIDescriptionGenerator()
+
+    # Parallel AI summary generation
     try:
-        profile_summary = await asyncio.to_thread(
-            ai_generator.generate_profile_summary, profile_data
+        profile_summary, activity_summary = await asyncio.gather(
+            asyncio.to_thread(ai_generator.generate_profile_summary, profile_data),
+            asyncio.to_thread(ai_generator.generate_activity_summary, contributions_data) if contributions_data else None,
+            return_exceptions=True
         )
     except Exception as e:
-        logger.exception("Failed to generate profile summary for user %s", username)
+        logger.exception("Failed to generate AI summaries for user %s", username)
         profile_summary = None
+        activity_summary = None
 
     if contributions_data:
-        try:
-            activity_summary = await asyncio.to_thread(
-                ai_generator.generate_activity_summary, contributions_data
-            )
-            profile_data['activity_summary'] = activity_summary if activity_summary else {}
-        except Exception as e:
-            logger.exception("Failed to generate activity summary for user %s", username)
-            profile_data['activity_summary'] = {}
+        profile_data['activity_summary'] = activity_summary if activity_summary else {}
 
     profile_data['profile_summary'] = profile_summary
     return profile_data

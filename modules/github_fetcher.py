@@ -62,6 +62,7 @@ class GitHubProfileFetcher:
                 raise ValueError(f"Invalid GitHub username: '{username}'")
 
             one_year_ago = (datetime.now() - timedelta(days=365)).isoformat() + 'Z'
+            one_year_ago_dt = datetime.now() - timedelta(days=365)   # pre-calculated for loops
 
             graphql_query = {
                 "query": f"""
@@ -112,11 +113,11 @@ class GitHubProfileFetcher:
 
             pr_merged_last_year = sum(
                 1 for pr in graphql_data.get('pullRequests', {}).get('nodes', [])
-                if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+                if pr and datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt
             )
             issues_closed_last_year = sum(
                 1 for issue in graphql_data.get('issues', {}).get('nodes', [])
-                if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > datetime.now() - timedelta(days=365)
+                if issue and datetime.strptime(issue['createdAt'], '%Y-%m-%dT%H:%M:%SZ') > one_year_ago_dt
             )
 
             return {

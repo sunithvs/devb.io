@@ -19,7 +19,7 @@ export default function ShareButton({ username }: { username: string }) {
       url: window.location.href,
     };
 
-    if (navigator.share && navigator.canShare(shareData)) {
+    if (navigator.share) {
       try {
         await navigator.share(shareData);
       } catch (err) {

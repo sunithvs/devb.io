@@ -3,6 +3,7 @@ import { Github, Globe, Linkedin, Twitter, User, BookOpen, Instagram } from "luc
 import { ProfileSkeleton } from "@/components/skeletons/profile-skeleton";
 import { addUserToSupabase, getUserProfile } from "@/lib/api";
 import ClientResumeButton from "@/components/ClientResumeButton";
+import ShareButton from "@/components/ShareButton";
 import {
   Tooltip,
   TooltipContent,
@@ -173,6 +174,7 @@ export async function ProfileSection({
                 );
               })}
               <ClientResumeButton username={username} />
+              <ShareButton username={username} />
             </div>
           </div>
 

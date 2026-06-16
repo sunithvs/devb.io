@@ -4,6 +4,7 @@ import "./globals.css";
 import { QueryClientProvider } from "@/providers/CustomQueryClientProvider";
 import Script from "next/script";
 import { Banner } from "@/components/banner";
+import { Toaster } from "sonner";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -72,6 +73,7 @@ export default function RootLayout({
         className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
         <QueryClientProvider>
+          <Toaster position="bottom-center" richColors />
           <Banner />
           {children}
         </QueryClientProvider>

@@ -50,7 +50,7 @@ export default function ShareButton({ username }: { username: string }) {
       <TooltipTrigger asChild>
         <button
           onClick={handleShare}
-          className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border-[1px] border-black hover:bg-[#B9FF66] transition-all duration-300 cursor-pointer"
+          className="group relative w-12 h-12 flex items-center justify-center bg-white rounded-2xl border border-black hover:bg-[#B9FF66] transition-all duration-300 cursor-pointer"
         >
           <span className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300">
             {copied ? (

@@ -37,7 +37,14 @@ class Settings:
         BLACKLISTED_USERS = json.load(f)
 
     BLACKLISTED_USERS = {user.lower() for user in BLACKLISTED_USERS}
-    REDIS_HOST = "redis://redis:6379/0"
+    
+    # Redis configuration
+    REDIS_HOST = os.getenv("REDIS_HOST", "redis")
+    REDIS_PORT = int(os.getenv("REDIS_PORT", "6379"))
+    
+    # CORS configuration
+    CORS_ORIGINS = os.getenv("CORS_ORIGINS", "https://devb.io,https://beta.devb.io,http://localhost:3000,http://localhost:8080").split(",")
+
     API_URL = "https://user.devb.io"
     DEFAULT_CACHE_TTL = 3600 * 24 * 7  # 1 week
     CACHE_ENABLED = os.getenv("CACHE_ENABLED", "true").lower() == "true"

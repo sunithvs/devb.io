@@ -27,7 +27,7 @@ app = FastAPI(
 
 # Initialize Redis client
 if Settings.CACHE_ENABLED:
-    redis_client = redis.Redis(host='redis', port=6379, db=0)
+    redis_client = redis.Redis(host=Settings.REDIS_HOST, port=Settings.REDIS_PORT, db=0)
 
 
 class APIKeyMiddleware(BaseHTTPMiddleware):
@@ -162,17 +162,10 @@ async def fetch_linkedin_profile(username: Annotated[str, Depends(verify_linkedi
 
 
 
-ALLOWED_ORIGINS = [
-    "https://devb.io",
-    "https://beta.devb.io",
-    "http://localhost:3000",  # For local development
-    "http://localhost:8080"
-]
-
 # Add CORS middleware with specific origins
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=ALLOWED_ORIGINS,  # Use the whitelist instead of "*"
+    allow_origins=Settings.CORS_ORIGINS,  # Use the whitelist instead of "*"
     allow_credentials=True,
     allow_methods=["GET", "OPTIONS"],  # Specify allowed methods
     allow_headers=["Authorization", "Content-Type", "X-API-Key"],  # Specify allowed headers

@@ -18,11 +18,16 @@ services:
     image: redis:7.2-alpine
     ports:
       - "6378:6379"
+    volumes:
+      - redis_data:/data
     networks:
       - app-network
 
 networks:
   app-network:
     driver: bridge
+
+volumes:
+  redis_data:
 
 

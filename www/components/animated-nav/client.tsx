@@ -6,6 +6,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { Book, GitFork, Menu, X } from "lucide-react";
 import { useBannerStore } from "@/hooks/banner-store";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export default function AnimatedNavClient() {
   const { data } = useBannerStore();
@@ -25,7 +26,7 @@ export default function AnimatedNavClient() {
   return (
     <motion.nav
       className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 backdrop-blur-md ${
-        isScrolled ? "bg-white/75 shadow-sm" : "bg-transparent"
+        isScrolled ? "bg-white/75 dark:bg-gray-900/75 shadow-sm" : "bg-transparent"
       }
         ${isBannerVisible ? "top-10" : "top-0"}
         `}
@@ -51,7 +52,7 @@ export default function AnimatedNavClient() {
           <div className="hidden md:flex items-center gap-4">
             <Link
               href="https://docs.devb.io"
-              className="flex items-center gap-2 px-4 py-2 text-gray-700 hover:text-black transition-colors rounded-lg hover:bg-black/5"
+              className="flex items-center gap-2 px-4 py-2 text-gray-700 dark:text-gray-200 hover:text-black dark:hover:text-white transition-colors rounded-lg hover:bg-black/5 dark:hover:bg-white/10"
             >
               <Book size={18} />
               <span>Docs</span>
@@ -71,20 +72,24 @@ export default function AnimatedNavClient() {
               href="https://github.com/sunithvs/devb.io/fork"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition-colors"
+              className="flex items-center gap-2 px-4 py-2 bg-black dark:bg-white text-white dark:text-black rounded-lg hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
             >
               <GitFork size={18} />
               <span>Contribute</span>
             </a>
+            <ThemeToggle />
           </div>
 
           {/* Mobile Menu Button */}
-          <button
-            className="md:hidden text-gray-600 hover:text-black transition-colors"
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-          >
-            {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+          <div className="md:hidden flex items-center gap-2">
+            <ThemeToggle />
+            <button
+              className="text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors"
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+            >
+              {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
         </div>
 
         {/* Mobile Menu */}
@@ -100,7 +105,7 @@ export default function AnimatedNavClient() {
           <div className="py-4 space-y-2">
             <Link
               href="/docs"
-              className="flex items-center gap-2 px-4 py-2 text-gray-700 hover:text-black transition-colors rounded-lg hover:bg-black/5"
+              className="flex items-center gap-2 px-4 py-2 text-gray-700 dark:text-gray-200 hover:text-black dark:hover:text-white transition-colors rounded-lg hover:bg-black/5 dark:hover:bg-white/10"
             >
               <Book size={18} />
               <span>Documentation</span>
@@ -119,7 +124,7 @@ export default function AnimatedNavClient() {
               href="https://github.com/sunithvs/devb.io/fork"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition-colors w-fit"
+              className="flex items-center gap-2 px-4 py-2 bg-black dark:bg-white text-white dark:text-black rounded-lg hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors w-fit"
             >
               <GitFork size={18} />
               <span>Contribute</span>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Outfit, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { QueryClientProvider } from "@/providers/CustomQueryClientProvider";
+import { ThemeProvider } from "@/providers/ThemeProvider";
 import Script from "next/script";
 import { Banner } from "@/components/banner";
 
@@ -30,7 +31,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
         <script type="text/javascript"></script>
         <script
@@ -71,10 +72,12 @@ export default function RootLayout({
       <body
         className={`${outfit.variable} ${spaceGrotesk.variable} font-outfit`}
       >
-        <QueryClientProvider>
-          <Banner />
-          {children}
-        </QueryClientProvider>
+        <ThemeProvider>
+          <QueryClientProvider>
+            <Banner />
+            {children}
+          </QueryClientProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

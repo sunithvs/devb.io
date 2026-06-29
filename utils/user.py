@@ -74,6 +74,6 @@ def get_user_data(username, force=True):
         profile_data['activity_summary'] = activity_summary if activity_summary else {}
 
     # Add summaries to profile data
-    profile_data['profile_summary'] = profile_summary
+    profile_data['profile_summary'] = profile_summary['about']
 
     return profile_data

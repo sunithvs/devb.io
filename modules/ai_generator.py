@@ -12,71 +12,6 @@ class AIDescriptionGenerator:
         """Initialize Groq client"""
         self.client = Groq(api_key=Settings.get_groq_key())
 
-    def generate_seo_contents(self, profile_data: dict):
-        """
-        Generate a professional SEO-optimized profile content like title, description, keywords
-
-        Args:
-            profile_data (dict): GitHub user profile data
-
-        Returns:
-            dict: AI-generated SEO-optimized profile content
-        """
-        prompt = (
-            "Generate a concise, professional, and SEO-optimized profile snippet for a developer profile page."
-            "\n\nReturn the output strictly in the following JSON format (without any additional commentary):"
-            '\n{\n  "title": "<Max 10 words. Format: FirstName (@username). Role passionate about [what they do]>",'
-            '\n  "description": "<Max 30 words (120–160 characters). Meta-style description that highlights skills and invites engagement>",'
-            '\n  "keywords": "<8–15 comma-separated keywords or phrases. Focus on Next.js-related terms, long-tail SEO phrases, and specific skills>"\n}'
-            "\n\nUse this input data to personalize the content, handling missing or empty fields gracefully:"
-            f"\n- Name: {profile_data.get('name', 'Anonymous Developer')}"
-            f"\n- Username: {profile_data.get('username', 'username')}"
-            f"\n- Followers: {profile_data.get('followers', 0)} (highlight if over 500)"
-            f"\n- Public Repositories: {profile_data.get('public_repos', 0)} (highlight if over 20)"
-            f"\n- Bio: {profile_data.get('bio', '')} (infer core skills or passions)"
-            f"\n- README: {profile_data.get('readme_content', '')} (extract unique traits or standout projects)"
-            "\n\nIf data is sparse, infer likely skills or focus areas. Avoid filler or generic phrases. Prioritize precision and clarity."
-        )
-
-        response = self.client.chat.completions.create(
-            messages=[
-                {
-                    "role": "system",
-                    "content": "You are an SEO-optimized profile content generator for developer portfolios and GitHub profiles. Create search engine friendly, professional profile summaries that enhance discoverability and professional presence. Generate content in natural paragraph format without headings, lists, or bullet points. Focus on keyword integration, meta-friendly descriptions, and compelling copy that drives engagement and showcases technical expertise effectively. Your output should be properly formatted JSON when requested, with each field containing well-crafted, SEO-optimized content.",
-                },
-                {"role": "user", "content": prompt},
-            ],
-            model="llama-3.1-8b-instant",
-            response_format={"type": "json_object"},
-        )
-        if not response.choices or response.choices[0].message.content == "":
-            raise Exception("No response from AI model")
-        try:
-            result = json.loads(response.choices[0].message.content)
-        except json.JSONDecodeError as e:
-            raise Exception(f"AI response was not valid JSON. Content: {response.choices[0].message.content}") from e
-
-        title = result["title"]
-        description = result["description"]
-        keywords = result["keywords"]
-
-        if not (title and description and keywords):
-            missing = []
-            if not title:
-                missing.append("title")
-            if not description:
-                missing.append("description")
-            if not keywords:
-                missing.append("keywords")
-            raise Exception(
-                f"AI response missing required SEO fields: {', '.join(missing)}. Received: {result}"
-            )
-        return {
-            "title": title,
-            "description": description,
-            "keywords": keywords,
-        }
-
     def generate_profile_summary(self, profile_data):
         """
         Generate a professional profile summary
@@ -88,20 +23,24 @@ class AIDescriptionGenerator:
             str: AI-generated profile summary
         """
         prompt = (
-            "Write only the final profile summary text — no introductions, no explanations, and no meta sentences."
-            "\nCraft a Concise, SEO-optimized first-person profile description that:"
-            "\n- Highlights the developer's strongest technical skills and expertise"
-            "\n- Concise and on to the point"
-            "\n- Uses simple, direct language without excessive superlatives"
-            "\n- Incorporates unique details from the profile, bio and readme.md (if available)"
-            "\n- Limits the bio to 2-3 sentences"
-            "\n\nProfile Details:"
-            f"\nName: {profile_data['name']}"
-            f"\n- Followers: {profile_data['followers']} (indicating professional network and influence)"
-            f"\n- Public Repositories: {profile_data['public_repos']} (demonstrating active development)"
-            f"\n- Bio: {profile_data['bio']}"
-            "\n\nGenerate a short, engaging summary."
-            f"\n- README: {profile_data['readme_content']}"
+            "Generate a valid JSON developer profile. Return ONLY the JSON object—no commentary, markdown, or prefixes.\n"
+            "\nOUTPUT FORMAT:\n"
+            "{\n \"about\": \"<4-6 sentence first-person summary>\",\n  \"seo\": {\n    \"title\": \"<Max 10 words: FirstName (@username). Role passionate about [focus]>\",\n    \"description\": \"<120-160 char SEO meta highlighting key skills>\",\n    \"keywords\": \"<8-15 comma-separated keywords: Next.js, long-tail dev terms, specific skills>\"\n  }\n}\n"
+            "\nRULES:\n"
+            "- All keys required. Use empty strings if data missing—never null\n"
+            "- Never alter structure or add fields\n"
+            "- About: First-person, 4-6 sentences, developer's strongest technical skills and expertise, no superlatives\n"
+            "- SEO title: Max 10 words, follow format\n"
+            "- SEO description: 120-160 chars\n"
+            "- Keywords: 8-15 SEO phrases (Next.js, frameworks, inferred skills)\n"
+            "- Infer conservatively if data sparse\n"
+            "\nPROFILE DATA:\n"
+            f"Name: {profile_data.get('name', '')}\n"
+            f"Username: {profile_data.get('username', '')}\n"
+            f"Followers: {profile_data.get('followers', '')}\n"
+            f"Public Repos: {profile_data.get('public_repos', '')}\n"
+            f"Bio: {profile_data.get('bio', '')}\n"
+            f"README: {profile_data.get('readme_content', '')}"
         )
 
         response = self.client.chat.completions.create(
@@ -117,7 +56,7 @@ class AIDescriptionGenerator:
         if not response.choices or response.choices[0].message.content == "":
             raise Exception("No response from AI model")
 
-        return response.choices[0].message.content
+        return json.loads(response.choices[0].message.content)
 
     def generate_activity_summary(self, contributions):
         """

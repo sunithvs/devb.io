@@ -51,7 +51,7 @@ devb.io is an innovative platform that automatically generates professional deve
    ```
 4. **Run the Application:**
    ```bash
-   uvicorn main:app --reload
+   uvicorn api.main:app --reload --port 8000
    ```
 
 ## 🌱 Environment Setup
